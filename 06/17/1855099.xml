@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Molly Krause, Edward Fienning</title>
+    <meta content="17KRAUSE" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17KRAUSE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855099"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Krause, Mary Alice (Mary Alice Fienning)</person>
+        <person class="indexing_service">Fienning, to First Lt. Edward Baldwin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DB153FF934A25755C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Molly Krause, Edward Fienning</hl1>
+        <hl2 class="online_headline">Molly Krause, Edward Fienning</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary Alice Krause, a daughter of Alice and Peter C. Krause of New York, was married yesterday to First Lt. Edward Baldwin Fienning, a son of Suzanne and Charles E. Fienning of Sumter, S.C. The Rev. Edward W. Fitzgerald officiated at St. Mary of the Annunciation Roman Catholic Church in Charleston, S.C.</p>
+        <p>The bride, 27, and the bridegroom, 28, met at Harvard, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mary Alice Krause, a daughter of Alice and Peter C. Krause of New York, was married yesterday to First Lt. Edward Baldwin Fienning, a son of Suzanne and Charles E. Fienning of Sumter, S.C. The Rev. Edward W. Fitzgerald officiated at St. Mary of the Annunciation Roman Catholic Church in Charleston, S.C.</p>
+      </block>
+      <block class="full_text">
+        <p>Mary Alice Krause, a daughter of Alice and Peter C. Krause of New York, was married yesterday to First Lt. Edward Baldwin Fienning, a son of Suzanne and Charles E. Fienning of Sumter, S.C. The Rev. Edward W. Fitzgerald officiated at St. Mary of the Annunciation Roman Catholic Church in Charleston, S.C.</p>
+        <p>The bride, 27, and the bridegroom, 28, met at Harvard, from which they graduated.</p>
+        <p>Mrs. Fienning, who is known as Molly, in August is to become a commercial agent at Lowcountry Real Estate in Beaufort, S.C.</p>
+        <p>Her father is a managing director at Greenhill &amp; Company, an investment banking concern in New York, and is the chairman of the Barrow Street Real Estate Funds. Her mother writes a blog, newsonwomen.com, about women's achievements in business, science and technology, education and the arts.</p>
+        <p>Lieutenant Fienning is a Marine fighter pilot at the Oceana Naval Air Station in Virginia Beach with the VFA-106 squadron, a joint Navy and Marine F/A-18 unit that trains new pilots. Next month he is to be stationed at the air station in Beaufort.</p>
+        <p>His mother is a wedding coordinator in Sumter and his father is the president of Sumter Packaging Corporation, which makes corrugated boxes.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

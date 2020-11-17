@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-Westport Official Nominated for Bank</title>
+    <meta content="10weekctCN" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853588"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Export-Import Bank of US</org>
+        <person class="indexing_service">Farrell, Diane</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Silverman, Fran</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E5DD1F30F933A25755C0A9619C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-Westport Official Nominated for Bank</hl1>
+      </hedline>
+      <byline class="print_byline">By FRAN SILVERMAN</byline>
+      <byline class="normalized_byline">Silverman, Fran</byline>
+      <abstract>
+        <p>Diane Farrell, Democrat from Westport, Conn, is nominated by Pres Bush to serve on board of Export-Import Bank of the US; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Diane G. Farrell, a Democrat from Westport who lost two close races to Representative Christopher Shays, has been nominated by President Bush to serve on the board of the Export-Import Bank of the United States.</p>
+        <p>Ms. Farrell, whose aggressive campaigns captured national attention, said she had spent the last few months being vetted for the director's post at the bank. If confirmed by Congress, Ms. Farrell will serve out the term vacated by Max Cleland, the former Democratic senator from Georgia. The term expires on Jan. 20, 2011.</p>
+      </block>
+      <block class="full_text">
+        <p>Diane G. Farrell, a Democrat from Westport who lost two close races to Representative Christopher Shays, has been nominated by President Bush to serve on the board of the Export-Import Bank of the United States.</p>
+        <p>Ms. Farrell, whose aggressive campaigns captured national attention, said she had spent the last few months being vetted for the director's post at the bank. If confirmed by Congress, Ms. Farrell will serve out the term vacated by Max Cleland, the former Democratic senator from Georgia. The term expires on Jan. 20, 2011.</p>
+        <p>The 70-year-old Washington bank helps finance the export of domestic goods and services to global markets. Its board is made up of three Republicans and two Democrats.</p>
+        <p>Ms. Farrell, a former first selectwoman in Westport who also served on the town's Board of Finance, said her background in finance and marketing would help her in her new position, which pays $145,000 a year.</p>
+        <p>''It's a real convergence of my professional and business career,'' Ms. Farrell said.</p>
+        <p>Ms. Farrell said that Senator Christopher J. Dodd approached her in January about the position at the bank. Senator Dodd is chairman of the Senate Banking Committee, which will vote on her nomination. Ms. Farrell has called Senator Dodd a mentor and is supporting him in his presidential campaign.</p>
+        <p>In a statement, Senator Dodd said Ms. Farrell would be ''a tireless fighter for America's exporters.''</p>
+        <p>Ms. Farrell said she had ruled out another run for Congress in 2008 against Representative Shays, a Republican in his 10th term.</p>
+        <p>''I believe you are a much more attractive candidate when you are not a perennial candidate,'' Ms. Farrell said. ''For me, it's always been about service, and I'm eager to get back to work.''</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

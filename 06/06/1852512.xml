@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY IN BUSINESS</title>
+    <meta content="06biztoday" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852512"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DE1E30F935A35755C0A9619C8B63" item-length="875" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY IN BUSINESS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DISPUTE OVER AVANDIA STUDY -- GlaxoSmithKline says that preliminary results of a clinical trial provide reassurance that Avandia, its treatment for diabetes, does not raise the risk of a heart attack. But influential doctors argued that the data did nothing to alleviate their concerns about the drug's heart risks. [Page A1.]</p>
+        <p>GlaxoSmithKline won praise when it focused on African-Americans in marketing Avandia. But now that Avandia is dogged by safety questions, Glaxo's advertising strategy could end up working against the company. Advertising. [C1.]</p>
+        <p>PLAYING AT HOME -- Chatting with friends and playing with dolls, all via the Internet -- millions of children and adolescents are spending hours on interactive play sites, which are aimed mainly at girls. [C1.]</p>
+        <p>TIPTOEING INTO U.S. MARKET -- Britain's largest retailer, Tesco, is finally ready to enter the American market, beginning with a relatively modest string of neighborhood convenience stores called Fresh and Easy, in Los Angeles, Phoenix, Las Vegas and San Diego. [C1.]</p>
+        <p>EBAY SELLING RADIO AIRTIME -- The auction giant eBay said it would begin selling radio airtime to advertisers starting Wednesday, expanding into a business that Google entered last year. [C3.]</p>
+        <p>IN A SELLING MOOD -- Signs mounted that Federal Reserve is in no hurry to lower interest rates, leading to a sell-off in the markets. [C3.]</p>
+        <p>The stock market posted its first decline in a week after bond yields surged to a nine-month high. [C11.]</p>
+        <p>F.T.C. ACTS TO BLOCK MERGER -- The Federal Trade Commission said that it would file a legal complaint today to block the proposed merger of Wild Oats Markets and Whole Foods Market, arguing that the deal would lead to higher prices for natural and organic products in markets where the two chains now compete. [C1.]</p>
+        <p>MANURE PLANT GENERATES DEBATE -- Tons of turkey manure and a new $200 million power plant that burns the manure to produce electricity can be found in Benton, Minn. The power plant is the first of its kind in the country, but it is also the target of environmentalists who question the earth-friendliness of the operation. [A1.]</p>
+        <p>MEDIA COMPETITION IN MEXICO -- Mexico's Supreme Court struck down crucial provisions of a media law, in a defeat for Mexico's television duopoly that sends a message favoring greater economic competition. [C2.]</p>
+        <p>MARKETS THAT ARE QUICK TO REACT -- The Chinese government is learning the dangers of intervening in stock markets, as policy shifts by the government and even speculation of policy shifts have led to sharp swings in share prices on the Shanghai and Shenzhen stock markets. [C9.]</p>
+        <p>WAGONER URGES PATIENCE -- Rick Wagoner, the chairman and chief executive of General Motors, faced more than two hours of criticism from shareholders at the annual meeting, but he countered that the company had made major progress in turning around its fortunes last year. ''We're taking the profound actions necessary to transform the company for the long haul,'' Mr. Wagoner, above, said. Shareholders expressed their frustration. ''We've done turnarounds so many times we're going in circles,'' said one. [C5.]</p>
+        <p>HBO'S NEW LINEUP -- HBO announced a new lineup of four top corporate officers to succeed Chris Albrecht, the chief executive who resigned last month. The group will be led by Bill Nelson as the chairman and chief executive. [C3.]</p>
+        <p>DOW JONES WORKERS SEEK BUYER -- The main union of the Dow Jones &amp; Company employees, hoping to head off a takeover by Rupert Murdoch, is shopping around for another bidder and has begun talks with aides to Ronald W. Burkle, a California billionaire, union officials and others said. [C4.]</p>
+        <p>ENTICING SHOPPERS IN MAINE -- Freeport, Me., recently approved the development of a $45 million open-air pedestrian-friendly ''lifestyle center,'' basically a shopping center without walls, to help keep pace with retailers moving into nearby cities in Maine. [C7.]</p>
+        <p>SERVICE INDUSTRY GROWING -- Service businesses, which make up almost 90 percent of the economy, expanded at an unexpectedly high rate last month, a sign the economy is strengthening. [C3.]</p>
+        <p>HE OWNS THE HOTEL -- Laurence S. Geller, the chief executive of Strategic Hotels and Resorts, a real estate investment trust that owns 20 high-end hotels in North America and Europe, represents a new breed of hands-on owners who push managers to wring more profit out of their assets. [C6.]</p>
+        <p>$29 MILLION IN RESTITUTION TO CA -- A former sales chief at CA, the software maker, has agreed to pay $29.7 million in restitution after pleading guilty last year to criminal charges in a scheme to raise the company's quarterly revenue artificially through backdated sales contracts.[C3.]</p>
+        <p>ONLINE</p>
+        <p>I.B.M. SETTLES WITH S.E.C. -- The Securities and Exchange Commission said yesterday that I.B.M. had settled a case in which it had been accused of misleading investors by overestimating the impact of stock-based compensation expenses on quarterly earnings in 2005. (REUTERS)</p>
+        <p>ANOTHER BCE BIDDER -- BCE, the parent of Canada's largest telecommunications company, confirmed that its suitors in takeover talks include the Ontario Teachers' Pension Plan and its American partner Providence Equity Partners.The announcement expands the number of potential bidders to three. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>DISPUTE OVER AVANDIA STUDY -- GlaxoSmithKline says that preliminary results of a clinical trial provide reassurance that Avandia, its treatment for diabetes, does not raise the risk of a heart attack. But influential doctors argued that the data did nothing to alleviate their concerns about the drug's heart risks. [Page A1.]</p>
+        <p>GlaxoSmithKline won praise when it focused on African-Americans in marketing Avandia. But now that Avandia is dogged by safety questions, Glaxo's advertising strategy could end up working against the company. Advertising. [C1.]</p>
+        <p>PLAYING AT HOME -- Chatting with friends and playing with dolls, all via the Internet -- millions of children and adolescents are spending hours on interactive play sites, which are aimed mainly at girls. [C1.]</p>
+        <p>TIPTOEING INTO U.S. MARKET -- Britain's largest retailer, Tesco, is finally ready to enter the American market, beginning with a relatively modest string of neighborhood convenience stores called Fresh and Easy, in Los Angeles, Phoenix, Las Vegas and San Diego. [C1.]</p>
+        <p>EBAY SELLING RADIO AIRTIME -- The auction giant eBay said it would begin selling radio airtime to advertisers starting Wednesday, expanding into a business that Google entered last year. [C3.]</p>
+        <p>IN A SELLING MOOD -- Signs mounted that Federal Reserve is in no hurry to lower interest rates, leading to a sell-off in the markets. [C3.]</p>
+        <p>The stock market posted its first decline in a week after bond yields surged to a nine-month high. [C11.]</p>
+        <p>F.T.C. ACTS TO BLOCK MERGER -- The Federal Trade Commission said that it would file a legal complaint today to block the proposed merger of Wild Oats Markets and Whole Foods Market, arguing that the deal would lead to higher prices for natural and organic products in markets where the two chains now compete. [C1.]</p>
+        <p>MANURE PLANT GENERATES DEBATE -- Tons of turkey manure and a new $200 million power plant that burns the manure to produce electricity can be found in Benton, Minn. The power plant is the first of its kind in the country, but it is also the target of environmentalists who question the earth-friendliness of the operation. [A1.]</p>
+        <p>MEDIA COMPETITION IN MEXICO -- Mexico's Supreme Court struck down crucial provisions of a media law, in a defeat for Mexico's television duopoly that sends a message favoring greater economic competition. [C2.]</p>
+        <p>MARKETS THAT ARE QUICK TO REACT -- The Chinese government is learning the dangers of intervening in stock markets, as policy shifts by the government and even speculation of policy shifts have led to sharp swings in share prices on the Shanghai and Shenzhen stock markets. [C9.]</p>
+        <p>WAGONER URGES PATIENCE -- Rick Wagoner, the chairman and chief executive of General Motors, faced more than two hours of criticism from shareholders at the annual meeting, but he countered that the company had made major progress in turning around its fortunes last year. ''We're taking the profound actions necessary to transform the company for the long haul,'' Mr. Wagoner, above, said. Shareholders expressed their frustration. ''We've done turnarounds so many times we're going in circles,'' said one. [C5.]</p>
+        <p>HBO'S NEW LINEUP -- HBO announced a new lineup of four top corporate officers to succeed Chris Albrecht, the chief executive who resigned last month. The group will be led by Bill Nelson as the chairman and chief executive. [C3.]</p>
+        <p>DOW JONES WORKERS SEEK BUYER -- The main union of the Dow Jones &amp; Company employees, hoping to head off a takeover by Rupert Murdoch, is shopping around for another bidder and has begun talks with aides to Ronald W. Burkle, a California billionaire, union officials and others said. [C4.]</p>
+        <p>ENTICING SHOPPERS IN MAINE -- Freeport, Me., recently approved the development of a $45 million open-air pedestrian-friendly ''lifestyle center,'' basically a shopping center without walls, to help keep pace with retailers moving into nearby cities in Maine. [C7.]</p>
+        <p>SERVICE INDUSTRY GROWING -- Service businesses, which make up almost 90 percent of the economy, expanded at an unexpectedly high rate last month, a sign the economy is strengthening. [C3.]</p>
+        <p>HE OWNS THE HOTEL -- Laurence S. Geller, the chief executive of Strategic Hotels and Resorts, a real estate investment trust that owns 20 high-end hotels in North America and Europe, represents a new breed of hands-on owners who push managers to wring more profit out of their assets. [C6.]</p>
+        <p>$29 MILLION IN RESTITUTION TO CA -- A former sales chief at CA, the software maker, has agreed to pay $29.7 million in restitution after pleading guilty last year to criminal charges in a scheme to raise the company's quarterly revenue artificially through backdated sales contracts.[C3.]</p>
+        <p>ONLINE</p>
+        <p>I.B.M. SETTLES WITH S.E.C. -- The Securities and Exchange Commission said yesterday that I.B.M. had settled a case in which it had been accused of misleading investors by overestimating the impact of stock-based compensation expenses on quarterly earnings in 2005. (REUTERS)</p>
+        <p>ANOTHER BCE BIDDER -- BCE, the parent of Canada's largest telecommunications company, confirmed that its suitors in takeover talks include the Ontario Teachers' Pension Plan and its American partner Providence Equity Partners.The announcement expands the number of potential bidders to three. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

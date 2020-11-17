@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Man Shot And Killed In Street</title>
+    <meta content="11mbrfs-4" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853857"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E7DC173FF932A25755C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Man Shot And Killed In Street</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Brooklyn man was fatally shot shortly after 11 a.m. yesterday in a fight on the street in Bushwick, the authorities said. Acquaintances identified the man as Jose Torres, who they said was in his early 20s. He was pronounced dead at the scene, near the corner of Stanhope Street and Wyckoff Avenue, where, a witness said, he had been shot several times. The witness, who declined to be identified by name, said that Mr. Torres was riding his bicycle when he was approached by the other man. When Mr. Torres got off the bicycle and began fighting, the other man pulled out a gun and fired, the witness said. The police arrested Adrian Aguiliar, 30, of Brooklyn and charged him with murder and criminal possession of a weapon.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+      <block class="full_text">
+        <p>A Brooklyn man was fatally shot shortly after 11 a.m. yesterday in a fight on the street in Bushwick, the authorities said. Acquaintances identified the man as Jose Torres, who they said was in his early 20s. He was pronounced dead at the scene, near the corner of Stanhope Street and Wyckoff Avenue, where, a witness said, he had been shot several times. The witness, who declined to be identified by name, said that Mr. Torres was riding his bicycle when he was approached by the other man. When Mr. Torres got off the bicycle and began fighting, the other man pulled out a gun and fired, the witness said. The police arrested Adrian Aguiliar, 30, of Brooklyn and charged him with murder and criminal possession of a weapon.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

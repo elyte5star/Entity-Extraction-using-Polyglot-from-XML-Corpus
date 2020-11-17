@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some Buyers Grow Web-Weary, And Online Sales Lose Steam</title>
+    <meta content="17ecom" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/technology/17ecom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <org class="indexing_service">Dell Computer Corp</org>
+        <org class="indexing_service">Wal-Mart Stores Inc</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFDE123FF934A25755C0A9619C8B63" item-length="1207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some Buyers Grow Web-Weary, And Online Sales Lose Steam</hl1>
+        <hl2 class="online_headline">Online Sales Lose Steam</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL and BOB TEDESCHI; Matt Richtel reported from San Francisco. Bob Tedeschi reported from Guilford, Conn.</byline>
+      <byline class="normalized_byline">Tedeschi, Bob; Richtel, Matt</byline>
+      <dateline>SAN FRANCISCO, June 16</dateline>
+      <abstract>
+        <p>Online retailing has slowed sharply in last year; analysts say it is turning point and growth will continue to slow through decade; reaction to trend is apparent at Dell Computer Inc, which many had regarded as having mastered science of selling computers online, but is now putting PCs in Wal-Mart stores; sales on Internet are expected to reach $116 billion in 2007, or 5 percent of all retail sales, making it harder to maintain same high growth rates; consumers seem to be experiencing Internet fatigue and are changing their buying habits; graphs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Has online retailing entered the Dot Calm era?</p>
+        <p>Since the inception of the Web, online commerce has enjoyed hypergrowth, with annual sales increasing more than 25 percent over all, and far more rapidly in many categories. But in the last year, growth has slowed sharply in major sectors like books, tickets and office supplies.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Online commerce has enjoyed hypergrowth, but now that growth has slowed sharply.</p>
+      </block>
+      <block class="full_text">
+        <p>Has online retailing entered the Dot Calm era?</p>
+        <p>Since the inception of the Web, online commerce has enjoyed hypergrowth, with annual sales increasing more than 25 percent over all, and far more rapidly in many categories. But in the last year, growth has slowed sharply in major sectors like books, tickets and office supplies.</p>
+        <p>Growth in online sales has also dropped dramatically in diverse categories like health and beauty products, computer peripherals and pet supplies. Analysts say it is a turning point and growth will continue to slow through the decade.</p>
+        <p>The reaction to the trend is apparent at Dell, which many had regarded as having mastered the science of selling computers online, but is now putting its PCs in Wal-Mart stores. Expedia has almost tripled the number of travel ticketing kiosks it puts in hotel lobbies and other places that attract tourists.</p>
+        <p>The slowdown is a result of several forces. Sales on the Internet are expected to reach $116 billion this year, or 5 percent of all retail sales, making it harder to maintain the same high growth rates. At the same time, consumers seem to be experiencing Internet fatigue and are changing their buying habits.</p>
+        <p>John Johnson, 53, who sells medical products to drug stores and lives in San Francisco, finds that retailers have livened up their stores to be more alluring.</p>
+        <p>''They're working a lot harder,'' he said as he shopped at Book Passage in downtown San Francisco. ''They're not as stuffy. The lighting is better. You don't get someone behind the counter who's been there 40 years. They're younger and hipper and much more with it.''</p>
+        <p>He and his wife, Liz Hauer, 51, a Macy's executive, also shop online, but mostly for gifts or items that need to be shipped. They said they found that the experience could be tedious at times. ''Online, it's much more of a task,'' she said. Still, Internet commerce is growing at a pace that traditional merchants would envy. But online sales are not growing as fast as they were even 18 months ago.</p>
+        <p>Forrester Research, a market research company, projects that online book sales will rise 11 percent this year, compared with nearly 40 percent last year. Apparel sales, which increased 61 percent last year, are expected to slow to 21 percent. And sales of pet supplies are on pace to rise 30 percent this year after climbing 81 percent last year.</p>
+        <p>Growth rates for online sales are slowing down in numerous other segments as well, including appliances, sporting goods, auto parts, computer peripherals, and even music and videos. Forrester says that sales growth is pulling back in 18 of the 24 categories it measures.</p>
+        <p>Jupiter Research, another market research firm, says the growth rate has peaked. It projects that overall online sales growth will slow to 9 percent a year by the end of the decade from as much as 25 percent in 2004.</p>
+        <p>Early financial results from e-commerce companies bear out the trend. EBay reported that revenue from Web site sales increased by just 1 percent in the first three months of this year compared with the same period last year. Bookings from Expedia's North American Web sites rose by only 1 percent in the first quarter of this year. And Dell said that revenue in the Americas -- United States, Canada and Latin America -- for the three months ended May 4 was $8.9 billion, or nearly unchanged from the same period last year.</p>
+        <p>''There's a recognition that some customers like a more interactive experience,'' said Alex Gruzen, senior vice president for consumer products at Dell. ''They like shopping and they want to go retail.''</p>
+        <p>The turning point comes as most adult Americans, and many of their children, are already shopping online.</p>
+        <p>Analysts project that by 2011, online sales will account for nearly 7 percent of overall retail sales, though categories like computer hardware and software generate more than 40 percent of their sales on the Internet.</p>
+        <p>There are other factors at work as well, including a push by companies like Apple, Starbucks and the big shopping malls to make the in-store experience more compelling.</p>
+        <p>Nancy F. Koehn, a professor at Harvard Business School who studies retailing and consumer habits, said that the leveling off of e-commerce reflected the practical and psychological limitations of shopping online. She said that as physical stores have made the in-person buying experience more pleasurable, online stores have continued to give shoppers a blasé experience. In addition, online shopping, because it involves a computer, feels like work.</p>
+        <p>''It's not like you go onto Amazon and think: 'I'm a little depressed. I'll go onto this site and get transported,' '' she said, noting that online shopping is more a chore than an escape.</p>
+        <p>But Ms. Koehn and others say that online shopping is running into practical problems, too. For one, Ms. Koehn noted, online sellers have been steadily raising their shipping fees to bolster profits or make up for their low prices.</p>
+        <p>In response, a so-called clicks-and-bricks hybrid model is emerging, said Dan Whaley, the founder of GetThere, which became one of the largest Internet travel businesses after it was acquired by Sabre Holdings.</p>
+        <p>The bookseller Borders, for example, recently revamped its Web site to allow users to reserve books online and pick them up in the store. Similar services were started by companies like Best Buy and Sears. Other retailers are working to follow suit.</p>
+        <p>''You don't realize how powerful of a phenomenon this new strategy has become,'' Mr. Whaley said. ''Nearly every big box retailer is opening it up.''</p>
+        <p>Barnes &amp; Noble recently upgraded its site to include online book clubs, reader forums and interviews with authors. The company hopes the changes will make the online world feel more like the offline one, said Marie J. Toulantis, the chief executive of BarnesandNoble.com. ''We emulate the in-store experience by having a book club online,'' she said.</p>
+        <p>The retailers that have started in-store pickup programs, like Sears and REI, have found that customers who choose the hybrid model are more likely to buy additional products when they pick up their items, said Patti Freeman Evans, an analyst at Jupiter Research.</p>
+        <p>Consumers are generally not committed to one form of buying over the other. Maggie Hake, 21, a recent college graduate heading to Africa in the fall to join the Peace Corps, said that when she needs to buy something for her Macintosh computer, she prefers visiting a store. ''I trust it more,'' she said. ''I want to be sure there's a person there if something goes wrong.''</p>
+        <p>Ms. Hake, who lives in Kentfield, Calif., just north of San Francisco, does like shopping online for certain things, particularly shoes, which are hard to find in her size. ''I've got big feet -- size 12.5 in women's,'' she said. ''I also buy textbooks online. They're cheaper.''</p>
+        <p>John Morgan, an economics professor from the Haas School of Business at the University of California, Berkeley, said he expected online commerce to continue to increase, partly because it remains less than 1 percent of the overall economy. ''There's still a lot of head room for people to grow,'' he said.</p>
+        <p>Correction:  June 26, 2007, Tuesday  A front-page article on June 17 about slowing growth in online retail sales referred incorrectly to plans by the bookseller Borders to revamp its Web site so customers can reserve books online, then pick them up in the store. That service will be offered in the next version of the company's primary Web site, borders.com; it is not available now.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

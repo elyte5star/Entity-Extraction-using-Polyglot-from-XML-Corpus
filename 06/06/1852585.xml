@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="06roun-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/theater/reviews/06rose.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852585"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Theater Review | 'Rosebud: The Lives of Orson Welles'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Brits Off Broadway Festival</classifier>
+        <person class="indexing_service">Bellafante, Ginia</person>
+        <person class="indexing_service">Jenkins, Mark</person>
+        <person class="indexing_service">McKay, Christian</person>
+        <object.title class="indexing_service">Rosebud (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <object.title class="online_producer">Rosebud (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6DC1E30F935A35755C0A9619C8B63" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+        <hl2 class="online_headline">Finding Room for an Actor Fit for the Stage</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+      <byline class="normalized_byline">Bellafante, Ginia</byline>
+      <abstract>
+        <p>Ginia Bellafante reviews Rosebud, one-man show written by Mark Jenkins and starring Christian McKay; show is part of Brits Off Broadway Festival; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rosebud  The Lives of Orson Welles  59E59 Theaters  59 East 59th Street, near Park Avenue  (212) 279-4200  Through Sunday</p>
+        <p>When Christian McKay appears on stage in ''Rosebud: The Lives of Orson Welles,'' one wonders if the casting session took any longer than the time it would to drink a glass of ice water on a hot day. What nature hasn't already bestowed on him in Wellesian aura and appearance, he meticulously affects. The jowls, the quizzical eyes and sonorous baritone: Mr. McKay is Welles to the soles of his feet, annunciating every word as if the future of proper diction depended on him. There are no girdles here. Mr. McKay lets out his gut (or a quite good facsimile of one), stretching the buttonholes on the fly of his trousers to maximum capacity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The whole Wellesian legend is simply too much for a presentation like Mark Jenkins’s one-man show.</p>
+      </block>
+      <block class="full_text">
+        <p>Rosebud  The Lives of Orson Welles  59E59 Theaters  59 East 59th Street, near Park Avenue  (212) 279-4200  Through Sunday</p>
+        <p>When Christian McKay appears on stage in ''Rosebud: The Lives of Orson Welles,'' one wonders if the casting session took any longer than the time it would to drink a glass of ice water on a hot day. What nature hasn't already bestowed on him in Wellesian aura and appearance, he meticulously affects. The jowls, the quizzical eyes and sonorous baritone: Mr. McKay is Welles to the soles of his feet, annunciating every word as if the future of proper diction depended on him. There are no girdles here. Mr. McKay lets out his gut (or a quite good facsimile of one), stretching the buttonholes on the fly of his trousers to maximum capacity.</p>
+        <p>''Rosebud,'' a one-man show written by Mark Jenkins, is part of the Brits Off Broadway festival at the 59E59 Theaters and it has been staged in that complex's smallest space. Mr. McKay perhaps deserved better. His presence is simply too big for it; he seems a bear dancing in an alcove.</p>
+        <p>But then the whole Wellesian legend is simply too much for a presentation like this one. Mr. Jenkins approaches his play as synoptic biography, telling the story of Welles's life as if he were playing a xylophone, hitting all the bars from highest to lowest. He settles nowhere for very long, gliding right through Welles's wreck of a relationship to Rita Hayworth (''Married by September 1943 -- they call us 'Beauty and the Brain.' We have a child, Rebecca, 1944, and separate in '45 .'') This is a bit like speaking of Donald and Ivana Trump as two fine souls who loved once and lost.</p>
+        <p>The grand successes and loud miseries of Welles's life -- the childhood genius, his exquisite adaptations of Shakespeare, the feud with William Randolph Hearst over ''Citizen Kane,'' the slashing of ''The Magnificent Ambersons,'' the Paul Masson wine years -- are too well known for this kind of treatment. What Mr. Jenkins really wanted to do, it seems, is write a book.</p>
+        <p>GINIA BELLAFANTE</p>
+        <p>Theater Review | 'Rosebud: The Lives of Orson Welles'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

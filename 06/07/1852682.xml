@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROOM TO IMPROVE</title>
+    <meta content="07room" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/garden/07room.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852682"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="descriptor">Fountains</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fountains</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E4D91E30F934A35755C0A9619C8B63" item-length="587" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROOM TO IMPROVE</hl1>
+        <hl2 class="online_headline">Room to Improve</hl2>
+      </hedline>
+      <byline class="print_byline">By Stephen Milioti</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I envy my neighbor's elegant backyard waterfall. How can I install one?</p>
+        <p>A. Don't despair. Whether you covet an elaborate waterfall that runs into a pool or a stand-alone fountain, you can achieve an elegant effect by following some simple guidelines.</p>
+        <p>First, keep it natural. ''The best exterior water features look like they're organically connected to nature, and a key to achieving that is by using materials found in nature,'' said Joan Grabel, a Los Angeles-based landscape designer and the owner of Park Slope Design (parkslopedesign.net). She suggested limestone, granite or basalt, which are ''durable, elegant and timeless -- they won't go out of style anytime soon.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I envy my neighbor’s elegant backyard waterfall. How can I install one?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I envy my neighbor's elegant backyard waterfall. How can I install one?</p>
+        <p>A. Don't despair. Whether you covet an elaborate waterfall that runs into a pool or a stand-alone fountain, you can achieve an elegant effect by following some simple guidelines.</p>
+        <p>First, keep it natural. ''The best exterior water features look like they're organically connected to nature, and a key to achieving that is by using materials found in nature,'' said Joan Grabel, a Los Angeles-based landscape designer and the owner of Park Slope Design (parkslopedesign.net). She suggested limestone, granite or basalt, which are ''durable, elegant and timeless -- they won't go out of style anytime soon.''</p>
+        <p>One supplier that she and other landscape designers use is Garden Temple (gardentemple.com), a Southern California company that stocks natural materials in simple, eye-catching styles. The three-piece Yellow Stone Waterfall ($2,850), for example, has a basin made of yellow limestone from western India, with a copper spout that rests on a solid block; a second limestone basin below catches the water that flows down. Another of Garden Temple's waterfalls, shown above, was custom-made for $2,800 for one of Ms. Grabel's clients. It is made of volcanic stone from Indonesia. Garden Temple delivers nationwide, with prices ranging from around $1,000 to $10,000.</p>
+        <p>Doyle McCullar, a San Francisco-based designer, also advises his clients to stick with natural materials, and to pay attention to scale. ''A tiny fountain in a huge, open yard will look very odd and sad. And a huge fountain on a small lot will dwarf the size of the property,'' he said. ''Take note of your plot size before falling in love with the wrong waterfall.''</p>
+        <p>A waterfall should be integrated into the yard, said Ms. Grabel, who designs many of her waterfalls into gardens. It ''shouldn't look jarringly different from the overall style of the home,'' she said.</p>
+        <p>Maintaining a seamless flow between indoors and outdoors, Mr. McCullar said, keeps the water feature from looking like an afterthought, ''or an island in the middle of nowhere.'' He said he achieved that for one client by designing a flagstone path that ran from the deck, through the yard and to the pool, to match the flagstone in the waterfall.</p>
+        <p>It is also important to consider sound. ''You can have the most beautiful waterfall in the world, but if it's so loud that it'll drown out conversations at an outdoor party, that's obviously a huge problem,'' said Evan Blewett, a landscape designer and founder of LandArts, a 20-year-old company in Apex, N.C., that specializes in water features.</p>
+        <p>''We've worked extensively with the quality of sound in a waterfall,'' said Mr. Blewett, who creates custom waterfalls for $3,500 to $7,000. ''If it's a stream type of feature, we strive to get a different sound coming off each step -- high-pitched, trickling, echoing.''</p>
+        <p>Besides angling and shaping the surfaces where water makes contact, he makes sure that it falls on different kinds of surfaces. ''Water on stone sounds different than water on water,'' he said.</p>
+        <p>Finally, if you think you need professional help with the installation, you probably do. ''If you've never done it before, trying to install a major water feature yourself will definitely be a learning experience,'' Mr. Blewett said. Larger water features have complicated hookups with pumps, plumbing lines and valves, he said, and are generally too heavy for one person to lift.</p>
+        <p>If you need to find an installer, the online source servicemagic.com lists industry professionals (along with reviews) in many categories, including landscaping.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

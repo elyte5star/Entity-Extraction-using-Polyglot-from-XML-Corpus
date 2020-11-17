@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peering Over Financial Fences</title>
+    <meta content="02instinct" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/business/02instinct.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851439"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASIC INSTINCTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Personal Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="descriptor">Income</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Personal Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEED71330F931A35755C0A9619C8B63" item-length="758" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peering Over Financial Fences</hl1>
+        <hl2 class="online_headline">Peering Over Financial Fences</hl2>
+      </hedline>
+      <byline class="print_byline">By SHIRA BOSS</byline>
+      <byline class="normalized_byline">Boss, Shira</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF we're going to sleuth, let's at least do it right.</p>
+        <p>Of course we're interested in how much other people are making, what they pay for their mortgage or rent, and the size of their nest eggs. To be realistic, we should also wonder about their credit card balances, home equity borrowing and even student loans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We are not snooping just out of curiosity. What we really want to know is how we ourselves are doing in comparison.</p>
+      </block>
+      <block class="full_text">
+        <p>IF we're going to sleuth, let's at least do it right.</p>
+        <p>Of course we're interested in how much other people are making, what they pay for their mortgage or rent, and the size of their nest eggs. To be realistic, we should also wonder about their credit card balances, home equity borrowing and even student loans.</p>
+        <p>That's why we gather clues and snap up gossip about salaries and the costs of remodeling projects. It's what makes the real estate Web site Zillow.com popular with financial voyeurs.</p>
+        <p>Why do we give any thought to what could be considered none of our business? We are not snooping just out of curiosity. What we really want to know is how we ourselves are doing in comparison.</p>
+        <p>''Financial comparison and benchmarking is so natural and normal,'' says Lois A. Vitt, director at the Institute for Socio-Financial Studies in Middleburg, Va. ''I think we're looking to find out we're on the right track.''</p>
+        <p>Psychological research shows that the comparisons that matter most to us are within our peer groups. So it's not Paris Hilton we want to keep up with -- we understand we're not in her situation -- it's our neighbors, siblings, co-workers and classmates from school. The more similar we are to someone, the more perplexed we get if we think we're not keeping pace.</p>
+        <p>''Type A personalities and high achievers wouldn't live in this area if it weren't important to us to compete and achieve,'' one friend of mine who lives in an affluent suburb of New York City told me. ''You're constantly measuring yourself: how much do you make, what do you own, where do you vacation, how do you look to others?''</p>
+        <p>There are two problems with our routine comparisons. First, even within our peer groups, we naturally tend to compare ourselves with those better-off than we are. Probably because, especially as Americans, we are usually headed up the ladder and so look where we're going. But that can skew our perspective so that we feel like we're never keeping up.</p>
+        <p>What we need in that case are reality checks about how far we've come and how well we are doing. We get that by looking at the big picture rather than concentrating on the few cohorts we admire and strive to match. For example, the median net worth of American families is $93,100 as of 2004, according to Federal Reserve survey data. The highest net worth is for families with a head of household between 55 and 64, on the cusp of retirement presumably, with a median of less than $250,000 -- and much of that is home equity.</p>
+        <p>The second problem is that we are usually sizing ourselves up based on nonscientific, random hits of information. A friend spoke of his habit of trying to figure out someone's financial situation as a kind of reverse engineering from known financial data, conversational hints and old-fashioned observation.</p>
+        <p>As long as we are going to compare ourselves, it is more helpful for us to tap into much deeper, more rigorous stores of data. Armchair detectives can get a more realistic feel for how they fit in using the following resources. When you find something interesting, do your colleagues a favor and pass it along at the water cooler.</p>
+        <p>INCOME www.factfinder.census.gov</p>
+        <p>Here you can find median household and family income by state and local area. A factoid to get you started: median family income for the country as of 2005 was $55,832.</p>
+        <p>DEBT AND INVESTMENTS www.federalreserve.gov</p>
+        <p>You're looking for the most recent (2004) Survey of Consumer Finances. It is cumbersome to locate this report and open it, but it's worth it to see detailed self-reported data on income, debts, savings and investments, by age group and percentile.</p>
+        <p>SPENDING www.bls.gov</p>
+        <p>The Consumer Expenditure Survey gives detailed data about what we spend in a year on everything, like postage and stationery, property taxes and eating out. You can break it down by age, education, income, occupation, region and other characteristics.</p>
+        <p>INCOME AND INHERITANCE www.irs.gov</p>
+        <p>Go to the Tax Stats section and then Individual Tax Statistics for a wealth of data on income, as reported to the I.R.S. Also search SOI Bulletin, which stands for Statistics on Income and breaks down articles by topic and year. An article on estate tax, for example, reports the aggregate details of those returns, by size of estate, down to how much the funeral cost, how much was given to the spouse and how much was given to charity.</p>
+        <p>BASIC INSTINCTS Shira Boss is the author of ''Green With Envy: A Whole New Way to Look at Financial (Un)Happiness'' (Warner, 2007).</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Shira Boss is the author of ''Green With Envy: A Whole New Way to Look at Financial (Un)Happiness'' (Warner, 2007).</tagline>
+    </body.end>
+  </body>
+</nitf>

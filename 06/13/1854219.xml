@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mickelson Plays in Pain Because It's the Open</title>
+    <meta content="13links" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854219"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DF143FF930A25755C0A9619C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mickelson Plays in Pain Because It's the Open</hl1>
+      </hedline>
+      <byline class="print_byline">By DAMON HACK</byline>
+      <dateline>OAKMONT, Pa., June 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With a black wrap covering his injured left wrist, Phil Mickelson played nine holes at Oakmont Country Club on Tuesday with diminished expectations.</p>
+        <p>He often flexed his hand. He hit no shots out of Oakmont's dense rough. He said that if a smaller tournament were beginning Thursday, and not the United States Open, he would most likely skip the event.</p>
+      </block>
+      <block class="full_text">
+        <p>With a black wrap covering his injured left wrist, Phil Mickelson played nine holes at Oakmont Country Club on Tuesday with diminished expectations.</p>
+        <p>He often flexed his hand. He hit no shots out of Oakmont's dense rough. He said that if a smaller tournament were beginning Thursday, and not the United States Open, he would most likely skip the event.</p>
+        <p>''I'd probably wait one more week,'' he said Tuesday.</p>
+        <p>Mickelson, who has four runner-up finishes in the United States Open, remains less than whole heading into the championship after injuring his wrist while practicing chip shots out of Oakmont's rough on May 28.</p>
+        <p>Despite receiving a cortisone shot, massage therapy and constant ice treatments, Mickelson said he still felt occasional pain, though he is trying to manage it by curtailing his practice sessions. He purposely avoided hitting shots out of the rough Tuesday to lessen the chance of aggravating the injury.</p>
+        <p>But how can he last once the tournament begins on a 7,230-yard course that is the second longest in United States Open history? How can he play through pain on one of the most physically grueling tests in golf?</p>
+        <p>''I'm trying not to go in with too many expectations as far as I how I finish, place and so forth,'' he said. ''I want to, as Thursday starts and as we get to Sunday, continue to improve my ball-striking without aggravating my wrist anymore.''</p>
+        <p>The United States Open, though, has taken out healthy players. In 1995, Tiger Woods injured his wrist hitting out of the rough at Shinnecock Hills in Southampton, N.Y.</p>
+        <p>''Out of this rough,'' Woods said, ''try and advance the golf ball, even if you're healthy, it's still going to be a difficult test.''</p>
+        <p>Mickelson, who last month won the Players Championship after teaming with the swing coach Butch Harmon, said he knew there was a chance he could make his injury worse at any time.</p>
+        <p>''I have concerns,'' he said. ''But I'm going to do the best I can do.''</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

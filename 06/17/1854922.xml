@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Style; Family Ties - Jackes and Pants</title>
+    <meta content="17Style.t" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="56" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854922"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <org class="indexing_service">Brooks Brothers</org>
+        <person class="indexing_service">Watanabe, Junya</person>
+        <person class="indexing_service">Browne, Thom</person>
+        <person class="indexing_service">Jacobs, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DC173FF934A25755C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Style; Family Ties - Jackes and Pants</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Jacobs</byline>
+      <byline class="normalized_byline">Jacobs, Mark</byline>
+      <abstract>
+        <p>New generation in designers, including Thom Browne and Junya Watanabe, is putting its mark on traditional Brooks Brothers' style; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Who were the Brooks brothers, anyway? The siblings recognized as the first family of American haberdashery were Edward, Elisha, John and Daniel. They followed their father, Henry Sands Brooks, into the business he founded in 1818 and, in a burst of fraternal feeling, changed the name from H. &amp; D. H. Brooks &amp; Company to the familiar Brooks Brothers. Which is starting to seem a little less familiar, as a new generation of designers puts its mark on the brand's storied style.</p>
+      </block>
+      <block class="full_text">
+        <p>Who were the Brooks brothers, anyway? The siblings recognized as the first family of American haberdashery were Edward, Elisha, John and Daniel. They followed their father, Henry Sands Brooks, into the business he founded in 1818 and, in a burst of fraternal feeling, changed the name from H. &amp; D. H. Brooks &amp; Company to the familiar Brooks Brothers. Which is starting to seem a little less familiar, as a new generation of designers puts its mark on the brand's storied style.</p>
+        <p>For example, the label's first-ever ''guest designer'' is Thom Browne, known for his shrunken tailoring and aesthetic allegiance to exposing a man's ankles (think of the opening credits of ''My Three Sons,'' and you get his look). For his new Black Fleece collection for Brooks, he is a tad less ironic about conservative dress. Also joining the clan is the Japanese designer Junya Watanabe, a conceptualist who likes to reinvent the classics -- which he did with his Man line, exaggerating the fit of the famous button-down shirt and revving up its colors. Indeed, all of the company's traditional staples have been given a nice dusting-off, with subtle alterations by the current vice president and creative design director Simon Kneen.</p>
+        <p>The Freundlich brothers, who model the Brooks Brothers clothes on these pages, may not have the brand's alliterative appeal, but they are no less an example of brotherly devotion. Bart, 37, is a filmmaker whose work includes ''The Myth of Fingerprints'' and ''Trust the Man.'' Oliver, 34, is a founding partner of MADE, a Brooklyn-based design firm that renovated the West Village townhouse that Bart shares with his wife, the actress Julianne Moore; and their children, Liv, 5, and Caleb, 9, who also poses here. Bart and Oliver survived the two-year renovation, but they weren't always so cooperative.</p>
+        <p>''We had a stereotypical relationship growing up, with the older brother punching the younger brother,'' Bart says. You can imagine the elder Mr. Brooks often being called upon to resolve such preadolescent face-offs while dressed in a crisp pink button-down.</p>
+        <p>Mark Jacobs</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

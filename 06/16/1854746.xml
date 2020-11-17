@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An End to Pants-Grabbing Armrests: 2010, Railroads Say</title>
+    <meta content="16armrests" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/nyregion/16armrests.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854746"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <org class="online_producer">Long Island Rail Road Co</org>
+        <org class="online_producer">Metro-North Commuter Railroad</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D9153FF935A25755C0A9619C8B63" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An End to Pants-Grabbing Armrests: 2010, Railroads Say</hl1>
+        <hl2 class="online_headline">An End to Pants-Grabbing Armrests: 2010, Railroads Say</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Come 2010, the Long Island Rail Road will be safe for trousers again.</p>
+        <p>The railroad has projected that by the middle of that year it will have finally replaced all 36,366 armrests on its M7 railcars. The armrests are notorious among riders for snagging pieces of clothing and tearing them.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Long Island Rail Road will finally replace 36,366 armrests that are notorious for snagging pieces of clothing and tearing them.</p>
+      </block>
+      <block class="full_text">
+        <p>Come 2010, the Long Island Rail Road will be safe for trousers again.</p>
+        <p>The railroad has projected that by the middle of that year it will have finally replaced all 36,366 armrests on its M7 railcars. The armrests are notorious among riders for snagging pieces of clothing and tearing them.</p>
+        <p>A plan to replace the armrests on both the Long Island Rail Road and the Metro-North Railroad (which has 14,616 of them on its M7 fleet) will be submitted this month to the board of the Metropolitan Transportation Authority.</p>
+        <p>That news should come as a relief to many riders, although some tailors near Pennsylvania Station and Grand Central Terminal may worry about a loss of business from the many commuters who have needed a quick mending before continuing to work since the M7 cars were introduced in 2002.</p>
+        <p>Because Metro-North has fewer of the M7 rail cars (366 compared with the Long Island's 836), it expects to provide relief to its ridership a little earlier, by the first quarter of 2009, according to a summary of the plan provided to some board members this week.</p>
+        <p>The railroads will ask the board to approve a $3.59 million contract to buy the replacement armrests from Multina, the company that manufactured the seats on the M7 cars. Excluding labor costs, that works out to about $70.50 an armrest.</p>
+        <p>The railroads would use their own workers to remove the old armrests and install the new ones, but the board documents do not include an estimate for labor costs. A Metro-North spokesman said the railroad estimated the labor cost for its portion of the work at $200,000. An estimate from the Long Island was not available.</p>
+        <p>What the railroads are really buying is goodwill from riders. Together, the railroads have paid out more than $100,000 in claims to hundreds of riders whose clothing has been torn on the armrests. Interviews with riders suggest that hundreds or thousands more have damaged their clothes but never submitted a claim.</p>
+        <p>The old armrests are made of a rubbery material that seems to latch onto clothes and not let go. They are also long and tapered and are attached at an angle that allows them to slide unobserved into pants pockets as a rider sits down.</p>
+        <p>The new armrests are shorter, with a smoother finish, which, according to the board summary, ''does not 'grab' clothing.''</p>
+        <p>The railroads said that it would take about 10 months to receive the replacement armrests from the manufacturer and that they would then begin installing them at a rate of 10 cars a week on each railroad.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

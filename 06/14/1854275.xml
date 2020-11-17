@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   COOK, RICHARD A.</title>
+    <meta content="dn061407" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854275"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">COOK, RICHARD A.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EED8143AF937A25755C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   COOK, RICHARD A.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COOK--Richard A. The Board of Directors of the Hundred Year Association of New York mourns the loss of its Chairman, Richard A. Cook. He worked tirelessly to support the awards to New York Civil Service Employees and college scholarships for their sons and daughters, as well as to celebrate the great traditions of companies and non-profits over 100 years old in the City of New York. He loved New York City, and loved contributing to its diverse fabric. He inspired us as he was inspired by the heroes of New York, its leadership, and its future leaders. We extend our heartfelt condolences to Rhonda as well as to his entire family. A memorial service will be announced for the fall. Remembrances may be sent to: The Hundred Year Association, 20 West 44th St., New York, NY 10036 in Mr. Cook's honor.</p>
+      </block>
+      <block class="full_text">
+        <p>COOK--Richard A. The Board of Directors of the Hundred Year Association of New York mourns the loss of its Chairman, Richard A. Cook. He worked tirelessly to support the awards to New York Civil Service Employees and college scholarships for their sons and daughters, as well as to celebrate the great traditions of companies and non-profits over 100 years old in the City of New York. He loved New York City, and loved contributing to its diverse fabric. He inspired us as he was inspired by the heroes of New York, its leadership, and its future leaders. We extend our heartfelt condolences to Rhonda as well as to his entire family. A memorial service will be announced for the fall. Remembrances may be sent to: The Hundred Year Association, 20 West 44th St., New York, NY 10036 in Mr. Cook's honor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Julia Phelan, Benjamin Sylla</title>
+    <meta content="10phelan" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10phelan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853626"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Phelan, Julia Elizabeth (Julia Elizabeth Sylla)</person>
+        <person class="indexing_service">Sylla, Benjamin Philip</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EED71F30F933A25755C0A9619C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Julia Phelan, Benjamin Sylla</hl1>
+        <hl2 class="online_headline">Julia Phelan, Benjamin Sylla</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Julia Elizabeth Phelan, the daughter of Mary F. Phelan of Washington, and John J. Phelan of Guilford, Conn., was married yesterday to Benjamin Philip Sylla, the son of Mary Eloise Sylla and Philip M. Sylla of Portland, Ore. Msgr. Charles V. Antonicelli performed the Roman Catholic ceremony at St. Joseph's on Capitol Hill in Washington.</p>
+        <p>The bride and bridegroom work at the Academy for Educational Development, a nongovernmental organization in Washington that places students from the Middle East, South Asia and North Africa in scholarship programs in the United States financed by the State Department.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Julia Elizabeth Phelan, the daughter of Mary F. Phelan of Washington, and John J. Phelan of Guilford, Conn., was married yesterday to Benjamin Philip Sylla, the son of Mary Eloise Sylla and Philip M. Sylla of Portland, Ore. Msgr. Charles V. Antonicelli performed the Roman Catholic ceremony at St. Joseph’s on Capitol Hill in Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Julia Elizabeth Phelan, the daughter of Mary F. Phelan of Washington, and John J. Phelan of Guilford, Conn., was married yesterday to Benjamin Philip Sylla, the son of Mary Eloise Sylla and Philip M. Sylla of Portland, Ore. Msgr. Charles V. Antonicelli performed the Roman Catholic ceremony at St. Joseph's on Capitol Hill in Washington.</p>
+        <p>The bride and bridegroom work at the Academy for Educational Development, a nongovernmental organization in Washington that places students from the Middle East, South Asia and North Africa in scholarship programs in the United States financed by the State Department.</p>
+        <p>Mrs. Sylla, 27, is a program officer in international academic partnerships and exchange programs and Mr. Sylla, 28, is a researcher in international education policy for the academy's Education Policy and Data Center.</p>
+        <p>The bride graduated magna cum laude from Bates College and has a master's degree in international education from George Washington University. She is also a violinist with the Capital City Symphony.</p>
+        <p>Her father is an associate professor of economics at the University of New Haven. Her mother is a librarian for the District of Columbia Public Library. She was the registrar of collections for the Senate Commission on Art until 1990.</p>
+        <p>The bridegroom graduated from the University of Virginia and has a master's degree in public policy at George Washington University.</p>
+        <p>His mother retired last year as a second-grade teacher at the QSI International School of Bratislava in Slovakia. His father was the director of the QSI International School of Bratislava until 2006. This month he will become the head of school at the International School in Portland.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

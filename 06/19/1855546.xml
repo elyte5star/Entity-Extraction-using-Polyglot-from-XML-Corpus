@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. to Show Stream Computing System Today</title>
+    <meta content="19compute" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/technology/19compute.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855546"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <location class="online_producer">Wall Street (NYC)</location>
+        <org class="online_producer">International Business Machines Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DF133FF93AA25755C0A9619C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. to Show Stream Computing System Today</hl1>
+        <hl2 class="online_headline">I.B.M. to Show Stream Computing System</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>IBM is introducing high-performance computer system that is intended to rapidly analyze data as it streams in from many sources, increasing speed and accuracy of decision making in fields as diverse as security surveillance and Wall Street trading; plans to demonstrate system, called System S, at conference of Wall Street technology managers (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. is introducing a high-performance computer system that is intended to rapidly analyze data as it streams in from many sources, increasing the speed and accuracy of decision making in fields as diverse as security surveillance and Wall Street trading.</p>
+        <p>The company plans to demonstrate the system, called System S,  at  a conference of Wall Street technology managers today. The announcement, analysts say, is a significant step in the commercialization of the emerging technology of stream computing.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The high-performance computer system is intended to increase the speed and accuracy of decision making in fields as diverse as security surveillance and Wall Street trading.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. is introducing a high-performance computer system that is intended to rapidly analyze data as it streams in from many sources, increasing the speed and accuracy of decision making in fields as diverse as security surveillance and Wall Street trading.</p>
+        <p>The company plans to demonstrate the system, called System S,  at  a conference of Wall Street technology managers today. The announcement, analysts say, is a significant step in the commercialization of the emerging technology of stream computing.</p>
+        <p>Early this month Google acquired PeakStream, a start-up in stream computing, and industry analysts say its software could help Google improve its  video search functions.</p>
+        <p>Stream computing is an effort to deal with two issues: the need for faster data handling and analysis in business and science, and the growing flood of information in digital form, including Web sites, blogs, e-mail, video and news clips, telephone conversations, transaction data and electronic sensors.</p>
+        <p>The conventional approach to computer analytics and data mining is to collect data, store it in a database program and then search the database for patterns or ask it questions. It is an effective approach, but also tightly structured and often time-consuming.</p>
+        <p>In stream computing, advanced software algorithms analyze the data as it streams in. Text, voice and image-recognition technology, for example, can be used to determine that some data is more relevant to a particular problem than others. The priority data is then shuttled off into a program tailored to work on complex, fast-changing problems like tracking an epidemic and predicting its spread, or culling data from electronic sensors in a computer chip plant to quickly correct flaws in manufacturing.</p>
+        <p>I.B.M. deems its System S research project ready to make its way into the marketplace. The planned announcement to the Wall Street group is the beginning of its effort to find industry partners.</p>
+        <p>The initial system runs on about 800 microprocessors, though it can scale up to tens of thousands as needed, I.B.M. said. The most notable step, researchers say, lies in the System S software, which enables software applications to split up tasks like image recognition and text recognition, and then reassemble the pieces of the puzzle into an answer.</p>
+        <p>Nagui Halim, director of high-performance stream computing at I.B.M. labs, said System S was a new model of computing that offered greater flexibility and speed. The approach, he said, was less machinelike than in conventional systems. ''It's a computing system that can morph and adapt to the problems it sees,'' Mr. Halim said.</p>
+        <p>As I.B.M. moves toward developing a business in this area, it says it can either sell stream computer systems to customers or stream computing as a pay-for-use service over the Internet.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

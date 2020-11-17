@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Three Men Stabbed In Fight</title>
+    <meta content="11mbrfs-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853856"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7DC173FF932A25755C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Three Men Stabbed In Fight</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three men were stabbed, one of whom was critically injured, in a fight in Astoria early yesterday, the police said. The men, whom the police did not identify, were arguing with another group near Club Fashion, on Steinway Street, about 3 a.m. when someone in the other group stabbed them, the police said. One man, who was stabbed in the neck and chest, was in critical condition at Elmhurst Hospital Center, the police said. The other two men suffered minor cuts. No arrests had been made.</p>
+      </block>
+      <block class="full_text">
+        <p>Three men were stabbed, one of whom was critically injured, in a fight in Astoria early yesterday, the police said. The men, whom the police did not identify, were arguing with another group near Club Fashion, on Steinway Street, about 3 a.m. when someone in the other group stabbed them, the police said. One man, who was stabbed in the neck and chest, was in critical condition at Elmhurst Hospital Center, the police said. The other two men suffered minor cuts. No arrests had been made.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

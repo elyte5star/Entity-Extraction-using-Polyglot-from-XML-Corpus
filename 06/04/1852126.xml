@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Specialized Software Maker Is Said to Be in Buyout Talks</title>
+    <meta content="04chip" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/technology/04chip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852126"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Cadence Design Systems Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3DF1130F937A35755C0A9619C8B63" item-length="429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Specialized Software Maker Is Said to Be in Buyout Talks</hl1>
+        <hl2 class="online_headline">Specialized Software Maker Is Said to Be in Buyout Talks</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN and MICHAEL J. de la MERCED</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cadence Design Systems, one of the largest makers of the software used to design computer chips, is in talks with at least two buyout firms about a possible sale of the company, two people close to the matter said yesterday.</p>
+        <p>The company has held talks with Kohlberg Kravis Roberts and the Blackstone Group, and other suitors may emerge, those people said. But they warned that a deal may not happen because of the complicated risks in the company's business. Other private equity firms took a look at Cadence but passed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cadence Design Systems, a maker of the software used to design computer chips, is in talks about a possible sale of the company, two people said Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>Cadence Design Systems, one of the largest makers of the software used to design computer chips, is in talks with at least two buyout firms about a possible sale of the company, two people close to the matter said yesterday.</p>
+        <p>The company has held talks with Kohlberg Kravis Roberts and the Blackstone Group, and other suitors may emerge, those people said. But they warned that a deal may not happen because of the complicated risks in the company's business. Other private equity firms took a look at Cadence but passed.</p>
+        <p>Representatives for Blackstone, Kohlberg Kravis and Cadence declined to comment.</p>
+        <p>A deal for Cadence would be one of the biggest moves by private equity firms into technology, a sector they have avoided because of its volatility and need for capital. But as buyout firms have grown bolder and more flush with cash, they may be betting that they can still wring out lucrative returns.</p>
+        <p>Though both Kohlberg Kravis and Blackstone have invested in technology firms before -- most recently, Kohlberg bought the First Data Corporation and Blackstone purchased Freescale Semiconductor -- private equity has rarely approached a firm as steeped in the arcana of technology as Cadence.</p>
+        <p>Another question that faces Cadence's would-be buyers is its rich valuation. The company, based in San Jose, Calif., has a market value of about $6.4 billion, making it an expensive bet.</p>
+        <p>Founded in 1983, Cadence has since become one of the largest makers of chip design software, partly through a string of acquisitions. Since 2004, it has bought four companies, including the software developer Verisity in a $315 million deal. It has also invested heavily in other Silicon Valley companies. And in 2006 it spent $1 billion in stock buybacks.</p>
+        <p>Cadence is also regarded as one of the most innovative chip software makers. This year the company said that it would introduce a new approach to chip-making design, one that lays wires diagonally as well as horizontally and vertically. The new process would make its designs faster and more efficient, the company has said.</p>
+        <p>Yet even that poses a dilemma for private equity. In such a highly technical field, research and development is crucial to establishing dominance, which requires large amounts of spending. And companies like Cadence and its largest rivals, Mentor Graphics and Synopsis, must innovate quickly as the pace of chip making accelerates.</p>
+        <p>Cadence has already lost support from Intel, the biggest name in microchips, which has invested in Magma Design Automation, a smaller rival which Intel said had the time-to-market advantage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

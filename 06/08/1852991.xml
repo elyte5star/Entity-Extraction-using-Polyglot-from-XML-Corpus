@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Owner Is Accused of Looting His Car Service to Seek Office in Africa</title>
+    <meta content="08service" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/nyregion/08service.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852991"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="descriptor">Embezzlement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embezzlement</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DA1F30F93BA35755C0A9619C8B63" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Owner Is Accused of Looting His Car Service to Seek Office in Africa</hl1>
+        <hl2 class="online_headline">Owner Is Accused of Looting His Car Service to Seek Office in Africa</hl2>
+      </hedline>
+      <byline class="print_byline">By ANEMONA HARTOCOLLIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The president of a Brooklyn-based car service business not only looted his own company but also used the money to finance his campaign for elective office in his native Ghana, prosecutors said yesterday.</p>
+        <p>The man, Augustine Asiedu, the president of Fone-a-Car, and three associates have been indicted on charges of stealing more than $1 million from the company and two lenders from 2002 through 2005, according to the Manhattan district attorney's office.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The president of a Brooklyn-based car service business not only looted his own company but also used the money to finance his campaign for elective office in his native Ghana, prosecutors said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>The president of a Brooklyn-based car service business not only looted his own company but also used the money to finance his campaign for elective office in his native Ghana, prosecutors said yesterday.</p>
+        <p>The man, Augustine Asiedu, the president of Fone-a-Car, and three associates have been indicted on charges of stealing more than $1 million from the company and two lenders from 2002 through 2005, according to the Manhattan district attorney's office.</p>
+        <p>Mr. Asiedu, 52, who is also known as Nana Amoakoh, sent a large part of the money to Ghana, where he ran for Parliament and won, prosecutors said. He now represents the Upper Denkyira East District, they said.</p>
+        <p>Mr. Asiedu, who has a home address in Brooklyn, has been indicted on charges of grand larceny, money laundering and falsifying business records, but has not been arrested because he is in Ghana, prosecutors said yesterday. They said they were trying to extradite him.</p>
+        <p>Prosecutors said Mr. Asiedu and Nick T. Zarbhanelian, 55, the company's chief financial officer, stole about $700,000 of the $1 million by depositing checks from car service clients in Manhattan, including investment banks and law firms, into fake business accounts and then transferring the money into their personal accounts and accounts in Ghana.</p>
+        <p>They were accused of stealing $625,000 more from the lenders. Prosecutors said the two men used cash advances from one lender, Rosenthal &amp; Rosenthal, to keep their company afloat while looting it. The men are accused of duping the other lender, All Points Capital Corporation, by asking it to finance software at inflated prices and pocketing the difference.</p>
+        <p>Apurva Patel, the founder of Ground Travel Technology Team, a software company in New Jersey, was accused of participating in the scheme to get kickbacks from the inflated purchases.</p>
+        <p>Prosecutors said that Mr. Asiedu also wrote $30,000 in company checks to his girlfriend, Sebastiana Paul, an administrator at one of his company's clients. Ms. Paul, also charged in the indictment, pleaded not guilty to grand larceny.</p>
+        <p>Mr. Zarbhanelian's lawyer, Joseph LoPiccolo, said yesterday that his client was ''at most a salesman'' and did not have the authority to sign checks. He said prosecutors would not be able to show any trail of stolen money going to his client. Mr. Patel's lawyer, Charles Stillman, said his client ''is not guilty and intends to vigorously defend himself.''</p>
+        <p>Mr. Zarbhanelian, who lives in Fort Lee, N.J., and Mr. Patel, of Armonk, N.Y., pleaded not guilty to grand larceny and other charges in state Supreme Court in Manhattan yesterday.</p>
+        <p>According to prosecutors, the company had been in business for more than 20 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

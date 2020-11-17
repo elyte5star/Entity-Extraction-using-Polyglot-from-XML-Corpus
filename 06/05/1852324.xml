@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>POLL</title>
+    <meta content="05ppoll" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852324"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE0DA1130F936A35755C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>POLL</hl1>
+      </hedline>
+      <byline class="print_byline">By DALIA SUSSMAN</byline>
+      <byline class="normalized_byline">Sussman, Dalia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senator Hillary Rodham Clinton's ratings in the latest New York Times/CBS News poll suggest that unlike her Democratic rivals, her favorability ratings worsen as voters' income and education levels increase. The poll also found that Mrs. Clinton was far better known than her opponents, but more than half of those who had an opinion of her had a negative one.</p>
+        <p>Over all, 42 percent of registered voters have an unfavorable view of Mrs. Clinton, 38 percent have a favorable opinion and 21 percent do not yet have an opinion. That negative rating is far higher than it is for Senator Barack Obama (21 percent unfavorable) or former Senator John Edwards (28 percent).</p>
+      </block>
+      <block class="full_text">
+        <p>Senator Hillary Rodham Clinton's ratings in the latest New York Times/CBS News poll suggest that unlike her Democratic rivals, her favorability ratings worsen as voters' income and education levels increase. The poll also found that Mrs. Clinton was far better known than her opponents, but more than half of those who had an opinion of her had a negative one.</p>
+        <p>Over all, 42 percent of registered voters have an unfavorable view of Mrs. Clinton, 38 percent have a favorable opinion and 21 percent do not yet have an opinion. That negative rating is far higher than it is for Senator Barack Obama (21 percent unfavorable) or former Senator John Edwards (28 percent).</p>
+        <p>Mrs. Clinton's ratings drag among better-educated, higher-income voters. Her favorable rating drops 9 points, from 43 percent to 34 percent, among voters who have been to college, compared with those who have not.</p>
+        <p>Similarly, 41 percent of registered voters with annual household incomes less than $75,000 express a favorable view of Mrs. Clinton, but just 31 percent of those earning more agree. More than half of higher-income voters questioned view Mrs. Clinton unfavorably.</p>
+        <p>DALIA SUSSMAN</p>
+        <p>THE CAUCUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

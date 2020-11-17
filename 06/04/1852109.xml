@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ballet With Headstands, And Other Quirky Contrasts</title>
+    <meta content="04danc" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/arts/dance/04danc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852109"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Munisteri, Ben</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DF1130F937A35755C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ballet With Headstands, And Other Quirky Contrasts</hl1>
+        <hl2 class="online_headline">Ballet With Headstands, and Other Quirky Contrasts</hl2>
+      </hedline>
+      <byline class="print_byline">By ROSLYN SULCAS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The three pieces on the program presented by Ben Munisteri Dance Projects on Thursday night at Dance New Amsterdam use ballet extensively. So extensively that you start to think that the work might look even better coming from a ballet company. But the extended lines, small beats of the feet and tight, whirling turns are democratically apportioned -- some of the dancers look balletic, some don't -- and interspersed with other things: jumping jacks, handstands, ordinary walks and crouches.</p>
+        <p>It seems that Mr. Munisteri simply likes the harmony that comes from ballet's centered, upright torso, even when he upends the body, or angles it to a side. He also likes the juxtaposition of static poses with spinning, ground-covering jumps, and to work against his musical tempos. In a new work, ''Terra Nova,'' he sets the fast, difficult beaten steps known as petit allegro in ballet to a dreamily slow song by Bjork. The effect is both odd and perfect in its place.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a new work, “Terra Nova,” Ben Munisteri sets the fast, difficult beaten steps to a dreamily slow song by Bjork. The effect is both odd and perfect in its place.</p>
+      </block>
+      <block class="full_text">
+        <p>The three pieces on the program presented by Ben Munisteri Dance Projects on Thursday night at Dance New Amsterdam use ballet extensively. So extensively that you start to think that the work might look even better coming from a ballet company. But the extended lines, small beats of the feet and tight, whirling turns are democratically apportioned -- some of the dancers look balletic, some don't -- and interspersed with other things: jumping jacks, handstands, ordinary walks and crouches.</p>
+        <p>It seems that Mr. Munisteri simply likes the harmony that comes from ballet's centered, upright torso, even when he upends the body, or angles it to a side. He also likes the juxtaposition of static poses with spinning, ground-covering jumps, and to work against his musical tempos. In a new work, ''Terra Nova,'' he sets the fast, difficult beaten steps known as petit allegro in ballet to a dreamily slow song by Bjork. The effect is both odd and perfect in its place.</p>
+        <p>''Terra Nova'' employs motion-capture technique (used in movies and video games) to create the attractive images of water, clouds and abstract patterns (by Peter Birdsall, Ted Warburton and Timothy Jordan) that form its backdrop. Not that anyone would guess. (Mr. Munisteri is not alone: I've yet to see motion-capture technique deployed onstage in a way that amplifies the live dancing.) It is the fluid, expansive movement and the skill with which Mr. Munisteri creates and dissembles his spatial patterns that are the real interest of the piece.</p>
+        <p>The same is true of ''Tuesday, 4 a.m.,'' an ambitious work for six dancers set to the unpredictable rhythms of Stravinsky's Capriccio for Piano and Orchestra. Like an older duo, ''Smash Through to Sunlight,'' it shows his formal skill and ability to color movement through tempo and phrasing. Mr. Munisteri doesn't seem particularly interested in inventing a new dance language, but his quirky combination of the old ones is compelling enough.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

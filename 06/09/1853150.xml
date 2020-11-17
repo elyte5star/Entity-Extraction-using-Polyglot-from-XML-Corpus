@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="09trans" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEFDE163FF93AA35755C0A9619C8B63" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>LEAGUE--Suspended Houston 1B Lance Berkman for two games and fined him an undisclosed amount for inappropriate actions during a June 5 game against Colorado.</p>
+        <p>American League  BALTIMORE ORIOLES--Placed C Ramon Hernandez on the 15-day DL. Purchased the contract of C Alberto Castillo from Norfolk (IL).  OAKLAND ATHLETICS--Placed OF Milton Bradley on the 15-day DL, retroactive to June 3. Recalled Donnie Murphy from Sacramento (PCL).</p>
+        <p>National League  CINCINNATI REDS--Purchased the contract of RHP Homer Bailey from Louisville (IL). Optioned RHP Todd Coffey to Louisville.  FLORIDA MARLINS--Sent OF Todd Linden outright to Albuquerque (PCL).  METS--Purchased the contract of OF Ricky Ledee from New Orleans (PCL). Optioned INF-OF David Newhan to New Orleans.  ST. LOUIS CARDINALS--Agreed to terms with RHP Troy Percival on a minor league contract.</p>
+        <p>BASKETBALL</p>
+        <p>N.B.A.  MINNESOTA TIMBERWOLVES--Named Jerry Sichting assistant coach.</p>
+        <p>Women's N.B.A.  CONNECTICUT SUN--Signed G Evanthia Maltsi for the remainder of the season.</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.</p>
+        <p>DENVER BRONCOS--Acquired DT Jimmy Kennedy from St. Louis for a 2008 draft pick. Waived CB Eric Hill.  GREEN BAY PACKERS--Signed S Aaron Rouse. Released OL Kevin Barry and OL Josh Bourke.  NEW ENGLAND PATRIOTS--Signed DL Rashad Moore and DL Kenny Smith. Released C Tony Case.</p>
+        <p>MOTORSPORTS</p>
+        <p>NASCAR--Docked Kurt Busch 100 driver points, fined him $100,000 and placed him on probation until Dec. 31, and docked Roger Penske 100 owner points for Busch's reckless driving and endangerment of a crew member during a June 4 race.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>LEAGUE--Suspended Houston 1B Lance Berkman for two games and fined him an undisclosed amount for inappropriate actions during a June 5 game against Colorado.</p>
+        <p>American League  BALTIMORE ORIOLES--Placed C Ramon Hernandez on the 15-day DL. Purchased the contract of C Alberto Castillo from Norfolk (IL).  OAKLAND ATHLETICS--Placed OF Milton Bradley on the 15-day DL, retroactive to June 3. Recalled Donnie Murphy from Sacramento (PCL).</p>
+        <p>National League  CINCINNATI REDS--Purchased the contract of RHP Homer Bailey from Louisville (IL). Optioned RHP Todd Coffey to Louisville.  FLORIDA MARLINS--Sent OF Todd Linden outright to Albuquerque (PCL).  METS--Purchased the contract of OF Ricky Ledee from New Orleans (PCL). Optioned INF-OF David Newhan to New Orleans.  ST. LOUIS CARDINALS--Agreed to terms with RHP Troy Percival on a minor league contract.</p>
+        <p>BASKETBALL</p>
+        <p>N.B.A.  MINNESOTA TIMBERWOLVES--Named Jerry Sichting assistant coach.</p>
+        <p>Women's N.B.A.  CONNECTICUT SUN--Signed G Evanthia Maltsi for the remainder of the season.</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.</p>
+        <p>DENVER BRONCOS--Acquired DT Jimmy Kennedy from St. Louis for a 2008 draft pick. Waived CB Eric Hill.  GREEN BAY PACKERS--Signed S Aaron Rouse. Released OL Kevin Barry and OL Josh Bourke.  NEW ENGLAND PATRIOTS--Signed DL Rashad Moore and DL Kenny Smith. Released C Tony Case.</p>
+        <p>MOTORSPORTS</p>
+        <p>NASCAR--Docked Kurt Busch 100 driver points, fined him $100,000 and placed him on probation until Dec. 31, and docked Roger Penske 100 owner points for Busch's reckless driving and endangerment of a crew member during a June 4 race.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spiritual Guidance and Smooth Sailing for the Fire Dept.</title>
+    <meta content="16blessing" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/nyregion/16blessing.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854747"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Boating</classifier>
+        <classifier class="online_producer" type="descriptor">Boats and Boating</classifier>
+        <classifier class="online_producer" type="descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boats and Boating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D9153FF935A25755C0A9619C8B63" item-length="503" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spiritual Guidance and Smooth Sailing for the Fire Dept.</hl1>
+        <hl2 class="online_headline">Spiritual Guidance and Smooth Sailing for the Fire Dept.</hl2>
+      </hedline>
+      <byline class="print_byline">By ETHAN WILENSKY-LANFORD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three stout red ships muscled north along the East River. They seemed to grow larger against the backdrop of Governors Island as they approached Pier 17.</p>
+        <p>Two chaplains, a bagpipe band, fire officials and a throng of tourists awaited their arrival.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Three ships led a procession of eight New York Fire Department boats in a longtime ritual: the blessing of the fleet.</p>
+      </block>
+      <block class="full_text">
+        <p>Three stout red ships muscled north along the East River. They seemed to grow larger against the backdrop of Governors Island as they approached Pier 17.</p>
+        <p>Two chaplains, a bagpipe band, fire officials and a throng of tourists awaited their arrival.</p>
+        <p>The three ships were leading a procession of eight New York Fire Department boats in a longtime ritual: the blessing of the fleet.</p>
+        <p>''When a fireboat gets blessed, you have assurance from above that everything is going to be O.K.,'' said Lt. Brian E. Coughlin, 45, of the department's marine division.</p>
+        <p>Since man first took to the sea, sailors have sought divine protection for their ships. The blessing of the fleet, traditionally bestowed by a Roman Catholic priest, dates at least to 16th-century Spain, and continues today as fishermen set off each season to hunt their dangerous catch.</p>
+        <p>The Fire Department began its yearly ritual after the 9/11 terror attack. On that day, fireboats evacuated hundreds of people to New Jersey, then pumped in seawater to fight the fires at the World Trade Center's twin towers after a Downtown water main went out.</p>
+        <p>On Thursday, Flag Day, the blessing provided an excuse for the firefighters of the marine division to get together, listen to music and sell T-shirts to benefit their units.</p>
+        <p>''I am not a real religious person,'' said Bob Petersen, 48, a firefighter from Long Island who has worked on a boat that patrols the Hudson River for 12 years. ''But I'll take a few minutes to watch the procession and take in the blessing.''</p>
+        <p>First, the ship Fire Fighter passed, with seven firefighters standing on the port bow, saluting.</p>
+        <p>Standing against the rail of Pier 17, Msgr. John Delendick, the Roman Catholic priest who is one of eight Fire Department chaplains, read a prayer.</p>
+        <p>Holding his right hand aloft, he used a tool called an aspergillum to lift holy water from a bucket held by an Episcopal priest, the Rev. Stephen R. Harding, another department chaplain.</p>
+        <p>Monsignor Delendick splashed the water over the wooden rail of the pier with three short, swift flicks of his wrist.</p>
+        <p>''May you always have calm wind and fair seas,'' he said.</p>
+        <p>Next, the John D. McKean passed by, then the Governor Alfred E. Smith. Behind the three largest ships were five smaller boats. As each one passed, the monsignor said a blessing and splashed holy water into the harbor.</p>
+        <p>Then, with all eight of its hoses running full bore, the Fire Fighter drifted back downstream in majestic glory.</p>
+        <p>As it passed the pier for a second time, one water jet spewed forth cobalt blue, as if by magic. Another ran deep red. The dyed water was offset against an overcast sky.</p>
+        <p>The other two large ships followed suit, and the East River was soon awash in spray and color. Monsignor Delendick was congratulated, and the bagpipe band struck up a tune.</p>
+        <p>''You did a good job,'' Salvatore Cassano, the chief of department, told the chaplain. ''None of the boats sunk.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

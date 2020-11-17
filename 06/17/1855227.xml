@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Listen to What the Man Says</title>
+    <meta content="17sun3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/17sun3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855227"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <org class="online_producer">Supreme Court</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0D7153FF934A25755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Listen to What the Man Says</hl1>
+        <hl2 class="online_headline">Don’t Listen to What the Man Says</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If the Supreme Court, with its new conservative majority, wanted to announce that it was getting out of the fairness business, it could hardly have done better than its decision last week in the case of Keith Bowles. The court took away Mr. Bowles's right to challenge his murder conviction in a ruling that was so wrong and mean-spirited that it seemed like an outtake from MTV's practical joke show ''Punk'd.''</p>
+        <p>Mr. Bowles, an Ohio inmate, challenged his conviction in federal district court and lost. The court told Mr. Bowles that he had until Feb. 27 to appeal. He filed the appeal on Feb. 26, and was ready to argue why he was wrongly convicted. But it turned out the district court made a mistake. The appeal should have been filed by Feb. 24.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If the Supreme Court, with its new conservative majority, wanted to announce that it was getting out of the fairness business, it could hardly have done better than its decision last week in the case of Keith Bowles.</p>
+      </block>
+      <block class="full_text">
+        <p>If the Supreme Court, with its new conservative majority, wanted to announce that it was getting out of the fairness business, it could hardly have done better than its decision last week in the case of Keith Bowles. The court took away Mr. Bowles's right to challenge his murder conviction in a ruling that was so wrong and mean-spirited that it seemed like an outtake from MTV's practical joke show ''Punk'd.''</p>
+        <p>Mr. Bowles, an Ohio inmate, challenged his conviction in federal district court and lost. The court told Mr. Bowles that he had until Feb. 27 to appeal. He filed the appeal on Feb. 26, and was ready to argue why he was wrongly convicted. But it turned out the district court made a mistake. The appeal should have been filed by Feb. 24.</p>
+        <p>The Supreme Court ruled, 5 to 4, in a majority opinion written by Justice Clarence Thomas, that Mr. Bowles was out of luck, and his appeal was invalid. So much for heeding a federal judge.</p>
+        <p>The decision was wrong for many reasons. The Supreme Court has made clear in its past rulings that deadlines like this are not make-or-break. Appeals could still be heard, the court recognized in the past, if there were ''unique circumstances'' that accounted for the delay. Clearly, following an order from a federal judge is such a circumstance.</p>
+        <p>Courts also have the authority to create an exception to the rules in the interest of fairness. The Supreme Court has recognized that an ''equitable exception'' should be granted when a party has relied on an order from a federal judge. By refusing to do so now, Justice David Souter argued for the dissenters, the court was saying that ''every statement by a federal court is to be tagged with the warning 'Beware of the judge.' ''</p>
+        <p>The four dissenters distilled this case perfectly when they said, ''it is intolerable for the judicial system to treat people this way.''</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

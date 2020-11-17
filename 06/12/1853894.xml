@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Really?</title>
+    <meta content="12real" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/health/nutrition/12real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853894"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="descriptor">Sugar</classifier>
+        <classifier class="online_producer" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E3DC173FF931A25755C0A9619C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Really?</hl1>
+        <hl2 class="online_headline">The Claim: Brown Sugar Is Healthier Than White Sugar</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM  Brown sugar is healthier than white sugar.</p>
+        <p>THE FACTS  We all know that brown rice is better for you than white rice, and whole wheat bread comes out on top over white bread, but does this pattern extend to sugar as well?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We know that brown rice is better for you than white rice, but does the pattern extend to sugar as well?</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM  Brown sugar is healthier than white sugar.</p>
+        <p>THE FACTS  We all know that brown rice is better for you than white rice, and whole wheat bread comes out on top over white bread, but does this pattern extend to sugar as well?</p>
+        <p>It is often said that brown sugar is a healthier option than white sugar. But you can chalk that up to clever marketing or plain and simple illusion. In reality, brown sugar is most often ordinary table sugar that is turned brown by the reintroduction of molasses. Normally, molasses is separated and removed when sugar is created from sugarcane plants.</p>
+        <p>In some cases, brown sugar -- particularly when it is referred to as ''raw sugar'' -- is merely sugar that has not been fully refined. But more often than not, manufacturers prefer to reintroduce molasses to fine white sugar -- creating a mixture with about 5 percent to 10 percent molasses -- because it allows them to better control the color and size of the crystals in the final product.</p>
+        <p>So the two varieties of sugar are similar nutritionally. According to the United States Department of Agriculture, brown sugar contains about 17 kilocalories per teaspoon, compared with 16 kilocalories per teaspoon for white sugar.</p>
+        <p>Because of its molasses content, brown sugar does contain certain minerals, most notably calcium, potassium, iron and magnesium (white sugar contains none of these). But since these minerals are present in only minuscule amounts, there is no real health benefit to using brown sugar. The real differences between the two are taste and the effects on baked goods.</p>
+        <p>THE BOTTOM LINE  Nutritionally, brown sugar and white sugar are not much different.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really? scitimes@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">scitimes@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

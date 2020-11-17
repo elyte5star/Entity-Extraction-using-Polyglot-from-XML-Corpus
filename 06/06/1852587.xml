@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="06roun-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/theater/reviews/06faces.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852587"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Theater Review | 'All Her Faces: A Portrait of Dusty Springfield'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">La Rocco, Claudia</person>
+        <person class="indexing_service">Inneo, Anthony</person>
+        <person class="indexing_service">Jenness, Sean</person>
+        <person class="indexing_service">Fox, Amy</person>
+        <object.title class="indexing_service">All Her Faces: A Portrait of Dusty Springfield (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <object.title class="online_producer">All Her Faces (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E6DC1E30F935A35755C0A9619C8B63" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+        <hl2 class="online_headline">From the Lips of a Pop Icon</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+      <byline class="normalized_byline">La Rocco, Claudia</byline>
+      <abstract>
+        <p>Claudia La Rocco reviews Anthony Inneo show All Her Faces: A Portrait of Dusty Springfield; Sean Jenness and Amy Fox star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All Her Faces  A Portrait of Dusty Springfield  The Club at La MaMa  74A East Fourth Street, East Village  (212) 475-7710  Through Sunday</p>
+        <p>How much you enjoy ''All Her Faces: A Portrait of Dusty Springfield'' will depend on two things: what sort of activity you've engaged in before the performance, and how strong an affection you harbor for the White Lady of Soul.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How much you enjoy this show will depend on two things: what sort of activity you’ve engaged in before the performance, and how strong an affection you harbor for the White Lady of Soul.</p>
+      </block>
+      <block class="full_text">
+        <p>All Her Faces  A Portrait of Dusty Springfield  The Club at La MaMa  74A East Fourth Street, East Village  (212) 475-7710  Through Sunday</p>
+        <p>How much you enjoy ''All Her Faces: A Portrait of Dusty Springfield'' will depend on two things: what sort of activity you've engaged in before the performance, and how strong an affection you harbor for the White Lady of Soul.</p>
+        <p>If said activity involves a cocktail or two and your CD rack holds at least twice as many Springfield albums, the 70 minutes you spend in the cozy Club at La MaMa should see you singing along blissfully. If not, well, there are worse ways to spend an hour in New York than watching an extended, sentimental nod to a pop icon. Just don't expect to find any revelations in this slight ''concert-theater'' offering from the writer and director Anthony Innéo. He has clothed his campy tribute in the scantest of narratives, involving the attempt of a son (Sean Jenness) to conjure Ms. Springfield, beloved by his father, through her songs. (Ms. Springfield died in 1999.) As if it needed proving again, contemporary society's appetite for nostalgia knows no bounds.</p>
+        <p>Mr. Jenness has a tendency to oversell Ms. Springfield's seductive hits, but the backup singers Sandra Caldwell and Isabel Santiago supply plenty of hip-wiggling and attitude until the English diva obliges the son's desire to sing with her, rising from the grave for a couple of duets. Amy Fox's portrayal oozes Stepford Wife more than anything else, though a quick Internet search reveals, somewhat unnervingly, that many photos of Ms. Springfield do the same.</p>
+        <p>Oh well, soul doesn't thrive in cover bands. Perhaps it isn't photogenic, either. When Ms. Fox renders a thoroughly unbelievable lip-sync routine of ''Son of a Preacher Man,'' it's tempting to shut your eyes and simply listen. ''All Her Faces'' may not reveal, but it does remind, as we shuffle through this tedious era of Britneys and Parises, that not all blondes spring from the same bottle. It wouldn't be surprising if East Village music stores saw a little lift in Springfield sales these next few weeks. Whoever collects the royalty fees might consider cutting Mr. Innéo a check.</p>
+        <p>CLAUDIA LA ROCCO</p>
+        <p>Theater Review | 'All Her Faces: A Portrait of Dusty Springfield'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

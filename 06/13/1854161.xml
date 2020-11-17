@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Already Spending Heavily, Romney Steps Up Advertising Push</title>
+    <meta content="13ads" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/us/politics/13ads.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854161"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE 2008 CAMPAIGN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Hampshire</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iowa</location>
+        <location class="online_producer">New Hampshire</location>
+        <person class="online_producer">Romney, Mitt</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE7D6173FF930A25755C0A9619C8B63" item-length="1091" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Already Spending Heavily, Romney Steps Up Advertising Push</hl1>
+        <hl2 class="online_headline">Romney Steps Up Advertising Push</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL LUO</byline>
+      <byline class="normalized_byline">Luo, Michael</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mitt Romney has stepped up what is already the costliest early advertising push in a presidential campaign, an effort that his advisers and several media experts credit with helping vault him to the lead in the Republican field in some recent polls in Iowa and New Hampshire.</p>
+        <p>Mr. Romney, the former Massachusetts governor, has spent some $4 million on television advertising since February, focusing mostly on Iowa and New Hampshire, crucial early voting states, according to industry estimates and tracking by an opposing campaign. That heavy spending comes even though the first nominating contests are at least six months away.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mitt Romney’s effort has been credited with helping vault him to the lead in some polls in Iowa and New Hampshire.</p>
+      </block>
+      <block class="full_text">
+        <p>Mitt Romney has stepped up what is already the costliest early advertising push in a presidential campaign, an effort that his advisers and several media experts credit with helping vault him to the lead in the Republican field in some recent polls in Iowa and New Hampshire.</p>
+        <p>Mr. Romney, the former Massachusetts governor, has spent some $4 million on television advertising since February, focusing mostly on Iowa and New Hampshire, crucial early voting states, according to industry estimates and tracking by an opposing campaign. That heavy spending comes even though the first nominating contests are at least six months away.</p>
+        <p>He increased his advertising in a huge way last month, spending more than $2 million, much of it on national cable advertisements. This month, he added a run of television commercials in South Carolina, another early primary. His aggressiveness this early over the airwaves stands in contrast to his Republican competitors, who have yet to broadcast any television spots.</p>
+        <p>Mr. Romney's campaign advisers say their early airtime is necessary because relatively few people across the country know who he is compared with his chief competitors, former Mayor Rudolph W. Giuliani of New York, Senator John McCain and even Fred D. Thompson, the actor and former senator from Tennessee who is considering entering the race.</p>
+        <p>His advertisements have focused on his conservative credentials, mostly showing him on the stump. In one, he declares his love for vetoes; in another, he calls up for a buildup of the nation's military. His team managed to roll out an advertisement with him talking about border security the day after the controversial immigration proposal was announced.</p>
+        <p>''What Romney's doing is extending his conversation with voters, his introduction period, and he's being allowed to do it essentially alone,'' said Evan Tracey, chief operating officer of Campaign Media Analysis Group, which tracks political advertising.</p>
+        <p>Although some of his opponents have challenged his assertions in his advertisements to reporters, arguing that Mr. Romney actually increased spending and fees as governor and that his immigration advertisement actually supports the main provisions of the bill, Mr. Romney's advisers said advertising now, while other Republican candidates remain on the sidelines, allows them an unfettered opportunity to begin to craft voters' first impressions of Mr. Romney.</p>
+        <p>''Every campaign has different needs and different jobs,'' said Alex Castellanos, a top media strategist for Mr. Romney and former Bush campaign adviser who is considered a master of the modern attack advertisement. ''Someone who's unknown has an opportunity to be introduced.''</p>
+        <p>But John Weaver, chief political adviser for Mr. McCain's campaign, said early advertising mattered little in the long run because no one was paying attention at this point.</p>
+        <p>''We're in the dog days of summer, and it's called that for a reason,'' Mr. Weaver said.</p>
+        <p>He discounted any jump Mr. Romney has gotten in the polls, arguing early advertising only created an ''artificial impression that they're doing well.''</p>
+        <p>''They're very soft numbers because it's done in a vacuum,'' he said. ''It would be like, if on a busy intersection, a hamburger chain puts up a store, and they're the only hamburger chain around. People would buy their hamburgers there, but after a period of time, Burger King and McDonald's move in, and the hamburger chain wouldn't do as well.''</p>
+        <p>It is also unclear just how effective television advertisements continue to be in today's rapidly changing media environment, with audiences segmented over a kaleidoscopic array of cable channels and with the competing din of the Internet and other information sources.</p>
+        <p>''There is no model anymore,'' said Simon Rosenberg, president of the New Democrat Network, which instructs liberal activists on how to take advantage of media advances. ''Everything is made up as we go, because audiences are leaving the old platforms. We are hurtling into a post-broadcast media age.''</p>
+        <p>Members of Mr. Romney's media team say they are able to reach those who are already watching the presidential contenders closely by sophisticated microtargeting techniques, pioneered by the Bush campaign in 2004, that crunch through mountains of market research data.</p>
+        <p>''That's why early media makes more sense now than it would have even made even four years ago, because we can find our targets in a fragmented media market,'' said Will Feltus, another member of Mr. Romney's media team.</p>
+        <p>The data helps the campaign's media buyers, he said, isolate specific programs and schedule their advertisements for times of the day when Republican primary-goers are more likely to be watching. The television show ''24,'' for example, has been a favorite of the campaign's.</p>
+        <p>In another unusual move, Mr. Romney has also been running advertisements on national cable networks, focusing mostly on Fox News, a favorite among conservatives. The goal is to establish him among national party activists, fund-raisers and leaders, as well as among early primary voters.</p>
+        <p>Among Democrats, none of the leading candidates has ventured onto the paid airwaves yet. But Gov. Bill Richardson of New Mexico has spent several hundred thousand dollars on television time in Iowa and New Hampshire. Both he and Senator Christopher J. Dodd, of Connecticut, who spent several hundred thousand in advertising last month as well, recently introduced new commercials in New Hampshire.</p>
+        <p>Although they have invested just a fraction of Mr. Romney's total, Mr. Richardson's advisers say their investment is helping him inch up in polls as well.</p>
+        <p>''We really have the playing field to ourselves right now,'' said Mark Putnam, a media consultant for Mr. Richardson's campaign. ''That's why we're moving up.''</p>
+        <p>Back in 2003, Gov. Howard Dean of Vermont began airing advertisements in June, which Steve McMahon, Mr. Dean's top media adviser, recalled was considered ''mind-bogglingly early.''</p>
+        <p>''People thought it was crazy,'' Mr. McMahon said.</p>
+        <p>But the early paid television spots helped establish Mr. Dean, who was relatively unknown at the time, as a serious contender, he said, similar to what they are doing for Mr. Romney.</p>
+        <p>Several media experts said Mr. Romney's approach could become a model for future candidates and expressed surprise that his opponents had let him have the advertising stage to himself for so long.</p>
+        <p>''Why wouldn't you advertise early when people are most likely to be influenced?'' said Kenneth M. Goldstein, a professor of political science at the University of Wisconsin who specializes in political advertising.</p>
+        <p>For candidates like Mr. Romney, who have demonstrated the ability to raise large sums for their campaigns, said Mr. McMahon, Mr. Dean's former media adviser, wasting money is not a concern.</p>
+        <p>''There's no reason they can't sustain their advertising,'' he said, ''from now until next November.''</p>
+        <p>THE 2008 CAMPAIGN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

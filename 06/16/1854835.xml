@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RATE JITTERS</title>
+    <meta content="16five-1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854835"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Mortgage Bankers Assn</org>
+        <person class="indexing_service">Bajaj, Vikas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEED7153FF935A25755C0A9619C8B63" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RATE JITTERS</hl1>
+      </hedline>
+      <byline class="print_byline">By VIKAS BAJAJ</byline>
+      <byline class="normalized_byline">Bajaj, Vikas</byline>
+      <abstract>
+        <p>Five Days column; Borrowing costs rose as big sell-off in bond market this week sent yields on Treasury notes and bonds to five-year high; homeowners and home buyers shopping for mortgage are likely to feel pain of rising rates; national average rate for 30-year fixed-rate mortgage rose to 6.74 percent, up from 6.53 percent in early June; Mortgage Bankers Association report provided mixed picture, indicating that more homeowners with subprime credit are likely to have trouble making house payments; stronger retail sales and more moderate inflation provided boost for stock market; forecasters are now saying economy could pick up speed in second half of year (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Borrowing costs are on the march higher as a big sell-off in the bond market this week sent yields on Treasury notes and bonds to a five-year high.</p>
+        <p>Homeowners and home buyers shopping for a mortgage are likely to feel the pain of the rising rates first and most intensely. The national average rate for a 30-year fixed-rate mortgage jumped to 6.74 percent, up from 6.53 percent in early June.</p>
+      </block>
+      <block class="full_text">
+        <p>Borrowing costs are on the march higher as a big sell-off in the bond market this week sent yields on Treasury notes and bonds to a five-year high.</p>
+        <p>Homeowners and home buyers shopping for a mortgage are likely to feel the pain of the rising rates first and most intensely. The national average rate for a 30-year fixed-rate mortgage jumped to 6.74 percent, up from 6.53 percent in early June.</p>
+        <p>Higher rates appear to be less of a threat to businesses, at least for now.</p>
+        <p>But economists and market specialists caution that another big move up could jeopardize corporate buyouts that are financed by sales of junk bonds.</p>
+        <p>A report Thursday from the Mortgage Bankers Association, meanwhile, provided a mixed picture, indicating that more homeowners with subprime credit are likely to have trouble making house payments. The problems have not spread far into the larger pool of prime borrowers, the report suggested.</p>
+        <p>Perhaps reflecting that more sanguine view, stocks climbed late in the week and the Standard &amp; Poor's 500-stock index and the Dow Jones industrial average both appeared poised to eclipse their recent highs. For the week, the S.&amp; P. gained 1.7 percent and the Dow 1.6 percent.</p>
+        <p>Stronger retail sales and more moderate inflation for everything except food and energy provided a boost to the stock market. In spite of an anemic first quarter, forecasters are now saying the economy could pick up speed in the second half of the year.</p>
+        <p>It is also possible that some of the money investors took out of Treasuries is moving into stocks.</p>
+        <p>As has been the case for some months now, the direction of the economy is likely to hinge on the relative strength and weakness of the housing market and corporate profits.</p>
+        <p>VIKAS BAJAJ</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

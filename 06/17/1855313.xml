@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Into the Wood</title>
+    <meta content="Browning.t" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/books/review/Browning-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855313"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Biographical Information</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Uglow, Jenny</person>
+        <object.title class="online_producer">Nature's Engraver: A Life of Thomas Bewick (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE5DF1F30F934A25755C0A9619C8B63" item-length="1090" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Into the Wood</hl1>
+        <hl2 class="online_headline">Into the Wood</hl2>
+      </hedline>
+      <byline class="print_byline">By DOMINIQUE BROWNING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NATURE'S ENGRAVER</p>
+        <p>A Life of Thomas Bewick.</p>
+        <p>By Jenny Uglow.</p>
+        <p>Illustrated. 458 pp.</p>
+        <p>Farrar, Straus &amp; Giroux. $30.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the 1700s, the engraver Thomas Bewick captured England’s landscape like no one else.</p>
+      </block>
+      <block class="full_text">
+        <p>NATURE'S ENGRAVER</p>
+        <p>A Life of Thomas Bewick.</p>
+        <p>By Jenny Uglow.</p>
+        <p>Illustrated. 458 pp.</p>
+        <p>Farrar, Straus &amp; Giroux. $30.</p>
+        <p>A biography of a late-18th-century English artist whose medium was the woodblock? I confess to having been bewildered by the assignment. Why would anyone care? I thumbed through the book, which is filled with illustrations of country scenes, each about two inches across. Charming enough, at first glance, the kind of sentimental drawings found on packages of soap or seeds, meant to suggest old-time value. Then I got to the beasts -- the foumart, the cur fox, the baboon, the Chillingham bull -- and suddenly, gazing at a handsome illustration of a lion, I remembered, as a child, pulling down an impossibly heavy old leatherbound book of fables, full of magical drawings of wolves and crows and bears, intense in their detail while managing to leave much to the imagination. A few days later, a friend sent me Donald Hall's book about Eagle Pond, his home in New Hampshire, and there were more woodcuts: of skaters on the ice, a dog curled at his master's feet, clouds billowing over mountains, clapboard houses and placid streams. Apart from slicing my palm open with an X-Acto knife while cutting a picture into a block of linoleum during seventh-grade art class, I haven't spent five seconds thinking about woodcuts. Yet they're everywhere you look.</p>
+        <p>There was a time when the woodcut (and its tonier relative, the copperplate) was the only way to illustrate anything from a book to a bar bill to a bank note. And Thomas Bewick was a master of the art. He ''possessed an extraordinary talent,'' Jenny Uglow writes in ''Nature's Engraver: A Life of Thomas Bewick,'' ''and his skill has never been surpassed.'' His art, she adds, ''touched the dawning Romantic age: Wordsworth was among the first to sing his praises, and Charlotte BrontÃdegrees placed his prints of icy seas in the hands of her young heroine, Jane Eyre.''</p>
+        <p>Bewick was born in 1753 on a farm that lay along the banks of the River Tyne in Northumberland, the rough northern region in which he spent most of his life. The Tyne winds in and out of this biography -- roaring and surging over its banks, changing course, freezing solid, drowning children, pulling houses into its wild currents. As a boy, Bewick hated school and church, preferring to be outside exploring, fishing or working the farm. He grew up to become a walker; the kind of man who thought nothing of shouldering his pack and heading out into a winter storm for a few days, not knowing where he would sleep or eat. ''As he walked,'' Uglow explains, ''he felt the changing year course through his blood. The regular rhythm of seeing the same scenes forwards and backwards, over and over, gave them a clarity that was almost surreal.'' That cleareyed gaze -- seeing a thing as if for the first time, then capturing, in a few exact strokes, the detail that renders it familiar -- is the essence of his art.</p>
+        <p>The story of Bewick's life, as Uglow vividly recounts, is first the tale of a young boy who reveled in the natural world. But this is also a biography that traces a time of fierce and constant warfare, mass migration of laborers from the countryside into cities, and everyday suffering due to brutal weather and mysterious illnesses. And it was a time when Britain fell in love with nature. The organization of Uglow's book is clever, embedding one man's chronology into larger natural rhythms, keeping the pace brisk and ranging over a rich cultural and historical landscape.</p>
+        <p>Bewick's first masterpiece, ''A General History of Quadrupeds,'' appeared in 1790, when the study of natural history began to be fashionable. There were no field guides of the sort we take for granted; the world of collectors was unconnected and the discipline of classification nascent. In preparation, Bewick spent nine years studying anything he could get his hands on. He collected illustrations made by artists who accompanied explorers into the wild; he visited touring menageries and borrowed items from private collections of taxidermy.</p>
+        <p>To prepare for his second masterpiece, ''A History of British Birds,'' Bewick sent out word that he needed specimens, and the northern gentry pitched in with enthusiasm. Crates began to arrive, full of birds either clawing for release or long dead, putrid and crawling with maggots. Bewick carefully examined them, then carved his miniature drawings into blocks of boxwood, sliced from logs sent up from London.</p>
+        <p>With the publication of the first volume, ''Land Birds,'' in 1797,Bewick joined the top ranks of British naturalists. A second volume, ''Water Birds,'' followed seven years later. ''These small, delicate birds,'' Uglow notes, ''were the opposite of the glowing, life-size plates of 'Birds of America,' by John James Audubon'' -- who, on meeting Bewick in 1827, described him as ''a tall, stout man, with a large head and with eyes placed farther apart than those of any man I have ever seen.''</p>
+        <p>Bewick next took up a ''History of Fishes.'' At the same time, he began to compose his memoirs, with which he wanted to preach the lessons of his life. A deist, he believed in some kind of intelligent design but was resistant to organized religion. He was a naturalist and a scientist, above all. As he put it in a letter to a friend, the Old Testament's doctrine of original sin didn't ''come within the scope of either rationality or justice.'' Neither ''Fishes'' nor the memoir was completed. The last woodcut Bewick made was a reinterpretation of one he had used decades earlier in his illustrations for Aesop's fables: a bony old horse in front of the decaying stump of a tree, called ''Waiting for Death.'' And death found him, in a fine old age, after a very short illness.</p>
+        <p>''Nature's Engraver'' is a refined and engaging biography, as beautifully wrought, in its way, as Bewick's woodcuts. It simply requires its own leap of faith. Only as I was taking a walk through Central Park one morning -- surrounded by people chattering on cellphones, plugged into iPods, moving with that increasingly familiar gait of creatures only vaguely aware of their surroundings -- did I understand why a book about an obscure figure and an outmoded form of art was so fascinating. Its quiet, cumulative power is in describing the value of a lifetime of paying attention, of seeing what is all around us -- and of approaching the world with a heart full of love and wonder.</p>
+        <p>Dominique Browning is the editor in chief of House &amp; Garden magazine and the author, most recently, of ''Paths of Desire: The Passions of a Suburban Gardener.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Dominique Browning is the editor in chief of House &amp; Garden magazine and the author, most recently, of ''Paths of Desire: The Passions of a Suburban Gardener.''</tagline>
+    </body.end>
+  </body>
+</nitf>

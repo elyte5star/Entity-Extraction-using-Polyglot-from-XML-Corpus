@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boho in Boston</title>
+    <meta content="03boitenew" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/03boitenew.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851838"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BOÎTE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nightclubs and Cabarets</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFD71530F930A35755C0A9619C8B63" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boho in Boston</hl1>
+        <hl2 class="online_headline">Boho in Boston</hl2>
+      </hedline>
+      <byline class="print_byline">By LIZA WEISSTUCH</byline>
+      <dateline>BOSTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE only waiting people do in Boston is for a slow Internet connection. So when the Beehive opened a week and a half ago -- without fanfare or advertising -- and a line stretched out the door every night, people were anxious to know how long the wait was. Even if they weren't entirely sure what they were waiting for.</p>
+        <p>''It's a restaurant?'' Nicole Black, 31, said to her companions when a manager announced that a table had become available for any party waiting to eat.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When the Beehive opened a week and a half ago and a line stretched out the door every night, people were anxious to know how long the wait was. Even if they weren’t entirely sure what they were waiting for.</p>
+      </block>
+      <block class="full_text">
+        <p>THE only waiting people do in Boston is for a slow Internet connection. So when the Beehive opened a week and a half ago -- without fanfare or advertising -- and a line stretched out the door every night, people were anxious to know how long the wait was. Even if they weren't entirely sure what they were waiting for.</p>
+        <p>''It's a restaurant?'' Nicole Black, 31, said to her companions when a manager announced that a table had become available for any party waiting to eat.</p>
+        <p>''I came because I know the band,'' said her friend Iyeoka Okoawo, 32, a spoken-word artist who was interested in checking out the performance area.</p>
+        <p>Nestled in the Boston Center for the Arts complex, the Beehive's space dates from 1884 and was most recently occupied by a black-box theater at street level and a dilapidated basement. Now, a dining room on the upper level overlooks ''the pit,'' where round cafe tables surround a slightly elevated stage. Live jazz, soul or R&amp;B is featured nightly.</p>
+        <p>The Beehive is the newest addition to the South End, where sleek lounges and white-linen restaurants have opened at a steady tempo over the past decade while dive bars have gone the way of the cassette tape.</p>
+        <p>The Beehive draws a dinner crowd, but it also serves as a welcome night-life addition in a city where live music tends to come with a hefty cover charge and throngs of hipper-than-thou students.</p>
+        <p>''This place is oozing with soul,'' said Young Paik, 29, sipping Macallan at the upstairs bar. ''You can hang out up here if you want to cool down.''</p>
+        <p>Local artists helped impart a bordello-meets-supper-club gritty opulence, with touches like stencil work on the walls, recycled wood for the bars and lush red curtains in the pit. Sparkly chandeliers hang from exposed pipes.</p>
+        <p>''I can't believe they made a bar out of a boiler room!'' said Charles Fletcher, 35, an architect and interior designer. ''It has such a bohemian attitude, which is much needed in Boston.''</p>
+        <p>The Beehive takes its name from the French, la ruche, which is also the name of the rotunda-style building in Montparnasse where artists like Chagall and Modigliani stayed when they were short on cash.</p>
+        <p>But at this Beehive, artists and white-collar professionals commingle happily, especially when the music starts. The lack of a formal dance floor doesn't stop people from improvising.</p>
+        <p>''Shall we spin?'' a burly man inquired of a petite blonde in a flowing red top. She grasped his extended hand and twirled accordingly.</p>
+        <p>The Beehive  541 Tremont Street, Boston; (617) 423-0069</p>
+        <p>GETTING IN -- No cover. Make a reservation or get in line. If you don't plan to eat and a table opens up, take the table and a menu.</p>
+        <p>DRESS CODE -- Retro T-shirts, sports jerseys or button-downs with top buttons undone for men. Baby-doll dresses, anything lace-trimmed, slingbacks for women.</p>
+        <p>SIGNATURE DRINK -- Beehive Julep (muddled mint, orange and lime slices, sugar water, Rhum Clément Liqueur Créole Shrubb and white rum, splash of fresh orange juice, splash of fresh citrus), $10.</p>
+        <p>BOÎTE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

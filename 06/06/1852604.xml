@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Dies in Shootout With Police Officers in New Brunswick</title>
+    <meta content="06shot" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070608T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852604"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E2DC1E30F935A35755C0A9619C8B63" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Dies in Shootout With Police Officers in New Brunswick</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE and NATE SCHWEBER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 21-year-old man was killed and a police officer wounded in a shootout in New Brunswick, N.J., last night, the Middlesex County prosecutor said.</p>
+        <p>Bruce Kaplan, the country prosecutor, said officers confronted the man, Sixto Hernandez, shortly after a woman came out of an apartment, screaming and crying around 7 p.m.</p>
+      </block>
+      <block class="full_text">
+        <p>A 21-year-old man was killed and a police officer wounded in a shootout in New Brunswick, N.J., last night, the Middlesex County prosecutor said.</p>
+        <p>Bruce Kaplan, the country prosecutor, said officers confronted the man, Sixto Hernandez, shortly after a woman came out of an apartment, screaming and crying around 7 p.m.</p>
+        <p>Mr. Kaplan said Mr. Hernandez had a history of domestic violence.</p>
+        <p>He said the officers encountered Mr. Hernandez and exchanged shots.</p>
+        <p>Witnesses said at least five officers were involved in the confrontation.</p>
+        <p>One of the officers, Patrick Evans, 22, was hit, but his bulletproof vest protected him, authorities said. He was taken to Robert Wood Johnson University Hospital, where he was in stable condition. Mr. Hernandez was also taken to that hospital, where he was pronounced dead.</p>
+        <p>Daniela Taniarez, a neighbor, said she heard five shots being fired earlier in the day but believed they were firecrackers. Three hours later, her daughter, Louisa Rodriguez, said she saw a shirtless man in his early 20s who was holding a pistol coming out of the apartment, at 25 John Street.</p>
+        <p>Ms. Rodriguez said she then saw three officers approach the man from one side, while two others approached from the other side. In between the officers were two children, around 7 or 8 years old, one on a bike and the other on a scooter. When the children saw the police coming, they dropped the bike and scooter and ran off.</p>
+        <p>''When the guy saw police, he started shooting,'' said Ms. Rodriguez. The officers then returned fire, she said. Mr. Hernandez was holding his pistol with both hands. The shots continually went back and forth until Mr. Hernandez collapsed, bleeding.</p>
+        <p>Ms. Rodriguez said she couldn't believe a shootout was going on right in front of her.</p>
+        <p>''I was in shock,'' she said. ''I was up against the window sill. I couldn't even move.''</p>
+        <p>A neighbor, Senai Tate, 17, said, ''It sounded like firecrackers.''</p>
+        <p>Bullet casings were littered across the asphalt and lawns last night, most of them concentrated outside the apartment.</p>
+        <p>Correction:  June 8, 2007, Friday  An article in some copies on Wednesday about a shootout in New Brunswick, N.J., in which a 21-year-old man was killed and a police officer was wounded gave an erroneous surname from the police for the dead man. He was Sixto Martinez, not Hernandez. The article also misspelled the surname of a neighbor of Mr. Martinez's who said she heard shots fired but thought they were firecrackers. She is Daniela Tamarez, not Taniarez.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 8, 2007, Friday</p>
+        <p>An article in some copies on Wednesday about a shootout in New Brunswick, N.J., in which a 21-year-old man was killed and a police officer was wounded gave an erroneous surname from the police for the dead man. He was Sixto Martinez, not Hernandez. The article also misspelled the surname of a neighbor of Mr. Martinez's who said she heard shots fired but thought they were firecrackers. She is Daniela Tamarez, not Taniarez.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

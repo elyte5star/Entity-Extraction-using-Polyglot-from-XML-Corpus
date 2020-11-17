@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Dog Days</title>
+    <meta content="10phillips" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/10phillips.html" name="alternate_url"/>
+    <meta content="SUMMERSCAPES: An occasional series on the rites of summer" name="series_name"/>
+    <docdata>
+      <doc-id id-string="1853307"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="descriptor">Friendship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Friendship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <person class="online_producer">Phillips, Arthur</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DD163FF933A25755C0A9619C8B63" item-length="1435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Dog Days</hl1>
+        <hl2 class="online_headline">My Dog Days</hl2>
+      </hedline>
+      <byline class="print_byline">By Arthur Phillips</byline>
+      <byline class="normalized_byline">Phillips, Arthur</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MY little guy is growing up fast. He's toilet-trained, he goes uncomplainingly to sleep and he no longer chews on his playmates' faces until they bleed. He is 8 months old, and I know, years from now, that I will always remember this summer as the time he and I fell in love.</p>
+        <p>Between this summer and next, this latest beagle -- the third of my adult life -- will age from zero to 1 (or zero to 7), on a fast track to reduce me to mourning sometime in my early 50s.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With a dog, for whom fewer than 15 summers is a lifetime, each new, accelerating summer memorably marks the pace of life.</p>
+      </block>
+      <block class="full_text">
+        <p>MY little guy is growing up fast. He's toilet-trained, he goes uncomplainingly to sleep and he no longer chews on his playmates' faces until they bleed. He is 8 months old, and I know, years from now, that I will always remember this summer as the time he and I fell in love.</p>
+        <p>Between this summer and next, this latest beagle -- the third of my adult life -- will age from zero to 1 (or zero to 7), on a fast track to reduce me to mourning sometime in my early 50s.</p>
+        <p>But for now, Hamish is at my feet, on the terrace of a Brooklyn cafe, trying to sit still as a writer's dog should while I work on this essay. I ponder the nature of memory; he chews a gnarled leathery stick that is, the sweet lady at the pet store promised me, 100 percent bull penis.</p>
+        <p>My girlfriend and I were living in Boston late last century when we bought Edgar, a lemon beagle, who, at 8 weeks old, still just tipped over when he was tired, asleep before he hit the floor.</p>
+        <p>The acquisition of a puppy implied vast confidence in our relationship; at least one of our parents asked if we'd really thought about our ''commitment.'' To each other? To the dog? We were already intertwined: that was summer 1995.</p>
+        <p>Some of my clearest memories of that Boston summer come from Edgar introducing me to the carnival known as ''dog parks,'' enclosed spaces where dogs are healthy and humans spectacularly neurotic.</p>
+        <p>The figures come back very sharply (maybe too sharply to be trusted): the man who pulled his healthy Labrador to the park in a shiny red Radio Flyer wagon; the woman who fretted that her female shepherd was made ''uncomfortable'' by the advances of male dogs; the bearded Viking giant who rolled his gigantic wolf hybrid on its back and growled in its face at the slightest sign of disobedience.</p>
+        <p>Summer meant watching my girlfriend walk Edgar on the banks of the Charles, where they illustrated the complex physics involved when spandex-clad skaters crossed the axis of a retractable leash. That was the summer of Edgar raiding picnics on the Boston Common, liberating hot dogs from blankets without breaking stride. It was the summer of long, idyllic mornings in the Public Garden, reading Thomas Mann and not quite figuring out my literary ambitions, Edgar always at my side.</p>
+        <p>But one memory above all gives that summer its place in my life story, and Edgar sits obediently at its center.</p>
+        <p>My girlfriend and I read in one of our many training books that dogs are happiest when playing games similar to the tasks they were bred for. Shepherds should herd; retrievers retrieve; hounds track. Dog-obsessed, we committed ourselves to this, lest the little fellow's development be stunted by shabby parenting. Beagles are purported to be rabbit hunters, so we set to work providing our friend with a chance to self-actualize by honing his lagomorphocidal instincts.</p>
+        <p>In the rippling heatof a Boston July, we took Edgar to a green suburban meadow. He sat dutifully as we dragged a small canvas cylinder drenched in ''rabbit scent'' through the tall grass, making an aromatic path, then leaving the toy and a dog biscuit hidden at the trail's end.</p>
+        <p>''Ready, boy? Get that rabbit!'' I urged the stationary beagle, a small Ferdinand the Bull. ''Kill the wabbit!''</p>
+        <p>I tapped his rear, and, as if I could almost hear him say, ''I would prefer not to,'' he stood up, put his nose to the ground, and walked off, in precisely the opposite direction of the imaginary bunny's escape.</p>
+        <p>Edgar sat down again, some 20 feet away, where, I swear, an actual rabbit -- aroused to lunacy by the field steaming with eau de lapin -- leapt directly over him.</p>
+        <p>The beauty and strangeness of the sight -- reckless prey taunting sleepy predator -- led me to the most reckless moment of my life, and I suggested to my girlfriend that she might consider marrying me. She, equally inspired to leap over danger's cute and furry head, thought the notion not unfeasible.</p>
+        <p>Six summers later, my wife and I took Edgar and our young son to live in Paris for two years. Its reputation as a dog-centric city is merited but not in a way most American dogs would appreciate. The French have so confounded canine pleasures with their own that they simply treat dogs as marginally furrier, shorter Frenchmen: le chien is welcome to sit on the banquette at the cafe, is warmly greeted when browsing the boutiques, is considered an old friend by the grocer, but is, like le français bipède, strictly forbidden from setting paw on green grass.</p>
+        <p>This reversal of Boston -- no dog parks, just cafes -- was disorienting to Edgar and me, both of us now in early middle age, our timelines crossing there in Paris. So we marched up and down the Seine, his leash hooked to the stroller, and we discovered that the beagle's natural prey is not the rabbit, but the baguette.</p>
+        <p>I have no shortage of non-dog memories from Paris, but the chronology clarifies itself instantly when I remember this: whenever we came home, even in the hottest, most unconditioned air, Edgar still ran up the three flights of crimson-carpeted staircase to our door, his back legs propelling in unison, like a dwarf kangaroo. But, only a single summer later, when we had moved our growing family to the coast of South Carolina, Edgar walked upstairs one leg at a time.</p>
+        <p>He and I forged a new summer routine on the Atlantic Coast, more suited to a dog of later middle years and his suddenly younger human. The extreme heat allowed us outside only early in the morning and late in the evening, and then we walked on the beach.</p>
+        <p>Edgar, beach, sunset: and at once I have those summers in detail. We wandered the shore, confident without a leash, and I would occasionally slow down for my friend, now definitely older than I, while (and you'll have to trust me) dolphins arched and leapt not 30 feet from our wet bare feet and paws. A pod of four to six would, on some fine nights, keep unlikely perfect pace with us, matching our step for a mile or two.</p>
+        <p>Because of new zoning laws that require all novelists to live in Brooklyn, we moved to the borough a few years back, my two children, my wife and our elderly dog, Edgar.</p>
+        <p>Despite all the evidence of passing time (my younger boy could talk, my older liked school, I was writing my third novel), nothing brings back that first New York summer any faster than the memory of Edgar not terribly interested in the dogs at the dog park near our home, and the summer after that, him slow with cancer, an old, old fellow with no interest in much of anything but trying to find a comfortable position on the couch.</p>
+        <p>That same pup who had, 11 summers before, blessed my betrothal in the tall grass of the Boston suburbs, I now carried in my arms the six blocks from our Brooklyn home to the veterinary hospital where the final kindness I could do my old friend at the end of our last walk was to give him the injection that made his tired body kick, then shudder, then sleep.</p>
+        <p>Will I -- 40 years hence -- distinguish between the summer my son was 8 and the one he was 9? I admit: maybe not. But, with a dog, for whom fewer than 15 summers is a lifetime, each new, accelerating summer memorably marks my slower life, too.</p>
+        <p>It seems like summer today. Brooklyn looks wonderful. The cherry and the white pear blossoms have fallen, but it's not too hot yet. Ellis Island floats, sharply focused, an easy jump off the end of Atlantic Avenue. We have just come from the dog park where Hamish and a greyhound puppy have rolled down a hill wrapped in each other's paws, each chewing on the other's face.</p>
+        <p>At the cafe, his leash is binding my shins as I try and fail to find the words to express all this. He has made a gift of his half-consumed bull penis to the nice people at the table next to me. He is putting his paws up on my lap. I have reset the clock of my memory with this new puppy, staring up with floppy ears and brown eyes, asking when, oh when, can we leave this place and go for another unforgettable walk?</p>
+        <p>Op-Ed Contributor Arthur Phillips is the author of ''The Egyptologist'' and, most recently, ''Angelica.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Arthur Phillips is the author of ''The Egyptologist'' and, most recently, ''Angelica.''</tagline>
+    </body.end>
+  </body>
+</nitf>

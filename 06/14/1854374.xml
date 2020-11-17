@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Iran's Nuclear Program</title>
+    <meta content="l14iran" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854374"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DA143FF937A25755C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Iran's Nuclear Program</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Looking for Leadership'' (editorial, June 7):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Looking for Leadership'' (editorial, June 7):</p>
+        <p>Your call for a ''full-court sanctions press'' on Iran for refusing to forfeit its legal right to an independent nuclear fuel cycle fully monitored by the International Atomic Energy Agency is misguided.</p>
+        <p>Iran has no nuclear weapons ambitions or programs that it would abandon under external pressure. The misguided path of illegal, coercive sanctions will only escalate the tensions and worsen the global perception of a hypocritical double standard aimed at depriving Iran of the rights enjoyed by other nations.</p>
+        <p>Fortunately, the vast majority of the world community, including the developing nations of the nonaligned movement and the member states of the Organization of the Islamic Conference, have recognized Iran's right to peaceful nuclear technology. The United States, on the other hand, has already failed a critical test of global leadership by its coercive, discriminatory policies toward Iran and the Islamic world.</p>
+        <p>Other G-8 states should not emulate the United States and thus allow the misuse of international forums to perpetuate its failed approach toward such issues.</p>
+        <p>M. A. Mohammadi  Press Counselor  Mission of Iran to the U.N.  New York, June 7, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Veronica Beke, Christopher Aquilino</title>
+    <meta content="03Beke" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851869"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Beke, Veronica Anne (Veronica Anne Aquilino)</person>
+        <person class="indexing_service">Aquilino, Christopher Thomas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6DA1230F930A35755C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Veronica Beke, Christopher Aquilino</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Veronica Anne Beke and Christopher Thomas Aquilino were married yesterday by the Rev. Dr. Robert J. Duncan at the United Methodist Church of Southampton in Southampton, N.Y.</p>
+        <p>The bride, 32, is a deputy attorney general with the office of the New Jersey Attorney General. She graduated from Indiana University and received her law degree from Seton Hall.</p>
+      </block>
+      <block class="full_text">
+        <p>Veronica Anne Beke and Christopher Thomas Aquilino were married yesterday by the Rev. Dr. Robert J. Duncan at the United Methodist Church of Southampton in Southampton, N.Y.</p>
+        <p>The bride, 32, is a deputy attorney general with the office of the New Jersey Attorney General. She graduated from Indiana University and received her law degree from Seton Hall.</p>
+        <p>She is a daughter of Marianne H. Beke and Dr. Theodore J. Beke of Franklin Lakes, N.J. Her father, an anesthesiologist at the Valley Hospital in Ridgewood, N.J., is in a group practice, the Bergen Anesthesia Group, in Wyckoff, N.J.</p>
+        <p>The bridegroom, 40, is a supervisory special agent with the F.B.I. in New York and is temporarily assigned to Washington, supervising investigations being conducted by special agents in 56 field offices. He graduated cum laude from Middlebury College and received a law degree from American University.</p>
+        <p>He is a son of Edith L. Aquilino and Judge Thomas J. Aquilino Jr. of Pelham, N.Y. His father is a senior United States judge on the United States Court of International Trade in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

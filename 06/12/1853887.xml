@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SCHEIBE, KAETE LOEBHARDT</title>
+    <meta content="dn061207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853887"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SCHEIBE, KAETE LOEBHARDT</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EED9143AF931A25755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SCHEIBE, KAETE LOEBHARDT</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHEIBE--Kaete Loebhardt. Kaete Scheibe, 95, of Syracuse, passed away Sunday morning, June 10, 2007. Kaete was born in Germany and immigrated to the United States in 1936. She lived in Manhattan until 2004 when she moved to Syracuse. An independent woman with a spirited personality, Kaete and her husband Erich raised two sons and led an active life. A lover of art and music, a volunteer in community organizations and temple groups, and an avid photographer, she embraced life. Kaete was predeceased by her husband Erich Scheibe in 1981 and her daughter - in - law Judith Scheibe in 2005. She is survived by her son Robert Scheibe of Scarsdale, her son Peter Scheibe (Margaret Gelfuso) of Syracuse and her granddaughters, Alexandra Scheibe (Kyle Taylor) of New York City and Gabrielle Scheibe of Los Angeles. Funeral services will be held on Wednesday, June 13 at Sisskind Funeral Service in Syracuse.</p>
+      </block>
+      <block class="full_text">
+        <p>SCHEIBE--Kaete Loebhardt. Kaete Scheibe, 95, of Syracuse, passed away Sunday morning, June 10, 2007. Kaete was born in Germany and immigrated to the United States in 1936. She lived in Manhattan until 2004 when she moved to Syracuse. An independent woman with a spirited personality, Kaete and her husband Erich raised two sons and led an active life. A lover of art and music, a volunteer in community organizations and temple groups, and an avid photographer, she embraced life. Kaete was predeceased by her husband Erich Scheibe in 1981 and her daughter - in - law Judith Scheibe in 2005. She is survived by her son Robert Scheibe of Scarsdale, her son Peter Scheibe (Margaret Gelfuso) of Syracuse and her granddaughters, Alexandra Scheibe (Kyle Taylor) of New York City and Gabrielle Scheibe of Los Angeles. Funeral services will be held on Wednesday, June 13 at Sisskind Funeral Service in Syracuse.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

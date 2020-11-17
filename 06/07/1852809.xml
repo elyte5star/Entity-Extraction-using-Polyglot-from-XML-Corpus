@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: China Reminds Hong Kong Who's Boss</title>
+    <meta content="07briefs-8" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852809"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <location class="indexing_service">Hong Kong</location>
+        <location class="indexing_service">Beijing (China)</location>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <person class="indexing_service">Wu Bangguo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Beijing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Hong Kong</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E2D61E30F934A35755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: China Reminds Hong Kong Who's Boss</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER</byline>
+      <byline class="normalized_byline">Bradsher, Keith</byline>
+      <abstract>
+        <p>Wu Bangguo, chairman of China's Standing Committee of National People's Congress, says at conference in Beijing that Hong Kong has considerable autonomy only because central government in Beijing chose to authorize that autonomy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wu Bangguo, the chairman of the Standing Committee of the National People's Congress, said at a conference in Beijing that Hong Kong had considerable autonomy only because the central government had chosen to authorize that autonomy. Under the Sino-British Joint Declaration of 1984, China promised Britain that as part of the return of Hong Kong to Chinese rule China would preserve ''a high degree of autonomy'' for the territory. But Chinese officials focus these days on the Basic Law, a Beijing-drafted document that serves as Hong Kong's mini-constitution and gives broad powers to the Standing Committee in Beijing to set policy in Hong Kong by interpreting the territory's laws. Mr. Wu spoke ahead of the 10th anniversary on July 1 of Hong Kong's return to China.</p>
+        <p>KEITH BRADSHER</p>
+      </block>
+      <block class="full_text">
+        <p>Wu Bangguo, the chairman of the Standing Committee of the National People's Congress, said at a conference in Beijing that Hong Kong had considerable autonomy only because the central government had chosen to authorize that autonomy. Under the Sino-British Joint Declaration of 1984, China promised Britain that as part of the return of Hong Kong to Chinese rule China would preserve ''a high degree of autonomy'' for the territory. But Chinese officials focus these days on the Basic Law, a Beijing-drafted document that serves as Hong Kong's mini-constitution and gives broad powers to the Standing Committee in Beijing to set policy in Hong Kong by interpreting the territory's laws. Mr. Wu spoke ahead of the 10th anniversary on July 1 of Hong Kong's return to China.</p>
+        <p>KEITH BRADSHER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

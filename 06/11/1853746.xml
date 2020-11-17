@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Putin Plays Down I.M.F. and W.T.O.</title>
+    <meta content="11chiefs" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853746"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DF173FF932A25755C0A9619C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Putin Plays Down I.M.F. and W.T.O.</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW E. KRAMER</byline>
+      <dateline>ST. PETERSBURG, Russia, June 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Vladimir V. Putin of Russia called Sunday for a new global economic framework that would play down the role of institutions like the International Monetary Fund and the World Trade Organization and instead emphasize regional alliances.</p>
+        <p>Such a system, he said, would reflect the rising power of emerging- market economies like Russia, China, India and Brazil, and the decline of old heavyweights like the United States, the Europeans and Japan.</p>
+      </block>
+      <block class="full_text">
+        <p>President Vladimir V. Putin of Russia called Sunday for a new global economic framework that would play down the role of institutions like the International Monetary Fund and the World Trade Organization and instead emphasize regional alliances.</p>
+        <p>Such a system, he said, would reflect the rising power of emerging- market economies like Russia, China, India and Brazil, and the decline of old heavyweights like the United States, the Europeans and Japan.</p>
+        <p>Mr. Putin, speaking at a business forum attended by international corporate executives, said advanced industrial economies were dominating the institutions of world trade in an ''inflexible'' manner, even as their own share of global wealth was diminishing.</p>
+        <p>The world needs a ''new architecture of international economic relations based on trust and mutually beneficial integration,'' he said. ''Today protectionism, which the W.T.O. is meant to fight, often comes from developed economies.''</p>
+        <p>He said that more than 60 percent of the world's output was produced outside the G-7 countries: the United States, Britain, France, Germany, Italy, Japan and Canada.</p>
+        <p>Goldman Sachs has predicted that by 2050, Brazil, Russia, India and China will be the world's dominant economies.</p>
+        <p>Mr. Putin's critique of Western economic institutions came as Russia is seeking membership in the W.T.O., the Geneva-based forum for world economic disputes. W.T.O. members have criticized Russia for allowing the pirating of intellectual property, among other violations of trade rules.</p>
+        <p>The Russian leader's ideas received a lukewarm response from the foreign officials in attendance.</p>
+        <p>Peter Mandelson, the European Union trade commissioner, countered Mr. Putin's suggestion that regional economic alliances might replace global institutions like the I.M.F., which emerged more than half a century ago in the aftermath of World War II. ''Globalization does not respect spheres of influence,'' Mr. Mandelson said. ''Membership in the W.T.O. is Russia's ticket to a rules-based system.''</p>
+        <p>The meeting was held to reassure investors and foreign leaders that Russia remained committed to free trade and open to foreign investment, in spite of a chill in political relations with the West.</p>
+        <p>At the meeting, Boeing announced a $3.5 billion plane sale to the Russian national carrier Aeroflot. Also, Suzuki, Audi and Samsung announced new factories. In total, 30 deals were signed worth $13.5 billion, according to organizers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

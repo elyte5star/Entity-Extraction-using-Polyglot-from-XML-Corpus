@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Good Choice for the Chiefs</title>
+    <meta content="13wed2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/opinion/13wed2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854190"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Mullen, Michael (Adm)</person>
+        <person class="indexing_service">Gates, Robert M (Sec)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Joint Chiefs of Staff</org>
+        <person class="online_producer">Mullen, Michael G</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7DF143FF930A25755C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Good Choice for the Chiefs</hl1>
+        <hl2 class="online_headline">Good Choice for the Chiefs</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports nomination of Adm Michael Mullen as chairman of Joint Chiefs of Staff; holds that Defense Sec Robert Gates's choice of Mullen seems to indicate that he wants honest, professional advice about Iraq and how best to proceed</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A strong, independent chairman of the Joint Chiefs of Staff can help protect the country against badly conceived and managed military operations -- like the disastrous misconduct of the war in Iraq. Regrettably, the last two chairmen proved neither strong nor independent, refusing to stand up to the bullying and ideological blindness of former Defense Secretary Donald Rumsfeld.</p>
+        <p>There is good reason to hope that the man nominated to take charge in September, Adm. Michael Mullen, will do a better job and get a fuller hearing from the man who announced his nomination, Defense Secretary Robert Gates.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There is good reason to hope that Adm. Michael Mullen, nominated to take charge as chairman of the Joint Chiefs of Staff in September, will do a better job than his predecessor.</p>
+      </block>
+      <block class="full_text">
+        <p>A strong, independent chairman of the Joint Chiefs of Staff can help protect the country against badly conceived and managed military operations -- like the disastrous misconduct of the war in Iraq. Regrettably, the last two chairmen proved neither strong nor independent, refusing to stand up to the bullying and ideological blindness of former Defense Secretary Donald Rumsfeld.</p>
+        <p>There is good reason to hope that the man nominated to take charge in September, Adm. Michael Mullen, will do a better job and get a fuller hearing from the man who announced his nomination, Defense Secretary Robert Gates.</p>
+        <p>In his current job as the Navy's top officer, Admiral Mullen has demonstrated intellectual creativity and independence as he has tried to reshape maritime strategies for a new era of unconventional threats and challenges. He has particularly pressed the idea of multiplying America's strategic reach by cooperating with other navies against common threats like weapons proliferation and smuggling.</p>
+        <p>By law, the chairman is the principal military adviser to the president and the secretary of defense. His responsibility is to ensure that civilian decision makers hear the best professional advice from top commanders in the Pentagon and around the world. Former chairmen like Adm. William Crowe and Gen. Colin Powell in the late 1980s and early 1990s carried out these responsibilities well.</p>
+        <p>Both the current chairman, Gen. Peter Pace, and his predecessor, Gen. Richard Myers, failed in that essential responsibility. When Mr. Rumsfeld decided he could fight the war in Iraq with too few men and too little planning -- ignoring the advice of experienced military professionals and outside experts -- both men saluted and mouthed the same disastrous nonsense.</p>
+        <p>By choosing Admiral Mullen, Mr. Gates seems to be saying that he wants to hear the truth about Iraq and what can now be done to extract American troops and contain the disaster. We hope that the admiral will deliver the truth and that together they can finally get President Bush to listen.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

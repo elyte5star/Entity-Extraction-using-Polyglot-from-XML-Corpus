@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Martha Graham Dance Company</title>
+    <meta content="05roun-4" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852409"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC AND DANCE IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE4D81130F936A35755C0A9619C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Martha Graham Dance Company</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sitelines Festival  Martha Graham might have smiled at the thought of performing her 1936 antiwar piece ''Chronicle'' on the street in front of the New York Stock Exchange. War and big business have been known to have an affinity, after all. But Graham felt strongly about other issues of the times too, and so when nature intervened to require program changes, there were plenty of dances to draw from.</p>
+      </block>
+      <block class="full_text">
+        <p>Sitelines Festival  Martha Graham might have smiled at the thought of performing her 1936 antiwar piece ''Chronicle'' on the street in front of the New York Stock Exchange. War and big business have been known to have an affinity, after all. But Graham felt strongly about other issues of the times too, and so when nature intervened to require program changes, there were plenty of dances to draw from.</p>
+        <p>The company had opened the Lower Manhattan Cultural Council's Sitelines festival on Friday with excerpts from ''Chronicle.'' But the sun made the stage burning hot, and some of the dancers' bare feet became blistered. Three solos were substituted for planned programs Saturday and Sunday, to no less provocative effect.</p>
+        <p>The company's vividly effective introductions to each piece, spoken by David Zurak, a member of the troupe, set each solo in the context of Graham's body of work. ''Serenata Morisca,'' created around 1920 and performed by Blakeley White-McGuire, was the sort of vaudevillian effort that Graham would soon leave behind. The solo, Mr. Zurak said, could have been performed to entertain shahs and kings. Ms. White-McGuire's snaking arms and come-hither hands might well entertain the corporate barons who have taken the place of royalty today, their palace being the handsome, stolid marble building behind the dancer with its American flags flying everywhere. But Ms. White-McGuire's torso had the taut strength of a ready bow. Graham found power even in frivolity.</p>
+        <p>Her 1937 ''Deep Song,'' a protest against European Fascism during the Spanish Civil War, was powerfully plain. All three soloists managed to fill the vast open space around them, though some of the subtleties were lost. Miki Orihara, who danced ''Deep Song,'' communicated clearly the warring impulses of defiance and despair. And Jennifer DePalo-Rivera's sly performance of the powerfully giddy ''Satyric Festival Song'' (1932) had a small boy in the audience giggling along with nearly every move in this somewhat self-mocking dance.</p>
+        <p>JENNIFER DUNNING</p>
+        <p>The free outdoor Sitelines festival continues through Sept. 14 at public areas throughout Manhattan; (212) 219-9401 or lmcc.net/sitelines.</p>
+        <p>MUSIC AND DANCE IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

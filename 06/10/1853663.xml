@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Genevieve Guenther, Neal Cardwell</title>
+    <meta content="10guenther" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10guenther.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853663"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Guenther, Genevieve Juliette</person>
+        <person class="indexing_service">Cardwell, Neal Douglas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4D61F30F933A25755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Genevieve Guenther, Neal Cardwell</hl1>
+        <hl2 class="online_headline">Genevieve Guenther, Neal Cardwell</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Genevieve Juliette Guenther and Neal Douglas Cardwell were married yesterday at the Atwood Ranch in Glen Ellen, Calif. Saskia Traill, a friend of the couple who became a Universal Life minister for this event, officiated.</p>
+        <p>Ms. Guenther, 37, is keeping her name. She is on sabbatical until September as an assistant professor of English at the University of Rochester. She graduated summa cum laude from Columbia and received a doctorate in English from the University of California, Berkeley.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Genevieve Juliette Guenther and Neal Douglas Cardwell were married yesterday at the Atwood Ranch in Glen Ellen, Calif. Saskia Traill, a friend of the couple who became a Universal Life minister for this event, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Genevieve Juliette Guenther and Neal Douglas Cardwell were married yesterday at the Atwood Ranch in Glen Ellen, Calif. Saskia Traill, a friend of the couple who became a Universal Life minister for this event, officiated.</p>
+        <p>Ms. Guenther, 37, is keeping her name. She is on sabbatical until September as an assistant professor of English at the University of Rochester. She graduated summa cum laude from Columbia and received a doctorate in English from the University of California, Berkeley.</p>
+        <p>She is the daughter of Greta Thyssen of New York and the late Theodore Guenther. Her mother is an actress and was Miss Denmark in 1952. The bride's father was a founder of Ferrous Wheel Group, a steel manufacturer that was in New York.</p>
+        <p>Mr. Cardwell, 33, is a senior software designer and programmer at Google in Mountain View, Calif. He graduated summa cum laude from William and Mary and received a master's degree in computer science from the University of Washington.</p>
+        <p>He is the son of Barbara Wilcox of West Branch, Iowa, and Gary Cardwell of Collinsville, Va. His mother is the librarian at West Liberty Middle School in Iowa. His father, who is retired, was a public defender in Virginia. The bridegroom is the stepson of Ann Cardwell.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

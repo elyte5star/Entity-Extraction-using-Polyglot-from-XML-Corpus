@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Victoria Hays, Michael Feuerstein</title>
+    <meta content="10HAYS" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10HAYS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853630"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Hays, Victoria Odette</person>
+        <person class="indexing_service">Feuerstein, Dr. Michael Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EED71F30F933A25755C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Victoria Hays, Michael Feuerstein</hl1>
+        <hl2 class="online_headline">Victoria Hays, Michael Feuerstein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Victoria Odette Hays, a daughter of Odette and Spencer B. Hays of New York, was married yesterday to Dr. Michael Adam Feuerstein, a son of Deborah and Richard Feuerstein of Scarsdale, N.Y. Cantor Henry Weintraub performed the ceremony at the Point O' Woods Yacht Squadron on Fire Island in New York , with the Right Rev. John S. Spong, the former bishop of the Episcopal diocese of Newark, taking part.</p>
+        <p>The couple met at Hamilton College, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Victoria Odette Hays, a daughter of Odette and Spencer B. Hays of New York, was married yesterday to Dr. Michael Adam Feuerstein, a son of Deborah and Richard Feuerstein of Scarsdale, N.Y. Cantor Henry Weintraub performed the ceremony at the Point O’ Woods Yacht Squadron on Fire Island in New York , with the Right Rev. John S. Spong, the former bishop of the Episcopal diocese of Newark, taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Victoria Odette Hays, a daughter of Odette and Spencer B. Hays of New York, was married yesterday to Dr. Michael Adam Feuerstein, a son of Deborah and Richard Feuerstein of Scarsdale, N.Y. Cantor Henry Weintraub performed the ceremony at the Point O' Woods Yacht Squadron on Fire Island in New York , with the Right Rev. John S. Spong, the former bishop of the Episcopal diocese of Newark, taking part.</p>
+        <p>The couple met at Hamilton College, from which they graduated.</p>
+        <p>Ms. Hays, 27, is keeping her name. She was until last week an associate teacher in the first grade at the Chapin School in New York. She received a master's degree in education from New York University. Her father retired as a senior vice president and a deputy general counsel at Time Warner, the media business in New York.</p>
+        <p>Dr. Feuerstein, also 27, is to become in intern in general surgery at Albany Medical Center, where he is to begin a residency program in urology, in July. He received his medical degree last month from Albany Medical College. His mother is a certified public accountant in private practice in New York. His father retired as an earth science teacher at Museum School 25 in Yonkers and now owns All Star Photography in Scarsdale.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

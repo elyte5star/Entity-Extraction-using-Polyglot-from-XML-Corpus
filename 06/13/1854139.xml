@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="13trsale" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854139"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E2D7173FF930A25755C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale</p>
+        <p>$54.5 million  569 Lexington Avenue (at 51st St., above)  155 East 38th Street (between Third and Lexington Avenues)  110 East 16th Street (Union Square East and Irving Place)</p>
+        <p>Manhattan  MetLife has bought three parking garages that it plans to lease.  Buyer: MetLife  Seller: Icon Parking  Brokers: Brian Ezratty and Heidi Burkhart, Eastern Consolidated</p>
+        <p>Recent Lease</p>
+        <p>$135/sq. ft .  approximate annual rent $317,790  450 Park Avenue (at 57th Street)</p>
+        <p>Manhattan  A real estate investor, which conducts business as Shelter Rock Asset Management, has taken a five-year lease for 2,354 square feet on the 27th floor of this 1972 building.  Tenant: KSK International Inc.  Tenant brokers: Barry Bernstein and David Danick, Winoker Realty  Landlord: Taconic Management  Landlord broker: Laurence Briody, CB Richard Ellis</p>
+        <p>For Lease</p>
+        <p>$62/sq. ft.  annual rent $496,000  625 Broadway (between Houston and Bleecker Streets)</p>
+        <p>Manhattan  An 8,000-square-foot penthouse, with cast-iron columns and windows on three sides, is available in this 12-story 1896 NoHo building.  Owner: Argo Corporation  Brokers: Robert Frost and Andrew M. Weiss Jr., Signature Partners</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale</p>
+        <p>$54.5 million  569 Lexington Avenue (at 51st St., above)  155 East 38th Street (between Third and Lexington Avenues)  110 East 16th Street (Union Square East and Irving Place)</p>
+        <p>Manhattan  MetLife has bought three parking garages that it plans to lease.  Buyer: MetLife  Seller: Icon Parking  Brokers: Brian Ezratty and Heidi Burkhart, Eastern Consolidated</p>
+        <p>Recent Lease</p>
+        <p>$135/sq. ft .  approximate annual rent $317,790  450 Park Avenue (at 57th Street)</p>
+        <p>Manhattan  A real estate investor, which conducts business as Shelter Rock Asset Management, has taken a five-year lease for 2,354 square feet on the 27th floor of this 1972 building.  Tenant: KSK International Inc.  Tenant brokers: Barry Bernstein and David Danick, Winoker Realty  Landlord: Taconic Management  Landlord broker: Laurence Briody, CB Richard Ellis</p>
+        <p>For Lease</p>
+        <p>$62/sq. ft.  annual rent $496,000  625 Broadway (between Houston and Bleecker Streets)</p>
+        <p>Manhattan  An 8,000-square-foot penthouse, with cast-iron columns and windows on three sides, is available in this 12-story 1896 NoHo building.  Owner: Argo Corporation  Brokers: Robert Frost and Andrew M. Weiss Jr., Signature Partners</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

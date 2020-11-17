@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Interrogation Abuses</title>
+    <meta content="l06torture" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EEDE1E30F935A35755C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Interrogation Abuses</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Advisers Fault Harsh Methods in Interrogation'' (front page, May 30):</p>
+        <p>The abusive interrogation methods reverse-engineered from the military's Survival, Evasion, Resistance and Escape torture-resistance program cause enormous psychological harm ranging from psychosis and suicidal ideation to post-traumatic stress disorder. They are not only unreliable and immoral; they constitute torture and violate the United States' commitment to respect the most basic human rights.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Advisers Fault Harsh Methods in Interrogation'' (front page, May 30):</p>
+        <p>The abusive interrogation methods reverse-engineered from the military's Survival, Evasion, Resistance and Escape torture-resistance program cause enormous psychological harm ranging from psychosis and suicidal ideation to post-traumatic stress disorder. They are not only unreliable and immoral; they constitute torture and violate the United States' commitment to respect the most basic human rights.</p>
+        <p>Yet according to the Pentagon's inspector general, psychologists, under the guise of behavioral science, have used their credentials to develop and carry out these highly abusive techniques at Guantánamo, in Iraq and Afghanistan, and elsewhere. The abuses are a direct result of trying to rely on science and scientists to break down detainees.</p>
+        <p>The only appropriate response, for the profession and for the government, is to end the direct participation of psychologists, who have an ethical obligation to minimize harm, in interrogations.</p>
+        <p>Leonard S. Rubenstein  Stephen N. Xenakis, M.D.  Washington, May 30, 2007</p>
+        <p>The writers are, respectively, executive director, Physicians for Human Rights; and a retired Army brigadier general who is a former commander of the Southeast Medical Command.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

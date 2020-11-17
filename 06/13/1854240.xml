@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; New Executive Director For Jazz at Lincoln Center</title>
+    <meta content="13arts-1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854240"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E7DE143FF930A25755C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; New Executive Director For Jazz at Lincoln Center</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jazz at Lincoln Center will have a new executive director as of Oct. 1, the company announced on Monday. Adrian Ellis, president of AEA Consulting, will replace Katherine Brown, who is resigning after a decade with the organization. Mr. Ellis will be primarily responsible for operational and financial matters. Wynton Marsalis is the company's artistic director. At AEA, a management consulting company with offices in New York and London, Mr. Ellis has served clients like the National Gallery in London, San Francisco Opera, the Royal Shakespeare Company, the Andrew W. Mellon Foundation and the Frick Collection. In April 2006, Derek E. Gordon stepped down as president and chief executive of Jazz at Lincoln Center after a little more than a year in the job.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+      <block class="full_text">
+        <p>Jazz at Lincoln Center will have a new executive director as of Oct. 1, the company announced on Monday. Adrian Ellis, president of AEA Consulting, will replace Katherine Brown, who is resigning after a decade with the organization. Mr. Ellis will be primarily responsible for operational and financial matters. Wynton Marsalis is the company's artistic director. At AEA, a management consulting company with offices in New York and London, Mr. Ellis has served clients like the National Gallery in London, San Francisco Opera, the Royal Shakespeare Company, the Andrew W. Mellon Foundation and the Frick Collection. In April 2006, Derek E. Gordon stepped down as president and chief executive of Jazz at Lincoln Center after a little more than a year in the job.</p>
+        <p>ROBIN POGREBIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

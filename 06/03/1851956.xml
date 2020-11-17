@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Newark, Hope on the Rise</title>
+    <meta content="l03newark" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851956"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E0DF1030F930A35755C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Newark, Hope on the Rise</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Newark Battles Murder and Its Accomplice, Silence'' (''The Hard Part'' series, front page, May 27), you paint a stereotype of minorities, drugs, crime, troubled families and hopelessness.</p>
+        <p>As director of a large arts school founded in 1968, I have another perspective. I see individuals from the city and the surrounding suburbs working together to establish a cultural identity, building homes and businesses.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Newark Battles Murder and Its Accomplice, Silence'' (''The Hard Part'' series, front page, May 27), you paint a stereotype of minorities, drugs, crime, troubled families and hopelessness.</p>
+        <p>As director of a large arts school founded in 1968, I have another perspective. I see individuals from the city and the surrounding suburbs working together to establish a cultural identity, building homes and businesses.</p>
+        <p>We take a positive view toward Newark's future, and we identify with Mayor Cory A. Booker's determination to make the city a safe place.</p>
+        <p>At the Newark School of the Arts, almost all of our high school seniors attend college. Our artistic achievement is among the highest in the metropolitan area. Some of the students come from the same neighborhoods described in the article.</p>
+        <p>You should take another look around Newark, during the day in good light. Then you will understand what motivates so many of us and why we are disturbed by journalism conjuring images of failure and destruction. That is not what we are about.</p>
+        <p>Stephen Shiman  Maplewood, N.J., May 28, 2007</p>
+        <p>To the Editor:</p>
+        <p>The account of the newly aggressive police tactics and strategy in Newark is most welcome. As with its West Coast counterpart, Oakland, Calif., whose challenges closely map Newark's, Newark has a rich history, a great location and a perennial plague of street crimes. The problems of citizen apathy and witness intimidation are deep-rooted.</p>
+        <p>In Newark, Officer Tauron Hinnant is to be congratulated for dreaming of ''owning one of the gracious prewar houses that fill the Weequahic section of the South Ward, once home to a Jewish population that has long since moved to the suburbs.''</p>
+        <p>My housewarming present for Officer Hinnant would be a complete set of the novels of Philip Roth, a true son of Newark and Weequahic High School.</p>
+        <p>Charles Sykes  San Jose, Calif., May 27, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

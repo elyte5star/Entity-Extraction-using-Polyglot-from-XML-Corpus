@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pennsylvania Is Selling Itself as Wall Street's Backup in a Disaster</title>
+    <meta content="08wall" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/nyregion/08wall.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852977"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Fiber Optics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fiber Optics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Pennsylvania</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3DA1F30F93BA35755C0A9619C8B63" item-length="1020" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pennsylvania Is Selling Itself as Wall Street's Backup in a Disaster</hl1>
+        <hl2 class="online_headline">Pennsylvania Tries to Sell Itself as Backup for Wall Street During a Disaster</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hoping to capitalize on fears of the chaos another terrorist attack might cause in New York's financial industry, Pennsylvania officials are promoting a corner of their state as Wall Street West.</p>
+        <p>They maintain that since the region is about 100 miles west of Manhattan, it is outside New York City's theoretical nuclear blast zone. It is ideally situated, they say, to be a safe retreat from the metropolis, but close enough to be linked directly to the computers that run the banking and trading systems.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>So far, there hasn’t been serious interest from Wall Street firms to build emergency backup facilities in a corner of Pennsylvania that state officials call Wall Street West.</p>
+      </block>
+      <block class="full_text">
+        <p>Hoping to capitalize on fears of the chaos another terrorist attack might cause in New York's financial industry, Pennsylvania officials are promoting a corner of their state as Wall Street West.</p>
+        <p>They maintain that since the region is about 100 miles west of Manhattan, it is outside New York City's theoretical nuclear blast zone. It is ideally situated, they say, to be a safe retreat from the metropolis, but close enough to be linked directly to the computers that run the banking and trading systems.</p>
+        <p>''We think we're uniquely positioned,'' said Catherine A. Bolton, project director of the Wall Street West consortium, whose goal is to lure financial companies based in New York to put backup facilities in a nine-county region in northeast Pennsylvania. ''There are places in New Jersey, but they're not outside the blast zone.''</p>
+        <p>Yesterday, Gov. Edward G. Rendell of Pennsylvania was in New York announcing plans to build a critical connection: a $24 million network of fiber optic cables to carry data from Manhattan to the Poconos. Among the missing links, though, is any sign of serious interest from firms in the real Wall Street area.</p>
+        <p>So far, none of the big banks, investment banks or insurance companies based in the city have made commitments to putting data backup centers in that part of Pennsylvania.</p>
+        <p>Instead, they have been spreading out within the metropolitan area to give themselves the flexibility to react to crises ranging from power failures to natural disasters and terrorism.</p>
+        <p>A few months ago, Goldman Sachs, the big investment bank, took over the lease on office space in Greenwich, Conn., which had housed a hedge fund that shut down. Goldman officials see that space, which is just 25 miles north of Manhattan, as a potential backup trading floor if their headquarters near Wall Street is damaged or becomes disconnected.</p>
+        <p>Since the Sept. 11 attack, financial companies have given priority to developing backup systems and disaster-recovery plans. In the immediate aftermath, federal regulators and elected officials issued some bold pronouncements about separating primary and backup systems.</p>
+        <p>Richard A. Grasso, the former chairman of the New York Stock Exchange, used the phrase ''nuclear distance'' in describing where the exchange was considering putting its secondary trading floor. Banking regulators discussed the need to have the backup sites outside a ''blast zone'' with a radius of 50 miles or more.</p>
+        <p>Those statements confounded Wall Street executives because backup centers could not reliably capture trading data instantaneously -- known as synchronous data storage -- if they were much more than 100 miles away. They eventually persuaded the regulators to restrain their rhetoric.</p>
+        <p>In May 2003, federal banking regulators clarified their security recommendations, leaving much of the judgment to company officials. They did not specify a distance but said backup facilities where financial firms set up computers to copy information on all their trading and banking transactions could stay ''within the current range limit of synchronous data storage technology.''</p>
+        <p>A point emphasized by the advocates of the Wall Street West region is that it sits just inside that 100-mile limit. But first, there has to be a high-speed data link to Manhattan.</p>
+        <p>Mr. Rendell announced yesterday that the consortium had chosen Level 3 Communications to build the fiber optic network that would complete the connection.</p>
+        <p>''We're now ready to go,'' Mr. Rendell said. ''We have everything in line.''</p>
+        <p>So far, the project has received a $15 million grant from the federal Department of Labor to train local workers for the jobs that Wall Street West hopes to attract. Mr. Rendell said he thought the project could get $4 million to $5 million more from Washington. But he said the public investment would not go beyond about $25 million unless the financial industry embraced the idea.</p>
+        <p>Level 3 has agreed to spend $8 million toward the cost of building the local loops of wires and splice them into the existing networks running westward from New York City, said Raouf Abdel, president of the business markets group at Level 3 in Broomfield, Colo. Public coffers would pay the balance of the bill.</p>
+        <p>Mr. Abdel said that the entire network could be built within 18 months and that Wall Street firms could be operating data centers in the area by early 2009. But first, Level 3 executives and Pennsylvania officials must persuade some companies to be pioneers in the Poconos.</p>
+        <p>Level 3 does not plan to start building the network until it has signed up customers who, as a group, will pay it at least $625,000 every three months to provide telecommunications service, Mr. Abdel said. No contracts have been signed yet, but, he said, ''We are seeing interest.''</p>
+        <p>There may be places in New York, New Jersey and Connecticut that are suitable alternatives for Wall Street's backup sites, but most of them are considerably more costly than northeast Pennsylvania, Mr. Abdel said.</p>
+        <p>''There is a need for large data center space measured in tens of thousands of square feet, and cheap real estate helps,'' he said.</p>
+        <p>Mr. Rendell admitted that developing Wall Street West ''is a little bit of a chicken and egg.''</p>
+        <p>Without the critical infrastructure, big financial companies will not seriously consider making the move. On the other hand, Mr. Rendell said, Pennsylvania is reluctant to spend too much money building up an area to appeal to a specific industry until it knows that there will be a payoff.</p>
+        <p>''If no one decides to come, we won't build it,'' Mr. Rendell said. ''The sites that are under preparation, those are easily transferable to other uses.''</p>
+        <p>New York State officials, who are trying to lure the same financial companies to set up data centers upstate, said the benefits of Wall Street West might have been overstated.</p>
+        <p>''The infrastructure is not the total answer,'' said Dan Gunderson, who is the chief economic development official for upstate New York. ''The infrastructure can be found in many different locations.''</p>
+        <p>But Mr. Gunderson, who formerly was an economic development official in Pennsylvania, gave his competitors credit for trying.</p>
+        <p>''I think they're serious about selling the product that they're trying to develop,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

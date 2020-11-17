@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kathleen Rudkin, William McMullan Jr.</title>
+    <meta content="17rudkin" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17rudkin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855096"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Rudkin, Kathleen Dougherty (Kathleen Dougherty McMullan)</person>
+        <person class="indexing_service">Jr., McMullan William Holt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DB153FF934A25755C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kathleen Rudkin, William McMullan Jr.</hl1>
+        <hl2 class="online_headline">Kathleen Rudkin and William McMullan Jr.</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathleen Dougherty Rudkin, a daughter of Kathleen MacClarence Rudkin and Thomas Gilbert Rudkin of Fairfield, Conn., was married yesterday to William Holt McMullan Jr., the son of Carolyn Stevens McMullan and William Holt McMullan of Hattiesburg, Miss. The Rev. Nicholas T. Porter performed the ceremony at Trinity Episcopal Church in Southport, Conn.</p>
+        <p>Mrs. McMullan, 28, is a publicist at Random House in New York. She graduated from Cornell. Her father is a managing director of the Kafafian Group, an investment banking and financial services firm in Parsippany, N.J.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Saturday at Trinity Episcopal Church in Southport, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathleen Dougherty Rudkin, a daughter of Kathleen MacClarence Rudkin and Thomas Gilbert Rudkin of Fairfield, Conn., was married yesterday to William Holt McMullan Jr., the son of Carolyn Stevens McMullan and William Holt McMullan of Hattiesburg, Miss. The Rev. Nicholas T. Porter performed the ceremony at Trinity Episcopal Church in Southport, Conn.</p>
+        <p>Mrs. McMullan, 28, is a publicist at Random House in New York. She graduated from Cornell. Her father is a managing director of the Kafafian Group, an investment banking and financial services firm in Parsippany, N.J.</p>
+        <p>She is a great-granddaughter of Margaret Fogarty Rudkin, the founder of Pepperidge Farm Inc. and the author of ''The Margaret Rudkin Pepperidge Farm Cookbook.''</p>
+        <p>Mr. McMullan, also 28, will be a senior associate next month, in New York, in the United States buyout unit at the Carlyle Group, the Washington investment firm. He graduated from Duke and received an M.B.A. this month from Harvard.</p>
+        <p>His father is a regional president of Trustmark National Bank in Hattiesburg.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Defending an Author's Words</title>
+    <meta content="19lett-4" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855504"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D8123FF93AA25755C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Defending an Author's Words</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Fateful Voice of a Generation Still Drowns Out Real Science'' (Findings, June 5): John Tierney does a disservice to Science Times readers with his piece about the influence of Rachel Carson's ''Silent Spring.'' He uses a 45-year-old book review from a professor in agriculture who had specific motivations for the success of pesticides. And though the professor, I. L. Baldwin, accepted some problems with pesticides, he did not know in 1962 what we all know about chlorinated hydrocarbons now.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Fateful Voice of a Generation Still Drowns Out Real Science'' (Findings, June 5): John Tierney does a disservice to Science Times readers with his piece about the influence of Rachel Carson's ''Silent Spring.'' He uses a 45-year-old book review from a professor in agriculture who had specific motivations for the success of pesticides. And though the professor, I. L. Baldwin, accepted some problems with pesticides, he did not know in 1962 what we all know about chlorinated hydrocarbons now.</p>
+        <p>For Mr. Tierney to ignore those advances in knowledge is difficult to explain. He claims that ''Silent Spring'' contains a ''hodgepodge of science and junk science'' all the while ignoring the fact that ecology was a science in its infancy and that the scientific data was just beginning to give hints of what was to come. Carson's book, after all, began a movement in the scientific community that resulted in the origination of the Environmental Protection Agency. Maybe that is why so many on the right are upset with her.</p>
+        <p>Byron C. Lewin</p>
+        <p>University Place, Wash</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

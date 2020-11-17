@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Picasso, Braque And Early Film in Cubism</title>
+    <meta content="01gall-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851355"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2D71530F932A35755C0A9619C8B63" item-length="598" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Picasso, Braque And Early Film in Cubism</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PaceWildenstein  32 East 57th Street, Manhattan  Through June 23</p>
+        <p>Commercial galleries frequently mount exhibitions of museum-quality works. Not so often do they base such shows on their own groundbreaking, museum-quality research. PaceWildenstein, prompted by Arne Glimcher, one of its owners, has done just that with this stunning if somewhat overdesigned exhibition. It puts a fascinating new contextual spin on the genesis of Cubism's glissandos of transparent, stuttering, revolving, shattering forms: both Picasso and Braque were fans of the infant art of motion pictures during their Cubist years.</p>
+      </block>
+      <block class="full_text">
+        <p>PaceWildenstein  32 East 57th Street, Manhattan  Through June 23</p>
+        <p>Commercial galleries frequently mount exhibitions of museum-quality works. Not so often do they base such shows on their own groundbreaking, museum-quality research. PaceWildenstein, prompted by Arne Glimcher, one of its owners, has done just that with this stunning if somewhat overdesigned exhibition. It puts a fascinating new contextual spin on the genesis of Cubism's glissandos of transparent, stuttering, revolving, shattering forms: both Picasso and Braque were fans of the infant art of motion pictures during their Cubist years.</p>
+        <p>With loans of notable Cubist paintings, collages and prints; compilations of early films that the artists are thought to have seen; and an array of antique movie cameras and projectors, the show is almost too much to take in. (Previous consultation of the catalog helps.)</p>
+        <p>It begins with a stunning projection of films of the innovative scarf or skirt dances of Loie Fuller. By 1893, a few years before the first moving pictures were shown to astounded audiences, Fuller was wowing fans on both sides of the Atlantic. Using motion, projected light and yards of fabric, she turned herself into a swirling, undulating abstract sculpture. (Her flowing forms manage to bring to mind both Naum Gabo and Georgia O'Keeffe.)</p>
+        <p>This show was overseen by Bernice B. Rose, a director at PaceWildenstein since 1993, with the aid of two film scholars, Tom Gunning and Jennifer Wild, and the three of them have contributed detailed essays to a lavish catalog. (This volume would have benefited from an index and a less self-serving preface by Mr. Glimcher.)</p>
+        <p>Mr. Gunning's and Ms. Rose's discussions of Fuller as a bridge between Symbolism and Art Nouveau, as well as a precursor of motion pictures themselves, should turn some heads. Her influence on Cubism is felt in Picasso's 1907 ''Dance of the Veils (Nude With Drapery)'' and ''Nude on a Bed.'' Despite the more conventional title, the second work is in some ways wilder, especially if you imagine it rotated a turn, with the nude vertical.</p>
+        <p>The other films here function more as purveyors of atmosphere and ideas. They cast what amounts to a small survey of Cubism's trajectory in a new and interesting light, setting their familiar compositions in motion. Almost equally interesting is Ms. Rose's contention that Braque and Picasso were influenced not only by the moving images of projected film and the repeating but always changing still images of filmstrip, but also by the forms of cameras and projectors themselves.</p>
+        <p>Thus the circles and cylindrical shapes characteristic of many Analytical Cubist paintings -- in this case, Picasso's ''Still Life With a Bottle of Rum'' (1911) and Braque's ''Glasses and Bottles'' (1912) -- start to look like lenses pointing straight at us, creating a reciprocal scrutiny. And the warm grisaille shadings and diagonal lines of a work like Braque's ''Still Life With Harp and Violin'' (also 1911) can suggest classically granular movie-house light: dust particles illuminated by the projector's flickering beam.</p>
+        <p>Perhaps most visually startling, the somewhat mechanistic female form of Picasso's majestic ''Half-Length Female Nude'' of 1910 (Philadelphia Museum of Art) suddenly bears a striking resemblance to a Pathé 35-millimeter camera of 1908 (Museum of the Moving Image).</p>
+        <p>It should not be forgotten that Cubism, for all its multiple views, is also an art of magnificent stasis, suspension and silence. (It is not, thankfully, Futurism.) But if one of art's tasks is to make us see differently -- which Cubism definitively did -- one of art history's is to make us see art itself differently. This exhibition more than fills that job description.</p>
+        <p>ROBERTA SMITH</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

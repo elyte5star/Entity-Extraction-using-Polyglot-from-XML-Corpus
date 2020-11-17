@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diabetes Drug Still Has Risks, Doctors Warn</title>
+    <meta content="06fda" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/health/06fda.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852595"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Avandia (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Labeling and Labels</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <org class="indexing_service">New England Journal of Medicine</org>
+        <org class="indexing_service">Actos (Drug)</org>
+        <org class="indexing_service">Glaxosmithkline</org>
+        <person class="indexing_service">Saul, Stephanie</person>
+        <person class="indexing_service">Harris, Gardiner</person>
+        <person class="indexing_service">Johann-Liang, Rosemary (Dr)</person>
+        <person class="indexing_service">Grassley, Charles E (Sen)</person>
+        <person class="indexing_service">Von Eschenbach, Andrew C (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Avandia (Drug)</classifier>
+        <classifier class="online_producer" type="descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="descriptor">Heart</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Food and Drug Administration</org>
+        <org class="online_producer">GlaxoSmithKline</org>
+        <org class="online_producer">New England Journal of Medicine</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E5DC1E30F935A35755C0A9619C8B63" item-length="1166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diabetes Drug Still Has Risks, Doctors Warn</hl1>
+        <hl2 class="online_headline">Diabetes Drug Still Has Heart Risks, Doctors Warn</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE SAUL and GARDINER HARRIS</byline>
+      <byline class="normalized_byline">Harris, Gardiner; Saul, Stephanie</byline>
+      <abstract>
+        <p>Doctors say preliminary results of clinical trial of diabetes treatment Avandia does nothing to ease their concerns about its heart risks; manufacturer GlaxoSmithKline portrays results as reassurance that Avandia does not raise risk of heart attack or death from cardiovascular disease; Avandia study is in The New England Journal of Medicine; questions about its safety and how regulators have dealt with its risks will be subject of Congressional hearing; data could intensify criticism that Food and Drug Administration should have warned about potential heart risk years ago; Dr Rosemary Johann-Liang, supervisor in drug safety office at FDA, says she was rebuked and re-assigned last year after calling for stronger warning label on Avandia and competing drug, Actos; Sen Charles E Grassley has demanded that FDA Comr Andrew C von Eschenbach investigate Johann-Liang's claim (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A medical study intended to demonstrate the heart safety of a well-known diabetes treatment seems, instead, to have added to the controversy over the drug.</p>
+        <p>Its manufacturer, GlaxoSmithKline, says preliminary results of the clinical trial provide reassurance that the drug, Avandia, an oral medication for Type 2 diabetes that has been used by an estimated seven million people worldwide, does not raise the risk of a heart attack or death from cardiovascular disease.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A study intended to demonstrate the safety of the drug Avandia seems to have added to the controversy instead.</p>
+      </block>
+      <block class="full_text">
+        <p>A medical study intended to demonstrate the heart safety of a well-known diabetes treatment seems, instead, to have added to the controversy over the drug.</p>
+        <p>Its manufacturer, GlaxoSmithKline, says preliminary results of the clinical trial provide reassurance that the drug, Avandia, an oral medication for Type 2 diabetes that has been used by an estimated seven million people worldwide, does not raise the risk of a heart attack or death from cardiovascular disease.</p>
+        <p>Influential doctors said that the data published online yesterday in a major medical journal did nothing to ease their concerns about the heart risks. The doctors raised their concerns in three editorials accompanying the Avandia study in The New England Journal of Medicine.</p>
+        <p>Questions about the safety of Avandia and how regulators have dealt with its risks are to be the subject of a Congressional hearing today. The data could intensify criticism, expected at the hearing, that the Food and Drug Administration should have warned about the potential heart risks years ago.</p>
+        <p>A supervisor in the drug safety office at the agency said in an interview yesterday that she was rebuked last year after calling for a stronger warning label on Avandia and a competing drug, Actos.</p>
+        <p>The supervisor, Dr. Rosemary Johann-Liang, said that in March 2006 she approved a recommendation from a safety reviewer at the agency that the drugs be required to carry the strongest warning, a so-called black box warning, because they posed a risk of unusual swelling that could lead to heart failure.</p>
+        <p>But after officials at the agency who dealt more closely with Glaxo complained, Dr. Johann-Liang said she was ordered to retract her approval of the warning, lost her power to approve such assessments and no longer supervised reviews of the safety of Avandia and Actos.</p>
+        <p>''This was a very careful review that came to an inescapable conclusion,'' Dr. Johann-Liang said in the interview. ''They decided to act like the review never happened and punish me for approving it.''</p>
+        <p>Senator Charles E. Grassley, Republican of Iowa, has investigated Dr. Johann-Liang's accusations. Mr. Grassley sent a letter on Monday to the Food and Drug Commissioner Andrew C. von Eschenbach demanding that he investigate the case.</p>
+        <p>''I hope you recognized what is wrong with this picture,'' Mr. Grassley wrote. ''I also sincerely hope that this is not standard practice within the F.D.A.''</p>
+        <p>A spokeswoman for the agency, Susan Cruzan, said it was investigating the accusations.</p>
+        <p>Avandia has been awash in controversy since an article in The New England Journal of Medicine on May 21 and an accompanying editorial cited evidence from clinical trials indicating that Avandia, in addition to the risk of heart failure, could raise a patient's risk of heart attacks.</p>
+        <p>Since then, Glaxo and the drug agency have cautioned doctors and patients to await the results of a long-term patient trial, the Record, created to test the heart safety.</p>
+        <p>It was the interim results of that study that Glaxo rushed to submit for publication by yesterday in advance of the hearing today by the House Oversight and Government Reform Committee. The company had intended the study in the prestigious peer-reviewed New England Journal to be part of a news media blitz to counter negative publicity about the drug, which generates annual revenues exceeding $3.2 billion.</p>
+        <p>Concerns about the drug were raised in the May 21 article, when Dr. Steven E. Nissen and colleagues from the Cleveland Clinic wrote an analysis suggesting that the popular medication increased the risk of heart attacks by 43 percent. Dr. Nissen's paper was based on a review of more than 40 studies of the drug. It was also published by The New England Journal of Medicine.</p>
+        <p>Dr. Nissen, chief of cardiovascular medicine at the prominent clinic, is among witnesses scheduled to testify today along with Dr. von Eschenbach.</p>
+        <p>In a conference call yesterday with reporters, a vice president for clinical development at Glaxo, Dr. Murray Stewart, an endocrinologist, said data did not support Dr. Nissen's conclusions. ''Nissen suggested that there were more cardiovascular deaths,'' Dr. Stewart said. ''This does not support that. This shows less cardiovascular deaths.''</p>
+        <p>Since the study, involving 4,447 people, began nearly four years ago, 29 patients in the Avandia group have died from cardiovascular causes. A greater number, 35, have died of cardiovascular problems in the group taking other drugs.</p>
+        <p>Several doctors who wrote the accompanying editorials published yesterday, including the Journal editors, saw the results less positively than Glaxo did. The editorials questioned the structure of the study and pointed out that although fewer Avandia patients have died, more had heart attacks than in the group taking other drugs, 43 to 37.</p>
+        <p>Although those heart attacks represented a relatively tiny number in the overall study, one editorial, by the Journal's editors, struck an anxious tone. ''In short, there is continued uncertainty about the cardiovascular safety of rosiglitazone,'' they wrote, referring to the generic name of the medicine.</p>
+        <p>Of the patients in the Record study, which is to continue through late next year, about half take Avandia in combination with other medications and half take two diabetes medications, metformin with sulfonylurea.</p>
+        <p>The editorials raised questions about the structure of the Record study. In his editorial, Dr. David M. Nathan, a diabetes expert who teaches at Harvard, questioned the high number of patients who dropped out of the study without explanation and further monitoring, as well as the decision by the creators of the study to use a combination of metformin and sulfonylurea as the comparison group. That combination was associated with a 96 percent increase in diabetes-related mortality in another study, Dr. Nathan wrote.</p>
+        <p>Glaxo said the metformin-sulfonylurea combination was chosen because it is the most common Type 2 diabetes treatment worldwide.</p>
+        <p>''The interim results of the Record trial do not provide any assurance of the safety of treatment with rosiglitazone,'' Dr. Nathan said, suggesting in his editorial that doctors should use medications other than Avandia.</p>
+        <p>An editorial by Dr. Bruce M. Psaty of the University of Washington and Dr. Curt D. Furberg of Wake Forest University recalculated Dr. Nissen's analysis using interim results of the Record study in addition to the studies that Dr. Nissen used. They found that Avandia increased a patient's risk of having a heart attack 33 percent.</p>
+        <p>''In my mind, it's not small,'' Dr. Furberg said, calculating that such a risk, extrapolated to the millions of patients who have taken Avandia, would translate to thousands of extra heart attacks.</p>
+        <p>The company's decision to release interim results of the Record trial were highly unusual and reflected Glaxo's concern about the controversy and the concerns of patients in the trial. As a result of the negative publicity about the drug, two patients have dropped out, the Glaxo medical director, Dr. Ronald L. Krall, said yesterday.</p>
+        <p>Dr. Stewart said the telephones of doctors involved in the Record trial throughout Europe, Australia and New Zealand had been ringing with calls from concerned patients, raising questions about whether the trial can continue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

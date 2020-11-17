@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Time Begins for Paris Hilton</title>
+    <meta content="05arts-2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852394"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6D81130F936A35755C0A9619C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Time Begins for Paris Hilton</hl1>
+      </hedline>
+      <byline class="print_byline">By SHARON WAXMAN; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This is when life gets really simple. Paris Hilton, the socialite and media fixture, spent her first night in jail on Sunday after turning herself in to the Los Angeles County authorities in Lynwood to begin serving a 23-day jail sentence. First, though, she attended the MTV Movie Awards on Sunday night, when she found herself the butt of several jokes. Yesterday the sheriff's office released a photo, left, of Ms. Hilton in full makeup, her blond hair swept to one side and her face tipped downward in a jailbird version of her trademark pose. She was issued an orange top and pants, like other inmates at the women's jail in Lynwood. ''I am trying to be strong right now,'' she told reporters the previous evening. ''I am ready to face my sentence.'' Ms. Hilton, 26, was sentenced for violating probation in an alcohol-related reckless driving case from September. The authorities later caught her driving with a suspended license.</p>
+        <p>SHARON WAXMAN</p>
+      </block>
+      <block class="full_text">
+        <p>This is when life gets really simple. Paris Hilton, the socialite and media fixture, spent her first night in jail on Sunday after turning herself in to the Los Angeles County authorities in Lynwood to begin serving a 23-day jail sentence. First, though, she attended the MTV Movie Awards on Sunday night, when she found herself the butt of several jokes. Yesterday the sheriff's office released a photo, left, of Ms. Hilton in full makeup, her blond hair swept to one side and her face tipped downward in a jailbird version of her trademark pose. She was issued an orange top and pants, like other inmates at the women's jail in Lynwood. ''I am trying to be strong right now,'' she told reporters the previous evening. ''I am ready to face my sentence.'' Ms. Hilton, 26, was sentenced for violating probation in an alcohol-related reckless driving case from September. The authorities later caught her driving with a suspended license.</p>
+        <p>SHARON WAXMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

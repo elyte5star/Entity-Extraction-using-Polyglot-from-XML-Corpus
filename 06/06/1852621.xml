@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Nominees For Suny Board</title>
+    <meta content="06mbrfs-6" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852621"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE1DC1E30F935A35755C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Nominees For Suny Board</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer yesterday announced three nominees to fill coming vacancies on the State University of New York board. Besides Carl T. Hayden, whom Mr. Spitzer had identified as his choice as SUNY's chairman, the governor yesterday named H. Carl McCall, left, a former state comptroller and a former president of New York City's Board of Education, and Linda S. Sanford, a senior vice president at I.B.M. The governor appoints 15 of SUNY's 16 board members, subject to State Senate approval. The other seat is held by a student.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer yesterday announced three nominees to fill coming vacancies on the State University of New York board. Besides Carl T. Hayden, whom Mr. Spitzer had identified as his choice as SUNY's chairman, the governor yesterday named H. Carl McCall, left, a former state comptroller and a former president of New York City's Board of Education, and Linda S. Sanford, a senior vice president at I.B.M. The governor appoints 15 of SUNY's 16 board members, subject to State Senate approval. The other seat is held by a student.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tough Choice: ARM or Fixed-Rate?</title>
+    <meta content="17mort" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855083"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EEDF153FF934A25755C0A9619C8B63" item-length="600" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tough Choice: ARM or Fixed-Rate?</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MANY homeowners with adjustable-rate mortgages, or ARMs, have taken advantage of low interest on fixed-rate mortgages in recent months to refinance into those less risky loans. But in the last few weeks, as rates on fixed-interest mortgages have risen, that decision has become more difficult for some borrowers, mortgage industry executives and analysts say.</p>
+        <p>Many borrowers who took out ARMs in 2004 and 2005 with interest rates in the 5 percent range, for example, will soon face their first adjustment, and their rates are quite likely to rise to the high 7 percent range.</p>
+      </block>
+      <block class="full_text">
+        <p>MANY homeowners with adjustable-rate mortgages, or ARMs, have taken advantage of low interest on fixed-rate mortgages in recent months to refinance into those less risky loans. But in the last few weeks, as rates on fixed-interest mortgages have risen, that decision has become more difficult for some borrowers, mortgage industry executives and analysts say.</p>
+        <p>Many borrowers who took out ARMs in 2004 and 2005 with interest rates in the 5 percent range, for example, will soon face their first adjustment, and their rates are quite likely to rise to the high 7 percent range.</p>
+        <p>Until recently, interest rates on long-term fixed loans were in the low 6 percent range -- a month ago, for example, rates on 30-year fixed-rate mortgages hovered at about 6.25 percent. Melissa Cohn, the chief executive of the Manhattan Mortgage Company, a brokerage, said that with such a large difference between the higher adjustable rate and the fixed-loan rate, the decision to refinance to a fixed-rate loan was easy for her clients.</p>
+        <p>But as of last week, many lenders were charging 6.75 percent for a 30-year fixed-rate mortgage. And while even the 6.75 percent rate is still much better than the high 7's, Ms. Cohn said, some borrowers are holding off in the hope that if they wait, rates on the fixed-rate loans will come down again and they will get a better refinancing deal.</p>
+        <p>''If we sit down rationally, we'll see the rates are historically very, very low still,'' Ms. Cohn said, referring to the long-term loans. ''But we're a greedy crowd.''</p>
+        <p>Susan Wachter, a professor of real estate at the Wharton School of the University of Pennsylvania, said that before the recent increase in fixed rates, borrowers with ARMs were fleeing in great numbers to fixed-rate loans. From January to March, 89 percent of homeowners who refinanced their one-year ARMs, or loans on which rates remain constant for the first 12 months, switched to fixed-rate mortgages, Dr. Wachter said, quoting figures released by Freddie Mac in May.</p>
+        <p>In the same period, she said, 84 percent of those who refinanced ARMs that had steady rates for the first three to seven years switched to long-term fixed-rate mortgages.</p>
+        <p>For new borrowers, Dr. Wachter said, she still sees anecdotal evidence that fixed-rate loans, despite the increasing rates, remain popular.</p>
+        <p>''Borrowers are choosing to take less risk,'' Dr. Wachter said. ''This is how the year started off, which we hope will continue, but rising interest rates make monthly mortgage payments more expensive, so now is the time to lock in a good rate on a loan.''</p>
+        <p>For borrowers buying new houses, choosing between an adjustable or fixed-rate loan often requires a hard look at the real estate trends in their areas.</p>
+        <p>Buyers in Manhattan, Ms. Cohn said, have been more willing to gamble on ARMs, because the real estate market has remained strong. But in the New York suburbs, where demand for houses has slowed, more borrowers have opted for fixed-rate mortgages, she said.</p>
+        <p>That is because homeowners whose houses appreciate slowly, or not at all, cannot refinance their mortgages as easily or as inexpensively as those with soaring house values -- and so they might have difficulty if they needed to refinance an adjustable-rate mortgage.</p>
+        <p>If a house has not appreciated in value, banks will typically ask the owners to pay upfront for the cost of processing the refinanced loan, rather than folding that cost into the new loan.</p>
+        <p>And now that many banks are tightening lending standards, some owners with less than 10 percent equity in their homes may be denied the opportunity to refinance.</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

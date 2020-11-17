@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aspirin Linked to Lower Risk Of Cancer and Heart Disease</title>
+    <meta content="19patt" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855613"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5DE133FF93AA25755C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aspirin Linked to Lower Risk Of Cancer and Heart Disease</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Regular aspirin use may significantly reduce the incidence of both cancer and heart disease, according to a large new study, but other nonsteroidal anti-inflammatory drugs, or Nsaids, have no effect.</p>
+        <p>Researchers studied 22,507 postmenopausal women, following them for 10 years. All reported their aspirin and Nsaid use as part of a detailed physical and behavioral health questionnaire. None of the women had cancer or heart disease at the start of the study.</p>
+      </block>
+      <block class="full_text">
+        <p>Regular aspirin use may significantly reduce the incidence of both cancer and heart disease, according to a large new study, but other nonsteroidal anti-inflammatory drugs, or Nsaids, have no effect.</p>
+        <p>Researchers studied 22,507 postmenopausal women, following them for 10 years. All reported their aspirin and Nsaid use as part of a detailed physical and behavioral health questionnaire. None of the women had cancer or heart disease at the start of the study.</p>
+        <p>After controlling for age, exercise, diet and other factors, those who used aspirin  had a 16 percent reduced risk of getting cancer, and a 13 percent reduced risk of cancer death, compared with women who never used it. Aspirin use was also associated with a 25 percent reduced risk of dying from coronary artery disease and an 18 percent reduction in all-cause mortality compared with those who never took aspirin. But use of other Nsaids like ibuprofen (Advil and other brands) and naproxen (Aleve and others) had no effect, and there was no significantly reduced risk among aspirin users who were currently smoking. The study was published in the June issue of the Journal of the National Cancer Institute.</p>
+        <p>The authors acknowledged that the study was not a randomized trial, that the questionnaire did not assess duration of aspirin use, and that the participants were all postmenopausal women, most of whom were white.</p>
+        <p>''It would be premature at this point to advise women to take aspirin,'' said Dr. Aditya Bardia, the lead author and a resident in internal medicine at the Mayo Clinic.</p>
+        <p>''The study does produce provocative evidence that aspirin can reduce mortality, but for now it would be best that women talk to their health care provider about the risks and benefits of aspirin use.''</p>
+        <p>VITAL SIGNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Back of the Envelope</title>
+    <meta content="08lope" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852902"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Aol (America Online)</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <org class="indexing_service">Citigroup Inc</org>
+        <org class="indexing_service">Travelers Insurance Co</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E2DC1F30F93BA35755C0A9619C8B63" item-length="43" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Back of the Envelope</hl1>
+      </hedline>
+      <abstract>
+        <p>Wave of buyouts continued to</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Was last month the peak? The wave of buyouts continued to rise in May, making it the one of the biggest deal-making months ever. Only January 2000, when the America Online-Time Warner merger was announced, and April 1998 (the Citicorp-Travelers deal) were bigger..</p>
+      </block>
+      <block class="full_text">
+        <p>Was last month the peak? The wave of buyouts continued to rise in May, making it the one of the biggest deal-making months ever. Only January 2000, when the America Online-Time Warner merger was announced, and April 1998 (the Citicorp-Travelers deal) were bigger..</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

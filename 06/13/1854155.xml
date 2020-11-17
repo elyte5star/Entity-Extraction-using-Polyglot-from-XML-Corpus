@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>M.T.A. Falls Further Behind On Antiterrorism Projects</title>
+    <meta content="13mta" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/nyregion/13mta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854155"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Metropolitan Transportation Authority</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEED7173FF930A25755C0A9619C8B63" item-length="526" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>M.T.A. Falls Further Behind On Antiterrorism Projects</hl1>
+        <hl2 class="online_headline">M.T.A. Falls Further Behind on Antiterrorism Projects</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Transportation Authority has dropped further behind schedule on a series of projects that are intended to make the region's bus, subway and commuter rail systems less vulnerable to terrorist attacks, according to a report released yesterday by the state comptroller's office.</p>
+        <p>Of more than a dozen high-priority security projects being undertaken by the authority, only two of an anticipated six had been completed by the end of 2006, the report said. Another one is expected to be finished by the end of this year, the report said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Of more than a dozen high-priority security projects being undertaken by the Metropolitan Transportation Authority, only two of an anticipated six had been completed by the end of 2006.</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Transportation Authority has dropped further behind schedule on a series of projects that are intended to make the region's bus, subway and commuter rail systems less vulnerable to terrorist attacks, according to a report released yesterday by the state comptroller's office.</p>
+        <p>Of more than a dozen high-priority security projects being undertaken by the authority, only two of an anticipated six had been completed by the end of 2006, the report said. Another one is expected to be finished by the end of this year, the report said.</p>
+        <p>The report, by the office of State Comptroller Thomas P. DiNapoli, did not identify the projects, but it said that they are part of a $721 million program to protect the transit system through a variety of measures, including hardening tunnels and bridges and installing surveillance cameras.</p>
+        <p>The comptroller's office said that despite the delays, the regional mass transit system was becoming ''incrementally more secure'' as the projects advanced.</p>
+        <p>The authority's executive director and chief executive, Elliot G. Sander, pointed to that conclusion yesterday in addressing the report.</p>
+        <p>''The M.T.A. system is safer than it ever has been,'' Mr. Sander said. He acknowledged the delays, but said, ''We have made significant progress.''</p>
+        <p>The report was the third analysis of the authority's post-Sept. 11 security program conducted since 2005 by the comptroller's office. Each report has identified significant delays.</p>
+        <p>The authority has said that schedules have changed in many cases because the projects proved to be more complex or technically challenging than had been expected.</p>
+        <p>Mr. Sander, who took over the authority in January, said he has held weekly staff meetings to review the progress of the projects, whose goals were established in late 2003 and early 2004. He also said he plans to consolidate responsibility for security programs. For the last 18 months, the authority has divided those duties between two senior managers, William A. Morange, the security director, and Lewis D. Schiliro, the director of interagency preparedness.</p>
+        <p>Mr. Schiliro said that he would be leaving the authority this week to become a partner in a new legal and security consulting firm being formed by Louis J. Freeh, who was director of the F.B.I. from 1993 until 2001. He said his plans were formed earlier this year.</p>
+        <p>A spokesman for the authority said that Mr. Morange would remain the authority's principal official in charge of security.</p>
+        <p>The comptroller's report found significant delays in both designing projects and in construction. It found that, as of mid-March, 11 of 21 construction ''tasks'' that are part of the projects currently under way were behind schedule.</p>
+        <p>The largest component of the security program is a project that includes the installation of hundreds of surveillance cameras and a system to transmit the video images. That project is estimated to cost $421 million, according to the report.</p>
+        <p>The authority expects to spend $152 million to harden tunnels and other structures. It has budgeted $83 million for a variety of safety improvements, including improved tunnel lighting, signs and ventilation.</p>
+        <p>Another $41 million has been set aside for bollards and other devices meant to establish safe perimeters at various transportation authority locations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

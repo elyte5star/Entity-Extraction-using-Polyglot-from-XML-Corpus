@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Police Arrest Fourth Suspect In J.F.K. Case</title>
+    <meta content="06kennedy" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/nyregion/06kennedy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852521"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago/Trinidad</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago/Tobago</classifier>
+        <classifier class="online_producer" type="descriptor">Kennedy International Airport (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Extradition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Extradition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <location class="online_producer">Trinidad and Tobago</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E0DE1E30F935A35755C0A9619C8B63" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Police Arrest Fourth Suspect In J.F.K. Case</hl1>
+        <hl2 class="online_headline">Police Arrest Fourth Suspect in J.F.K. Case</hl2>
+      </hedline>
+      <byline class="print_byline">By MARC LACEY</byline>
+      <dateline>PORT OF SPAIN, Trinidad, June 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The fourth suspect in what the authorities have described as a terrorist plot to ignite jet fuel tanks at Kennedy International Airport in Queens surrendered to the police Tuesday morning, and angrily told reporters after a court hearing that the case against him was a ''setup.''</p>
+        <p>The suspect, Abdel Nur, 57, turned himself in at the West End regional police station in Trinidad and was transferred to the police headquarters in Port of Spain, the capital.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Abdel Nur, charged with three others in an alleged plot to ignite jet fuel tanks, was taken into custody in Trinidad.</p>
+      </block>
+      <block class="full_text">
+        <p>The fourth suspect in what the authorities have described as a terrorist plot to ignite jet fuel tanks at Kennedy International Airport in Queens surrendered to the police Tuesday morning, and angrily told reporters after a court hearing that the case against him was a ''setup.''</p>
+        <p>The suspect, Abdel Nur, 57, turned himself in at the West End regional police station in Trinidad and was transferred to the police headquarters in Port of Spain, the capital.</p>
+        <p>Mr. Nur and three other men -- Russell M. Defreitas, a former air cargo worker at Kennedy; Abdul Kadir, 55, a former member of Guyana's Parliament; and Kareem Ibrahim, 61 -- were charged Saturday in the terror plot. The authorities said that the four had ambitions of detonating fuel storage tanks and pipelines and setting fire to the airport and a substantial swath of Queens.</p>
+        <p>Mr. Defreitas was arrested in Brooklyn on Friday. Mr. Kadir and Mr. Ibrahim, who were detained in Trinidad and made court appearances on Monday, plan to fight extradition to the United States. Mr. Nur is expected to do the same. By challenging their transfer to American custody, the defendants could delay a decision on the matter for months, authorities said.</p>
+        <p>The Trinidad police commissioner, Trevor Paul, said at a press conference on Monday that Mr. Nur was considered armed and dangerous. He called on all the people of Trinidad to be on the lookout for him and to report any sightings to the police.</p>
+        <p>The assistant director in charge of the Federal Bureau of Investigation field office in New York, Mark J. Mershon, said the police manhunt for Mr. Nur in Trinidad had contributed to his surrender. ''We are very grateful for their tremendous cooperation in this investigation,'' he told The Associated Press.</p>
+        <p>Law enforcement authorities in the United States have emphasized that the Islamic terrorist plot was still in the planning stages and that the financing and the materials to carry out such a plot had yet to be obtained. Key to the case was a paid government informant who secretly recorded conversations with the defendants.</p>
+        <p>''It's a conspiracy,'' Mr. Nur said of the charges filed against him as he was whisked away in handcuffs, adding later, ''It was a setup.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

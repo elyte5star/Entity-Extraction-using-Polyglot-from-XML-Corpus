@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Times Promotes Circulation Official</title>
+    <meta content="14times" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/business/media/14times.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854391"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Namini, Yasmin</person>
+        <person class="indexing_service">Myers, Alyse</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">New York Times</org>
+        <person class="online_producer">Namini, Yasmin</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6D9143FF937A25755C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Times Promotes Circulation Official</hl1>
+        <hl2 class="online_headline">The Times Promotes Circulation Official</hl2>
+      </hedline>
+      <abstract>
+        <p>Yasmin Namini, senior vice president for circulation at New York Times Media Group, is promoted to senior vice president for marketing and circulation; Namini will be responsible for marketing Times's brand in print, online and on mobile devices as well as overseeing circulation and distribution of print and electronic versions of Times; Alyse Myers, senior vice president and chief marketing officer, is taking on new role as vice president for brand programs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yasmin Namini, senior vice president for circulation at the New York Times Media Group, has been promoted to senior vice president for marketing and circulation.</p>
+        <p>Ms. Namini, 47, will be responsible for marketing The Times's brand in print, online and on mobile devices as well as overseeing circulation and distribution of print and electronic versions of The Times. She will report to Scott H. Heekin-Canedy, president and general manager of The Times, and Vivian Schiller, senior vice president and general manager of nytimes.com.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yasmin Namini, senior vice president for circulation at the New York Times Media Group, has been promoted to senior vice president for marketing and circulation.</p>
+      </block>
+      <block class="full_text">
+        <p>Yasmin Namini, senior vice president for circulation at the New York Times Media Group, has been promoted to senior vice president for marketing and circulation.</p>
+        <p>Ms. Namini, 47, will be responsible for marketing The Times's brand in print, online and on mobile devices as well as overseeing circulation and distribution of print and electronic versions of The Times. She will report to Scott H. Heekin-Canedy, president and general manager of The Times, and Vivian Schiller, senior vice president and general manager of nytimes.com.</p>
+        <p>Ms. Namini was named senior vice president for circulation in 2006. In 2005, she was appointed chief customer officer for the New England Media Group. Before that, she served as senior vice president for consumer marketing at the New England Newspaper Group and had earlier been senior vice president for circulation at The Boston Globe. She also served as vice president for circulation marketing at The Times.</p>
+        <p>Alyse Myers, currently senior vice president and chief marketing officer, is taking on a new role as vice president for brand programs. She will focus on expanding the company's event business and will continue to work on identifying strategic partnerships and programs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

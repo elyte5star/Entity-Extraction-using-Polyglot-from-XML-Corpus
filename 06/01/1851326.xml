@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Dance' Gives Fox a Victory</title>
+    <meta content="01arts-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851326"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7D71530F932A35755C0A9619C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Dance' Gives Fox a Victory</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With a two-hour edition of ''So You Think You Can Dance'' on Wednesday, Fox easily won the night's ratings, overshadowing the debuts of two new shows on other networks. According to Nielsen's estimates, 9.2 million viewers tuned in for the dancing competition from 8 to 10 p.m. Meanwhile the series premiere of ABC's ''Next Best Thing: Who Is the Greatest Celebrity Impersonator?'' managed to tie for first in the 8 p.m. hour in total viewers (7.7 million) while lagging behind among adults 18 to 49. CW's ''Hidden Palms'' also made its debut in the hour, but came in last place with a disappointing 1.8 million viewers. At 10, a repeat of CBS's ''CSI: NY,'' the night's most-watched show, led the hour over all, lifting CBS into second place for the night behind Fox. ABC ranked third as its new series ''Traveler'' garnered mediocre audiences with a rebroadcast of its pilot at 9 (5 million) followed by a new episode at 10 (6.2 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>With a two-hour edition of ''So You Think You Can Dance'' on Wednesday, Fox easily won the night's ratings, overshadowing the debuts of two new shows on other networks. According to Nielsen's estimates, 9.2 million viewers tuned in for the dancing competition from 8 to 10 p.m. Meanwhile the series premiere of ABC's ''Next Best Thing: Who Is the Greatest Celebrity Impersonator?'' managed to tie for first in the 8 p.m. hour in total viewers (7.7 million) while lagging behind among adults 18 to 49. CW's ''Hidden Palms'' also made its debut in the hour, but came in last place with a disappointing 1.8 million viewers. At 10, a repeat of CBS's ''CSI: NY,'' the night's most-watched show, led the hour over all, lifting CBS into second place for the night behind Fox. ABC ranked third as its new series ''Traveler'' garnered mediocre audiences with a rebroadcast of its pilot at 9 (5 million) followed by a new episode at 10 (6.2 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

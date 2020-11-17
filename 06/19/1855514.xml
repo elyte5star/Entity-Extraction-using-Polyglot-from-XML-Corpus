@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chinese Singer Wins BBC Prize</title>
+    <meta content="19arts-004" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/arts/music/19arts-004.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855514"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ARTS, BRIEFLY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama/Panama Canal and Canal Zone</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="descriptor">Canals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Canals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+        <location class="online_producer">Panama Canal and Canal Zone</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6DF133FF93AA25755C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chinese Singer Wins BBC Prize</hl1>
+        <hl2 class="online_headline">Chinese Singer Wins BBC Prize</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 23-year-old bass-baritone from the Shanghai Conservatory of Music has won the BBC Cardiff Singer of the World competition, the BBC reported. Triumphing over four finalists remaining from the 25 singers chosen to audition, the winner, Shen Yang, was the youngest competitor in the weeklong contest, which once helped to start the international career of the bass-baritone Bryn Terfel. Mr. Shen received a trophy from Joan Sutherland, the patron of the competition, and $30,000 in prize money and engagements with the BBC and the Welsh National Opera. Afterward Mr. Shen said, ''I think the competition is not only a competition; it's a big singing party in the world.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 23-year-old bass-baritone from the Shanghai Conservatory of Music has won the BBC Cardiff Singer of the World competition, the BBC reported.</p>
+      </block>
+      <block class="full_text">
+        <p>A 23-year-old bass-baritone from the Shanghai Conservatory of Music has won the BBC Cardiff Singer of the World competition, the BBC reported. Triumphing over four finalists remaining from the 25 singers chosen to audition, the winner, Shen Yang, was the youngest competitor in the weeklong contest, which once helped to start the international career of the bass-baritone Bryn Terfel. Mr. Shen received a trophy from Joan Sutherland, the patron of the competition, and $30,000 in prize money and engagements with the BBC and the Welsh National Opera. Afterward Mr. Shen said, ''I think the competition is not only a competition; it's a big singing party in the world.''</p>
+        <p>ARTS, BRIEFLY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

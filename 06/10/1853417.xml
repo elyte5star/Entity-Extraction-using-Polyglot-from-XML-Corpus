@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TBR: Inside the List</title>
+    <meta content="InsideList.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/books/review/10tbr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853417"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TBR"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Vegetarianism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetarianism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Planck, Nina</person>
+        <person class="online_producer">Moskowitz, Isa Chandra</person>
+        <person class="online_producer">Murakami, Haruki</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DD1530F933A25755C0A9619C8B63" item-length="544" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TBR: Inside the List</hl1>
+        <hl2 class="online_headline">Inside the List</hl2>
+      </hedline>
+      <byline class="print_byline">By Dwight Garner</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VEGANGELICALS: In the world of vegan cookbook writers, these are embattled times. Nina Planck's recent Op-Ed essay in The New York Times, ''Death by Veganism,'' argued that children and a vegan diet don't mix, and the essay hit No. 1 on this paper's ''most e-mailed'' list. Vegans fired back bitterly on countless Web sites and blogs. This meaty fuss made me wonder: What is this country's best-selling vegan cookbook, anyway? The answer, according to the Web site Vegan.com, is Isa Chandra Moskowitz's ''Vegan With a Vengeance: Over 150 Delicious, Cheap, Animal-Free Recipes That Rock'' (2005). Moskowitz, above, a tattooed 34-year-old Brooklynite, starred for a while on a public access TV show called ''The Post Punk Kitchen,'' and she's got a knack for combining ingredients like, say, horseradish and coriander to help you (almost) forget you're not eating meat, dairy or eggs. (''Enough with this vegan parent baby killers thing already,'' Moskowitz wrote on her blog, responding to Planck. ''The vegan children that I know have all been vibrant, happy and healthy.'') The other cookbooks in Vegan.com's top 10 recently: ''Vive Le Vegan,'' by Dreena Burton; ''Vegan Planet,'' by Robin Robertson; ''Vegan World Fusion Cuisine,'' by Mark Reinfeld; and ''La Dolce Vegan,'' by Sarah Kramer. Up next for Moskowitz: a vegan ''Joy of Cooking,'' due this fall. It's got an excellent title -- ''Veganomicon: The Ultimate Vegan Cookbook.''</p>
+        <p>EATING MURAKAMI: It's hard to read the Japanese writer Haruki Murakami's dislocating novels without occasionally wondering what's lost in translation. (His new novel, ''After Dark,'' is No. 30 on the fiction extended list.) On Murakami's Web site, you can read an e-mail exchange between a few of his translators; they discuss the joy and heartbreak of getting his work into English. Food seems to be a special problem. Jay Rubin writes: ''In general, the Japanese have a far more sensitive and sophisticated awareness regarding food than most Americans. ... So when a Murakami character makes himself an egg salad sandwich, Japanese readers are going to feel something a little different from what American readers are going to feel about it. There is no way to convey the cultural context regarding that sandwich in a translation, except perhaps through scholarly footnotes.'' (That must be some egg salad sandwich!) Another Murakami translator, Philip Gabriel, writes that when he was working on Murakami's novel ''Sputnik Sweetheart,'' he had to deal with a scene in which a character was eating a ''Mont Blanc'' in a Tokyo cafe. ''I originally just left this as 'Mont Blanc,' '' Gabriel writes, ''but Murakami was worried that people in the West would think she was eating an expensive fountain pen instead of a type of cake, so we decided to make it a generic 'cake' instead.'' A Japanese Mont Blanc cake, by the way, is usually topped with sweet chestnut cream extruded to resemble noodles. Whew. It sounds like something worth driving 50 miles to taste.</p>
+        <p>NOTES: ''A Thousand Splendid Suns,'' by Khaled Hosseini, enters the fiction list at No. 1. And ''The Overlook,'' by Michael Connelly, originally serialized in The Times Magazine, slides in at No. 2. ... In nonfiction, Al Gore wins this election; his book is new at No. 1, just ahead of Ronald Reagan's.</p>
+        <p>Dwight Garner</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Enough with this vegan parent baby killers thing already,” writes Isa Chandra Moskowitz.</p>
+      </block>
+      <block class="full_text">
+        <p>VEGANGELICALS: In the world of vegan cookbook writers, these are embattled times. Nina Planck's recent Op-Ed essay in The New York Times, ''Death by Veganism,'' argued that children and a vegan diet don't mix, and the essay hit No. 1 on this paper's ''most e-mailed'' list. Vegans fired back bitterly on countless Web sites and blogs. This meaty fuss made me wonder: What is this country's best-selling vegan cookbook, anyway? The answer, according to the Web site Vegan.com, is Isa Chandra Moskowitz's ''Vegan With a Vengeance: Over 150 Delicious, Cheap, Animal-Free Recipes That Rock'' (2005). Moskowitz, above, a tattooed 34-year-old Brooklynite, starred for a while on a public access TV show called ''The Post Punk Kitchen,'' and she's got a knack for combining ingredients like, say, horseradish and coriander to help you (almost) forget you're not eating meat, dairy or eggs. (''Enough with this vegan parent baby killers thing already,'' Moskowitz wrote on her blog, responding to Planck. ''The vegan children that I know have all been vibrant, happy and healthy.'') The other cookbooks in Vegan.com's top 10 recently: ''Vive Le Vegan,'' by Dreena Burton; ''Vegan Planet,'' by Robin Robertson; ''Vegan World Fusion Cuisine,'' by Mark Reinfeld; and ''La Dolce Vegan,'' by Sarah Kramer. Up next for Moskowitz: a vegan ''Joy of Cooking,'' due this fall. It's got an excellent title -- ''Veganomicon: The Ultimate Vegan Cookbook.''</p>
+        <p>EATING MURAKAMI: It's hard to read the Japanese writer Haruki Murakami's dislocating novels without occasionally wondering what's lost in translation. (His new novel, ''After Dark,'' is No. 30 on the fiction extended list.) On Murakami's Web site, you can read an e-mail exchange between a few of his translators; they discuss the joy and heartbreak of getting his work into English. Food seems to be a special problem. Jay Rubin writes: ''In general, the Japanese have a far more sensitive and sophisticated awareness regarding food than most Americans. ... So when a Murakami character makes himself an egg salad sandwich, Japanese readers are going to feel something a little different from what American readers are going to feel about it. There is no way to convey the cultural context regarding that sandwich in a translation, except perhaps through scholarly footnotes.'' (That must be some egg salad sandwich!) Another Murakami translator, Philip Gabriel, writes that when he was working on Murakami's novel ''Sputnik Sweetheart,'' he had to deal with a scene in which a character was eating a ''Mont Blanc'' in a Tokyo cafe. ''I originally just left this as 'Mont Blanc,' '' Gabriel writes, ''but Murakami was worried that people in the West would think she was eating an expensive fountain pen instead of a type of cake, so we decided to make it a generic 'cake' instead.'' A Japanese Mont Blanc cake, by the way, is usually topped with sweet chestnut cream extruded to resemble noodles. Whew. It sounds like something worth driving 50 miles to taste.</p>
+        <p>NOTES: ''A Thousand Splendid Suns,'' by Khaled Hosseini, enters the fiction list at No. 1. And ''The Overlook,'' by Michael Connelly, originally serialized in The Times Magazine, slides in at No. 2. ... In nonfiction, Al Gore wins this election; his book is new at No. 1, just ahead of Ronald Reagan's.</p>
+        <p>Dwight Garner  TBR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

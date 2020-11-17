@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Needed in Darfur: More Than Words</title>
+    <meta content="l01darfur" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851290"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFD91530F932A35755C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Needed in Darfur: More Than Words</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''No More Excuses on Darfur'' (editorial, May 30):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''No More Excuses on Darfur'' (editorial, May 30):</p>
+        <p>When Hitler's death camps and concentration camps were liberated in 1945, the civilized world recoiled and vowed that ''never again'' would it stand by in the face of genocide.</p>
+        <p>We have failed to keep that promise. We were bystanders when Hitler launched the Holocaust, and we have remained bystanders to the genocides that followed in the second half of the 20th century and continue today.</p>
+        <p>Bosnia, Kosovo  In Rwanda, we stood by as 800,000 were killed simply because of their ethnicity. Now, as you say in your editorial, ''at least 200,000 of Darfur's people have already been killed and more than 2.5 million have been driven from their homes.''</p>
+        <p>When will our world leaders move beyond their sanctimonious posturing and take the steps necessary to put an end to the genocide in Darfur? Speeches, however well intended, are not enough.</p>
+        <p>Jay N. Feldman  Port Washington, N.Y.  May 30, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

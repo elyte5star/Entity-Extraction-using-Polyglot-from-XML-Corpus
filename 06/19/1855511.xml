@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now You See 'Sicko,' Now You Don't</title>
+    <meta content="19arts-001" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/movies/19arts-001.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855511"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ARTS, BRIEFLY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama/Panama Canal and Canal Zone</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="descriptor">Canals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Canals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+        <location class="online_producer">Panama Canal and Canal Zone</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E6DF133FF93AA25755C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now You See 'Sicko,' Now You Don't</hl1>
+        <hl2 class="online_headline">Now You See ‘Sicko,’ Now You Don’t</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michael Moore's documentary about health care in the United States, ''Sicko,'' appeared then disappeared from the Internet as the weekend gave way to Monday, The Associated Press reported. First at least two YouTube users posted a pirated 124-minute, 14-video-clip version of the $9 million film, which is not scheduled for nationwide release until June 29. Each of the clips attracted 500 to 600 viewers to the video-sharing Web site over the weekend before YouTube pulled the links, citing a copyright claim by Lionsgate, which is distributing ''Sicko'' with the Weinstein Company. Sarah Rothman, a Weinstein spokeswoman, said in a statement that it was ''responding aggressively to protect our film.'' Mr. Moore, whose previous films include ''Roger &amp; Me'' and ''Fahrenheit 9/11,'' has supported the downloading of pirated films as long as the pirates do not profit.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Michael Moore’s documentary about health care in the United States, “Sicko,” appeared then disappeared from the Internet as the weekend gave way to Monday, The Associated Press reported.</p>
+      </block>
+      <block class="full_text">
+        <p>Michael Moore's documentary about health care in the United States, ''Sicko,'' appeared then disappeared from the Internet as the weekend gave way to Monday, The Associated Press reported. First at least two YouTube users posted a pirated 124-minute, 14-video-clip version of the $9 million film, which is not scheduled for nationwide release until June 29. Each of the clips attracted 500 to 600 viewers to the video-sharing Web site over the weekend before YouTube pulled the links, citing a copyright claim by Lionsgate, which is distributing ''Sicko'' with the Weinstein Company. Sarah Rothman, a Weinstein spokeswoman, said in a statement that it was ''responding aggressively to protect our film.'' Mr. Moore, whose previous films include ''Roger &amp; Me'' and ''Fahrenheit 9/11,'' has supported the downloading of pirated films as long as the pirates do not profit.</p>
+        <p>ARTS, BRIEFLY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

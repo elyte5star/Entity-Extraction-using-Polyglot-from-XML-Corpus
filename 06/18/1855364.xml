@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EBay Moves to Recharge Its Auctions</title>
+    <meta content="18ecom" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/technology/18ecom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855364"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="E-COMMERCE REPORT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/E-Commerce</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/E-Commerce Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">eBay Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E5DD123FF93BA25755C0A9619C8B63" item-length="1035" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EBay Moves to Recharge Its Auctions</hl1>
+        <hl2 class="online_headline">EBay Moves to Recharge Its Auctions</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <dateline>BOSTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1998, eBay's chief executive, Meg Whitman, changed the background color of the site's home page from gray to white. Rather than simply switching colors overnight, though, Ms. Whitman directed eBay's engineers to bleach the gray over the course of 30 days. At the end of the month, the company asked users if they noticed anything different. No one did.</p>
+        <p>At eBay, subtle change is about to become a thing of the past. Under pressure from analysts and investors to jump-start growth in its core auctions business, eBay is making a series of upgrades intended to make the site more friendly to buyers. In so doing, it may have to endure a torrent of criticism from more than 700,000 sellers who rely on eBay for their livelihoods and who have firm ideas of their own about how best to serve buyers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In making upgrades intended to make its site more friendly, eBay may endure criticism from more than 700,000 sellers who rely on it for their livelihoods.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1998, eBay's chief executive, Meg Whitman, changed the background color of the site's home page from gray to white. Rather than simply switching colors overnight, though, Ms. Whitman directed eBay's engineers to bleach the gray over the course of 30 days. At the end of the month, the company asked users if they noticed anything different. No one did.</p>
+        <p>At eBay, subtle change is about to become a thing of the past. Under pressure from analysts and investors to jump-start growth in its core auctions business, eBay is making a series of upgrades intended to make the site more friendly to buyers. In so doing, it may have to endure a torrent of criticism from more than 700,000 sellers who rely on eBay for their livelihoods and who have firm ideas of their own about how best to serve buyers.</p>
+        <p>''We have to make sure our old users stay with us, but we're going to be more bold around product changes than we've been in the past,'' Ms. Whitman said in an interview last week in Boston at eBay Live, an annual conference for the site's sellers. ''I think people expect more from eBay.''</p>
+        <p>Certainly, analysts do. As the company has expanded beyond its auctions business into Internet telephone service (with its acquisition of Skype), event ticketing (with StubHub) and comparison shopping (with Shopping.com), auction volume has slowed considerably from years past. As of early this month, the volume of eBay's United States listings was down by 3.8 percent compared with a year earlier, according to Citigroup.</p>
+        <p>Analysts said sellers were moving to other places on the Web in search of buyers who had grown weary of an overwhelming array of product choices on eBay.</p>
+        <p>''You could go to the site looking for Star Wars items and get the same results as you'd have had in 1999 -- a thousand results all sorted by what auction is closing first,'' said Mark Mahaney, an analyst with Citigroup. ''Are you looking for a Star Wars pendant? Poster? DVD? It doesn't matter. You'll see everything.''</p>
+        <p>Ms. Whitman said that chief among the changes was a new home page design. The company is testing simplified layouts that are less likely to confuse shoppers than the old version, which analysts said was among the most cluttered in the e-commerce industry.</p>
+        <p>EBay is also testing new ways to deliver search results. Instead of heading each list of results with items whose auctions are about to expire, the company will in the coming months give users the option of seeing search results headed by items the company predicts will be most appealing to buyers -- a measure determined in part by how well sellers have been rated by other buyers on eBay.</p>
+        <p>The changes are still being tweaked and tested in anticipation of wider rollouts in August, Ms. Whitman said, but early results are promising.</p>
+        <p>''We're optimistic that the changes will translate to accelerated growth and help us change the trajectory of our two largest markets, U.S. and Germany,'' she said.</p>
+        <p>The company does not disclose its gross sales volume by specific regions, but net revenue in the United States market increased by just 1 percent in the latest quarter, compared with a year earlier. According to Citigroup, the listings on eBay's German site had dropped by 16.5 percent earlier this month, compared with the similar time last year.</p>
+        <p>According to Ina Steiner, editor of AuctionBytes.com, a Web site that closely tracks eBay's merchants, the site's sellers will probably balk at some of the proposed changes, like the new search results formula.</p>
+        <p>''There's always this fear among them that the company is going to favor certain sellers over others,'' Ms. Steiner said. ''How will they be able to trust that that's not happening with this?''</p>
+        <p>Like it or not, though, sellers will have to expect change, Ms. Steiner said. ''EBay's really feeling the maturation of the market, and they're desperate to bring more buyers to the site,'' she said. ''They have to do something.''</p>
+        <p>Ms. Whitman characterized the changes less as a product of desperation and more a natural response to the needs of eBay's market. Over the company's history, she said, it has gone through periods where it concentrated more on sellers than on buyers, and now it is the buyers' turn.</p>
+        <p>EBay is painfully aware, though, that it earns its revenue from fees it charges to sellers, so it is also making a series of changes meant to appeal to that group. At a keynote address Thursday night, Bill Cobb, the president of eBay's North America division, said the company would decrease fees for certain services. He also said that eBay had negotiated significant reductions in shipping charges for merchants who use United Parcel Service. Thousands of sellers in the audience cheered.</p>
+        <p>In an interview the next day, Mr. Cobb said that in the past, the company had the luxury of ''standing on the sideline'' and letting the market operate freely. But because online shoppers are demanding more help in selecting items and choosing merchants they can trust, it has little choice but to intervene.</p>
+        <p>''It may mean a new cost of doing business for us, but it's the right thing to do,'' he said. ''And ultimately, it'll be good for the sellers.''</p>
+        <p>EBay is still far and away the biggest auction site on the market, commanding about 95 percent of auction listings, according to Jupiter Research, an Internet consultancy. Sales for the auctions category are expected to reach $30 billion this year, up from $26 billion last year. (Overall Internet sales in the United States this year are expected to reach about $116 billion.)</p>
+        <p>Some of the bigger eBay merchants said they welcomed the changes. Sabrina Thomson, who oversees customer service for Cameta Camera, a retailer based in Amityville, N.Y., said one of the challenges for eBay sellers has been finding return buyers. If the site does more to promote highly rated merchants in its search results, she said, it will help such sellers find more repeat customers.</p>
+        <p>''It's not as much a problem for us,'' Ms. Thomson said after Mr. Cobbs's keynote speech. ''But especially for smaller sellers, it's important to have that customer base there.''</p>
+        <p>E-COMMERCE REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

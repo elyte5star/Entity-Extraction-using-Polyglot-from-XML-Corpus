@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Online</title>
+    <meta content="19bizonline" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/business/19bizonline.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Parma</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates/Dubai</classifier>
+        <classifier class="online_producer" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <location class="online_producer">Parma (Italy)</location>
+        <location class="online_producer">Italy</location>
+        <location class="online_producer">Dubai</location>
+        <org class="online_producer">Electronic Arts</org>
+        <org class="online_producer">Merrill Lynch &amp; Company Inc</org>
+        <org class="online_producer">Parmalat SpA</org>
+        <org class="online_producer">ING Group</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4DF133FF93AA25755C0A9619C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Online</hl1>
+        <hl2 class="online_headline">Online</hl2>
+      </hedline>
+      <byline class="print_byline">By REUTERS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN SHIFTING CAREERS, a panel of career coaches and advisers answer reader questions at nytimes.com/smallbusiness.</p>
+        <p>Business Briefing</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>IN SHIFTING CAREERS, a panel of career coaches and advisers answer reader questions at nytimes.com/smallbusiness.</p>
+      </block>
+      <block class="full_text">
+        <p>IN SHIFTING CAREERS, a panel of career coaches and advisers answer reader questions at nytimes.com/smallbusiness.</p>
+        <p>Business Briefing</p>
+        <p>Articles on these developments are at nytimes.com/business.</p>
+        <p>ELECTRONIC ARTS, the world's biggest video game publisher, said it would reorganize into four units in an efficiency drive. The Electronic Arts units will focus on sports, casual games, the Sims franchise and other games. (REUTERS)</p>
+        <p>THE DAIRY GROUP PARMALAT announced three settlement agreements related to its 2003 failure, with Merrill Lynch, ING and Banca Monte Parma of Italy, for 72 million euros ($96.5 million). (AP)</p>
+        <p>THE QUEEN ELIZABETH 2 ocean liner has been sold to a Dubai-owned company, Istithmar, for $100 million. The company said it planned to turn the ship into a hotel, retail and entertainment destination. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

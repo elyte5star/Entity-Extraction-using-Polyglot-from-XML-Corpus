@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robots With Moves More Delicate Than a Surgeon's</title>
+    <meta content="05ilusscrt" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852267"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SCIENCE ILLUSTRATED"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DB1130F936A35755C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robots With Moves More Delicate Than a Surgeon's</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK O'CONNELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robots may one day be routinely used for surgery. The HeartLander prototype below uses suction to adhere to a beating heart. Moving like an inchworm, it can reach areas that now require doctors to deflate a patient's lungs. Other researchers are working on flexible, snakelike robots to operate in the throat, and on another system that provides visual rather than tactile feedback for surgical workstations.</p>
+        <p>FRANK O'CONNELL</p>
+        <p>HOW THE HEARTLANDER ROBOT WORKS</p>
+        <p>1. The robot is inserted through a small incision below the sternum.  2. Forceps are used to place the robot directly on the heart.  3. After the robot attaches itself, the surgeon guides it over the heart with a joystick.</p>
+        <p>HeartLander moves by alternately applying suction to each of its two chambers. Tethers attach to an external vacuum pump and a control box. It is turned by pushing and pulling on the drive wires.</p>
+        <p>POTENTIAL USES  The robot may be used to inject medication into difficult-to-reach areas of the heart; to attach pacemaker electrodes; and to selectively burn heart tissue, in a technique for curing arrhythmia.</p>
+        <p>(Diagrams highlight the following):  FRONT BODY  FRONT SUCTION LINE  POSITION SENSOR  FRONT SUCTION CHAMBER: An external pump provides suction.</p>
+        <p>SUCTION APPLIED  Front section extended  Rear section retracted  Extended</p>
+        <p>SUCTION CHAMBER  REAR SUCTION LINE  REAR BODY  DRIVE WIRE  DIAGNOSTIC SENSOR  INJECTION NEEDLE</p>
+        <p>ALSO ON THE HORIZON</p>
+        <p>SNAKELIKE ROBOT  Unlike the rigid instruments used on current surgical workstations, this flexible prototype can more easily work in confined areas like the throat.</p>
+        <p>SUBSTITUTING FOR TOUCH  The lack of tactile feedback makes it easy to break sutures accidentally when using a surgical robot. This system superimposes colored dots corresponding to levels of tension over video images of remote manipulators on a monitor.</p>
+        <p>(Diagrams highlight the following):  HOLDER  SPACER DISKS  DETACHABLE GRIPPERS</p>
+        <p>NORMAL TENSION  ELEVATED TENSION  BREAKAGE IMMINENT</p>
+        <p>(Sources by Robotics Institute, Carnegie Mellon University; University of Pittsburgh; Engineering Research Center, Johns Hopkins University; Advanced Robotics and Mechanism Applications, Columbia University)</p>
+      </block>
+      <block class="full_text">
+        <p>Robots may one day be routinely used for surgery. The HeartLander prototype below uses suction to adhere to a beating heart. Moving like an inchworm, it can reach areas that now require doctors to deflate a patient's lungs. Other researchers are working on flexible, snakelike robots to operate in the throat, and on another system that provides visual rather than tactile feedback for surgical workstations.</p>
+        <p>FRANK O'CONNELL</p>
+        <p>HOW THE HEARTLANDER ROBOT WORKS</p>
+        <p>1. The robot is inserted through a small incision below the sternum.  2. Forceps are used to place the robot directly on the heart.  3. After the robot attaches itself, the surgeon guides it over the heart with a joystick.</p>
+        <p>HeartLander moves by alternately applying suction to each of its two chambers. Tethers attach to an external vacuum pump and a control box. It is turned by pushing and pulling on the drive wires.</p>
+        <p>POTENTIAL USES  The robot may be used to inject medication into difficult-to-reach areas of the heart; to attach pacemaker electrodes; and to selectively burn heart tissue, in a technique for curing arrhythmia.</p>
+        <p>(Diagrams highlight the following):  FRONT BODY  FRONT SUCTION LINE  POSITION SENSOR  FRONT SUCTION CHAMBER: An external pump provides suction.</p>
+        <p>SUCTION APPLIED  Front section extended  Rear section retracted  Extended</p>
+        <p>SUCTION CHAMBER  REAR SUCTION LINE  REAR BODY  DRIVE WIRE  DIAGNOSTIC SENSOR  INJECTION NEEDLE</p>
+        <p>ALSO ON THE HORIZON</p>
+        <p>SNAKELIKE ROBOT  Unlike the rigid instruments used on current surgical workstations, this flexible prototype can more easily work in confined areas like the throat.</p>
+        <p>SUBSTITUTING FOR TOUCH  The lack of tactile feedback makes it easy to break sutures accidentally when using a surgical robot. This system superimposes colored dots corresponding to levels of tension over video images of remote manipulators on a monitor.</p>
+        <p>(Diagrams highlight the following):  HOLDER  SPACER DISKS  DETACHABLE GRIPPERS</p>
+        <p>NORMAL TENSION  ELEVATED TENSION  BREAKAGE IMMINENT</p>
+        <p>(Sources by Robotics Institute, Carnegie Mellon University; University of Pittsburgh; Engineering Research Center, Johns Hopkins University; Advanced Robotics and Mechanism Applications, Columbia University)  SCIENCE ILLUSTRATED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

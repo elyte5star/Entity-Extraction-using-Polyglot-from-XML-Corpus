@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hong Kong's Tiananmen Vigil Draws Crowd After Official's Denial</title>
+    <meta content="05hongkong" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/world/asia/05hongkong.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852293"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <location class="indexing_service">China</location>
+        <location class="indexing_service">Tiananmen Square (Beijing)</location>
+        <location class="indexing_service">Beijing (China)</location>
+        <location class="indexing_service">Hong Kong</location>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <person class="indexing_service">Ma Lik</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Hong Kong</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Beijing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Hong Kong</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <location class="online_producer">Hong Kong</location>
+        <location class="online_producer">Tiananmen Square (Beijing)</location>
+        <location class="online_producer">China</location>
+        <location class="online_producer">Beijing (China)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EEDB1130F936A35755C0A9619C8B63" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hong Kong's Tiananmen Vigil Draws Crowd After Official's Denial</hl1>
+        <hl2 class="online_headline">Hong Kong’s Tiananmen Vigil Draws Crowd After Official’s Denial</hl2>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER; Jim Yardley contributed reporting from Beijing.</byline>
+      <byline class="normalized_byline">Bradsher, Keith</byline>
+      <dateline>HONG KONG, June 4</dateline>
+      <abstract>
+        <p>Candlelight vigil is held in Hong Kong to observe 18th anniversary of military crackdown on pro-democracy demonstrators in Tiananmen Square in Beijing; event draws unusually large crowd, in apparent response to recent assertion by Ma Lik, leader of Hong Kong's pro-China party, that no massacre took place; Tiananmen Square itself remains quiet, if under tight security; several well-known dissidents are placed under house arrest or close watch, though some describe harassment as more passive than in years past (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A candlelight vigil here on Monday evening to observe the 18th anniversary of the military crackdown on the Tiananmen Square demonstrations in Beijing drew an unusually large crowd, apparently in response to the recent assertion by the leader of Hong Kong's pro-China party that no massacre took place.</p>
+        <p>By contrast, Tiananmen Square itself remained quiet, if under tight security, on a sunny day, with the usual tour groups and pedestrians milling about. Several well-known dissidents had been placed under house arrest or close watch, though some described the harassment as more passive than in years past.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>By contrast, Tiananmen Square itself remained quiet, if under tight security, on a sunny day, with the usual tour groups and pedestrians milling about.</p>
+      </block>
+      <block class="full_text">
+        <p>A candlelight vigil here on Monday evening to observe the 18th anniversary of the military crackdown on the Tiananmen Square demonstrations in Beijing drew an unusually large crowd, apparently in response to the recent assertion by the leader of Hong Kong's pro-China party that no massacre took place.</p>
+        <p>By contrast, Tiananmen Square itself remained quiet, if under tight security, on a sunny day, with the usual tour groups and pedestrians milling about. Several well-known dissidents had been placed under house arrest or close watch, though some described the harassment as more passive than in years past.</p>
+        <p>Some dissidents communicated through Web sites established to commemorate the anniversary.</p>
+        <p>Hu Jia, a leading Chinese advocate on issues like AIDS, said that he and others had been confined to their homes but that the authorities had shown a few small signs of leniency. He said Ding Zilin, a leader of a group known as the Tiananmen Mothers, was allowed to commemorate the death of her son by visiting one of the sites where soldiers fired upon pro-democracy demonstrators.</p>
+        <p>In Hong Kong, the Tiananmen Square killings are once more a subject of active discussion after remarks on May 15 by Ma Lik, the chairman of the pro-Beijing Democratic Alliance for the Betterment and Progress of Hong Kong. Mr. Ma told local reporters that Hong Kong residents lacked patriotic devotion to China because they believed that the Communist Party had massacred people at Tiananmen Square.</p>
+        <p>Mr. Ma contended that Hong Kong residents were too willing to believe versions of events in 1989 that were reported by Westerners. He went on to suggest that the city would not be ready to be granted full democracy by Beijing until 2022 as a result.</p>
+        <p>Mr. Ma described his remarks a day later as ''rash and frivolous,'' but maintained his position that no massacre had taken place. Mr. Ma did not answer calls to his cellphone last month or on Monday.</p>
+        <p>Public debate over Mr. Ma's remarks appeared to help the turnout at the vigil on Monday evening. Organizers said 55,000 people were there; the police said 27,000. The organizers' estimate last year was 44,000, while the police said 19,000.</p>
+        <p>Yip Wingki, a 32-year-old salesman, said that he had not attended any previous vigils but that he came to the vigil on Monday evening and brought his 7-year-old son because he was offended by Mr. Ma's remarks. ''He warped the truth totally,'' he said as his son sleepily held a lighted candle in the sweltering heat.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

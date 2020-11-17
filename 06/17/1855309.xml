@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blame a Lack of Enforcement</title>
+    <meta content="17inbox-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855309"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DD123FF934A25755C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blame a Lack of Enforcement</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>''For Cavaliers-Spurs, Where Have All the Viewers Gone?'' (June 14) attributes poor viewership of the N.B.A. finals to such elements as the small-market teams involved and NBA.com. One reason not considered is the N.B.A.'s inability to enforce rules with common sense.</p>
+        <p>In the 1997 playoffs, Miami's P. J. Brown threw the Knicks' Charlie Ward over his shoulder. After the subsequent melee, the Knicks lost more players than the Heat and the series as well.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>''For Cavaliers-Spurs, Where Have All the Viewers Gone?'' (June 14) attributes poor viewership of the N.B.A. finals to such elements as the small-market teams involved and NBA.com. One reason not considered is the N.B.A.'s inability to enforce rules with common sense.</p>
+        <p>In the 1997 playoffs, Miami's P. J. Brown threw the Knicks' Charlie Ward over his shoulder. After the subsequent melee, the Knicks lost more players than the Heat and the series as well.</p>
+        <p>In the Western Conference semifinals this year, San Antonio's Robert Horry body-checked Phoenix's Steve Nash into a table; two Suns players who left the bench were suspended for Game 5.</p>
+        <p>The assault of an opposing player has resulted in playoff series victories for the aggressors' team on two occasions. Many fans did not watch the finals because they knew the wrong teams were playing.</p>
+        <p>Sheldon Goldstein, M.D.  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

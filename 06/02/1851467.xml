@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Wordy Warriors</title>
+    <meta content="l02dowd" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851467"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0D61330F931A35755C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Wordy Warriors</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''How We're Animalistic -- in Good Ways and Bad,'' by Maureen Dowd (column, May 30), about conservatives who are obsessed with ancient Greece:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''How We're Animalistic -- in Good Ways and Bad,'' by Maureen Dowd (column, May 30), about conservatives who are obsessed with ancient Greece:</p>
+        <p>War is an endlessly fascinating subject for those who want to theorize, speculate and analyze. It is quite a different thing for those -- usually poor young men -- who do the fighting and killing and dying.</p>
+        <p>The abysmal folly of the American war in Iraq teaches many lessons, and one that should not be forgotten is that men without direct experience of war know nothing about it.</p>
+        <p>This is as true for men like President Bush and Vice President Dick Cheney, who hid from war, as it is for intellectuals who make a fetish of studying the military history of ancient Greece.</p>
+        <p>David Hayden  Wilton, Conn., May 30, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

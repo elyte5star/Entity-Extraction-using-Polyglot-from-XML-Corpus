@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Mayor Promotes Congestion Pricing</title>
+    <meta content="07mbrfs-8" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852834"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EED61E30F934A35755C0A9619C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Mayor Promotes Congestion Pricing</hl1>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Congestion pricing could help the Metropolitan Transportation Authority avoid fare increases, Mayor Michael R. Bloomberg said yesterday. Mr. Bloomberg made his comments at a news conference at Pratt Institute the day after an analysis by the city's Independent Budget Office showed that transit fares could go as high as $3 over the next three years. ''Maybe congestion pricing would generate enough to help them for a long time and postpone a fare increase,'' said Mr. Bloomberg, who has been pressuring Albany to approve his plan. ''If you don't give them another source of revenue, then the likelihood of less mass transit and higher fares is clearly there.''</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+      <block class="full_text">
+        <p>Congestion pricing could help the Metropolitan Transportation Authority avoid fare increases, Mayor Michael R. Bloomberg said yesterday. Mr. Bloomberg made his comments at a news conference at Pratt Institute the day after an analysis by the city's Independent Budget Office showed that transit fares could go as high as $3 over the next three years. ''Maybe congestion pricing would generate enough to help them for a long time and postpone a fare increase,'' said Mr. Bloomberg, who has been pressuring Albany to approve his plan. ''If you don't give them another source of revenue, then the likelihood of less mass transit and higher fares is clearly there.''</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

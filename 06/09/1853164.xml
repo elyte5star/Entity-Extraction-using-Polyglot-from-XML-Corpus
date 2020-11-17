@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEALS APLENTY</title>
+    <meta content="09five-1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853164"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E5DD163FF93AA35755C0A9619C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEALS APLENTY</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As summer fast approaches, the temperature in the deal world is rising as well. On Thursday, Biomet, a maker of artificial joints, accepted a sweetened $11.4 billion offer from a group of private equity firms. The new proposal arrived as shareholders indicated that they would reject the consortium's $10.9 billion previous offer as too low.</p>
+        <p>On Monday, Avaya, one of the world's biggest makers of corporate phone equipment, agreed to an $8.2 billion deal with Silver Lake Partners and the Texas Pacific Group. The two private equity firms, which bested Nortel Networks in the bidding, will pay $17.50 a share.</p>
+      </block>
+      <block class="full_text">
+        <p>As summer fast approaches, the temperature in the deal world is rising as well. On Thursday, Biomet, a maker of artificial joints, accepted a sweetened $11.4 billion offer from a group of private equity firms. The new proposal arrived as shareholders indicated that they would reject the consortium's $10.9 billion previous offer as too low.</p>
+        <p>On Monday, Avaya, one of the world's biggest makers of corporate phone equipment, agreed to an $8.2 billion deal with Silver Lake Partners and the Texas Pacific Group. The two private equity firms, which bested Nortel Networks in the bidding, will pay $17.50 a share.</p>
+        <p>That same day, Palm said that it would sell a 25 percent stake in itself to Elevation Partners, a private equity firm that counts Bono among its co-founders, for $325 million. The sale comes as the company's cellphones lose market share to rival devices running the BlackBerry or Windows Mobile systems.</p>
+        <p>And it was reported Monday that Cadence Design Systems, which makes the software that designs computer chips, has held talks with at least two private equity firms about going private.</p>
+        <p>Though private equity has found resounding success in acquiring companies over the last two years, fears of rising interest rates may bring the buyout boom to a halt, as the debt fueling the acquisition spree becomes too expensive.</p>
+        <p>MICHAEL J. de la MERCED</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

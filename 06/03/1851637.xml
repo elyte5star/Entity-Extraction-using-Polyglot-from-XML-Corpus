@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Parallel Paths</title>
+    <meta content="Wimmer.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="55" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/books/review/Wimmer-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851637"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">Speed of Light, The (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE7DF1730F930A35755C0A9619C8B63" item-length="610" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Parallel Paths</hl1>
+        <hl2 class="online_headline">Parallel Paths</hl2>
+      </hedline>
+      <byline class="print_byline">By NATASHA WIMMER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE SPEED OF LIGHT</p>
+        <p>By Javier Cercas.</p>
+        <p>Translated by Anne McLean.</p>
+        <p>278 pp. Bloomsbury.</p>
+        <p>Paper, $14.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Besides having a lot in common with the author, the hero finds his reflection in the life of a Vietnam vet.</p>
+      </block>
+      <block class="full_text">
+        <p>THE SPEED OF LIGHT</p>
+        <p>By Javier Cercas.</p>
+        <p>Translated by Anne McLean.</p>
+        <p>278 pp. Bloomsbury.</p>
+        <p>Paper, $14.95.</p>
+        <p>The protagonist of Javier Cercas's 2001 novel, ''Soldiers of Salamis,'' self-deprecatingly claims he can't give up writing because his writing never amounted to anything to begin with. Cercas could say the same for his own career as a Spanish novelist -- until that book, a stealthily brilliant semifictional account of the Spanish Civil War, became an unexpected best seller in Spain and abroad. Now Cercas has written another novel about the aftermath of war -- this time the Vietnam War -- and art has caught up with life: his writer protagonist is wildly, cravenly successful, and Cercas-the-author embarks on a dual reckoning with the nature of war and the writing life.</p>
+        <p>Like W. G. Sebald or the Spanish novelist Javier MarÃas, Cercas writes novels steeped in an awareness of 20th-century history, conjuring up lost people and places in a style at once personal, idiosyncratic and slyly circuitous. Feigning documentary-style reportage, he chronicles his own investigations into the past, making the reader question what is artifice and what is real. This kind of self-referentiality can be treacherous, but Cercas handles it skillfully, playing his fictional role with modesty and fostering a seductive and even moving sense of immediacy.</p>
+        <p>''The Speed of Light,'' deftly translated by Anne McLean, opens in 1987, when a young would-be writer greatly resembling Javier Cercas lands a job as a Spanish instructor at the University of Illinois at Urbana. He befriends Rodney Falk, a fellow instructor and Vietnam vet with a lurching walk, an eye patch and an unpredictable streak -- in other words, a cliché. But as Rodney -- a voracious reader unafraid to claim Hemingway as his totem -- declares, ''Ideas don't become clichéd because they're false, but because they're true, or at least contain a substantial part of truth.''</p>
+        <p>When Rodney disappears, the narrator is summoned by Rodney's father, a doctor, who entrusts him with a stash of letters and the dark tale of an unexplained incident in a village called My Khe and the activities of an elite fighting unit called Tiger Force. The quest to find the missing pieces of Rodney's story consumes the narrator, but it takes him 17 years to piece it all together. In the meantime, his own life has been turned upside down by success. A book he has written about the Spanish Civil War becomes a best seller, and a series of personal disasters provoked by his arrogance and hypocrisy finally drive him back to Urbana, where he strives to counter the shameful realization that ''my real vocation wasn't writing but having written.''</p>
+        <p>The novel's constant stream of startling revelations can seem melodramatic, but Cercas makes a virtue of excess, aiming to throw off the yoke of fashionable detachment. The narrator's self-analysis and his literary conversations with Rodney form the core of the book. Their unlikely friendship is surprisingly believable, and when the narrator returns to Illinois and discovers that the destruction he has wrought in his life is mirrored by the damage Rodney has inflicted on those around him, the confluence is haunting. He even imagines adopting Rodney's family as his own and moving into Rodney's small-town house. Rodney, he concludes, is not just a friend, but a ''symbol whose scope not even I myself could entirely define, a dark or radiant symbol.''</p>
+        <p>In ''The Speed of Light,'' Cercas demonstrates that sophistication and sentiment are not mutually exclusive, and that history demands emotional engagement. At the same time, he proves (to his readers and to himself) that it is possible to delve into the tricky question of success without succumbing to hopeless narcissism.</p>
+        <p>Natasha Wimmer is the translator, most recently, of ''The Savage Detectives,'' by Roberto BolaÃ$(1$)o, and ''Delirium,'' by Laura Restrepo.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Natasha Wimmer is the translator, most recently, of ''The Savage Detectives,'' by Roberto Bola�$(1$)o, and ''Delirium,'' by Laura Restrepo.</tagline>
+    </body.end>
+  </body>
+</nitf>

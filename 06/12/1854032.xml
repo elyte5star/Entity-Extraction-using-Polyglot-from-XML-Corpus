@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Tony (the Award) Helps CBS in the Numbers Game</title>
+    <meta content="12arts-3" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854032"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2D9173FF931A25755C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Tony (the Award) Helps CBS in the Numbers Game</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As Tony Soprano (James Gandolfini) bid adieu on HBO, on network television CBS and ABC fought it out for first place in the ratings Sunday. While numbers for the final episode of ''The Sopranos'' were unavailable yesterday, Nielsen's estimates show that CBS attracted the most viewers for the night with its combination of a ''60 Minutes'' repeat at 7 p.m. (9.3 million) followed from 8 to 11 by ''The 61st Annual Tony Awards,'' which drew 6.2 million viewers, down more than a million from a year ago. Despite its edge in total viewers, CBS finished fourth over all among adults 18 to 49. ABC posted a solid win for the night in that demographic, aided primarily by its coverage of game two of the N.B.A. Finals match-up between the Cleveland Cavaliers and the San Antonio Spurs. Due to the nature of live broadcasts, reliable estimates for the game's television audience were unavailable yesterday.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>As Tony Soprano (James Gandolfini) bid adieu on HBO, on network television CBS and ABC fought it out for first place in the ratings Sunday. While numbers for the final episode of ''The Sopranos'' were unavailable yesterday, Nielsen's estimates show that CBS attracted the most viewers for the night with its combination of a ''60 Minutes'' repeat at 7 p.m. (9.3 million) followed from 8 to 11 by ''The 61st Annual Tony Awards,'' which drew 6.2 million viewers, down more than a million from a year ago. Despite its edge in total viewers, CBS finished fourth over all among adults 18 to 49. ABC posted a solid win for the night in that demographic, aided primarily by its coverage of game two of the N.B.A. Finals match-up between the Cleveland Cavaliers and the San Antonio Spurs. Due to the nature of live broadcasts, reliable estimates for the game's television audience were unavailable yesterday.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

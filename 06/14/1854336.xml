@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Family Forestry</title>
+    <meta content="14sbiz" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/business/smallbusiness/14sbiz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854336"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SMALL BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="indexing_service" type="descriptor">Aged</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Property Taxes</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">Clark County (Wash)</location>
+        <org class="indexing_service">United States Forestry Service</org>
+        <person class="indexing_service">Mohn, Tanya</person>
+        <person class="indexing_service">Butler, Brett J</person>
+        <person class="indexing_service">Revesz, Peter</person>
+        <person class="indexing_service">Revesz, Jane</person>
+        <person class="indexing_service">Revesz, Mike</person>
+        <person class="indexing_service">Revesz, Sandra</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Careers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="descriptor">Wood and Wood Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wood and Wood Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE7DA143FF937A25755C0A9619C8B63" item-length="1411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Family Forestry</hl1>
+        <hl2 class="online_headline">Family Forestry</hl2>
+      </hedline>
+      <byline class="print_byline">By TANYA MOHN</byline>
+      <byline class="normalized_byline">Mohn, Tanya</byline>
+      <abstract>
+        <p>Large tracts of private forest are at risk of falling into mismanagement, subdivision or being sold for development; Brett J Butler, research forester with US Forest Service Family Forest Research Center, says situation could jeopardize things like wood used to build homes, jobs, and clean water and fresh air; nearly 60 percent of nation's forests are privately owned, majority by families and individuals and most of these owners are 55 or older; huge swath of forest land is about to change hands as aging landowners pass land to heirs or buyers; high taxes are top reason heirs are selling land; industry officials hope reauthorization of 2007 Farm Bill currently being drafted by House Agriculture Committee will provide incentive programs to help family forest owners bear costs of maintaining their lands; Peter and Jane Revesz, 78 and 72, respectively, are planning for transition of their 560 acres in Clark County, Wash, which has been in family for over half century; their hope is that their son Mike and their daughter Sandra will become third-generation managers; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There is a crisis brewing in America's vast forest lands, but it has little to do with the health of the woods: the acreage is essentially the same as it was a century ago, and there is over 30 percent more wood volume per acre than in 1952.</p>
+        <p>At stake are large tracts of private forest that are at risk of falling into mismanagement, subdivision or being sold for development.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Large tracts of private forest are at risk of falling into mismanagement, subdivision or being sold for development.</p>
+      </block>
+      <block class="full_text">
+        <p>There is a crisis brewing in America's vast forest lands, but it has little to do with the health of the woods: the acreage is essentially the same as it was a century ago, and there is over 30 percent more wood volume per acre than in 1952.</p>
+        <p>At stake are large tracts of private forest that are at risk of falling into mismanagement, subdivision or being sold for development.</p>
+        <p>''It's a ticking time bomb'' said Brett J. Butler, a research forester with the United States Forest Service Family Forest Research Center in Amherst, Mass. He says the situation could jeopardize things like the wood used to build homes, jobs, and clean water and fresh air.</p>
+        <p>Nearly 60 percent of the nation's forests are privately owned, the majority by families and individuals and most of these owners are 55 or older. A huge swath of forest land is about to change hands as aging landowners pass the land to heirs or buyers.</p>
+        <p>''Without a doubt, it is the largest intergenerational transfer of forest land in our nation's history,'' said Al Sample, president of the Pinchot Institute for Conservation, a nonprofit environmental policy research organization, ''and we are not ready for it.'' Already, he said, forest land is rapidly disappearing. ''We're losing four acres a minute; were not talking about the Amazon here.''</p>
+        <p>The institute, in cooperation with the Forest Service, recently completed a survey of the next generation of family forest owners and found that heirs who will inherit the land are often professionals living far away in cities, have weak bonds to the land, and have little involvement in management of family forests.</p>
+        <p>High taxes were a top reason heirs cited as deterrents to keeping the land. ''The first time Wal-Mart or a developer makes an offer, they are going to take it,'' Mr. Sample said. ''They often feel that they have no choice.''</p>
+        <p>Steve Presley remembers spending time growing up on land his father owned in Palestine in East Texas: watching the sun go down, listening to the crickets, frogs and coyotes and picking blackberries with his high school sweetheart. (The bushes are still there, and the girl is now his wife of some 30 years.)</p>
+        <p>But Mr. Presley, who now owns the land, worries that high inheritance and property taxes may prevent future generations from experiencing similar pleasures. ''My children are faced with selling part of the property to pay for taxes.''</p>
+        <p>Subdividing the land is a major obstacle to practicing responsible forestry, said Edward Steigerwaldt, president of the Association of Consulting Foresters. Parcels must be a certain size to harvest economically and to sustain water quality and wildlife habitats.</p>
+        <p>Mr. Presley harvests much of his 750 acres, but said that increased regulations and negative public opinion make tree farming difficult. In recent years landowners have been criticized for cutting down trees.</p>
+        <p>''Trees are absolutely the best way to take carbon out of the atmosphere,'' Mr. Presley said. ''What environmentalists don't understand is that as trees get really, really big, the growth rate goes down. Slow growth results in less carbon absorption.'' Harvesting mature trees and replanting younger, faster growing trees ''helps the small forest owner and the environment.''</p>
+        <p>Laurence D. Wiseman, president and chief executive of the American Forest Foundation, a nonprofit conservation organization, said private forest owners played a critical role in protecting water and air quality and habitats for rare and endangered animals.</p>
+        <p>''They preserve the environment, but don't get credit for it. Seventy percent of the Eastern watershed flows through family forests -- all outside of public view,'' he said. '' It's a paradox. The public enjoys the benefits but don't help pay any costs.''</p>
+        <p>Mr. Wiseman and others in the industry hope the reauthorization of the 2007 Farm Bill currently being drafted by the House Agriculture Committee will provide incentive programs to help family forest owners bear the costs of maintaining their lands.</p>
+        <p>A recent national poll conducted for the Nature Conservancy found that most Americans incorrectly believe that the federal government owns most forests. But when respondents were informed that families and individuals did, they expressed strong support for protecting private forestland. The survey of 1001 registered voters was conducted by telephone in February 2007.</p>
+        <p>''There has been little Farm Bill funding for family forest landowners in the past,'' said Louise Milkman, director for federal programs at the Nature Conservancy, even though ''family forests are a large part of the working rural landscape.''</p>
+        <p>The Subcommittee on Department Operations, Oversight, Nutrition, and Forestry is expected to consider provisions today, and the full House Agriculture Committee is taking the matter up the last week of June.</p>
+        <p>Lack of communication among family members is a common problem.</p>
+        <p>''Families resist talking about death and dying; it's like going to the dentist,'' said Thom J. McEvoy, a professor and extension forester at the University of Vermont who has studied this issue. When family members do not discuss matters, or disagree, ''the path of least resistance'' is often taken, which is selling part or all of the land.</p>
+        <p>Wayne Rivers, president of the Family Business Institute, a consulting firm in Raleigh, N.C., who serves as a consultant to an industry association, said many families ''see the land as something more than a business, as a family legacy, but it is still a business.'' As a result, they do not take measures like estate and succession planning. ''Most are woefully unprepared,'' he said.</p>
+        <p>But programs to help families are becoming more common.</p>
+        <p>Stephen Whitfield, executive director of NCWoodlands, a nonprofit group in North Carolina, affiliated with the National Woodland Owners Association, runs workshops in cooperation with the State University extension service, ''to give people tools to be able to keep land if they want to''</p>
+        <p>One of them, Women in the Woods, is geared to widows, who often find themselves in charge of land unexpectedly when their husbands die, Mr. Whitfield said.</p>
+        <p>Some programs focus on exploring revenue sources beyond timber.</p>
+        <p>The Forest Service has links and information on its Web site (www.na.fs.fed.us/stewardship/estate/estate.shtml) on tax and estate planning options as conservation easements, which let landowners maintain ownership but provide monetary payments and ensure that the land will remain intact.</p>
+        <p>Peter and Jane Revesz, 78 and 72, respectively, are planning for the transition of their 560 acres in Clark County, Wash., which has been in the family for over half a century.</p>
+        <p>Their hope is that their son, Mike Revesz, 46, an engineering scientist living in Austin, Tex., and their daughter, Sandra Revesz, 49, a nurse living in Seattle, will become third-generation managers.</p>
+        <p>Both Revesz children participated in the Pinchot study several years ago, but at the time had no concrete plans in place. ''I think it made us start thinking,'' Sandra Revesz said. Both she and her brother have since realized the importance of the land as a family legacy.</p>
+        <p>''My parents have worked hard to take a very realistic approach, producing enough income to make the land pay for itself,'' Mike Revesz said.</p>
+        <p>The family gathered in January to use a Ties to the Land program offered by Oregon State University that provides exercises and worksheets to guide families in shifting land from one generation to the next.</p>
+        <p>''The materials helped us all talk through issues,'' Mike Revesz said,to avoid being overwhelmed at a later date. The family plans to keep the land as a working tree farm.</p>
+        <p>In 2002, when Carolyn Vassar Pickett's mother died, she seriously considered selling the family land in Marengo County, Ala.</p>
+        <p>But a childhood friend encouraged her to contact the National Network of Forest Practitioners, a clearinghouse for information and technical assistance. ''That was the catalyst that changed my mind,'' said Mrs. Pickett, now 59, who travels between Chicago and Selma, Ala., to manage the land.</p>
+        <p>Several years later she created Women in Land Ownership, a nonprofit organization that offers financial and legal advice to help landowners keep their property. One recent member was encouraged to harvest timber to help finance a child's college education; another was ''being coerced to sell mineral rights,'' she said, but with the organization's help, was introduced to a lawyer who specializes in land law.</p>
+        <p>Her motivation comes from her father, a skilled laborer who bought the land when she was child. He died 14 years ago. ''He always said: 'Man can create houses and man can create businesses. But God created the land, and he won't create any more in our lifetime.' ''</p>
+        <p>SMALL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

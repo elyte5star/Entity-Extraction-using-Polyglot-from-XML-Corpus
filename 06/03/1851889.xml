@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F. Y. I.</title>
+    <meta content="03fyi" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/nyregion/thecity/03fyi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851889"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="F. Y. I."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Jewels and Jewelry</classifier>
+        <classifier class="indexing_service" type="descriptor">Museums</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Tiffany &amp; Co</org>
+        <person class="indexing_service">Booth, John Wilkes (1838-65)</person>
+        <person class="indexing_service">Pollak, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/F.Y.I.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE4D81330F930A35755C0A9619C8B63" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F. Y. I.</hl1>
+        <hl2 class="online_headline">No Chewing the Pearls</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL POLLAK</byline>
+      <byline class="normalized_byline">Pollak, Michael</byline>
+      <abstract>
+        <p>FYI column answers questions about whether breakfast can actually be eaten at Tiffany's, entry fees at museums and whether John Wilkes Booth ever appeared on stage in New York; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>No Chewing the Pearls</p>
+        <p>Q. Can I actually have breakfast at Tiffany's? I've wondered that ever since I saw the Audrey Hepburn movie.</p>
+        <p>A. The answer is yes, but not for your wife's anniversary or your daughter's sweet 16 party or bat mitzvah. Tiffany and Company doesn't do private breakfasts for individuals.</p>
+        <p>The flagship store at Fifth Avenue and 57th Street does, however, invite people to ''Breakfast at Tiffany'' events to support charities with which Tiffany is a partner, said Linda Buckley, a Tiffany spokeswoman. Among the charities are the New York Restoration Project and the Cooper-Hewitt National Design Museum.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Can I actually have breakfast at Tiffany’s? I’ve wondered that ever since I saw the Audrey Hepburn movie.</p>
+      </block>
+      <block class="full_text">
+        <p>No Chewing the Pearls</p>
+        <p>Q. Can I actually have breakfast at Tiffany's? I've wondered that ever since I saw the Audrey Hepburn movie.</p>
+        <p>A. The answer is yes, but not for your wife's anniversary or your daughter's sweet 16 party or bat mitzvah. Tiffany and Company doesn't do private breakfasts for individuals.</p>
+        <p>The flagship store at Fifth Avenue and 57th Street does, however, invite people to ''Breakfast at Tiffany'' events to support charities with which Tiffany is a partner, said Linda Buckley, a Tiffany spokeswoman. Among the charities are the New York Restoration Project and the Cooper-Hewitt National Design Museum.</p>
+        <p>So what does Tiffany's serve for breakfast? The store favors smaller, bite-size food, Ms. Buckley said, like scrambled eggs in a tartlet shell with caviar, miniature chocolate croissants and Tiffany Blue Box petits fours.</p>
+        <p>In addition, honoring the Academy Award-winning song in the 1961 movie, Tiffany occasionally has a quartet at the special breakfasts playing ''Moon River.''</p>
+        <p>Ms. Buckley added that passers-by are often seen enjoying their own Holly Golightly moment with a cup of coffee and a croissant outside the Fifth Avenue windows.</p>
+        <p>Suggested vs. Required</p>
+        <p>Q. Why are the amounts of entry fees to some museums (the Metropolitan Museum of Art, for example) suggested but not compulsory, while the fees for other museums (the Morgan Library, for example) are compulsory?</p>
+        <p>A. Museums have to balance their financial needs with a desire to remain accessible and affordable to the general public. There is no universal policy.</p>
+        <p>Patrick Milliman, a spokesman for the Morgan Library and Museum, responded to your query by e-mail: ''Our 'required' fee policy is more often than not the norm at museums, both in New York and throughout the U.S. We have tried to set our rate of $12 for adults and $8 for children, seniors, and students, at reasonable levels.'' Children 12 and under are allowed in free, and the Morgan Library is free to all from 7 to 9 p.m. on Fridays.</p>
+        <p>As for the Metropolitan, Harold Holzer, its spokesman, explained that the policy is to ask visitors for a recommended admission charge -- currently $20 for adults, $15 for people over age 65 and $10 for students. This approach, he said, allows visitors ''of all ages, and all economic means,'' to enjoy the museum's collections and programs.</p>
+        <p>Mr. Holzer added that the Met never charges an extra fee for special exhibitions.</p>
+        <p>Before Infamy, the Stage</p>
+        <p>Q. Before John Wilkes Booth assassinated Abraham Lincoln, did Booth ever appear on stage in New York?</p>
+        <p>A. Yes, in at least one memorable performance.</p>
+        <p>Although he did much of his acting in Richmond, Va., or Washington, he was in the cast of ''Julius Caesar'' on Nov. 25, 1864, at the Winter Garden on Broadway near Bond Street. It is believed to have been the only time all three brothers appeared together on stage: John Wilkes, Edwin and Junius Brutus Booth Jr. The proceeds went toward a project of Edwin's: a statue of Shakespeare planned for Central Park.</p>
+        <p>The second act was interrupted by firemen; that was the night Confederate agents made a failed attempt to burn down several hotels, including the La Farge House next door.</p>
+        <p>The Shakespeare statue was unveiled in 1872 and is still there.</p>
+        <p>MICHAEL POLLAK</p>
+        <p>F. Y. I. E-mail: fyi@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: fyi@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

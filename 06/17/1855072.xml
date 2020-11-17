@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Slow Track This Nominee</title>
+    <meta content="subNJcourt" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/nyregionopinions/subNJcourt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855072"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Judges</classifier>
+        <classifier class="indexing_service" type="descriptor">Supreme Courts (State)</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Gill, Nia (Sen)</person>
+        <person class="indexing_service">Rice, Ronald (Sen)</person>
+        <person class="indexing_service">Rabner, Stuart (Atty Gen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Rabner, Stuart J</person>
+        <person class="online_producer">Corzine, Jon S</person>
+        <person class="online_producer">Rice, Ronald</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1DF153FF934A25755C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Slow Track This Nominee</hl1>
+        <hl2 class="online_headline">Slow Track This Nominee</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial opposes efforts by State Senators Nia Gill and Ronald Rice to block nomination of Attorney General Stuart Rabner as chief justice of New Jersey Supreme Court, but maintains it would be wrong to rush nomination through</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey Attorney General Stuart Rabner, who is Gov. Jon Corzine's choice for chief justice of the state's Supreme Court, is viewed as a nonpolitical straight arrow with no tolerance for ethical shortcomings. That is an essential character trait in New Jersey, given the state's record of corruption. But it is not the only quality the state's top judge must have.</p>
+        <p>Last week, Democrat Nia Gill of Essex County, apparently irritated by efforts to move the nomination quickly through the Senate, indicated that she might use her power as Mr. Rabner's home county state senator to prevent approval. Another Essex senator, Ronald Rice of Newark, who leads the legislature's black caucus, faulted Mr. Corzine for not consulting him before making the nomination.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It would be wrong to rush through the nomination of Attorney General Stuart Rabner as Gov. Jon Corzine’s choice for chief justice of the state’s Supreme Court.</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey Attorney General Stuart Rabner, who is Gov. Jon Corzine's choice for chief justice of the state's Supreme Court, is viewed as a nonpolitical straight arrow with no tolerance for ethical shortcomings. That is an essential character trait in New Jersey, given the state's record of corruption. But it is not the only quality the state's top judge must have.</p>
+        <p>Last week, Democrat Nia Gill of Essex County, apparently irritated by efforts to move the nomination quickly through the Senate, indicated that she might use her power as Mr. Rabner's home county state senator to prevent approval. Another Essex senator, Ronald Rice of Newark, who leads the legislature's black caucus, faulted Mr. Corzine for not consulting him before making the nomination.</p>
+        <p>Although any attempt by a single senator to block Mr. Rabner would be an abuse of power, it would also be wrong to rush the nomination through. Mr. Rabner's integrity and strong record as a former career prosecutor are impressive, but not much is known about his judicial philosophy.</p>
+        <p>The Senate Judiciary Committee should question him closely about his views during confirmation hearings. Mr. Rabner is only 46 and could be chief justice for a generation until he reaches the mandatory retirement age of 70. New Jersey residents have a right to learn more about what he thinks.</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

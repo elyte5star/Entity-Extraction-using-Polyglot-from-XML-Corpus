@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="11choi-5" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853811"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E5DD173FF932A25755C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wooden Wand  ''James &amp; the Quiet''  (Ecstatic Peace)</p>
+        <p>James Jackson Toth has hinted that ''James &amp; the Quiet'' could be his last album as Wooden Wand and that he'll be using his own name instead. Wooden Wand has released more than 20 albums under that name, including plenty of open-ended instrumental noodling, but ''James &amp; the Quiet'' focuses on songs: 11 of them in 38 minutes. The melodies are straightforward and folky, mostly waltzes, and Mr. Toth sings in a knowing, slightly cracked voice along the lines of Tom Petty and T-Bone Burnett. Jessica Toth, his wife, sometimes sings harmony, and they're backed largely by acoustic instruments, but not entirely. Mr. Toth's cunning ally and producer is Lee Ranaldo of Sonic Youth, who slips his own psychedelically reverbed guitar into the arrangements and sometimes brings along Sonic Youth's Steve Shelley on drums. The music is sparse but cagey. And what Mr. Toth sings is verse after verse of enigma, leading to choruses like ''It's gonna be a nightmare.'' With imagery that can be biblical, down-to-earth or absurd, Mr. Toth muses on morality, bloodshed, dream journeys, death and what it's like to be ''dizzy honeybees in a bucket of tar'' -- whatever that means.</p>
+        <p>JON PARELES</p>
+      </block>
+      <block class="full_text">
+        <p>Wooden Wand  ''James &amp; the Quiet''  (Ecstatic Peace)</p>
+        <p>James Jackson Toth has hinted that ''James &amp; the Quiet'' could be his last album as Wooden Wand and that he'll be using his own name instead. Wooden Wand has released more than 20 albums under that name, including plenty of open-ended instrumental noodling, but ''James &amp; the Quiet'' focuses on songs: 11 of them in 38 minutes. The melodies are straightforward and folky, mostly waltzes, and Mr. Toth sings in a knowing, slightly cracked voice along the lines of Tom Petty and T-Bone Burnett. Jessica Toth, his wife, sometimes sings harmony, and they're backed largely by acoustic instruments, but not entirely. Mr. Toth's cunning ally and producer is Lee Ranaldo of Sonic Youth, who slips his own psychedelically reverbed guitar into the arrangements and sometimes brings along Sonic Youth's Steve Shelley on drums. The music is sparse but cagey. And what Mr. Toth sings is verse after verse of enigma, leading to choruses like ''It's gonna be a nightmare.'' With imagery that can be biblical, down-to-earth or absurd, Mr. Toth muses on morality, bloodshed, dream journeys, death and what it's like to be ''dizzy honeybees in a bucket of tar'' -- whatever that means.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

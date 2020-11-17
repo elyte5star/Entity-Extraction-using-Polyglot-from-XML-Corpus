@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Engine Makes Waves</title>
+    <meta content="03ENGINE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/automobiles/03ENGINE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851822"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Engines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engines</classifier>
+        <org class="online_producer">Bayerische Motorenwerke AG</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1DB1530F930A35755C0A9619C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Engine Makes Waves</hl1>
+        <hl2 class="online_headline">A New Engine Makes Waves</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEELE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BMW'S new 3-liter twin-turbo engine has received top honors in the 2007 International Engine of the Year Awards.</p>
+        <p>The awards, organized by Engine Technology International, a trade publication, are selected by a panel of 62 automotive journalists from 30 countries. In addition to Engine of the Year, winners were named in several other categories.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>BMW’S new 3-liter twin-turbo engine has received top honors in the 2007 International Engine of the Year Awards.</p>
+      </block>
+      <block class="full_text">
+        <p>BMW'S new 3-liter twin-turbo engine has received top honors in the 2007 International Engine of the Year Awards.</p>
+        <p>The awards, organized by Engine Technology International, a trade publication, are selected by a panel of 62 automotive journalists from 30 countries. In addition to Engine of the Year, winners were named in several other categories.</p>
+        <p>The twin turbo in-line 6 was also one of two BMW engines named to Ward's 10 Best Engines list for 2007. That list, in its 13th year, covers engines in vehicles costing no more than $54,000. Nissan's VQ twin-cam V-6 made the list for the 13th year.</p>
+        <p>Here are some of the International Engine of the Year winners for 2007: International Engine of the Year and Best New Engine, BMW 3-liter twin turbo (335i); Best Fuel Economy, Toyota 1.5-liter hybrid (Prius); Best Performance Engine, BMW 5-liter V-10 (M5, M6); 2 liters to 2.5 liters, BMW 2.5-liter (325, 525, X3, Z4); 2.5 liters to 3 liters: BMW 3-liter twin turbo (335i); 3 liters to 4 liters: Porsche 3.6-liter turbo (911); more than 4 liters: BMW 5-liter V-10 (M5, M6).</p>
+        <p>Here are the top 10 engines selected by Ward's: Audi 2-liter turbo 4 (A3); BMW 3-liter in-line 6 (Z4 3.0si); BMW 3-liter turbo in-line 6 (335i); DaimlerChrysler 3-liter turbodiesel V-6 (Mercedes-Benz E320 Bluetec) DaimlerChrysler 5.7-liter Hemi V-8 (Chrysler 300C); Ford Duratec 35 3.5-liter V-6 (Ford Edge); Ford 4.6-liter V-8 (Mustang GT); Mazda 2.3-liter turbo 4 (Mazdaspeed3); Nissan 3.5-liter V-6 (Infiniti G35); Toyota 3.5-liter V-6 (Lexus IS 350).</p>
+        <p>ROBERT PEELE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Putting Energy Hogs in the Home On a Strict Low-Power Diet</title>
+    <meta content="14basics" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854334"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Magid, Larry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conservation of Resources</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E7DA143FF937A25755C0A9619C8B63" item-length="1297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Putting Energy Hogs in the Home On a Strict Low-Power Diet</hl1>
+        <hl2 class="online_headline">Putting Energy Hogs in the Home on a Strict Low-Power Diet</hl2>
+      </hedline>
+      <byline class="print_byline">By LARRY MAGID</byline>
+      <byline class="normalized_byline">Magid, Larry</byline>
+      <abstract>
+        <p>Article on ways to conserve energy used when home computers and electronic equipment are turned off; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I THOUGHT I was pretty good about energy conservation, but it turns out that I've been a bit of a hypocrite. I drive a reasonably fuel-efficient car, I work at home so I don't use fuel to commute and I am replacing incandescent bulbs in my home with energy-efficient fluorescent bulbs.</p>
+        <p>But I am also a prodigious computer user, and it looks as if that makes me an energy hog. I started checking how much electricity my electronics were consuming when I wasn't using them. I used a Kill A Watt EZ energy meter (available online for about $25) and began measuring. My PC was continuously drawing 134 watts all night.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The power consumed by common electric devices  even when they’re not in use  can quickly add up.</p>
+      </block>
+      <block class="full_text">
+        <p>I THOUGHT I was pretty good about energy conservation, but it turns out that I've been a bit of a hypocrite. I drive a reasonably fuel-efficient car, I work at home so I don't use fuel to commute and I am replacing incandescent bulbs in my home with energy-efficient fluorescent bulbs.</p>
+        <p>But I am also a prodigious computer user, and it looks as if that makes me an energy hog. I started checking how much electricity my electronics were consuming when I wasn't using them. I used a Kill A Watt EZ energy meter (available online for about $25) and began measuring. My PC was continuously drawing 134 watts all night.</p>
+        <p>The more devices I checked, the worse it got. My TiVo digital video recorder was sucking down about 30 watts when it was not playing or recording a show. A Comcast digital cable set-top box made by Motorola that I tested was drawing about 40 watts. My DVD player was drawing 26 watts while idle, and my audio system -- which I rarely turned off -- was using 47 watts. This was in addition to the numerous power adapters and chargers, each drawing 1 or 2 watts, not to mention several other devices sipping energy to keep clocks running or to be ready to turn on at the push of a button.</p>
+        <p>I'm partly to blame for the audio system and DVD player. They do have on/off switches that I was failing to use. I had falsely assumed they were using relatively little power. But I tested DVR's from Comcast, Dish Network and TiVo, and none went into a low-power mode. All of this wasted power was costing me money and pumping unnecessary CO2 into the atmosphere. My PC alone was contributing 2,000 pounds of CO2 annually. The DVR. was adding another 543 pounds.</p>
+        <p>Indeed, the Department of Energy estimates that in the average home, 40 percent of all electricity used to power home electronics is consumed while the products are turned off. Add that all up, and it equals the annual output of 17 power plants, the government says. In an effort to address that, a consortium of Intel, Google, PC makers and other technology companies this week announced their intent to increase the PC's overall energy efficiency to 90 percent.</p>
+        <p>Products that idle in what the industry calls low-power mode, or lopomo, consumed about 10 percent of total electricity in California homes, according to a 2002 study prepared for the California Energy Commission by the Lawrence Berkeley National Laboratory. A few of those devices, even those with Energy Star ratings that signal that they are less wasteful, still use a lot of power. ''Some of the larger big-screen TVs consume as much energy each year as a new refrigerator,'' according to Noah Horowitz, a scientist at the Natural Resources Defense Council.</p>
+        <p>You do not have to use an energy meter to reduce your consumption. If you don't turn off your PC when it is not in use, make sure it goes into a low-power sleep, suspend or hibernate mode. That doesn't always happen automatically. Windows XP has both a suspend and hibernate option, but it isn't always turned on by default. Computers running the Windows XP operating system can be configured by clicking on Power Options in the Control Panel to set the number of minutes before Windows will turn off the monitor and hard disks or put the system into standby or hibernate mode. (Hibernation uses the least amount of energy). If it is a notebook PC, there are separate settings for when it runs on the battery and when it is plugged in.</p>
+        <p>Microsoft says that it has overhauled energy management in its Vista operating system so that machines, by default, should go into a low-power state after 60 minutes of inactivity. The PC sips only a few watts until the user touches the mouse or keyboard. To configure a machine with Vista, type ''Power Options'' in the search box at the bottom of the Start menu and click on ''Change when the computer sleeps.''</p>
+        <p>All of this, of course, assumes that the systems are working correctly. When I first installed Vista on my PC, I configured it to go to sleep after 30 minutes, but it has been unreliable. Sometimes it fails to go to sleep, and at other times it fails to wake up. Sometimes I experience the worst of both worlds: the drives and fan are spinning, but the monitor is blank, and I cannot get the machine to come back to life without powering it down and turning it back on.</p>
+        <p>I spent numerous hours trying to fix the problem, including updating the BIOS, installing up-to-date versions of all my device drivers, checking to make sure there were no unnecessary applications running in the background and, of course, scanning for spyware and viruses. The results were encouraging. After all that fiddling, the machine went to sleep most nights and woke up most -- but not all --mornings.</p>
+        <p>I then installed Co2 Saver (co2saver.snap.com), a free program for Windows XP and Vista that seems to have solved the problem. It gives you a simple control panel to specify when to turn off monitors and disk drives and put the machine to sleep. It also adjusts some hard-to-configure settings. One option forces the machine to ''Initiate sleep mode if system doesn't sleep automatically.'' This feature, according to its developer, Lee Hasiuk, defeats Windows attempts to keep a machine awake if it thinks (correctly or otherwise) that it is detecting a background task other than mouse or keyboard activity. Now my machine sleeps and wakes properly almost all the time.</p>
+        <p>Whatever machine you're using, consider having it go into sleep, standby or hibernate after about a half-hour of inactivity. The shorter the period, the more energy you save. Graphic-intense screen savers can actually waste power.</p>
+        <p>Unplug unused external power supplies because they can draw energy even when they're not connected to a device.</p>
+        <p>If you're shopping for a new PC, be sure that it meets Energy Star requirements, ideally the ones that go into effect July 20. The new standards require that 80 percent of the power consumed is actually used by the PC.</p>
+        <p>Use an L.C.D. screen instead of an old-fashioned cathode ray tube monitor. L.C.D.'s are as much as 66 percent more efficient than C.R.T.'s, according to the Energy Department.</p>
+        <p>Consider buying a notebook PC, rather than a less-efficient desktop. Because notebooks are designed to run on batteries, they're equipped with chips and drives that draw less power. Seagate's 160GB 2.5-inch drive uses one-fourth the energy of the equivalent 3.5-inch drive, according to a Seagate product manager, Joni Clark.</p>
+        <p>And because the screen is integrated on notebooks, there is only one power supply. I tested several notebooks, and all consumed under 30 watts except when charging the battery.</p>
+        <p>Consider a machine with a low-voltage processor like the Intel Core 2 Duo or one with A.M.D.'s ''Cool and Quiet'' technology. Trim desktop models also tend to use less energy. The new Hewlett-Packard Slimline models use about 45 watts, which is considerably lower than many larger PCs.</p>
+        <p>Comparing Apples to Apples, the $1,199 2-gigahertz iMac with a 17-inch monitor uses only 45 watts, and the 20-inch model uses 80 watts. (Apple's high-end Mac Pro desktop workstation consumed a whopping 220 watts, without a monitor.) The iMac, according to Steven P. Jobs, Apple's chief executive, is optimized for energy savings because all the computer components are housed in the same chassis as the monitor, allowing for more efficient power distribution and cooling.</p>
+        <p>Tweaking can pay off. Annually, my desktop PC is now using 73 percent less energy -- saving me $119 a year and depriving the earth of 1,405 more pounds of CO2.</p>
+        <p>BASICS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

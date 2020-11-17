@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Israeli Airstrikes Hit Gaza Amid Palestinan Infighting</title>
+    <meta content="11mideast" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/world/middleeast/11mideast.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Gaza Strip</location>
+        <location class="indexing_service">Syria</location>
+        <org class="indexing_service">Hamas</org>
+        <org class="indexing_service">Fatah</org>
+        <person class="indexing_service">Kershner, Isabel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Syria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Syria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <location class="online_producer">Gaza Strip</location>
+        <location class="online_producer">Israel</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5DD173FF932A25755C0A9619C8B63" item-length="714" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Israeli Airstrikes Hit Gaza Amid Palestinan Infighting</hl1>
+        <hl2 class="online_headline">Israeli Airstrikes, Aiming at Militants, Hit Gaza City</hl2>
+      </hedline>
+      <byline class="print_byline">By ISABEL KERSHNER; Taghreed El-Khodary contributed reporting from Gaza.</byline>
+      <byline class="normalized_byline">Kershner, Isabel</byline>
+      <dateline>JERUSALEM, June 10</dateline>
+      <abstract>
+        <p>Israeli Air Force strikes at least two buildings in Gaza City in what appears to be response to raid across Gaza-Israel border by Palestinian militants day earlier; seven people are said to be injured; internal violence between rival Palestinian organizations Hamas and Fatah flares up again, with at least four people killed; two senior Israeli government ministers confirm news reports that Israel has passed messages to Syria through third parties investigating possibility of renewing peace talks (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Israeli Air Force struck at least two buildings in Gaza City early Sunday morning in what appeared to be a response to a raid across the Gaza-Israel border by Palestinian militants on Saturday.</p>
+        <p>Also, internal violence between rival Palestinian organizations flared up again in the Gaza Strip, with at least four people killed over the weekend.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Israeli Air Force struck at least two buildings in Gaza City in what appeared to be a response to a raid across the Gaza-Israel border by Palestinian militants.</p>
+      </block>
+      <block class="full_text">
+        <p>The Israeli Air Force struck at least two buildings in Gaza City early Sunday morning in what appeared to be a response to a raid across the Gaza-Israel border by Palestinian militants on Saturday.</p>
+        <p>Also, internal violence between rival Palestinian organizations flared up again in the Gaza Strip, with at least four people killed over the weekend.</p>
+        <p>An Israeli Army spokeswoman said the air force attacked one building used by the militant group Islamic Jihad and another building, which she described as a weapons-producing plant belonging to Fatah. Both groups had ties to the raid on Saturday, in which fighters for Islamic Jihad and Al Aksa Martyrs Brigades, an offshoot of the mainstream Fatah organization, crossed the border into Israel and fought with soldiers for hours, apparently in an attempt to capture one.</p>
+        <p>Palestinian medics said the Israeli strike on Sunday hit three locations and described them as a study center and a charitable association, both run by Islamic Jihad, and a privately owned metal workshop. Seven civilians were wounded, according to Dr. Muawiya Hassanein, director of emergency services in the Palestinian Health Ministry.</p>
+        <p>The army spokeswoman said that on Saturday soldiers had spotted the four militants approaching the border fence in an armored jeep marked with ''TV'' and ''Press'' insignia, and ''thought they were foreign reporters, so did not shoot at them.'' The militants then broke through a gate in the barrier and took over an empty Israeli military post. Mortar shells were fired from inside Gaza at Israeli forces who rushed to the scene, the army said.</p>
+        <p>The Palestinian Journalists' Union condemned the militants' use of press markings on their vehicles, saying that such acts ''endanger journalists' lives and give justification to the Israeli occupation for targeting and killing journalists.''</p>
+        <p>Abu Ahmed, a spokesman for the military wing of Islamic Jihad, issued a statement accusing Israel of having stuck the TV signs on the jeep after it was abandoned by the militants, but Palestinian journalists lent little credence to his claim.</p>
+        <p>The Israeli prime minister, Ehud Olmert, said Sunday that Israel's military activity in Gaza ''will continue for as long as necessary,'' in order ''to prevent terrorist acts, attempts to infiltrate Israel, and the firing of Qassam rockets.''</p>
+        <p>Violence erupted again over the weekend between the rival Palestinian parties, Fatah and Hamas, in the southern town of Rafa, after a local cease-fire lasting less than two days. According to Dr. Hassanein, one member of Hamas's military wing and one member of the pro-Fatah National Security Forces were killed, and 45 were wounded, most of them civilians.</p>
+        <p>Dr. Hassanein added that each of the factions had kidnapped and tortured members of the other, and that several Palestinians had been shot in the legs. At least 50 Palestinians were killed in fierce fighting in May between the factions, which share power in a unity government.</p>
+        <p>Gun battles also broke out in Gaza City after a member of the Presidential Guard, which is loyal to Fatah, was thrown to his death off the roof of an 18-story building, Palestinian security officials said. Shortly afterward, a cleric from Hamas was abducted and killed.</p>
+        <p>[Gunmen opened fire early Monday on the house of the Palestinian prime minister, Ismail Haniyeh, of Hamas, near Gaza City, The Associated Press reported, citing security officials. There were no immediate reports of casualties.]</p>
+        <p>Separately, two senior Israeli government ministers have confirmed earlier news reports that Israel has passed messages to Syria through third parties investigating the possibility of renewing peace talks. According to Israeli news media reports, the Israeli messages were sent via Turkey and Germany.</p>
+        <p>Defense Minister Amir Peretz told Israel Radio that Israel was obliged to try to verify Syrian ''declarations on the possibility of starting negotiations, in the open or secretly, and we have done this.''</p>
+        <p>Israel's transportation minister, Shaul Mofaz, a former defense minister, said that there had been ''approaches through secret channels'' but that so far there had been no official response from Syria.</p>
+        <p>A state-run Syrian newspaper, The Syria Times, said that Syria ''has every right to doubt the intentions'' of Israel's prime minister, since Mr. Olmert was making ''statements about his desire to talk peace'' while ''his war generals and senior aides are launching warlike threats.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

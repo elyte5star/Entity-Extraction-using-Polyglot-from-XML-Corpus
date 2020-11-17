@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Mass In Latin (Redux)</title>
+    <meta content="l04pope" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852155"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E4DE1130F937A35755C0A9619C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Mass In Latin (Redux)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>John L. Allen Jr. gets it wrong when he predicts that the ''Catholic left'' will decry the pope's forthcoming decision to liberalize the use of the Latin Mass as a step back into traditionalism (''The Pope's Language Lesson,'' Op-Ed, May 30).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>John L. Allen Jr. gets it wrong when he predicts that the ''Catholic left'' will decry the pope's forthcoming decision to liberalize the use of the Latin Mass as a step back into traditionalism (''The Pope's Language Lesson,'' Op-Ed, May 30).</p>
+        <p>Indeed, many of us will welcome the fact that someone as busy as the pope has the time and patience to hear the petition of a small group of traditionalists who have felt marginalized and isolated since Vatican II and will allow them to experience the Mass in the way they want to.</p>
+        <p>Such a decision gives the rest of us hope that the pope will also hear the voices of the millions of Catholics who want him to lift the ban on condoms, give women greater equality in the church and welcome our gay and lesbian brothers and sisters into the fold.</p>
+        <p>Jon O'Brien  President  Catholics for a Free Choice  Washington, May 30, 2007</p>
+        <p>To the Editor:</p>
+        <p>John L. Allen Jr. is one of the most insightful Vatican reporters in the business, but sometimes it is helpful to take a field trip outside Rome before coming to a conclusion. One reason some diocesan churches that offer traditional Latin Masses currently have half-full pews is that the liturgy is often held in the afternoon or sporadically, per the local bishop, at struggling parishes in unsafe neighborhoods.</p>
+        <p>Try a traditional Latin Mass in the midmorning on a Sunday in a historic, centrally located church with well-sung Gregorian chant, as in Washington, and it is standing room only.</p>
+        <p>When the pre-Vatican II Mass is hidden, a modest but influential group of Catholics enjoys its beauty. When the coming ''universal indult'' is granted by the pope, the Latin Mass will expand from the catacombs to the cathedrals. Let's put the traditional and the modern at different times in the same place and see what the Catholic faithful choose.</p>
+        <p>Kenneth J. Wolfe  Washington, May 30, 2007</p>
+        <p>The writer is the Washington columnist for The Remnant, a traditionalist Catholic newspaper.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

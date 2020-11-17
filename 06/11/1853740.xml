@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Call The Doctor</title>
+    <meta content="11carr" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/11carr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853740"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA EQUATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <person class="indexing_service">Carr, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Avandia (Drug)</classifier>
+        <classifier class="online_producer" type="descriptor">Heart</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">GlaxoSmithKline</org>
+        <person class="online_producer">Rost, Peter</person>
+        <person class="online_producer">Moore, Michael</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DF173FF932A25755C0A9619C8B63" item-length="1070" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Call The Doctor</hl1>
+        <hl2 class="online_headline">Call the Doctor</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CARR</byline>
+      <byline class="normalized_byline">Carr, David</byline>
+      <abstract>
+        <p>Media Equation column discusses wealth of medical information available on Internet; holds that, while much of available data is useful, there exists too many conflicting viewpoints on blogs and message boards to fully rely on home research; contends that consumers can be left more confused than when they started; says it is best to consult doctor about answers to medical issues (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the news broke last month that significant questions had been raised about an increase in the risk of a heart attack for users of Avandia, I followed the reports with a bit more avidity than most.</p>
+        <p>As a 50-year-old with a history of smoking and family heart disease -- not to mention a bit of a paunch -- I'm in the sweet spot for a cardiovascular event. More to the point, I am a Type 2 diabetic, and this year, my endocrinologist thought I might benefit from Avandia, a drug made by GlaxoSmithKline that helps diabetics use the insulin they produce more effectively.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The controversy over the drug Avandia demonstrates how the Web seems better-suited to Paris Hilton than patient safety.</p>
+      </block>
+      <block class="full_text">
+        <p>When the news broke last month that significant questions had been raised about an increase in the risk of a heart attack for users of Avandia, I followed the reports with a bit more avidity than most.</p>
+        <p>As a 50-year-old with a history of smoking and family heart disease -- not to mention a bit of a paunch -- I'm in the sweet spot for a cardiovascular event. More to the point, I am a Type 2 diabetic, and this year, my endocrinologist thought I might benefit from Avandia, a drug made by GlaxoSmithKline that helps diabetics use the insulin they produce more effectively.</p>
+        <p>The headline takeaway last month was that a published study by Dr. Steven Nissen, a noted cardiologist and the man who first alerted the public to the dangers of Vioxx, found that Avandia actually increased heart attack risk by 43 percent and sported a 64 percent increase in the risk of death from cardiovascular causes.</p>
+        <p>Dr. Nissen's conclusions derived from a meta-analysis of 42 clinical trials, an approach that even he said had ''real limitations.'' Still, he then went on to call Avandia use a ''virtual public health emergency.''</p>
+        <p>After reading that, I reached into my medicine cabinet with a pair of tongs, picked up my Avandia prescription and dropped it into the wastebasket.</p>
+        <p>Admittedly, that was the reaction of the Old-Media Man, the person who starts his day reading the morning headlines in the local paper (in my case, The New York Times) or jumps out of his recliner after watching an item on the ''CBS Evening News.'' After calming down, I remembered that I am also a New-Media Man, the kind who has trained himself to drill down and look past the headlines. And an entire niche of blogs and digital news sources on relevant subjects -- drug risks, Big Pharma, diabetes -- were at my fingertips for the mining.</p>
+        <p>And here is what I found: everything, except insight.</p>
+        <p>As it turns out, the Web's penchant for polarized discourse is not just something that flares up over the war in Iraq or presidential elections. And because the Avandia controversy manages to unite three sectors not held in the highest public esteem -- Big Pharma, Big Media and Big Government (the lawyers will be along any minute) -- it has led to a lot of hyperbole online. And as Michael Moore is about to demonstrate with his new movie, ''Sicko,'' people are often willing to believe the worst about the health care industry and they are rarely disappointed.</p>
+        <p>''The F.D.A. operates in conspiracy with Big Pharma to hide the dangers of prescription drugs that pose a real safety threat to Americans,'' suggested NewsTarget.com (www.newstarget.com/021864.html), adding that, ''Statistically, the F.D.A. has become a far greater threat to the safety of Americans than terrorism.''</p>
+        <p>There is a whole raft of sites that are far more friendly to Big Pharma like DrugWonks.com, which seems to think that the study is much ado about not much, suggesting, ''Nissen's entire approach is a case study of how to use statistical tools to manufacture biased results.''</p>
+        <p>Well, that clears things up.</p>
+        <p>The controversy is turning into something of a throwdown between cardiologists, who look after the heart, and endocrinologists, who want to use every safe and effective drug in the tool belt to get blood sugars down. The Daily Diabetic (www.daily-diabetic.com) spoke for many people who are using or have used Avandia: ''The consuming public is just at the mercy of these two camps throwing their own clinical data for us to interpret.''</p>
+        <p>Derek Lowe, a research scientist who has worked for pharmaceutical companies, writes a blog, In the Pipeline (www.corante.com/pipeline/).</p>
+        <p>''It is falling into a fairly predictable template, in part because we have had a number of drug safety issues and scares, so this story ends up getting slotted into the same mold as Vioxx on parts of the Web,'' he said in an interview. ''So we end up reading about the evil mustache twirlers in Big Pharma who knew it was toxic and marketed it anyway.''</p>
+        <p>Part of the reason that the drug companies end up coming off as cartoon villains is that they have been known to act like them, said Ed Silverman, who covers the industry for The Star-Ledger in Newark, and writes a blog called Pharmalot (pharmalot.com/).</p>
+        <p>''There is a thread here that continues, that collectively the industry has failed to anticipate and react to the problems with Avandia,'' he said. ''Glaxo has put some ads out and put out a few key executives for interviews, but things move a lot faster now than they used to.''</p>
+        <p>Many doctors, and indeed the F.D.A., say they are going to wait for a 4,400-patient study that is under way before they draw hard and fast conclusions, but those results won't be due until 2009. It might end up being something like waiting for Godot -- many of the people in the trials read the same headlines I did and promptly dumped the regimen. (And interim results, put out by Glaxo to counter criticism, suggested to some researchers that there was a 33 percent increased risk of heart attack. So the study, along with the company's stock, probably won't be picking up a lot of steam anytime soon.)</p>
+        <p>Dr. Peter Rost, an industry whistle-blower and the author of the Question Authority blog (peterrost.blogspot.com/), said there was extreme value in consumers using the Web as a health resource, even if it is noisy and all over the road.</p>
+        <p>''Yes, you have to sort it out and you have to evaluate, but all of the information used to belong to the moneyed and the powerful,'' he said. ''Those barriers don't exist on the Web, so people have access to all sorts of information about Avandia.''</p>
+        <p>Perhaps that's true, after some time spent researching the whole issue, I decided to just back away from the mouse. Data is not knowledge, and information is not insight; consumers still have to make their own judgments about the agendas that are at work.</p>
+        <p>When it comes to meta-analysis on breaking issues, the Web seems better-suited to Paris Hilton than patient safety.</p>
+        <p>This Wednesday, I will see my endocrinologist. We will chat for a few minutes about Avandia and no doubt he'll smile when I entertain him with all that I have learned on the Web. Then after he tells me what he thinks, I will follow my doctor's orders.</p>
+        <p>THE MEDIA EQUATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

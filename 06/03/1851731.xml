@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sauvignon Blancs by the Dozen</title>
+    <meta content="03vinesliLI" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/nyregion/nyregionspecial2/03vinesli.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851731"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LONG ISLAND VINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+        <person class="online_producer">Goldberg, Howard G</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E2D71430F930A35755C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sauvignon Blancs by the Dozen</hl1>
+        <hl2 class="online_headline">Sauvignon Blancs by the Dozen</hl2>
+      </hedline>
+      <byline class="print_byline">By Howard G. Goldberg</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>Howard Goldbreg reviews sampling of dozen Long Island sauvignon blanc wines (Long Island Vines column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A recent sampling of a dozen Long Island sauvignon blancs showed that they easily compete with local chardonnays for meals and perhaps have an edge as aperitifs. Generally, they go nicely with seafood.</p>
+        <p>Sauvignon flourishes on the East End. These quintessentially summer whites should never be iced; they are maximally expressive when moderately chilled. They tend to be most appealing when produced in steel tanks or in tanks plus neutral barrels that impart virtually no woody flavors. This approach preserves intact their aromas, fruitiness and zest.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A recent sampling of a dozen Long Island sauvignon blancs showed that they easily compete with local chardonnays for meals and perhaps have an edge as aperitifs.</p>
+      </block>
+      <block class="full_text">
+        <p>A recent sampling of a dozen Long Island sauvignon blancs showed that they easily compete with local chardonnays for meals and perhaps have an edge as aperitifs. Generally, they go nicely with seafood.</p>
+        <p>Sauvignon flourishes on the East End. These quintessentially summer whites should never be iced; they are maximally expressive when moderately chilled. They tend to be most appealing when produced in steel tanks or in tanks plus neutral barrels that impart virtually no woody flavors. This approach preserves intact their aromas, fruitiness and zest.</p>
+        <p>Sauvignon blanc has long been a strength at Castello di Borghese, Channing Daughters Winery, Jamesport Vineyards, Macari, Palmer and Raphael, varying in quality with the vintage.</p>
+        <p>In the tasting, Raphael's 2006 ($22) was brilliant, a tribute to the vineyard manager, Steve Mudd, and the winemaker, Richard Olsen-Harbich. Perfumed, vibrant, tangy, juicy, citric, complex -- it has everything.</p>
+        <p>Jamesport's world-class 2006 ($21.95) finished in second place. Powerfully herbaceous, full of zip and flash, it is a satisfying mouthful.</p>
+        <p>Channing Daughters' 2006 ($20), from 91 percent sauvignon and 9 percent chardonnay grapes harvested in the Mudd Vineyard in Southold, finished third; it is very aromatic, deep, broad and complex.</p>
+        <p>Sharing fourth place, Shinn's 2006 First Fruit ($23), 96 percent sauvignon and 4 percent sémillon, tasted of grapefruit and figs. Macari's 2006 ($18.99) is a crowd-pleaser; light, a bit herblike and palate-cleansing, it delivers hints of tropical fruits, especially melon.</p>
+        <p>Several wines occupied the next rung down. Palmer's 2006 ($16.99) was fresh, amiable and piquant with a strong hint of apple. Paumanok's 2006 ($22), somewhat tropical and appetite-quickening, was equally pleasant. Another Channing Daughters version, the regular 2006 ($24), 82 percent sauvignon and 18 percent chardonnay, was full of subtleties.</p>
+        <p>Martha Clara's 2006 ($16.99) was light, smooth and crisp. Borghese's 2006 ($17.99), suggesting a chardonnay's girth, was agreeable and workmanlike. Duck Walk's 2004 ($12.95) resembled decent carafe wine. Pindar's 2005 ($12.99) was simply vin ordinaire.</p>
+        <p>LONG ISLAND VINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

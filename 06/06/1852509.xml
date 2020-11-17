@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What a Mess</title>
+    <meta content="06friedman" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/opinion/06friedman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852509"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <location class="indexing_service">Israel</location>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Thomas L Friedman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Israel</location>
+        <org class="online_producer">Hamas</org>
+        <person class="online_producer">Geisel, Theodor Seuss</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DE1E30F935A35755C0A9619C8B63" item-length="785" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What a Mess</hl1>
+        <hl2 class="online_headline">What a Mess</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS L. FRIEDMAN</byline>
+      <dateline>RAMALLAH, West Bank</dateline>
+      <abstract>
+        <p>Thomas L Friedman Op-Ed column identifies 'new realities' for Israel to consider; holds that weakened Fatah must share power with Hamas, and US and Israel must eventually drop economic sanctions they imposed on Palestinians to pressure Hamas; says Israel's real choice is between dealing with Hamas-led Palestinian Authority or watching it collapse and then trying to pick up pieces; argues that best way to diminish Hamas's influence is by forcing it to assume responsibility; urges Israel to accept Hamas's offer for long-term cease-fire; says Israel can only turn over West Bank to Palestinians with Jordan or international force as trustee (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Middle East has gotten itself tied into such an impossible knot that Biblical references or Shakespearian quotations simply don't suffice anymore to describe how impossibly tangled politics has become here. Shira Wolosky, a Hebrew University English scholar, suggested to me that maybe Dr. Seuss, in ''The Cat in the Hat,'' offered the best way to sum up the Middle East today.</p>
+        <p>Then he shut the Things</p>
+        <p>in the box with the hook.</p>
+        <p>And the cat went away</p>
+        <p>With a sad kind of look.</p>
+        <p>''That is good,'' said the fish.</p>
+        <p>''He has gone away. Yes.</p>
+        <p>but your mother will come.</p>
+        <p>She will find this big mess!</p>
+        <p>And this mess is so big</p>
+        <p>And so deep and so tall,</p>
+        <p>we can not pick it up.</p>
+        <p>There is no way at all!''</p>
+        <p>Just look around. Gaza is turning into Mogadishu. Hamas is shelling Israel. Israel is retaliating. Iraq is a boiling pot. Iran is about to go nuclear. Lebanon is being pulled apart. Syria is being investigated for murdering Lebanon's prime minister. I could go on. Yes, this mess is so big and so tall. Who knows where to pick it up at all?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If America can talk to Iran, Israel can talk to Hamas.</p>
+      </block>
+      <block class="full_text">
+        <p>The Middle East has gotten itself tied into such an impossible knot that Biblical references or Shakespearian quotations simply don't suffice anymore to describe how impossibly tangled politics has become here. Shira Wolosky, a Hebrew University English scholar, suggested to me that maybe Dr. Seuss, in ''The Cat in the Hat,'' offered the best way to sum up the Middle East today.</p>
+        <p>Then he shut the Things</p>
+        <p>in the box with the hook.</p>
+        <p>And the cat went away</p>
+        <p>With a sad kind of look.</p>
+        <p>''That is good,'' said the fish.</p>
+        <p>''He has gone away. Yes.</p>
+        <p>but your mother will come.</p>
+        <p>She will find this big mess!</p>
+        <p>And this mess is so big</p>
+        <p>And so deep and so tall,</p>
+        <p>we can not pick it up.</p>
+        <p>There is no way at all!''</p>
+        <p>Just look around. Gaza is turning into Mogadishu. Hamas is shelling Israel. Israel is retaliating. Iraq is a boiling pot. Iran is about to go nuclear. Lebanon is being pulled apart. Syria is being investigated for murdering Lebanon's prime minister. I could go on. Yes, this mess is so big and so tall. Who knows where to pick it up at all?</p>
+        <p>In Israel, officials are mulling all alternatives -- from the Saudi peace initiative to negotiating with Hamas to opening talks with Syria to reoccupying Gaza to looking for a ''trustee'' for the West Bank -- because no one is sure anymore what to do.</p>
+        <p>That is, the Left's way -- land for peace -- was discredited by the collapse of Oslo. The Right's way, permanent Israeli occupation of all ''The Land of Israel,'' was made impossible by Palestinian demographics and two uprisings. The third way, unilateral withdrawal from Lebanon and Gaza, has been discredited by Hezbollah's attack from Lebanon and the Hamas rocket attacks from Gaza.</p>
+        <p>''Israel is in a place it has never been before,'' said Moshe Halbertal, a Hebrew University philosophy professor. ''It does not have a picture of where to go and how, so people are looking for a fourth way.''</p>
+        <p>It is impossible to predict what that fourth way will be. But it is easy to identify the new realities it will have to take into account.</p>
+        <p>First is the fact that Yasir Arafat's Fatah group, which has long dominated Palestinian life, is in disarray. Fatah will not disappear, but it will never again totally dominate the Palestinian Authority. Fatah will have to share power with Hamas, which has largely wiped out Fatah in Gaza already. Sooner or later, the U.S. and Israel are going to have to drop the economic sanctions they imposed on Palestinians to pressure Hamas into recognizing Israel. ''As repulsive as [Hamas] is to me as an Israeli, I don't think it's coming to the Palestinian Authority just to pay a visit -- it is here to stay,'' said Israeli TV's top Arab affairs reporter, Ehud Yaari.</p>
+        <p>Israel's real choice is between dealing with a Hamas-led Palestinian Authority or watching it collapse into little pieces, which Israel would have to pick up. (Think Iraq and Somalia.) West Bank and Gaza unemployment is now around 40 percent. Talking with Palestinians in Ramallah, the phrase I heard most was not ''Israeli occupation'' but ''Palestinian disintegration.''</p>
+        <p>Palestinian pollster Khalil Shikaki told me that as bad as things are today, his polls show most Palestinians still don't blame Hamas. They blame Israel and America for withholding funds from the Hamas government that Palestinians elected. The best way to diminish Hamas's influence, or to moderate it, is by forcing it to assume responsibility. Ask it: ''Do you want Palestinians to be able to work in Israel? Then sit down with Israel and work out the details.'' We need to ''force Hamas through a corridor of difficult decisions,'' said Israeli strategist Gidi Grinstein. If America can talk to Iran, Israel can talk to Hamas.</p>
+        <p>Second, Hamas says it will only offer Israel a long-term cease-fire. Fine, take it. Fact No. 1: the real history of Israeli-Arab relations is: war, lull, war, lull, war, lull -- from 1948 until today. Fact No. 2: ''Since 1948,'' said Mr. Yaari, ''the Jews have always made better use of the lulls than the Arabs.'' Israel doesn't need Hamas's recognition. It needs a long lull.</p>
+        <p>The third new reality is that Hamas's shelling of Israel from Gaza means Israel can never hand over the West Bank to the Palestinians, without an international trustee -- because from there Palestinians could close Israel's airport with one rocket. Only Jordan, or an international force, can be that trustee.</p>
+        <p>Bottom line: I don't know if there is a fourth way, but, if there is, it will have to include these new realities. Otherwise, this mess will get even bigger, deeper and taller.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

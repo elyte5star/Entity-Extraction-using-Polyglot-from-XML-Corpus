@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Bears' Tank Johnson Is Suspended for Eight Games</title>
+    <meta content="05nfl" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/sports/football/05nfl.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">Chicago Bears</org>
+        <person class="online_producer">Johnson, Tank</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E4D81130F936A35755C0A9619C8B63" item-length="460" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Bears' Tank Johnson Is Suspended for Eight Games</hl1>
+        <hl2 class="online_headline">The Bears’ Tank Johnson Is Suspended by the N.F.L.</hl2>
+      </hedline>
+      <byline class="print_byline">By CLIFTON BROWN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tank Johnson of the Chicago Bears has been suspended without pay for the first eight games of the 2007 regular season for violating the National Football League's personal-conduct policy. Commissioner Roger Goodell said yesterday that the suspension could be reduced to six games if Johnson avoided legal trouble and attended counseling.</p>
+        <p>Goodell will review Johnson's status no later than Oct. 1. An eight-game suspension would cost Johnson $255,000 of his $510,000 salary.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The league will suspend Johnson for eight games without pay after the discovery of unregistered firearms in his home last December.</p>
+      </block>
+      <block class="full_text">
+        <p>Tank Johnson of the Chicago Bears has been suspended without pay for the first eight games of the 2007 regular season for violating the National Football League's personal-conduct policy. Commissioner Roger Goodell said yesterday that the suspension could be reduced to six games if Johnson avoided legal trouble and attended counseling.</p>
+        <p>Goodell will review Johnson's status no later than Oct. 1. An eight-game suspension would cost Johnson $255,000 of his $510,000 salary.</p>
+        <p>Asked if it was fair, Johnson said: ''It's not my call to say it's fair or unfair. Roger Goodell's a fair man, I know that, and he took everything into consideration that he and I talked about. He came up with what he came up with. If it's in the best interest of the N.F.L., then I'm all for it.</p>
+        <p>''He's given me the opportunity to reduce it to six games, which I am very appreciative. I am looking at it like a six-game suspension, because I definitely am very confident that I'm capable of doing everything he's asked me to do, and more.''</p>
+        <p>Johnson, a 25-year-old defensive tackle, became the third player in two months to be suspended for violating the league's code of conduct. Pacman Jones of the Tennessee Titans has been suspended for the entire season, and Chris Henry of the Cincinnati Bengals has been suspended for the first eight regular-season games. Jones has appealed his suspension, but said last month that he would accept the punishment and avoid further trouble.</p>
+        <p>The police raided Johnson's home in suburban Chicago last December and found six unregistered firearms, a violation of his probation on an earlier gun charge. Two days after the raid, Willie B. Posey, Johnson's bodyguard, who had been arrested after the raid, was shot and killed while he and Johnson were at a nightclub.</p>
+        <p>The Bears suspended Johnson for one game, but he rejoined the team and played in the Super Bowl.</p>
+        <p>In March, Johnson began a 120-day sentence for violating his probation, but last month he pleaded guilty to a misdemeanor as part of a deal with prosecutors. He was released jail on May 13 after serving 60 days. A few days later, after meeting with Goodell in New York, Johnson said that he was ready for his punishment.</p>
+        <p>''One day, I want to be the face of the league for guys who have come through adversity, came through it, and ultimately became the man of the year in the N.F.L.,'' he said then. ''That would be a tremendous ending to the story.''</p>
+        <p>The terms of the suspension allow Johnson to participate in off-season programs, training camp and preseason games. He cannot practice with the Bears during his suspension, but can visit the practice facility for counseling and individual workouts.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

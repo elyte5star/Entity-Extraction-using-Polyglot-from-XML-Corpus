@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Mr. Mom' Aside, Dads at Work Are Still the Norm</title>
+    <meta content="17count" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/business/yourmoney/17count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855182"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <org class="indexing_service">Labor Department (US)</org>
+        <person class="indexing_service">Korkki, Phyllis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="descriptor">Men</classifier>
+        <classifier class="online_producer" type="descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Bureau of Labor Statistics</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DA153FF934A25755C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Mr. Mom' Aside, Dads at Work Are Still the Norm</hl1>
+        <hl2 class="online_headline">‘Mr. Mom’ Aside, Dads at Work Are Still the Norm</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+      <abstract>
+        <p>Labor Department figures show in 62 percent of married-couple families with children under 18, both father and mother are employed; data show 5 percent of fathers are not working while mother is employed; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Times have certainly changed since the days of ''Leave It to Beaver,'' when Ward Cleaver, in a business suit, won the bread and June Cleaver, in an apron, served it. But we are far from being a ''Mr. Mom'' society, too.</p>
+        <p>In 62 percent of married-couple families with children under 18, both the father and the mother are employed, according to recent data from the Bureau of Labor Statistics. A sizable 31 percent adhere to the traditional '60s sitcom mold, with the father being the sole wage earner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Five percent of fathers are not working while the mother is employed.</p>
+      </block>
+      <block class="full_text">
+        <p>Times have certainly changed since the days of ''Leave It to Beaver,'' when Ward Cleaver, in a business suit, won the bread and June Cleaver, in an apron, served it. But we are far from being a ''Mr. Mom'' society, too.</p>
+        <p>In 62 percent of married-couple families with children under 18, both the father and the mother are employed, according to recent data from the Bureau of Labor Statistics. A sizable 31 percent adhere to the traditional '60s sitcom mold, with the father being the sole wage earner.</p>
+        <p>A mere 5 percent of the fathers are not working while the mother is employed, the data show. The statistics are silent on which of these fathers are jobless by choice.</p>
+        <p>But it is clear that the urge to earn remains strong among fathers, and that a man's ego may suffer a blow if he decides to stay home.</p>
+        <p>In response, Web sites like athomedad.com have emerged to help this group endure its share of snickers and stigma. ''Men who change diapers,'' the site proudly proclaims, ''change the world.''</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

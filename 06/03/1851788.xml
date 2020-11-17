@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Correction</title>
+    <meta content="03cxweWC" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Handwriting</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">St Pius V School (Melville, NY)</org>
+        <org class="indexing_service">Zaner-Bloser (Publisher)</org>
+        <person class="indexing_service">Winerip, Michael</person>
+        <person class="indexing_service">Gahan, John Patrick Kearns</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handwriting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4DC1530F930A35755C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Correction</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 27 Parenting column about seventh-grade handwriting champion at St Pius V Catholic School in Melville, NY (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Parenting column last Sunday, about a seventh-grade handwriting champion at a Roman Catholic school, St. Pius V, in Melville, N.Y., gave an incomplete account of the circumstances surrounding the suspensions of several students last year. While a parent said the suspensions were for remarks about the school's nuns that students posted on the Internet, the principal, Sister Maria Dolorosa, said the students were suspended because they used the Internet to view movies and listen to music that they knew were prohibited by the school.</p>
+      </block>
+      <block class="full_text">
+        <p>The Parenting column last Sunday, about a seventh-grade handwriting champion at a Roman Catholic school, St. Pius V, in Melville, N.Y., gave an incomplete account of the circumstances surrounding the suspensions of several students last year. While a parent said the suspensions were for remarks about the school's nuns that students posted on the Internet, the principal, Sister Maria Dolorosa, said the students were suspended because they used the Internet to view movies and listen to music that they knew were prohibited by the school.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

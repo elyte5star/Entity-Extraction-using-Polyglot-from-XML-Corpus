@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gracie</title>
+    <meta content="01roun-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851327"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Guggenheim, Davis</person>
+        <person class="indexing_service">Schroeder, Carly</person>
+        <object.title class="indexing_service">Gracie (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7D71530F932A35755C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gracie</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film Gracie, directed by Davis Guggenheim; Carly Schroeder stars; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide.  Directed by Davis Guggenheim  95 minutes</p>
+        <p>A familiar underdog story told with unusual sensitivity, Davis Guggenheim's ''Gracie'' depicts the obstacles faced by a young girl who dreams of playing on her high school soccer team. Yet the movie's follow-your-heart simplicity masks deeper concerns; like the recent ''Flicka,'' this perceptive family drama is really about a daughter's struggle for her father's attention.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide.  Directed by Davis Guggenheim  95 minutes</p>
+        <p>A familiar underdog story told with unusual sensitivity, Davis Guggenheim's ''Gracie'' depicts the obstacles faced by a young girl who dreams of playing on her high school soccer team. Yet the movie's follow-your-heart simplicity masks deeper concerns; like the recent ''Flicka,'' this perceptive family drama is really about a daughter's struggle for her father's attention.</p>
+        <p>The sole girl in a soccer-mad family, Grace Bowen (a wonderful Carly Schroeder), 15, is accustomed to having her abilities overlooked. Her mother (Elisabeth Shue) is overprotective, and her father (Dermot Mulroney) -- an ex-player freighted with his own childhood issues -- is only interested in training his three sons. When tragedy strikes, and Grace channels her grief into a resolution to play on the all-male varsity team, even her best friend is horrified. As everyone knows, only lesbians play soccer.</p>
+        <p>Set in New Jersey in 1978 and based on events in Ms. Shue's life, ''Gracie'' connects the adversity-drama dots -- the beat-down, the bounce-back, the last-minute support from an unexpected quarter -- with a subtle awareness of the shock waves of bereavement. Balancing the emotional complexity is Chris Manley's refreshingly unaffected cinematography; the drama of a free kick, like that of a good movie, is best viewed through a steady lens.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''Gracie'' is rated PG-13 (Parents strongly cautioned). Characters fumble the ball and fumble with one another.</p>
+        <p>FILM IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

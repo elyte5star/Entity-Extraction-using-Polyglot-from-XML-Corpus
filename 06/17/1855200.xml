@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Advice for Art Collectors</title>
+    <meta content="17backpage-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855200"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <org class="indexing_service">International Assn of Professional Art Advisors</org>
+        <person class="indexing_service">Locke, Suzy R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E2D9153FF934A25755C0A9619C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Advice for Art Collectors</hl1>
+      </hedline>
+      <abstract>
+        <p>Le�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I enjoyed ''The Art of Buying Art, With the Help of an Adviser'' (May 27). Although it was correct in stating that there are no formal certifications for the profession, it should be noted that the International Association of Professional Art Advisors does have standards that members adhere to. Members cannot have gallery affiliations, represent artists or own any inventory. These parameters avoid conflict of interest and the consultant/adviser represents the client's best interests in transactions.</p>
+        <p>Suzy R. Locke  Oakland, Calif., May 29</p>
+        <p>The writer, an art adviser, is a member of the International Association of Professional Art Advisors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I enjoyed ''The Art of Buying Art, With the Help of an Adviser'' (May 27). Although it was correct in stating that there are no formal certifications for the profession, it should be noted that the International Association of Professional Art Advisors does have standards that members adhere to. Members cannot have gallery affiliations, represent artists or own any inventory. These parameters avoid conflict of interest and the consultant/adviser represents the client's best interests in transactions.</p>
+        <p>Suzy R. Locke  Oakland, Calif., May 29</p>
+        <p>The writer, an art adviser, is a member of the International Association of Professional Art Advisors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

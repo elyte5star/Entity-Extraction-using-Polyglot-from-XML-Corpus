@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bruno Inquiry Scrutinizes Thoroughbred Transactions</title>
+    <meta content="04bruno" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/nyregion/04bruno.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852170"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bruno, Joseph L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EFDE1130F937A35755C0A9619C8B63" item-length="513" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bruno Inquiry Scrutinizes Thoroughbred Transactions</hl1>
+        <hl2 class="online_headline">Bruno Inquiry Scrutinizes Thoroughbred Transactions</hl2>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Federal authorities investigating the business dealings of Joseph L. Bruno, the majority leader of the State Senate, have been examining records related to his purchases and sales of thoroughbred horses.</p>
+        <p>One series of transactions being scrutinized was between Mr. Bruno, the state's top Republican, and Earle I. Mack, a real estate developer and former ambassador to Finland.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Federal authorities are investigating a series of transactions between the Republican leader’s horse breeding business and a major political donor.</p>
+      </block>
+      <block class="full_text">
+        <p>Federal authorities investigating the business dealings of Joseph L. Bruno, the majority leader of the State Senate, have been examining records related to his purchases and sales of thoroughbred horses.</p>
+        <p>One series of transactions being scrutinized was between Mr. Bruno, the state's top Republican, and Earle I. Mack, a real estate developer and former ambassador to Finland.</p>
+        <p>Citing documents and an interview with Mr. Mack's lawyer, The Times Union of Albany reported yesterday that Mr. Bruno bought two mares from Mr. Mack in 2005 for $50,000, and that after spending $74,000 to breed them with stud horses, he sold three of their foals at auction for $425,000. Mr. Mack bought one of the foals for $105,000, the newspaper reported.</p>
+        <p>Mr. Mack once served on the board of the New York Racing Association as a Bruno appointee. The association oversees thoroughbred racetracks at Saratoga, Belmont and Aqueduct and is bidding to keep the franchise, which expires at the end of the year.</p>
+        <p>Mr. Mack has been a prominent Republican donor for state and national campaigns. In New York, he gained attention in 2003 after he flew Gov. George E. Pataki and his wife to a vacation on the Caribbean island of St. Barts on his private jet.</p>
+        <p>Mr. Mack's lawyer, Gregory Kehoe, said yesterday that there was nothing improper about the transactions.</p>
+        <p>Regarding the sale of the two mares, he said: ''The horse people working for Mr. Mack wanted to get rid of them for less than that. He ultimately saved money.''</p>
+        <p>He said that Mr. Mack had cooperated with the investigation and had not heard from federal officials about the matter for several months.</p>
+        <p>John McArdle, a spokesman for Mr. Bruno, said that the majority leader ''has cooperated fully and believes he has done nothing wrong.'' He added that Mr. Bruno ''has reported any and all information that he is required to under the law regarding his personal and business dealings.''</p>
+        <p>Federal authorities have been investigating Mr. Bruno's outside business dealings for more than a year and have issued subpoenas to a range of businesses and other interests in the state and beyond.</p>
+        <p>Mr. Bruno runs a consulting business out of his home and also has a horse breeding business. He has declined to provide a list of his consulting clients.</p>
+        <p>A federal grand jury has issued subpoenas for information on Mr. Bruno's finances, including real estate investments, as well as his dealings with a veterinarian with whom he owned racehorses.</p>
+        <p>The grand jury has also sought information related to his consulting arrangement with an Albany investment firm and grants he directed to Evident Technologies, an Albany-area company in which Jared E. Abbruzzese, a businessman and longtime friend of Mr. Bruno's, was an investor.</p>
+        <p>Officials have also sought records from the state lobbying commission related to their inquiry into Mr. Bruno's use of airplanes provided by Mr. Abbruzzese.</p>
+        <p>It is unclear whether the United States attorney for the Northern District of New York, Glenn T. Suddaby, will seek an indictment from the grand jury that has been reviewing the case.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Slumping Confidence in Bonds Tied to Subprime Mortgages</title>
+    <meta content="16mortgage" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/business/16mortgage.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854777"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Abx Index</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Government Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <person class="indexing_service">Bajaj, Vikas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E4D8153FF935A25755C0A9619C8B63" item-length="536" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Slumping Confidence in Bonds Tied to Subprime Mortgages</hl1>
+        <hl2 class="online_headline">Slumping Confidence in Bonds Tied to Subprime Mortgages</hl2>
+      </hedline>
+      <byline class="print_byline">By VIKAS BAJAJ</byline>
+      <byline class="normalized_byline">Bajaj, Vikas</byline>
+      <abstract>
+        <p>ABX, series of indexes that gauge investor confidence in subprime mortgage bonds, dropped sharply this week and neared pessimistic levels that they last sank to in late February when several large lenders collapsed; drop appears to have been driven by recent surge in Treasury yields, sizable liquidation of bonds by hedge funds, and by rising delinquencies in home loans to people with weak, or subprime credit; it suggests that once-booming market for securitized mortgages is far from hitting bottom (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A series of indexes that gauge investor confidence in subprime mortgage bonds dropped sharply this week and neared the pessimistic levels that they last sank to in late February when several large lenders collapsed.</p>
+        <p>The drop appears to have been driven by the recent surge in Treasury yields, a sizable liquidation of bonds by hedge funds, and by rising delinquencies in home loans to people with weak, or subprime credit. And it suggests that the once-booming market for securitized mortgages is far from hitting bottom.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A series of indexes that gauge investor confidence in subprime mortgage bonds dropped sharply this week.</p>
+      </block>
+      <block class="full_text">
+        <p>A series of indexes that gauge investor confidence in subprime mortgage bonds dropped sharply this week and neared the pessimistic levels that they last sank to in late February when several large lenders collapsed.</p>
+        <p>The drop appears to have been driven by the recent surge in Treasury yields, a sizable liquidation of bonds by hedge funds, and by rising delinquencies in home loans to people with weak, or subprime credit. And it suggests that the once-booming market for securitized mortgages is far from hitting bottom.</p>
+        <p>The index series, ABX, measures the implied cost of insuring investments in 20 bonds and does not directly measure the price of the securities, which are traded relatively infrequently by a small group of sophisticated players. The ultimate holders of these bonds, which are essentially a stake in loans taken out by thousands of individual homeowners, are pension funds, hedge funds, insurance companies and other institutional investors.</p>
+        <p>As of the end of trading yesterday, the index that tracks the portions rated BBB- of 20 bonds issued in late 2006 was down 7 percent, according to the Markit Group and CDS IndexCo, which created and maintain the ABX. That means it would cost an investor $2,052.88 to insure $10,000 worth of bonds, up from $1,790.28 a week earlier.</p>
+        <p>Earlier this week, Wall Street was taken aback when two hedge funds operated by Bear Stearns, a large underwriter of subprime bonds and one of the biggest traders in the securities, sought bids for $4 billion worth of subprime bonds after the funds faced redemption requests.</p>
+        <p>That sale appeared to confirm the fears of many investors that losses will mount steadily as more subprime loans default and more homes are foreclosed. On Thursday, the Mortgage Bankers Association reported that nearly 19 percent of all subprime loans were either past due or in foreclosure at the end of March, up from 17.9 percent in December. The recent jump in interest rates and a glut of unsold properties available for sale will probably make it harder for borrowers to refinance or sell their homes.</p>
+        <p>''This is not a cataclysmic event, it's a slow bleed," said Karen Weaver, the global head of securitization research at Deutsche Bank.</p>
+        <p>Since the start of April, Fitch Ratings has issued 404 downgrades of subprime bonds and 113 upgrades. By comparison, it issued 127 downgrades and 136 upgrades in the first three months of the year.</p>
+        <p>It remains to be seen whether the liquidations of subprime bonds by some funds will force others to sell to cover margin calls or to meet redemption demands by jittery investors looking to minimize their losses.</p>
+        <p>Timothy D. Rowe, a portfolio manager at Smith Breeden Associates, said that would depend on what kind of prices bonds being auctioned now fetch. The pressure to liquidate will be greatest on investors who borrowed heavily to trade those bonds, rather than buy-and-hold fund managers.</p>
+        <p>Mr. Rowe noted that while loans made last year are performing poorly, demand for bonds backed by mortgages made this year, which have been made with more caution, appears to be holding up well. ''A lot of the subprime market is still in good shape,'' he said. ''It's going to be around.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

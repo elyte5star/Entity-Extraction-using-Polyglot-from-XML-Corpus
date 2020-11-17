@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kidnapping Trial Of Operatives From the C.I.A. Delayed in Italy</title>
+    <meta content="19italy" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/world/europe/19italy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855591"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Torture</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Extradition</classifier>
+        <location class="indexing_service">Italy</location>
+        <location class="indexing_service">Egypt</location>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <person class="indexing_service">Povoledo, Elisabetta</person>
+        <person class="indexing_service">Nasr, Hassan Mustafa Osama (Abu Omar)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Egypt</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Egypt</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Extradition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Torture</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="online_producer">Italy</location>
+        <org class="online_producer">Central Intelligence Agency</org>
+        <person class="online_producer">Nasr, Hassan Mustafa Osama</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEEDF133FF93AA25755C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kidnapping Trial Of Operatives From the C.I.A. Delayed in Italy</hl1>
+        <hl2 class="online_headline">Kidnapping Trial of C.I.A. Agents Is Suspended by Judge in Italy</hl2>
+      </hedline>
+      <byline class="print_byline">By ELISABETTA POVOLEDO</byline>
+      <byline class="normalized_byline">Povoledo, Elisabetta</byline>
+      <dateline>MILAN, June 18</dateline>
+      <abstract>
+        <p>Italian judge suspends kidnapping trial of 25 Central Intelligence Agency operatives, United States military officer and some of Italy's former top spies, to await ruling on whether prosecutors overstepped their bounds and violated state secrecy laws by wiretapping an using classified documents as they gathered evidence; defendants are accused of abducting Hassan Mustafa Osama Nasr, known as Abu Omar, suspected terrorist, who says he was sent to Egypt and tortured for four years before being released; case is highly sensitive because it could make public inner workings of American program called 'extraordinary rendition' in which terrorism suspects are abducted and interrogated in countries which permit torture; US refuses to extradite Americans, who are being tried in absentia (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Italian judge on Monday suspended the kidnapping trial of 25 Central Intelligence Agency operatives, a United States military officer  and some of Italy's former top spies, to await a ruling on whether prosecutors overstepped their bounds and violated state secrecy laws as they gathered evidence.</p>
+        <p>Judge Oscar Magi delayed the trial, which began June 8, pending a decision from the  Constitutional Court on whether prosecutors had the right to use wiretaps of secret service agents and classified documents as evidence to prosecute the 26 Americans and seven  Italian agents. They  are accused of abducting an imam  who was suspected of being involved in terrorist activity, seizing him as he  walked to his mosque in Milan in February 2003.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Judge Oscar Magi delayed the trial to await a ruling on whether prosecutors overstepped their bounds and violated state secrecy laws as they gathered evidence.</p>
+      </block>
+      <block class="full_text">
+        <p>An Italian judge on Monday suspended the kidnapping trial of 25 Central Intelligence Agency operatives, a United States military officer  and some of Italy's former top spies, to await a ruling on whether prosecutors overstepped their bounds and violated state secrecy laws as they gathered evidence.</p>
+        <p>Judge Oscar Magi delayed the trial, which began June 8, pending a decision from the  Constitutional Court on whether prosecutors had the right to use wiretaps of secret service agents and classified documents as evidence to prosecute the 26 Americans and seven  Italian agents. They  are accused of abducting an imam  who was suspected of being involved in terrorist activity, seizing him as he  walked to his mosque in Milan in February 2003.</p>
+        <p>The kidnapping was the first documented case in Western Europe of an ''extraordinary rendition,'' the American program in which terrorism suspects are abducted and then interrogated in other countries, some of which permit torture.</p>
+        <p>The imam, Hassan Mustafa Osama Nasr, known as Abu Omar, said he was sent to Egypt and tortured for four years. He was released in February.</p>
+        <p>The case is highly sensitive because it could make public the inner workings of the American program, as well as any intrigue between the American and Italian governments.</p>
+        <p>The Italian government is contending in arguments before the Constitutional Court that prosecutors should not have been allowed to conduct wiretaps and should not have been privy to some documents covered by state secrecy laws.  The court is expected to rule in October, and any decision to suppress evidence could have a decisive impact on the trial, which Judge Magi scheduled to resume on Oct. 24.</p>
+        <p>The government's challenge has exasperated prosecutors in Milan, who contend that they fully complied with the law.</p>
+        <p>The defendants in the trial include an American Air Force colonel and 25 C.I.A. operatives, including the station chiefs in Rome and Milan at the time of the kidnapping. The United States has said it will not extradite the Americans, who are being tried in absentia.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

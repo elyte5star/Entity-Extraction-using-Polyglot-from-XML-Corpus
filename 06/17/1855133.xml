@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natty Camper</title>
+    <meta content="17camo" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855133"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E7DA153FF934A25755C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natty Camper</hl1>
+      </hedline>
+      <byline class="print_byline">By Ellen Tien</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Camp-bound kids are choosing sleeping bags and duffels in classic camouflage, with a stylish twist. Quiksilver scrawls its splatter-paint logo across a sleeping bag with an oversize camouflage pattern in camel, chocolate brown and black. Made of nylon with synthetic filler and a flannel lining, it has a matching drawstring carrying bag (far right, $61 at Space Kiddets in New York, 212-420-9878). Paul Frank's rectangular duffel is printed with camouflage cleverly shaped like monkeys; it has a detachable shoulder strap and is large enough to function as a camp trunk (right, $85, also at Space Kiddets). The cool factor of these two pieces has made them early-summer retail sleepers, so get them while they last. As with all things camouflage: now you see 'em, now you don't.</p>
+      </block>
+      <block class="full_text">
+        <p>Camp-bound kids are choosing sleeping bags and duffels in classic camouflage, with a stylish twist. Quiksilver scrawls its splatter-paint logo across a sleeping bag with an oversize camouflage pattern in camel, chocolate brown and black. Made of nylon with synthetic filler and a flannel lining, it has a matching drawstring carrying bag (far right, $61 at Space Kiddets in New York, 212-420-9878). Paul Frank's rectangular duffel is printed with camouflage cleverly shaped like monkeys; it has a detachable shoulder strap and is large enough to function as a camp trunk (right, $85, also at Space Kiddets). The cool factor of these two pieces has made them early-summer retail sleepers, so get them while they last. As with all things camouflage: now you see 'em, now you don't.  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

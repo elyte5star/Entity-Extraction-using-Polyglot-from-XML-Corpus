@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Chairman for Victoria and Albert</title>
+    <meta content="19arts-005" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855515"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ARTS, BRIEFLY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6DF133FF93AA25755C0A9619C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Chairman for Victoria and Albert</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by LAWRENCE VAN GELDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prime Minister Tony Blair of Britain yesterday appointed John Tusa chairman of the Victoria and Albert Museum. Mr. Tusa, who will begin his four-year term on Nov. 1, is the managing director of the Barbican Center in London and was previously the managing director of the BBC World Service. He is the author of two books on the arts and has been the chairman of the advisory committee to the Government Art Collection, a trustee of the National Portrait Gallery and the Design Museum and deputy chairman of the English National Opera. He was knighted in 2003.</p>
+      </block>
+      <block class="full_text">
+        <p>Prime Minister Tony Blair of Britain yesterday appointed John Tusa chairman of the Victoria and Albert Museum. Mr. Tusa, who will begin his four-year term on Nov. 1, is the managing director of the Barbican Center in London and was previously the managing director of the BBC World Service. He is the author of two books on the arts and has been the chairman of the advisory committee to the Government Art Collection, a trustee of the National Portrait Gallery and the Design Museum and deputy chairman of the English National Opera. He was knighted in 2003.</p>
+        <p>ARTS, BRIEFLY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

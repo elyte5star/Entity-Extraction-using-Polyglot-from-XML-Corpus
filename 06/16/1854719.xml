@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Matriarch of Penticton Against the World</title>
+    <meta content="16card" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/crosswords/bridge/16card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854719"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DA153FF935A25755C0A9619C8B63" item-length="525" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Matriarch of Penticton Against the World</hl1>
+        <hl2 class="online_headline">The Matriarch of Penticton Against the World</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The World Wide Bridge Contest, in which the same deals are played at bridge clubs around the world, began 21 years ago. This year's events were played on June 1 and 2, with players in Nepal participating for the first time.</p>
+        <p>The winners of the June 1 heat were Claudio Bianchini and Ermanno Gadioli from Italy, with 75.1 percent. Jeanne and Joseph Portale were the top North American pair, finishing seventh, with 70.34 percent at the Toms River Duplicate Bridge Club in New Jersey.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The World Wide Bridge Contest, in which the same deals are played at bridge clubs around the world, began 21 years ago. This year’s events were played on June 1 and 2, with players in Nepal participating for the first time.</p>
+      </block>
+      <block class="full_text">
+        <p>The World Wide Bridge Contest, in which the same deals are played at bridge clubs around the world, began 21 years ago. This year's events were played on June 1 and 2, with players in Nepal participating for the first time.</p>
+        <p>The winners of the June 1 heat were Claudio Bianchini and Ermanno Gadioli from Italy, with 75.1 percent. Jeanne and Joseph Portale were the top North American pair, finishing seventh, with 70.34 percent at the Toms River Duplicate Bridge Club in New Jersey.</p>
+        <p>For the June 2 heat, the winners were Margaret Pearce and Alje Kamminga, with 76.45 percent, playing at the Penticton Duplicate Bridge Club in Penticton, British Columbia. Sharon Easley and Elva Stone, who had 75.35 percent at the Fort Smith Duplicate Bridge Club in Fort Smith, Ark., were second.</p>
+        <p>Each pair played 24 boards. The June 2 winners sat East-West and had only five minus scores. The runners-up that day were North-South, who also had five minus scores. Both pairs said they received several gifts. But the winners earned their excellent result on the diagramed deal, which was Board 1, rotated to make South the declarer.</p>
+        <p>With a good six-card suit, a four-card major, 10 prime points and no rebid problems, South should open one diamond, not pass or bid two diamonds (a weak two). Pearce (West) correctly made a takeout double. Especially when 4-4 in the majors, strain to enter the auction. Over North's one-spade response, Kamminga (East) jumped to three clubs. This was a tad cautious, but with everyone bidding, he guessed that partner had made a light double.</p>
+        <p>Now South should have passed, but he could not resist repeating his excellent suit.</p>
+        <p>When this returned to East, he made a matchpoint double. He thought that his side would make three clubs for plus 110. (In fact, three clubs can be defeated if North obtains a heart ruff.) So to get a decent matchpoint result, East thought that they needed to defeat three diamonds doubled by two tricks, for plus 300.</p>
+        <p>West led the spade king. Declarer won with dummy's ace and ducked a heart. East, after winning with his heart nine, cashed the diamond ace and played another diamond to stop any heart ruffs on the board. South drew the last trump, then led his club, but West rose with her ace and played a second heart.</p>
+        <p>Declarer took West's king with his ace and tried a spade, but West won with her queen and cashed two hearts, the queen and the eight. That resulted in down two for the magic plus 300. This was a cold top in Penticton (one of ''only'' 13) and a 98.61 percent board worldwide.</p>
+        <p>Pearce is known as the matriarch of bridge in the South Okanagan Valley and is the driving force behind the Penticton Regional, which is one of the largest in Canada, although the town has a population of only about 43,000. Kamminga is Dutch, but moved to Canada 55 years ago at age 5.</p>
+        <p>The New England Summer Regional will take place in Sturbridge, Mass., from Wednesday through June 24. Details can be found at nebridge.org.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

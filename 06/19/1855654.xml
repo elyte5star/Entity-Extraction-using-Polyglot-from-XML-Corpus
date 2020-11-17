@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sperm Donors</title>
+    <meta content="l19brooks" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855654"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Infertility</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E1DE133FF93AA25755C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sperm Donors</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>David Brooks's essay on sperm banks (''The National Pastime,'' column, June 15) is cruel.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>David Brooks's essay on sperm banks (''The National Pastime,'' column, June 15) is cruel.</p>
+        <p>Does Mr. Brooks really think that a couple with normal fertility would go through the expense, invasive procedures and emotional toll of using a sperm donor just to have smart, pretty children?</p>
+        <p>People use sperm donors for one of two reasons: they suffer from infertility or carry a serious genetic disorder. Sometimes the cause of infertility is nonmedical (single women and lesbians), but the majority of sperm bank clients are heterosexual couples with untreatable male-factor infertility.</p>
+        <p>It's true that sperm banks use creepy marketing ploys, like charging more for donors with graduate degrees. The main service they offer, however, is donor matching, in which they select a donor with features similar to those of the (nonbiological) father-to-be.</p>
+        <p>People use donors because they want to love and raise a healthy child and need help to conceive that child.</p>
+        <p>Why would anyone, conservative or liberal, have a problem with that?</p>
+        <p>Kathleen Walker</p>
+        <p>Tucson, June 15, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

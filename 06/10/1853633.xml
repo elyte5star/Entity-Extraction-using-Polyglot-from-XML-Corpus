@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dara Goldberg, Jonathan Kay</title>
+    <meta content="10goldberg" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10goldberg.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070617T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1853633"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Goldberg, Dara Beth</person>
+        <person class="indexing_service">Kay, Jonathan Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DEED71F30F933A25755C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dara Goldberg, Jonathan Kay</hl1>
+        <hl2 class="online_headline">Dara Goldberg, Jonathan Kaye</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dara Beth Goldberg and Jonathan Michael Kay are to be married today at the Four Seasons Hotel in Washington. Rabbi Robert Layman is to officiate.</p>
+        <p>The couple graduated from the University of Pennsylvania, she cum laude and he magna cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dara Beth Goldberg and Jonathan Michael Kay are to be married today at the Four Seasons Hotel in Washington. Rabbi Robert Layman is to officiate.</p>
+      </block>
+      <block class="full_text">
+        <p>Dara Beth Goldberg and Jonathan Michael Kay are to be married today at the Four Seasons Hotel in Washington. Rabbi Robert Layman is to officiate.</p>
+        <p>The couple graduated from the University of Pennsylvania, she cum laude and he magna cum laude.</p>
+        <p>The bride, 41, is the director of external affairs at the United States Holocaust Memorial Museum in Washington, overseeing communications and special events.</p>
+        <p>She is the daughter of Sandra Goldberg and Dr. Stanley Goldberg of Oreland, Pa. Her father is a dentist in Philadelphia, and her mother manages his office.</p>
+        <p>The bridegroom, also 41, is a senior counsel to the American Red Cross in Washington, preparing and negotiating contracts for services. He received his law degree cum laude from Georgetown.</p>
+        <p>He is a son of Beverly Kaye of Woodbridge, Conn., and Robert Kaye of Boca Raton, Fla., and is a stepson of Sandra Kaye. His mother runs a gallery for outsider art in her home. She also sells online at ArtBrut.com. His father is the president and a founder of Specwise, a West Palm Beach, Fla., firm specializing in design and estimate software for roofing contractors.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+        <p>Correction:  June 17, 2007, Sunday  A report last Sunday, about the marriage of Dara Beth Goldberg, misspelled the bridegroom's surname. He is Jonathan Michael Kaye, not Kay.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 17, 2007, Sunday</p>
+        <p>A report last Sunday, about the marriage of Dara Beth Goldberg, misspelled the bridegroom's surname. He is Jonathan Michael Kaye, not Kay.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

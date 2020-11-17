@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pearson Is Said to Seek a Partner for a Takeover of Dow Jones</title>
+    <meta content="16dow" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/business/media/16dow.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Dow Jones &amp; Co Inc</org>
+        <org class="indexing_service">Pearson Plc</org>
+        <org class="indexing_service">Financial Times (Newspaper)</org>
+        <org class="indexing_service">General Electric Co</org>
+        <org class="indexing_service">Hearst Corp</org>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+        <org class="online_producer">Pearson Plc</org>
+        <org class="online_producer">General Electric Co</org>
+        <org class="online_producer">Hearst Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D8153FF935A25755C0A9619C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pearson Is Said to Seek a Partner for a Takeover of Dow Jones</hl1>
+        <hl2 class="online_headline">Pearson Is Said to Seek a Partner for a Takeover of Dow Jones</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD P�REZ-PE�A</byline>
+      <abstract>
+        <p>Pearson Is Said to See</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pearson, the publisher of The Financial Times, is exploring a rival takeover offer for Dow Jones &amp; Company, and has discussed a joint bid with General Electric and the Hearst Corporation, people familiar with the talks said yesterday.</p>
+        <p>The idea has not progressed beyond initial discussions, and an actual bid for Dow Jones, publisher of The Wall Street Journal, is not likely, according to officials at some of the companies involved in the talks. Investment bankers are informally advising the companies, but none have been retained by Pearson to pursue a deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Pearson, the publisher of The Financial Times, is exploring a rival takeover offer for Dow Jones and has discussed a joint bid with G.E. and the Hearst Corporation.</p>
+      </block>
+      <block class="full_text">
+        <p>Pearson, the publisher of The Financial Times, is exploring a rival takeover offer for Dow Jones &amp; Company, and has discussed a joint bid with General Electric and the Hearst Corporation, people familiar with the talks said yesterday.</p>
+        <p>The idea has not progressed beyond initial discussions, and an actual bid for Dow Jones, publisher of The Wall Street Journal, is not likely, according to officials at some of the companies involved in the talks. Investment bankers are informally advising the companies, but none have been retained by Pearson to pursue a deal.</p>
+        <p>In April, the News Corporation, controlled by Rupert Murdoch, made a $5 billion offer for Dow Jones, which is being considered by the company's controlling family, the Bancrofts. Family members have made it clear that they dislike the racy journalism and conservative politics of some of the News Corporation's properties, and would rather sell to someone else, but in more than six weeks since the offer became public knowledge, no other bidder has stepped forward.</p>
+        <p>Pearson, General Electric and Hearst all declined to confirm or deny any discussion of a Dow Jones purchase.</p>
+        <p>But for both Pearson and General Electric, such a takeover might make sense as a defensive move, meant primarily to keep the company out of Mr. Murdoch's hands.</p>
+        <p>Industry analysts have predicted that under Mr. Murdoch, The Journal would compete more aggressively for readers and advertisers with its much smaller rival, The Financial Times. The Financial Times, based in London, is strongest in Europe, where it competes with The Journal's European edition.</p>
+        <p>General Electric owns the cable channel CNBC, which would be the main competitor of the cable business channel that the News Corporation plans to start this year. Acquiring Dow Jones is seen as a shortcut to gaining reporting resources and credibility for the new channel. Last month, General Electric approached Microsoft about exploring a bid for Dow Jones, but Microsoft turned down the idea.</p>
+        <p>Media analysts say that it makes sense for Pearson to seek a larger partner for a Dow Jones takeover, because making an offer on its own would be stretch for the company. Pearson had 2006 sales of $8.3 billion and net income of $668 million.</p>
+        <p>Marjorie Scardino, Pearson's chief executive, has been aggressive about buying other companies, and investors and analysts have criticized some of those deals, saying that Pearson overpaid.</p>
+        <p>The company, a major textbook publisher, also owns Penguin books, a children's publishing house, educational testing services and a business data service for financial professionals, among other things.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/books/review/Upfront-t-1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854907"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Patterson, Orlando</person>
+        <person class="online_producer">Thomas, Clarence</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DC163FF934A25755C0A9619C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a 1991 Op-Ed article for The New York Times, Orlando Patterson -- then, as now, a professor of sociology at Harvard -- said of the Clarence Thomas-Anita Hill uproar, ''The hearings ... brought to light the fact that the American public is way ahead of its journalistic and social-science commentators with respect to race relations.'' Patterson, who reviews ''Supreme Discomfort,'' a biography of Thomas, on the cover of this issue, elaborated in an e-mail message: ''The American public has in recent decades adopted far more nuanced and progressive views than its political and intellectual leaders on both right and left. We are currently living through a good example of this in the immigration debate.'' As for race relations today, he thinks ''extremism on both sides is flatly rejected. The great majority of black Americans, including the black poor, do not blame their problems on race, as the academic army of social scientists insists on telling them they should, and getting lifetime tenure for it.''</p>
+        <p>Thomas has been ''a disappointment'' to Patterson, ''not because he is a conservative, but because of the awful lack of compassion he has exhibited on the court and the extremism of his legal philosophy. He belongs to a growing group of right-wing minority appointees who gain attention by outdoing the far right and are typically called 'courageous.' I actually believe that it is always a good thing to have moderately conservative blacks in public view, since this undercuts the conventional tendency to view all blacks in monolithic terms -- as a group of people with a single political and ideological agenda. But there seems to be no room for moderation when playing the race card, whether on the right or the left.''</p>
+        <p>The Editors</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Orlando Patterson says Clarence Thomas, whose biography he reviews this week, has shown an “awful lack of compassion” as a Supreme Court justice.</p>
+      </block>
+      <block class="full_text">
+        <p>In a 1991 Op-Ed article for The New York Times, Orlando Patterson -- then, as now, a professor of sociology at Harvard -- said of the Clarence Thomas-Anita Hill uproar, ''The hearings ... brought to light the fact that the American public is way ahead of its journalistic and social-science commentators with respect to race relations.'' Patterson, who reviews ''Supreme Discomfort,'' a biography of Thomas, on the cover of this issue, elaborated in an e-mail message: ''The American public has in recent decades adopted far more nuanced and progressive views than its political and intellectual leaders on both right and left. We are currently living through a good example of this in the immigration debate.'' As for race relations today, he thinks ''extremism on both sides is flatly rejected. The great majority of black Americans, including the black poor, do not blame their problems on race, as the academic army of social scientists insists on telling them they should, and getting lifetime tenure for it.''</p>
+        <p>Thomas has been ''a disappointment'' to Patterson, ''not because he is a conservative, but because of the awful lack of compassion he has exhibited on the court and the extremism of his legal philosophy. He belongs to a growing group of right-wing minority appointees who gain attention by outdoing the far right and are typically called 'courageous.' I actually believe that it is always a good thing to have moderately conservative blacks in public view, since this undercuts the conventional tendency to view all blacks in monolithic terms -- as a group of people with a single political and ideological agenda. But there seems to be no room for moderation when playing the race card, whether on the right or the left.''</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

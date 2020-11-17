@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Top Connecticut Republican Is Charged in Threat Conspiracy</title>
+    <meta content="02abuse" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/nyregion/02abuse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851415"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Racketeering and Racketeers</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Racketeering and Racketeers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Connecticut</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E4D71330F931A35755C0A9619C8B63" item-length="480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Top Connecticut Republican Is Charged in Threat Conspiracy</hl1>
+        <hl2 class="online_headline">Top Connecticut Republican Is Charged in Threat Conspiracy</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER MEDINA</byline>
+      <dateline>HARTFORD, June 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The leading Republican of the Connecticut State Senate, Louis C. DeLuca, was arrested on Friday and charged with conspiring to threaten a man he believed was abusing a young female relative.</p>
+        <p>According to state and federal authorities, Mr. DeLuca contacted James Galante, a Danbury-based trash hauler who has been indicted on charges that he has ties to organized crime.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>State Senator Louis C. DeLuca stands charged of conspiring to threaten a man he believed was abusing a young female relative.</p>
+      </block>
+      <block class="full_text">
+        <p>The leading Republican of the Connecticut State Senate, Louis C. DeLuca, was arrested on Friday and charged with conspiring to threaten a man he believed was abusing a young female relative.</p>
+        <p>According to state and federal authorities, Mr. DeLuca contacted James Galante, a Danbury-based trash hauler who has been indicted on charges that he has ties to organized crime.</p>
+        <p>Senator DeLuca, who has represented the area surrounding his town of Woodbury for 16 years, issued a long statement on Friday defending his actions.</p>
+        <p>''I tried to protect a family member who was vulnerable, who was in a physically abusive domestic relationship, and who needed help,'' Mr. DeLuca said. ''My family and I went to the police three times to get help for my relative, but the police said that they couldn't help because the victim wouldn't file a complaint.''</p>
+        <p>He added, ''It was a terrible decision on my part to seek Mr. Galante's involvement.''</p>
+        <p>Mr. DeLuca said that while he would rather his ''family situation stay out of the public eye,'' he believed that ''constituents and fellow legislators deserve an explanation.''</p>
+        <p>Officials would not say how the woman was related to Mr. DeLuca, a father of four and grandfather of nine.</p>
+        <p>In April 2005, Mr. DeLuca met with Mr. Galante at Philip's Diner in Woodbury, Conn., according to an affidavit filed in State Superior Court. There, apparently after hearing about Mr. DeLuca's concerns, Mr. Galante passed a note that read:</p>
+        <p>''Do you want me to have someone pay him a visit?''</p>
+        <p>To which, the authorities said, Mr. DeLuca wrote back: ''Yes.''</p>
+        <p>The note was found in Mr. Galante's Danbury office during a federal investigation.</p>
+        <p>''You cannot minimize the charges here, to the extent of that anybody sends somebody like James Galante out to do a job, you can't assume it's just going to be a verbal altercation,'' said Kevin J. O'Connor, the United State attorney in Connecticut. ''The risks are too great.''</p>
+        <p>Mr. DeLuca spoke with both Gov. M. Jodi Rell and Lawrence F. Cafero, the Republican leader in the House, on Friday morning to tell them of the charges. Republican and Democratic leaders in the Capitol all issued statements expressing sympathy for Senator DeLuca's situation.</p>
+        <p>Officials said that the incident was a ''private matter'' that had nothing to do with Senator DeLuca's official position. When, as part of the investigation, a federal undercover agent tried to bribe Mr. DeLuca with an offer of hundreds of dollars, Mr. DeLuca declined, according to the affidavit.</p>
+        <p>At least one Democrat called on Mr. DeLuca to resign on Friday. His aides said they expected him to finish business in the legislative session, which is scheduled to end on Wednesday.</p>
+        <p>Mr. DeLuca signed a statement saying he would appear in court on Monday. If convicted he would face a possible maximum penalty of a year in prison and a $2,000 fine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

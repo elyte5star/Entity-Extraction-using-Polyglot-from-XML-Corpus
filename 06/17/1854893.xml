@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SPOOR, MARTIN</title>
+    <meta content="dn061707.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854893"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SPOOR, MARTIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3D6143AF934A25755C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SPOOR, MARTIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPOOR--Martin, a wonderful husband, father, son, brother, friend, and doctor, died tragically on June 4, 2007 while helping others. We all miss him terribly and treasure the many memories built from his enthusiasm and love of music, travels, sports, fun, and the outdoors. Most of all we will remember his love of life, his wonderful sense of humor, and his thoughtfulness and gentleness with people. His wife, Susan, along with their three children, his parents, brother, and extended family are tremendously appreciative of the support and love from everyone. Condolences may be expressed through the family's website listed below. Visitors to the website will also find more information about Martin. In lieu of flowers, donations may be made to the Spoor Childrens Fund accessible through the website. http://sitemaker.umich.edu/ spoorfamily.</p>
+      </block>
+      <block class="full_text">
+        <p>SPOOR--Martin, a wonderful husband, father, son, brother, friend, and doctor, died tragically on June 4, 2007 while helping others. We all miss him terribly and treasure the many memories built from his enthusiasm and love of music, travels, sports, fun, and the outdoors. Most of all we will remember his love of life, his wonderful sense of humor, and his thoughtfulness and gentleness with people. His wife, Susan, along with their three children, his parents, brother, and extended family are tremendously appreciative of the support and love from everyone. Condolences may be expressed through the family's website listed below. Visitors to the website will also find more information about Martin. In lieu of flowers, donations may be made to the Spoor Childrens Fund accessible through the website. http://sitemaker.umich.edu/ spoorfamily.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

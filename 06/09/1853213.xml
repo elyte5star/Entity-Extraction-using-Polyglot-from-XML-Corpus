@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dance and Costumes Thrive (Oh, There's Singing Too)</title>
+    <meta content="09nell" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/arts/music/09nell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853213"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">DreamWorks SKG</org>
+        <person class="online_producer">Furtado, Nelly</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED61F30F93AA35755C0A9619C8B63" item-length="439" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dance and Costumes Thrive (Oh, There's Singing Too)</hl1>
+        <hl2 class="online_headline">Dance and Costumes Thrive (Oh, There’s Singing Too)</hl2>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nelly Furtado got cheers when she asked her audience, ''Are you ready to get loose?'' on Thursday night at the WaMu Theater at Madison Square Garden (formerly the Theater at Madison Square Garden). We were ready, but she wasn't. In a pop spectacle of costume changes and set pieces with dancers, Ms. Furtado hit her marks, but she didn't make it look like much fun.</p>
+        <p>With her first two albums, ''Whoa, Nelly!'' in 2000 and ''Folklore'' in 2003 (both on DreamWorks), Ms. Furtado started building a complex pop persona. She was a Portuguese-Canadian songwriter drawing on hip-hop, pop, folk, Portuguese and Brazilian music, singing about her self-confidence and insecurity, her restlessness and her proudly tangled roots.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a pop spectacle of costume changes and set pieces with dancers, Nelly Furtado hit her marks, but she didn’t make it look like much fun.</p>
+      </block>
+      <block class="full_text">
+        <p>Nelly Furtado got cheers when she asked her audience, ''Are you ready to get loose?'' on Thursday night at the WaMu Theater at Madison Square Garden (formerly the Theater at Madison Square Garden). We were ready, but she wasn't. In a pop spectacle of costume changes and set pieces with dancers, Ms. Furtado hit her marks, but she didn't make it look like much fun.</p>
+        <p>With her first two albums, ''Whoa, Nelly!'' in 2000 and ''Folklore'' in 2003 (both on DreamWorks), Ms. Furtado started building a complex pop persona. She was a Portuguese-Canadian songwriter drawing on hip-hop, pop, folk, Portuguese and Brazilian music, singing about her self-confidence and insecurity, her restlessness and her proudly tangled roots.</p>
+        <p>Her 2006 album, ''Loose'' (Mosely Music Group/Geffen), is a collaboration with the producer Timbaland, and it set that persona aside for more general songs about love and flirtation, along with a few love songs not in Portuguese but in Spanish.</p>
+        <p>There's nothing wrong with light-hearted, high-gloss pop, particularly with Timbaland making the beat jump on an irresistible single like ''Promiscuous.'' Ms. Furtado has a bright voice with a nasal edge that helps it grab attention on the radio, and she can both sing and rap, even in Spanish.</p>
+        <p>But it takes a certain kind of trouper -- like Madonna, Janet Jackson or Shakira -- to make viewers forget the mechanics of an elaborate song-and-dance number. Onstage Ms. Furtado couldn't do that.</p>
+        <p>Part of her problem was misguided staging. Her set was a three-tiered structure with a staircase, and she spent much of her performance in the middle tier, away from the audience, while two pairs of dancers did distracting things up front. Ms. Furtado made her own dance moves gamely, but not comfortably. So while songs like ''Maneater'' and ''Do It'' flaunted lust and sensuality in lyrics and sound, they were less convincing to watch.</p>
+        <p>It added up to an uneven concert. When Ms. Furtado came down front, she engaged both song and audience, as she did with a version of the Gnarls Barkley hit ''Crazy'' and ''Força,'' a song from ''Folklore'' that unfortunately had the dancers tossing soccer balls as Ms. Furtado sang.</p>
+        <p>And there was no stopping ''Promiscuous,'' with a Canadian rapper and singer, Saukrates, taking over Timbaland's parts onstage. A new, bass-heavy revamp of Ms. Furtado's 2000 hit, ''I'm Like a Bird,'' also had some spark, even with some silly arm-waving at the end.</p>
+        <p>But too often Ms. Furtado looked like a cog in her own production. When she chanted, ''Get loose!'' at the end, she sounded more like a marketer -- ''Get 'Loose' '' -- than like a party girl.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Revisiting a Composer's Distinct Experiments in Sound</title>
+    <meta content="01barg" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/arts/music/01barg.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851228"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Bargemusic</org>
+        <person class="online_producer">Penderecki, Krzysztof</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E3DC1530F932A35755C0A9619C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Revisiting a Composer's Distinct Experiments in Sound</hl1>
+        <hl2 class="online_headline">Revisiting a Composer’s Distinct Experiments in Sound</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the years surrounding 1970 Krzysztof Penderecki and George Crumb were very much in the musical news. The first composer was Polish, and the second, American, and each had found something new to say in a classical music world that thrived on the old.</p>
+        <p>We don't hear them very much these days. Mr. Penderecki still holds a place of pride in the nationalistic hearts of his countrymen. Mr. Crumb is occasionally rediscovered by young, hip Americans: seekers of freshness who might not be caught dead at a string quartet concert but like his provoking experiments with sound.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The serious and talented musicians performed works by George Crumb that demonstrated a show-business avidity to please and startle.</p>
+      </block>
+      <block class="full_text">
+        <p>In the years surrounding 1970 Krzysztof Penderecki and George Crumb were very much in the musical news. The first composer was Polish, and the second, American, and each had found something new to say in a classical music world that thrived on the old.</p>
+        <p>We don't hear them very much these days. Mr. Penderecki still holds a place of pride in the nationalistic hearts of his countrymen. Mr. Crumb is occasionally rediscovered by young, hip Americans: seekers of freshness who might not be caught dead at a string quartet concert but like his provoking experiments with sound.</p>
+        <p>Crumb revivals like the one at Bargemusic on Wednesday night show that serious and talented musicians like the Sonar Players are interested too. The violinist Mark Peskanov is doing Bargemusic's planning now and has ideas for more American evenings in the future.</p>
+        <p>Mr. Penderecki once caught the public's attention with loosely managed yet highly theatrical chaos: choral and instrumental murmurs, shouts and hisses that were done ad lib and yet guided. The composer Iannis Xenakis wrote similar music and compared it to schools of fish, in which all members swim separately but together.</p>
+        <p>Mr. Penderecki later ''went straight,'' with music closer to the prevailing language of organized dissonance being written by his colleagues. The results have been drab.</p>
+        <p>Mr. Crumb's appeal was a certain originality of sound color, which he achieved either by inventing new instruments or playing old ones in different ways.</p>
+        <p>''Voice of the Whale'' and ''Black Angels,'' both on Wednesday's program, demonstrate a show-business avidity to please and startle. Gongs crash; violins screech in concert; piano strings are strummed; bows stroke water glasses in close harmony; snatches of Schubert peek out; players count out loud in Hungarian and other languages. Most appealing to me were the whale song imitations played in broad glissandos by Benjamin Capps on the cello.</p>
+        <p>Both composers once promised leadership for a new avant-garde, but the public -- which usually ends up getting things like this right -- has pretty much decided that innovation without substance has a short shelf life. Mr. Crumb's repertory of tricks (players wear masks in ''Voice of the Whale'') is really just that. Pendereckian clouds of sounds are fascinating for a while, but clouds disperse. The 20th century was in good part about finding new ways to make music, and these two men did just that. Yet think of them more as inventors than as artists.</p>
+        <p>The other pieces were the piano solo ''Processional,'' played by Steven Beck, and the ''Four Nocturnes'' for violin and piano. Aaron Boyd and Amos Fayette, violinists; Maurycy Banaszek, violist; and Patti Monson, flutist, made up an appealing band of advocates.</p>
+        <p>The program will be repeated tonight at Bargemusic, Fulton Ferry Landing, near the Brooklyn Bridge, Brooklyn, bargemusic.org, (718) 624-2083.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

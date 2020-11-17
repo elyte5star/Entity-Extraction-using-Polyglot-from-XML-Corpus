@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Special Trains Planned For Football Games</title>
+    <meta content="06mbrfs-2" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852617"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DC1E30F935A35755C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Special Trains Planned For Football Games</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Transportation Authority said yesterday that it planned to run special trains from the Metro-North Railroad's New Haven line to Secaucus, N.J., for Giants and Jets football games at the Meadowlands, beginning in the second half of 2009. The trains would switch in New Rochelle from Metro-North tracks to Amtrak tracks and then run through Pennsylvania Station to New Jersey. Riders could take a shuttle train from Secaucus to the Meadowlands. The pilot program would also make it possible for subway or bus riders or riders on other commuter railroads to buy a single ticket allowing them to transfer at Penn Station to the Metro-North football trains or to New Jersey Transit trains bound for the Secaucus-Meadowlands shuttle.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Transportation Authority said yesterday that it planned to run special trains from the Metro-North Railroad's New Haven line to Secaucus, N.J., for Giants and Jets football games at the Meadowlands, beginning in the second half of 2009. The trains would switch in New Rochelle from Metro-North tracks to Amtrak tracks and then run through Pennsylvania Station to New Jersey. Riders could take a shuttle train from Secaucus to the Meadowlands. The pilot program would also make it possible for subway or bus riders or riders on other commuter railroads to buy a single ticket allowing them to transfer at Penn Station to the Metro-North football trains or to New Jersey Transit trains bound for the Secaucus-Meadowlands shuttle.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

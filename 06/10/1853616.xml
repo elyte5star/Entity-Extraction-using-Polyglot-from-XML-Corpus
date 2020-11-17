@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sweet Teens</title>
+    <meta content="10street" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/10street.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853616"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Parties (Social)</classifier>
+        <classifier class="online_producer" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="descriptor">Birthdays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birthdays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+        <location class="online_producer">Central Park (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEED91F30F933A25755C0A9619C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sweet Teens</hl1>
+        <hl2 class="online_headline">Sweet Teens</hl2>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Central Park, long a backdrop for wedding parties, is becoming a photo op for more youthful if look-alike events, quinceañeras, or 15th birthday celebrations, and sweet 16ths. Latino traditions that are growing ever more elaborate, they often feature Cinderella gowns, towering tiaras or flower headdresses, and as many as 24 attendants.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Central Park, long a backdrop for wedding parties, is becoming a photo op for more youthful if look-alike events.</p>
+      </block>
+      <block class="full_text">
+        <p>Central Park, long a backdrop for wedding parties, is becoming a photo op for more youthful if look-alike events, quinceañeras, or 15th birthday celebrations, and sweet 16ths. Latino traditions that are growing ever more elaborate, they often feature Cinderella gowns, towering tiaras or flower headdresses, and as many as 24 attendants.  ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Irate Fairy Is at the Door; Double-Check the Guest List</title>
+    <meta content="06beau" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/arts/dance/06beau.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852470"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">American Ballet Theater</org>
+        <person class="online_producer">McKenzie, Kevin</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E7DF1E30F935A35755C0A9619C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Irate Fairy Is at the Door; Double-Check the Guest List</hl1>
+        <hl2 class="online_headline">Irate Fairy Is at the Door; Double-Check the Guest List</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gelsey Kirkland did not kill the infant Aurora, as she laughingly threatened to do in a recent interview, when American Ballet Theater performed ''The Sleeping Beauty'' on Monday night at the Metropolitan Opera House. She didn't need to. Dancing Carabosse for the first time in this new production, staged by the company's director, Kevin McKenzie, and Ms. Kirkland, she made the vengeful fairy believably capable of any evil.</p>
+        <p>In this return to the Ballet Theater stage after 23 years, Ms. Kirkland played an unaccustomed dramatic or character role with the conviction she brought to her dancing as a ballerina. Interestingly, the least convincing moments were when she moved like a dancer, or at least a Martha Graham dancer in full lunge. That -- and the sight of Carabosse trussed and dangling on wires high above the stage -- diminished the power of her characterization.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In this return to the American Ballet Theater stage after 23 years, Gelsey Kirkland played an unaccustomed dramatic or character role with the conviction she brought to her dancing as a ballerina.</p>
+      </block>
+      <block class="full_text">
+        <p>Gelsey Kirkland did not kill the infant Aurora, as she laughingly threatened to do in a recent interview, when American Ballet Theater performed ''The Sleeping Beauty'' on Monday night at the Metropolitan Opera House. She didn't need to. Dancing Carabosse for the first time in this new production, staged by the company's director, Kevin McKenzie, and Ms. Kirkland, she made the vengeful fairy believably capable of any evil.</p>
+        <p>In this return to the Ballet Theater stage after 23 years, Ms. Kirkland played an unaccustomed dramatic or character role with the conviction she brought to her dancing as a ballerina. Interestingly, the least convincing moments were when she moved like a dancer, or at least a Martha Graham dancer in full lunge. That -- and the sight of Carabosse trussed and dangling on wires high above the stage -- diminished the power of her characterization.</p>
+        <p>Ms. Kirkland is small and slightly built, but she seemed to straighten from this Carabosse's habitual crouch into a towering height. She was Miss Havisham in mid-decline, an elegant woman trailing the tatters of a privileged life until she was tipped into full madness when not invited to the baptism of Princess Aurora, played by Veronika Part in a lead cast completed by Marcelo Gomes and Stella Abrera.</p>
+        <p>Consumed by an inhuman degree of rage, Ms. Kirkland was also intensely human, eyes taking in everything before her, with the smallest and quickest hints of sadness, even at the height of her evildoing. Her creep through the throngs at Aurora's 16th birthday party, contraband death-pricking spindle in hand, suggested a lizard stealthily sizing up its prey.</p>
+        <p>Ms. Kirkland will perform Carabosse again this afternoon. And then, it is to be hoped, she will move on to other dramatic roles. How about Lizzie Borden's mother in ''Fall River Legend,'' to start?</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

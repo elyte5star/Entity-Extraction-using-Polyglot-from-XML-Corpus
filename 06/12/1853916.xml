@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oh, the Songs Shine Bright In Some Old Kentucky Homes</title>
+    <meta content="12roots" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/arts/television/12roots.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Kentucky</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Kentucky</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <location class="online_producer">Kentucky</location>
+        <org class="online_producer">Public Broadcasting Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7DB173FF931A25755C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oh, the Songs Shine Bright In Some Old Kentucky Homes</hl1>
+        <hl2 class="online_headline">Oh, the Songs Shine Bright in Some Old Kentucky Homes</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many, many strings are plucked in ''The Rhythm of My Soul: Kentucky Roots Music,'' a documentary by Roger Sherman tonight on PBS, but all that boinging never really convinces you that Kentucky has anything more to boast about musically than assorted other states. The film feels like an attempt to cut into the dominance of Nashville, and though it does introduce some swell pickers and fiddlers you've probably never heard of, in general Nashville has nothing to worry about.</p>
+        <p>The film's premise is that an inordinate number of Kentuckians sit around their living rooms playing guitars, fiddles and banjos. ''People can't go to the movies every night,'' notes Bo McCarty, a local bluegrass authority, ''but you can play your guitar every night.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The documentary “The Rhythm of My Soul: Kentucky Roots Music” feels like an attempt to cut into the dominance of Nashville.</p>
+      </block>
+      <block class="full_text">
+        <p>Many, many strings are plucked in ''The Rhythm of My Soul: Kentucky Roots Music,'' a documentary by Roger Sherman tonight on PBS, but all that boinging never really convinces you that Kentucky has anything more to boast about musically than assorted other states. The film feels like an attempt to cut into the dominance of Nashville, and though it does introduce some swell pickers and fiddlers you've probably never heard of, in general Nashville has nothing to worry about.</p>
+        <p>The film's premise is that an inordinate number of Kentuckians sit around their living rooms playing guitars, fiddles and banjos. ''People can't go to the movies every night,'' notes Bo McCarty, a local bluegrass authority, ''but you can play your guitar every night.''</p>
+        <p>Maybe, but the same claim could probably be made in Mississippi or Tennessee or West Virginia. And a lot of the insights offered by the musicians who flit through the film -- they first became interested in music by singing in church! -- could just as easily have come from a Chicago bluesman or Broadway diva.</p>
+        <p>So the film is more cheerleading than revelation. Mr. Sherman, though, does find a few genuinely entertaining players, none more so than the Carriere Family, fiddlers extraordinaire. And occasionally in its meandering survey of country, bluegrass, gospel and mountain music in the state, the film throws in interesting tidbits, like, for instance, that fiddle players along the Ohio River were influenced by the classical violinists they heard on passing riverboats. But the film, though pleasant and tuneful enough, is ultimately a hodgepodge that doesn't quite prove its thesis.</p>
+        <p>The Rhythm of My Soul  Kentucky Roots Music  Tonight on most PBS stations (check local listings).</p>
+        <p>Roger Sherman, producer, director and cinematographer; Meredith McGuire, associate producer; Kris Liem, editor; Scott Connolly, sound. A production of Florentine Films/Sherman Pictures.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

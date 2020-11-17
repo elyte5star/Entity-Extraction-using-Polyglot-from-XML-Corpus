@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Après Vous, Oscar Wilde</title>
+    <meta content="l13dowd" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854195"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/Oscar Wilde</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7DF143FF930A25755C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Après Vous, Oscar Wilde</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Maureen Dowd notes that Oscar Wilde said that ''hypocrisy is the homage vice pays to virtue'' (''Outing the Out of Touch,'' column, June 10). The observation first came from the ''Maxims'' by the 17th-century duke La Rochefoucauld.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Maureen Dowd notes that Oscar Wilde said that ''hypocrisy is the homage vice pays to virtue'' (''Outing the Out of Touch,'' column, June 10). The observation first came from the ''Maxims'' by the 17th-century duke La Rochefoucauld.</p>
+        <p>Wilde was known to take credit for the wit of others. There is the perhaps apocryphal story of Wilde's saying, upon hearing a comment made by the American artist James McNeill Whistler, ''I wish I had said that,'' to which Whistler replied, ''You will, Oscar, you will.''</p>
+        <p>Steven Berkowitz  New York, June 10, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Dust Is Thick: It's Time to Vacuum the Elephants</title>
+    <meta content="14elephants" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14elephants.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854337"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="descriptor">Elephants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <org class="online_producer">American Museum of Natural History</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E6DA143FF937A25755C0A9619C8B63" item-length="546" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Dust Is Thick: It's Time to Vacuum the Elephants</hl1>
+        <hl2 class="online_headline">The Dust Is Thick: It’s Time to Vacuum the Elephants</hl2>
+      </hedline>
+      <byline class="print_byline">By ETHAN WILENSKY-LANFORD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The hydraulic lift lurched up, bringing the back of an African elephant into full view. To Mike Peter Smith, who was cleaning the elephant yesterday, its spine took the form of a gently sloping mountain range with peaks behind the head and near the rear legs.</p>
+        <p>The elephant remained motionless as Mr. Smith surveyed the dust that had collected on its broad back.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Every animal at the American Museum of Natural History get cleaned at least once a year.</p>
+      </block>
+      <block class="full_text">
+        <p>The hydraulic lift lurched up, bringing the back of an African elephant into full view. To Mike Peter Smith, who was cleaning the elephant yesterday, its spine took the form of a gently sloping mountain range with peaks behind the head and near the rear legs.</p>
+        <p>The elephant remained motionless as Mr. Smith surveyed the dust that had collected on its broad back.</p>
+        <p>''It is basically just vacuuming the elephant like a carpet,'' he said of his job. ''But it's really delicate at the same time.''</p>
+        <p>That stuffed elephant and seven others at the American Museum of Natural History were getting their annual cleaning, a ritual that is repeated at least once a year for every bird, dinosaur, mammal and fish that is not behind glass in the museum's collection. Of the 30 million specimens belonging to the museum, about 300,000 are displayed at one time. Standing on his perch about eight feet off the floor, Mr. Smith started behind the left ear. With one hand, he whisked a soft round brush across the deeply grooved wrinkles, leaving no space untouched. Blue lint balled up and cascaded down, before disappearing into the humming vacuum, which he guided through the air with the other hand. ''I have to be really careful,'' he said. To avoid tearing the fragile hide, he pushed the dust toward the vacuum's extension with the brush, rather than sliding the wand directly against the skin.</p>
+        <p>On the flat of the back, below the front left shoulder, there was so much dust that his strokes left the leathery hide visibly darker.</p>
+        <p>After meticulous brushing, it appeared as if Mr. Smith were painting the elephant with varnish.</p>
+        <p>''I wonder if they do not look too clean when I am done, too polished,'' he said. ''In a couple of weeks, when the dust settles, it will look more natural.''</p>
+        <p>Mr. Smith, 34, an exhibit maintenance supervisor, sculptures on the side, drawing his inspiration from the museum. He will not complete the job until sometime in July.</p>
+        <p>He plans to work from the scissor lift for two full days, then spend some mornings cleaning the legs, feet and undersides from the ground.</p>
+        <p>It was his second time cleaning the elephants. ''I look forward to it,'' Mr. Smith said. ''It is sort of meditative. You see the range of textures as you go over the elephants.''</p>
+        <p>The eight elephants form the centerpiece of the museum's African mammal exhibition.</p>
+        <p>They were captured in East Africa on a 1909 expedition. Back in New York, the man who caught the animals stuffed and arranged them. ''You can see the stitches, even though they are well hidden,'' Mr. Smith said. ''And there are trapdoors in their bellies.''</p>
+        <p>Four hundred and fifty thousand schoolchildren visit the exhibition every year, according to the museum.</p>
+        <p>Most press their hands and faces on the windows that shield the other animals from the public, but a few leave more of a trace than fingerprints.</p>
+        <p>''I may notice a spit wad here or there,'' Mr. Smith said. ''Sometimes I find a piece of gum up there, but that is really easy to get off.''</p>
+        <p>And when the elephants are done, another challenge awaits.</p>
+        <p>''This reminds me that I need to clean the mastodons,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

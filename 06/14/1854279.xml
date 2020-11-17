@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LIFSHITZ, MOSHE</title>
+    <meta content="dn061407" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854279"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LIFSHITZ, MOSHE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7D7143AF937A25755C0A9619C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LIFSHITZ, MOSHE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIFSHITZ--Moshe. The Officers, Members of the Board and Staff of the American and International Societies for Yad Vashem mourn the passing of Moshe Lifshitz, husband of Cheryl Skura Lifshitz, Member of the Board and our Executive Committee, son-in-law of Stella and Sam Skura. He is survived by his beloved wife Cheryl and their two daughters Iris and Ilana. We extend our heartfelt sympathies to the entire Skura and Lifshitz families. May you be comforted among the mourners of Zion and Jerusalem. Eli Zborowski, Chairman</p>
+      </block>
+      <block class="full_text">
+        <p>LIFSHITZ--Moshe. The Officers, Members of the Board and Staff of the American and International Societies for Yad Vashem mourn the passing of Moshe Lifshitz, husband of Cheryl Skura Lifshitz, Member of the Board and our Executive Committee, son-in-law of Stella and Sam Skura. He is survived by his beloved wife Cheryl and their two daughters Iris and Ilana. We extend our heartfelt sympathies to the entire Skura and Lifshitz families. May you be comforted among the mourners of Zion and Jerusalem. Eli Zborowski, Chairman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

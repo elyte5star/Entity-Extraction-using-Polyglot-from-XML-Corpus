@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cheating Leads TheStreet.com to Cancel an Investing Contest</title>
+    <meta content="12contest" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/business/media/12contest.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070619T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1854002"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Cheating</classifier>
+        <org class="indexing_service">Thestreet.com</org>
+        <person class="indexing_service">Story, Louise</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">CNBC</org>
+        <org class="online_producer">TheStreet.com Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EEDA173FF931A25755C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cheating Leads TheStreet.com to Cancel an Investing Contest</hl1>
+        <hl2 class="online_headline">TheStreet.com Cancels an Investing Contest</hl2>
+      </hedline>
+      <byline class="print_byline">By LOUISE STORY</byline>
+      <byline class="normalized_byline">Story, Louise</byline>
+      <abstract>
+        <p>TheStreet.com cancels first round of its Beat the Street competition because some of contestants were cheating; does not disclose tactics of cheaters, but says all participants of first contest can enter its next stock picking match; $100,000 prize money from canceled contest will be used to increase amount awarded in second contest to $150,000 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>No one ever said stock picking is easy -- or free of cheating.</p>
+        <p>TheStreet.com said last night that it would cancel the first round of its ''Beat the Street'' competition because some of the contestants had taken advantage of the system.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>TheStreet.com said it would cancel the first round of its “Beat the Street” competition because some players used trading strategies that compromised the integrity of the system.</p>
+      </block>
+      <block class="full_text">
+        <p>No one ever said stock picking is easy -- or free of cheating.</p>
+        <p>TheStreet.com said last night that it would cancel the first round of its ''Beat the Street'' competition because some of the contestants had taken advantage of the system.</p>
+        <p>The financial news site did not disclose the tactics of the cheaters, but it said that all participants of the first contest can enter its next stock picking match. The $100,000 prize money from the canceled contest will be used to increase the amount awarded in the second contest to $150,000.</p>
+        <p>''Players employed trading strategies to achieve returns that could not be duplicated in the real world, thereby depriving other contestants of an equal chance to win,'' David Morrow, the site's editor in chief, said, in part, in a Web posting to readers. ''I invite you to participate in the soon-to-launch 'Beat the Street 2.0' game.''</p>
+        <p>CNBC also ran into problems with a similar contest this spring. That contest, awarding a prize of $1 million, became a popular feature on the CNBC Web site, with about 375,000 people participating. CNBC has hired outside investigators to determine if players rigged the system by, among other tactics, trading after hours, a statement from CNBC said last week.</p>
+        <p>TheStreet.com's two-month contest began April 2. Players started with $100,000 in fictional dollars, and the site covered the progress on the contest with articles.</p>
+        <p>The most recent article about the contest, which was posted on May 30, said that a player with the screen name Zed Esq. was in the lead. The site interviewed that contestant in April -- when he was already in the lead -- and said his name was J McKeow.</p>
+        <p>Calls to TheStreet.com and Mr. Morrow, the site's editor, were not returned.</p>
+        <p>The president of optionsXpress Holdings, the online brokerage firm that sponsored TheStreet.com's contest, said in an e-mail message: ''We think trading contests can be a great way for individual investors to learn about the markets. It's unfortunate that TheStreet.com had technical problems that got in the way of determining the winner of their trading contest.''</p>
+        <p>A spokesman for optionsXpress Holdings said that TheStreet.com's contest was not run on optionsXpress systems.</p>
+        <p>Correction:  June 19, 2007, Tuesday  A headline and article in Business Day last Tuesday about a decision by TheStreet.com not to award prize money in the first round of its ''Beat the Street'' competition referred incorrectly to the reason for its action. Although TheStreet.com did say that some players used trading strategies that compromised the integrity of the system, it did not identify any of them or accuse any individual of ''cheating'' in the contest -- including J. McKeown, who was leading the contest.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 19, 2007, Tuesday</p>
+        <p>A headline and article in Business Day last Tuesday about a decision by TheStreet.com not to award prize money in the first round of its ''Beat the Street'' competition referred incorrectly to the reason for its action. Although TheStreet.com did say that some players used trading strategies that compromised the integrity of the system, it did not identify any of them or accuse any individual of ''cheating'' in the contest -- including J. McKeown, who was leading the contest.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

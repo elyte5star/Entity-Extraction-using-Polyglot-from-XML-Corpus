@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Needed Benefits Of Wind Power</title>
+    <meta content="l17west-3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855285"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <person class="indexing_service">Wolf, Virginia A</person>
+        <person class="indexing_service">Winerip, Michael</person>
+        <person class="indexing_service">Katz, Ginger</person>
+        <person class="indexing_service">Katz, Ian</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DE123FF934A25755C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Needed Benefits Of Wind Power</hl1>
+      </hedline>
+      <abstract>
+        <p>Virginia A Wolf letter on Michael Winerip's June 10 Parenting column on mother losing her son to drug overdose</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>At a time when we as a state and nation need to be aggressively pursuing clean energy alternatives, Henry S. F. Cooper Jr. promotes coal and nuclear power plants in New York and dismisses the many benefits of wind power technology (''Idiot Wind,'' Op-Ed, June 3).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>At a time when we as a state and nation need to be aggressively pursuing clean energy alternatives, Henry S. F. Cooper Jr. promotes coal and nuclear power plants in New York and dismisses the many benefits of wind power technology (''Idiot Wind,'' Op-Ed, June 3).</p>
+        <p>The proposed Jordanville Wind Power Project will create enough clean, homegrown electricity to provide the annual power needs for more than 50,000 New York homes. That's 50,000 homes powered without negatively affecting the environment; relying on foreign sources of oil; or putting even more strain on our existing power supply.</p>
+        <p>And contrary to Mr. Cooper's assertion that wind farms decrease property values, a recent study by Lawrence Berkeley National Laboratory found absolutely no impact on property values from wind farms.</p>
+        <p>It's no secret that New York State will need significant additional power in coming years. But New Yorkers must make a choice between clean energy -- the right answer for our economy, our environment, our safety, and for New York -- and business as usual.</p>
+        <p>Carol Murphy  Executive Director, Alliance  for Clean Energy New York  Albany</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Menopause, in the Open</title>
+    <meta content="l12menopause" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853982"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Menopause</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hormones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5DA173FF931A25755C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Menopause, in the Open</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Listen Up, Everybody: I'm in Menopause'' (Thursday Styles, June 7):</p>
+        <p>Congratulations for highlighting something many of us have now realized for several years. That menopause is not a taboo subject, and women have been expressing openly their thoughts, concerns, fears of certain treatments, and yes, jokes, for quite some time.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Listen Up, Everybody: I'm in Menopause'' (Thursday Styles, June 7):</p>
+        <p>Congratulations for highlighting something many of us have now realized for several years. That menopause is not a taboo subject, and women have been expressing openly their thoughts, concerns, fears of certain treatments, and yes, jokes, for quite some time.</p>
+        <p>But for many women the symptoms are not trivial and can be severely disruptive to their quality of life, and their ability to function well at home, at work and with people. While a humorous comment may deflect the moment, it is not possible to laugh off 10 or more disruptive flashes during the day or disturbing sleep at night.</p>
+        <p>Unfortunately, menopause is so out in the open now that snake oil salesmen of all stripes have oozed out of the woodwork, and the best message to women today is: Realize that it is a normal transition event in life, and you don't need to suffer through this transition.</p>
+        <p>Remember, buyer beware. Get good evidence-based factual advice and treatment from trustworthy sources, and avoid the unproven ''menopause cures'' sold through health stores and even some health providers.</p>
+        <p>Wulf H. Utian, M.D.  Mayfield Heights, Ohio  June 7, 2007</p>
+        <p>The writer is executive director of the North American Menopause Society, a scientific not-for-profit organization.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Bangs, Brent Landau</title>
+    <meta content="10bangs" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10bangs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853619"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bangs, Elizabeth Thompson</person>
+        <person class="indexing_service">Landau, Brent Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EFD71F30F933A25755C0A9619C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Bangs, Brent Landau</hl1>
+        <hl2 class="online_headline">Elizabeth Bangs, Brent Landau</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Thompson Bangs and Brent Christopher Landau are to be married today in Cambridge, Mass. The Rev. Peter J. Gomes, an American Baptist minister and the Plummer professor of Christian morals at Harvard, is to officiate at the Memorial Church of Harvard University, with Canon Mark W. Shier, an Episcopal priest, taking part.</p>
+        <p>Ms. Bangs, 31, is keeping her name. She is the director of the legal research and writing program for first-year students at Harvard Law School, where she also lectures on disability rights. She graduated, cum laude, and received her law degree, magna cum laude, from Harvard. She is the daughter of Margaret and William J. Bangs of Fullerton, Calif.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Thompson Bangs and Brent Christopher Landau are to be married today in Cambridge, Mass. The Rev. Peter J. Gomes, an American Baptist minister and the Plummer professor of Christian morals at Harvard, is to officiate at the Memorial Church of Harvard University, with Canon Mark W. Shier, an Episcopal priest, taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Thompson Bangs and Brent Christopher Landau are to be married today in Cambridge, Mass. The Rev. Peter J. Gomes, an American Baptist minister and the Plummer professor of Christian morals at Harvard, is to officiate at the Memorial Church of Harvard University, with Canon Mark W. Shier, an Episcopal priest, taking part.</p>
+        <p>Ms. Bangs, 31, is keeping her name. She is the director of the legal research and writing program for first-year students at Harvard Law School, where she also lectures on disability rights. She graduated, cum laude, and received her law degree, magna cum laude, from Harvard. She is the daughter of Margaret and William J. Bangs of Fullerton, Calif.</p>
+        <p>Mr. Landau, 30, is a doctoral candidate in New Testament and early Christianity at Harvard Divinity School. He graduated from the University of Iowa and is a candidate for ordination as a Presbyterian minister. He is a son of Deborah and Gregory A. Landau of Scottsdale, Ariz.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

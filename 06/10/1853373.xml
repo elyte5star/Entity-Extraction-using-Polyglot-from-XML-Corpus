@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dog's Life</title>
+    <meta content="10relett-5" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853373"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFD9163FF933A25755C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dog's Life</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''So, Do I Make the Cut?,'' April 29: Neither as renter nor homeowner have I ever come across a dog who: plays his music too loud; blocks my driveway; steals my parking space; lets his trash blow into the street; or leaves the building door ajar. In fact, in social and public settings, the average dog, I have found, is much better behaved than the average human. Want greater civility? Start with the people. The dogs are the least of our problems.</p>
+        <p>Karin J. Lauria  Marlborough, Mass.</p>
+        <p>To the Editor:</p>
+        <p>Life is so hard for these people and their pets. When most people in this world can't afford to live decently, the superrich are willing to pay an obscene amount of extra rent for a pet when, somewhere else in the world, that money could house and feed a family of six. I love my pet as much as the next guy, but really, the values in this city and the overall sickness of the real estate mind-set are very, very disturbing.</p>
+        <p>Jason Carey  Prospect Heights, Brooklyn</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''So, Do I Make the Cut?,'' April 29: Neither as renter nor homeowner have I ever come across a dog who: plays his music too loud; blocks my driveway; steals my parking space; lets his trash blow into the street; or leaves the building door ajar. In fact, in social and public settings, the average dog, I have found, is much better behaved than the average human. Want greater civility? Start with the people. The dogs are the least of our problems.</p>
+        <p>Karin J. Lauria  Marlborough, Mass.</p>
+        <p>To the Editor:</p>
+        <p>Life is so hard for these people and their pets. When most people in this world can't afford to live decently, the superrich are willing to pay an obscene amount of extra rent for a pet when, somewhere else in the world, that money could house and feed a family of six. I love my pet as much as the next guy, but really, the values in this city and the overall sickness of the real estate mind-set are very, very disturbing.</p>
+        <p>Jason Carey  Prospect Heights, Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>D. Nelson Adams, 97, Tax Law Specialist</title>
+    <meta content="06adams" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/nyregion/06adams.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852480"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <org class="online_producer">Davis Polk &amp; Wardwell</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DF1E30F935A35755C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>D. Nelson Adams, 97, Tax Law Specialist</hl1>
+        <hl2 class="online_headline">D. Nelson Adams, 97, Tax Law Specialist, Dies</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>D. Nelson Adams, a former managing partner of Davis Polk &amp; Wardwell, one of the nation's most prominent law firms, died on Thursday at his home in Barneveld, N.Y. He was 97 and also had a home in Manhattan.</p>
+        <p>The death was confirmed by his son, Daniel N. Adams Jr.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Adams was a former managing partner of Davis Polk &amp; Wardwell, one of the nation&amp;#8217;s most prominent law firms.</p>
+      </block>
+      <block class="full_text">
+        <p>D. Nelson Adams, a former managing partner of Davis Polk &amp; Wardwell, one of the nation's most prominent law firms, died on Thursday at his home in Barneveld, N.Y. He was 97 and also had a home in Manhattan.</p>
+        <p>The death was confirmed by his son, Daniel N. Adams Jr.</p>
+        <p>A specialist in corporate tax law, Mr. Adams spent his entire career at Davis Polk, becoming its managing partner in 1970. At his death he was a senior counsel there. Davis Polk now has offices in New York and nine other cities, with more than 600 lawyers.</p>
+        <p>Daniel Nelson Adams, known as Nelson, was born in Manhattan on Dec. 30, 1909. He earned bachelor's degrees in history and English from Yale in 1932 and a law degree from Harvard in 1935. From 1935 to 1936, he was a clerk for Judge Learned Hand of the United States Court of Appeals for the Second Circuit. In World War II he served in the Army Air Corps.</p>
+        <p>Mr. Adams joined Davis Polk in 1936, becoming a partner in 1949. He became head of the firm's tax department the next year and 20 years later was named managing partner. He retired in 1977.</p>
+        <p>Mr. Adams's clients included J. P. Morgan, Morgan Stanley and Brown Brothers Harriman. He was also known for helping expand the firm's diversity in hiring.</p>
+        <p>Mr. Adams's wife, the former Diana Gerli, died in 1995. Besides his son, of Barneveld, he is survived by two grandsons.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

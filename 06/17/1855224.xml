@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nothing to Laugh About</title>
+    <meta content="17stylett-6" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855224"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2D7153FF934A25755C0A9619C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nothing to Laugh About</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Knocked Up'' is a comedy about a young woman who gets pregnant with a man she doesn't know. If she decides to have an abortion eight minutes into the movie, there isn't much of a comedy left. It is true that American movies seldom depict abortions -- but there are a lot of things American movies seldom depict. Like sex between unattractive people. Or life as we know it.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Knocked Up'' is a comedy about a young woman who gets pregnant with a man she doesn't know. If she decides to have an abortion eight minutes into the movie, there isn't much of a comedy left. It is true that American movies seldom depict abortions -- but there are a lot of things American movies seldom depict. Like sex between unattractive people. Or life as we know it.</p>
+        <p>I don't think Hollywood shuns the topic of abortion in fear of anything but boredom. Abortion is not -- as a plot point -- interesting or dramatic enough, and certainly not funny.</p>
+        <p>Eva Nyqvist  Nyack, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

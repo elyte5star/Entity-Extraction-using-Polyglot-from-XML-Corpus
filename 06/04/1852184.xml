@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Phone Equipment Manufacturer May Be Sold</title>
+    <meta content="04avaya" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852184"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6DD1130F937A35755C0A9619C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Phone Equipment Manufacturer May Be Sold</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN and MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross; De La Merced, Michael J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Avaya was near a deal last night to sell itself to Silver Lake Partners and the Texas Pacific Group for more than $8 billion in the latest buyout in the telecommunications industry, according to people briefed on the sale.</p>
+        <p>The two private equity firms appear to have bested a rival bid from Nortel Networks and a deal may be announced as early as today, those people said. But they cautioned that the talks were ongoing and that Nortel could field a higher 11th-hour bid.</p>
+      </block>
+      <block class="full_text">
+        <p>Avaya was near a deal last night to sell itself to Silver Lake Partners and the Texas Pacific Group for more than $8 billion in the latest buyout in the telecommunications industry, according to people briefed on the sale.</p>
+        <p>The two private equity firms appear to have bested a rival bid from Nortel Networks and a deal may be announced as early as today, those people said. But they cautioned that the talks were ongoing and that Nortel could field a higher 11th-hour bid.</p>
+        <p>The firms are expected to pay about $17 per share, the people said. Avaya's shares closed Friday at $16.08.</p>
+        <p>Speculation about a buyout first arose two weeks ago, when the company unexpectedly postponed a meeting with analysts without offering an explanation or setting a new date. An Avaya spokeswoman would not comment.</p>
+        <p>Avaya, which was once a division of Lucent Technologies and AT&amp;T before that, is one of the nation's top makers of phone equipment, rivaling Cisco, Nortel and Alcatel-Lucent in providing Internet-based communications to corporations. Much of its business focuses on upgrading companies to voice networks that can also offer video and data services.</p>
+        <p>Avaya draws almost a third of its revenue from its long-term maintenance contracts, though the company has warned that as those agreements expire, its customers have the leverage to demand lower fees.</p>
+        <p>The company, which was spun off from Lucent in October 2000, suffered in 2002 as the dot-com bubble burst. But its financial health has rebounded so strongly that a Merrill Lynch analyst recently described Avaya as an ideal buyout candidate.</p>
+        <p>In its fiscal year ended Sept. 30, 2006, the company reported net profit of $201 million on revenue of $5.12 billion, and it is virtually debt-free. The company, based in Basking Ridge, N.J., has about 20,000 employees.</p>
+        <p>The move comes amid heavy deal-making in the telecommunications sector. Last month, Alltel, the wireless service provider, agreed to a $27.5 billion buyout by Texas Pacific and a unit of Goldman Sachs.</p>
+        <p>Analysts have predicted consolidation in the telecommunications equipment sector. Mergers among phone companies have amplified their size and purchasing power, while low-cost Asian companies have squeezed the profits of their Western counterparts. Last year, Alcatel and Lucent agreed to merge in an $11.6 billion deal, which many analysts say forced players like Avaya and Nortel to ally to stay competitive.</p>
+        <p>Some analysts had seen an Avaya-Nortel pairing as a good fit. But the companies' overlap in product offerings make integration difficult, analysts said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

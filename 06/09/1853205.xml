@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lots of Froth but No Bubble</title>
+    <meta content="09online" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/technology/09online.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853205"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WHAT'S ONLINE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Supermarkets</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <classifier class="indexing_service" type="descriptor">Organic Foods and Products</classifier>
+        <org class="indexing_service">Netscape Communications Corp</org>
+        <org class="indexing_service">Federal Trade Commission</org>
+        <org class="indexing_service">Wild Oats Markets</org>
+        <org class="indexing_service">Whole Foods Market Inc</org>
+        <org class="indexing_service">Google Inc</org>
+        <org class="indexing_service">Macmillan Inc</org>
+        <person class="indexing_service">Mitchell, Dan</person>
+        <person class="indexing_service">Andreessen, Marc</person>
+        <person class="indexing_service">Charkin, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organic Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Silicon Valley (Calif)</location>
+        <org class="online_producer">MySpace.com</org>
+        <org class="online_producer">Federal Trade Commission</org>
+        <org class="online_producer">Wild Oats Markets Incorporated</org>
+        <org class="online_producer">Whole Foods Market Inc</org>
+        <person class="online_producer">Andreessen, Marc L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E0D61F30F93AA35755C0A9619C8B63" item-length="671" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lots of Froth but No Bubble</hl1>
+        <hl2 class="online_headline">Lots of Froth but No Bubble</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN MITCHELL</byline>
+      <byline class="normalized_byline">Mitchell, Dan</byline>
+      <abstract>
+        <p>What's Online column; Marc Andreessen, inventor of first commercially viable Web browser and co-creator of Netscape, finally has blog; in one post he offered harsh rebuttal of spreading idea that there is new Internet bubble forming, that Silicon Valley is overexuberant about 'Web 2.0,' and that soon it will come crashing down; Federal Trade Commission's decision this week to try to block acquisition of Wild Oats Market by rival Whole Foods Market sends bloggers into speculation mode; many of them wonder why FTC would object to relatively small merger in highly competitive industry; Richard Charkin of Macmillan Publishers writes on his blog about how he swiped couple of computers from Google's booth at recent trade show; he contends that 'theft' was no worse than Google's Book Search Library Project, in which company means to digitize book collections of big libraries around world to make them searchable online; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MARC ANDREESSEN, the inventor of the first commercially viable Web browser and the co-creator of Netscape, finally has a blog. And he started this week with a splash: in his third post, he offered a harsh (for him) rebuttal of the spreading notion that there is a new Internet bubble forming, that Silicon Valley is overexuberant about ''Web 2.0,'' and that soon it will all come crashing down (blog.pmarca.com).</p>
+        <p>He offers this caveat: ''I'd be the last person to say that I never roll my eyes at the next start-up that's doing online Wiki-based, popularity-ranked, video-podcast, mobile, social, dating widgets for the dog and cat owner market.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The inventor of the first commercially viable Web browser has begun his blog with a splash: by saying that there is no new Internet bubble forming.</p>
+      </block>
+      <block class="full_text">
+        <p>MARC ANDREESSEN, the inventor of the first commercially viable Web browser and the co-creator of Netscape, finally has a blog. And he started this week with a splash: in his third post, he offered a harsh (for him) rebuttal of the spreading notion that there is a new Internet bubble forming, that Silicon Valley is overexuberant about ''Web 2.0,'' and that soon it will all come crashing down (blog.pmarca.com).</p>
+        <p>He offers this caveat: ''I'd be the last person to say that I never roll my eyes at the next start-up that's doing online Wiki-based, popularity-ranked, video-podcast, mobile, social, dating widgets for the dog and cat owner market.''</p>
+        <p>But buzzwords alone do not a bubble make, and Mr. Andreessen offers plenty of support for his argument that while there might be some froth there is always some froth -- that's the nature of innovative industries.</p>
+        <p>''If you're going to call a bubble on the basis of lots of bad start-ups getting funded and failing,'' he writes, ''then you have to conclude that the industry is in a perpetual bubble, and has been for 40 years.''</p>
+        <p>For the most part, he argues, the companies that are getting the most money and attention are those that deserve it. ''People laughed when Fox bought MySpace for $580 million,'' he wrote, but now, given its revenue growth, ''MySpace would probably be valued at between $3 billion and $5 billion.''</p>
+        <p>Also setting the climate apart from the late 1990s bubble, he notes, is that there are not many Internet companies going public. ''For a theoretical bubble, that is just plain odd.''</p>
+        <p>So why are there so many doomsayers? Mr. Andreessen blames evolutionary psychology. ''The human psyche seems to have a powerful underlying need to predict doom and gloom,'' he wrote.</p>
+        <p>The blogger Mark Evans posits another reason for the pessimism: weariness (markevanstech.com). ''It's been such a good time for so long in Silicon Valley,'' he writes, ''that people are tired -- tired of attending events night after night, tired of writing about the latest V. C. financing and Google acquisition, tired of being inundated with press releases and public relations campaigns.''</p>
+        <p>FOOD FOR THOUGHT -- The Federal Trade Commission's decision this week to try to block the acquisition of Wild Oats Markets by its larger rival, Whole Foods Market, sent bloggers into speculation mode. Why, many of them wondered, would the F.T.C., which has green-flagged so many deals that seem more questionable, object to a relatively small merger in a highly competitive industry?</p>
+        <p>The F.T.C. defines ''market'' in this case narrowly -- limiting it to ''premium natural and organic supermarkets'' and leaving out huge chains like Safeway and Wal-Mart, even though those stores are increasingly offering so-called natural and organic products (ftc.gov).</p>
+        <p>Given such competition, ''the whole thing makes very little sense,'' wrote Felix Salmon on Portfolio magazine's Market Movers blog (portfolio.com).</p>
+        <p>Perhaps. Or perhaps it makes perfect sense if the grocery lobby had something to do with it, or, as has been suggested, the F.T.C. is reacting to pressure from Congress. ''If so,'' Mr. Salmon wrote, ''this move could destroy quite a lot of shareholder value in the service of massaging a few political egos.''</p>
+        <p>STEAL THIS LAPTOP -- The chief executive of a major book publisher swiped a couple of computers from Google's booth at a recent trade show. Really. And he not only admitted it, he bragged about it on his blog (charkinblog.macmillan.com).</p>
+        <p>There was ''no sign saying 'please do not steal the computers,' '' Richard Charkin of Macmillan Publishers wrote. He contends that the ''theft'' was no worse than Google's Book Search Library Project, in which the company means to digitize the book collections of big libraries around the world to make them searchable online.</p>
+        <p>Publishers have protested, but never quite like this. Mr. Charkin stayed near the booth until Google's employees returned and noticed their laptops were missing, whereupon he returned them.</p>
+        <p>''With our heist, we were merely doing to Google what they're doing to us,'' he told the Register (theregister.co.uk)</p>
+        <p>DAN MITCHELL</p>
+        <p>WHAT'S ONLINE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

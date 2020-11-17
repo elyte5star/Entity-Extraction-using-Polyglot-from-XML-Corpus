@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GIANTS SIGN GUARD</title>
+    <meta content="08sportsbriefs-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853040"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0D91F30F93BA35755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GIANTS SIGN GUARD</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN BRANCH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Giants bolstered their offensive line by signing guard Zach Piller, who played eight seasons for the Tennessee Titans. It is the latest signal that the Giants plan to move left guard David Diehl to left tackle to replace Luke Petitgout, who was waived after last season.</p>
+      </block>
+      <block class="full_text">
+        <p>The Giants bolstered their offensive line by signing guard Zach Piller, who played eight seasons for the Tennessee Titans. It is the latest signal that the Giants plan to move left guard David Diehl to left tackle to replace Luke Petitgout, who was waived after last season.</p>
+        <p>Piller, 31, has started 58 games in his career, including all 16 in 2005. But his 2006 season lasted three games because of an ankle injury, and he played only one game in 2004 before tearing his triceps. If Diehl does shift to left tackle for the Giants, Piller, who was signed by the Detroit Lions in March but was cut in May, could compete with Rich Seubert for the starting left guard spot.</p>
+        <p>JOHN BRANCH</p>
+        <p>SPORTS BRIEFING: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

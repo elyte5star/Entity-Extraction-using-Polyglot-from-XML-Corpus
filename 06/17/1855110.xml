@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lindsey LaBoon, Samuel Rothenberg</title>
+    <meta content="17laboon" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17laboon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855110"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">LaBoon, Lindsey Beth (Lindsey Beth Rothenberg)</person>
+        <person class="indexing_service">Rothenberg, Samuel Flom</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EFDB153FF934A25755C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lindsey LaBoon, Samuel Rothenberg</hl1>
+        <hl2 class="online_headline">Lindsey LaBoon, Samuel Rothenberg</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lindsey Beth LaBoon, a daughter of Barbara Stern of Boca Raton, Fla., and Lawrence LaBoon of Phoenixville, Pa., is to be married today to Samuel Flom Rothenberg, a son of Mary Sue and Frederick Rothenberg of Tampa, Fla. Rabbi David Englander is to perform the ceremony at B'nai Torah Congregation in Boca Raton.</p>
+        <p>The bride, 24, and bridegroom, 27, met at George Washington University, where they received master's degrees in international affairs. They are to begin work next month as junior Foreign Service officers at the State Department in Arlington, Va.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lindsey Beth LaBoon, a daughter of Barbara Stern of Boca Raton, Fla., and Lawrence LaBoon of Phoenixville, Pa., is to be married today to Samuel Flom Rothenberg, a son of Mary Sue and Frederick Rothenberg of Tampa, Fla. Rabbi David Englander is to perform the ceremony at B’nai Torah Congregation in Boca Raton.</p>
+      </block>
+      <block class="full_text">
+        <p>Lindsey Beth LaBoon, a daughter of Barbara Stern of Boca Raton, Fla., and Lawrence LaBoon of Phoenixville, Pa., is to be married today to Samuel Flom Rothenberg, a son of Mary Sue and Frederick Rothenberg of Tampa, Fla. Rabbi David Englander is to perform the ceremony at B'nai Torah Congregation in Boca Raton.</p>
+        <p>The bride, 24, and bridegroom, 27, met at George Washington University, where they received master's degrees in international affairs. They are to begin work next month as junior Foreign Service officers at the State Department in Arlington, Va.</p>
+        <p>The bride received two bachelor's degrees from the University of Florida, graduating cum laude in Spanish and summa cum laude in economics; the bridegroom graduated from Dartmouth.</p>
+        <p>The bride is a stepdaughter of Glynys LaBoon and Robert Stern.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

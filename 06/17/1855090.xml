@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What's Insured And What Isn't</title>
+    <meta content="17home" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/realestate/17home.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855090"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="YOUR HOME"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Your Home</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">National Assn of Insurance Commissioners</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E6DE153FF934A25755C0A9619C8B63" item-length="572" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What's Insured And What Isn't</hl1>
+        <hl2 class="online_headline">What’s Insured and What Isn’t</hl2>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A SURVEY by the National Association of Insurance Commissioners has found that many people believe their homeowners' insurance covers losses that are not, in fact, covered.</p>
+        <p>''We were a little surprised by the results,'' said Sandy Praeger, Kansas' insurance commissioner and the president-elect of the association.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A survey suggests that many people believe their homeowners’ insurance covers losses that are not, in fact, covered.</p>
+      </block>
+      <block class="full_text">
+        <p>A SURVEY by the National Association of Insurance Commissioners has found that many people believe their homeowners' insurance covers losses that are not, in fact, covered.</p>
+        <p>''We were a little surprised by the results,'' said Sandy Praeger, Kansas' insurance commissioner and the president-elect of the association.</p>
+        <p>The survey found that 33 percent of the heads of household who have homeowners' insurance incorrectly believe that damage from a flood would be covered by their policies. ''We warn people every year that damage caused by flooding will only be covered if they have a separate flood insurance policy,'' Ms. Praeger said.</p>
+        <p>The survey also found other incorrect assumptions: 68 percent believe vehicles stolen from or damaged on their property are covered; 51 percent think their policy covers damage from a break in the main water line outside their houses; 37 percent think damage from a broken sewer line is covered; 34 percent assume mold damage is covered; and 31 percent think damage from termites or other infestations is covered.</p>
+        <p>The telephone survey of 1,000 people nationwide, conducted May 17-21 by International Communications Research, was paid for by the insurance commissioners' group. Of the 1,000 people, 673 identified themselves as heads of household who had homeowners' insurance and were included in the survey, which has a margin of sampling error of plus or minus 3.85 percentage points.</p>
+        <p>''Another thing many people don't understand is the difference between actual-cash-value coverage and replacement-cost coverage,'' Ms. Praeger said.</p>
+        <p>With actual-cash-value coverage, she said, the insurance covers only what it will cost to repair or replace damage to a home and its contents after depreciation has been taken into consideration, but replacement-cost coverage insures for what it costs to replace or rebuild without considering depreciation. The difference, Ms. Praeger said, can amount to thousands of dollars.</p>
+        <p>Ron Tepperman, the principal in the Manhattan insurance agency that bears his name, said many homeowners do not realize that certain valuables may be significantly underinsured under a standard policy.</p>
+        <p>''Most people think they're fully covered for jewelry, antiques, stamps and coin collections,'' Mr. Tepperman said. ''But most policies provide only limited coverage for such items.'' For example, he said, a standard policy might limit coverage for such items to just $500.</p>
+        <p>Another thing that many homeowners do not realize, Mr. Tepperman said, is that homeowners' insurance does not cover personal property and equipment if it's used for business or that the liability portion of the policy does not cover injuries if a customer or client gets hurt on the property.</p>
+        <p>Michael Spain, president of the Spain Agency in Mahopac, N.Y., said another hazard that many people believe is covered by a standard policy is earthquake damage. It isn't.</p>
+        <p>''Nobody talks about it, hardly anyone has it, but a lot of people need it,'' Mr. Spain said.</p>
+        <p>Robert J. Mackoul, the president of Mackoul &amp; Associates, an insurance agency in Long Beach, N.Y., said that some co-op and condo owners believe they have insurance when they don't. ''Many people think that what's inside their apartment is covered by the building's policy when it isn't,'' he said.</p>
+        <p>What to do?</p>
+        <p>Homeowners should check with their insurance agents and should buy any additional insurance that may be necessary. They should also determine whether endorsements are available to increase coverage for items like jewelry, antiques and valuable collections. Those who use parts of their homes for business should buy a separate business policy.</p>
+        <p>YOUR HOME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

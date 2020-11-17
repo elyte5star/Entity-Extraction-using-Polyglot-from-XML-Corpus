@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mahler vs. Klimt, Round 2</title>
+    <meta content="10alsmail-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853526"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WHY CLASSICAL MATTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Harmon, Charlie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2D71E30F933A25755C0A9619C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mahler vs. Klimt, Round 2</hl1>
+      </hedline>
+      <abstract>
+        <p>Charlie Harmon letter about June 3 article on concert halls says it's up to listener to learn about music beforehand (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Perhaps Lawrence Kramer should get out more. Well-placed display cases, video monitors? For the New York Philharmonic there are several of those at Avery Fisher Hall. Different possibilities of performance? Michael Tilson Thomas did just that at Carnegie Hall on Feb. 28, presenting the Fifth Symphony of Shostakovich, first with altered notes, then as the composer intended. A gift shop in which to linger? The Barbican in London is virtually a shopping mall.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Perhaps Lawrence Kramer should get out more. Well-placed display cases, video monitors? For the New York Philharmonic there are several of those at Avery Fisher Hall. Different possibilities of performance? Michael Tilson Thomas did just that at Carnegie Hall on Feb. 28, presenting the Fifth Symphony of Shostakovich, first with altered notes, then as the composer intended. A gift shop in which to linger? The Barbican in London is virtually a shopping mall.</p>
+        <p>Listening to Mahler ''the way you would look at Klimt'' can be a worthy goal, but it's up to the listener -- the museumgoer -- to learn beforehand about Mahler and Klimt, and about listening and seeing and making connections. I see the stumbling block as an inherited European tradition that still bristles at American brashness.</p>
+        <p>Charlie Harmon  Brooklyn</p>
+        <p>The writer is the former music editor for the estate of Leonard Bernstein.</p>
+        <p>WHY CLASSICAL MATTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

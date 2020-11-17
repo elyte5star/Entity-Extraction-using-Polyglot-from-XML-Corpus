@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Catching Breezes (Sun and Sand Are Optional)</title>
+    <meta content="14outdoor" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: OUTDOORS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EFDC143FF937A25755C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Catching Breezes (Sun and Sand Are Optional)</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Temple, an outdoor pavilion, has a removable teak floor, a retractable fabric roof and curtain rods on all four sides for privacy. Jason Champion, the Cherry Hill, N.J.-based product designer who created the pavilion and the Goa collection of chairs, above, for Tidelli, an outdoor furniture company in Salvador, Brazil, said it could be used as a dining area, a lounge or even an airy guest room. The 10-foot-square structure ($17,465) and the swivel chairs ($1,275 each) have powder-coated aluminum frames covered in polyvinyl chloride, a material that contains recycled components. They come in six colors: white, black, beige, chocolate, orange and chartreuse. Information is available from Mr. Champion's company, Design Kollection, which is distributing the product in the United States: (941) 921-6780 or jason@designkollection.com.</p>
+        <p>ELAINE LOUIE</p>
+      </block>
+      <block class="full_text">
+        <p>Temple, an outdoor pavilion, has a removable teak floor, a retractable fabric roof and curtain rods on all four sides for privacy. Jason Champion, the Cherry Hill, N.J.-based product designer who created the pavilion and the Goa collection of chairs, above, for Tidelli, an outdoor furniture company in Salvador, Brazil, said it could be used as a dining area, a lounge or even an airy guest room. The 10-foot-square structure ($17,465) and the swivel chairs ($1,275 each) have powder-coated aluminum frames covered in polyvinyl chloride, a material that contains recycled components. They come in six colors: white, black, beige, chocolate, orange and chartreuse. Information is available from Mr. Champion's company, Design Kollection, which is distributing the product in the United States: (941) 921-6780 or jason@designkollection.com.</p>
+        <p>ELAINE LOUIE  CURRENTS: OUTDOORS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>With a Bow to Springsteen, a Band Plays On</title>
+    <meta content="17musicweWC" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/nyregionspecial2/17musicwe.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855028"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Arts and Entertainment"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Tramps Like Us (Music Group)</org>
+        <person class="indexing_service">Springsteen, Bruce</person>
+        <person class="indexing_service">Gerstenzang, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <location class="online_producer">Westchester County (NY)</location>
+        <org class="online_producer">E Street Band</org>
+        <person class="online_producer">Springsteen, Bruce</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E2D7143FF934A25755C0A9619C8B63" item-length="828" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>With a Bow to Springsteen, a Band Plays On</hl1>
+        <hl2 class="online_headline">With a Bow to Springsteen, a Band Plays On</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER GERSTENZANG</byline>
+      <byline class="normalized_byline">Gerstenzang, Peter</byline>
+      <abstract>
+        <p>Article on Tramps Like Us, Westchester County tribute band whose repertory includes about 60 Bruce Springsteen songs; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>UP close, Mark Salore doesn't look much like Bruce Springsteen. Except, perhaps, for the stud in his left ear and a wispy bit of beard. Mr. Salore is shorter than the Boss, his complexion darker, his nose slightly bigger. An astonishing transformation takes place, though, when he gets onstage with his tribute band, Tramps Like Us. He punches out the opening riff to ''Cadillac Ranch,'' the group kicks in behind him, the crowd erupts in war cries and air guitar riffs, and it suddenly seems as if Bruce and the E Street Band have commandeered the Vintage Bar in White Plains.</p>
+        <p>''This whole thing began as an accident in the late 80s, at the Rock and Roll Cafe in Manhattan,'' Mr. Salore said. ''My band was playing there and doing lots of classic rock covers. The manager of the place suggested we try an all-Springsteen night. He even offered us more money. The evening was a huge success -- bigger crowds, lots more enthusiasm. So, I dropped the other numbers and we just concentrated on Bruce's stuff. We have a repertoire of about 60 of his songs, including rarities that only the real fans know about, like 'Thundercrack' and 'Santa Ana.' ''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The lead singer of Bruce Springsteen tribute band Tramps Like Us doesn’t look like the Boss, but he certainly sounds like him.</p>
+      </block>
+      <block class="full_text">
+        <p>UP close, Mark Salore doesn't look much like Bruce Springsteen. Except, perhaps, for the stud in his left ear and a wispy bit of beard. Mr. Salore is shorter than the Boss, his complexion darker, his nose slightly bigger. An astonishing transformation takes place, though, when he gets onstage with his tribute band, Tramps Like Us. He punches out the opening riff to ''Cadillac Ranch,'' the group kicks in behind him, the crowd erupts in war cries and air guitar riffs, and it suddenly seems as if Bruce and the E Street Band have commandeered the Vintage Bar in White Plains.</p>
+        <p>''This whole thing began as an accident in the late 80s, at the Rock and Roll Cafe in Manhattan,'' Mr. Salore said. ''My band was playing there and doing lots of classic rock covers. The manager of the place suggested we try an all-Springsteen night. He even offered us more money. The evening was a huge success -- bigger crowds, lots more enthusiasm. So, I dropped the other numbers and we just concentrated on Bruce's stuff. We have a repertoire of about 60 of his songs, including rarities that only the real fans know about, like 'Thundercrack' and 'Santa Ana.' ''</p>
+        <p>The band, whose current members all grew up together in Ardsley (with the exception of the new bassist, Jonathan Sanborn), has been playing throughout Westchester and the tristate area since the early 90s.</p>
+        <p>They have received the imprimatur of Mr. Springsteen's original drummer, Vini Lopez, who has sat in with the band; Kurt Loder, a rock journalist who did a spot about them on MTV; and Mike Appel, Mr. Springsteen's former manager.</p>
+        <p>Mr. Appel heard the band at his son's wedding last summer, in Rye Brook, and was duly impressed. ''A couple of times during the afternoon, I turned my back to 'Tramps' and I was sure the E Street Band was playing,'' Mr. Appel said. ''Especially because of the obscure stuff. Nobody plays, 'Thundercrack.' Hearing them, it was just like being back in 1975.''</p>
+        <p>One measure of the band's recent success has been the addition of Mr. Sanborn. The son of the jazz saxophonist David Sanborn, he was schooled in Bach and bebop, but considers playing with Tramps Like Us to be the high point so far in his career.</p>
+        <p>''I always tell people that my life was in black and white before I saw Bruce play in 2000,'' Mr. Sanborn said. ''After that it turned to color. The guy is so committed to rock, he makes you want to rock too. That was what inspired me to audition for 'Tramps.' I love these songs so much, I'd play them for free. The fact that once a month or so I get paid to do them is a dream come true.''</p>
+        <p>Mr. Salore, a 40-something father of two from Mount Kisco, will be the first to admit that the life of a tribute bandleader is not always reminiscent of a high-spirited song like ''Born to Run.'' In fact, the financial realities of his musical life sometimes sound as grim as Mr. Springsteen's ballad ''The River.''</p>
+        <p>''Most of the other guys in the group make a living at music, from teaching to playing with other people,'' Mr. Salore said. ''I have a family to support, so I have to do stuff on the side. For a while it was graphic design on the Web. In fact, I designed our Web site, even the streaming of our videos. But in the 90s, when the dot-com boom ended, there was less Web work. I supplement my band income now by doing construction, home improvement, mostly. It's not so bad. I'm a partner in the firm, so I can pretty much make my own hours.''</p>
+        <p>Mr. Salore says there are certain Springsteen songs he knows he has to play, like ''Glory Days'' and ''Hungry Heart,'' which he claims are ''too pop'' for his taste.</p>
+        <p>But last fall, it turned out there was one Springsteen tune he needed to learn in a hurry. If only because he was playing it in front of Senator Hillary Rodham Clinton.</p>
+        <p>Andrew J. Spano, the Westchester County executive, ''asked us to play 'The Rising' at the memorial erected in Valhalla for the victims of 9/11,'' Mr. Salore said. ''I love the song, but never really bothered to learn it. We ran through it, not long before the show. On the dedication day, Mrs. Clinton got up and started quoting line after line of the song. I was a bit embarrassed because I had to have cue cards when I sang it. It came off pretty well, though. Later on I thought, 'Well, the good part is, that's another Springsteen tune we've added to our song list.' I think I can safely say, it probably will not be the last.''</p>
+        <p>Tramps Like Us will be appearing at the Vintage Bar, 171 Main Street, White Plains, on Saturday. Information: (914) 328-5803 or TrampsLikeUs.com.</p>
+        <p>Arts and Entertainment</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

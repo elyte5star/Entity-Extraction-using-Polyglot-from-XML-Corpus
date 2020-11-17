@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anika Proskurowski, Kenneth Natori</title>
+    <meta content="17proskurowski" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17proskurowski.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855095"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Proskurowski, Anika Yael (Anika Yael Natori)</person>
+        <person class="indexing_service">Natori, Kenneth Cruz</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E1DB153FF934A25755C0A9619C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anika Proskurowski, Kenneth Natori</hl1>
+        <hl2 class="online_headline">Anika Proskurowski and Kenneth Natori</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anika Yael Proskurowski, a daughter of Maxine and Andrzej Proskurowski of Eugene, Ore., was married last evening to Kenneth Cruz Natori, the son of Josie Cruz Natori and Kenneth Natori of New York. The Rev. Carleton Jones officiated at the Roman Catholic Church of St. Vincent Ferrer in New York, and the Most Rev. Leonardo Z. Legaspi, the archbishop of the diocese of Caceres in the Philippines and a friend of the bridegroom's family, participated in the ceremony.</p>
+        <p>Mrs. Natori, 28, is a sixth-grade homeroom teacher at the Buckley School in New York, where she also teaches math to middle-school students. The bride graduated from Pomona College and received a master's degree in math education from Stanford.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Anika Yael Proskurowski and Kenneth Natori were married Saturday evening at the Roman Catholic Church of St. Vincent Ferrer in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Anika Yael Proskurowski, a daughter of Maxine and Andrzej Proskurowski of Eugene, Ore., was married last evening to Kenneth Cruz Natori, the son of Josie Cruz Natori and Kenneth Natori of New York. The Rev. Carleton Jones officiated at the Roman Catholic Church of St. Vincent Ferrer in New York, and the Most Rev. Leonardo Z. Legaspi, the archbishop of the diocese of Caceres in the Philippines and a friend of the bridegroom's family, participated in the ceremony.</p>
+        <p>Mrs. Natori, 28, is a sixth-grade homeroom teacher at the Buckley School in New York, where she also teaches math to middle-school students. The bride graduated from Pomona College and received a master's degree in math education from Stanford.</p>
+        <p>Her father is a professor and the chairman of the computer science department at the University of Oregon in Eugene. Her mother is the program manager for health services at Eugene School District, for which she also runs an educational program for homeless children.</p>
+        <p>Mr. Natori, 31, works at the Natori Company, the lingerie company in New York, of which his mother is the founder and chief executive and his father is the chairman. The bridegroom is a vice president in the finance division, focusing on the company's operations and financial planning. Until April he was an associate at Lehman Brothers in New York, where he sold research on Japanese stocks to institutional clients. He graduated magna cum laude from Amherst College and received an M.B.A. from Stanford.</p>
+        <p>His mother is a trustee of the Asian Cultural Council and is on the board of the Orchestra of St. Luke's, both in New York. His father is an owner of the GlenArbor Golf Club in Bedford Hills, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

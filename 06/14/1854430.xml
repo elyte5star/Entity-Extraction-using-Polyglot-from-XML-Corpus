@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'Talent' Pays Off for NBC</title>
+    <meta content="14arts-4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854430"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE6D8143FF937A25755C0A9619C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'Talent' Pays Off for NBC</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the second consecutive week, ''America's Got Talent'' led NBC to a ratings victory on Tuesday, as the show's audience fell only slightly from its premiere a week ago. Nielsen estimated that 11.8 million viewers tuned in from 8 to 10 p.m. to watch the talent competition, with Jerry Springer as host. With the exception of the Olympics, NBC has not earned an audience that size in that time period since November 2005. Last week NBC's broadcast of the show attracted 13 million viewers from 9 to 11, a period that generally has more viewers. A repeat of NBC's ''Law &amp; Order: Special Victims Unit'' led the 10 o'clock hour in total viewers (8.8 million), making the network No. 1 in every hour on Tuesday night. ABC ranked second over all among adults 18 to 49, with its coverage of Game 3 of the N.B.A. finals.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>For the second consecutive week, ''America's Got Talent'' led NBC to a ratings victory on Tuesday, as the show's audience fell only slightly from its premiere a week ago. Nielsen estimated that 11.8 million viewers tuned in from 8 to 10 p.m. to watch the talent competition, with Jerry Springer as host. With the exception of the Olympics, NBC has not earned an audience that size in that time period since November 2005. Last week NBC's broadcast of the show attracted 13 million viewers from 9 to 11, a period that generally has more viewers. A repeat of NBC's ''Law &amp; Order: Special Victims Unit'' led the 10 o'clock hour in total viewers (8.8 million), making the network No. 1 in every hour on Tuesday night. ABC ranked second over all among adults 18 to 49, with its coverage of Game 3 of the N.B.A. finals.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

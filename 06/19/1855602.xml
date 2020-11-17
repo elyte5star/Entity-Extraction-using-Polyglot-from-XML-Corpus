@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="19qna" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855602"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DE133FF93AA25755C0A9619C8B63" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.Is eating fortified foods (for example, orange juice enriched with calcium and vitamin D or flour with folic acid) any better than just taking the nutrients in pill form?</p>
+        <p>A. ''If the same form of nutrient and daily dose is used, there should be no difference between nutrients taken in fortified foods and those taken in pill form,'' said Dr. Sheldon S. Hendler, co-editor of The Physicians' Desk Reference for Nutritional Supplements, the standard reference in the field. ''However, since most people prefer food to pills, regularly eaten fortified foods can provide a more reliable choice for following a particular vitamin and mineral regimen.''</p>
+      </block>
+      <block class="full_text">
+        <p>Q.Is eating fortified foods (for example, orange juice enriched with calcium and vitamin D or flour with folic acid) any better than just taking the nutrients in pill form?</p>
+        <p>A. ''If the same form of nutrient and daily dose is used, there should be no difference between nutrients taken in fortified foods and those taken in pill form,'' said Dr. Sheldon S. Hendler, co-editor of The Physicians' Desk Reference for Nutritional Supplements, the standard reference in the field. ''However, since most people prefer food to pills, regularly eaten fortified foods can provide a more reliable choice for following a particular vitamin and mineral regimen.''</p>
+        <p>''In some circumstances a pill might be preferable to an enriched food to make sure a person is getting enough of a specific nutrient,'' Dr. Hendler said, ''for example, for those on restricted diets, including calorie-restricted diets,  for those with food allergies and sensitivities (like lactose intolerance) and for the elderly, who may not be able to eat enough of a particular food.'' But eating a fortified food rather than taking a pill gives the added advantage of the food's overall nutritional value, including valuable plant nutrients called phytonutrients, some of which may not even have been identified yet, as well as calories, fiber and water.</p>
+        <p>Another advantage of food over pills is that it is  difficult to get an overdose of a vitamin from a fortified food, while it is not impossible to get an overdose of, say, vitamin A from taking too large a dose in pill form.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

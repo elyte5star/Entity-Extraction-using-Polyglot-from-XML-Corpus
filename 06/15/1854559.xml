@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finally, on a Sunny Hill in Ukraine, Respect for Victims of the Nazis</title>
+    <meta content="15graves--copyblock" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/world/europe/15graves-copyblock.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854559"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="indexing_service" type="descriptor">Concentration Camps</classifier>
+        <location class="indexing_service">Gvozdavka (Ukraine)</location>
+        <location class="indexing_service">Ukraine</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Ukraine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ukraine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Concentration Camps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1DE153FF936A25755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finally, on a Sunny Hill in Ukraine, Respect for Victims of the Nazis</hl1>
+        <hl2 class="online_headline">Finally, on a Sunny Hill in Ukraine, Respect for Victims of the Nazis</hl2>
+      </hedline>
+      <abstract>
+        <p>Photos of rabbi in Gvozdavka, Ukraine, putting small cache of human bones in shallow grave; bones belonged to Jews sent to nearby Nazi concentration camp where 4,772 inmates died</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yesterday in Gvozdavka, Ukraine, Rabbi Shlomo Baksht removed a small cache of human bones from a cardboard box and placed them in a shallow grave, a hole once dug as a trench by villagers trying to thwart the advance of Nazi tanks in the early 1940s.</p>
+        <p>Thus, he said, after six decades, these Jewish victims of Nazi brutality won respect, with the recitation of Kaddish, the prayer for the dead.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yesterday in Gvozdavka, Ukraine, Rabbi Shlomo Baksht removed a small cache of human bones from a cardboard box and placed them in a shallow grave, a hole once dug as a trench by villagers trying to thwart the advance of Nazi tanks in the early 1940s.</p>
+      </block>
+      <block class="full_text">
+        <p>Yesterday in Gvozdavka, Ukraine, Rabbi Shlomo Baksht removed a small cache of human bones from a cardboard box and placed them in a shallow grave, a hole once dug as a trench by villagers trying to thwart the advance of Nazi tanks in the early 1940s.</p>
+        <p>Thus, he said, after six decades, these Jewish victims of Nazi brutality won respect, with the recitation of Kaddish, the prayer for the dead.</p>
+        <p>The bones were dug up a year ago when a utility extended gas pipes into the village, not far from Odessa, a traditional center of Jewish culture. Research into wartime archives in Moscow found that the Nazis and their Romanian allies had set up a concentration camp near this hillside, and that 4,772 inmates had died there. Even yesterday, the rabbis searched the fields again, gathering more bones for burial.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

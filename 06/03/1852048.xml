@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bill Would Force Closer Look At Plan for Natural Gas Plant</title>
+    <meta content="03weekliLI-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852048"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Liquefied Natural Gas</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Long Island (NY)</location>
+        <location class="indexing_service">Long Island Sound</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Broadwater Energy</org>
+        <person class="indexing_service">Rather, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDA1030F930A35755C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bill Would Force Closer Look At Plan for Natural Gas Plant</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN RATHER</byline>
+      <byline class="normalized_byline">Rather, John</byline>
+      <abstract>
+        <p>Bill is ontroduced in New York State Legislature that would create temporary state commission to explore financial impact on local governments of proposed Broadwater Energy liquefied natural gas plant on Long Island Sound (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A bill introduced in the state Legislature last month would create a temporary state commission to explore the financial impact on local governments of the proposed Broadwater Energy liquefied natural gas plant in Long Island Sound.</p>
+        <p>The sponsors, Senator Kenneth P. LaValle, Republican of Port Jefferson, and Assemblymen Marc S. Alessi, Democrat of Wading River, and Fred W. Thiele Jr., Republican of Sag Harbor, oppose the project and say too little is known about public costs for the police, firefighters and municipal services to protect a privately owned project and to be prepared for an accident or attack.</p>
+      </block>
+      <block class="full_text">
+        <p>A bill introduced in the state Legislature last month would create a temporary state commission to explore the financial impact on local governments of the proposed Broadwater Energy liquefied natural gas plant in Long Island Sound.</p>
+        <p>The sponsors, Senator Kenneth P. LaValle, Republican of Port Jefferson, and Assemblymen Marc S. Alessi, Democrat of Wading River, and Fred W. Thiele Jr., Republican of Sag Harbor, oppose the project and say too little is known about public costs for the police, firefighters and municipal services to protect a privately owned project and to be prepared for an accident or attack.</p>
+        <p>The county executives and assessors of Nassau, Suffolk and Westchester, state legislative leaders and the executive director of the State Office of Real Property Services would appoint the commission's 13 members.</p>
+        <p>The members would hold public hearings and make findings and recommendations within a year to Gov. Eliot Spitzer and the Legislature. The bill requires that recommendations include shifting costs from the governments to Broadwater.</p>
+        <p>Mr. Spitzer has not taken a public position on the project. It will need state approvals to go forward. Broadwater is also seeking needed approval from the Federal Energy Regulatory Commission.</p>
+        <p>Broadwater has emphasized that the proposed location of the terminal, nine miles off Long Island and 11 miles off Connecticut, increases public safety. The company has also said it would pay to maintain its own firefighting and security personnel.</p>
+        <p>John Hritcko Jr., senior vice president for Broadwater, said in an e-mail message on Wednesday that the bill was redundant because by law Broadwater was required to come up with a cost-sharing plan before the floating plant could operate. ''Safety and security costs will be borne by the project -- not local government,'' he said in the statement.</p>
+        <p>JOHN RATHER</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

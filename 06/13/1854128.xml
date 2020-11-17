@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Home Big Enough To House The Cousins</title>
+    <meta content="13bell" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/arts/television/13bell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854128"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <person class="online_producer">Perry, Tyler</person>
+        <person class="online_producer">Wilson, August</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E7D7173FF930A25755C0A9619C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Home Big Enough To House The Cousins</hl1>
+        <hl2 class="online_headline">A Home Big Enough to House the Cousins</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The setting of ''Tyler Perry's House of Payne,'' a new comedy on TBS, is a tidy ranch with black shutters and neat landscaping. The proprietor, Curtis Payne, known as Pops, is an aging firefighter who has done well enough to own a place to maintain his extended family.</p>
+        <p>The house has no cordless phone, no flat-screen television, no chrome refrigerator (TV's favorite affluence signifier), but it displays appointments detailed enough to convey that the Paynes occupy a position somewhere in the upper reaches of the working class. There are curios in the cabinets, unfussy ceramics on the console and a kitchen sprawling enough to accommodate a town hall.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tyler Perry seems to have jumped into the tub of August Wilson’s politics, aiming to convince us that the problems confronting young black men and women today are issues of skin tone, not class.</p>
+      </block>
+      <block class="full_text">
+        <p>The setting of ''Tyler Perry's House of Payne,'' a new comedy on TBS, is a tidy ranch with black shutters and neat landscaping. The proprietor, Curtis Payne, known as Pops, is an aging firefighter who has done well enough to own a place to maintain his extended family.</p>
+        <p>The house has no cordless phone, no flat-screen television, no chrome refrigerator (TV's favorite affluence signifier), but it displays appointments detailed enough to convey that the Paynes occupy a position somewhere in the upper reaches of the working class. There are curios in the cabinets, unfussy ceramics on the console and a kitchen sprawling enough to accommodate a town hall.</p>
+        <p>The show's creator, Tyler Perry, a playwright, author and filmmaker, has become one of the country's most popular chroniclers of the African-American experience, and here he seems to have jumped into the tub of August Wilson's politics, aiming to convince us that the problems confronting young black men and women today are issues of skin tone, not class.</p>
+        <p>I say that this is Mr. Perry's agenda, but I actually have no idea. His narrative aimlessness, and languorous pacing, set, incongruously, against a laugh track, suggest a shaky command of his larger purpose. But watching ''House of Payne'' does have the effect of affirming the progressiveness of a show like Norman Lear's ''Good Times,'' which seemed little more than urban minstrelsy in its day.</p>
+        <p>Set in the Chicago projects of the 1970s, Mr. Lear's series understood poverty as the great underminer of African-American advancement. Mr. Perry seems to see something wayward in the African-American soul. In as much as it has a premise, ''House of Payne'' asks us to believe that a good-tempered, attractive young mother of two, the wife of another industrious firefighter (Curtis's nephew C. J.), would turn into a crack addict prompted, seemingly, by nothing.</p>
+        <p>Beyond the odiousness of the message, Mr. Perry's tone cannot support this foray into topicality. Imagine if, say, on a sitcom like ''According to Jim,'' the patriarch started molesting the neighbor's children -- ha! ha! -- and you begin to get the idea.</p>
+        <p>Mr. Perry does seek to turn one stereotype on its head, though: the view that African-American families are imperiled by the bad habits of the men who lead them. In ''House of Payne'' the men are steadfast, committed and hard-working, and you won't find a pipe on a single one.</p>
+        <p>Tyler Perry's House of Payne  TBS, tonight at 9, Eastern and Pacific times; 8, Central time.</p>
+        <p>Created, written and directed by Tyler Perry. Executive producer, Mr. Perry. A Debmar-Mercury production.</p>
+        <p>WITH: Allen Payne (C. J. Payne), LaVan Davis (Curtis Payne), Cassi Davis (Ella Payne), Lance Gross (Calvin Payne), Larramie Doc Shaw (Malik Payne), China Anne McClain (Jazmine Payne) and Demetria McKinney (Janine Payne) .</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

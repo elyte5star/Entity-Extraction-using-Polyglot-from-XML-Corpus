@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fillies' Success Rate the Same</title>
+    <meta content="17inbox-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E7DD123FF934A25755C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fillies' Success Rate the Same</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>''In a Stirring Belmont, the Filly Beats the Fellas'' (June 10) suggested a ''dismal record'' for fillies in the Triple Crown races.</p>
+        <p>What is dismal is the number of filly entrants. Only 2.2 percent of the 1,690 Kentucky Derby entrants, 4.6 percent of 1,140 Preakness entrants and 2.2 percent of the 1,015 Belmont entrants were fillies.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>''In a Stirring Belmont, the Filly Beats the Fellas'' (June 10) suggested a ''dismal record'' for fillies in the Triple Crown races.</p>
+        <p>What is dismal is the number of filly entrants. Only 2.2 percent of the 1,690 Kentucky Derby entrants, 4.6 percent of 1,140 Preakness entrants and 2.2 percent of the 1,015 Belmont entrants were fillies.</p>
+        <p>But the success of fillies has been nearly identical to that of colts. Fillies have won the Derby (2.3 percent) and the Belmont (2.1 percent) in nearly direct proportion to the number of filly entrants (and were only slightly less likely to win the Preakness).</p>
+        <p>Another indication of success is that 7.9 percent of filly entrants (3 of 38) and 7.9 percent of colt entrants (130 of 1,652) have won the Kentucky Derby. Similarly, 13.9 percent of colts (138 of 993) and 13.6 percent of fillies (3 of 22) have won the Belmont.</p>
+        <p>The article said that before the race, Rags to Riches's trainer, Todd Pletcher, and jockey, John Velazquez, thought: Why did we run this girl against the boys when history told us it was foolish? But it is not foolish because the odds of winning with a filly are not much different from the odds of winning with a colt.</p>
+        <p>Carol J. Auster  Lancaster, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Red Hook Vendors Pressed to Get New Permit</title>
+    <meta content="06ball" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/dining/06ball.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852461"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <location class="online_producer">Red Hook (NYC)</location>
+        <org class="online_producer">Parks Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED61130F935A35755C0A9619C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Red Hook Vendors Pressed to Get New Permit</hl1>
+        <hl2 class="online_headline">Red Hook Vendors Pressed to Get New Permit</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER MEEHAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PUPUSAS, sunburns, soccer: could this be the last summer to get them all at the same place?</p>
+        <p>For years a pan-Latin group of food vendors has assembled each Saturday and Sunday at Bay and Clinton Streets in Brooklyn, drawing fans of street food from all over the city to the Red Hook Recreation Area.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Parks Department will require the pan-Latin food vendors at Bay and Clinton Streets in Brooklyn to bid for their space or risk closure.</p>
+      </block>
+      <block class="full_text">
+        <p>PUPUSAS, sunburns, soccer: could this be the last summer to get them all at the same place?</p>
+        <p>For years a pan-Latin group of food vendors has assembled each Saturday and Sunday at Bay and Clinton Streets in Brooklyn, drawing fans of street food from all over the city to the Red Hook Recreation Area.</p>
+        <p>The Food Vendors Committee, their umbrella organization, has had a series of temporary use permits, regularly renewed. But the Parks Department now says that if the vendors are to stay at the ball fields, they will need to bid for their space like vendors at other parks and have the bid accepted by the city.</p>
+        <p>Cesar Fuentes, executive director of the group, said that when he renewed the temporary permit most recently (ensuring that the vendors would be at the park through Sept. 8), he was told that he could not renew it again, even though the vendors' season usually ends in October. The news came ''like a bucket of ice water,'' he said.</p>
+        <p>Warner Johnston, chief spokesman for the Parks Department, said it was trying to apply the same rules and permits for all vendors in all parks. He said department officials hoped the vendors' group would submit a bid.</p>
+        <p>''We love these groups,'' Mr. Johnston said. ''We know what a resource they are.''</p>
+        <p>He said the organization now pays about $9,000 a season, but he had no idea how much a successful bid for a permit would cost. (Permits for hot dog stands in Central Park vary hugely, he said, depending on location: from $600 to $300,000 a season.) No other requests have been received for the space in Red Hook.</p>
+        <p>Mr. Fuentes said the vendors' worst fear was that a big company would win the bid. But of the Parks Department, he said, ''I have faith they'll do what's in the best interest of the community and what's right for the people who use the park.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

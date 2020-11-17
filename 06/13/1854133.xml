@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Fate for Rudolph House: Deal to Relocate It Collapses</title>
+    <meta content="13rudo" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/arts/design/13rudo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854133"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <person class="online_producer">Rudolph, Paul</person>
+        <person class="online_producer">Hogan, Karen</person>
+        <person class="online_producer">Sachs, Daniel</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6D7173FF930A25755C0A9619C8B63" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Fate for Rudolph House: Deal to Relocate It Collapses</hl1>
+        <hl2 class="online_headline">New Fate for Rudolph House: Deal to Relocate It Collapses</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Plans to move a 1956 house designed by Paul Rudolph from a bluff in Rhode Island rather than demolish it fell through yesterday, the parties involved said.</p>
+        <p>The house's owners, Jeffrey and Karen Hogan, who live on the West Coast, want it removed so they can build a larger vacation home on the site in Watch Hill, R.I. Daniel Sachs and Kevin Lindores, two New York designers with an enthusiasm for Rudolph's midcentury architecture, had agreed to transport the clapboard dwelling from Watch Hill to a property they own in Catskill, N.Y. The dismantling began last month.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Plans to move a 1956 house designed by Paul Rudolph from a bluff in Rhode Island rather than demolish it fell through yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>Plans to move a 1956 house designed by Paul Rudolph from a bluff in Rhode Island rather than demolish it fell through yesterday, the parties involved said.</p>
+        <p>The house's owners, Jeffrey and Karen Hogan, who live on the West Coast, want it removed so they can build a larger vacation home on the site in Watch Hill, R.I. Daniel Sachs and Kevin Lindores, two New York designers with an enthusiasm for Rudolph's midcentury architecture, had agreed to transport the clapboard dwelling from Watch Hill to a property they own in Catskill, N.Y. The dismantling began last month.</p>
+        <p>But over the last few weeks, negotiations between the Hogans and the designers grew more complicated as the two sides focused on details like liability and timing.</p>
+        <p>Still planning to proceed, Mr. Sachs said, he and Mr. Lindores went to see the house on Monday and found it irreparably damaged. He said the kitchen cabinetry had been torn out, along with the distinctive bathroom tiles and fixtures. He also said copper flashing had been removed from the house's perimeter.</p>
+        <p>''For us this seemed insane -- how could this have happened?'' Mr. Sachs said in a telephone interview. ''It's not in original condition anymore.''</p>
+        <p>But Mr. Hogan said that the house was in good condition and that the cabinets were removed by a contractor as part of the dismantling.</p>
+        <p>Despite a growing appreciation for midcentury architecture, Rudolph's buildings have been threatened lately. The Watch Hill home, known as the Cerrito House, has been praised for its flat roof, winglike extensions and the way it seems to hover above the ground. The Hogans bought it in 2000.</p>
+        <p>They had planned to donate the house to the Paul Rudolph Foundation, which would retain title but have the designers maintain it.</p>
+        <p>Mr. Sachs said the Hogans insisted on unreasonable terms in contract negotiations. ''In trying to protect themselves, they were asking for too much,'' he said.</p>
+        <p>The Hogans said they were merely asking for standard protections in case anything went wrong. ''We didn't want to get into a situation where we gifted the house, and then they didn't move it,'' Mrs. Hogan said.</p>
+        <p>Mr. Sachs said he was disappointed by the outcome, not least because he had already cleared 75 large trees on his Catskill property and had created a road to accommodate the delivery of the house. The Hogans said they, too, were disappointed. ''We thought we had found a very creative solution as to how to save the house,'' Mr. Hogan said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

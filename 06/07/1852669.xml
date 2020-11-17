@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Saloon Singer to Another, Encompassing Two Universes</title>
+    <meta content="07fein" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/arts/music/07fein.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852669"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Short, Bobby</person>
+        <person class="online_producer">Feinstein, Michael</person>
+        <person class="online_producer">Stritch, Elaine</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E6D91E30F934A35755C0A9619C8B63" item-length="427" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Saloon Singer to Another, Encompassing Two Universes</hl1>
+        <hl2 class="online_headline">One Saloon Singer to Another, Encompassing Two Universes</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Now that James Brown is gone, the designation Hardest-Working Man in Show Business is up for grabs. One candidate for the title would have to be Michael Feinstein, the multitasking singer, pianist, all-around entertainer, intrepid archivist and strict watchdog of old-guard pop traditions.</p>
+        <p>On matters relating to the Gershwins, Irving Berlin, Fred Astaire and the music of old Hollywood and Broadway, Mr. Feinstein has established himself as a final authority whose photographic memory for names, dates, obscure lyrics and below-the-title credits few would dare challenge. As a music historian alone, he is an essential national resource.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This impressive show illustrates that for all their similarities, Bobby Short and Michael Feinstein dwell in parallel musical universes that overlap tangentially.</p>
+      </block>
+      <block class="full_text">
+        <p>Now that James Brown is gone, the designation Hardest-Working Man in Show Business is up for grabs. One candidate for the title would have to be Michael Feinstein, the multitasking singer, pianist, all-around entertainer, intrepid archivist and strict watchdog of old-guard pop traditions.</p>
+        <p>On matters relating to the Gershwins, Irving Berlin, Fred Astaire and the music of old Hollywood and Broadway, Mr. Feinstein has established himself as a final authority whose photographic memory for names, dates, obscure lyrics and below-the-title credits few would dare challenge. As a music historian alone, he is an essential national resource.</p>
+        <p>In ''Celebrating Bobby Short,'' his meticulously researched, respectful homage at Feinstein's at the Regency, he turns his sights on the career of an entertainer who, until his death two years ago, was synonymous with Manhattan high life. The impressive show illustrates that for all their similarities (as singing pianists with piano-bar backgrounds) Short and Mr. Feinstein dwell in parallel musical universes that overlap tangentially.</p>
+        <p>To hear Mr. Feinstein and a small, hot pop-jazz ensemble led by John Oddo take on Mr. Short's signature songs at Tuesday's opening-night show was to find a performer bravely venturing outside his normal comfort zone into jazz and maintaining his footing.</p>
+        <p>Where Mr. Feinstein's deepest musical instincts are to deliver songs in smooth, rippling, perfectly manicured vocal and pianistic lines, Short was an ebullient jazz cutup. Where Mr. Feinstein conveys the sensibility of a dreamer yearning for a golden past, Short was a spirited party host whose playful sense of humor was in perfect sync with the loaded double-entendres of his favorite songwriter, Cole Porter.</p>
+        <p>Their differences were especially apparent on Tuesday in songs like Porter's ''Can-Can,'' Lil Green's ''Romance in the Dark'' and Groucho Marx's hilarious sideshow leer ''Lydia, the Tattooed Lady.'' Where Mr. Feinstein relished their wordplay, Mr. Short insinuated the sex behind it all.</p>
+        <p>The fundamental difference between the two universes is the space between African-American and Jewish pop traditions. Mr. Short's hi-di-ho attitude came out of Fats Waller and Eubie Blake. Mr. Feinstein's sleeker pop-jazz is descended from George Gershwin.</p>
+        <p>Each night of the engagement, which runs through June 16, a special guest appears for one number. On Tuesday, Mr. Feinstein and Elaine Stritch interwove the ''Bobby babies'' lyrics from a fragment of ''Company'' with the Gershwin-Gus Kahn song ''Feeling Sentimental,'' into a wistful personal tribute to the ''Bobby baby'' who is deeply missed.</p>
+        <p>Michael Feinstein's ''Celebrating Bobby Short'' continues through June 16 at Feinstein's at the Regency, 540 Park Avenue, at 61st Street; feinsteinsattheregency.com; (212) 339-4095.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

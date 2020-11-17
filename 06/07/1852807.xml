@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Spain: A Madrid Terror Defendant Is Freed</title>
+    <meta content="07briefs-5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Spain</location>
+        <location class="indexing_service">Madrid (Spain)</location>
+        <person class="indexing_service">Moussaten, Brahim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain/Madrid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E2D61E30F934A35755C0A9619C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Spain: A Madrid Terror Defendant Is Freed</hl1>
+      </hedline>
+      <abstract>
+        <p>CNN reports that, Brahim Moussaten, one of 29 defendants in Madrid train bombings trial, is cleared of all charges and is free; prosecutors drop all charges against him for lack of evidence; he was accused of having helped two suspects escape after 2004 attacks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the 29 defendants in the Madrid train bombings trial has been cleared of all charges and is a free man, CNN reported on its Web site, citing his lawyer and a court spokeswoman. It said prosecutors had dropped all charges against the Moroccan-born defendant, Brahim Moussaten, 23, for lack of evidence. He was accused of having helped two suspects escape after the 2004 attacks, one who is now a defendant in the trial and another who is believed to have died in Iraq as a suicide bomber. Mr. Moussaten's brother and an uncle remain on trial.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the 29 defendants in the Madrid train bombings trial has been cleared of all charges and is a free man, CNN reported on its Web site, citing his lawyer and a court spokeswoman. It said prosecutors had dropped all charges against the Moroccan-born defendant, Brahim Moussaten, 23, for lack of evidence. He was accused of having helped two suspects escape after the 2004 attacks, one who is now a defendant in the trial and another who is believed to have died in Iraq as a suicide bomber. Mr. Moussaten's brother and an uncle remain on trial.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

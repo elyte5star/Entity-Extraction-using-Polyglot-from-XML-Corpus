@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Venice. Art. Ubiquitous.</title>
+    <meta content="17veni" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/arts/design/17veni.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854973"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Venice Biennale</classifier>
+        <person class="indexing_service">Kennedy, Randy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Venice Biennale</classifier>
+        <classifier class="online_producer" type="general_descriptor">Venice Biennale</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <person class="online_producer">Kennedy, Randy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2D7173FF934A25755C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Venice. Art. Ubiquitous.</hl1>
+        <hl2 class="online_headline">Venice. Art. Ubiquitous.</hl2>
+      </hedline>
+      <byline class="print_byline">By RANDY KENNEDY</byline>
+      <byline class="normalized_byline">Kennedy, Randy</byline>
+      <abstract>
+        <p>Article on 52nd Venice Biennale discusses eight art works from show; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''The mere use of one's eyes in Venice is happiness enough.''</p>
+        <p>-- Henry James, ''Italian Hours.''</p>
+        <p>VENICE is a city virtually upholstered with masterpieces, and during the 52nd Biennale, which began June 10 and includes 76 countries, hundreds of artists and too many satellite events to count or see, official-art-world fatigue could set in quickly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With so much contemporary art on view at the Biennale, a city of the Byzantine, the Baroque and the Gothic can even give itself over to a more modern view.</p>
+      </block>
+      <block class="full_text">
+        <p>''The mere use of one's eyes in Venice is happiness enough.''</p>
+        <p>-- Henry James, ''Italian Hours.''</p>
+        <p>VENICE is a city virtually upholstered with masterpieces, and during the 52nd Biennale, which began June 10 and includes 76 countries, hundreds of artists and too many satellite events to count or see, official-art-world fatigue could set in quickly.</p>
+        <p>One way to alleviate it is to follow the advice of honorary Venetians like James, who counseled simply looking at the city itself, that ''vast museum where the little wicket that admits you is perpetually turning and creaking.''</p>
+        <p>Around the corner of almost every campo and palazzo are works of art, readymades created by time and chance, burnished by decay. With so much contemporary art on view, a city of the Byzantine, the Baroque and the Gothic can even give itself over to a more modern view.</p>
+        <p>A tablecloth flapping from a clothesline can stand in for a Jasper Johns target. A tacked-up sign at a cemetery counseling female mourners to dress demurely can conjure Rauschenberg. An ancient fountain and coiled water hose near St. Mark's square can be a Joseph Beuys or a companion piece to a brand-new work on view at the Biennale by Bruce Nauman, in which reversed molds of human heads spout water into utility sinks below.</p>
+        <p>It's a great game to play in a city that has rewarded close attention for centuries. ''She has a thousand occasional graces and is always liable to happy accidents,'' James wrote. ''You become extraordinarily fond of these things; you count upon them; they make part of your life.''</p>
+        <p>RANDY KENNEDY</p>
+        <p>ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

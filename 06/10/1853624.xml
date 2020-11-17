@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gray Holmes, William Hughes</title>
+    <meta content="10holmes" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10holmes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853624"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Holmes, Gray Rothwell (Gray Rothwell Hughes)</person>
+        <person class="indexing_service">Hughes, William Sherman</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFD71F30F933A25755C0A9619C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gray Holmes, William Hughes</hl1>
+        <hl2 class="online_headline">Gray Holmes, William Hughes</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gray Rothwell Holmes, the daughter of Joan Rothwell Holmes and Andrew Scott Holmes of Bryn Mawr, Pa., was married last evening to William Sherman Hughes, the son of Dr. Bess Dawson-Hughes and James Sherman Hughes of Boston. The Rev. F. Washington Jarvis III performed the ceremony at St. Paul's Episcopal Church in the Chestnut Hill section of Philadelphia.</p>
+        <p>Mrs. Hughes, 28, is an associate at iStar Financial, a real estate finance company in New York, where she underwrites commercial loans. She graduated from Cornell and has an M.B.A. from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gray Rothwell Holmes, the daughter of Joan Rothwell Holmes and Andrew Scott Holmes of Bryn Mawr, Pa., was married last evening to William Sherman Hughes, the son of Dr. Bess Dawson-Hughes and James Sherman Hughes of Boston. The Rev. F. Washington Jarvis III performed the ceremony at St. Paul’s Episcopal Church in the Chestnut Hill section of Philadelphia.</p>
+      </block>
+      <block class="full_text">
+        <p>Gray Rothwell Holmes, the daughter of Joan Rothwell Holmes and Andrew Scott Holmes of Bryn Mawr, Pa., was married last evening to William Sherman Hughes, the son of Dr. Bess Dawson-Hughes and James Sherman Hughes of Boston. The Rev. F. Washington Jarvis III performed the ceremony at St. Paul's Episcopal Church in the Chestnut Hill section of Philadelphia.</p>
+        <p>Mrs. Hughes, 28, is an associate at iStar Financial, a real estate finance company in New York, where she underwrites commercial loans. She graduated from Cornell and has an M.B.A. from Harvard.</p>
+        <p>Her father is a consultant based in Radnor, Pa., who works with new companies seeking to develop information systems that prevent medical errors in hospitals. Her mother is a sales representative for Craig Drake Manufacturing, a jewelry manufacturer in Philadelphia.</p>
+        <p>Mr. Hughes, 28, is an associate at Summit Partners, an investment firm in Boston. In September, he is to begin studying for an M.B.A. at Harvard.</p>
+        <p>His mother is a professor of medicine and director of the bone metabolism laboratory at the Agriculture Department's Human Nutrition Research Center on Aging, at Tufts University in Boston. His father also works in Boston, where he is a partner in the Buenos Aires Real Estate Company, which specializes in Latin American investments.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

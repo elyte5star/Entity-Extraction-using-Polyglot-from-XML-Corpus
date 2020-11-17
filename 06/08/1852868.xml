@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SPARE TIMES: June 8 - June 14; WALK ON WHITE STREET</title>
+    <meta content="08bspare" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852868"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E5DE1F30F93BA35755C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SPARE TIMES: June 8 - June 14; WALK ON WHITE STREET</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVEN McELROY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A spring weekend in the city offers such a smorgasbord that choosing what to do seems impossible, so here's a simple option: Show up tomorrow at 11 a.m. on the corner of White and Lafayette Streets in TriBeCa. You will be able to spend the entire day (but very little money) at the quarter-mile stretch of White Street to West Broadway, where neighborhood arts organizations and businesses are offering free performances, workshops and lectures.</p>
+        <p>The event, the second annual Walk on White Street, has options including hip-hop, modern dance and ballet classes at Battery Dance Company, a show at the Manhattan Children's Theater, above, and a demonstration of neon-sign-making at Let There Be Neon. Several restaurants will offer discounts, too.</p>
+      </block>
+      <block class="full_text">
+        <p>A spring weekend in the city offers such a smorgasbord that choosing what to do seems impossible, so here's a simple option: Show up tomorrow at 11 a.m. on the corner of White and Lafayette Streets in TriBeCa. You will be able to spend the entire day (but very little money) at the quarter-mile stretch of White Street to West Broadway, where neighborhood arts organizations and businesses are offering free performances, workshops and lectures.</p>
+        <p>The event, the second annual Walk on White Street, has options including hip-hop, modern dance and ballet classes at Battery Dance Company, a show at the Manhattan Children's Theater, above, and a demonstration of neon-sign-making at Let There Be Neon. Several restaurants will offer discounts, too.</p>
+        <p>''When you have the time in New York to explore what's off the beaten track, you're always rewarded,'' said Jonathan Hollander, the founder and artistic director of Battery Dance. Mr. Hollander's dance company collaborated with the Blue Coyote Theater Group and Access Theater, Manhattan Children's Theater and SoHo Photo Gallery to create the event, which is financed partly by the Lower Manhattan Cultural Council.</p>
+        <p>Michele Felicetta, the project organizer, said this year's Walk on White Street will feature a larger assortment of businesses and events than last year's, in an effort to highlight a vibrant neighborhood that has not been fully discovered by New Yorkers. ''When we have Starbucks on every corner in the city, it's truly unique to have such a wide range of businesses, specialty shops and arts organizations,'' Ms. Felicetta said. ''That is something I wanted to make known.'' (Tomorrow from 11 a.m. to 11 p.m., White Street from Lafayette Street to West Broadway, walkonwhite.org.)</p>
+        <p>STEVEN McELROY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

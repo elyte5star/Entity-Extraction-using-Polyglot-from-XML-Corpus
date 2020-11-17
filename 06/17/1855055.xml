@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Freedom to Want</title>
+    <meta content="17WEdorf" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855055"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beggars</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New Rochelle (NY)</location>
+        <person class="indexing_service">Hoffstead, Eric</person>
+        <person class="indexing_service">Dorf, Michael C (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beggars</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5D6143FF934A25755C0A9619C8B63" item-length="668" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Freedom to Want</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael C. Dorf</byline>
+      <byline class="normalized_byline">Dorf, Michael C (Prof)</byline>
+      <abstract>
+        <p>Op-Ed article by Columbia law Prof Michael Dorf, noting that homeless panhandler Eric Hoffstead has won case against New Rochelle on ground that asking for money is form of free speech, holds simpler and more democratic solution would be for New York State Legislature to repeal anti-begging law (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN Eric Hoffstead, a homeless panhandler, asked a New Rochelle police officer for a dollar, he was promptly arrested for violating the state loitering law, which prohibits begging. But Mr. Hoffstead took issue with the charge, asking his court-appointed lawyer to challenge his arrest on the ground that asking for money is a form of speech protected by the First Amendment.</p>
+        <p>Last month, he won his case. Judge Gail Rice of City Court dismissed the indictment, as well as a charge for possession of drugs, which the police would not have found on Mr. Hoffstead if he hadn't been detained for panhandling.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN Eric Hoffstead, a homeless panhandler, asked a New Rochelle police officer for a dollar, he was promptly arrested for violating the state loitering law, which prohibits begging. But Mr. Hoffstead took issue with the charge, asking his court-appointed lawyer to challenge his arrest on the ground that asking for money is a form of speech protected by the First Amendment.</p>
+        <p>Last month, he won his case. Judge Gail Rice of City Court dismissed the indictment, as well as a charge for possession of drugs, which the police would not have found on Mr. Hoffstead if he hadn't been detained for panhandling.</p>
+        <p>Unfortunately, that is not the end of the matter, not only because the state may appeal the case but also because police officers throughout the state frequently arrest panhandlers -- nearly 2,400 in the past decade. Even in New York City, where a federal appeals court specifically invalidated the loitering law nearly 14 years ago, the police have continued to enforce it, prompting more lawsuits against the city.</p>
+        <p>Further appeals, perhaps even to the United States Supreme Court, would clarify the legal status of the begging prohibition, but that could take years. A simpler and more democratic solution would be for the New York State Legislature simply to repeal the law. Peaceful begging may be a nuisance but it poses no public danger. Moreover, a beggar's extended hand communicates a constitutionally protected message, even if it is one that many passers-by might rather avoid.</p>
+        <p>New York has prohibited loitering since Colonial times. The current version of the state law brands as a criminal anyone who ''loiters, remains or wanders about in a public place for the purpose of begging.'' The first significant legal challenge to this provision came in 1990, when two indigents, Jennifer Loper and William Kaye, brought a federal class action lawsuit against the New York Police Department. The judge ruled in their favor in 1992, and a year later the federal appeals court affirmed that victory.</p>
+        <p>The appeals court opinion declared that peaceful begging is a form of speech protected by the First Amendment and that while the police are entitled to protect the public from aggressive panhandling and begging in enclosed spaces like the subways, the blanket prohibition on begging is too broad.</p>
+        <p>Because lower federal court decisions are not binding on state courts, however, the 1993 class action ruling applied only to enforcement in New York City. Needless to say, the possibility that a law might be found unconstitutional in federal court and constitutional in state court can lead to confusion, even chaos.</p>
+        <p>Yet the problem with the law is quite simple. Just as the peaceful solicitation of funds for charitable organizations is a form of free expression -- as the United States Supreme Court has repeatedly held -- a beggar's peaceful solicitation of funds for his own use is a form of speech. No principled distinction can be drawn between the two.</p>
+        <p>The blanket prohibition on begging is also unnecessary. In its defense against the earlier class action, the New York Police Department cited the theory fashionable at the time that low-level signs of disorder -- things like broken windows, graffiti and begging -- breed more serious crime. The federal courts rejected the argument in the begging context then, and subsequent events have shown that whatever truth there may be to the ''broken windows'' theory when it comes to subway fare-beating and ''squeegee men,'' overly broad loitering laws are not needed to maintain public order.</p>
+        <p>After the United States Supreme Court rejected a broken windows argument in a 1999 case involving Chicago's gang loitering ordinance, the nationwide decline in violent crime continued for several years.</p>
+        <p>By invoking a law that was long ago declared unconstitutional in federal court, the prosecutors of Eric Hoffstead risk fomenting friction between federal and state courts and statewide confusion. The Legislature should avoid these evils and, more important, vindicate the First Amendment by repealing the anti-begging law. No court would be entitled to second-guess that decision.</p>
+        <p>Michael C. Dorf, a law professor at Columbia, is the author of ''No Litmus Test: Law Versus Politics in the 21st Century.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Michael C. Dorf, a law professor at Columbia, is the author of ''No Litmus Test: Law Versus Politics in the 21st Century.''</tagline>
+    </body.end>
+  </body>
+</nitf>

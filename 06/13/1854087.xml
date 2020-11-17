@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  MASTELLONE, GEORGE J., M.D.</title>
+    <meta content="dn061307" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854087"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MASTELLONE, GEORGE J., M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E2D8143AF930A25755C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  MASTELLONE, GEORGE J., M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MASTELLONE--George J., M.D. He was born on March 19, 1914, in Manhattan, son of Antonio Mastellone and Flavia Franco Mastellone. He is survived by his beloved wife of 57 years, Florence Rasero Mastellone, of Williamstown, MA, his son George, of Arlington, MA, daughter Flavia, of New Ashford, MA, and three grandchildren, Nicholas, Emily and Michela. Predeceased by sisters Anne and Josephine, he is survived by his brother, Louis. He attended Brooklyn Technical High School, New York University and New York Medical College, graduating in 1939. He received his post graduate training at St. Peter's Hospital, Harlem Hospital, and the City Hospital of New York. He served in the Army Air Force from 1942 to 1946 as a Flight Surgeon and was discharged honorably with the rank of Major. He practiced Obstetrics and Gynecology for many years in Brooklyn, retiring in 1990 and had been Attending Physician at numerous hospitals including Kings County Hospital, Long Island College Hospital, Lutheran Hospital, and Victory Memorial Hospital. He served as President of the Medical Staff at Victory Memorial Hospital and as President of the Bay Ridge Medical Society. In 1999 he was honored by Senator Vincent J. Gentile in recognition of outstanding service to the community. There will be a mass at St. Ephrem's Church on Fort Hamilton Parkway at Bay Ridge Parkway at 10:30 a.m. on Thursday June 14th. Burial to follow at St. John's Cemetery. No flowers please.</p>
+      </block>
+      <block class="full_text">
+        <p>MASTELLONE--George J., M.D. He was born on March 19, 1914, in Manhattan, son of Antonio Mastellone and Flavia Franco Mastellone. He is survived by his beloved wife of 57 years, Florence Rasero Mastellone, of Williamstown, MA, his son George, of Arlington, MA, daughter Flavia, of New Ashford, MA, and three grandchildren, Nicholas, Emily and Michela. Predeceased by sisters Anne and Josephine, he is survived by his brother, Louis. He attended Brooklyn Technical High School, New York University and New York Medical College, graduating in 1939. He received his post graduate training at St. Peter's Hospital, Harlem Hospital, and the City Hospital of New York. He served in the Army Air Force from 1942 to 1946 as a Flight Surgeon and was discharged honorably with the rank of Major. He practiced Obstetrics and Gynecology for many years in Brooklyn, retiring in 1990 and had been Attending Physician at numerous hospitals including Kings County Hospital, Long Island College Hospital, Lutheran Hospital, and Victory Memorial Hospital. He served as President of the Medical Staff at Victory Memorial Hospital and as President of the Bay Ridge Medical Society. In 1999 he was honored by Senator Vincent J. Gentile in recognition of outstanding service to the community. There will be a mass at St. Ephrem's Church on Fort Hamilton Parkway at Bay Ridge Parkway at 10:30 a.m. on Thursday June 14th. Burial to follow at St. John's Cemetery. No flowers please.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

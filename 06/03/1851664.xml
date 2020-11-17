@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The End</title>
+    <meta content="Letters.t-5" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851664"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFDB1730F930A35755C0A9619C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The End</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>John Green, in his review of Chris Raschka's ''Purple Balloon'' (May 13), recalls that colleagues at a children's hospital once told him ''that children were 'better' at dying than adults,'' but adds: ''I never saw it. The death I saw was painful.'' As a child life specialist working in a children's hospital, I can't imagine the death of a child as anything but difficult. However, I think Green may have misunderstood his colleagues.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>John Green, in his review of Chris Raschka's ''Purple Balloon'' (May 13), recalls that colleagues at a children's hospital once told him ''that children were 'better' at dying than adults,'' but adds: ''I never saw it. The death I saw was painful.'' As a child life specialist working in a children's hospital, I can't imagine the death of a child as anything but difficult. However, I think Green may have misunderstood his colleagues.</p>
+        <p>It's not that children are ''better'' at dying than adults. But when faced with their own mortality, some children seem to have a better understanding of the circumstances than we would expect.</p>
+        <p>Green seems to have wanted ''The Purple Balloon'' to be the definitive resource that would ''tell this true, hard story.'' But books are never meant to answer all questions or solve all problems. Reading a book, especially one about death and dying, is designed to be the first step. Like dying, understanding death is a process. Books like this one can help adults introduce the concept of death to a child in the least threatening way. After that, it is up to the child where the conversation will go. It is our job to nurture them, support them and help them understand what lies ahead.</p>
+        <p>Laura Mitchell  Newark, Del.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

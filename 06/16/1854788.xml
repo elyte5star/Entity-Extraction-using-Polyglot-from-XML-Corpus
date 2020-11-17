@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Disease Prevention</title>
+    <meta content="l16health" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <person class="indexing_service">Norton, Larry (Dr)</person>
+        <person class="indexing_service">Gawande, Atul (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE3D8153FF935A25755C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Disease Prevention</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Larry Norton letter holds that ratio between what Americans spend on health care and what they spend on finding out how to better manage, cure and prevent disease is shortsighted, self-destructive and morally irresponsible (Atul Gawande May 31 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Atul Gawande's superb May 31 column, ''The Obama Health Plan,'' highlights correctable deficiencies in United States health care delivery and the need for political leadership as well as wisdom to correct them.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Atul Gawande's superb May 31 column, ''The Obama Health Plan,'' highlights correctable deficiencies in United States health care delivery and the need for political leadership as well as wisdom to correct them.</p>
+        <p>To this I would add that health care spending without adequate provision for basic and applied medical research is like buying buckets for a leaking roof rather than finding out how to fix the leaks.</p>
+        <p>The astonishing ratio between what Americans -- through government, industry and philanthropy -- spend on health care and what they spend on finding out how to better manage, cure and prevent disease is shortsighted, self-destructive and morally as well as practically irresponsible.</p>
+        <p>Larry Norton, M.D.  New York, May 31, 2007</p>
+        <p>The writer is deputy physician-in-chief for breast cancer programs, Memorial Sloan-Kettering Cancer Center, and scientific director, Breast Cancer Research Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

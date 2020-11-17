@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Maya Rabinovitch, Eric Fishman</title>
+    <meta content="17Rabinovitch" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17Rabinovitch.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855142"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Rabinovitch, Maya (Maya Fishman)</person>
+        <person class="indexing_service">Fishman, Eric Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DA153FF934A25755C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Maya Rabinovitch, Eric Fishman</hl1>
+        <hl2 class="online_headline">Maya Rabinovitch, Eric Fishman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maya Rabinovitch, a daughter of Marianna and Edward Rabinovitch of Upper Saddle River, N.J., and Eric Matthew Fishman, the son of Helene and Sandy Fishman of Springfield, N.J., were married last evening at the Hilton Pearl River in Pearl River, N.Y. Rabbi Stanley Skolnik officiated.</p>
+        <p>Mrs. Fishman, 27, is an associate in the investment management group at Seward &amp; Kissel, a New York law firm. She graduated with distinction from Cornell and received a law degree from Fordham.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Maya Rabinovitch, a daughter of Marianna and Edward Rabinovitch of Upper Saddle River, N.J., and Eric Matthew Fishman, the son of Helene and Sandy Fishman of Springfield, N.J., were married last evening at the Hilton Pearl River in Pearl River, N.Y. Rabbi Stanley Skolnik officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Maya Rabinovitch, a daughter of Marianna and Edward Rabinovitch of Upper Saddle River, N.J., and Eric Matthew Fishman, the son of Helene and Sandy Fishman of Springfield, N.J., were married last evening at the Hilton Pearl River in Pearl River, N.Y. Rabbi Stanley Skolnik officiated.</p>
+        <p>Mrs. Fishman, 27, is an associate in the investment management group at Seward &amp; Kissel, a New York law firm. She graduated with distinction from Cornell and received a law degree from Fordham.</p>
+        <p>Her father is a feature editor for IEEE Communications Magazine, a monthly publication of the Institute of Electrical and Electronic Engineers. He is also a computer and data communications consultant based in Totowa, N.J. Her mother is the president of ECI Technology in Totowa, a manufacturer of chemical monitoring systems for the semiconductor industry.</p>
+        <p>Mr. Fishman, 27, is a litigation associate at Milbank, Tweed, Hadley &amp; McCloy, the New York law firm. He graduated cum laude from Bucknell University and received his law degree with honors from George Washington University. His mother is a saleswoman with Complements Two, a women's clothing shop in Livingston, N.J. His father is an owner of J &amp; S Food Brokers in Edison, N.J., a manufacturers' representative for food producers selling to wholesalers.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

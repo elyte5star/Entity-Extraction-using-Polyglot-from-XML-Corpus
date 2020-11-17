@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mariam and Laila</title>
+    <meta content="See.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="58" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/books/review/See-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851622"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Hosseini, Khaled</person>
+        <object.title class="online_producer">Thousand Splendid Suns, A (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EED61630F930A35755C0A9619C8B63" item-length="620" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mariam and Laila</hl1>
+        <hl2 class="online_headline">Mariam and Laila</hl2>
+      </hedline>
+      <byline class="print_byline">By LISA SEE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A THOUSAND SPLENDID SUNS</p>
+        <p>By Khaled Hosseini.</p>
+        <p>372 pp. Riverhead Books.</p>
+        <p>$25.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In this novel by the author of “The Kite Runner,” an Afghan man’s two wives form a deep bond.</p>
+      </block>
+      <block class="full_text">
+        <p>A THOUSAND SPLENDID SUNS</p>
+        <p>By Khaled Hosseini.</p>
+        <p>372 pp. Riverhead Books.</p>
+        <p>$25.95.</p>
+        <p>KHALED HOSSEINI'S first book, ''The Kite Runner'' (2003), spent more than two years on best-seller lists in the United States. More than four million copies are in print, and a movie adaptation is also in the works. After such success and fame, some writers might have postponed the challenge of a second novel, preferring to collect their royalty checks and not tempt fate or a backlash. Some might have rushed into print with something, anything, to cash in on their newfound visibility. And some might not have had anything more to say. Hosseini doesn't fit any of these categories.</p>
+        <p>His second novel, ''A Thousand Splendid Suns,'' is an ambitious work. Once again the setting is Afghanistan, but this time he has taken the last 33 years of that country's tumultuous history of war and oppression and told it on an intimate scale, through the lives of two women.</p>
+        <p>Mariam is an illegitimate child whose resentful mother eats away at her daughter's essential good nature by offering only bitter advice. (''Like a compass needle that points north,'' mother tells daughter, ''a man's accusing finger always finds a woman.'') For Mariam's mother, a woman need only endure.</p>
+        <p>At 15, Mariam is married off to a 45-year-old shoemaker with a hooked nose, bloodshot eyes, bad teeth and nails yellow-brown ''like the inside of a rotting apple.'' He starts out merely brutish, but after Mariam fails to bear him children, he becomes gruff and psychologically abusive, insisting she wear a burqa and chew pebbles until her teeth break.</p>
+        <p>Like Mariam's, Laila's life is also a lesson in endurance. The daughter of an intellectual father and a mentally unbalanced mother, Laila loves a neighbor boy who has lost a leg to a land mine. When he and his parents flee to Pakistan to escape the fighting between mujahedeen factions and nearly everyone she knows is killed by a stray rocket, Laila is 14 and pregnant with her boyfriend's child. She reluctantly agrees to become the second wife of the shoemaker, who is now in his 60s and hardly mellowed with age.</p>
+        <p>Hosseini alternates between Mariam's and Laila's voices to tell of the friendship between these two desperate women. Inevitably, Mariam's mother's warnings are borne out: the women must find reservoirs of strength just to survive. In a particularly harrowing scene, Laila undergoes a Caesarean section without anesthetic. And soon one man after another -- whether husband, Taliban mullah or border guard -- points an accusing finger at the two women, with terrifying results.</p>
+        <p>Hosseini doesn't seem entirely comfortable writing about the inner lives of women and often resorts to stock phrases. When Laila's boyfriend kisses her, she feels her ''heart pounding in her throat ... a fire burning in the pit of her belly.'' At the same time, with the exception of Laila's absent lover, the male characters seem either unrelentingly evil or pathetically weak. If a woman wrote these things about her male characters, she would probably be labeled a man-hater. Though fascinating, the historical background -- the Soviet invasion, the mujahedeen, internecine tribal warfare -- isn't always well integrated into the plot. And the transitions between Mariam's and Laila's perspectives can be bumpy.</p>
+        <p>Yet Hosseini succeeds in carrying readers along because he understands the power of emotion as few other popular writers do. As he did in ''The Kite Runner,'' he uses a melodramatic plot to convey vividly the many aspects of love and the ways people sacrifice themselves for those they hold dear. With ''A Thousand Splendid Suns,'' Hosseini has shown that he doesn't intend to be a one-hit wonder. It will be interesting to see where he goes from here.</p>
+        <p>Lisa See's new novel, ''Peony in Love,'' will be published in June.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Lisa See's new novel, ''Peony in Love,'' will be published in June.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Agreement With Metro-North Workers</title>
+    <meta content="13mbrfs-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854264"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2DE143FF930A25755C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Agreement With Metro-North Workers</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Transportation Authority appeared to have averted a possible summer strike on the Metro-North Railroad with the announcement yesterday of agreement on a new contract with the Teamsters Union, which represents track workers. It was the last of a series of union-authority agreements this year. Representatives of the authority and the union refused to disclose the terms of the agreement, which runs through mid-2010. Chris Silvera, secretary-treasurer of Teamsters Local 808, predicted that the local's 600 members would ratify the agreement this month. Mr. Silvera and the authority's executive director and chief executive, Elliot G. Sander, above, made the announcement at a news conference at Grand Central Terminal. Under federal rules that govern commuter railroads, the Teamsters could have gone on strike in July.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Transportation Authority appeared to have averted a possible summer strike on the Metro-North Railroad with the announcement yesterday of agreement on a new contract with the Teamsters Union, which represents track workers. It was the last of a series of union-authority agreements this year. Representatives of the authority and the union refused to disclose the terms of the agreement, which runs through mid-2010. Chris Silvera, secretary-treasurer of Teamsters Local 808, predicted that the local's 600 members would ratify the agreement this month. Mr. Silvera and the authority's executive director and chief executive, Elliot G. Sander, above, made the announcement at a news conference at Grand Central Terminal. Under federal rules that govern commuter railroads, the Teamsters could have gone on strike in July.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

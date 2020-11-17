@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eat Locally, Act Globally</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853428"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDF1030F933A25755C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eat Locally, Act Globally</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Corby Kummer's review of Barbara Kingsolver's ''Animal, Vegetable, Miracle'' (May 20) missed the point that the book not only offers ways American families can make food decisions in their daily lives, but also helps them think about how those decisions affect the rest of the world. Industrial farming and food aid can have disastrous effects on developing countries. While food aid and imported food purport to address the problem of hunger, they often exacerbate it by crippling local agriculture's ability to compete and be profitable. Sustainable agriculture, on the other hand, provides a long-term solution that addresses both hunger and its root cause, poverty.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Corby Kummer's review of Barbara Kingsolver's ''Animal, Vegetable, Miracle'' (May 20) missed the point that the book not only offers ways American families can make food decisions in their daily lives, but also helps them think about how those decisions affect the rest of the world. Industrial farming and food aid can have disastrous effects on developing countries. While food aid and imported food purport to address the problem of hunger, they often exacerbate it by crippling local agriculture's ability to compete and be profitable. Sustainable agriculture, on the other hand, provides a long-term solution that addresses both hunger and its root cause, poverty.</p>
+        <p>Karen Ashmore  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

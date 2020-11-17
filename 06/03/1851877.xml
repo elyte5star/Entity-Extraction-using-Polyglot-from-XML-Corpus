@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LaTasha White, Leland Richards Jr.</title>
+    <meta content="03WHITE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03WHITE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851877"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">White, LaTasha (LaTasha Richards)</person>
+        <person class="indexing_service">Jr., Richards Leland</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5DA1230F930A35755C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LaTasha White, Leland Richards Jr.</hl1>
+        <hl2 class="online_headline">LaTasha White and Leland Richards Jr.</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LaTasha White and Leland Richards Jr. were married last evening at Belle Voir Manor in Bensalem, Pa. The Rev. William Lee, a Baptist minister, officiated.</p>
+        <p>Mrs. Richards, 27, is a vice president for stock sales at Goldman Sachs in New York. She graduated from the University of Virginia. Her mother, Dr. LaLura White of Chicago, is an obstetrician and gynecologist at Mercy Hospital there.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>LaTasha White and Leland Richards Jr. were married Saturday evening at Belle Voir Manor in Bensalem, Pa. The Rev. William Lee, a Baptist minister, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>LaTasha White and Leland Richards Jr. were married last evening at Belle Voir Manor in Bensalem, Pa. The Rev. William Lee, a Baptist minister, officiated.</p>
+        <p>Mrs. Richards, 27, is a vice president for stock sales at Goldman Sachs in New York. She graduated from the University of Virginia. Her mother, Dr. LaLura White of Chicago, is an obstetrician and gynecologist at Mercy Hospital there.</p>
+        <p>Mr. Richards, 37, is an investment banking consultant for D. B. Zwirn &amp; Company, a hedge fund in New York. He graduated from Pratt Institute, and received an M.B.A. from Boston University. His mother, Rhoda Johnson of Boston, is a manager of the AIDS Program for the Boston Public Health Commission.</p>
+        <p>The bridegroom's first marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

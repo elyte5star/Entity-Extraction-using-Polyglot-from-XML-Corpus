@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="16golf--refer" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854804"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0D8153FF935A25755C0A9619C8B63" item-length="332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rugged Course Shakes Up the Leader Board  Phil Mickelson, standing at left, stuck in the rough at Oakmont Country Club, missed the cut yesterday at the United States Open. Ángel Cabrera, who has never won a PGA Tour event, was the leader after two rounds.</p>
+        <p>PAGE D1</p>
+        <p>Brutal Work at China's Kilns  News reports of forced labor at a northern province's brick kilns have swept China in an unfolding scandal that involves the kidnapping of hundreds of children.</p>
+        <p>PAGE A3</p>
+        <p>The Great Wide Classroom  Eighth graders from Newark, whose playground is a paved courtyard, spend three days at a Catskill camp in a last hurrah before high school.</p>
+        <p>PAGE B1</p>
+        <p>The Luckiest People  Barbra Streisand is touring Europe with New York freelance musicians, who get a plum job. And the tour is also good news for musicians left behind.</p>
+        <p>THE ARTS, PAGE B7</p>
+        <p>Groups Rallied to Revive Immigration Legislation  After a comprehensive immigration bill was pulled from the Senate floor, advocates rallied behind it. Within 24 hours, the Roman Catholic Church and many business, labor and Hispanic groups were urging the Senate to resurrect it. While they had all complained about various provisions of the measure, they did not want it to die.</p>
+        <p>PAGE A9</p>
+        <p>Gas Prices Up; Wages Down  Americans faced higher gas prices and eroding wages last month, even as an important gauge of inflation drifted lower, a government report said.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Mets Beat Yanks and Clemens  Roger Clemens pitched well, but Oliver Pérez was even better last night as the Mets defeated the Yankees, 2-0.</p>
+        <p>SPORTSSATURDAY, PAGE D1</p>
+        <p>THIS WEEKEND</p>
+        <p>Killing Pain or Selling Drugs?  Pain is hard to measure, and those who treat it have to make subjective decisions about dosage levels. When a doctor gets it wrong, is it a mistake or a felony?</p>
+        <p>MAGAZINE</p>
+        <p>Not in My Front Yard  On West 15th Street, a new condo with a terrace over the building next door is drawing fire.</p>
+        <p>REAL ESTATE</p>
+      </block>
+      <block class="full_text">
+        <p>Rugged Course Shakes Up the Leader Board  Phil Mickelson, standing at left, stuck in the rough at Oakmont Country Club, missed the cut yesterday at the United States Open. Ángel Cabrera, who has never won a PGA Tour event, was the leader after two rounds.</p>
+        <p>PAGE D1</p>
+        <p>Brutal Work at China's Kilns  News reports of forced labor at a northern province's brick kilns have swept China in an unfolding scandal that involves the kidnapping of hundreds of children.</p>
+        <p>PAGE A3</p>
+        <p>The Great Wide Classroom  Eighth graders from Newark, whose playground is a paved courtyard, spend three days at a Catskill camp in a last hurrah before high school.</p>
+        <p>PAGE B1</p>
+        <p>The Luckiest People  Barbra Streisand is touring Europe with New York freelance musicians, who get a plum job. And the tour is also good news for musicians left behind.</p>
+        <p>THE ARTS, PAGE B7</p>
+        <p>Groups Rallied to Revive Immigration Legislation  After a comprehensive immigration bill was pulled from the Senate floor, advocates rallied behind it. Within 24 hours, the Roman Catholic Church and many business, labor and Hispanic groups were urging the Senate to resurrect it. While they had all complained about various provisions of the measure, they did not want it to die.</p>
+        <p>PAGE A9</p>
+        <p>Gas Prices Up; Wages Down  Americans faced higher gas prices and eroding wages last month, even as an important gauge of inflation drifted lower, a government report said.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Mets Beat Yanks and Clemens  Roger Clemens pitched well, but Oliver Pérez was even better last night as the Mets defeated the Yankees, 2-0.</p>
+        <p>SPORTSSATURDAY, PAGE D1</p>
+        <p>THIS WEEKEND</p>
+        <p>Killing Pain or Selling Drugs?  Pain is hard to measure, and those who treat it have to make subjective decisions about dosage levels. When a doctor gets it wrong, is it a mistake or a felony?</p>
+        <p>MAGAZINE</p>
+        <p>Not in My Front Yard  On West 15th Street, a new condo with a terrace over the building next door is drawing fire.</p>
+        <p>REAL ESTATE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

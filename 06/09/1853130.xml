@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shuttle Atlantis Appears to Have a Flawless Liftoff</title>
+    <meta content="09shuttle" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/us/09shuttle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853130"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Shuttle</classifier>
+        <classifier class="indexing_service" type="descriptor">Atlantis (Space Shuttle)</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <org class="indexing_service">Kennedy Space Center</org>
+        <person class="indexing_service">Schwartz, John</person>
+        <person class="indexing_service">Sturckow, Frederick W (Col)</person>
+        <person class="indexing_service">Anderson, Clayton C</person>
+        <person class="indexing_service">Williams, Sunita L (Cmdr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4DE163FF93AA35755C0A9619C8B63" item-length="799" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shuttle Atlantis Appears to Have a Flawless Liftoff</hl1>
+        <hl2 class="online_headline">Shuttle Atlantis Appears to Have Flawless Liftoff</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <dateline>CAPE CANAVERAL, Fla., June 8</dateline>
+      <abstract>
+        <p>Shuttle Atlantis takes off from Kennedy Space Center on mission to continue building International Space Station; crew is led by Col Frederick W Sturckow and includes Clayton C Anderson, who will take place of Cmdr Sunita L Williams; she is ending six-month stay aboard station; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The shuttle Atlantis thundered off the launching pad into a stunningly clear evening sky on Friday on a mission to continue building the International Space Station.</p>
+        <p>The shuttle blasted off at 7:38 p.m. Eastern time with the rattling roar of more than seven million pounds of thrust and rose on a snaking column of smoke and a flame nearly as bright as the dipping sun. Atlantis had what appeared to be a flawless ascent, though the videos that will show whether insulating foam or other launching debris hit the craft have yet to be examined thoroughly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The shuttle blasted off with the rattling roar of more than seven million pounds of thrust into a stunningly clear evening sky on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>The shuttle Atlantis thundered off the launching pad into a stunningly clear evening sky on Friday on a mission to continue building the International Space Station.</p>
+        <p>The shuttle blasted off at 7:38 p.m. Eastern time with the rattling roar of more than seven million pounds of thrust and rose on a snaking column of smoke and a flame nearly as bright as the dipping sun. Atlantis had what appeared to be a flawless ascent, though the videos that will show whether insulating foam or other launching debris hit the craft have yet to be examined thoroughly.</p>
+        <p>In a mission already delayed three months by a hailstorm that damaged the foam on the shuttle's external tank, the preparations for launching were smooth. Weather concerns and technical glitches that often cause last-minute delays were nowhere to be found, and the launching unfolded with clockwork efficiency.</p>
+        <p>An hour before the liftoff, however, it appeared that the National Aeronautics and Space Administration might cancel because of poor weather over the emergency landing sites in Spain and France. These sites, known as Transatlantic Abort Landing sites or TAL, are needed if problems with the engines during an ascent require the shuttle to return to earth without reaching orbit.</p>
+        <p>About 40 minutes before launching time, the fog that obscured the Istres strip in France cleared enough to allow the launching to go forward.</p>
+        <p>Just before the liftoff, Michael Leinbach, the shuttle launching director, told the commander, Col. Frederick W. Sturckow, using his nickname, ''O.K., C. J., it took us a little while to get to this point, but the ship's in great shape, so good luck and godspeed. We'll see you back here in about 12 days or so.''</p>
+        <p>Colonel Sturckow radioed back with thanks to those who had made the launching possible and added, ''See you in a couple of weeks.''</p>
+        <p>Atlantis is carrying a 17.5-ton truss to the station on this 11-day mission. The truss will be added to the starboard side of the $100 billion orbiting laboratory, and will provide power through its new solar arrays.</p>
+        <p>The mission requires the astronauts to work through tasks that have, for the most part, been done on previous missions on the station's port side. They will attach the new truss to the structure of the station and remove restraining bolts that hold a rotating joint in place. Once freed, the joint will allow the solar arrays to rotate and track the sun.</p>
+        <p>The new solar arrays will be unfurled, and an old solar array on top of the station that provided power early in the life of the station will be refolded to its compact shape, otherwise the old array would interfere with the movement of the new arrays. The folded-up array will be moved later to the main solar array truss and extended again.</p>
+        <p>The crew, led by Colonel Sturckow of the Marine Corps, includes the pilot, Col. Lee Joseph Archambault of the Air Force; James F. Reilly II; Patrick G. Forrester; Steven R. Swanson; John D. Olivas, and Clayton C. Anderson. Mr. Anderson was added to the team in April and will be traveling on Atlantis to take the place of Cmdr. Sunita L. Williams of the Navy, who is ending a six-month stay aboard the station.</p>
+        <p>The hailstorm, which occurred on Feb. 26, pocked the shuttle's external fuel tank with thousands of dents to its delicate foam. NASA rolled the craft back to its hangar, the cavernous Vehicle Assembly Building, to have the smaller dents smoothed and the large ones sanded out and refilled with new foam. NASA scrambled to deal with more damage to a single tank than the agency had ever faced, but officials noted that almost all of the repair methods had been a part of working with tanks since the beginning of the program.</p>
+        <p>In an interview on Friday, Michael D. Griffin, NASA's administrator, said that the tank, which was left with a decidedly speckled appearance after the storm and repairs, ''looks great.'' Mr. Griffin said he had no worries that the mended tank would shed foam, the cause of the loss of the shuttle Columbia and its crew in 2003.</p>
+        <p>An hour after the launching, the smoke from the solid rocket boosters hung in wild loops above the cape, luminous in the dusky sky.</p>
+        <p>Then, in a briefing for reporters, NASA officials exulted. The external tank ''has performed in a magnificent manner,'' said N. Wayne Hale Jr., the shuttle program manager.</p>
+        <p>Although some debris was spotted about the time the solid rocket boosters were jettisoned, Mr. Hale said that this had occurred after the point when foam debris is a threat to the craft. He joked that he turned to John Chapman, the external tank project manager, and said, ''Give me more speckled tanks.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

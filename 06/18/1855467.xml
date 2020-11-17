@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: 18-Month-Old Run Over In Driveway</title>
+    <meta content="18mbrfs-5" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855467"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3DB123FF93BA25755C0A9619C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: 18-Month-Old Run Over In Driveway</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An 18-month-old boy was killed when he was run over by a neighbor's car in a Flatbush driveway yesterday shortly after 5 p.m., the police said. The boy was taken to Kings County Hospital Center, where he was pronounced dead on arrival. The neighbor, who was backing the car out on East 26th Street near Avenue I, was unaware of the accident and drove away from the scene. It is unclear whether the toddler was being supervised when he was hit. No charges are expected to be filed against the neighbor, the police said.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+      <block class="full_text">
+        <p>An 18-month-old boy was killed when he was run over by a neighbor's car in a Flatbush driveway yesterday shortly after 5 p.m., the police said. The boy was taken to Kings County Hospital Center, where he was pronounced dead on arrival. The neighbor, who was backing the car out on East 26th Street near Avenue I, was unaware of the accident and drove away from the scene. It is unclear whether the toddler was being supervised when he was hit. No charges are expected to be filed against the neighbor, the police said.</p>
+        <p>JENNIFER 8. LEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

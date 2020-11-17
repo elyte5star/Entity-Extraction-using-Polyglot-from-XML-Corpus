@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sleuth Expands the Case File</title>
+    <meta content="16online" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/technology/16online.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854723"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WHAT'S ONLINE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Spine (Body Part)</classifier>
+        <classifier class="indexing_service" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Implants</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Wrestling</classifier>
+        <classifier class="indexing_service" type="descriptor">Hoaxes</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <location class="indexing_service">Wilkes-Barre (Pa)</location>
+        <org class="indexing_service">Sharesleuth</org>
+        <org class="indexing_service">Orthopedic Development Corp</org>
+        <org class="indexing_service">Msnbc</org>
+        <org class="indexing_service">Business Wire</org>
+        <org class="indexing_service">Times Leader (Newspaper) (Wilkes-Barre, Pa)</org>
+        <org class="indexing_service">World Wrestling Entertainment</org>
+        <org class="indexing_service">Usa Network</org>
+        <person class="indexing_service">Cuban, Mark</person>
+        <person class="indexing_service">Boyle, Alan</person>
+        <person class="indexing_service">Mcmahon, Vince</person>
+        <person class="indexing_service">Mitchell, Dan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Implants</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wrestling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Massachusetts Institute of Technology</org>
+        <person class="online_producer">Cuban, Mark</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EEDA153FF935A25755C0A9619C8B63" item-length="643" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sleuth Expands the Case File</hl1>
+        <hl2 class="online_headline">Sleuth Expands the Case File</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN MITCHELL</byline>
+      <byline class="normalized_byline">Mitchell, Dan</byline>
+      <abstract>
+        <p>What's Online column; Sharesleuth, 'investigative' business Web site financed by billionaire entrepreneur Mark Cuban, publishes article on Orthopedic Development Corp, which is marketing new spinal implant procedure; site has publishes articles about just two companies before; Cuban, who has been criticized for taking short positions in two other companies published on site, has no interest in Orthopedic Development; Alan Boyle of MSNBC's Cosmic Log blog questions report that Massachusetts Institute of Technology scientists transmitted electric power wirelessly; Paul Kedrosky says Business Wire report that World Wrestling Entertainment chairman Vince McMahon was blown up in his limousine in Wilkes-Barre, Pa, is strangest story he has ever seen to cross supposedly fact-based newswire; event was hoax; Times Leader in Wilkes-Barre published article letting residents know that 'bombing,' which was staged and televised on USA Network, was stunt; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR nearly a year until this week, Sharesleuth, the ''investigative'' business Web site financed by the billionaire entrepreneur Mark Cuban, had published articles about just two companies. But in what may signal a departure, Sharesleuth has published an article about a third company: the Orthopedic Development Corporation, which is marketing a new spinal implant procedure (sharesleuth.com).</p>
+        <p>Among other things, the article says the company asserted that the procedure had been used on more patients than was actually the case; there was no indication that the company tested it adequately; and some patients experienced problems after the procedure. The company declined to respond to questions from Sharesleuth.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Does the fact that the Web site Sharesleuth published an article about a private company mean that billionaire entrepreneur Mark Cuban has changed his thinking?</p>
+      </block>
+      <block class="full_text">
+        <p>FOR nearly a year until this week, Sharesleuth, the ''investigative'' business Web site financed by the billionaire entrepreneur Mark Cuban, had published articles about just two companies. But in what may signal a departure, Sharesleuth has published an article about a third company: the Orthopedic Development Corporation, which is marketing a new spinal implant procedure (sharesleuth.com).</p>
+        <p>Among other things, the article says the company asserted that the procedure had been used on more patients than was actually the case; there was no indication that the company tested it adequately; and some patients experienced problems after the procedure. The company declined to respond to questions from Sharesleuth.</p>
+        <p>When Sharesleuth started in July 2006, it was immediately criticized because of Mr. Cuban's stated intention to take short positions in the stocks of the companies that were about to be featured in articles written by the editor, Christopher Carey.</p>
+        <p>But unlike the other two companies that Mr. Carey has written about, Orthopedic Development is privately held, and a note on the site indicates that Mr. Cuban has no financial interest in it.</p>
+        <p>Last year, Mr. Cuban defended taking short positions, saying that was the site's ''business model.'' That assertion drew guffaws and worse from pundits, particularly the business journalist Gary Weiss, who wrote on his blog (garyweiss.blogspot.com) that the practice was ''slimy.''</p>
+        <p>So, does the fact that Sharesleuth has published an article about a private company mean that Mr. Cuban has changed his thinking or his ''business model?'' Atypically, Mr. Cuban, the owner of the Dallas Mavericks basketball franchise, has not weighed in yet. (The reason might be implied by his recent blog entry at blogmaverick.com titled ''My Colonoscopy.'')</p>
+        <p>In response to an e-mail query, Mr. Carey wrote that the latest article is ''business as usual.''</p>
+        <p>He also said the ''business model'' had not changed, by writing: ''Yes, the site is financed by Mark's trading profits. But that doesn't mean that every story will involve trading.''</p>
+        <p>For Mr. Weiss, the article is evidence that Mr. Cuban's ''business model for Sharesleuth is now, officially, dead.'' The site, he said, ''has turned out to be a bust, both journalistically and as a 'business model.' ''</p>
+        <p>BRIGHT IDEA? When scientists at the Massachusetts Institute of Technology announced last week that they had transmitted electrical power wirelessly -- lighting a 60-watt bulb from a distance of seven feet -- some media accounts heralded it as a sign that we would soon be powering our laptops and other gizmos without having to deal with all those clumsy cords.</p>
+        <p>Not so fast, said Alan Boyle of MSNBC's Cosmic Log blog (cosmiclog.msnbc.msn.com). The technology is intriguing, Mr. Boyle wrote. ''But there are plenty more questions yet to be answered. Is the technology safe? Is it efficient? And when will it be commercially viable? Right now, none of those questions is easy to answer.''</p>
+        <p>WRESTLING? STILL? The business blogger Paul Kedrosky was browsing Business Wire (via biz.yahoo.com) this week when he came across what was ''hands-down the strangest headline (and story) I've ever seen to cross a supposedly fact-based newswire'' (paul.kedrosky.com).</p>
+        <p>The headline: ''Who Blew Up WWE(R) Chairman Mr. McMahon?'' The news release, which reads as if it were written by a World Wrestling Entertainment personality after a particularly grueling match, carries the news that Vince McMahon, the W.W.E. chairman, had been blown up in his limousine in Wilkes-Barre, Pa., after a W.W.E. event. It asks, ''How could Mr. McMahon have survived the fiery explosion?'' It then states that Mr. McMahon ''is presumed dead.''</p>
+        <p>''An official investigation'' is under way, according to the statement. Of course, it was all a hoax, and few mainstream news organizations gave it any attention. One exception was The Times Leader in Wilkes-Barre, which published an article letting local residents know that the ''bombing,'' which was staged and televised on the USA Network, was a stunt (timesleader.com).</p>
+        <p>DAN MITCHELL</p>
+        <p>WHAT'S ONLINE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

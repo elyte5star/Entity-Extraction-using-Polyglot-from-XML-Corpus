@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emerson String Quartet</title>
+    <meta content="05roun-3" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852408"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC AND DANCE IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4D81130F936A35755C0A9619C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emerson String Quartet</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carnegie Hall</p>
+        <p>The posterity industry found a bonanza in Beethoven's afterlife, inflating his posthumous dimensions to such magnitude that returning to the career-hungry young composer who stalked the streets of Vienna in the 1790s is not easy. Helpful for recognition purposes is the small, blue-chinned, belligerent Beethoven who looks out from contemporary portraiture, a world away from Max Klinger's muscled and towering godhead carved from multicolored marbles in 1902.</p>
+      </block>
+      <block class="full_text">
+        <p>Carnegie Hall</p>
+        <p>The posterity industry found a bonanza in Beethoven's afterlife, inflating his posthumous dimensions to such magnitude that returning to the career-hungry young composer who stalked the streets of Vienna in the 1790s is not easy. Helpful for recognition purposes is the small, blue-chinned, belligerent Beethoven who looks out from contemporary portraiture, a world away from Max Klinger's muscled and towering godhead carved from multicolored marbles in 1902.</p>
+        <p>Helpful, too, are the six string quartets of Opus 18, which the Emerson String Quartet played at Carnegie Hall on Sunday evening. These pieces are announcements, but whether they signal a departure or an arrival can be debated. The format acknowledges that good things come in sixes. Numerically, Opus 18 pays a debt to Mozart's set of quartets dedicated to Haydn and to Haydn's own Opus 76, which is still the bedrock of the quartet literature.</p>
+        <p>The young composer learned from Mozart's music on his own, but he studied with Haydn. By all reports an ambitious Beethoven did not take kindly to his teacher's fame and success across Europe. The language of Opus 18, like that of the early piano sonatas, shares a grammar with its immediate predecessors, but calling this music derivative is like saying that Faulkner copied Henry James. Beethoven was Beethoven from the start.</p>
+        <p>A young man's need to startle shows itself at the start of the Opus 18, No. 3, where, as he does in the First Symphony, Beethoven dangles a mystery chord before us, then rescues it. The heart-on-sleeve passions of Opus 18, No. 4, go beyond 18th-century Sturm und Drang. Similarly, the elaborate Adagio of Opus 18, No. 1, is almost late-Romantic in length. The Andante Cantabile of Opus 18, No. 5, reflects Beethoven's already thriving and lifelong obsession with the theme-and-variations form.</p>
+        <p>The concert itself was an exercise in how art can be defeated by success. The Emerson's power to just about fill 2,800 seats says good things about the state of music, but Carnegie Hall is the wrong place to hear string quartets, especially given the astonishing elegance of an ensemble whose musicianship, when not heard up close, tends to elide into uniform sheets of beautiful sound and then float away. I liked best the opening of Opus 18, No. 1, perhaps because the gaps of silence between notes allowed sound to bounce around the hall and settle in the ear.</p>
+        <p>You can also question six quartets by a single composer in one gulp, the hour-plus gap between halves notwithstanding. The Emerson is in the midst of a Beethoven cycle at Carnegie Hall that has included coaching and master classes. Disposing of Opus 18 all at once does solve an accounting problem, but the audience had thinned considerably when things resumed for the second half.</p>
+        <p>BERNARD HOLLAND</p>
+        <p>MUSIC AND DANCE IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE WEEK AHEAD</title>
+    <meta content="04ahead" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852116"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E4DF1130F937A35755C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE WEEK AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A BREAK IN THE ACTION -- It will be a relatively slow week for economic news, led by the report on the trade deficit for April (Friday). Other reports will include April factory orders (Monday), the Institute for Supply Management's nonmanufacturing index (Tuesday), revised first-quarter productivity and labor costs (Wednesday) and April numbers for wholesale trade and consumer credit (Thursday).</p>
+        <p>INTERNATIONAL FOCUS -- The Treasury secretary, Henry M. Paulson Jr., will discuss United States-China relations at the Heritage Foundation in Washington (Tuesday). The Group of 8 summit takes place Wednesday through Friday. The International Trade Commission is scheduled to rule on a patent dispute between Qualcomm and Broadcom (Thursday).</p>
+        <p>CANCER DRUGS ON DISPLAY -- The annual meeting of the American Society of Clinical Oncology continues through Tuesday in Chicago. Companies like Pfizer, Bristol-Myers Squibb and Genentech are presenting data on their latest drug treatments for cancer.</p>
+        <p>EARNINGS DATA -- It will be a quiet week for earnings, with reports coming from Krispy Kreme Doughnuts (Monday) and National Semiconductor and Smithfield Foods (Thursday).</p>
+        <p>ET CETERA -- Retailers will report their same-store sales for May (Thursday). General Motors will have its annual meeting (Tuesday).</p>
+      </block>
+      <block class="full_text">
+        <p>A BREAK IN THE ACTION -- It will be a relatively slow week for economic news, led by the report on the trade deficit for April (Friday). Other reports will include April factory orders (Monday), the Institute for Supply Management's nonmanufacturing index (Tuesday), revised first-quarter productivity and labor costs (Wednesday) and April numbers for wholesale trade and consumer credit (Thursday).</p>
+        <p>INTERNATIONAL FOCUS -- The Treasury secretary, Henry M. Paulson Jr., will discuss United States-China relations at the Heritage Foundation in Washington (Tuesday). The Group of 8 summit takes place Wednesday through Friday. The International Trade Commission is scheduled to rule on a patent dispute between Qualcomm and Broadcom (Thursday).</p>
+        <p>CANCER DRUGS ON DISPLAY -- The annual meeting of the American Society of Clinical Oncology continues through Tuesday in Chicago. Companies like Pfizer, Bristol-Myers Squibb and Genentech are presenting data on their latest drug treatments for cancer.</p>
+        <p>EARNINGS DATA -- It will be a quiet week for earnings, with reports coming from Krispy Kreme Doughnuts (Monday) and National Semiconductor and Smithfield Foods (Thursday).</p>
+        <p>ET CETERA -- Retailers will report their same-store sales for May (Thursday). General Motors will have its annual meeting (Tuesday).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

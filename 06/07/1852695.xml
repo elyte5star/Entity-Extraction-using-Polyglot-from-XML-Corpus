@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pennsylvania Republican, Convicted in '80s Bribery, Backs Giuliani</title>
+    <meta content="07pennsylvania" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/us/politics/07pennsylvania.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852695"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Giuliani, Rudolph W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD91E30F934A35755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pennsylvania Republican, Convicted in '80s Bribery, Backs Giuliani</hl1>
+        <hl2 class="online_headline">Pennsylvania Republican, Convicted in ’80s Bribery, Backs Giuliani</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL COOPER</byline>
+      <byline class="normalized_byline">Cooper, Michael</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a recent letter to donors, Robert B. Asher, a prominent Pennsylvania Republican and prolific fund-raiser, wrote, ''I am proud to say that I have agreed to be the state political chairman for Mayor Rudy Giuliani.''</p>
+        <p>But Mr. Asher has another claim to fame: He was convicted in a famous corruption case two decades ago, at the same time Mr. Giuliani was making his reputation as a corruption-busting prosecutor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Robert B. Asher, a Republican national committeeman who has worked on several major statewide campaigns, was convicted in 1986 of bribery-related charges.</p>
+      </block>
+      <block class="full_text">
+        <p>In a recent letter to donors, Robert B. Asher, a prominent Pennsylvania Republican and prolific fund-raiser, wrote, ''I am proud to say that I have agreed to be the state political chairman for Mayor Rudy Giuliani.''</p>
+        <p>But Mr. Asher has another claim to fame: He was convicted in a famous corruption case two decades ago, at the same time Mr. Giuliani was making his reputation as a corruption-busting prosecutor.</p>
+        <p>Asked about Mr. Asher's involvement, a spokeswoman for the Giuliani campaign, Maria Comella, said last night, ''We have not made any announcement at this point in time'' regarding leadership in Pennsylvania.</p>
+        <p>Mr. Asher, a Republican national committeeman who has worked on several major statewide campaigns, was convicted in 1986 of bribery-related charges as part of a scheme to award a no-bid contract to a company in exchange for promises of $300,000 in payoffs and political contributions. The case became nationally known when his co-defendant, R. Budd Dwyer, the Pennsylvania state treasurer, called a news conference and shot himself to death in front of television cameras and dozens of spectators. Mr. Asher, who was the state Republican committee chairman when the questionable contract was awarded, was fined and sentenced to a year in prison in the case.</p>
+        <p>Mr. Asher said in a telephone interview yesterday that his conviction was a long time ago, and noted the work he has done since then as a major fund-raiser for Republicans in Pennsylvania. ''That's 21 years ago in my life,'' he said.</p>
+        <p>In 1986, when Mr. Asher was convicted, Mr. Giuliani was prosecuting a series of municipal corruption cases as the United States attorney in Manhattan. Those cases helped bring him to prominence as a political figure.</p>
+        <p>Mr. Asher said he was moved to support Mr. Giuliani because he believes he can win. ''I believe the man has proven himself as a leader, and I like the job he has done in New York City,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peel Off the Layers, and Tiffany Peeks Out</title>
+    <meta content="12tiffany" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/nyregion/12tiffany.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853963"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">Tiffany &amp; Company</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EFDB173FF931A25755C0A9619C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peel Off the Layers, and Tiffany Peeks Out</hl1>
+        <hl2 class="online_headline">Peel Off the Layers, and Tiffany Peeks Out</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID W. DUNLAP</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hidden beneath decades of modernization, the physical past often re-emerges to tell its story of old New York.</p>
+        <p>Rarely does it come with an aura of robin's egg blue.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Construction at 15 Union Square West has revealed part of the cast-iron facade of the building that housed Tiffany &amp; Company during the glittering end of the 19th century.</p>
+      </block>
+      <block class="full_text">
+        <p>Hidden beneath decades of modernization, the physical past often re-emerges to tell its story of old New York.</p>
+        <p>Rarely does it come with an aura of robin's egg blue.</p>
+        <p>But construction at 15 Union Square West has revealed part of the cast-iron facade of the five-story building that housed Tiffany &amp; Company during the glittering end of the 19th century.</p>
+        <p>''Just when you think the past is consumed, it rears its lovely head,'' said Stephen E. v. Gottlieb, an architect who was among the first to recognize the Tiffany cast iron.</p>
+        <p>Don't go looking for diamonds. All you will find is a white-brick building under black-shrouded scaffolding. However, there is a sliver of original architecture to be seen along the 15th Street side, where the 20th-century brickwork has been removed.</p>
+        <p>Perhaps most recognizable from the Tiffany era are the gently curving third-floor windows.</p>
+        <p>Tiffany, founded in Lower Manhattan in 1837, moved to Union Square in 1870 to keep pace with the seat of fashion. It built in cast iron, The New York Times reported at the time, ''as a preventive of fire, in consideration of the vast treasures'' within.</p>
+        <p>While the company was at Union Square, Charles Tiffany bought the 287.42-carat gem that came to be known as the Tiffany Diamond. But the store carried more than rocks.</p>
+        <p>''Wandering through Tiffany's spacious galleries in Union Square,'' The Times said in 1873, ''and stopping to admire the marble or bronze copies of the antique, a piece of majolica, a Limoges enamel, or a superb set of Henry Deux brass work, it is difficult to realize the fact that one is actually in a place of business and that each and every one of the beautiful objects of art can be your own, if you only have the cash wherewith to pay for it.''</p>
+        <p>(That was a big ''if'' then. It is a big ''if'' today.)</p>
+        <p>Feeling that Union Square had coarsened, Tiffany decamped in 1905 for Fifth Avenue and 37th Street. Twenty years later, the Union Square building was taken over by the Amalgamated Bank. In 1953, after a passer-by was fatally injured by a piece of loose cast iron, Amalgamated had the structure stripped and reclad.</p>
+        <p>According to city permits now posted at the construction site, the plan is to remove the facade entirely, add seven floors and convert the building to apartments.</p>
+        <p>So keep your eye on 15 Union Square West. More will undoubtedly be revealed. This is New York City. More will always be revealed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

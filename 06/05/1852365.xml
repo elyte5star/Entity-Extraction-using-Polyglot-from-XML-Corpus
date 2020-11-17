@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Palm Investor Sees Hand-Held Free-for-All</title>
+    <meta content="05palm" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/05palm.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070606T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852365"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Palm Inc</org>
+        <org class="online_producer">Elevation Partners</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1D91130F936A35755C0A9619C8B63" item-length="891" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Palm Investor Sees Hand-Held Free-for-All</hl1>
+        <hl2 class="online_headline">Palm Investor Sees Hand-Held Free-for-All</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, June 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The private equity investment in Palm Inc. is an ambitious gamble that the history of two companies dominating the personal computer industry will not repeat itself in the market for cellphones and other hand-held devices.</p>
+        <p>On Sunday, Elevation Partners, the $1.9 billion private equity group that was founded by Roger McNamee, a veteran technology investor; Fred Anderson, Apple's former chief financial officer; the rock star Bono and several others, agreed to buy 25 percent of Palm for $325 million.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The private equity investment in Palm Inc. is a gamble that the history of two companies in the personal computer industry won’t repeat itself.</p>
+      </block>
+      <block class="full_text">
+        <p>The private equity investment in Palm Inc. is an ambitious gamble that the history of two companies dominating the personal computer industry will not repeat itself in the market for cellphones and other hand-held devices.</p>
+        <p>On Sunday, Elevation Partners, the $1.9 billion private equity group that was founded by Roger McNamee, a veteran technology investor; Fred Anderson, Apple's former chief financial officer; the rock star Bono and several others, agreed to buy 25 percent of Palm for $325 million.</p>
+        <p>In a telephone interview on Monday morning after the deal was announced, Mr. McNamee explained that the rationale for the investment is found in the rapid innovation that is changing cellphones into computers and entertainment devices. He said the hand-held computing world is still in its infancy and that designs and rapid innovation will continue to proliferate, making it impossible for several large players to dominate the market for software or hardware.</p>
+        <p>''Microsoft is going to be a big factor, but at the same time I don't think that this category has shown any tendency at this point to follow the PC.''</p>
+        <p>Elevation's investment is just the latest indication of the intense new competition that will increasingly blur the lines between telecommunications, computing and entertainment during the next several years. The stakes are so high that none of the major players in any of those three industries can afford to be left out.</p>
+        <p>Microsoft is one of the biggest competitors to Palm's operating system software for advanced cellphones that double as hand-held computers. After struggling for years and losing hundreds of millions of dollars, Microsoft is beginning to gain ground and persuade makers of cellphones and electronic date books to adopt its Windows Mobile software.</p>
+        <p>Shipments of hardware using Windows Mobile grew 64 percent in the first quarter of 2007, to 3.2 million units, according to a recent report by the Gartner Group, a market research firm based in Stamford, Conn. Microsoft now has a substantial lead over the next three vendors of operating system software for advanced ''smartphones,'' including Research in Motion, which makes the BlackBerry devices, Palm and Symbian.</p>
+        <p>Mr. McNamee discounted the significance of Microsoft's recent gains in market share. He said that the improvement had come in part as a result of increased advertising spending by carriers and handset makers to push new phones like the Samsung Blackjack and the Motorola Q, both of them available with the Microsoft Mobile OS.</p>
+        <p>''Windows Mobile is a vastly improved product over what it was not so long ago,'' he said, but added, ''the unit volume was very heavily influenced by massive marketing.''</p>
+        <p>Mr. McNamee is optimistic about Palm's future because even during the heightened competition with the Blackjack and the Q, Palm's share continued to grow. Furthermore, it grew even though Palm was selling products near the end of their design cycles.</p>
+        <p>One reason that the market looks so lucrative is the strong industry belief that the 1.2 billion cellphone handsets sold annually will rapidly be displaced by more intelligent devices that it make it possible for their users to send and receive text and video as well as navigate and surf the Web.</p>
+        <p>''I do think we're still at an early stage of market development,'' said Todd Kort, a research analyst at Gartner. He argues that Symbian, the software company that now dominates the broad cellphone market, will be hard pressed to hold on to market share as cellphones gain computerlike features. ''I would agree with the statement that there won't be one dominant company,'' he said.</p>
+        <p>That is particularly true because in the next 12 months at least three new players will try to muscle their way into the smart phone market: Apple, Google and Sun Microsystems.</p>
+        <p>The entire cellphone industry is now reacting to Apple's impending introduction of the iPhone, which is almost certain to force other manufacturers to change the way they develop software for their hand-helds. Apple has set a goal of selling 10 million units in the first 18 months in the market, enough to make them a head-to-head competitor with Microsoft.</p>
+        <p>At the same time, Google, the search engine and online advertising company based in Mountain View, Calif., is continuing to edge closer to offering a cellphone operating system and applications. During an industry conference in Southern California last week, Google's chief executive, Eric Schmidt, outlined a future phone strategy that would pit the company against existing players. A move by Google in which it offered free software for cellphones would be a particular headache for companies like Microsoft and Sun, with businesses that are based on licensing software to handset makers.</p>
+        <p>Such a move, however, might benefit Palm, which is hoping to be able to differentiate itself based on innovative hardware designs and new types of devices.</p>
+        <p>As part of the agreement with Palm, which still requires approval by Palm shareholders, Mr. McNamee's firm will take two board seats at the company, which is based in Sunnyvale, Calif., and a former Apple computer senior vice president for hardware engineering, Jonathan Rubinstein, will join the company as a chairman to guide hardware design and manufacturing.</p>
+        <p>The deeper challenge the company faces is in aligning its existing and new executives. ''My job is to keep us together as a team and move forward,'' said Ed Colligan, Palm's president and chief executive.</p>
+        <p>Correction:  June 6, 2007, Wednesday  An article in Business Day yesterday about a private equity investment in Palm Inc. gave an incorrect spelling in some copies for the surname of a research analyst at Gartner, who discussed the market for cellphones and other hand-held devices. He is Todd Kort, not Cort.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 6, 2007, Wednesday</p>
+        <p>An article in Business Day yesterday about a private equity investment in Palm Inc. gave an incorrect spelling in some copies for the surname of a research analyst at Gartner, who discussed the market for cellphones and other hand-held devices. He is Todd Kort, not Cort.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

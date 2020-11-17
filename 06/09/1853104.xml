@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deal Making Heats Up as Does Food and Drug Scrutiny</title>
+    <meta content="09five" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853104"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Orthopedics</classifier>
+        <org class="indexing_service">Biomet Inc</org>
+        <org class="indexing_service">Avaya Inc</org>
+        <org class="indexing_service">Silver Lake Partners</org>
+        <org class="indexing_service">Texas Pacific Group</org>
+        <org class="indexing_service">Palm (Co)</org>
+        <org class="indexing_service">Elevation Partners</org>
+        <org class="indexing_service">Cadence Design Systems Inc</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <org class="indexing_service">Goldman Sachs Group</org>
+        <org class="indexing_service">Kohlberg Kravis Roberts &amp; Co</org>
+        <org class="indexing_service">Texas Pacific Group</org>
+        <person class="indexing_service">De La Merced, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1DF163FF93AA35755C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deal Making Heats Up as Does Food and Drug Scrutiny</hl1>
+      </hedline>
+      <abstract>
+        <p>Five Days column; Biomet, maker of artificial joints, accepted sweetened $11.4 billion offer from group of private equity firms; Avaya, one of world's biggest makers of corporate phone equipment, agreed to $8.2 billion deal with Silver Lake Partners and Texas Pacific Group; Palm said it would sell 25 percent stake in itself to Elevation Partners; Cadence Design Systems, which makes software that designs computer chips, has held talks with at least two private equity firms about going public (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Deal makers powered ahead, even as one pending merger faced a regulatory hurdle. Makers of diabetes drugs agreed to use the most severe warning on labels, and broadcasters won a favorable federal court ruling regarding obscenities.</p>
+        <p>MOST POPULAR Following are the most popular business news articles on nytimes.com from June 2 through June 8:</p>
+        <p>1. More Advice Graduates Don't Want to Hear  2. Google Keeps Tweaking Its Search Engine  3. For Pornographers, Internet's Virtues Turn to Vices  4. Court Rebuffs F.C.C. on Fines for Indecency  5. Fever Builds for iPhone (Anxiety Too) Links are at nytimes.com/business.</p>
+      </block>
+      <block class="full_text">
+        <p>Deal makers powered ahead, even as one pending merger faced a regulatory hurdle. Makers of diabetes drugs agreed to use the most severe warning on labels, and broadcasters won a favorable federal court ruling regarding obscenities.</p>
+        <p>MOST POPULAR Following are the most popular business news articles on nytimes.com from June 2 through June 8:</p>
+        <p>1. More Advice Graduates Don't Want to Hear  2. Google Keeps Tweaking Its Search Engine  3. For Pornographers, Internet's Virtues Turn to Vices  4. Court Rebuffs F.C.C. on Fines for Indecency  5. Fever Builds for iPhone (Anxiety Too) Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

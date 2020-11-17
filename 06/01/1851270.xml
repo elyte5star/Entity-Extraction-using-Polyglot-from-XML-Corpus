@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ruling Favors Developer's Plan for Vacant East Village School</title>
+    <meta content="01singer" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/nyregion/01singer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851270"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E3D91530F932A35755C0A9619C8B63" item-length="545" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ruling Favors Developer's Plan for Vacant East Village School</hl1>
+        <hl2 class="online_headline">Ruling Favors Developer’s Plan for Vacant East Village School</hl2>
+      </hedline>
+      <byline class="print_byline">By CHARLES V. BAGLI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After nine years of battling community activists and the city, a developer has won a round in his effort to redevelop a vacant, crumbling school building on the Lower East Side.</p>
+        <p>A state appellate court in Manhattan ruled on Tuesday that the Bloomberg administration had improperly refused to issue a building permit that would have allowed the developer, Gregg L. Singer, to build a 19-story dormitory on the site of Public School 64, which sits on East Ninth Street, near Tompkins Square Park.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After nine years of battling community activists and the city, a developer has won a round in his effort to redevelop the site of Public School 64.</p>
+      </block>
+      <block class="full_text">
+        <p>After nine years of battling community activists and the city, a developer has won a round in his effort to redevelop a vacant, crumbling school building on the Lower East Side.</p>
+        <p>A state appellate court in Manhattan ruled on Tuesday that the Bloomberg administration had improperly refused to issue a building permit that would have allowed the developer, Gregg L. Singer, to build a 19-story dormitory on the site of Public School 64, which sits on East Ninth Street, near Tompkins Square Park.</p>
+        <p>The project, which ignited a bitter fight against gentrification, would preserve the five-story building's French Renaissance facade.</p>
+        <p>''The building has been vacant for a long time, and it's an eyesore,'' Mr. Singer said yesterday. ''The idea isn't for us to stay in court forever. Let's keep politics out of it and stay focused on what's good for the city.''</p>
+        <p>But the city does not intend to issue a permit anytime soon. John Gallagher, a spokesman for Mayor Michael R. Bloomberg, said that the administration would appeal the ruling, in which two of the five judges dissented, and that there were two other outstanding lawsuits over P.S. 64.</p>
+        <p>Mr. Singer bought the building for $3.15 million in 1998 at a city auction amid protests by activists and elected officials. He has been blocked at every turn from renovating it for elderly tenants, nonprofit organizations or college students, and the upper floors now serve as a roomy pigeon coop.</p>
+        <p>After the school closed in 1977, it became an unofficial but widely used community center for theater groups, artists and political activists. Mr. Singer evicted the tenants, who viewed him as an interloper with a secret plan to build luxury housing. The opposition eventually swelled to include the pro-development Bloomberg administration and even the owner of the penthouse next door at the Christadora House, which had been at the center of its own gentrification battle in the 1980s.</p>
+        <p>In 2004, the city refused to issue a building permit for Mr. Singer's dormitory proposal, and in 2006 it designated the school a landmark, further restricting his ability to renovate or demolish it. He claimed that he had been double-crossed by some city officials who had indicated support.</p>
+        <p>Mr. Singer sued, several times. In one case, he sought $100 million in damages, claiming that Mayor Bloomberg had ''cut a dirty political deal with the local city councilwoman at the time, Margarita López: In exchange for her support of his re-election bid, he would see to it that his administration blocked the owner's development plans.''</p>
+        <p>This week the appellate court ruled in Mr. Singer's favor on the building permit.</p>
+        <p>What brought the case to this point was the city's fear that should Mr. Singer's dormitory plan be allowed, he might later use the property for market-rate housing. This led the Bloomberg administration to impose what Mr. Singer and other real estate executives called an ''unprecedented'' requirement: He had to provide a leasing agreement with a specific school or schools. The city rejected Mr. Singer's application when he failed to produce such a lease.</p>
+        <p>The court said that the city could not prohibit the dormitory project based on a possible future illegal use, especially since it could easily deny or revoke a certificate of occupancy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

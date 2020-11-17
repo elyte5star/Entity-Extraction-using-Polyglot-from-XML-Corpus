@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Datarock</title>
+    <meta content="05roun-1" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852406"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC AND DANCE IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4D81130F936A35755C0A9619C8B63" item-length="476" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Datarock</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Studio B</p>
+        <p>Datarock looked like a joke band when it started its set at Studio B in Brooklyn late on Saturday night. Fredrik Saroea and Ketil Mosnes arrived on stage in matching red track suits and dark sunglasses and sang over a backing track of old-fashioned drum and synthesizer sounds. They might have been better-groomed Unabombers or a Beastie Boys tribute band. ''We want you all to know that what we do is for real,'' Mr. Saroea intoned.</p>
+      </block>
+      <block class="full_text">
+        <p>Studio B</p>
+        <p>Datarock looked like a joke band when it started its set at Studio B in Brooklyn late on Saturday night. Fredrik Saroea and Ketil Mosnes arrived on stage in matching red track suits and dark sunglasses and sang over a backing track of old-fashioned drum and synthesizer sounds. They might have been better-groomed Unabombers or a Beastie Boys tribute band. ''We want you all to know that what we do is for real,'' Mr. Saroea intoned.</p>
+        <p>Next came ''Ugly Primadonna,'' a ticking, thumping electro song about E.T. Later in the set there were songs mentioning Commodore 64 computers and declaring love for Molly Ringwald, making it ever clearer that Datarock prizes its 1980s trivia.</p>
+        <p>Two more backup musicians arrived, also in red tracksuits. Soon Datarock turned into a four-man rock band, shifting its music from vintage synthpop to guitar-driven post-punk and new wave funk, echoing bands from Talking Heads to Happy Mondays to INXS. Most of the songs were from the band's debut album, ''Datarock Datarock'' (Young Aspiring Professionals), which was released in 2005 in Norway; an expanded version is due for United States release on June 12.</p>
+        <p>The music was built on insistent repetition, a danceable beat and the friction of consonant and dissonant layers. Sometimes it had twists. The galloping beat of ''Bulldozer'' paced unexpected shifts of meter, and the scrubbing funk of a new song, ''True Stories'' (with lyrics from Talking Heads song titles), was actually in 5/4 time.</p>
+        <p>Eventually, something funnier than a joke began to happen: The music took on its own momentum, sweeping away the self-consciousness of a parody. It was no longer just clever 1980's nostalgia; it plunged into the moment.</p>
+        <p>Datarock is from Bergen, Norway, where bands like Royksopp and Kings of Convenience also dip into retro sounds. Like them, Datarock offers something more than a smirking recreation. They know that 1980s pop and rock were full of dinky sounds -- low-fi drum machines, two-dimensional synthesizers -- and transparent posturing. But they also understand that the songs weren't merely tacky.</p>
+        <p>Backed by the musical ingenuity it took to construct all those hooks, funk vamps and choruses -- and to push people onto the dance floor -- the songs still confessed to heartache, frustration and confusion. All the artificiality made the songs a little embarrassing in hindsight, but it also made the yearning within them more piquant. Datarock has funk tunes like ''Sex Me Up,'' which has little more on its mind. But it also has songs like ''See What I Care,'' with lyrics that profess nonchalance about a breakup while the music insists otherwise.</p>
+        <p>In ''Fa-Fa-Fa,'' Mr. Saroea belted, ''I'm gonna ride fast, going nowhere/I left my brain in the past.'' That's not exactly true. Datarock's ears are in the past, while its mind -- juggling admiration, mockery, irony and commitment -- is fully in the present.</p>
+        <p>JON PARELES</p>
+        <p>MUSIC AND DANCE IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

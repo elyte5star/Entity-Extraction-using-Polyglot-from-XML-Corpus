@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="11ahead" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853749"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DF173FF932A25755C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>READING REPORTS -- Signals on inflation will come from reports on the Consumer Price Index (Friday), the Producer Price Index (Thursday) and the Fed's beige book on regional economic conditions (Wednesday).</p>
+        <p>Other reports this week include May retail sales, May import prices and April business inventories (Wednesday); the first-quarter current-account deficit, industrial production and capacity utilization and the Reuters/University of Michigan consumer sentiment index (Friday).</p>
+        <p>CORPORATE EARNINGS -- Wall Street banks will begin reporting their second-quarter results, with Lehman Brothers (Tuesday) and Goldman Sachs and Bear Stearns (Thursday). Other earnings reports will come from Take-Two Interactive Software (Monday) and Freddie Mac (Thursday).</p>
+        <p>PLAVIX INQUIRY -- Bristol-Myers Squibb is scheduled to plead guilty on Monday to charges that it lied to the government about its proposed settlement of a patent dispute related to the heart drug Plavix.</p>
+        <p>SHAREHOLDER MEETINGS -- Annual meetings will be held by Yahoo (Tuesday) and the mortgage lender Countrywide Financial (Wednesday). The Midwest Air Group's annual meeting Thursday could turn into a battle. A rival, AirTran Holdings, has nominated three people to the board as part of its effort to acquire the company.</p>
+        <p>MEETING ON RATES -- The Bank of Japan will make a decision on interest rates (Friday).</p>
+      </block>
+      <block class="full_text">
+        <p>READING REPORTS -- Signals on inflation will come from reports on the Consumer Price Index (Friday), the Producer Price Index (Thursday) and the Fed's beige book on regional economic conditions (Wednesday).</p>
+        <p>Other reports this week include May retail sales, May import prices and April business inventories (Wednesday); the first-quarter current-account deficit, industrial production and capacity utilization and the Reuters/University of Michigan consumer sentiment index (Friday).</p>
+        <p>CORPORATE EARNINGS -- Wall Street banks will begin reporting their second-quarter results, with Lehman Brothers (Tuesday) and Goldman Sachs and Bear Stearns (Thursday). Other earnings reports will come from Take-Two Interactive Software (Monday) and Freddie Mac (Thursday).</p>
+        <p>PLAVIX INQUIRY -- Bristol-Myers Squibb is scheduled to plead guilty on Monday to charges that it lied to the government about its proposed settlement of a patent dispute related to the heart drug Plavix.</p>
+        <p>SHAREHOLDER MEETINGS -- Annual meetings will be held by Yahoo (Tuesday) and the mortgage lender Countrywide Financial (Wednesday). The Midwest Air Group's annual meeting Thursday could turn into a battle. A rival, AirTran Holdings, has nominated three people to the board as part of its effort to acquire the company.</p>
+        <p>MEETING ON RATES -- The Bank of Japan will make a decision on interest rates (Friday).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

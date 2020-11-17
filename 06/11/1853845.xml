@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Market Owner Is Cited in Fire Where 5 Men Were Trapped</title>
+    <meta content="11fire" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/nyregion/11fire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853845"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDD173FF932A25755C0A9619C8B63" item-length="502" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Market Owner Is Cited in Fire Where 5 Men Were Trapped</hl1>
+        <hl2 class="online_headline">Market Owner Is Cited in Fire Where 5 Men Were Trapped</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The owner of a Queens supermarket was accused yesterday of violating city codes after a blaze on Friday night in which firefighters rescued five workers who had been locked inside the store and were found in the basement, huddled, crying and blackened by smoke.</p>
+        <p>A spokeswoman for District Attorney Richard A. Brown said the owner, Yunes Doleh, was issued a summons for having a locked exit, a misdemeanor that could result in a fine. Having a locked gate also violated the city building code, said Kate Lindquist, a spokeswoman for the Department of Buildings.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The owner of a Queens supermarket was accused of violating city codes after a blaze on Friday night in which five workers had been locked inside the store.</p>
+      </block>
+      <block class="full_text">
+        <p>The owner of a Queens supermarket was accused yesterday of violating city codes after a blaze on Friday night in which firefighters rescued five workers who had been locked inside the store and were found in the basement, huddled, crying and blackened by smoke.</p>
+        <p>A spokeswoman for District Attorney Richard A. Brown said the owner, Yunes Doleh, was issued a summons for having a locked exit, a misdemeanor that could result in a fine. Having a locked gate also violated the city building code, said Kate Lindquist, a spokeswoman for the Department of Buildings.</p>
+        <p>A construction contractor who supervised the five workers, Jose Correa, was charged on Saturday with reckless endangerment, a more serious misdemeanor under state law that could lead to a jail sentence.</p>
+        <p>The fire, which firefighters said appeared to have been started by a propane torch, erupted as the five workers, all believed to be immigrants, were renovating the supermarket, Met Foods at 101st Avenue and 102nd Street in Ozone Park.</p>
+        <p>They were working at night when the store was closed, and the authorities said Mr. Correa, who was not present, had the key they needed to open a security gate and escape.</p>
+        <p>None of the men were seriously injured, but the fire prompted criticism of a practice by a number of supermarkets in recent years of locking workers in at night so that outsiders do not enter and the workers do not steal merchandise.</p>
+        <p>''We would like to see a program of inspections, hefty fines and, where appropriate, criminal charges,'' said Artemio Guerra, director of organizing for the Fifth Avenue Committee, an advocacy group that has documented many examples of the practice involving food store janitors and stocking clerks.</p>
+        <p>In 2004, the group offered fire officials a list of 36 supermarkets where it said workers were being locked in at night.</p>
+        <p>Francis X. Gribbon, a Fire Department spokesman, said yesterday that top officials of the department would review the Ozone Park situation today to determine ''if there is any reason to inspect other locations.''</p>
+        <p>But he said previous inspections, including those of each supermarket on the list provided by Mr. Guerra's group, had turned up little evidence of unlawful working conditions.</p>
+        <p>Mr. Gribbon said the episode on Friday night was the only one in recent years in which outside construction workers, as opposed to store employees, were found to be locked in at night.</p>
+        <p>Mr. Doleh said yesterday that Mr. Correa and his workers had been hired to repair the floor in the Met Foods store and had been at work for ''a couple days.''</p>
+        <p>He said he had ''no idea what they were doing,'' adding that ''I assumed everything was O.K.''</p>
+        <p>Mr. Doleh said he has held the franchise for the Ozone Park store for eight years but does not own the building. He said that his regular store employees had never been scheduled to work after hours and that there had been no problems in the past related to unsafe working conditions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Conquering the Peak Test of Technology</title>
+    <meta content="18link" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/technology/18link.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LINK BY LINK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Mountain Climbing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mountain Climbing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <location class="online_producer">Mount Everest</location>
+        <location class="online_producer">Himalayas</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E2DD123FF93BA25755C0A9619C8B63" item-length="966" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Conquering the Peak Test of Technology</hl1>
+        <hl2 class="online_headline">Conquering the Peak Test of Technology</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER weeks of climbing, Rod Baber recently reached the summit of Mount Everest, a dream fulfilled. At the top of the world, as dawn was breaking, he took off his oxygen mask and called his voice mailbox, leaving an exuberant, if weary, message.</p>
+        <p>''Hi, this is Rod, making the world's highest phone call. It's the 21st of May, I have no idea what time it is.'' He then looked at his watch. ''It's 5:37. It's about minus 30. It's cold. It's fantastic. The Himalayas are everywhere.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It has taken a couple of generations of technological improvements, but Mount Everest, one of the most remote places on earth, is now officially overexposed.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER weeks of climbing, Rod Baber recently reached the summit of Mount Everest, a dream fulfilled. At the top of the world, as dawn was breaking, he took off his oxygen mask and called his voice mailbox, leaving an exuberant, if weary, message.</p>
+        <p>''Hi, this is Rod, making the world's highest phone call. It's the 21st of May, I have no idea what time it is.'' He then looked at his watch. ''It's 5:37. It's about minus 30. It's cold. It's fantastic. The Himalayas are everywhere.''</p>
+        <p>It was either the first mobile phone call made from the top of Mount Everest, as Mr. Baber and Motorola, which set up his voice mail, proclaim, or the umpteenth, as climbing experts who track the comings and goings there say.</p>
+        <p>It has taken a couple of generations of technological improvements, but Mount Everest, one of the most remote places on earth, is now officially overexposed.</p>
+        <p>Tom Sjogren who with his wife, Tina, founded mounteverest.net, a news site that reports on ascents of the mountain, estimated that at least 70 teams on Mount Everest ''did more or less daily Internet updates with images, text, positions and videos from the mountain.''</p>
+        <p>His business, humanedgetech.com, which sells communications equipment used by climbing teams, outfitted 20 teams this year, Mr. Sjogren said. (More than 500 people are estimated to have reached the peak this year, a record.)</p>
+        <p>The effort to digitally connect Everest has been aided by a series of technological breakthroughs, including a faster, cheaper satellite modem for sending files destined for the Internet, and the introduction this spring of a light, relatively inexpensive Thuraya satellite phone that can take pictures and video and upload them. (The Thuraya, with a long antenna, is already a favorite of insurgents around the world, too.)</p>
+        <p>Mr. Sjogren speculated that a climber could use the phone to shoot a brief video clip, process it with a P.D.A. (laptops fail at Everest heights) and then beam it directly to a Web site.</p>
+        <p>''The threshold is so low, it is very possible that someone has done it,'' Mr. Sjogren said.</p>
+        <p>In late April, protesters at the base camp worked with the same kind of equipment to broadcast the unfurling of a banner against China's control of Tibet. As described on an activist Web site, realitysandwich.com, the protesters recorded the event and at the same time transmitted it to a MacBook 20 feet away. The file was compressed, sent via satellite to another computer run by Students for a Free Tibet, then uploaded to YouTube  and other sites. The protesters were spotted and detained before being expelled.</p>
+        <p>''Because we knew we were probably going to be arrested, we needed to get the footage out live,'' said one of the protesters, according to the activist Web site.</p>
+        <p>The Web site ueverest.com, while not setting records or conveying any protests, is an excellent example of how much material can be regularly updated and communicated to sea level from the remote mountain, including daily video and audio clips, photographs and blogs, even charts tracking the heart rates of the climbers.</p>
+        <p>Requiring the attention of two full-time staff members, the site is part of a project to film a team that is retracing the failed ascent of the north side of Everest by the British explorer George Mallory and his climbing partner, Sandy Irvine, in 1924. (A documentary on the film's production is also planned, said Anthony Geffen, the producer.)</p>
+        <p>Mr. Mallory and Mr. Irvine died on the mountain, leaving a riddle: had they made it to the top? When Mr. Mallory's body was found in 1999 at an altitude of more than 26,000 feet, the riddle remained. The re-creation of the Mallory ascent -- with period costume and equipment -- in part is meant to explore how plausible it is that they succeeded.</p>
+        <p>''He was a pioneer of the time,'' said Mr. Geffen by satellite telephone from the advanced base camp at 21,000 feet. ''When he came to Everest nobody had a map of the place, and he went higher than anyone else for 30 or more years.''</p>
+        <p>The climbers who recreated his trek reached the summit on Thursday. And the Web site, perhaps in an example of technology for technology's sake, that day prominently displayed video footage of the radio receiving a transmission reporting the climbers' success on the way. (The next day there was video taken at the summit of the mountain.)</p>
+        <p>The main information-technology specialist on the team, Mark Kahrl, rattled off the technological challenges of managing a Web site from the Himalayas.</p>
+        <p>''Hardware doesn't work well in this environment,'' Mr. Kahrl said from the base camp. Hard drives, for example, fail because of the thin air, although ''we've only gone through three.'' Knowing this, the team brought extras, and made sure to take iPod Shuffles, which use a memory system that is not affected by the altitude, he said.</p>
+        <p>As the Mallory trek team reveled last week in its success, the members also said that they were reveling in the quiet. The circus had left the base camp, which Mr. Kahrl said was ''like a Hollywood production set,'' with all its flat-screen TVs and generators.</p>
+        <p>The climbing team gambled by being the last of the season's climbers to make the ascent -- though in many ways it had to wait, since you can't exactly recreate an authentic climb of 80 years ago with a different climbing group ahead of you speaking on a mobile phone and another behind you videoconferencing with sponsors. There was a chance, however, that monsoon season would begin and jeopardize the trip.</p>
+        <p>While praising Mr. Mallory as ''a man of today'' and a ''pioneer,'' Mr. Geffen conceded that because of those qualities ''he wouldn't go to Everest today -- people are crawling all over it.''</p>
+        <p>LINK BY LINK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

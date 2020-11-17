@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lee Nagrin, 78, Innovator In Performance Art, Dies</title>
+    <meta content="12nagrin" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/arts/12nagrin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853935"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Theater</classifier>
+        <classifier class="indexing_service" type="names">Lee Nagrin</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Nagrin, Lee</person>
+        <person class="online_producer">Monk, Meredith</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3DB173FF931A25755C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lee Nagrin, 78, Innovator In Performance Art, Dies</hl1>
+        <hl2 class="online_headline">Lee Nagrin, 78, Innovator in Performance Art, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lee Nagrin, a noted Off Broadway performance artist, director and member of Meredith Monk's theater company, The House, died Thursday in Manhattan. She was 78.</p>
+        <p>The cause was colon cancer, said Barbara Busackino, a colleague.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Nagrin was a noted Off Broadway performance artist, director and member of Meredith Monk’s theater company, The House.</p>
+      </block>
+      <block class="full_text">
+        <p>Lee Nagrin, a noted Off Broadway performance artist, director and member of Meredith Monk's theater company, The House, died Thursday in Manhattan. She was 78.</p>
+        <p>The cause was colon cancer, said Barbara Busackino, a colleague.</p>
+        <p>Ms. Nagrin performed with Ms. Monk from 1971 to 1981, appearing in ''Vessel,'' ''Education of a Girl Child,'' ''Quarry,'' ''Ellis Island'' and other works.</p>
+        <p>She formed her own company, the Sky Fish Ensemble, in 1979 and presented performance-art pieces that tended to unspool like fairy tales, filled with mysterious, archetypal imagery. Her own presence was mysterious, too, both on and off the stage, often conjuring up the sense of a keen-eyed, all-seeing, benign witch.</p>
+        <p>She created some of those images midperformance, as when she traced a landscape along brown paper that ringed the stage space of Silver Whale Gallery, where much of her work was performed.</p>
+        <p>For her last piece, ''Behind the Lid,'' she collaborated with the puppeteer Basil Twist on a story in which a woman looks back on her life through a dream. Performances are this month at the Silver Whale.</p>
+        <p>Ms. Nagrin grew up in Seattle, where she worked with the Seattle Repertory Playhouse. She moved to New York in 1950 and produced, directed or performed in 10 Off Broadway production over the next 13 years, including work by Eugene Ionesco, then little known in the United States. She trained with Kathleen Lawler, a Metropolitan Opera voice coach, and developed a style influenced by the vocal work of Alfred Wolfsohn. In 1958 she was offered a four-year studio contract by Paramount after appearing in the cult film ''The Blob.''</p>
+        <p>Ms. Nagrin also collaborated with the performance artist Margaret Beals and had long associations with La MaMa and the Women's Interart Center. Her ''Bird/Bear'' (1986) won an Obie Award for best new American play.</p>
+        <p>Ms. Nagrin's survivors include her companion, Bruce Hutchinson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

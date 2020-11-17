@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It Isn't That Images Fade, It's That They Can Vanish</title>
+    <meta content="05print" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/circuits/05print.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852361"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PICTURE-PERFECT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Printers</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Printers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">International Organization for Standardization</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE2D91130F936A35755C0A9619C8B63" item-length="1135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It Isn't That Images Fade, It's That They Can Vanish</hl1>
+        <hl2 class="online_headline">It Isn’t That Images Fade, It’s That They Can Vanish</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <dateline>GATINEAU, Quebec</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE preservation center at Canada's national archive here might have the last word when it comes to keeping the color in color photography.</p>
+        <p>A four-story concrete building, which is enclosed within a second protective building, holds two warehouse-size vaults where negatives, prints and film are kept in the dark at 0 degrees and 25 percent relative humidity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Photos printed on inkjet paper will be around for decades. Right?</p>
+      </block>
+      <block class="full_text">
+        <p>THE preservation center at Canada's national archive here might have the last word when it comes to keeping the color in color photography.</p>
+        <p>A four-story concrete building, which is enclosed within a second protective building, holds two warehouse-size vaults where negatives, prints and film are kept in the dark at 0 degrees and 25 percent relative humidity.</p>
+        <p>Before anything in the collection can be examined, technicians must put it into an acclimatization chamber that resembles an oversize stainless-steel refrigerator, where it is warmed up over a 24- to 48-hour period.</p>
+        <p>Henry Wilhelm, an American researcher on photographic preservation, says the complex and costly system is worth the trouble.</p>
+        <p>''Those images should last thousands of years,'' he said from his office in Grinnell, Iowa. ''Imagine seeing photos of the building of the pyramids.''</p>
+        <p>But even officials at the archive are uncertain how to manage the medium that now dominates photography: inkjet prints.</p>
+        <p>''We really need to figure out what we have to do with them,'' said Tania Passafiume, senior conservator of photographic records. ''This is the history of photography: things change.''</p>
+        <p>Despite years of talks among researchers like Mr. Wilhelm, inkjet makers and scientists, the International Organization for Standardization has yet to produce a criterion for testing the permanence of inkjet prints and interpreting the results.</p>
+        <p>Consumers buying inkjet printers to make prints of their digital photos therefore face a difficult task, said James M. Reilly, director of the Image Permanence Institute at the Rochester Institute of Technology. ''There's too much variety in the inkjet marketplace to give general advice,'' he said. ''It's also evolving very, very quickly.''</p>
+        <p>Anyone whose family used the Anscochrome or early versions of Kodak's Ektachrome slide films for their photographic record of the 1960s will attest that conventional color photography has not always been a model of image longevity either. By the time digital photography began dominating, however, film and photographic paper makers had solved most preservation issues.</p>
+        <p>Traditional color prints have an advantage over inkjet prints. Dyes that make up images in traditional prints are suspended in three layers of gelatin, well below the surface.</p>
+        <p>Photo inkjet paper is generally coated to prevent the printer ink from soaking into its base, which would create a blurry and discolored photo. But that coating usually leaves the ink sprayed by the printer directly on top of the print, where it is vulnerable to light, humidity, pollution and scratches.</p>
+        <p>(Conventional black-and-white prints, which are made up of tiny grains of silver, remain the undisputed longevity champions.)</p>
+        <p>The life of color inkjet prints has also been hindered by the origins of the technology, which was mainly intended for printing things like pie charts, said Nils Miller, a scientist at Hewlett-Packard. ''The initial emphasis was, how do we get bright colors on plain paper,'' Dr. Miller said. ''Permanence was not really on the radar screen yet.''</p>
+        <p>Mr. Reilly and Mr. Wilhelm agree that a big leap for inkjet printing came with the development of inks whose coloring agents are pigments, which are suspended particles, rather than chemical dyes. Mr. Wilhelm says his tests have shown that pigment inkjet printers from several makers now offer better longevity than conventional color prints.</p>
+        <p>But issues came up with pigments. Creating inkjet printers that can spray pigment inks in a pattern fine enough for sharply detailed photographs was costly. Moreover, pigments cannot be used on glossy paper without special functions.</p>
+        <p>At the same time, dyes generally had the ability to reproduce a broader range of colors than pigments, often providing more vivid results. So until recently, most printer manufacturers marketed their pigment printers mainly to professionals.</p>
+        <p>As more people began using inkjet printers for photographs, their makers turned to Mr. Wilhelm to develop a system of accelerated testing -- torture tests using bright light, high heat and varying humidity -- to estimate how the prints would fare over time.</p>
+        <p>Mr. Wilhelm posts detailed results for many printers at wilhelm-research.com, although not all models are represented. Consumers can see snippets of Wilhelm Ratings in advertising and on packaging.</p>
+        <p>In general, inkjet printer companies highlight Wilhelm measurements that assume photos are framed under glass, a far more protective environment than, say, stuck on a refrigerator with a magnet.</p>
+        <p>Framed under glass, Mr. Wilhelm estimates that prints made on a Hewlett-Packard Photosmart 475, a dye printer that produces snapshot-size photos, will last 82 years. Unframed and exposed to fluorescent light, that drops to 42 years. With other models, the gap can be more drastic.</p>
+        <p>Mr. Reilly is uncomfortable with estimating print life in years. Instead, he suggests that any future international standard offer broad evaluations in plain language. At the bottom, he said, would be ''terrible,'' followed by ''pretty good, it will be around in a few years but we're not really sure if it's going be there for your grandchildren.'' And, finally, ''excellent'' for products that, presumably, in exchange for durability will be more expensive or troublesome to use.</p>
+        <p>Mr. Reilly cites the ''Epson disaster'' as an example of the unforeseen perils of inkjet prints. In 2000, Epson introduced two dye-base printers, the Stylus Photo 870 and the 1270, and a novel quick-drying paper. Mr. Wilhelm's tests predicted the combination would produce photos with a 10-year rating. But when the products went to market, users found that the colors in prints were changing drastically in as little as two months.</p>
+        <p>The problem, it turned out, was the quick-drying paper. It worked by increasing the paper's surface area with a pattern of microscopic pores to hold the ink. But that system made the ink vulnerable to airborne ozone, particularly in polluted cities. Since then, dye-base inks have been reformulated to limit such fading.</p>
+        <p>Hewlett-Packard has introduced a worst-case, best-case rating for one series of commercial printers. Dr. Miller says the company may expand that rating system.</p>
+        <p>The activities of the international-standards working group, of which Mr. Wilhelm, Mr. Miller and Mr. Reilly are members, are confidential, so it is unclear what system it will adopt.</p>
+        <p>To add to the confusion, Eastman Kodak, which recently entered the consumer inkjet printer market, has long rejected Mr. Wilhelm's test methods despite the support of all other major printer companies. Kodak argues that Mr. Wilhelm's tests assume that photos are exposed to more light in homes than is actually the case and so they overstate deterioration.</p>
+        <p>Because the international-standards group needs consensus, those disagreements are most likely to delay the introduction of a standard even further.</p>
+        <p>Mr. Wilhelm says he will move to whatever tests and rating system that are ultimately adopted. But he still argues that an index that offers a rating measured in years is the clearest guidance for shoppers.</p>
+        <p>''This is not perfect science,'' he said. ''Everyone knows that. It's a best attempt to allow consumers to make an informed purchase decision.''</p>
+        <p>PICTURE-PERFECT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

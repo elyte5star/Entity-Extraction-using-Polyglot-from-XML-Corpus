@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="11choi-4" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853810"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E5DD173FF932A25755C0A9619C8B63" item-length="470" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Turf Talk  ''West Coast Vaccine (The Cure)''  (Sick Wid' It/30 30/Navarre)</p>
+        <p>''You ain't no thug; you perpetratin'.'' Such was Judge Joe Brown's verdict when the Vallejo, Calif., rapper Turf Talk appeared on his TV show. Turf Talk was unfazed. ''I got a devastatin' mouthpiece, man,'' he said. ''It can't be tamed by nobody.'' And a few moments later, on the losing end of a $4,945.67 judgment (something about a woman who co-signed for a sport utility vehicle), he strutted out of the courtroom.</p>
+      </block>
+      <block class="full_text">
+        <p>Turf Talk  ''West Coast Vaccine (The Cure)''  (Sick Wid' It/30 30/Navarre)</p>
+        <p>''You ain't no thug; you perpetratin'.'' Such was Judge Joe Brown's verdict when the Vallejo, Calif., rapper Turf Talk appeared on his TV show. Turf Talk was unfazed. ''I got a devastatin' mouthpiece, man,'' he said. ''It can't be tamed by nobody.'' And a few moments later, on the losing end of a $4,945.67 judgment (something about a woman who co-signed for a sport utility vehicle), he strutted out of the courtroom.</p>
+        <p>Turf Talk is nothing if not brash; at the beginning of his 2004 debut album, ''The Street Novelist,'' he bragged about going platinum. In the end he didn't sell anywhere near a million copies, but thanks to that CD, along with the equally impressive 2005 follow-up, ''Turf Talk Brings the Hood Colabilation,'' he is a regional star. Like his older cousin, the hip-hop veteran E-40, Turf Talk is a flamboyant rhetorician. But whereas E-40 exudes avuncular charm, Turf Talk sounds as if he's nursing a grudge; his syllables arrive as a torrent of pinched vowels and bursting consonants. While some rappers strive to sound conversational, as if they're delivering the unvarnished truth, Turf Talk never lets you forget that each verse is a performance. When he raps, ''Please, oh please/You gotta pay me to sneeze,'' you half expect him to do just that.</p>
+        <p>No surprise then that Turf Talk's new album, ''West Coast Vaccine (The Cure),'' demands -- and rewards -- energetic listeners. The beats, many by the great Bay Area producer Rick Rock or the emerging beatmaker Droop-E (who happens to be E-40's son), are full of obstacles: trebly explosions, clattering drums, basslines that buzz like wrong answers. In response Turf Talk falls petulantly behind the beat (it's the hip-hop equivalent of leaning way back in the driver's seat), or else he counterattacks with quick lyrical bursts; his voice might be an overenunciated snarl or a tuneful whisper.</p>
+        <p>Although Turf Talk is often linked to the exuberant Bay Area hip-hop movement known as hyphy, his swaggering style also owes a debt to Los Angeles gangsta rap. (He lived for a while in Pomona, Calif.) In his rhymes, good cheer and bad attitude collide, as when he declares, ''E'er since elementary it been beef/E'er since my Osh Kosh and my two teef.'' And while this CD is definitely rough around the edges -- ''X,'' an oddly monotonous ode to taking ecstasy, is one of a handful of misfires -- it offers plenty of evidence to suggest that he could transcend his regional status. Maybe there's a major label willing to be devastated by Turf Talk's mouthpiece. Or maybe he'll just keep doing what he has been doing, releasing scrappy indie CDs like this one. And maybe that wouldn't be so bad, for him or for us.</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

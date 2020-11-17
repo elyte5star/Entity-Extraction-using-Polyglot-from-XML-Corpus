@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Supernatural Tales To Storybook Endings</title>
+    <meta content="15bala" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/arts/dance/15bala.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">New York City Ballet</org>
+        <person class="online_producer">Robbins, Jerome</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5DF153FF936A25755C0A9619C8B63" item-length="545" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Supernatural Tales To Storybook Endings</hl1>
+        <hl2 class="online_headline">From Supernatural Tales to Storybook Endings</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an effort to engage the public further, New York City Ballet might consider allowing people to create their own thematic evenings next season. How about a ''What on Earth?!'' night (like anybody would miss that) anchored by ''Dybbuk''?</p>
+        <p>For now, however, Jerome Robbins's bizarre adventure in Jewish folklore and mysticism throbs between ''Raymonda Variations'' and ''Stravinsky Violin Concerto'' in ''Balanchine and Robbins: Masters at Work,'' which had its first of four performances Wednesday night.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jerome Robbins combines Jewish folklore and mysticism in his bizarre program for the New York City Ballet as seen on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>In an effort to engage the public further, New York City Ballet might consider allowing people to create their own thematic evenings next season. How about a ''What on Earth?!'' night (like anybody would miss that) anchored by ''Dybbuk''?</p>
+        <p>For now, however, Jerome Robbins's bizarre adventure in Jewish folklore and mysticism throbs between ''Raymonda Variations'' and ''Stravinsky Violin Concerto'' in ''Balanchine and Robbins: Masters at Work,'' which had its first of four performances Wednesday night.</p>
+        <p>''Dybbuk'' was first seen in 1974, but Robbins continued tinkering with it long after its premiere. Most artists have subjects that torment them; the vision is there, but the means to realize it eludes. ''Dybbuk'' has such artistic discomfort written all over it, from the unhappy marriages of disparate movement styles to the way it strains after importance in depicting a tragic, supernatural love story. The over-the-top, giggle-inducing seriousness of Bernstein score doesn't help.</p>
+        <p>Benjamin Millepied and Jenifer Ringer do what they can as Chanon and Leah, but the natural warmth of both dancers is thwarted here, especially once Mr. Millepied transforms into the dybbuk, or lost spirit, who returns from the grave to reclaim his lover at her wedding to another man. And some of the spooky male unison dancing could be made more powerful through tightening of execution. But these complaints seem rather akin to quibbling about room service while the ship is going down.</p>
+        <p>It is with immeasurable relief, then, that the curtain rises next on the calm blue morning of ''Stravinsky Violin Concerto,'' leaving ''Dybbuk'' to fade like a troubled dream. Balanchine's lightness of touch in responding to the music's wonderfully rich humor astonishes, as does his ability to convey vast mysteries hovering beyond the everyday. He offers the social patinas and the niceties (at one point the dancers wave to one another) through sweeping group patterns, then swoops in to dissect a darker corner of human relations; when Maria Kowroski's long, powerful leg angles up and behind Amar Ramasar in Aria I, she is both beholden to him and preying upon him. Neither can win.</p>
+        <p>Mr. Ramasar sells the choreography a bit too hard, but he at least seems to be enjoying himself, unlike Nilas Martins, who doesn't generate much heat with Yvonne Borree in Aria II. Best of all is Craig Hall, whose sultry interpretation pulses in the ensemble.</p>
+        <p>By comparison to the astringent heat of ''Stravinsky Violin Concerto,'' ''Raymonda Variations'' can seem like a wallop of cotton candy, from Karinska's pink tutus to the nine delectable solos in which Balanchine riffs on the Petipa ballet. Horace Armistead's backdrop suggests a slightly wild but elegant garden, a traditional storybook setting. But Balanchine offers something else for the Glazunov score: a story about dancing, in which any expectations of narrative are swept aside by the choreographic architecture; so much so that when a dancer bobbled her footing in the final passage, it felt not as if an individual ballerina had lost her balance, but like a small tear in endlessly unspooling fabric. It's the kind of dance that fits into any theme you want.</p>
+        <p>''Balanchine and Robbins: Masters at Work'' will be performed tonight, Tuesday and June 23 at the New York State Theater, Lincoln Center; (212) 870-5570 or nycballet.com.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="12migrate--refer" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853995"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2DA173FF931A25755C0A9619C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Sudan, a Migration To Rival the Serengeti's  An aerial survey of southern Sudan has revealed vast migrating herds, including gazelles, antelopes and elephants, rivaling those of the Serengeti plains, that have managed to survive 25 years of civil war.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+        <p>Human Smuggling Charges  Three Texas National Guardsmen who patrol the Mexican border were charged with human smuggling after one was found driving a van carrying 24 illegal immigrants, the Justice Department said.</p>
+        <p>PAGE A13</p>
+        <p>A Stubborn Case of Spending  The ballooning cost of cancer treatment, one of Medicare's most expensive categories, shows how hard it may be to rein in health care spending without changing how doctors are paid.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Senate Takes Up Energy Bill  With gasoline prices hovering near all-time highs, the Senate began debating a sprawling energy bill that has already kicked off an epic lobbying war by huge industries, some of them in conflict with one another.</p>
+        <p>PAGE A14</p>
+        <p>Africa's Cinematic Storyteller  Ousmane Sembène, the father of African filmmaking who died over the weekend at 84, challenged the continent's postcolonial rulers and French-educated elite, preferring to seek out the stories of ordinary Africans. An appraisal by A. O. Scott.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>Phillies Equal Futility  The Philadelphia Phillies, who have won only one World Series in their 125 years, have the most losses of any United States professional sports franchise. Their level of futility will soon reach 10,000 losses.</p>
+        <p>SPORTSTUESDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>In Sudan, a Migration To Rival the Serengeti's  An aerial survey of southern Sudan has revealed vast migrating herds, including gazelles, antelopes and elephants, rivaling those of the Serengeti plains, that have managed to survive 25 years of civil war.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+        <p>Human Smuggling Charges  Three Texas National Guardsmen who patrol the Mexican border were charged with human smuggling after one was found driving a van carrying 24 illegal immigrants, the Justice Department said.</p>
+        <p>PAGE A13</p>
+        <p>A Stubborn Case of Spending  The ballooning cost of cancer treatment, one of Medicare's most expensive categories, shows how hard it may be to rein in health care spending without changing how doctors are paid.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Senate Takes Up Energy Bill  With gasoline prices hovering near all-time highs, the Senate began debating a sprawling energy bill that has already kicked off an epic lobbying war by huge industries, some of them in conflict with one another.</p>
+        <p>PAGE A14</p>
+        <p>Africa's Cinematic Storyteller  Ousmane Sembène, the father of African filmmaking who died over the weekend at 84, challenged the continent's postcolonial rulers and French-educated elite, preferring to seek out the stories of ordinary Africans. An appraisal by A. O. Scott.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>Phillies Equal Futility  The Philadelphia Phillies, who have won only one World Series in their 125 years, have the most losses of any United States professional sports franchise. Their level of futility will soon reach 10,000 losses.</p>
+        <p>SPORTSTUESDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

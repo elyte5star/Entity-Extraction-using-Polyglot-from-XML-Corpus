@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paperback Row</title>
+    <meta content="PaperRow.t" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/books/review/0617bb-paperback.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E3DF1F30F934A25755C0A9619C8B63" item-length="766" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paperback Row</hl1>
+        <hl2 class="online_headline">Paperback Row</hl2>
+      </hedline>
+      <byline class="print_byline">By Ihsan Taylor</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE WHISTLING SEASON, by Ivan Doig. (Harvest/Harcourt, $14.) A presiding figure in the literature of the American West, Doig sets his latest novel, like most of his books, in rural Montana. His narrator, a school superintendent named Paul Milliron, looks back to the fall of 1909, when he was 13 and his recently widowed father answered a newspaper ad from a woman seeking employment. The housekeeper, Rose Llewellyn, is as feisty and willful as she is charming, and she brings with her a surprise guest -- her scholarly brother, who, after the elopement of the community's only teacher, takes over the one-room schoolhouse. ''The land and its people -- the family, the neighbors -- are laid out before us with a fresh, natural openness,'' Sven Birkerts wrote in the Book Review.</p>
+        <p>KNOWLEDGE AND THE WEALTH OF NATIONS: A Story of Economic Discovery, by David Warsh. (Norton, $16.95.) Warsh, a former columnist for The Boston Globe who writes the online newsletter Economic Principals, recounts the intellectual revolution that swept economics in the 1970s and '80s and describes a centuries-old contradiction at the heart of economic theory: the conflict between unrestrained economies of scale, which tend toward monopoly, and the free-market assumption that there are many competitors.</p>
+        <p>ELEMENTS OF STYLE, by Wendy Wasserstein. (Vintage, $14.95.) Wasserstein's only novel -- the Pulitzer Prize-winning playwright died of lymphoma last year, at 55 -- is a bright social comedy that takes a sudden, tragic turn. As well-heeled Manhattan socialites adapt to post-9/11 life, their antics are satirized through the eyes of Wasserstein's heroine, Francesca Weissman, a Fifth Avenue pediatrician who treats both the children of her social peers and the disadvantaged of East Harlem.</p>
+        <p>ROUGH CROSSING: Britain, the Slaves and the American Revolution, by Simon Schama. (Harper Perennial, $16.95.) This stirring reconsideration of the American Revolution focuses on the tens of thousands of runaway slaves who served the British crown in hopes of securing their freedom. Of those who reached British protection, many died of disease or in battle, and Schama, a British historian, follows the exiled survivors to Nova Scotia and to Sierra Leone, where they experimented with democracy with the help of British abolitionists. MIDDLE PASSAGES: African American Journeys to Africa, 1787-2005, by James T. Campbell. (Penguin, $17.) An episodic book of interlocking stories, ''Middle Passages'' outlines two centuries of black Americans' travels to Africa in search of cultural identity -- from the repatriation of former slaves to the radical political refugees who gathered in Ghana in the 1950s and '60s.</p>
+        <p>ALL WILL BE WELL: A Memoir, by John McGahern. (Vintage International, $14.95.) McGahern (1934-2006), who conjured stark depictions of love and despair in repressive rural Ireland, was one of his country's most acclaimed fiction writers. This powerful memoir recalls the small, intense community of McGahern's childhood, his dysfunctional yet devoutly religious family, and his adoration for his mother, who died of cancer when McGahern was still a boy.</p>
+        <p>MOHR, by Frederick Reuss. (Unbridled, $16.95.) Max Mohr, the protagonist of Reuss's fourth novel, was a real person -- a German Jew, a medical doctor, a successful writer and a friend of D. H. Lawrence. He was also Reuss's distant relative. ''Mohr'' imagines the period of his life in the 1930s when he left his gentile wife and half-Jewish daughter in Bavaria and went to work as a physician in Shanghai, where he died in mysterious circumstances in 1937.</p>
+        <p>CURRY: A Tale of Cooks and Conquerors, by Lizzie Collingham. (Oxford University, $15.95.) This is a lively study of Indian cooking from the Mogul Empire of the 1600s to the stretch of Lexington Avenue in New York known as Curry Hill. (Curry, it turns out, is a British classification, a catchall based on a term used by Portuguese colonists.)</p>
+        <p>REPORTING: Writings From The New Yorker, by David Remnick. (Vintage, $15.) These 23 articles from The New Yorker (Remnick has served as the magazine's editor since 1998) range from intimate portraits of Al Gore and Mike Tyson to the ravages of Hurricane Katrina and the Hamas victory in the 2006 Palestinian elections. Several pieces explore the aftermath of the Soviet Union's collapse, which Remnick recorded in his Pulitzer Prize-winning book ''Lenin's Tomb.'' Our reviewer, Pete Hamill, called this collection ''the work of a proud generalist, avidly curious about the many enigmas of the world.''</p>
+        <p>JPOD, by Douglas Coupland. (Bloomsbury, $14.95.) Coupland's ninth novel since his 1991 debut, ''Generation X,'' ''JPod'' is narrated by Ethan Jarlewski, a disenchanted video-game programmer saddled with parents less mature than he is and surrounded by young colleagues busy staving off adulthood.</p>
+        <p>Ihsan Taylor</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Paperback books of particular interest.</p>
+      </block>
+      <block class="full_text">
+        <p>THE WHISTLING SEASON, by Ivan Doig. (Harvest/Harcourt, $14.) A presiding figure in the literature of the American West, Doig sets his latest novel, like most of his books, in rural Montana. His narrator, a school superintendent named Paul Milliron, looks back to the fall of 1909, when he was 13 and his recently widowed father answered a newspaper ad from a woman seeking employment. The housekeeper, Rose Llewellyn, is as feisty and willful as she is charming, and she brings with her a surprise guest -- her scholarly brother, who, after the elopement of the community's only teacher, takes over the one-room schoolhouse. ''The land and its people -- the family, the neighbors -- are laid out before us with a fresh, natural openness,'' Sven Birkerts wrote in the Book Review.</p>
+        <p>KNOWLEDGE AND THE WEALTH OF NATIONS: A Story of Economic Discovery, by David Warsh. (Norton, $16.95.) Warsh, a former columnist for The Boston Globe who writes the online newsletter Economic Principals, recounts the intellectual revolution that swept economics in the 1970s and '80s and describes a centuries-old contradiction at the heart of economic theory: the conflict between unrestrained economies of scale, which tend toward monopoly, and the free-market assumption that there are many competitors.</p>
+        <p>ELEMENTS OF STYLE, by Wendy Wasserstein. (Vintage, $14.95.) Wasserstein's only novel -- the Pulitzer Prize-winning playwright died of lymphoma last year, at 55 -- is a bright social comedy that takes a sudden, tragic turn. As well-heeled Manhattan socialites adapt to post-9/11 life, their antics are satirized through the eyes of Wasserstein's heroine, Francesca Weissman, a Fifth Avenue pediatrician who treats both the children of her social peers and the disadvantaged of East Harlem.</p>
+        <p>ROUGH CROSSING: Britain, the Slaves and the American Revolution, by Simon Schama. (Harper Perennial, $16.95.) This stirring reconsideration of the American Revolution focuses on the tens of thousands of runaway slaves who served the British crown in hopes of securing their freedom. Of those who reached British protection, many died of disease or in battle, and Schama, a British historian, follows the exiled survivors to Nova Scotia and to Sierra Leone, where they experimented with democracy with the help of British abolitionists. MIDDLE PASSAGES: African American Journeys to Africa, 1787-2005, by James T. Campbell. (Penguin, $17.) An episodic book of interlocking stories, ''Middle Passages'' outlines two centuries of black Americans' travels to Africa in search of cultural identity -- from the repatriation of former slaves to the radical political refugees who gathered in Ghana in the 1950s and '60s.</p>
+        <p>ALL WILL BE WELL: A Memoir, by John McGahern. (Vintage International, $14.95.) McGahern (1934-2006), who conjured stark depictions of love and despair in repressive rural Ireland, was one of his country's most acclaimed fiction writers. This powerful memoir recalls the small, intense community of McGahern's childhood, his dysfunctional yet devoutly religious family, and his adoration for his mother, who died of cancer when McGahern was still a boy.</p>
+        <p>MOHR, by Frederick Reuss. (Unbridled, $16.95.) Max Mohr, the protagonist of Reuss's fourth novel, was a real person -- a German Jew, a medical doctor, a successful writer and a friend of D. H. Lawrence. He was also Reuss's distant relative. ''Mohr'' imagines the period of his life in the 1930s when he left his gentile wife and half-Jewish daughter in Bavaria and went to work as a physician in Shanghai, where he died in mysterious circumstances in 1937.</p>
+        <p>CURRY: A Tale of Cooks and Conquerors, by Lizzie Collingham. (Oxford University, $15.95.) This is a lively study of Indian cooking from the Mogul Empire of the 1600s to the stretch of Lexington Avenue in New York known as Curry Hill. (Curry, it turns out, is a British classification, a catchall based on a term used by Portuguese colonists.)</p>
+        <p>REPORTING: Writings From The New Yorker, by David Remnick. (Vintage, $15.) These 23 articles from The New Yorker (Remnick has served as the magazine's editor since 1998) range from intimate portraits of Al Gore and Mike Tyson to the ravages of Hurricane Katrina and the Hamas victory in the 2006 Palestinian elections. Several pieces explore the aftermath of the Soviet Union's collapse, which Remnick recorded in his Pulitzer Prize-winning book ''Lenin's Tomb.'' Our reviewer, Pete Hamill, called this collection ''the work of a proud generalist, avidly curious about the many enigmas of the world.''</p>
+        <p>JPOD, by Douglas Coupland. (Bloomsbury, $14.95.) Coupland's ninth novel since his 1991 debut, ''Generation X,'' ''JPod'' is narrated by Ethan Jarlewski, a disenchanted video-game programmer saddled with parents less mature than he is and surrounded by young colleagues busy staving off adulthood.</p>
+        <p>Ihsan Taylor</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

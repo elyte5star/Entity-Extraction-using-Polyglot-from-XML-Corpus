@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Horizon, Personalized Depression Drugs</title>
+    <meta content="19beha" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855659"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BEHAVIOR"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E0DA1731F93AA25755C0A9619C8B63" item-length="870" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Horizon, Personalized Depression Drugs</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD A. FRIEDMAN, M.D.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Imagine that you are depressed and see a psychiatrist who explains that you have clinical depression and would benefit from an antidepressant. So far, so good. But then the doctor tells you there is a 60 percent chance that you'll feel better with this antidepressant and that it could take as long as four to six weeks to find out, during which time you'll probably have some side effects from the drug.</p>
+        <p>I have just described the state-of-the-art pharmacologic treatment of major depression in 2007. Don't get me wrong; we have very effective and safe treatments for a broad array of psychiatric disorders. But in everyday clinical practice, we have little ability to predict which specific treatment will work best for you.</p>
+      </block>
+      <block class="full_text">
+        <p>Imagine that you are depressed and see a psychiatrist who explains that you have clinical depression and would benefit from an antidepressant. So far, so good. But then the doctor tells you there is a 60 percent chance that you'll feel better with this antidepressant and that it could take as long as four to six weeks to find out, during which time you'll probably have some side effects from the drug.</p>
+        <p>I have just described the state-of-the-art pharmacologic treatment of major depression in 2007. Don't get me wrong; we have very effective and safe treatments for a broad array of psychiatric disorders. But in everyday clinical practice, we have little ability to predict which specific treatment will work best for you.</p>
+        <p>Laura is a case in point. A successful management consultant in her late 30s, she sought help for lifelong depression. Her treatment began with four weeks of the antidepressant Lexapro, a selective serotonin reuptake inhibitor, or S.S.R.I., without any effect. Next, I switched her to Zoloft, another S.S.R.I., since the chance of response to another member of the same drug family is about 60 percent. Again, no response. Then we moved on to Wellbutrin, an entirely different type of antidepressant, but this didn't work either. Laura was now ready to call it quits, and who could blame her?</p>
+        <p>After nearly three months, I had still not found an effective treatment for her. Then she came in one day and said her father had recently revealed that he had been depressed and had done well on Prozac, another S.S.R.I., and she wondered if she could try it. Within three weeks, she felt markedly better, and the symptoms of her depression began to melt away.</p>
+        <p>Instead of the hit-or-miss approach I had to use with Laura, it will soon be possible for a psychiatrist to biologically personalize treatments. With a simple blood test, the doctor will be able to characterize a patient's unique genetic profile,  determining what biological type of depression the patient has and which antidepressant is likely to work best.</p>
+        <p>Scientists have identified genetic variations that affect specific neurotransmitter functions, which could explain why some patients respond to some drugs but not to others. For example, some depressed patients who have abnormally low levels of serotonin respond to S.S.R.I.'s, which relieve depression, in part, by flooding the brain with serotonin. Other depressed patients may have an abnormality in other neurotransmitters that regulate mood, like norepinephrine or dopamine, and may not respond to S.S.R.I.'s.</p>
+        <p>In a report last October in the journal Science, Dr. Francis Lee, a colleague of mine at Weill Cornell Medical College, identified a genetic mutation that could potentially predict patients' responses to an entire class of antidepressants.</p>
+        <p>He inserted into a mouse a defective variant of the human gene for brain-derived neurotrophic factor, a protein that is increased in the brain with S.S.R.I.treatment and is critical to the health of neurons. Then he subjected these  ''humanized'' mice to stress and found that they did not respond to Prozac with decreased anxiety. The clear implication is that people with this variant will not be able to respond to any S.S.R.I., which requires normal neurotrophic-factor function to work. A psychiatrist could identify this genetic variant and then steer his patient to a different class of antidepressants.</p>
+        <p>Furthermore, other genes may play a role in the adverse effects of antidepressants that have made recent headlines: suicidal behavior. Recent evidence shows that a small number of depressed adolescents and young adults experience an increase in suicidal feelings and thoughts when they are treated with S.S.R.I.'s, compared with a placebo. It is  entirely possible that a genetic variation in one or more genes that regulate serotonin function makes these people feel briefly more suicidal, rather than less, when exposed to the drugs.</p>
+        <p>This new field of pharmacogenomics will also enable psychiatrists to predict which drugs might produce toxic side effects for certain patients. Nearly all drugs are metabolized by a group of enzymes that vary greatly in activity from person to person. If patients have a genetic mutation that results in either deficient enzyme activity or none, they would be likely to have serious side effects if exposed to the drug that is metabolized by the enzyme.</p>
+        <p>Within a few years, patients could  be routinely screened for these genetic variations, which will tell a doctor which drugs to avoid. This could potentially prevent unnecessary drug toxicity, a major cause of illness and death.</p>
+        <p>Aside from the potential to transform clinical psychiatric practice, these new developments will surely change the relationship between doctors and the drug industry and between the industry and the public. Direct-to-consumer advertising will become nearly irrelevant because the drugs will no longer be interchangeable, but will be prescribed based on an individual's biological profile. Likewise, doctors will have little reason to meet with drug company representatives because they won't be able to give doctors the single most important piece of information: which drug for which patient. For that doctors will need a genetic test, not a salesman.</p>
+        <p>Soon, your psychiatrist will really get to know you -- not just your mind, but your brain, too. Treatment doesn't get more personal than that.</p>
+        <p>BEHAVIOR</p>
+        <p>Richard A. Friedman is director of the psychopharmacology clinic at the Weill Cornell Medical College.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Richard A. Friedman is director of the psychopharmacology clinic at the Weill Cornell Medical College.</tagline>
+    </body.end>
+  </body>
+</nitf>

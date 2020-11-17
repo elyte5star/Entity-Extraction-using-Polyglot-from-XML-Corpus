@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paperback Row</title>
+    <meta content="paperrow.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/books/review/0610bb-paperback.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853431"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DE1030F933A25755C0A9619C8B63" item-length="765" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paperback Row</hl1>
+        <hl2 class="online_headline">Paperback Row</hl2>
+      </hedline>
+      <byline class="print_byline">By Ihsan Taylor</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE POSSIBILITY OF AN ISLAND, by Michel Houellebecq. Translated by Gavin Bowd. (Vintage International, $14.95.) In this ingenious novel by a French author and provocateur, Daniel, a middle-aged film producer and emotional failure, joins a cult of sexually promiscuous health fanatics who achieve immortality through cloning. The narrative alternates between Daniel and one of his clones, Daniel24, who picks up the story of Daniel -- and the story of human history -- thousands of years in the future, when Daniel24 and his fellow ''neohumans'' live in a world ravaged by environmental disaster and almost completely devoid of human interaction. In the Book Review, Stephen Metcalf called this novel ''brilliant and searing'' and Houellebecq's antihero ''delightfully lubricious.''</p>
+        <p>UNTOLD STORIES, by Alan Bennett. (Picador, $20.) Bennett has been revered by British audiences of radio, television, stage and screen for decades (his latest play, ''The History Boys,'' won three Laurence Olivier Awards and six Tonys). This collection contains diary entries; book reviews; memorial-service tributes; lectures and essays about art; and three deeply affecting memoirs.</p>
+        <p>LOUIS ARMSTRONG'S NEW ORLEANS, by Thomas Brothers. (Norton, $16.95.) This superb history examines the social and musical milieu of early-20th-century New Orleans that shaped early jazz and nurtured Louis Armstrong's extraordinary talents. TRIKSTA: Life and Death and New Orleans Rap, by Nik Cohn. (Vintage, $13.95.) Cohn, the British-born author of a seminal book of rock criticism, ''Awopbopaloobop Alopbamboom'' (1968), chronicles his obsession with New Orleans, its chaotic rap scene and his short-lived career as a rap A &amp; R man-cum-producer.</p>
+        <p>CELLOPHANE, by Marie Arana. (Dial, $14.) Set in the Peruvian rain forest, Arana's enchanting first novel is a magical realist tale that draws on some of the same material that animated ''American Chica,'' her memoir about a dual upbringing in Peru and the United States. Her protagonist, the aging engineer Don Victor Sobrevilla Paniagua, is obsessed by his desire to build a paper mill on the banks of the Ucayali River. But once he masters the ''fragile, pellucid, mysterious'' substance cellophane, Don Victor's industry is thwarted -- not just by factory workers, soldiers and local tribesmen but by pishtacos, bloodthirsty spirits that lurk in the machines themselves. Our reviewer, Liesl Schillinger, said Arana, the editor of The Washington Post Book World, ''has flown above her own history to construct a surreal but orderly pattern: a fiction that's stranger than her truth but shares its bones.''</p>
+        <p>GHOST HUNTERS: William James and the Search for Scientific Proof of Life After Death, by Deborah Blum. (Penguin, $15.) Blum, a professor of science journalism at the University of Wisconsin, offers a fascinating account of how a group of 19th-century scholars known as the Society for Psychical Research -- which included the eminent Harvard psychologist William James -- attempted to provide rigorous, empirical evidence of a spiritual realm.</p>
+        <p>THE ATTACK, by Yasmina Khadra. Translated by John Cullen. (Anchor, $13.95.) In ''The Swallows of Kabul,'' Khadra (a pseudonym taken by a former Algerian Army officer) followed two very different families in Afghanistan during the Taliban's rule. His latest novel confronts the Israeli-Palestinian conflict, and is told from the perspective of a female suicide bomber's husband, an Israeli Arab surgeon in Tel Aviv, who plunges into the world of Islamic extremism, trying to understand how he missed signs of his wife's intentions.</p>
+        <p>WHAT TO EAT, by Marion Nestle. (North Point, $16.) This is a comprehensive aisle-by-aisle guide to supermarket shopping, by a nutritionist at New York University, that evaluates our diet in terms of health, safety and the obfuscations of the food industry.</p>
+        <p>THE ONE PERCENT DOCTRINE: Deep Inside America's Pursuit of Its Enemies Since 9/11, by Ron Suskind. (Simon &amp; Schuster, $15.) Suskind's previous book, ''The Price of Loyalty,'' recounted the early months of the Bush administration through the eyes of the former Treasury chief Paul O'Neill. Here he focuses on the administration's shadowy war against Al Qaeda and its doctrine of pre-emptive action. (The title refers to a mandate, which Suskind says Vice President Dick Cheney articulated shortly after 9/11, that any threat that bears even a 1 percent chance of being real must be treated as real.) Suskind, whose main source appears to be George Tenet, the former director of central intelligence, ''commands an authorial voice many journalists can only dream of,'' Bryan Burrough wrote here.</p>
+        <p>WATER FOR ELEPHANTS, by Sara Gruen. (Algonquin, $13.95.) An arresting portrayal of the subculture of the Depression-era circus, Gruen's third novel revolves around a young veterinary student who inveigles a job as an animal doctor for the Benzini Brothers Most Spectacular Show on Earth.</p>
+        <p>Ihsan Taylor</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Paperback books of particular interest.</p>
+      </block>
+      <block class="full_text">
+        <p>THE POSSIBILITY OF AN ISLAND, by Michel Houellebecq. Translated by Gavin Bowd. (Vintage International, $14.95.) In this ingenious novel by a French author and provocateur, Daniel, a middle-aged film producer and emotional failure, joins a cult of sexually promiscuous health fanatics who achieve immortality through cloning. The narrative alternates between Daniel and one of his clones, Daniel24, who picks up the story of Daniel -- and the story of human history -- thousands of years in the future, when Daniel24 and his fellow ''neohumans'' live in a world ravaged by environmental disaster and almost completely devoid of human interaction. In the Book Review, Stephen Metcalf called this novel ''brilliant and searing'' and Houellebecq's antihero ''delightfully lubricious.''</p>
+        <p>UNTOLD STORIES, by Alan Bennett. (Picador, $20.) Bennett has been revered by British audiences of radio, television, stage and screen for decades (his latest play, ''The History Boys,'' won three Laurence Olivier Awards and six Tonys). This collection contains diary entries; book reviews; memorial-service tributes; lectures and essays about art; and three deeply affecting memoirs.</p>
+        <p>LOUIS ARMSTRONG'S NEW ORLEANS, by Thomas Brothers. (Norton, $16.95.) This superb history examines the social and musical milieu of early-20th-century New Orleans that shaped early jazz and nurtured Louis Armstrong's extraordinary talents. TRIKSTA: Life and Death and New Orleans Rap, by Nik Cohn. (Vintage, $13.95.) Cohn, the British-born author of a seminal book of rock criticism, ''Awopbopaloobop Alopbamboom'' (1968), chronicles his obsession with New Orleans, its chaotic rap scene and his short-lived career as a rap A &amp; R man-cum-producer.</p>
+        <p>CELLOPHANE, by Marie Arana. (Dial, $14.) Set in the Peruvian rain forest, Arana's enchanting first novel is a magical realist tale that draws on some of the same material that animated ''American Chica,'' her memoir about a dual upbringing in Peru and the United States. Her protagonist, the aging engineer Don Victor Sobrevilla Paniagua, is obsessed by his desire to build a paper mill on the banks of the Ucayali River. But once he masters the ''fragile, pellucid, mysterious'' substance cellophane, Don Victor's industry is thwarted -- not just by factory workers, soldiers and local tribesmen but by pishtacos, bloodthirsty spirits that lurk in the machines themselves. Our reviewer, Liesl Schillinger, said Arana, the editor of The Washington Post Book World, ''has flown above her own history to construct a surreal but orderly pattern: a fiction that's stranger than her truth but shares its bones.''</p>
+        <p>GHOST HUNTERS: William James and the Search for Scientific Proof of Life After Death, by Deborah Blum. (Penguin, $15.) Blum, a professor of science journalism at the University of Wisconsin, offers a fascinating account of how a group of 19th-century scholars known as the Society for Psychical Research -- which included the eminent Harvard psychologist William James -- attempted to provide rigorous, empirical evidence of a spiritual realm.</p>
+        <p>THE ATTACK, by Yasmina Khadra. Translated by John Cullen. (Anchor, $13.95.) In ''The Swallows of Kabul,'' Khadra (a pseudonym taken by a former Algerian Army officer) followed two very different families in Afghanistan during the Taliban's rule. His latest novel confronts the Israeli-Palestinian conflict, and is told from the perspective of a female suicide bomber's husband, an Israeli Arab surgeon in Tel Aviv, who plunges into the world of Islamic extremism, trying to understand how he missed signs of his wife's intentions.</p>
+        <p>WHAT TO EAT, by Marion Nestle. (North Point, $16.) This is a comprehensive aisle-by-aisle guide to supermarket shopping, by a nutritionist at New York University, that evaluates our diet in terms of health, safety and the obfuscations of the food industry.</p>
+        <p>THE ONE PERCENT DOCTRINE: Deep Inside America's Pursuit of Its Enemies Since 9/11, by Ron Suskind. (Simon &amp; Schuster, $15.) Suskind's previous book, ''The Price of Loyalty,'' recounted the early months of the Bush administration through the eyes of the former Treasury chief Paul O'Neill. Here he focuses on the administration's shadowy war against Al Qaeda and its doctrine of pre-emptive action. (The title refers to a mandate, which Suskind says Vice President Dick Cheney articulated shortly after 9/11, that any threat that bears even a 1 percent chance of being real must be treated as real.) Suskind, whose main source appears to be George Tenet, the former director of central intelligence, ''commands an authorial voice many journalists can only dream of,'' Bryan Burrough wrote here.</p>
+        <p>WATER FOR ELEPHANTS, by Sara Gruen. (Algonquin, $13.95.) An arresting portrayal of the subculture of the Depression-era circus, Gruen's third novel revolves around a young veterinary student who inveigles a job as an animal doctor for the Benzini Brothers Most Spectacular Show on Earth.</p>
+        <p>Ihsan Taylor</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Space Station Passes Test After Repairs To Computers</title>
+    <meta content="19shuttle" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/us/19shuttle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855641"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <classifier class="indexing_service" type="descriptor">Atlantis (Space Shuttle)</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Stations</classifier>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <person class="indexing_service">Williams, Sunita L (Cmdr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DE133FF93AA25755C0A9619C8B63" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Space Station Passes Test After Repairs To Computers</hl1>
+        <hl2 class="online_headline">Space Station Passes Test After Repairs to Computers</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Russian computers on International Space Station pass crucial test and are back in operation following weeklong glitch that might have led to station's evacuation had it not been fixed; six-man crew of space shuttle Atlantis packs up and prepares to go home; also returning to Earth will be Cmdr Sunita L Williams, concluding six-month stay on space station and setting record for longest spaceflight by woman; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Russian computers on the International Space Station passed a crucial test yesterday  and are back in operation following a weeklong glitch that might have led to the station's evacuation had  it  not been fixed.</p>
+        <p>With the space station's computers working again, the six-man crew of the space shuttle Atlantis packed up and prepared to go home. Also returning to Earth will be Cmdr. Sunita L. Williams, who is concluding a six-month stay on the space station and set the record for the longest spaceflight by a woman. Clayton C. Anderson, who flew up on Atlantis, is remaining at the station as Commander Williams's replacement.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With the space station’s computers working again, the six-man crew of the space shuttle Atlantis packed up and prepared to go home.</p>
+      </block>
+      <block class="full_text">
+        <p>Russian computers on the International Space Station passed a crucial test yesterday  and are back in operation following a weeklong glitch that might have led to the station's evacuation had  it  not been fixed.</p>
+        <p>With the space station's computers working again, the six-man crew of the space shuttle Atlantis packed up and prepared to go home. Also returning to Earth will be Cmdr. Sunita L. Williams, who is concluding a six-month stay on the space station and set the record for the longest spaceflight by a woman. Clayton C. Anderson, who flew up on Atlantis, is remaining at the station as Commander Williams's replacement.</p>
+        <p>''We have everything working as it's supposed to,'' Philip L. Engelauf, a member of mission operations, said at a news conference yesterday evening. ''We're in good shape as we get ready to undock.''</p>
+        <p>The Russian computers started crashing last Tuesday soon after the installation of a 17.2-ton truss. The computers control environmental systems in the Russian parts  of the station, an oxygen generator and, most crucially, thrusters that help maintain the station's orientation.</p>
+        <p>Gyroscopes can make small adjustments, but larger shifts require the thrusters. For the past week, the station has been relying on the thrusters of the docked Atlantis for any needed nudges. Had the computer problems  not been fixed before Atlantis's departure, the station's crew of three might also have had to leave.</p>
+        <p>But over the weekend, Russian astronauts pinpointed the problem to balky power circuitry that acts as surge protectors for the computers and bypassed the circuit. All the computers then started up and appear to be working normally, but engineers are still investigating.</p>
+        <p>''We still haven't found what I think folks would call a smoking gun that could identify exactly what caused the initial problem,'' Mr. Engelauf said.</p>
+        <p>In yesterday's test, the computers and thrusters resumed responsibility for the station's orientation.</p>
+        <p>Mission managers then gave the go-ahead for Atlantis's astronauts to leave. The hatches between the Atlantis and the space station were closed yesterday evening in preparation for undocking today. The Atlantis is scheduled to land at the Kennedy Space Center in Florida on Thursday.</p>
+        <p>Despite the  glitch, the shuttle astronauts accomplished more construction tasks than had been  planned. The astronauts also folded back and stapled down part of the shuttle's insulating blanket that had come loose during liftoff.</p>
+        <p>The damage was not considered a safety threat, but mission managers believed the heat of re-entry might cause damage to the underlying structure that would require lengthy repairs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

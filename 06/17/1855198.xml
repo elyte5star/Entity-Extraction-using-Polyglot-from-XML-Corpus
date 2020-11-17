@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TAX IS NOT INCLUDED</title>
+    <meta content="17suits-6" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855198"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Aquantive Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">McAndrews, Brian P</person>
+        <person class="indexing_service">Galgon, Michael</person>
+        <person class="indexing_service">Leder, Michelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D9153FF934A25755C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TAX IS NOT INCLUDED</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELLE LEDER</byline>
+      <byline class="normalized_byline">Leder, Michelle</byline>
+      <abstract>
+        <p>aQuantive chief executive Brian P McAndrews is expected to make $134 million from Microsoft's $6 billion acquisition of company; chief strategy officer Michael Galgon is set to make $44.6 million; unlike executives in many recent mergers, where reimbursements of tax bill--called tax gross-ups--on all stock are often part of deal, aQuantive's executives will not get gross-ups (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As with most mergers, top executives at aQuantive stand to make a lot of money by cashing in stock and exercising options now that Microsoft has agreed to acquire the company for $6 billion.</p>
+        <p>Brian P. McAndrews, the chief executive of aQuantive, an online advertising firm, is expected to make $134 million from the deal. Michael Galgon, the chief strategy officer, is set to make $44.6 million, according to the preliminary merger proxy filed with the Securities and Exchange Commission last week.</p>
+      </block>
+      <block class="full_text">
+        <p>As with most mergers, top executives at aQuantive stand to make a lot of money by cashing in stock and exercising options now that Microsoft has agreed to acquire the company for $6 billion.</p>
+        <p>Brian P. McAndrews, the chief executive of aQuantive, an online advertising firm, is expected to make $134 million from the deal. Michael Galgon, the chief strategy officer, is set to make $44.6 million, according to the preliminary merger proxy filed with the Securities and Exchange Commission last week.</p>
+        <p>But unlike executives in many recent mergers, where reimbursements of the tax bill -- called tax gross-ups -- on all the stock are often part of the deal, aQuantive's executives will not get gross-ups.</p>
+        <p>Jamie Leady, a spokeswoman for aQuantive, which is based in Seattle, declined to comment.</p>
+        <p>MICHELLE LEDER</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nomination of Chief Justice Raises Questions in Trenton</title>
+    <meta content="14justice" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14justice.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854420"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Rabner, Stuart J</person>
+        <person class="online_producer">Corzine, Jon S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7D8143FF937A25755C0A9619C8B63" item-length="443" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nomination of Chief Justice Raises Questions in Trenton</hl1>
+        <hl2 class="online_headline">Nomination of Chief Justice Raises Questions in Trenton</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD G. JONES; Ronald Smothers contributed reporting.</byline>
+      <dateline>TRENTON, June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Several African-American lawmakers raised questions on Wednesday about the nomination of New Jersey's attorney general to lead the state's Supreme Court, saying that Gov. Jon S. Corzine should have consulted more widely among them and given minority candidates more consideration.</p>
+        <p>It was the first sign of opposition to the nomination of Stuart Rabner, a former federal prosecutor whose appointment had been expected to proceed smoothly. Confirmation hearings were scheduled for next week for Mr. Rabner and the woman Mr. Corzine tapped to succeed him as attorney general, Anne Milgram.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Several African-American lawmakers raised questions on Wednesday about the nomination of New Jersey’s attorney general to lead the state’s Supreme Court.</p>
+      </block>
+      <block class="full_text">
+        <p>Several African-American lawmakers raised questions on Wednesday about the nomination of New Jersey's attorney general to lead the state's Supreme Court, saying that Gov. Jon S. Corzine should have consulted more widely among them and given minority candidates more consideration.</p>
+        <p>It was the first sign of opposition to the nomination of Stuart Rabner, a former federal prosecutor whose appointment had been expected to proceed smoothly. Confirmation hearings were scheduled for next week for Mr. Rabner and the woman Mr. Corzine tapped to succeed him as attorney general, Anne Milgram.</p>
+        <p>''They didn't give us the courtesy of a call,'' Ronald L. Rice, an Essex County Democrat and a state senator, said of Mr. Corzine's decision to name Mr. Rabner, his former counsel, as chief justice. Mr. Rabner would replace James R. Zazzali, who is retiring.</p>
+        <p>Senator Shirley K. Turner, a Democrat from Mercer County, said, ''We don't just rubber-stamp these things.''</p>
+        <p>The comments came after a report in The Star-Ledger of Newark said that another African-American Democrat, Senator Nia H. Gill of Essex County, was trying to block Mr. Rabner's nomination. Ms. Gill's office did not return calls Wednesday.</p>
+        <p>The leader of the State Senate, Richard J. Codey, played down the significance of the opposition. ''I don't think it means anything right now,'' he said of Ms. Gill's concerns. ''She has her own opinion, and we will see how the process works out.''</p>
+        <p>Since taking office 18 months ago, Mr. Corzine has appointed minorities to lead state operations like the Department of Environmental Protection and the office of the secretary of the state.</p>
+        <p>A spokesman for the governor defended the process that was used to select Mr. Rabner and said that eight departments are already headed by minority appointees.</p>
+        <p>''We are working in a reasoned and responsible way to bring together a consensus of all those who have a voice in this matter,'' said the spokesman, Anthony Coley. ''We can appreciate there are those who also feel passionate, and we appreciate their speaking out. That said, we will continue to move forward in this process in a responsible manner with our legislative partners to gain his confirmation.''</p>
+        <p>Mr. Corzine's first attorney general, Zulima V. Farber, who is Cuban-American, resigned in August 2006 after a report said she had acted improperly by intervening in a traffic stop of her companion.</p>
+        <p>Senator Turner said Mr. Corzine could do more to promote minorities, particularly judges. And, she said, he is not alone.</p>
+        <p>''This is a concern that I have not just with his administration,'' she said. ''This is definitely an ongoing concern. It did not start with this governor.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

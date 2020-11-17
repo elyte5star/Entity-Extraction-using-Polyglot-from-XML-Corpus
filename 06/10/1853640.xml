@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jennifer Johnson, Anthony Hicks</title>
+    <meta content="10JOHNSON" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853640"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Johnson, Jennifer Brooke (Jennifer Brooke Hicks)</person>
+        <person class="indexing_service">Hicks, Anthony Joseph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7D61F30F933A25755C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jennifer Johnson, Anthony Hicks</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jennifer Brooke Johnson, the daughter of Deborah Z. Johnson and Glen D. Johnson of Norman, Okla., was married yesterday to Anthony Joseph Hicks, a son of Maryann Hicks and Geoffrey K. Hicks of Haymarket, Va. The Rev. John B. Davis, a Roman Catholic priest, performed the ceremony at St. Paul's Chapel at Columbia University in New York.</p>
+        <p>Mrs. Hicks, 27, is an assistant news editor at the online edition of The Wall Street Journal in New York. She graduated from the University of Oklahoma. She received a master's degree in journalism from Columbia, where she is an adjunct professor of new media. Her father is a broker for Sam B. Rose Oil and Gas Properties, an oil and gas leasing company in Norman. Her mother is the chief reader for Oklahoma Scoring Services, which scores standardized tests.</p>
+      </block>
+      <block class="full_text">
+        <p>Jennifer Brooke Johnson, the daughter of Deborah Z. Johnson and Glen D. Johnson of Norman, Okla., was married yesterday to Anthony Joseph Hicks, a son of Maryann Hicks and Geoffrey K. Hicks of Haymarket, Va. The Rev. John B. Davis, a Roman Catholic priest, performed the ceremony at St. Paul's Chapel at Columbia University in New York.</p>
+        <p>Mrs. Hicks, 27, is an assistant news editor at the online edition of The Wall Street Journal in New York. She graduated from the University of Oklahoma. She received a master's degree in journalism from Columbia, where she is an adjunct professor of new media. Her father is a broker for Sam B. Rose Oil and Gas Properties, an oil and gas leasing company in Norman. Her mother is the chief reader for Oklahoma Scoring Services, which scores standardized tests.</p>
+        <p>Mr. Hicks, 28, is the manager of wholesale operations at Global Rock Networks, a telecommunications concern in New York; he sells telephone connection services to phone companies. He graduated from the University of Virginia. His father is the vice president for operations at BroadSoft, a maker of telephone software in Gaithersburg, Md.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

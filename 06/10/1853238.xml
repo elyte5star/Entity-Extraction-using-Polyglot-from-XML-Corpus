@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   JOHANOS, DONALD</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853238"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">JOHANOS, DONALD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DA143AF933A25755C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   JOHANOS, DONALD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOHANOS--Donald, one of the first prominent, American-born symphony orchestra conductors, died May 29 in Naples, FL, surrounded by his loving family. Maestro Johanos trained at the Eastman School of Music and served as Associate Conductor of the Pittsburgh Symphony and Music Director of the Dallas and Honolulu Symphonies. He recorded and conducted across the Americas, Europe, New Zealand, Japan and China over a 42 year career. His love, passion for life and music and sense of humor will be missed dearly. A memorial scholarship fund has been established in his honor and donations may be made to Interlochen Center for the Arts for the Donald Johanos Scholarship fund at: Interlochen Center for the Arts, PO Box 199, Interlochen, MI 49643, www.interlochen.org, phone: 231-276-7624</p>
+      </block>
+      <block class="full_text">
+        <p>JOHANOS--Donald, one of the first prominent, American-born symphony orchestra conductors, died May 29 in Naples, FL, surrounded by his loving family. Maestro Johanos trained at the Eastman School of Music and served as Associate Conductor of the Pittsburgh Symphony and Music Director of the Dallas and Honolulu Symphonies. He recorded and conducted across the Americas, Europe, New Zealand, Japan and China over a 42 year career. His love, passion for life and music and sense of humor will be missed dearly. A memorial scholarship fund has been established in his honor and donations may be made to Interlochen Center for the Arts for the Donald Johanos Scholarship fund at: Interlochen Center for the Arts, PO Box 199, Interlochen, MI 49643, www.interlochen.org, phone: 231-276-7624</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gehry's Sculptural Style Comes to the Table</title>
+    <meta content="07frank" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852659"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: HOUSEWARES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E7D91E30F934A35755C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gehry's Sculptural Style Comes to the Table</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN MILIOTI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There are more than 50 new items in the architect Frank Gehry's housewares collection for Tiffany &amp; Company, all recognizably Gehry-esque in their sweeping sculptural forms. Beyond that, though, the aesthetic range is wide -- as is the range of prices. Some pieces come in jewel-like Murano glass (the red and blue Flux bowls, top right, are $1,650 and $2,200), while others are sterling silver, inspired by crumpled paper but priced much higher (the Torque Object, right, is $25,000). The Leaf platters in bubinga wood and sterling silver are more costly still (the 14-inch wood version, top, is $25,000, and the six-inch silver one is $50,000). Mr. Gehry's personal favorites -- because of the ''basic grid pattern,'' he said, and the ''simple but commanding form'' -- are the openwork china and sterling pieces (the Grid Object pictured with Mr. Gehry is $4,500). There is something for smaller budgets, too: the three-inch Rock tumbler, in bone china, is $35. Tiffany &amp; Company, 727 Fifth Avenue (57th Street), (212) 755-8000; 210 North Rodeo Drive, Beverly Hills, Calif., (310) 273-8880; or (800) 526-0649 to order.</p>
+        <p>STEPHEN MILIOTI</p>
+      </block>
+      <block class="full_text">
+        <p>There are more than 50 new items in the architect Frank Gehry's housewares collection for Tiffany &amp; Company, all recognizably Gehry-esque in their sweeping sculptural forms. Beyond that, though, the aesthetic range is wide -- as is the range of prices. Some pieces come in jewel-like Murano glass (the red and blue Flux bowls, top right, are $1,650 and $2,200), while others are sterling silver, inspired by crumpled paper but priced much higher (the Torque Object, right, is $25,000). The Leaf platters in bubinga wood and sterling silver are more costly still (the 14-inch wood version, top, is $25,000, and the six-inch silver one is $50,000). Mr. Gehry's personal favorites -- because of the ''basic grid pattern,'' he said, and the ''simple but commanding form'' -- are the openwork china and sterling pieces (the Grid Object pictured with Mr. Gehry is $4,500). There is something for smaller budgets, too: the three-inch Rock tumbler, in bone china, is $35. Tiffany &amp; Company, 727 Fifth Avenue (57th Street), (212) 755-8000; 210 North Rodeo Drive, Beverly Hills, Calif., (310) 273-8880; or (800) 526-0649 to order.</p>
+        <p>STEPHEN MILIOTI  CURRENTS: HOUSEWARES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Backman Ready For His Show Of Shows</title>
+    <meta content="17curry" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/sports/baseball/17curry.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855240"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Arizona Diamondbacks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Arizona Diamondbacks</org>
+        <org class="online_producer">New York Mets</org>
+        <person class="online_producer">Backman, Wally</person>
+        <person class="online_producer">Fitzgerald, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0D6153FF934A25755C0A9619C8B63" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Backman Ready For His Show Of Shows</hl1>
+        <hl2 class="online_headline">Backman Ready for His Show of Shows</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK CURRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Fitzgerald is following anonymous baseball players again. But he is also following one not-so-anonymous manager.</p>
+        <p>Fitzgerald, whose debut film was about the Irish national baseball team, is chronicling the South Georgia Peanuts, an independent minor league team in the first-year South Coast League. The Peanuts, who are based in Albany, Ga., are anonymous, but Wally Backman, their manager, is not.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Former player and manager Wally Backman could become the star of John Fitzgerald’s fledgling reality show, which chronicles an independent minor league baseball team.</p>
+      </block>
+      <block class="full_text">
+        <p>John Fitzgerald is following anonymous baseball players again. But he is also following one not-so-anonymous manager.</p>
+        <p>Fitzgerald, whose debut film was about the Irish national baseball team, is chronicling the South Georgia Peanuts, an independent minor league team in the first-year South Coast League. The Peanuts, who are based in Albany, Ga., are anonymous, but Wally Backman, their manager, is not.</p>
+        <p>Backman, a former second baseman for the Mets who lost his manager's job with the Arizona Diamondbacks after only four days in 2004, could become the star of Fitzgerald's fledgling reality show. The Diamondbacks dismissed Backman after The New York Times reported that he had been arrested for drunken driving and for a domestic dispute with his second wife.</p>
+        <p>''They made me look like I was a drunken wife beater,'' Backman said in a trailer for the show.</p>
+        <p>Now Backman is trying to get back to the major leagues by managing the Peanuts, who endure 11-hour bus rides, subsist on $15 a day for meals and play on fields that high school players would shun. At one game, a groundskeeper used a plastic cup to outline the batter's box with chalk.</p>
+        <p>Fitzgerald is trying to sell ''Playing for Peanuts'' as an 8- or 10-week reality show that he said is really more of a documentary. After Backman wore a microphone for two weeks, Fitzgerald sounded as if he wanted to play for him.</p>
+        <p>''You could see why he relates to players,'' Fitzgerald said. ''I could see why they want to play hard for him.''</p>
+        <p>Backman shares his $40,000 salary with three coaches. The former power hitter Cecil Fielder -- a roving hitting instructor in the league -- is viewed by Fitzgerald as his show's equivalent of Newman in ''Seinfeld.''</p>
+        <p>''I'm the hit doctor,'' Fielder said.</p>
+        <p>Fitzgerald's first project was the documentary ''The Emerald Diamond,'' which focused on the tribulations of raw, developing players from Ireland. Some of the Irish players have helped finance ''Peanuts,'' which will show Backman and his anonymous players trying to climb baseball's ladder.</p>
+        <p>''Everywhere you turn,'' Fitzgerald said, ''it's a comeback story.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

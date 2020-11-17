@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Netflix Prize Still Awaits A Movie Seer</title>
+    <meta content="04netflix" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/technology/04netflix.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852100"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <org class="online_producer">Netflix Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DF1130F937A35755C0A9619C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Netflix Prize Still Awaits A Movie Seer</hl1>
+        <hl2 class="online_headline">Netflix Prize Still Awaits a Movie Seer</hl2>
+      </hedline>
+      <byline class="print_byline">By KATIE HAFNER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sometimes a good idea becomes a great one after it is set loose.</p>
+        <p>Last October, Netflix, the online movie rental service, announced that it would award  $1 million to the first person or team who can devise a system that is 10 percent more accurate than the company's current system for recommending movies that customers would like.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The race is very close in a contest by Netflix, the online movie rental service, for a better system of recommending movies.</p>
+      </block>
+      <block class="full_text">
+        <p>Sometimes a good idea becomes a great one after it is set loose.</p>
+        <p>Last October, Netflix, the online movie rental service, announced that it would award  $1 million to the first person or team who can devise a system that is 10 percent more accurate than the company's current system for recommending movies that customers would like.</p>
+        <p>About 18,000 teams from more than 150 countries -- using ideas from machine learning, neural networks, collaborative filtering and data mining -- have submitted more than 12,000 sets of guesses. And the improvement level to Netflix's rating system is now at 7.42 percent.</p>
+        <p>The competition is ''three-quarters of the way there in three-quarters of a year,'' said Reed Hastings, the chairman and chief executive of Netflix, based in Los Gatos, Calif.</p>
+        <p>The race  is very close, with no consistent front-runner. Each contestant is given a set of data from which three million predictions are made about how certain users rated certain movies. Netflix compares that list with the actual ratings and generates a score.</p>
+        <p>For several months, a team from the University of Toronto was in the lead, but a group from the Budapest University of Technology and Economics, calling themselves Team Gravity, surpassed the Canadians in January and remains in front.</p>
+        <p>Jim Bennett, vice president of recommendation systems at Netflix, said that he knew little about the Hungarians but noted they have a knack for pulling ahead when behind.</p>
+        <p>''These guys, especially that team, they're deep into it,'' Mr. Bennett said. ''Toronto would get slightly ahead of Gravity, and within hours, Gravity would make the next submission that would be just beyond them.'' The entries have sometimes arrived when it was the middle of the night in Hungary, Mr. Bennett said.</p>
+        <p>Domonkos Tikk, a data mining expert who is a senior researcher at the university in Budapest, leads Team Gravity. Dr. Tikk said that since October, his team, which is composed of three Ph.D. candidates and himself, has spent eight hours a day, seven days a week on the problem.</p>
+        <p>''One of the reasons of our current leading position is that we keep on trying to implement new tricks and ideas, and a reasonable portion of them works,'' he said.</p>
+        <p>The contest has also generated several academic papers, Mr. Bennett said. It has turned out to be more exciting than officials expected.</p>
+        <p>''It sits for the longest time and you think, 'Gee, maybe it's over,' '' Mr. Bennett said. ''And then -- bam -- someone takes it to the next step.''</p>
+        <p>If no one wins within a year, Netflix will award $50,000 to whoever makes the most progress, and will award the same amount each year until someone reaches the goal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

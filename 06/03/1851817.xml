@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books Worth a Spot On a Car Buff's Shelf</title>
+    <meta content="03MAYE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851817"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BOOKS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DB1530F930A35755C0A9619C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books Worth a Spot On a Car Buff's Shelf</hl1>
+      </hedline>
+      <byline class="print_byline">By NORMAN MAYERSOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Standard Catalog of American Cars  Various editors and contributors.  Illustrated. Krause Publications.</p>
+        <p>Doctors look up medications in the Physicians' Desk Reference; engineers find conversion formulas in the Bosch Automotive Handbook. The equivalent reference standard for American car enthusiasts is the Standard Catalog series, thick soft-cover volumes that detail each model with unembellished descriptions of the year's changes and highlights, along with production numbers, engine offerings, specifications, options and prices.</p>
+      </block>
+      <block class="full_text">
+        <p>Standard Catalog of American Cars  Various editors and contributors.  Illustrated. Krause Publications.</p>
+        <p>Doctors look up medications in the Physicians' Desk Reference; engineers find conversion formulas in the Bosch Automotive Handbook. The equivalent reference standard for American car enthusiasts is the Standard Catalog series, thick soft-cover volumes that detail each model with unembellished descriptions of the year's changes and highlights, along with production numbers, engine offerings, specifications, options and prices.</p>
+        <p>American cars are covered in three volumes (1805-1942; 1946-75; and 1976-99). In addition, there are separate volumes for individual marques, should you be a Buick or Cadillac loyalist, and others for imported cars (1946-2002), farm tractors and even Schwinn bicycles.</p>
+        <p>With their just-the-facts approach, the Standard Catalogs are not the sort of page-turners you might curl up with on a rainy evening. But if you need to know which year Chevrolet added the Impala to its model line, digging through the tiny type on these pages will tell you, using the automaker's own terminology in most cases. Some editions include small-volume makers at the back, lest you overlook a treat like the 1946 Gadabout, and others include price guides and year-by-year listings for the pace cars used at the Indianapolis 500.</p>
+        <p>While the Standard Catalogs are not flawless -- the introduction sections for each brand sometimes run off track -- they are generally trustworthy. Nomenclature is usually standardized and consistent; the authors dependably render details like the spelling of model names. To do basic research (or even just settle bar bets), no dedicated car lover's bookshelf is complete without them.</p>
+        <p>NORMAN MAYERSOHN</p>
+        <p>BOOKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

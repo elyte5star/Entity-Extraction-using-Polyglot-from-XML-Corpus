@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SERKEY, RENEE J.,</title>
+    <meta content="dn061907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855484"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SERKEY, RENEE J.,</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3DF153AF93AA25755C0A9619C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SERKEY, RENEE J.,</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SERKEY--Renee J., June 18, 2007. Much beloved father of Robert and Richard; fatherin-law of Pauline and Louise; grandfather of Ethan, Rebecca, and Jakub; uncle of Peter, Deirdre, Tony, and Anglea. He will live in our hearts forever. Service Sunday, June 24, 1pm at ''Schwartz Bros.'' (Queens Blvd and 76th Rd), Forest Hills, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>SERKEY--Renee J., June 18, 2007. Much beloved father of Robert and Richard; fatherin-law of Pauline and Louise; grandfather of Ethan, Rebecca, and Jakub; uncle of Peter, Deirdre, Tony, and Anglea. He will live in our hearts forever. Service Sunday, June 24, 1pm at ''Schwartz Bros.'' (Queens Blvd and 76th Rd), Forest Hills, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

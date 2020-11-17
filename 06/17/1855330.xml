@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Air Power</title>
+    <meta content="Sullivan2.t" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/books/review/Sullivan2-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855330"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Windmills</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Windmills</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DF1F30F934A25755C0A9619C8B63" item-length="984" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Air Power</hl1>
+        <hl2 class="online_headline">Air Power</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT SULLIVAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CAPE WIND</p>
+        <p>Money, Celebrity, Class, Politics, and</p>
+        <p>the Battle for Our Energy Future</p>
+        <p>on Nantucket Sound.</p>
+        <p>By Wendy Williams and Robert Whitcomb.</p>
+        <p>Illustrated. 326 pp. Public Affairs. $26.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One company’s battle to build a wind farm in Nantucket Sound.</p>
+      </block>
+      <block class="full_text">
+        <p>CAPE WIND</p>
+        <p>Money, Celebrity, Class, Politics, and</p>
+        <p>the Battle for Our Energy Future</p>
+        <p>on Nantucket Sound.</p>
+        <p>By Wendy Williams and Robert Whitcomb.</p>
+        <p>Illustrated. 326 pp. Public Affairs. $26.95.</p>
+        <p>If HBO is looking to develop a series based on environmental politics, then ''Cape Wind: Money, Celebrity, Class, Politics, and the Battle for Our Energy Future on Nantucket Sound'' is a natural for the option, with the Kennedys sitting in for the Sopranos, Nantucket Sound for the Meadowlands and phrases like ''environmental impact statement'' replacing ''swimming with the fishes.'' Cameos will include Elizabeth Taylor as the former wife of the anti-wind-farm Senator John Warner; Warner's former mother-in-law Bunny Mellon, the nonagenarian Listerine heiress who decorated the Kennedy White House (behind the scenes) and helped establish the Oyster Harbors Club; and Walter Cronkite, who, as the co-authors Wendy Williams and Robert Whitcomb have it, starts out on the side of darkness only to turn toward the light, or in this case, the wind. The setting is Horseshoe Shoal, about five miles off the coast of Cape Cod, where, in 2001, an energy developer named Jim Gordon proposed what he still hopes will be America's first offshore wind farm, an array of 130 turbines, 440 feet tall, that would create 468 megawatts of electrical energy, the only dangerous fumes being those emanating from the mad-as-hell multimillion-dollar homeowners on the Cape, Martha's Vineyard and Nantucket.</p>
+        <p>Williams, a Cape Cod-based journalist, and Whitcomb, the editorial page editor of The Providence Journal, have set out to show the political machinations behind the gale-force resistance to the project. Offshore wind farming is not a particularly radical endeavor; like inner-city congestion pricing (to name another proposed measure that has raised a loud cry of opposition, in this case in New York City), offshore wind farms have been successfully implemented in Europe. In March, Spain managed to get 27 percent of its total energy supply from wind. Criticism of wind power has been mitigated by increasingly efficient turbines and more bird-sensitive placement. Considering the acid-rain-laced option of coal-fired energy and the lingering fear of nuclear power, wind would seem poised to become a major player in America's alternative energy plans.</p>
+        <p>But not off Cape Cod, if the Alliance to Protect Nantucket Sound can help it. A great summer beach read about longtime summer beach communities, ''Cape Wind'' describes how the alliance managed to raise $4 million in one ballroom meeting at the Wianno Club, where the ''grass-roots'' campaign against the ''industrial complex'' of offshore ''Cuisinarts'' was kicked off by Douglas Yearley, a copper mining executive whose company was fined for killing birds in an acid runoff mishap in 2000, among other infractions. (With a 7,700-square-foot home on Nantucket Sound, Yearley, the 1993 Copper Man of the Year, was a sitting duck for wind-farm supporters when he praised ''sustainable living'' to a Massachusetts newspaper columnist.) Maneuvering quietly behind each anti-wind-farm maneuver, despite his often green legislation and his labor backers' support of the energy project, is the senior senator from Massachusetts, who is accused of bogging down the wind farm in Congress, where today, having been approved by Massachusetts, Cape Wind is going through its last regulatory review hurdles. When told that the turbines would be only barely visible on the horizon from Hyannisport, Ted Kennedy is quoted (secondhand) as replying, ''But don't you realize, that's where I sail.'' Even Robert F. Kennedy Jr., a noted environmentalist, makes a bizarre appearance on a radio talk show, lumping the wind power proponents in with ''polluters.'' (If built, the wind farm could provide up to 79 percent of the energy for Cape Cod, Martha's Vineyard and Nantucket, and cut down on the oil barges that have polluted the shores of Rhode Island.) The best the alliance can come up with are poorly disguised Nimby-isms that declare other places worthier of what the Martha's Vineyard-based historian David McCullough calls ''visual pollution.''</p>
+        <p>''Cape Wind'' is less an argument for wind power than an indictment of our money-soaked political process, but the indictment suffers when Williams and Whitworth match the snarkiness of the alliance with snarkiness of their own. ''It seemed as though the pastels crowd, normally adherents to the green-slacks-with-little-blue-fish craze, had dressed for war,'' the authors note in describing an appearance by Mitt Romney, then the governor and now a Republican presidential candidate, at a press event in March 2005. Romney is portrayed as a tool of the alliance, a fallen would-be environmentalist who is hard on polluting power plants but ends up speechifying for the public's beaches even though the beaches along Nantucket Sound are mostly private. Even for a wind book, there's too much about Romney's unrufflable hair.</p>
+        <p>And then there is their near-hagiographical portrait of Jim Gordon, the entrepreneur behind Cape Wind. ''He would go for the sunshine, opt for the high road, take his case to the nation's journalists and make sure everyone knew what was going on,'' the authors gush. But painting the working-class, Boston-raised green power advocate too clean makes the reader wary, for no good reason. Besides, something about Gordon's public relations strategy was obviously off, or maybe it's a matter of public priorities. As The Boston Globe noted two years into the six-year (and counting) battle, the Danes brought in wind power as more of a public trust, with a farm just off Copenhagen's harbor, the Danish government promoting it, subsidizing it, splitting ownership between the municipal utility and 8,500 individuals.</p>
+        <p>Scandinavians have also pointed out to the fossil-fuel-addicted public that wind power has been with us before, even in New York, where opposition is beginning to build to a wind farm on Long Island, off Jones Beach State Park. A few of the old windmills on Long Island are still there, antiques among the Hamptons' over-air-conditioned mansions. There used to be one in Lower Manhattan too, on the site of what became the World Trade Center.</p>
+        <p>Robert Sullivan is the author of ''Rats'' and ''Cross Country.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robert Sullivan is the author of ''Rats'' and ''Cross Country.''</tagline>
+    </body.end>
+  </body>
+</nitf>

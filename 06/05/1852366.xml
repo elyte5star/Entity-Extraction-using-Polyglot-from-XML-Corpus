@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>China Stocks Extend Loss, Falling 8.3%</title>
+    <meta content="05chinastox" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/worldbusiness/05chinastox.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852366"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="indexing_service" type="descriptor">Melamine</classifier>
+        <classifier class="indexing_service" type="descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Counterfeit Merchandise</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Barboza, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Counterfeit Merchandise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">China</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E1D91130F936A35755C0A9619C8B63" item-length="784" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>China Stocks Extend Loss, Falling 8.3%</hl1>
+        <hl2 class="online_headline">China Stocks Extend Loss, Falling 8.3%</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID BARBOZA</byline>
+      <byline class="normalized_byline">Barboza, David</byline>
+      <dateline>SHANGHAI, June 4</dateline>
+      <abstract>
+        <p>Recent food contamination scare that involved industrial chemical melamine, which was being used as filler in pet foods, raises concerns about Chinese entrepeneurs; highlights China's legacy of producing fake or tainted goods and cutting corners in rush toward free market, which has continued to spark nation's thriving industrial economy; counterfeiting has long been common in China, but becomes more dangerous as it reaches food ingredients and pharmaceuticals; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China's stock markets tumbled again on Monday, worsening one of the biggest sell-offs in years after the government's move last week to impose a higher tax on stock trades.</p>
+        <p>There was little effect on markets outside China. Shares in Tokyo and Hong Kong closed up. Stock prices in Europe were modestly lower and in New York a little higher.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>China’s stock markets have tumbled again, worsening one of the biggest sell-offs in years after the government’s move to impose a higher tax on stock trades.</p>
+      </block>
+      <block class="full_text">
+        <p>China's stock markets tumbled again on Monday, worsening one of the biggest sell-offs in years after the government's move last week to impose a higher tax on stock trades.</p>
+        <p>There was little effect on markets outside China. Shares in Tokyo and Hong Kong closed up. Stock prices in Europe were modestly lower and in New York a little higher.</p>
+        <p>But in China, stocks have fallen by a total of about 15 percent in the four sessions since the government announced last Wednesday that it would triple the stock-trading stamp tax, to 0.3 percent from 0.1 percent.</p>
+        <p>Monday's drop of 8.3 percent in the benchmark index, raised the fear of a wave of panic selling in China's financial markets after an extraordinary bull run in which share prices have climbed by more than 300 percent in the last two years.</p>
+        <p>Indeed, after the authorities in Beijing announced the new transaction fees last week, they have grown increasingly concerned that investors may become too pessimistic.</p>
+        <p>And so front-page editorials were published in Chinese financial newspapers calling on investors to act calmly in the wake of the decision, which the editorials argued was intended to promote a healthier development of the stock market.</p>
+        <p>''Investors should be rational and understand the policy,'' The China Securities Journal, one of the government-guided papers, said in its editorial. But markets, as the Chinese are discovering, are not always rational. Indeed, for months officials have been warning investors about the risks of a sharp downturn, trying to calm the markets with official statements. So far, the downturns have been brief.</p>
+        <p>But the most recent trajectories of the country's two main stock markets have been unsettling. On Monday, the Shanghai Stock Exchange index plunged 330.34 points, to close at 3,670.40. The other major index, for the Shenzhen exchange, fell 7.9 percent, to 1,039.90.</p>
+        <p>[The sell-off continued Tuesday morning with shares in Shanghai down almost 6 percent just before midday.]</p>
+        <p>Monday's decline, after notable drops two of three days last week, represented one of the largest share price declines in more than a decade and was nearly comparable to the drop late in February, when the Shanghai composite lost 8.8 percent on a single day. That plunge, which came after a huge run-up in prices, touched off a wave of selling around the world, including New York.</p>
+        <p>The biggest concern this time seems to be how the gyrating stock market may affect ordinary Chinese. For much of this year, the stock market has been a great concern for the government because of reports that retirees, students and factory workers were plowing much of their savings into stocks, threatening to create a speculative bubble that could end in a damaging and politically explosive crash.</p>
+        <p>Many experts have been warning that stock prices are rising much too fast and that stock valuations are far above historical or global norms. Analysts say the government wants to cool the market, but hopes to do so in an orderly way.</p>
+        <p>''This is somewhat expected,'' said Frank Song, director of the Center for China Financial Research at the University of Hong Kong. ''Last week's policy change is a strong signal that the government will no longer tolerate this rising bubble.''</p>
+        <p>But many individual investors have been betting on the market's reaching ever new highs because of an influx of just-opened stock accounts, often as many as 400,000 on a single day.</p>
+        <p>A lot of Chinese have indicated belief that the government would not do anything drastic to shake up the stock market before 2008, when Beijing is to play host at the Summer Olympics, out of a fear that a plunge could lead to public protests and even social unrest.</p>
+        <p>Just before the finance ministry's announcement on the trading tax early last Wednesday, officials said there were no plans to increase it. But then they reversed course. Shares tumbled 6.5 percent on Wednesday, then bounced back slightly on Thursday before falling again Friday.</p>
+        <p>The reopening of the market after the weekend was a kind of black Monday here, with a further downturn in prices that reversed weeks of huge gains. Few analysts are forecasting a full-scale bear market, but many experts have been warning of more government measures and the end of the boom.</p>
+        <p>And there are fears among both government officials and private analysts that a severe downturn in prices can lead to a further rout that would wreak havoc with the finances of ordinary Chinese.</p>
+        <p>Indeed, when the government imposed higher transaction fees on stock trades, investors vented their anger online, and there were reports that several government Web sites, including a finance ministry site, had been hacked into and taken down for a time.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

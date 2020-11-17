@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Salesman Admits Stealing Secrets</title>
+    <meta content="13mbrfs-7" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E2DE143FF930A25755C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Salesman Admits Stealing Secrets</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A salesman for a software consulting company has admitted stealing confidential company information and giving it to a competitor, federal prosecutors said yesterday. The salesman, Louis Giuffre, 46, of Lake Grove in Suffolk County, pleaded guilty in Federal District Court on Monday to interstate transportation of stolen property, said Michael J. Garcia, the United States attorney in Manhattan. Mr. Giuffre admitted that while working for the consulting company, Netsoft, last summer, he sent confidential information to a rival company by e-mail, Mr. Garcia said. Prosecutors said the competitor ultimately won a contract that Netsoft had been trying to secure. Mr. Giuffre faces up to 10 years in prison when he is sentenced in September, prosecutors said.</p>
+      </block>
+      <block class="full_text">
+        <p>A salesman for a software consulting company has admitted stealing confidential company information and giving it to a competitor, federal prosecutors said yesterday. The salesman, Louis Giuffre, 46, of Lake Grove in Suffolk County, pleaded guilty in Federal District Court on Monday to interstate transportation of stolen property, said Michael J. Garcia, the United States attorney in Manhattan. Mr. Giuffre admitted that while working for the consulting company, Netsoft, last summer, he sent confidential information to a rival company by e-mail, Mr. Garcia said. Prosecutors said the competitor ultimately won a contract that Netsoft had been trying to secure. Mr. Giuffre faces up to 10 years in prison when he is sentenced in September, prosecutors said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

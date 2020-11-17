@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flim in Review; Miriam</title>
+    <meta content="08roun-4" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852989"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Cimber, Matt</person>
+        <person class="indexing_service">Savalas, Ariana</person>
+        <object.title class="indexing_service">Miriam (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE2DA1F30F93BA35755C0A9619C8B63" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flim in Review; Miriam</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film Miriam, directed by Matt Cimber; Ariana Savalas stars (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Matt Cimber  122 minutes</p>
+        <p>The events recounted in ''Miriam'' are horrific, and the story behind it is moving. Matt Cimber made this World War II drama after his friend Max Guefen told him about his cousin Miriam's struggle to survive in German-occupied Lithuania, where her family was robbed, brutalized and eventually shipped to a concentration camp. Unfortunately, the finished product feels like a 1970s exploitation movie in prestige-picture drag.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Matt Cimber  122 minutes</p>
+        <p>The events recounted in ''Miriam'' are horrific, and the story behind it is moving. Matt Cimber made this World War II drama after his friend Max Guefen told him about his cousin Miriam's struggle to survive in German-occupied Lithuania, where her family was robbed, brutalized and eventually shipped to a concentration camp. Unfortunately, the finished product feels like a 1970s exploitation movie in prestige-picture drag.</p>
+        <p>The title role is played by Ariana Savalas, daughter of Telly. She's good, but not inventive enough to rescue ''Miriam,'' which is hobbled by flatly lighted video imagery, unconvincing period details and an inclination to wallow in atrocity.</p>
+        <p>The film's smug, leering Nazis are more ''Raiders of the Lost Ark'' than ''Schindler's List''; the Jewish characters are mostly tear-soaked punching bags; and the script often mistakes the re-enactment of cruelty, including multiple violent rapes, for high drama.</p>
+        <p>By the time Mr. Cimber zeroes in on Miriam's personal transformation -- she changed her name and hid her religion, only to endure the worst indignity yet at the hands of someone she trusted -- it's hard to get wrapped up in it; the viewer is too numb to care.</p>
+        <p>The ''Reds''-style cutaways to interviews with real survivors -- none of whom are identified -- are certificates of authenticity attached to a work of suspect judgment.</p>
+        <p>MATT ZOLLER SEITZ</p>
+        <p>''Miriam'' is rated PG-13 (Parents strongly cautioned) for violence and sexual content.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

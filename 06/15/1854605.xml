@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elections in Pakistan</title>
+    <meta content="l15pakistan" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854605"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1DD153FF936A25755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elections in Pakistan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Pakistan's Dictator'' (editorial, June 11) is offensive. President Pervez Musharraf was elected constitutionally by Pakistan's Parliament. He has advanced democracy at the grass roots and held general elections for Pakistan's national and provincial assemblies, which will for the first time in Pakistan's history complete their term later this year.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Pakistan's Dictator'' (editorial, June 11) is offensive. President Pervez Musharraf was elected constitutionally by Pakistan's Parliament. He has advanced democracy at the grass roots and held general elections for Pakistan's national and provincial assemblies, which will for the first time in Pakistan's history complete their term later this year.</p>
+        <p>In advocating pressure for democratic elections in Pakistan, you are pushing an open door. President Musharraf indeed plans to hold free and fair elections, open to all parties. External pressure and political agitation, ostensibly over the chief justice controversy, could threaten this process.</p>
+        <p>All those who favor progressive democracy in Pakistan should eschew this course. The main beneficiaries of chaos will be extremists.</p>
+        <p>Munir Akram  Permanent Representative  Pakistan Mission to the U.N.  New York, June 12, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Been There?' Sometimes That Isn't the Point</title>
+    <meta content="12essa" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/health/psychology/12essa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853915"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ESSAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Essay</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Post Traumatic Stress Disorder</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="descriptor">Post-Traumatic Stress Disorder</classifier>
+        <classifier class="online_producer" type="descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="descriptor">Therapy and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Therapy and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E7DB173FF931A25755C0A9619C8B63" item-length="874" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Been There?' Sometimes That Isn't the Point</hl1>
+        <hl2 class="online_headline">‘Been There?’ Sometimes That Isn’t the Point</hl2>
+      </hedline>
+      <byline class="print_byline">By SALLY SATEL, M.D.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>During our first year as psychiatric residents at a veterans' hospital, any patient could reliably stump my colleagues and me by asking one simple question: ''If you weren't in Vietnam, how can you possibly help me?''</p>
+        <p>We hadn't been to Vietnam. We were in high school during the worst years of the war. And no, we had never been ambushed, cradled a dying buddy in our arms or dodged land mines. It was a mocking question, really -- ''Were you in Vietnam?'' -- and it left us tongue-tied and apologetic.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Often, patients’ “have you ever ...” questions are less a therapeutic riddle to be solved than an expression of genuine skepticism that they can indeed be helped.</p>
+      </block>
+      <block class="full_text">
+        <p>During our first year as psychiatric residents at a veterans' hospital, any patient could reliably stump my colleagues and me by asking one simple question: ''If you weren't in Vietnam, how can you possibly help me?''</p>
+        <p>We hadn't been to Vietnam. We were in high school during the worst years of the war. And no, we had never been ambushed, cradled a dying buddy in our arms or dodged land mines. It was a mocking question, really -- ''Were you in Vietnam?'' -- and it left us tongue-tied and apologetic.</p>
+        <p>What were the patients really saying to us? Nancy's patient, we determined, was testing her perseverance: would she really try to know him? The veteran John was seeing, it soon became clear, was keeping him at arm's length to conceal a heroin habit. Matt's patient -- the one who told him haughtily at the start of every session, ''Really, now, college boy, this will be pointless'' -- was so ashamed of his tattered life that he had to demean his therapist.</p>
+        <p>My patient, Rich B., was a former tunnel rat, a wiry soldier who could navigate the Vietcong underground networks. His diagnosis was ''anxiety.'' Mr. B. was in the habit of quizzing me disdainfully. What were the dates of the Tet offensive? What happened at My Lai? Do you have any idea what it's like to go down in a tunnel?</p>
+        <p>At first I was defensive. But then I said: ''Of course I don't know these things, Mr. B. You do. Tell me everything.'' That seemed to break the ice. Our therapy became a bit like a tutorial, and the patient realized I valued his knowledge.</p>
+        <p>In passing, he would mention trouble with his 16-year-old daughter and how their pitched arguments agitated the whole family. Yet when I tried to discuss his home life, he brushed it aside, saying, ''So, let me tell you about the time  .''</p>
+        <p>After two months, Mr. B. was feeling less anxious and missed fewer days of work, but dealings with his daughter remained volatile. I told him it was my turn to help. ''I was never in a tunnel, Mr. B., but I was a 16-year-old girl once.'' He assented; finally, there was enough trust between us.</p>
+        <p>Vietnam had little to do with his distress. Indeed, he spoke of his tour of duty as a tale of adventure, not horror. Yet the invitation to talk about the most dramatic chapter in his life proved a pathway to practical engagement.</p>
+        <p>I now hear the question ''Have you been there, done that?'' for the proxy it often is. In his practice, the psychotherapist Saul Raw finds it a common query. ''I find it can reflect more profound difficulties in forming collaborative relationships based on trust,'' he told me, ''and, at the same time, recognizing that all empathy has imperfections.''</p>
+        <p>For other patients, though, the ''Have you ever '' question is less a therapeutic riddle to be solved -- as it was in the case of Mr. B -- than an expression of genuine skepticism that they can indeed be helped.</p>
+        <p>It is the kind of question asked by a person who believes his very soul has been warped by calamity. ''Sometimes a patient expresses frustration that I can't possibly help him because I never experienced the trauma that he did,'' said Dr. Walter Reich, a professor of psychiatry at George Washington University and a former director of the United States Holocaust Memorial Museum, whose patients have included Holocaust survivors.</p>
+        <p>''Please tell me what happened, how you reacted to it then and how it lives in you now,'' he will ask. He gently prods his patient to step out of his private world, ''a chamber often filled with circular and self-devouring ruminations.'' In the act of making his experience clear and complete to the therapist, the patient has to make it clear and complete to himself, Dr. Reich explains, adding that ''in the process, he accepts into his being something that was once consuming it.''</p>
+        <p>Addiction, too, can be an intense and defining experience. ''I have heard patients say that if you haven't been there you can't help me,'' said Keith Humphreys, a Stanford psychologist. ''So I tell them, 'I can help you live a sober life because it's all I have ever lived.' ''</p>
+        <p>It's true that having ''been there'' can endow a drug-abuse clinician with valuable authority and authenticity. There is just so much bluster a patient can get past a counselor who is a streetwise former junkie (which is why I, the forever-abstinent psychiatrist at a methadone clinic, often seek a second opinion from our counselors). Moreover, that recovered counselor inspires hope that addiction can be conquered.</p>
+        <p>But most of the time, therapist and patient do not share a history. And even if they do, there is no guarantee it will help. A mutual bond can paradoxically reinforce the patient's sense of isolation from others. Also, commonality can lead the therapist to identify too closely with the patient, thus compromising objectivity.</p>
+        <p>In truth, the most relevant knowledge a clinician can possess is the experience of having known and treated many patients already. This is how he learns to become a skilled interpreter of the protean query ''Have you ever?''</p>
+        <p>ESSAY Sally Satel is a psychiatrist and a resident scholar at the American Enterprise Institute.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Sally Satel is a psychiatrist and a resident scholar at the American Enterprise Institute.</tagline>
+    </body.end>
+  </body>
+</nitf>

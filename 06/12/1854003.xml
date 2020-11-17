@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Tightens Scrutiny Of Court-Appointed Experts</title>
+    <meta content="12doi" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/nyregion/12doi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854003"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Department of Investigation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EEDA173FF931A25755C0A9619C8B63" item-length="630" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Tightens Scrutiny Of Court-Appointed Experts</hl1>
+        <hl2 class="online_headline">New York Tightens Scrutiny of Court-Appointed Experts</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES BARRON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City is moving to tighten oversight of court-appointed experts who help defense lawyers after city investigators said they had discovered that a convicted felon was placed on the list of such experts and billed the city $61,000 for work he did not do.</p>
+        <p>The investigators also said they found that the felon, Richard Gottfried, had ''substantially overstated'' other work, for which the city paid him $97,000.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The changes come after investigators discovered that a convicted felon was placed on the list of experts and billed the city $61,000 for work he did not do.</p>
+      </block>
+      <block class="full_text">
+        <p>New York City is moving to tighten oversight of court-appointed experts who help defense lawyers after city investigators said they had discovered that a convicted felon was placed on the list of such experts and billed the city $61,000 for work he did not do.</p>
+        <p>The investigators also said they found that the felon, Richard Gottfried, had ''substantially overstated'' other work, for which the city paid him $97,000.</p>
+        <p>The commissioner of investigation, Rose Gill Hearn, said the program that assigns such experts -- known as the Assigned Counsel Plan -- had substantial weaknesses in its application, screening and billing systems. The Assigned Counsel Plan maintains a roster of investigators and other experts like Mr. Gottfried, a mitigation specialist who gathered information about criminal defendants that their lawyers could present in pleading for lesser sentences.</p>
+        <p>A report on the investigation said Mr. Gottfried had been appointed to work on more than 120 criminal cases, ''often without the knowledge or consent of the assigned attorneys.'' He was added to the roster of experts in late 2004 and worked for about a year.</p>
+        <p>Mr. Gottfried had been disqualified from serving in a similar capacity in Philadelphia after officials there discovered he had been convicted on federal fraud charges in 1996. He served 20 months in prison for that conviction, a fact that he did not explicitly mention when he applied to be an expert in New York, the Department of Investigation report said.</p>
+        <p>The report said that the administrators who reviewed prospective experts' applications in New York would not have approved Mr. Gottfried's application if he had disclosed either the prison sentence or the fact that he had been disqualified in Philadelphia. The two administrators, George Golfinopoulos and James T. Murphy, told investigators they could not remember who had gone over Mr. Gottfried's application.</p>
+        <p>Mr. Golfinopoulos said that Mr. Gottfried's application had been reviewed ''with little care,'' according to the report, and Mr. Murphy said he could not be certain whether he had read the application at all.</p>
+        <p>''He conceded that the review process for applications generally conducted by him and Golfinopoulos did not involve a rigorous review of the application and almost never led to follow-up questions based upon answers given by the applicant,'' the report said.</p>
+        <p>The report pointed to one statement that it said program administrators should have questioned: a sentence Mr. Gottfried wrote in the application in which he referred to ''the time that I have spent inside the prison walls.''</p>
+        <p>The city's Department of Investigation said that Mr. Gottfried pleaded guilty in February to charges, including theft and forgery, that were brought by the Philadelphia district attorney's office and that were unrelated to his 1996 conviction or to his work in New York. He was sentenced in March to up to 23 months in prison and ordered to pay $302,000.</p>
+        <p>A spokesman for the Bronx district attorney said that Mr. Gottfried had not been charged in New York, but that his case was ''pending.'' A call to Mr. Gottfried's lawyer, John E. Kusturiss Jr., was not returned.</p>
+        <p>The Department of Investigation report said Mr. Golfinopoulos and Mr. Murphy retired last year. The report said that those who apply to be experts are getting ''a much more comprehensive and probing review.''</p>
+        <p>The report recommended running full background checks on the applicants and requiring that each payment voucher for an expert be signed by the lawyer on the case.</p>
+        <p>The Department of Investigation also called for random audits of vouchers and for criminal history checks on anyone who applies for a pass from the Correction Department to enter its offices and jails.</p>
+        <p>A spokesman for the criminal justice coordinator's office, which oversees the Assigned Counsel Plan, said that ''controls are now being implemented to prevent this from happening again.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Museo de Reproducciones Fotográficas</title>
+    <meta content="01gall-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851357"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E2D71530F932A35755C0A9619C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Museo de Reproducciones Fotográficas</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Triple Candie  461 West 126th Street, Harlem  Through Sunday</p>
+        <p>Triple Candie is an alternative space like no other. Among other things, it has a permanent art collection almost as encyclopedic as the Metropolitan Museum's, and probably more up to date. A generous selection of the holdings, from Egyptian goddesses to John Currin's ''Cafe Girls,'' is on first-time view in this show.</p>
+      </block>
+      <block class="full_text">
+        <p>Triple Candie  461 West 126th Street, Harlem  Through Sunday</p>
+        <p>Triple Candie is an alternative space like no other. Among other things, it has a permanent art collection almost as encyclopedic as the Metropolitan Museum's, and probably more up to date. A generous selection of the holdings, from Egyptian goddesses to John Currin's ''Cafe Girls,'' is on first-time view in this show.</p>
+        <p>The hanging is in the recent nonhierarchical, mix-and-match style. Intriguingly, it makes Rogier van der Weyden and Diego Rivera near neighbors and suggests links, however subtle, between Thomas Gainsborough and Andrea Zittel. Certain artists -- Otto Dix, Donald Judd, Albrecht Dürer -- are represented in gratifying depth; others, like Ferdynand Ruszczyc, by one precious work.</p>
+        <p>Most important, the show brings some underknown figures into the limelight. Georg Schrimpf is one; Chauncey F. Ryder, another; Francisco Goy -- yes, Goy -- yet another. His striking work ''The Third of May, 1808'' is clearly influenced by the renowned Goya painting of the same title.</p>
+        <p>Did I mention that the entire collection consists of color reproductions clipped from art magazines? And that the Museo de Reproducciones Fotográficas is modeled on 19th-century European museums that delivered the art experience in the form of plaster casts of Classical sculpture and copies of old master paintings?</p>
+        <p>It all makes sense coming from Triple Candie, which for some time now has specialized in doing what it describes as ''exhibitions about art that are devoid of artwork,'' less to devalue art than to question what art and value mean. And this raises a question in my mind: Can an alternative space be a work of art in itself? I think it can.</p>
+        <p>HOLLAND COTTER</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

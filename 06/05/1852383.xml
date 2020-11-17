@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Planet and Its Nitrous Gases</title>
+    <meta content="05lett-2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852383"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEED91130F936A35755C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Planet and Its Nitrous Gases</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Redolence of Spring? Call It Essence of Nitrogen'' (Basics, May 29): Nitrogen is indeed one of a handful of elements that take center stage in the dance of life on earth. That makes it all the more disturbing that human activities are upsetting the earth's natural nitrogen cycle. The consequences range from water pollution and lake eutrophication to increasing concentrations of nitrous oxide. Addressing the nitrogen pollution problem will involve difficult choices and innovative solutions, but we ignore the problem at our own peril.</p>
+        <p>Bill Chameides  New York</p>
+        <p>The writer is chief scientist of Environmental Defense.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Redolence of Spring? Call It Essence of Nitrogen'' (Basics, May 29): Nitrogen is indeed one of a handful of elements that take center stage in the dance of life on earth. That makes it all the more disturbing that human activities are upsetting the earth's natural nitrogen cycle. The consequences range from water pollution and lake eutrophication to increasing concentrations of nitrous oxide. Addressing the nitrogen pollution problem will involve difficult choices and innovative solutions, but we ignore the problem at our own peril.</p>
+        <p>Bill Chameides  New York</p>
+        <p>The writer is chief scientist of Environmental Defense.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

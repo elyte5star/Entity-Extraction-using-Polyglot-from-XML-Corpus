@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Asset Manager to Oppose Biomet Takeover Offer</title>
+    <meta content="05biomet" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/05biomet.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852307"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Biomet Incorporated</org>
+        <org class="online_producer">Institutional Shareholder Services</org>
+        <org class="online_producer">Blackstone Group</org>
+        <org class="online_producer">Kohlberg Kravis Roberts &amp; Co</org>
+        <org class="online_producer">Texas Pacific Group</org>
+        <org class="online_producer">Goldman Sachs Group Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DA1130F936A35755C0A9619C8B63" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Asset Manager to Oppose Biomet Takeover Offer</hl1>
+        <hl2 class="online_headline">Asset Manager to Oppose Biomet Takeover Offer</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">De La Merced, Michael J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At least one significant investor in Biomet, an artificial joint maker, plans to vote against a proposed $10.9 billion deal for the company, in the latest instance of shareholder dissatisfaction over buyouts.</p>
+        <p>The opposition by the investor, P. Schoenfeld Asset Management of New York, which holds about a 0.5 percent stake, followed a report by the proxy advisory firm Institutional Shareholder Services, which urged investors to reject the offer from a consortium consisting of the Blackstone Group, Kohlberg Kravis Roberts, the Texas Pacific Group and a unit of Goldman Sachs. Recommendations from proxy advisers often sway institutional investors' votes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At least one significant investor in Biomet, an artificial joint maker, plans to vote against a proposed $10.9 billion deal for the company.</p>
+      </block>
+      <block class="full_text">
+        <p>At least one significant investor in Biomet, an artificial joint maker, plans to vote against a proposed $10.9 billion deal for the company, in the latest instance of shareholder dissatisfaction over buyouts.</p>
+        <p>The opposition by the investor, P. Schoenfeld Asset Management of New York, which holds about a 0.5 percent stake, followed a report by the proxy advisory firm Institutional Shareholder Services, which urged investors to reject the offer from a consortium consisting of the Blackstone Group, Kohlberg Kravis Roberts, the Texas Pacific Group and a unit of Goldman Sachs. Recommendations from proxy advisers often sway institutional investors' votes.</p>
+        <p>In December, Biomet chose the $44-a-share offer by the Blackstone-led group over a slightly higher bid by a British bidder, Smith &amp; Nephew. The company said that Smith &amp; Nephew's offer bore too many conditions that could scuttle a deal.</p>
+        <p>At the time, the price seemed fair, Institutional Shareholders Services said in its report. Biomet's top management had been shuffled several times, and the company was mired in a scandal over the backdating of stock options.</p>
+        <p>But the share prices of Biomet and its rivals have since risen sharply as they improved their operations. Last week, the company said it had settled a shareholder suit over the backdated stock options. Yesterday, Biomet restated its earnings for the first three quarters of the 2007 fiscal year. Shares in Biomet closed yesterday at $44.07, above the buyout consortium's offer.</p>
+        <p>Stockholders are not being given a premium relative to comparable companies, Peter Schoenfeld, the investment firm's head, said.</p>
+        <p>Though private equity companies have acquired large numbers of companies over the last two years, some shareholders have begun to complain that companies are being acquired too cheaply. A notable example is Clear Channel Communications: until last month, several major investors rejected a string of bids by two private equity firms for the radio network giant.</p>
+        <p>In both the Clear Channel and Biomets cases, shareholder dissatisfaction has been amplified by the laws of the company's home state. In Indiana, where Biomet is based, 75 percent of outstanding shares must be voted in favor of a deal.</p>
+        <p>The law in Indiana provides little recourse for shareholders who think a price is unfair. Unlike in Delaware, where many corporations are based, dissident shareholders cannot obtain a price appraisal from a third party. Those dissatisfied can only vote to approve or reject the deal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

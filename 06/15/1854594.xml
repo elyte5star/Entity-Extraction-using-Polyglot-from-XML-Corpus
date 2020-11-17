@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Ethics Hearing, Duke Prosecutor Is Called Unprofessional</title>
+    <meta content="15duke" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/us/15duke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854594"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <org class="online_producer">Duke University</org>
+        <person class="online_producer">Nifong, Michael B</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E2DD153FF936A25755C0A9619C8B63" item-length="476" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Ethics Hearing, Duke Prosecutor Is Called Unprofessional</hl1>
+        <hl2 class="online_headline">At Ethics Hearing, Duke Prosecutor Is Called Unprofessional</hl2>
+      </hedline>
+      <byline class="print_byline">By DUFF WILSON</byline>
+      <dateline>RALEIGH, N.C., June 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The state bar's expert witness on prosecutorial conduct testified Thursday that Michael B. Nifong, the Durham County district attorney, repeatedly violated professional standards in his handling of evidence in the case of the stripper who accused Duke lacrosse players of sexual assault, and in many of his public statements related to that case.</p>
+        <p>Mr. Nifong should have interviewed the accuser, taken evidence from defense lawyers, disclosed DNA results that would have been favorable to the defendants, done more to seek the truth and kept his opinions out of the media, the expert witness, Marsha L. Goodenow, said in the third day of the hearing of Mr. Nifong on ethics charges brought by the North Carolina State Bar, a state agency.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The state bar’s expert witness on prosecutorial conduct said the actions and tactics of Michael B. Nifong during the Duke case had harmed the justice system.</p>
+      </block>
+      <block class="full_text">
+        <p>The state bar's expert witness on prosecutorial conduct testified Thursday that Michael B. Nifong, the Durham County district attorney, repeatedly violated professional standards in his handling of evidence in the case of the stripper who accused Duke lacrosse players of sexual assault, and in many of his public statements related to that case.</p>
+        <p>Mr. Nifong should have interviewed the accuser, taken evidence from defense lawyers, disclosed DNA results that would have been favorable to the defendants, done more to seek the truth and kept his opinions out of the media, the expert witness, Marsha L. Goodenow, said in the third day of the hearing of Mr. Nifong on ethics charges brought by the North Carolina State Bar, a state agency.</p>
+        <p>Ms. Goodenow, an assistant district attorney in Charlotte, N.C., said Mr. Nifong's actions and tactics during the Duke case had harmed the justice system.</p>
+        <p>''There is a perception that justice might depend on who your lawyer is, it might depend on how much money you have, it may depend on whether you're white or black,'' she said, echoing remarks by one of the three accused lacrosse players two months ago after Roy A. Cooper, the state attorney general, declared them innocent of the charges. Mr. Cooper called the players victims of a ''tragic rush to accuse.'' Two of the players, Reade W. Seligmann of Essex Fells, N.J., and Collin Finnerty of Garden City, N.Y., attended the disciplinary hearing, which is being heard by a three-member panel.</p>
+        <p>Mr. Nifong is expected to testify on Friday. His defense is expected to wrap up by the end of the day. The panel's chairman has said it may rule as early as Saturday, after closing arguments; a penalty phase would follow. If found guilty, Mr. Nifong could face penalties up to disbarment.</p>
+        <p>He is accused of making inflammatory public comments and of withholding and lying about evidence that showed the DNA of at least four unidentified men, but none of the lacrosse players', on the woman's body and clothes.</p>
+        <p>Brad Bannon, a Raleigh defense lawyer, testified about how he had made a breakthrough in the case by finding the evidence of the other male DNA. It was buried in 1,844 pages of laboratory data released by Mr. Nifong in October, six months after a summary report had failed to disclose it, Mr. Bannon said.</p>
+        <p>Mr. Bannon said he read a book on DNA and spent 60 to 100 hours analyzing the data. He said that the defense team was surprised he found the other results and that several members asked him to check with experts to be sure. They were happy because it helped their case, ''bewildered'' that it had not been disclosed in a summary report in May and, finally, outraged at Mr. Nifong after a court hearing at which the evidence was discussed in December.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

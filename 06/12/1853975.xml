@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Misdirected Studies on Avandia</title>
+    <meta content="12tue2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/opinion/12tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853975"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Avandia (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <org class="indexing_service">Glaxosmithkline</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Avandia (Drug)</classifier>
+        <classifier class="online_producer" type="descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">GlaxoSmithKline</org>
+        <org class="online_producer">Food and Drug Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6DA173FF931A25755C0A9619C8B63" item-length="449" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Misdirected Studies on Avandia</hl1>
+        <hl2 class="online_headline">Misdirected Studies on Avandia</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that GlaxoSmithKline, manufacturer of diabetes drug Avandia, failed to pursue questions about drug's possible danger to heart and Food and Drug Adm acquiesced; asserts that FDA needs power to demand postmarketing studies and resources to analyze results</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eight years and seven million patients later, we still don't know whether the diabetes drug, Avandia, is safe or effective. This is largely because the manufacturer, GlaxoSmithKline, failed to vigorously pursue questions about cardiac safety and the Food and Drug Administration acquiesced in its feeble efforts. Both either ignored or tried to silence scientists who raised the alarm.</p>
+        <p>Avandia was approved for use in 1999 based on studies showing that it lowered blood glucose levels in patients suffering from Type 2 diabetes. At the time, the F.D.A.'s medical reviewer called for a postmarketing study to address cardiovascular risks. The company's response was a study that looked primarily at long-term control of blood sugar -- a potential plus in marketing the drug -- and only glancingly at cardiac risks. Only because European regulators insisted on a more comprehensive study did the company start one. But experts believe even that study -- which is still under way -- isn't well designed to provide meaningful answers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Eight years and seven million patients later, we still don’t know whether the diabetes drug, Avandia, is safe or effective.</p>
+      </block>
+      <block class="full_text">
+        <p>Eight years and seven million patients later, we still don't know whether the diabetes drug, Avandia, is safe or effective. This is largely because the manufacturer, GlaxoSmithKline, failed to vigorously pursue questions about cardiac safety and the Food and Drug Administration acquiesced in its feeble efforts. Both either ignored or tried to silence scientists who raised the alarm.</p>
+        <p>Avandia was approved for use in 1999 based on studies showing that it lowered blood glucose levels in patients suffering from Type 2 diabetes. At the time, the F.D.A.'s medical reviewer called for a postmarketing study to address cardiovascular risks. The company's response was a study that looked primarily at long-term control of blood sugar -- a potential plus in marketing the drug -- and only glancingly at cardiac risks. Only because European regulators insisted on a more comprehensive study did the company start one. But experts believe even that study -- which is still under way -- isn't well designed to provide meaningful answers.</p>
+        <p>So what's going on here? One disturbing possibility is that Glaxo has designed tests that have the effect of meeting the company's marketing objectives while minimizing risks. The F.D.A. may have allowed itself to be outmaneuvered, approving designs that won't fully answer key safety questions.</p>
+        <p>There are two suspected problems with Avandia. One is heart failure, where the heart gradually loses its ability to pump sufficient blood. That side effect has long been recognized. But an F.D.A. drug safety officer told The Times that she was rebuked and removed from assessing the drug last year after urging a black box warning, the agency's strongest. The agency has now requested such a warning.</p>
+        <p>The other, more troublesome, issue is the risk of sudden heart attacks. Here, too, there were early signals of a potential problem, raised both by the F.D.A.'s own reviewer and an outside authority, Dr. John Buse, who is about to become president of the American Diabetes Association. In 1999, when he was still a junior academic, Dr. Buse warned about possible cardiac danger only, he says, to have a high company official call his supervisor, castigate him as a liar and make veiled threats of a huge lawsuit. Now, after further signals of possible danger and a mélange of conflicting studies, the F.D.A. plans to present the issue to a panel of experts.</p>
+        <p>At this point, no one is sure whether the heart attack risks from Avandia are significant. The clearest lesson is that the F.D.A. needs the power to demand adequate postmarketing studies and the resources to analyze the results. That would not guarantee that the regulators, who have too cozy a relationship with manufacturers, would act as vigorously as needed, but it would increase the odds.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

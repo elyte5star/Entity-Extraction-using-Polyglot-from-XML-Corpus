@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Writer Expresses Remorse for Sex Attack, but Still Claims He Is Ill</title>
+    <meta content="15fake" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/nyregion/15fake.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854616"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <org class="online_producer">Women's Wear Daily</org>
+        <person class="online_producer">Braunstein, Peter</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EFDD153FF936A25755C0A9619C8B63" item-length="452" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Writer Expresses Remorse for Sex Attack, but Still Claims He Is Ill</hl1>
+        <hl2 class="online_headline">Writer Expresses Remorse for Sex Attack, but Still Claims He Is Ill</hl2>
+      </hedline>
+      <byline class="print_byline">By ANEMONA HARTOCOLLIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A former Women's Wear Daily writer convicted of kidnapping and sexually molesting a former colleague has expressed remorse for his actions, while insisting he is mentally ill.</p>
+        <p>In a long, flowery, sometimes analytic nine-page letter to the judge who is going to sentence him on Monday, the writer, Peter Braunstein, lamented his ''fall from society'' and lack of self-control in committing the crime, and expressed admiration for the way his victim conducted herself.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a long, flowery, sometimes analytic letter to the judge who will sentence him on Monday, Peter Braunstein lamented his “fall from society.”</p>
+      </block>
+      <block class="full_text">
+        <p>A former Women's Wear Daily writer convicted of kidnapping and sexually molesting a former colleague has expressed remorse for his actions, while insisting he is mentally ill.</p>
+        <p>In a long, flowery, sometimes analytic nine-page letter to the judge who is going to sentence him on Monday, the writer, Peter Braunstein, lamented his ''fall from society'' and lack of self-control in committing the crime, and expressed admiration for the way his victim conducted herself.</p>
+        <p>Mr. Braunstein was convicted last month of 10 counts, including kidnapping, burglary, robbery and sexual abuse, after posing as a firefighter to gain access to a woman's apartment in Chelsea. He faces 25 years to life in prison on the most serious charge, kidnapping.</p>
+        <p>''In closing, I would like to express my remorse for committing this crime and heartfelt sympathy for the victim,'' he wrote. ''All I know is how my victim, through her powerful testimony, demonstrated once again the fortitude she exhibited during her ordeal with me; and how this in turn inspired a bout of self-contempt as I considered my lack of self-control and the fall from society this had cost me.''</p>
+        <p>After deliberating for barely four hours, the jury in State Supreme Court in Manhattan rejected the defense argument that Mr. Braunstein was a paranoid schizophrenic who was not able to form the intent that is part of the legal definition of his crime, a point that Mr. Braunstein touched on in his letter.</p>
+        <p>''The madness resides in the fact that I had no motive or intent,'' he wrote in his letter to Justice Thomas Farber. ''Thus, once I attacked the victim I had no idea why I was there or what to do.''</p>
+        <p>He dictated the first eight pages of the letter, his lawyer, Robert Gottlieb, said, because his hand shakes badly from the effects of the antipsychotic medication he has been taking while incarcerated, Zyprexa.</p>
+        <p>He wrote the last page, in which he expresses remorse, in his own handwriting, which is so jagged and jerky that it looks like Sanskrit.</p>
+        <p>Mr. Braunstein was a media columnist at Women's Wear Daily, and that seemed to show in his letter, as he analyzed press coverage of his case. ''I also earned a number of monikers courtesy of the press -- 'Perv,' 'Fiend,' 'Psycho,' '' he said. ''Despite the pseudoclinical patina of these epithets, they were just part of an editorial arsenal that seeks to demonize a suspect before he even reaches trial.''</p>
+        <p>He suggested that the jury ''may have remained immune to the media hype'' but that the public did not, and he asked the judge to sentence him ''with minimal consideration of the venomous tabloid media.''</p>
+        <p>He signed the letter, ''Respectfully, Peter Braunstein.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

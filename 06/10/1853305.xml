@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Israel Discovers Oil</title>
+    <meta content="10friedman" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/10friedman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853305"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Thomas L Friedman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Venture Capital</classifier>
+        <classifier class="online_producer" type="general_descriptor">Venture Capital</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Israel</location>
+        <org class="online_producer">Mirabilis</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E0DD163FF933A25755C0A9619C8B63" item-length="763" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Israel Discovers Oil</hl1>
+        <hl2 class="online_headline">Israel Discovers Oil</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS L. FRIEDMAN</byline>
+      <dateline>BEERSHEBA, Israel</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lucien Bronicki is one of Israel's foremost experts in geothermal power, but when I ran into him last week at Ben Gurion University, in Israel's Negev Desert, all he wanted to talk about was oil wells. Israel, he told me, had discovered oil.</p>
+        <p>Pointing to a room full of young Israeli high-tech college seniors, Mr. Bronicki remarked: ''These are our oil wells.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Countries and companies that empower their individuals to imagine and act quickly on their imagination are going to thrive.</p>
+      </block>
+      <block class="full_text">
+        <p>Lucien Bronicki is one of Israel's foremost experts in geothermal power, but when I ran into him last week at Ben Gurion University, in Israel's Negev Desert, all he wanted to talk about was oil wells. Israel, he told me, had discovered oil.</p>
+        <p>Pointing to a room full of young Israeli high-tech college seniors, Mr. Bronicki remarked: ''These are our oil wells.''</p>
+        <p>It was quite a scene. Once a year Ben Gurion students in biomedical engineering, software, electrical engineering and computing create elaborate displays of their senior projects or -- as in the case of a student-made robot that sidled up to me -- demonstrate devices they've invented.</p>
+        <p>On this occasion, Yossi Vardi, the godfather of Israeli venture capitalism -- ever since he backed the four young Israelis who invented the first Internetwide instant messaging system, Mirabilis, which was sold to AOL for $400 million in 1998 -- brought some of his venture capital pals, like Mr. Bronicki, down to Ben Gurion to scout out potential start-ups and to mentor the grads.</p>
+        <p>The first student exhibit I visited was by Yuval Sharoni, 26, an electrical engineering senior, whose project was titled an ''Innovative Covariance Matrix for Point Target Detection in Hyperspectral Images'' (which has to do with military targeting). When I told him I was from The Times, he declared: ''This project is going to make the front page, I'm telling you.'' The cover of Popular Mechanics, maybe, but it could one day make the Nasdaq, where Israel now has the most companies listed of any nation outside of the United States.</p>
+        <p>''Today, every Israeli Jewish mother wants her son to be a dropout and go create a start-up,'' said Mr. Vardi, who is currently invested in 38 different ones.</p>
+        <p>Which gets to the point of this column: If you want to know why Israel's stock market and car sales are at record highs -- while Israel's government is paralyzed by scandals and war with Hamas and doesn't even have a finance minister -- it's because of this ecosystem of young innovators and venture capitalists. Last year, VCs poured about $1.4 billion into Israeli start-ups, which puts Israel in a league with India and China.</p>
+        <p>Israel is Exhibit A of an economic phenomenon I see a lot these days. Of course, competition between countries and between companies still matters. But when the world becomes this flat -- with so many distributed tools of innovation and connectivity empowering individuals from anywhere to compete, connect and collaborate -- the most important competition is between you and your own imagination, because energetic, innovative and connected individuals can now act on their imaginations farther, faster, deeper and cheaper than ever before.</p>
+        <p>Those countries and companies that empower their individuals to imagine and act quickly on their imagination are going to thrive. So while there are reasons to be pessimistic about Israel these days, there is one huge reason for optimism: this country has a culture that nurtures and rewards individual imagination -- one with no respect for limits or hierarchies, or fear of failure. It's a perfect fit with this era of globalization.</p>
+        <p>''We are not investing in products or business plans today, but in people who have the ability to imagine and connect dots,'' said Nimrod Kozlovski, a top Israeli expert on Internet law who also works with start-ups. Israel is not good at building big companies, he explained, but it is very good at producing people who say, ''Wouldn't it be great if you could do this ,'' then create a start-up to do it -- which is later bought out and expanded by an Intel, Microsoft or Google.</p>
+        <p>''The motto here is not work hard but dream hard,'' Mr. Kozlovski added. ''I had some guy come see me the other day and say, 'You know Google? They make a lot of money, very famous, right? They're not that good. We have a much better system that correlates to the cognitive process of searching. Google is worth $50 billion? Probably we can match their numbers.' He was dead serious.''</p>
+        <p>My guess is that the flatter the world becomes, the wider the economic gap we will see between those countries that empower individual imagination and those that don't. High oil prices can temporarily disguise that gap, but it's growing.</p>
+        <p>Iran's ignorant president, who keeps babbling about how Israel is going to disappear, ought to pay a visit to Ben Gurion and see these rooms buzzing with student innovators, with projects called ''Integration Points for IP Multimedia Subsystems'' and ''Algorithms for Obstacle Detection and Avoidance.'' These are oil wells that don't run dry.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

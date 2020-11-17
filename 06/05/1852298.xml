@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inquiry Into Jackson Hewitt's Tax Return Practices Widens</title>
+    <meta content="05tax" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/05tax.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <org class="online_producer">Jackson Hewitt Tax Service Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6DA1130F936A35755C0A9619C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inquiry Into Jackson Hewitt's Tax Return Practices Widens</hl1>
+        <hl2 class="online_headline">Inquiry Into Jackson Hewitt’s Tax Return Practices Widens</hl2>
+      </hedline>
+      <byline class="print_byline">By LYNNLEY BROWNING</byline>
+      <byline class="normalized_byline">Browning, Lynnley</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Federal authorities have expanded an investigation into allegations that Jackson Hewitt offices helped prepare fraudulent income-tax returns that allowed customers to obtain refunds illegally.</p>
+        <p>The Justice Department filed civil lawsuits in April accusing more than 125 Jackson Hewitt offices of knowingly enabling tens of thousands of middle- and lower-income people to obtain $70 million by falsifying their federal tax returns. Late last week, Jackson Hewitt Tax Service Inc. disclosed in a securities filing that the company itself was the subject of an Internal Revenue Service investigation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Federal authorities have expanded an investigation into allegations that Jackson Hewitt offices helped prepare fraudulent income-tax returns.</p>
+      </block>
+      <block class="full_text">
+        <p>Federal authorities have expanded an investigation into allegations that Jackson Hewitt offices helped prepare fraudulent income-tax returns that allowed customers to obtain refunds illegally.</p>
+        <p>The Justice Department filed civil lawsuits in April accusing more than 125 Jackson Hewitt offices of knowingly enabling tens of thousands of middle- and lower-income people to obtain $70 million by falsifying their federal tax returns. Late last week, Jackson Hewitt Tax Service Inc. disclosed in a securities filing that the company itself was the subject of an Internal Revenue Service investigation.</p>
+        <p>Jackson Hewitt said in the filing that it was cooperating fully with the inquiry. Such inquiries are typically carried out by the I.R.S.'s criminal investigations division, and if necessary handed over to the Justice Department's civil or criminal tax division for further investigation.</p>
+        <p>The I.R.S. declined to comment yesterday.</p>
+        <p>Jackson Hewitt, based in Parsippany, N.J., is the nation's second-largest tax preparation chain after H&amp;R Block.</p>
+        <p>The Justice Department lawsuits raised questions over Jackson Hewitt's supervision and oversight of its franchisees, in this case of a businessman named Farrukh Sohail, who has outlets in Detroit, Chicago, Atlanta, the Raleigh-Durham area of North Carolina and Birmingham, Ala. The lawsuits did not name Jackson Hewitt as a defendant.</p>
+        <p>But in its securities filing, Jackson Hewitt said: ''The company has learned recently that the Internal Revenue Service is conducting additional examinations of tax-return preparation activities of Jackson Hewitt franchisees and company-owned stores. The company is also a subject of an I.R.S. investigation relating to these matters.''</p>
+        <p>Last month, Jackson Hewitt began an internal review of the company's practices and procedures, hiring a retired I.R.S. commissioner, Fred T. Goldberg Jr., to oversee the review.</p>
+        <p>Mr. Goldberg, a tax lawyer at Skadden Arps Slate Meagher &amp; Flom, was also briefly the assistant secretary for tax policy in the Treasury in the early 1990s.</p>
+        <p>In its filing on Friday, Jackson Hewitt said that it ''intends to complete the internal review promptly and to implement a variety of enhancements in the areas of compliance and monitoring for the 2008 filings season.''</p>
+        <p>Sheila Cort, a spokeswoman for Jackson Hewitt, declined to comment further, adding that the company knew nothing more about the I.R.S. investigation.</p>
+        <p>The lawsuits filed against the Sohail-owned or controlled franchises said that employees had been pushed to crank out returns in exchange for bribes, to accept scant or false documents, like W-2 forms, and to falsify taxpayer data to receive the earned-income tax credit, a federal assistance program.</p>
+        <p>The lawsuits also cited shoddy training, meager oversight and the ignoring of whistle-blowers at Mr. Sohail's stores. Jackson Hewitt temporarily suspended work at most of Mr. Sohail's franchises.</p>
+        <p>Operators of franchises prepare returns using Jackson Hewitt's Profiler software and then forward the returns to the main Jackson Hewitt center for approval and filing to the I.R.S.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Less Circling at the Airport, at Least for Those on the Ground</title>
+    <meta content="01kennedy" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/nyregion/01kennedy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851242"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <org class="online_producer">Port Authority of New York and New Jersey</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7D91530F932A35755C0A9619C8B63" item-length="584" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Less Circling at the Airport, at Least for Those on the Ground</hl1>
+        <hl2 class="online_headline">Less Circling at the Airport, at Least for Those on the Ground</hl2>
+      </hedline>
+      <byline class="print_byline">By KEN BELSON; Maureen Seaberg contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The art of picking up people at the airport rests partly on dodging traffic police and feigning ignorance when caught waiting in no-parking zones.</p>
+        <p>The Port Authority of New York and New Jersey wants to put an end to that cat-and-mouse game. Last Friday, it opened a new parking lot at Kennedy International Airport where drivers can wait free until they get a call to come pick up their passengers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new parking lot at Kennedy International Airport allows drivers to wait free until they get a call to come pick up their passengers.</p>
+      </block>
+      <block class="full_text">
+        <p>The art of picking up people at the airport rests partly on dodging traffic police and feigning ignorance when caught waiting in no-parking zones.</p>
+        <p>The Port Authority of New York and New Jersey wants to put an end to that cat-and-mouse game. Last Friday, it opened a new parking lot at Kennedy International Airport where drivers can wait free until they get a call to come pick up their passengers.</p>
+        <p>Cellphone parking lots, as they are known, are not original to New York: Airports in Seattle, San Diego and Chicago already have them. But given the volume of traffic at Kennedy during the peak summer months, and New York's notoriously aggressive drivers, the waiting area could alleviate one of the airport's biggest bottlenecks.</p>
+        <p>''Air travel can be a trying experience,'' said Pasquale DiFulco, a spokesman for the Port Authority, which owns and runs Kennedy, Newark Liberty and LaGuardia airports. ''The countless hours circling, not to mention with the price of fuel these days, it could wind up costing you a lot of time and money in wasted gas. And it's not very eco-friendly either.''</p>
+        <p>The Port Authority has no plans to open similar lots at Newark and LaGuardia because there is no available space at those airports.</p>
+        <p>The cellphone lot at Kennedy is one of several measures announced yesterday by the Port Authority aimed at improving its customer service. The agency will add 200 workers to help travelers at the airports, in AirTrain stations and other facilities; provide valet parking at Kennedy; and offer flight status reports for people with smart phones.</p>
+        <p>With 250 spots, the cellphone lot makes up just a fraction of the 16,500 parking spaces at Kennedy. It is on the edge of the airport, near the old Tower Air terminal, several minutes' drive from the main terminals.</p>
+        <p>The cellphone lot will be policed, and drivers whose unattended cars are towed must pay $86.70, plus $30 and tax for each day the vehicle is impounded.</p>
+        <p>''If you're looking to save a few bucks, it's better to go to the short-term parking lot,'' Mr. DiFulco said.</p>
+        <p>Short-term parking at Kennedy costs $3 for the first half-hour, $6 for up to one hour, and $3 for each hour afterward, with a maximum of $30 for each 24-hour period.</p>
+        <p>Mr. DiFulco said that drivers using the cellphone lot were probably reluctant to pay for parking anyway, so he does not expect the Port Authority to lose a lot of parking revenue by offering people a free place to wait.</p>
+        <p>He added that by taking dozens -- and maybe hundreds -- of cars off the roads, at least temporarily, the lot may allow traffic to flow more smoothly and help late passengers make their flights.</p>
+        <p>The question is whether drivers, impatient to meet friends and family, will want to wait away from the terminals. At Chicago's O'Hare International Airport, the cellphone lot, with 150 spaces, is only half full most of the time, said Linda Solis of Standard Parking, the company that opened the lot six months ago.</p>
+        <p>Indeed, in the late afternoon yesterday, there was only one driver in the cellphone lot at Kennedy. Ann Post, waiting in a light blue minivan, said she had seen such lots at other airports and liked the idea of not having to waste gasoline circling the airport.</p>
+        <p>''It's traffic control, and it's just safer and more efficient,'' she said, shortly before receiving a cellphone call, restarting her engine and leaving the lot.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

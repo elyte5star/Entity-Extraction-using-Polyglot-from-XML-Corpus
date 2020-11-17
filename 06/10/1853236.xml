@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HALDEN, ILSE</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853236"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HALDEN, ILSE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E3DA143AF933A25755C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HALDEN, ILSE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HALDEN--Ilse, loving wife of Fred, beloved mother of Peter and Judith, favorite mother-in-law of Lillian and Noel, devoted grandmother of Daniel, Matthew, Mariel and BJ, loving sister of Marion Kaiser and the late Charlotte Straus, from complications of a stroke on June 8, 2007. Also survived by many nieces and nephews. Born February 1, 1916 in Posen, Germany. Emigrated to the United States on June 25, 1937 to escape the Holocaust. She and Fred were married on September 8, 1938 and were childhood sweethearts since 1928. Services noon on Monday at Gutterman-Musicant, Hackensack, New Jersey. Ilse will be remembered for her love of friends and family, her terrible letters in Scrabble in which she excelled throughout her life, and her devotion to Fred, the love of her long life. Contributions may be made to Mazon, The Jewish Response to Hunger.</p>
+      </block>
+      <block class="full_text">
+        <p>HALDEN--Ilse, loving wife of Fred, beloved mother of Peter and Judith, favorite mother-in-law of Lillian and Noel, devoted grandmother of Daniel, Matthew, Mariel and BJ, loving sister of Marion Kaiser and the late Charlotte Straus, from complications of a stroke on June 8, 2007. Also survived by many nieces and nephews. Born February 1, 1916 in Posen, Germany. Emigrated to the United States on June 25, 1937 to escape the Holocaust. She and Fred were married on September 8, 1938 and were childhood sweethearts since 1928. Services noon on Monday at Gutterman-Musicant, Hackensack, New Jersey. Ilse will be remembered for her love of friends and family, her terrible letters in Scrabble in which she excelled throughout her life, and her devotion to Fred, the love of her long life. Contributions may be made to Mazon, The Jewish Response to Hunger.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

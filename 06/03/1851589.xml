@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Senor Hot Dog</title>
+    <meta content="603TALK.txt" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Play" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/06/03/sports/playmagazine/0603play-talking.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851589"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TALKING POINTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+        <org class="online_producer">National Assn of Stock Car Auto Racing</org>
+        <org class="online_producer">National Assn of Stock Car Auto Racing</org>
+        <org class="online_producer">National Assn of Stock Car Auto Racing</org>
+        <org class="online_producer">Formula One</org>
+        <person class="online_producer">Montoya, Juan Pablo</person>
+        <person class="online_producer">Montoya, Juan Pablo</person>
+        <person class="online_producer">Montoya, Juan Pablo</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E7D91F31F930A35755C0A9619C8B63" item-length="790" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Senor Hot Dog</hl1>
+        <hl2 class="online_headline">Señor Hot Dog</hl2>
+      </hedline>
+      <byline class="print_byline">By ROB WEINTRAUB</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Juan Pablo Montoya has made quite an impression on Nascar's top drivers since he decided last summer to forgo the Eurofabulous world of Formula One. Few drivers are as suited to changing disciplines as Montoya, a 31-year-old Colombian who won a CART title at 24, the Indy 500 on his first attempt and seven Formula One races. The talented, sometimes irascible driver has lodged himself in the top half of Nascar's Nextel Cup rankings and, in March, won the Mexico City race in the Busch Series, Nascar's second-highest level, before rankling officials by raising his middle finger to a TV camera in April. (He was later fined.) Here he talks about leaving Europe, aggressive driving and his unexpectedly proletarian tastes.</p>
+        <p>SO, WERE YOU DISENCHANTED WITH FORMULA ONE, OR DID YOU JUST WANT A NEW CHALLENGE?  The cars were amazing to drive. But the racing wasn't that exciting. The way the cars are, it's just so hard to pass people. It's like a parade.</p>
+        <p>WAS THERE A MOMENT WHEN YOU KNEW YOU WERE GOING TO LEAVE?  I wasn't sure what I was going to do. Then I called Chip [Ganassi, his onetime Indy-car boss]. He said, ''I'm looking for a driver,'' and I said, ''I'm looking for a drive!'' And we just laughed about it, and yet . . . here I am. Listening to the open-wheel guys, you think you are not welcome [in Nascar]. But no one has done it full time. I think if you commit yourself and say, ''This is the path of my career now,'' people respect that a lot.</p>
+        <p>THIS MUST BE BETTER THAN YOUR FIRST YEAR IN EUROPE.  It was horrible. I lived in a little town in Austria, but I didn't speak any German. It's like moving to Tennessee and trying to speak only Spanish.</p>
+        <p>IS THERE ANY CHANCE NASCAR CAN BE AS POPULAR AS FORMULA ONE AROUND THE WORLD?  They're completely different things. Here, who watches Formula One? I mean, I don't even watch it, and I was there.</p>
+        <p>YOU TRADED IN MONACO AND MONZA FOR MARTINSVILLE AND MICHIGAN. DOES A DRIVER EVEN CONSIDER THE GLAMOUR OF HIS RACE SITES?  I'm not a guy who eats caviar. I'm a guy who eats hot dogs. I feel a lot more comfortable here than I did there. And there's usually a bit of glamour [in Nascar]. Girls like to dress up and all that; it's good.</p>
+        <p>ONE MAJOR COMPLAINT FROM NASCAR DRIVERS IS THE GRIND OF A 10-MONTH SEASON. HOW ARE YOU FINDING IT?  It's nice. You get finished driving, you go to your motor home, you relax, you eat your own food, with your wife, your friends. You have your own personal space. And I think that's worth millions. [In Formula One] the team is the big thing. You don't really have your own private space.</p>
+        <p>THERE WAS SOME CONTROVERSY ATTACHED TO YOUR BUSCH WIN IN MEXICO: YOU SPUN OUT TEAMMATE SCOTT PRUETT TO TAKE THE LEAD.  You know, it was bad for him, but it was good for me, and generally it was good for the team because, you know, who didn't show that? Everybody had something to say about it. Sometimes controversy is good. It's bad because it's your teammate, but. . . .</p>
+        <p>IS IT A LINGERING ISSUE?  I didn't do it on purpose. He was the only guy who didn't give me room. And he was the only guy who I backed off and tried not to hit. I locked the tires trying not to hit him.</p>
+        <p>DID IT ALSO HELP TO LET PEOPLE IN THE GARAGE KNOW YOU'LL DO WHAT IT TAKES TO WIN?  I think people know that.</p>
+        <p>WHERE DO YOU FEEL YOU NEED TO IMPROVE THE MOST?  Passing people. You watch on TV and the good guys make it look so easy. And I struggle with that. These cars are so big you don't have time to know when to get on the gas and when to brake.</p>
+        <p>NASCAR IS LOOKING TO YOU TO BUILD ITS LATINO FAN BASE. HOW RESPONSIBLE DO YOU FEEL FOR THAT?  People in Colombia used to love Formula One because I was there. And if you mentioned Nascar, they'd say what everybody thinks in Europe -- that it's not so good. But people watch the races, and suddenly they go, ''Hell, this is fun!'' I did an autograph session in Atlanta, and 70 percent of the people were Latinos.</p>
+        <p>YOU LIVE IN MIAMI. DO YOU FEEL ANY PRESSURE TO MOVE TO NORTH CAROLINA TO BE AROUND THE TEAM AND THE OTHER DRIVERS?  Hell no!</p>
+        <p>ROB WEINTRAUB</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why Juan Pablo Montoya gave up the Champagne and caviar of Formula One for the beer and Cheetos of Nascar.</p>
+      </block>
+      <block class="full_text">
+        <p>Juan Pablo Montoya has made quite an impression on Nascar's top drivers since he decided last summer to forgo the Eurofabulous world of Formula One. Few drivers are as suited to changing disciplines as Montoya, a 31-year-old Colombian who won a CART title at 24, the Indy 500 on his first attempt and seven Formula One races. The talented, sometimes irascible driver has lodged himself in the top half of Nascar's Nextel Cup rankings and, in March, won the Mexico City race in the Busch Series, Nascar's second-highest level, before rankling officials by raising his middle finger to a TV camera in April. (He was later fined.) Here he talks about leaving Europe, aggressive driving and his unexpectedly proletarian tastes.</p>
+        <p>SO, WERE YOU DISENCHANTED WITH FORMULA ONE, OR DID YOU JUST WANT A NEW CHALLENGE?  The cars were amazing to drive. But the racing wasn't that exciting. The way the cars are, it's just so hard to pass people. It's like a parade.</p>
+        <p>WAS THERE A MOMENT WHEN YOU KNEW YOU WERE GOING TO LEAVE?  I wasn't sure what I was going to do. Then I called Chip [Ganassi, his onetime Indy-car boss]. He said, ''I'm looking for a driver,'' and I said, ''I'm looking for a drive!'' And we just laughed about it, and yet . . . here I am. Listening to the open-wheel guys, you think you are not welcome [in Nascar]. But no one has done it full time. I think if you commit yourself and say, ''This is the path of my career now,'' people respect that a lot.</p>
+        <p>THIS MUST BE BETTER THAN YOUR FIRST YEAR IN EUROPE.  It was horrible. I lived in a little town in Austria, but I didn't speak any German. It's like moving to Tennessee and trying to speak only Spanish.</p>
+        <p>IS THERE ANY CHANCE NASCAR CAN BE AS POPULAR AS FORMULA ONE AROUND THE WORLD?  They're completely different things. Here, who watches Formula One? I mean, I don't even watch it, and I was there.</p>
+        <p>YOU TRADED IN MONACO AND MONZA FOR MARTINSVILLE AND MICHIGAN. DOES A DRIVER EVEN CONSIDER THE GLAMOUR OF HIS RACE SITES?  I'm not a guy who eats caviar. I'm a guy who eats hot dogs. I feel a lot more comfortable here than I did there. And there's usually a bit of glamour [in Nascar]. Girls like to dress up and all that; it's good.</p>
+        <p>ONE MAJOR COMPLAINT FROM NASCAR DRIVERS IS THE GRIND OF A 10-MONTH SEASON. HOW ARE YOU FINDING IT?  It's nice. You get finished driving, you go to your motor home, you relax, you eat your own food, with your wife, your friends. You have your own personal space. And I think that's worth millions. [In Formula One] the team is the big thing. You don't really have your own private space.</p>
+        <p>THERE WAS SOME CONTROVERSY ATTACHED TO YOUR BUSCH WIN IN MEXICO: YOU SPUN OUT TEAMMATE SCOTT PRUETT TO TAKE THE LEAD.  You know, it was bad for him, but it was good for me, and generally it was good for the team because, you know, who didn't show that? Everybody had something to say about it. Sometimes controversy is good. It's bad because it's your teammate, but. . . .</p>
+        <p>IS IT A LINGERING ISSUE?  I didn't do it on purpose. He was the only guy who didn't give me room. And he was the only guy who I backed off and tried not to hit. I locked the tires trying not to hit him.</p>
+        <p>DID IT ALSO HELP TO LET PEOPLE IN THE GARAGE KNOW YOU'LL DO WHAT IT TAKES TO WIN?  I think people know that.</p>
+        <p>WHERE DO YOU FEEL YOU NEED TO IMPROVE THE MOST?  Passing people. You watch on TV and the good guys make it look so easy. And I struggle with that. These cars are so big you don't have time to know when to get on the gas and when to brake.</p>
+        <p>NASCAR IS LOOKING TO YOU TO BUILD ITS LATINO FAN BASE. HOW RESPONSIBLE DO YOU FEEL FOR THAT?  People in Colombia used to love Formula One because I was there. And if you mentioned Nascar, they'd say what everybody thinks in Europe -- that it's not so good. But people watch the races, and suddenly they go, ''Hell, this is fun!'' I did an autograph session in Atlanta, and 70 percent of the people were Latinos.</p>
+        <p>YOU LIVE IN MIAMI. DO YOU FEEL ANY PRESSURE TO MOVE TO NORTH CAROLINA TO BE AROUND THE TEAM AND THE OTHER DRIVERS?  Hell no!</p>
+        <p>ROB WEINTRAUB  TALKING POINTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>House Carries Storied Name But Is Defined by Steak</title>
+    <meta content="03dineliLI" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/nyregion/nyregionspecial2/03dineli.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851730"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING/HUNTINGTON STATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Whitman's Steakhouse (Huntington, NY)</org>
+        <person class="indexing_service">Starkey, Joanne</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3D71430F930A35755C0A9619C8B63" item-length="807" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>House Carries Storied Name But Is Defined by Steak</hl1>
+        <hl2 class="online_headline">House Carries Storied Name but Is Defined by Steak</hl2>
+      </hedline>
+      <byline class="print_byline">By JOANNE STARKEY</byline>
+      <byline class="normalized_byline">Starkey, Joanne</byline>
+      <abstract>
+        <p>Joanne Starkey reviews Whitman's Steakhouse in Huntington, NY; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DID the ''good gray poet'' like red meat? Does it matter? Naming a steakhouse for Walt Whitman is a question of location. Whitman's Steakhouse, which opened in Huntington Station in early April, is about a mile from the Walt Whitman Birthplace in West Hills. (A shopping mall that also bears his name is even closer to the birthplace.)</p>
+        <p>The setting is an old house from around the turn of the 20th century that had been lovingly restored by owners of the previous restaurant here, Mae Brown's. Whitman's wisely kept the beautiful wood paneling, typical of steakhouses. The upper half of the walls is covered in pale beige fabric, a nice backdrop for paintings including scenes of Northport and a view of the Huntington Lighthouse by local artists.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At Whitman’s Steakhouse in Huntington, take a cue from the restaurant’s name and head right for the steaks.</p>
+      </block>
+      <block class="full_text">
+        <p>DID the ''good gray poet'' like red meat? Does it matter? Naming a steakhouse for Walt Whitman is a question of location. Whitman's Steakhouse, which opened in Huntington Station in early April, is about a mile from the Walt Whitman Birthplace in West Hills. (A shopping mall that also bears his name is even closer to the birthplace.)</p>
+        <p>The setting is an old house from around the turn of the 20th century that had been lovingly restored by owners of the previous restaurant here, Mae Brown's. Whitman's wisely kept the beautiful wood paneling, typical of steakhouses. The upper half of the walls is covered in pale beige fabric, a nice backdrop for paintings including scenes of Northport and a view of the Huntington Lighthouse by local artists.</p>
+        <p>The restaurant's ambience is sedate and runs to comfortable seating, brocade draperies, carpeting, white tablecloths and wrought-iron chandeliers adorned with crystals.</p>
+        <p>Happily, the service is not in the curmudgeonly steakhouse tradition. On my first visit, our waiter was personable, and service was right on the money. There were a few glitches on a second night: We received garlic mashed potatoes instead of the wasabi variety we had ordered, and what had been billed as a chopped steak with sautéed onions and French fries was served hamburger style on a bun with no onions. When the mistakes were pointed out, we quickly received the correct mashed potatoes and a side dish of sautéed onions. (We were not charged for either the potatoes or the chopped steak.)</p>
+        <p>Take a cue from the restaurant's name and head right for the steaks. They were all super, even a sirloin that a tablemate ordered medium-well (usually a disaster). It was cooked just the way she liked it but, amazingly, was still juicy. The best steak was the ribeye, which was well marbled with a terrific char. The porterhouse for two was also exemplary, although the ribeye had a slight edge.</p>
+        <p>Also praiseworthy were the ivory-white, pan-seared sea bass in a Caribbean sauce (fruity but not sweet) and a thick, tender veal chop running with juices. The lamb chops turned out to be a crusted rack of lamb, cooked precisely to order.</p>
+        <p>Steaks arrive solo in steakhouse fashion, so it is necessary to order side dishes. (The sea bass and lamb were accompanied by vegetables; the veal chop was not.)</p>
+        <p>The best side dish was the home fries, tiny cubes of potato and onion, fried till crisp and crowned with a confetti of multicolored peppers. French fries (medium cut), garlic and wasabi mashed potatoes, creamed spinach and asparagus dotted with sautéed garlic were also good. Wild mushrooms, though, were soft and steamed rather than crisp from the sauté pan.</p>
+        <p>The crab meat cocktail, a pristine pile of lump crab, was the top seafood opener. The crab cake, a giant one with shredded rather than lump crab, and the shrimp cocktail of four large but not colossal crustaceans, were forgettable.</p>
+        <p>The best salad was the Whitman's salad with chopped shrimp, haricots verts, crunchy sweet onions, pimientos, summer-quality tomatoes and crumbled bacon. We also liked the wedge of iceberg with blue cheese dressing, a retro treat that is fast becoming an Island favorite, and the house salad, which included apple slices, berries and nuts. The Caesar was a bit timid.</p>
+        <p>An outstanding bread basket, piled with onion rolls, raisin-nut bread, chunks of baguettes and addictive, paper-thin crisps studded with rosemary, got the meal off to a good start, and desserts ended it in style.</p>
+        <p>The sweets to order are the chocolate truffle cake, a small wedge of fudgelike goodness, and an exceptionally creamy tiramisù. Cheesecake, that steakhouse favorite, was unavailable the night we tried to order it.</p>
+        <p>Whitman's Steakhouse</p>
+        <p>257 East Jericho Turnpike  Huntington Station  (631) 470-8383  www.whitmanssteakhouse.com</p>
+        <p>VERY GOOD</p>
+        <p>THE SPACE -- Attractively converted house from around the turn of the 20th century, traditional and comfortable. Not wheelchair accessible.</p>
+        <p>THE CROWD -- Mainly couples but a number of family groups with children.</p>
+        <p>THE BAR -- Quiet and separate from the dining room. A list of about 100 wines ranging from $27 to $500. A dozen wines are available by the glass, $7.50 to $14.</p>
+        <p>THE BILL -- Lunch entrees $14 (club sandwich) to $32 (filet mignon). Dinner entrees $18 (chicken or chopped steak) to $42 (ribeye). American Express, Visa, MasterCard and Discover are accepted.</p>
+        <p>WHAT WE LIKE -- Crab cocktail, house salad, Whitman's salad, iceberg wedge, ribeye steak, porterhouse for two, sirloin, rack of lamb, veal chop, sea bass, chocolate truffle cake, tiramisù.</p>
+        <p>IF YOU GO -- Lunch: Monday to Friday, 11:45 a.m. to 3 p.m. Dinner: Monday to Thursday, 5 to 9 p.m., Friday and Saturday, 5 to 10:30 p.m. and Sunday 1 to 9 p.m. Reservations are recommended.</p>
+        <p>Reviewed June 3, 2007</p>
+        <p>DINING/HUNTINGTON STATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

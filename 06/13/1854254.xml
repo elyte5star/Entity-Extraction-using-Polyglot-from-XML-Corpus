@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="13trns" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854254"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5DE143FF930A25755C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>National League  CINCINNATI REDS--Acquired LHP Ben Jukich from Oakland to complete an earlier trade. Recalled RHP Todd Coffey from Louisville (IL). Placed RHP Jared Burton on the 15-day DL. Activated RHP Elizardo Ramirez from the 15-day DL and optioned him to Louisville.  HOUSTON ASTROS--Agreed to terms with RHP Chan Ho Park on a minor league contract  METS--Agreed to terms with RHP Scott Moviel, 3B Richard Lucas, RHP William Morgan, OF Christopher Fournier, RHP Dylan Owen, RHP Dillon Gee, C Norberto Navarro, RHP Bradley Burns and OF Brandon Kawal. Assigned Burns to Kingsport (Appalachian); Morgan, Fournier, Owen, Gee and Kawal to Brooklyn (NYP); and Moviel, Lucas and Navarro to the Mets (GCL).  PITTSBURGH PIRATES--Purchased the contract of RHP Dan Kolb from Indianapolis (IL). Designated INF Don Kelly for assignment. Agreed to terms with RHP Matthew Foust, RHP Kyle McPherson, OF Marcus Davis, RHP Brian Tracy, SS Chad Rice and LHP Daniel Forrer.</p>
+        <p>N.B.A.</p>
+        <p>INDIANA PACERS--Announced the resignation of Rick Carlisle, executive vice president.</p>
+        <p>N.F.L.</p>
+        <p>LEAGUE--Announced Tennessee CB Adam "Pacman" Jones withdrew the appeal of his one-year suspension.  CHICAGO BEARS--Signed FB Obafemi Ayanbadejo to a one-year contract.  MINNESOTA VIKINGS--Released WR Randy Hymes.</p>
+        <p>N.H.L.</p>
+        <p>ANAHEIM DUCKS--Signed LW Travis Moen and RW George Parros to two-year contract extensions.  BOSTON BRUINS--Agreed to terms with D Andrew Alberts on a multi-year contract.  DETROIT RED WINGS--Re-signed D Chris Chelios to a one-year contract.  TORONTO MAPLE LEAFS--Agreed to terms with C Mats Sundin on a one-year contract.</p>
+        <p>MAJOR LEAGUE SOCCER</p>
+        <p>D.C. UNITED--Announced F Jaime Moreno has been recalled by the Bolivian national team.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>National League  CINCINNATI REDS--Acquired LHP Ben Jukich from Oakland to complete an earlier trade. Recalled RHP Todd Coffey from Louisville (IL). Placed RHP Jared Burton on the 15-day DL. Activated RHP Elizardo Ramirez from the 15-day DL and optioned him to Louisville.  HOUSTON ASTROS--Agreed to terms with RHP Chan Ho Park on a minor league contract  METS--Agreed to terms with RHP Scott Moviel, 3B Richard Lucas, RHP William Morgan, OF Christopher Fournier, RHP Dylan Owen, RHP Dillon Gee, C Norberto Navarro, RHP Bradley Burns and OF Brandon Kawal. Assigned Burns to Kingsport (Appalachian); Morgan, Fournier, Owen, Gee and Kawal to Brooklyn (NYP); and Moviel, Lucas and Navarro to the Mets (GCL).  PITTSBURGH PIRATES--Purchased the contract of RHP Dan Kolb from Indianapolis (IL). Designated INF Don Kelly for assignment. Agreed to terms with RHP Matthew Foust, RHP Kyle McPherson, OF Marcus Davis, RHP Brian Tracy, SS Chad Rice and LHP Daniel Forrer.</p>
+        <p>N.B.A.</p>
+        <p>INDIANA PACERS--Announced the resignation of Rick Carlisle, executive vice president.</p>
+        <p>N.F.L.</p>
+        <p>LEAGUE--Announced Tennessee CB Adam "Pacman" Jones withdrew the appeal of his one-year suspension.  CHICAGO BEARS--Signed FB Obafemi Ayanbadejo to a one-year contract.  MINNESOTA VIKINGS--Released WR Randy Hymes.</p>
+        <p>N.H.L.</p>
+        <p>ANAHEIM DUCKS--Signed LW Travis Moen and RW George Parros to two-year contract extensions.  BOSTON BRUINS--Agreed to terms with D Andrew Alberts on a multi-year contract.  DETROIT RED WINGS--Re-signed D Chris Chelios to a one-year contract.  TORONTO MAPLE LEAFS--Agreed to terms with C Mats Sundin on a one-year contract.</p>
+        <p>MAJOR LEAGUE SOCCER</p>
+        <p>D.C. UNITED--Announced F Jaime Moreno has been recalled by the Bolivian national team.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

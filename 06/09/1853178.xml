@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Investigating Mislabeling Of Workers</title>
+    <meta content="09contractor" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/nyregion/09contractor.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853178"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Unemployment Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Cheating</classifier>
+        <classifier class="online_producer" type="descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EFDD163FF93AA35755C0A9619C8B63" item-length="896" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Investigating Mislabeling Of Workers</hl1>
+        <hl2 class="online_headline">Investigating Mislabeling of Workers</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVEN GREENHOUSE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer is planning to step up enforcement against thousands of companies that illegally misclassify workers as independent contractors to cheat on taxes and skimp on employee benefits, the state labor commissioner said yesterday.</p>
+        <p>The commissioner, M. Patricia Smith, said the Spitzer administration was focusing on misclassification because it costs the state a significant amount in unemployment insurance taxes and workers' compensation premiums while denying many workers overtime pay.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Eliot Spitzer wants to step up enforcement on companies that illegally describe workers as independent contractors to pay less in taxes and benefits.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer is planning to step up enforcement against thousands of companies that illegally misclassify workers as independent contractors to cheat on taxes and skimp on employee benefits, the state labor commissioner said yesterday.</p>
+        <p>The commissioner, M. Patricia Smith, said the Spitzer administration was focusing on misclassification because it costs the state a significant amount in unemployment insurance taxes and workers' compensation premiums while denying many workers overtime pay.</p>
+        <p>''We are developing a plan to address this law-breaking practice, which has been left unchecked for 12 years,'' Ms. Smith said. She refused to disclose details because the administration has not finished developing the enforcement plan.</p>
+        <p>In February, researchers from Cornell University issued a report saying that 704,000 of the seven million private-sector workers in New York State were misclassified as independent contractors and that as a result the state was being shortchanged $175 million in unemployment insurance taxes each year.</p>
+        <p>Under the state's definition, independent contractors are not employees but are considered to be in business for themselves; employees are those hired to accomplish specific tasks as employers closely supervise their work and decide the hours, pace, place and nature of their labor.</p>
+        <p>When workers are classified as independent contractors, employers do not have to pay unemployment insurance taxes, workers' compensation premiums or the employer's portion of Social Security and Medicare taxes -- typically 7.65 percent of wages. In addition, independent contractors do not have a right to unionize and are exempt from minimum wage and overtime protections, as well as from most discrimination and occupational safety laws. They also do not usually receive the health and pension benefits that other workers receive.</p>
+        <p>''Misclassification is clearly a major problem in New York State, as it is nationally,'' said Fred B. Kotler, one of the writers of the Cornell study and associate director of the construction industry program at the Cornell School of Industrial and Labor Relations. ''It is a problem not only for the workers who get cheated, but it's a problem for the state's business climate. It creates an unlevel playing field because some companies are taking unfair advantage.''</p>
+        <p>When workers are wrongly classified, the state and federal governments also lose because the employer does not withhold employee income taxes.</p>
+        <p>After reviewing audits by state agencies, the Cornell researchers -- Mr. Kotler, Linda H. Donahue and James Ryan Lamare -- concluded that more than 39,500 employers misclassified workers each year.</p>
+        <p>The Cornell study found that misclassification is especially prevalent in the construction industry, concluding that 15 percent of the workers there are improperly classified. In explaining the high rate, the study noted that the construction industry is fiercely competitive, its profit margins are often slim, workers' compensation costs are high and many workers are employed for only a short time.</p>
+        <p>''We're most concerned about the problem in the construction industry right now, all around the state,'' Ms. Smith said.</p>
+        <p>In a report issued in April, the Fiscal Policy Institute, a labor-backed research group, estimated that nearly one-sixth of New York City's workers in the residential construction industry were misclassified as independent contractors.</p>
+        <p>When Mr. Spitzer was the state's attorney general, he acted vigorously against several companies that misclassified workers. He brought enforcement actions against two supermarket companies, Gristedes and Food Emporium, as well as their delivery companies.</p>
+        <p>The companies said their grocery deliverymen did not have to be paid minimum wage or overtime, under the theory that they were independent contractors and not employees. Each supermarket company settled for $3 million. Mr. Spitzer also took action against several well-known Manhattan restaurants and a company that provided them with bathroom attendants, accusing them of misclassifying the attendants as independent contractors and sometimes paying as little as $2.14 an hour, well below the federal minimum wage of $5.15 an hour.</p>
+        <p>''Common sense tells you that low-wage workers are employees, but we're increasingly seeing that employers misclassify them as independent contractors, whether it's janitors, day laborers, delivery drivers or bathroom attendants,'' said Annette Bernhardt, deputy director of the poverty program at the Brennan Center for Justice at New York University.</p>
+        <p>In a forthcoming report about inadequate protection for low-wage workers in New York City, the Brennan Center found that one of the major problems those workers face is misclassification.</p>
+        <p>One of Mr. Spitzer's concerns is that when the state's Labor Department, Workers' Compensation Board or tax department found that a company had misclassified workers, it did not notify other agencies.</p>
+        <p>Sharing some of the same concerns, Gov. Jon S. Corzine of New Jersey announced a plan last summer to battle misclassification. As part of that effort, the New Jersey Treasury Department and Labor Department adopted a unified definition of an employee and began holding quarterly meetings to coordinate their enforcement.</p>
+        <p>Each year New Jersey's Labor Department audits about 2 percent of employees, and in 2005 it found more than 26,000 misclassified. The state estimated that this resulted in $5 million in unpaid taxes.</p>
+        <p>As part of the New Jersey enforcement effort, state officials found that a national package delivery company was routinely misclassifying drivers.</p>
+        <p>To minimize the practice, the Cornell study urged New York State's government to conduct high-profile enforcement actions and to clarify its definitions of employee and independent contractor. The report also urged New York to do what a three-year-old Massachusetts law does: create a presumption that every worker is an employee, unless demonstrated otherwise.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

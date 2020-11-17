@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ENGINEERING ANOTHER COMEBACK</title>
+    <meta content="17link-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855308"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7DD123FF934A25755C0A9619C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ENGINEERING ANOTHER COMEBACK</hl1>
+      </hedline>
+      <byline class="print_byline">By DAMON HACK</byline>
+      <dateline>OAKMONT, Pa., June 16</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Steve Stricker followed one of the worst shots of his round at the United States Open with one of the best of his career.</p>
+        <p>After his shot from a fairway bunker landed well back in the middle of the 18th fairway, Stricker holed a lob wedge for a birdie to finish the third round Saturday with a two-under-par 68. He trails the leader, Aaron Baddeley, by four strokes. He stood at six-over 216, tied for seventh with Jim Furyk and Ángel Cabrera.</p>
+      </block>
+      <block class="full_text">
+        <p>Steve Stricker followed one of the worst shots of his round at the United States Open with one of the best of his career.</p>
+        <p>After his shot from a fairway bunker landed well back in the middle of the 18th fairway, Stricker holed a lob wedge for a birdie to finish the third round Saturday with a two-under-par 68. He trails the leader, Aaron Baddeley, by four strokes. He stood at six-over 216, tied for seventh with Jim Furyk and Ángel Cabrera.</p>
+        <p>''What a way to finish,'' the 40-year-old Stricker said. ''Icing on the cake for me.''</p>
+        <p>Stricker, who has never won a major and has not won a PGA Tour event since 2001, nearly bungled the 484-yard par-4 18th hole. His drive ended up on the edge of a bunker and his second shot fell well short of the green.</p>
+        <p>''I tried to hit a hero shot,'' he said. ''I didn't pull it off.''</p>
+        <p>The good news was that his distance from the pin was 74 yards.</p>
+        <p>''The numbers were good,'' Stricker said. ''You don't expect to hole it, but I thought I could get it close to try to get a par.''</p>
+        <p>Stricker has seen his game respond after poor play in 2004 and 2005. He lost his privileges as fully exempt on the PGA Tour after the 2004 season, when he finished 151st on the money list.</p>
+        <p>He was voted the Tour's comeback player of the year last season, when he finished tied for sixth at the United States Open and tied for seventh at the P.G.A. Championship.</p>
+        <p>''Tomorrow is about handling your nerves and the situations,'' Stricker said about the final round Sunday. ''I've played with some winners in this event in prior years, or guys that have come close.</p>
+        <p>''I've been able to watch how they've done it, and hopefully I can apply that to myself tomorrow.''</p>
+        <p>DAMON HACK</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

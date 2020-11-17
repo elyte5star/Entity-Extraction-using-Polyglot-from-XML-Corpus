@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vivian Thomson, Patrick Roach</title>
+    <meta content="17Thomson" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17Thomson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Thomson, Vivian Elizabeth (Vivian Elizabeth Roach)</person>
+        <person class="indexing_service">Roach, Patrick Joseph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0DB153FF934A25755C0A9619C8B63" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vivian Thomson, Patrick Roach</hl1>
+        <hl2 class="online_headline">Vivian Thomson, Patrick Roach</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vivian Elizabeth Thomson and Patrick Joseph Roach were married yesterday afternoon. The Rev. Alane Cameron Miles, a Unitarian-Universalist minister, officiated at Pavilion VII on the University of Virginia campus in Charlottesville.</p>
+        <p>The bride, 50, is an assistant professor of environmental sciences and politics and the director of the environmental thought and practice Bachelor of Arts interdisciplinary program at the University of Virginia. She is also the vice chairwoman of the Virginia Air Pollution Control Board, which makes air pollution policy for the state.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Vivian Elizabeth Thomson and Patrick Joseph Roach were married yesterday afternoon. The Rev. Alane Cameron Miles, a Unitarian-Universalist minister, officiated at Pavilion VII on the University of Virginia campus in Charlottesville.</p>
+      </block>
+      <block class="full_text">
+        <p>Vivian Elizabeth Thomson and Patrick Joseph Roach were married yesterday afternoon. The Rev. Alane Cameron Miles, a Unitarian-Universalist minister, officiated at Pavilion VII on the University of Virginia campus in Charlottesville.</p>
+        <p>The bride, 50, is an assistant professor of environmental sciences and politics and the director of the environmental thought and practice Bachelor of Arts interdisciplinary program at the University of Virginia. She is also the vice chairwoman of the Virginia Air Pollution Control Board, which makes air pollution policy for the state.</p>
+        <p>She graduated from Princeton and received a master's in biology from the University of California, Santa Barbara, and a Ph.D. in government from the University of Virginia. She was a Fulbright professor of American studies at the University of Southern Denmark in Odense. She is a daughter of Selma W. Thomson of Chambersburg, Pa., and the late James C. Thomson.</p>
+        <p>The bridegroom, 54, is a deputy assistant director in the Federal Trade Commission's bureau of competition in Washington, which does antitrust enforcement. Before joining the government in 1996, he was a partner in the Chicago law firm of Bell, Boyd &amp; Lloyd, working in the Washington office as an antitrust lawyer. He graduated from Notre Dame and received his law degree from Georgetown. He is a son of Ann Roach of Des Moines and the late Mark F. Roach.</p>
+        <p>The bridegroom's previous marriage ended in divorce, as did the bride's.</p>
+        <p>The couple met online four years ago after Ms. Thomson responded to Mr. Roach's entry on a dating Web site.</p>
+        <p>''I told him that I loved his smile -- and I also loved his paragraph construction,'' she said. ''It did everything that paragraphs are supposed to do, focusing on one subject with clear topic sentences long enough to tell you something but brief enough to break up the page, with one paragraph leading clearly into the next.''</p>
+        <p>Mr. Roach, she added, responded at length about how flattered he was by the praise and how much he appreciated a woman who appreciated that gift. ''And then he sent me one more line, saying, 'By the way I think you're very attractive,' and I was totally hooked,'' she said.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

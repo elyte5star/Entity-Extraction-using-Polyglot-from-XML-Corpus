@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Congestion Pricing' May Cost Drivers on the Edge of the Zone</title>
+    <meta content="18empire" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855406"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDD123FF93BA25755C0A9619C8B63" item-length="705" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Congestion Pricing' May Cost Drivers on the Edge of the Zone</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+      <dateline>ALBANY</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City could start charging residents for the right to park in their own neighborhoods under Mayor Michael R. Bloomberg's plan for ''congestion pricing.''</p>
+        <p>The proposal, which was introduced in the State Senate this month, would charge most drivers $8 to enter Manhattan below 86th Street from 6 a.m. and 6 p.m. on weekdays. To mollify people who live just outside the zone and who fear their streets would be turned into parking lots, the Senate bill would allow the city to issue permits so that most parking spots would be restricted to neighborhood residents.</p>
+      </block>
+      <block class="full_text">
+        <p>New York City could start charging residents for the right to park in their own neighborhoods under Mayor Michael R. Bloomberg's plan for ''congestion pricing.''</p>
+        <p>The proposal, which was introduced in the State Senate this month, would charge most drivers $8 to enter Manhattan below 86th Street from 6 a.m. and 6 p.m. on weekdays. To mollify people who live just outside the zone and who fear their streets would be turned into parking lots, the Senate bill would allow the city to issue permits so that most parking spots would be restricted to neighborhood residents.</p>
+        <p>But the bill says there would be unspecified fees for those permits. The money would go to the city's general fund. John Gallagher, a spokesman for the mayor, said that ''discussion of a fee structure for residential permit parking is very premature.''</p>
+        <p>Among other details of the plan, visitors coming into the city would be able to deduct the cost of bridge and tunnel tolls from the $8 fee, but only if they use their E-ZPass account. And the state's environmental review process would be waived to speed up the plan.</p>
+        <p>The Empire Zone took a dive into the fine print of the mayor's proposal. As one might expect with such a voluminous piece of legislation, a number of notable items emerged. Here are a few:</p>
+        <p>It is not spelled out how visitors driving into New York City would be made aware that they have to pay the $8 within 48 hours or face a $115 fine. The mayor and his administration have said most people would have heard about the congestion fee, though some lawmakers say many would not. The mayor's staff says there would also be adequate signage. Lawmakers have wondered how this would actually work. The signs, presumably, would have to explain how and where to pay, requiring a lot more words than ''toll ahead.''</p>
+        <p>The Assembly speaker, Sheldon Silver, who has emerged as the chief skeptic of the plan, has voiced concern about the ''Big Brother'' aspect of using roughly a thousand cameras to record drivers coming into the congestion zone. But those would not be the only new cameras. Others would be mounted on buses that would be part of a new transit system included in the proposal. Those cameras would be used to record drivers who are traveling illegally in special bus lanes.</p>
+        <p>The mayor has presented the plan as crucial to the efforts to improve air quality, but the bill would waive the state environmental review that is standard for major projects. Because congestion pricing would begin as a three-year pilot program, Mr. Gallagher said, the trial period would serve as the environmental assessment.</p>
+        <p>That idea concerns Assemblyman Richard L. Brodsky, a Westchester Democrat who is opposed to the plan. ''Environmental impact statements are not just for projects we don't like,'' he said.</p>
+        <p>Technically speaking, some models of popular pickup trucks would be subject to a $21 fee instead of the $8 charge for smaller vehicles. That's because the bill says that ''trucks with a maximum gross vehicle weight equal to or greater than 7,000 pounds'' would be subject to the higher fee. That definition includes some versions of pickup trucks like the Ford F-150 and the Chevrolet Silverado. Practically speaking, the Metropolitan Transportation Authority does not weigh pickup trucks as they come down the road. The determining factor presumably would be whether a truck has a commercial registration.</p>
+        <p>Some lawmakers see the bill as a power grab by Mr. Bloomberg, left. It lays out a pilot period to test congestion pricing, but it gives the mayor sole authority to decide if the project should be made permanent.</p>
+        <p>A new public authority would be created to oversee the project, but the Legislature would be largely cut out of its operations. The governor and mayor would each appoint half of the eight board members. By contrast, the governor nominates all 17 board members of the transportation authority, though the mayor recommends four of them.</p>
+        <p>There is some irony that the Senate rushed to introduce the mayor's bill. All transportation authority board members must be confirmed by the State Senate, but none of the new authority's board would require Senate approval.</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

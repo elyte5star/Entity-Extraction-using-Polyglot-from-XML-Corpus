@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beethoven's Adventures: A Narrative and Context</title>
+    <meta content="13emer" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/arts/music/13emer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Emerson String Quartet</org>
+        <org class="online_producer">Carnegie Hall</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EED8173FF930A25755C0A9619C8B63" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beethoven's Adventures: A Narrative and Context</hl1>
+        <hl2 class="online_headline">Beethoven’s Adventures: A Narrative and Context</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Emerson String Quartet's Beethoven Quartets in Context series looks great on paper and lives up to its promise. The idea was to build on the Beethoven quartet cycle by surrounding his works with scores by other composers. But the results have been more than that. Besides showing Beethoven's development, from the Classically scaled early quartets to the titanic late ones, the series is focusing on compositional problems he grappled with and how other composers tackled similar issues.</p>
+        <p>In the fifth of the group's eight concerts at Carnegie Hall, on Sunday evening, two subjects competed for attention. One was the twin impulses of expansiveness and concision, explored in Beethoven's ''Harp'' Quartet in E flat (Op. 74) and in a pair of Webern works, the sweetly long-lined ''Langsamer Satz'' (1905) and the aphoristic and supremely economical Five Pieces (Op. 5) (1909).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Emerson String Quartet’s Beethoven Quartets in Context series looks great on paper and lives up to its promise.</p>
+      </block>
+      <block class="full_text">
+        <p>The Emerson String Quartet's Beethoven Quartets in Context series looks great on paper and lives up to its promise. The idea was to build on the Beethoven quartet cycle by surrounding his works with scores by other composers. But the results have been more than that. Besides showing Beethoven's development, from the Classically scaled early quartets to the titanic late ones, the series is focusing on compositional problems he grappled with and how other composers tackled similar issues.</p>
+        <p>In the fifth of the group's eight concerts at Carnegie Hall, on Sunday evening, two subjects competed for attention. One was the twin impulses of expansiveness and concision, explored in Beethoven's ''Harp'' Quartet in E flat (Op. 74) and in a pair of Webern works, the sweetly long-lined ''Langsamer Satz'' (1905) and the aphoristic and supremely economical Five Pieces (Op. 5) (1909).</p>
+        <p>The second, more compelling subject was the rebellion against harmonic constraints. Beethoven's side of the discussion was the ''Serioso'' Quartet in F minor (Op. 95), a first, crucial experiment with the kind of bold chromaticism that would blossom in his final works.</p>
+        <p>The Webern pieces spoke to this point in a different way, by underscoring the distance between the unequivocally Romantic ''Langsamer Satz'' and the spiky, forceful, shimmeringly modernist Five Pieces, written only four years later.</p>
+        <p>Bartok's Quartet No. 3 (1927), in the Emerson's warm-hued, virtuosic account, has it both ways: the tinge of modernist angularity and harmonic rootlessness give it its irresistible drive, yet shards of Beethovenian contemplativeness occasionally drift through, like glimpses of a lost world.</p>
+        <p>Except for a few strident moments toward the end of the ''Harp'' Quartet, the performances were at the Emerson's usual high standard, which is to say that they were finely polished and thoroughly unified, with evident care lavished on balance, proportion and color.</p>
+        <p>Most crucially, the players shaped their readings to make their programmatic points. By playing up the lushness of Webern's ''Langsamer Satz'' and the experimentalism of Beethoven's ''Serioso'' Quartet, for example, they created the impression that Beethoven was the more adventurous composer.</p>
+        <p>They toyed similarly with our perceptions of Webern's Five Pieces and Bartok's Third Quartet. Here too the earlier work seemed the more fiercely exploratory, although the sustained intensity of Bartok's score still trumps Webern's short movements. Or maybe not. You have to give the Emerson points for instigating the debate.</p>
+        <p>The Emerson String Quartet will perform tomorrow and Sunday at Carnegie Hall; (212) 247-7800.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

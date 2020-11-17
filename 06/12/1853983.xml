@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Psychiatrists' Pay</title>
+    <meta content="l12psych" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853983"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E5DA173FF931A25755C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Psychiatrists' Pay</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In two recent articles -- ''After Sanctions, Doctors Get Drug Company Pay'' (front page, June 3) and ''Psychiatrists, Troubled Children and Drug Industry's Role'' (front page, May 10) -- you focused on psychiatrists in Minnesota, presumably because it's the one state with a robust law on disclosing pharmaceutical company payments to physicians.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In two recent articles -- ''After Sanctions, Doctors Get Drug Company Pay'' (front page, June 3) and ''Psychiatrists, Troubled Children and Drug Industry's Role'' (front page, May 10) -- you focused on psychiatrists in Minnesota, presumably because it's the one state with a robust law on disclosing pharmaceutical company payments to physicians.</p>
+        <p>These articles raise important issues of concern to all of us: the influence of big business on health care.</p>
+        <p>I have met many psychiatrists, the vast majority of whom, like me, haven't taken pharmaceutical money. We support full and honest disclosure. Our primary focus is our patients' well-being.</p>
+        <p>The people I know are genuinely caring, hard-working doctors who chose to go into psychiatry to help people. They and their patients deserve to have that fact known. A June 2006 salary survey, for example, looked at pay for 59 medical specialties and found that psychiatrists ranked 48th. That's hardly a picture of greed.</p>
+        <p>Jeff Hardwig, M.D.  International Falls, Minn.  June 5, 2007</p>
+        <p>The writer is president of the Minnesota Psychiatric Society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

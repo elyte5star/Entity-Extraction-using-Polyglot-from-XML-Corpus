@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books Worth a Spot On a Car Buff's Shelf</title>
+    <meta content="03FOST" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851815"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DB1530F930A35755C0A9619C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books Worth a Spot On a Car Buff's Shelf</hl1>
+      </hedline>
+      <byline class="print_byline">By KIT FOSTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Kings of the Road  Ken W. Purdy  A few black-and-white photographs. 256 pages. Little, Brown &amp; Company, 1952.</p>
+        <p>Few car books bear rereading. For marque histories and learned studies, a single pass usually suffices before they are shelved for reference, while coffee-table tomes often have text so thin they're better left unread.</p>
+      </block>
+      <block class="full_text">
+        <p>The Kings of the Road  Ken W. Purdy  A few black-and-white photographs. 256 pages. Little, Brown &amp; Company, 1952.</p>
+        <p>Few car books bear rereading. For marque histories and learned studies, a single pass usually suffices before they are shelved for reference, while coffee-table tomes often have text so thin they're better left unread.</p>
+        <p>An exception to the rule is Ken W. Purdy's ''Kings of the Road,'' from 1952. In print for an amazing 17 years, it served as early education for more than a generation of enthusiasts, and it still delights today.</p>
+        <p>The book covers the usual prewar icons -- Bugatti, Rolls-Royce, Mercedes-Benz and Duesenberg -- as well as Mr. Purdy's favorite Mercer Raceabout. Le Mans, the Indianapolis 500 and the Vanderbilt Cup races rate chapters, as does ''The Flying Mantuan,'' the great driver Tazio Nuvolari. A chapter on front-wheel drive puts a little-known pioneer, J. Walter Christie, on an equal footing with E. L. Cord and André Citroën; the Stanley twins share the spotlight in the chapter on steam cars.</p>
+        <p>This is not a definitive history, and it has its share of errors, though many of them were conventional wisdom at publication. The author's style is plain, yet pithy. The owner of a Bugatti ''becomes its willing slave for life,'' and the Mercer's attraction ''derives from its starkness.''</p>
+        <p>Copies of the book are plentiful on the used market, often inexpensive and much more satisfying than a retreaded Porsche potboiler.</p>
+        <p>KIT FOSTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.R.S. Moves to Close Tax Shelter Shortly After I.B.M. Uses It to Save $1.6 Billion</title>
+    <meta content="07tax" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/business/07tax.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852803"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Shelters</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <org class="online_producer">International Business Machines Corp</org>
+        <org class="online_producer">Internal Revenue Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3D61E30F934A35755C0A9619C8B63" item-length="504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.R.S. Moves to Close Tax Shelter Shortly After I.B.M. Uses It to Save $1.6 Billion</hl1>
+        <hl2 class="online_headline">I.R.S. Moves to Close Tax Shelter Shortly After I.B.M. Uses It to Save $1.6 Billion</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the second time in 12 months, the government has moved to block a tax shelter that had been aimed at converting billions of dollars of corporate profits, on which taxes have yet to be paid, into profits that will never be taxed.</p>
+        <p>The move by the Internal Revenue Service came two days after International Business Machines said that it used the technique to avoid paying $1.6 billion in income taxes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The government moved to block a tax shelter aimed at converting billions of corporate profits into profits that will never be taxed.</p>
+      </block>
+      <block class="full_text">
+        <p>For the second time in 12 months, the government has moved to block a tax shelter that had been aimed at converting billions of dollars of corporate profits, on which taxes have yet to be paid, into profits that will never be taxed.</p>
+        <p>The move by the Internal Revenue Service came two days after International Business Machines said that it used the technique to avoid paying $1.6 billion in income taxes.</p>
+        <p>As part of a $12.5 billion stock repurchase, I.B.M. used a foreign subsidiary to buy back shares through foreign exchanges. The subsidiary then used the shares to pay its corporate parent in America for goods and services.</p>
+        <p>''It's just a way to bring the profits into the United States without paying taxes by using the stock as currency,'' said H. David Rosenbloom, an international tax lawyer at Caplin &amp; Drysdale and director of the international tax program at New York University Law School.</p>
+        <p>On May 31, the Internal Revenue Service issued a notice declaring that the technique could not be used to eliminate taxes. The notice said it would disallow any transactions beginning on that day.</p>
+        <p>The technique ''raises significant policy concerns,'' the I.R.S. said. The I.R.S. shut down a simpler version of the same shelter in September.</p>
+        <p>Under a 1962 law, corporations can defer paying taxes on most profits earned abroad as long as the money remains outside the country. The taxes come due, however, if the money is returned to the United States.</p>
+        <p>The technique was believed to be in wide use by corporations that have substantial profits offshore and are also buying back large amounts of their own shares to return value to investors. I.B.M. appears to be the only company that publicly disclosed its use of the tax shelter.</p>
+        <p>The tax shelter is known as ''Killer B,'' after the letter used to designate a provision in the tax code governing certain corporate reorganizations.</p>
+        <p>By avoiding the 35 percent federal tax on profit, a company can buy three shares for every two it would be able to acquire with profits that had been taxed.</p>
+        <p>Over the last 45 years, a variety of techniques to get around the rule have been put forth by accounting firms, but the shelters are typically demolished by the I.R.S. once it learns about them.</p>
+        <p>The notice effectively kills any further use of the device, Mr. Rosenbloom said, because independent auditors will not issue an unqualified opinion on the books of any company that tries to use the technique.</p>
+        <p>I.B.M.'s transaction, and any others, would be vulnerable in an audit because of a principle known as economic substance. Transactions that do nothing but eliminate taxes are disregarded if tax auditors discover them.</p>
+        <p>An I.B.M. spokeswoman in Washington, Lia P. Davis, said last night that she was not authorized to speak about the issue.</p>
+        <p>The I.B.M. transaction may differ in some crucial details from the way other companies used Killer B. I.B.M. does not have an especially large amount of deferred profit offshore.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

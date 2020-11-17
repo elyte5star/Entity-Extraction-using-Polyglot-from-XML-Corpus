@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cockroaches Conditioned To Salivate at a Scent, Not Pavlov's Dinner Bell</title>
+    <meta content="19observ" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/science/19observ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855621"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OBSERVATORY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="descriptor">Beaches</classifier>
+        <classifier class="online_producer" type="descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Polymers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Polymers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E4DE133FF93AA25755C0A9619C8B63" item-length="868" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cockroaches Conditioned To Salivate at a Scent, Not Pavlov's Dinner Bell</hl1>
+        <hl2 class="online_headline">Cockroaches Conditioned to Salivate at a Scent, Not Pavlov’s Dinner Bell</hl2>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than a century ago, Ivan Pavlov first demonstrated classical conditioning in dogs. The animals learned to associate food with a stimulus -- the sound of a bell -- such that they  would salivate upon hearing the sound even when no food was present.</p>
+        <p>While conditioned responses have been demonstrated in many animals with many kinds of stimuli over the years, conditioning of salivation has been shown only in one other species, humans.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Conditioned responses in cockroaches, polluted sand and self-healing materials.</p>
+      </block>
+      <block class="full_text">
+        <p>More than a century ago, Ivan Pavlov first demonstrated classical conditioning in dogs. The animals learned to associate food with a stimulus -- the sound of a bell -- such that they  would salivate upon hearing the sound even when no food was present.</p>
+        <p>While conditioned responses have been demonstrated in many animals with many kinds of stimuli over the years, conditioning of salivation has been shown only in one other species, humans.</p>
+        <p>But to those two animals can be added a third: the cockroach.</p>
+        <p>Makoto Mizunami and Hidehiro Watanabe of Tohoku University in Sendai, Japan, placed drops of sugar syrup on the mouths of American cockroaches (Periplaneta americana) while stimulating the insects' antennas -- not with sound, but with peppermint or other scents.</p>
+        <p>After a number of repetitions, the cockroaches were presented with a scent alone. The researchers found that the insects salivated when the scent was one associated with the sugar syrup.</p>
+        <p>The finding, published in the open-access online journal PLoS ONE, should open the way for better understanding of the neuronal basis of this kind of learning.</p>
+        <p>For one thing, cockroach brains are a lot simpler than those of dogs or people, so they should be easier to study. And while there are other known conditioned responses by cockroaches, Dr. Mizunami said, salivation has the advantage that it does not cause the head to move. This makes it easier to probe the insect's neurons while the response is occurring.</p>
+        <p>It's Not Just the Water. Sometimes the Sand Is Contaminated.</p>
+        <p>With the arrival of summer, it's time for fun in the sand and sun -- and for the occasional beach closing because of pathogens that can cause gastrointestinal illness.</p>
+        <p>Health officials determine whether a beach should be closed based on counts of E. coli bacteria in the water, an indicator of contamination by sewage (treated or untreated) or animal waste. But contamination is not necessarily just about the water, according to a new study by Satoshi Ishii and colleagues at the University of Minnesota. In a report in Environmental Science and Technology, they show that sand can play a role.</p>
+        <p>The researchers studied contamination on and around a beach in the harbor shared by Duluth, Minn., and Superior, Wis., at the western tip of Lake Superior. They found that E. coli counts increased from the spring through summer and early fall, with treated sewage being the main source in spring and waste from gulls and other birds contributing a greater percentage as the months wore on.</p>
+        <p>In particular, they found that beach sand contained very little bacteria in early spring, but that counts increased greatly in the ensuing months. The findings, they say, suggest that wave action brings bacteria to the sand, where it survives and multiplies, forming a ready source of contamination later in the season, when wave action again can put it back in the water.</p>
+        <p>New Composite Material Built to Repair Itself, Much Like Human Skin</p>
+        <p>Material, heal thyself.</p>
+        <p>Creation of polymer composites that can seal tiny cracks as they appear has long been a goal of chemists and engineers. Such materials could be useful in airplane wings, for example, which can develop cracks under the stress of flight.</p>
+        <p>Scientists at the University of Illinois at Urbana-Champaign are reporting progress toward that goal. Inspired by skin, a natural substance that is pretty good at healing itself,  they have developed a material that can repair itself over and over.</p>
+        <p>Nancy R. Sottos, a professor of materials science and engineering, said the current research built on earlier work on a system that uses microcapsules filled with a healing agent and embedded throughout the surface of the material. When a crack occurs, nearby capsules break and release the chemicals, which flow into the crack.</p>
+        <p>The problem with that approach, Dr. Sottos said, is that once the capsules are used there is no more healing agent available. ''So if a crack were to occur in the same location, you couldn't reheal it,'' she said.</p>
+        <p>The new system provides what amounts to a limitless source of healing agent through a three-dimensional network of channels that is analogous to the capillaries that supply blood to the skin. ''Instead of the capsules, it's this microvascular network that circulates and delivers the healing agent,'' Dr. Sottos said.</p>
+        <p>When a crack occurs, the healing chemicals flow by capillary action to the crack. Embedded microcapsules are also used, but they contain a catalyst that hardens the healing agent. This catalyst is reusable, so if the area cracks again it can harden more healing agent that flows into the new crack. The researchers found the system was able to repair the same area up to seven times.</p>
+        <p>Dr. Sottos, who is an author of a paper describing the work in Nature Materials, said the researchers were working on a system that would eliminate the microcapsules completely by using two or more independent microvascular networks to deliver repair chemicals.</p>
+        <p>One difficulty, she said, is how to employ lots of tiny channels, which make the material more porous, and yet keep it strong. Nature does this quite easily with bone and other materials. ''The problem is how you do that synthetically,'' she said.</p>
+        <p>OBSERVATORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

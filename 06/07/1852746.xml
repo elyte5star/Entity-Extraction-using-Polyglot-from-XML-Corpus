@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Seeking Stricter Rules On Qualifying For a Patent</title>
+    <meta content="07patent" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/business/07patent.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852746"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Patent and Trademark Office</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6D71E30F934A35755C0A9619C8B63" item-length="725" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Seeking Stricter Rules On Qualifying For a Patent</hl1>
+        <hl2 class="online_headline">Administration Seeks Overhaul of Patent System</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bush administration wants to revamp the nation's patent system, requiring better information from inventors and allowing public scrutiny of applications, according to the patent office's chief.</p>
+        <p>The goal, said Jon W. Dudas, director of the United States Patent and Trademark Office, is to improve the quality of patents and in the process curb the rising wave of patent disputes and lawsuits. The legal wrangling is often over broad descriptions of ideas or activities, so-called business methods, or software that contains only incremental changes over previous work.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bush administration wants better information from inventors and to allow public scrutiny of applications.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bush administration wants to revamp the nation's patent system, requiring better information from inventors and allowing public scrutiny of applications, according to the patent office's chief.</p>
+        <p>The goal, said Jon W. Dudas, director of the United States Patent and Trademark Office, is to improve the quality of patents and in the process curb the rising wave of patent disputes and lawsuits. The legal wrangling is often over broad descriptions of ideas or activities, so-called business methods, or software that contains only incremental changes over previous work.</p>
+        <p>''There ought to be a shared responsibility for patent quality among the patent office, the applicants and the public,'' Mr. Dudas said in an interview yesterday. ''If everything is done right at the front end, we'll have to worry a lot less about litigation later.''</p>
+        <p>Some steps to improve patent quality will require changes in the law, said Mr. Dudas, who testified at a meeting of the Senate Judiciary Committee yesterday. Patent overhaul legislation has been introduced this year in both the Senate and the House, amid concern that the current overburdened, litigation-choked system is hampering innovation rather than encouraging it.</p>
+        <p>A crucial change, Mr. Dudas said, would be a legal clarification of what is required of patent applicants. Under current law, an inventor is required to explain why a product is sufficiently original to deserve the exclusive rights that patent protection carries. But the applicants have a lot of discretion.</p>
+        <p>The supporting information, Mr. Dudas said, ranges from ''almost nothing'' to what he called ''malicious compliance,'' which he described as boxes and boxes of background information intended mainly to obscure the nugget of an invention.</p>
+        <p>Overhaul legislation, he said, should require the applicants to conduct a thorough search of related patents and technical journals, and then explain why the patent being sought represents a significant innovation beyond previous ideas in the field. The full-disclosure requirement, Mr. Dudas added, should not expose applicants to new risks of lawsuits from competitors, and such a safeguard, he said, should be written into any new patent law.</p>
+        <p>Mr. Dudas said legislation should also ensure that the search and information disclosures do not put an unfair burden on inventors who are not wealthy. Personal income, the number of patents filed and other gauges, he said, could be used to determine who would be exempt from certain requirements. ''For the truly small inventor, we might do the search for them,'' he said.</p>
+        <p>The patent office is experimenting with the concept of opening the examination process to outsiders, inviting public peer reviews. On June 15, Mr. Dudas said, it will begin a pilot project for open reviews of software patents. The patents will be posted on a Web site, and members of the public with software expertise will be allowed to send the patent office technical references related to the patent claims.</p>
+        <p>But the pilot project applies only to applications in information technology, and only with the approval of the patent applicants. Public peer reviews without an applicant's approval would be required for legislative changes.</p>
+        <p>The patent office has been instituting its own quality initiatives in recent years. And it has hired more examiners, adding 1,200 last year to bring its staff above 5,000.</p>
+        <p>The percentage of patent applications approved in the first quarter this year was 49 percent, down from 72 percent in 2000. ''We've taken steps, and the result has been that a lot more patents are rejected,'' Mr. Dudas said. ''But those numbers also tell you there are a lot of bad patent applications.''</p>
+        <p>Josh Lerner, a professor at Harvard Business School, said that the patent office had made an effort to improve patent quality in the last few years. But he asked whether Mr. Dudas's proposals amounted to relying too much on getting better information from applicants.</p>
+        <p>Professor Lerner said that inventors are instinctive optimists who tend to believe that what they are doing is unique. Yet even discounting any self-serving bias, he said, the growing complexity of technology makes it more difficult for a single person -- applicant or examiner -- to assess the innovative merit of a patent claim.</p>
+        <p>''That's why I think really opening the examination process to public peer review is so important,'' Professor Lerner said. ''While the patent office has shown a willingness to experiment with openness, I would put that at the center.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

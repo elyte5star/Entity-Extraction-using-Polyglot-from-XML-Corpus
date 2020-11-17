@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="11trans" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853796"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DE173FF932A25755C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  CLEVELAND INDIANS--Optioned LHP Jeremy Sowers to Buffalo (IL). Recalled RHP Matt Miller from Buffalo.  SEATTLE MARINERS--Activated RHP Jeff Weaver from the 15-day DL. Placed RHP John Huber on the 15-day DL, retroactive to June 7.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Activated 3B Chad Tracy from the 15-day DL. Optioned INF-OF Robby Hammock to Tucson (PCL).  HOUSON ASTROS--Recalled LHP Mark McLemore from Round Rock (PCL). Assigned C Humberto Quintero outright to Round Rock.  LOS ANGELES DODGERS--Recalled1B-OF James Loney from Las Vegas (PCL). Designated OF Brady Clark for assignment.</p>
+        <p>N.F.L.</p>
+        <p>TENNESSEE TITANS--Agreed to terms with CB Kelly Herndon on a three-year contract.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  CLEVELAND INDIANS--Optioned LHP Jeremy Sowers to Buffalo (IL). Recalled RHP Matt Miller from Buffalo.  SEATTLE MARINERS--Activated RHP Jeff Weaver from the 15-day DL. Placed RHP John Huber on the 15-day DL, retroactive to June 7.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Activated 3B Chad Tracy from the 15-day DL. Optioned INF-OF Robby Hammock to Tucson (PCL).  HOUSON ASTROS--Recalled LHP Mark McLemore from Round Rock (PCL). Assigned C Humberto Quintero outright to Round Rock.  LOS ANGELES DODGERS--Recalled1B-OF James Loney from Las Vegas (PCL). Designated OF Brady Clark for assignment.</p>
+        <p>N.F.L.</p>
+        <p>TENNESSEE TITANS--Agreed to terms with CB Kelly Herndon on a three-year contract.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

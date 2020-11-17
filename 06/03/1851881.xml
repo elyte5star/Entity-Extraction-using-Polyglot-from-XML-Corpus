@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catherine Bennett, Sophien Bennaceur</title>
+    <meta content="03bennett" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03bennett.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851881"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bennett, Catherine Gilbert</person>
+        <person class="indexing_service">Bennaceur, Sophien Lazhar</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5DA1230F930A35755C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catherine Bennett, Sophien Bennaceur</hl1>
+        <hl2 class="online_headline">Catherine Bennett, Sophien Bennaceur</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Catherine Gilbert Bennett, a daughter of Ellen and Robert S. Bennett of Washington, was married there last evening to Sophien Lazhar Bennaceur, a son of Dalila and Taieb L. Bennaceur of Nabeul, Tunisia. Judge Paul L. Friedman of the Federal District Court officiated at Evermay, a Federal-era house.</p>
+        <p>Ms. Bennett, 34, is keeping her name. She is a business affairs lawyer at the William Morris Agency, in New York, and is on the board of the Neighborhood Coalition for Shelter, a nonprofit organization for the homeless in New York. She graduated from Sarah Lawrence and received her law degree from Georgetown.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Catherine Gilbert Bennett, a daughter of Ellen and Robert S. Bennett of Washington, was married there last evening to Sophien Lazhar Bennaceur, a son of Dalila and Taieb L. Bennaceur of Nabeul, Tunisia. Judge Paul L. Friedman of the Federal District Court officiated at Evermay, a Federal-era house.</p>
+      </block>
+      <block class="full_text">
+        <p>Catherine Gilbert Bennett, a daughter of Ellen and Robert S. Bennett of Washington, was married there last evening to Sophien Lazhar Bennaceur, a son of Dalila and Taieb L. Bennaceur of Nabeul, Tunisia. Judge Paul L. Friedman of the Federal District Court officiated at Evermay, a Federal-era house.</p>
+        <p>Ms. Bennett, 34, is keeping her name. She is a business affairs lawyer at the William Morris Agency, in New York, and is on the board of the Neighborhood Coalition for Shelter, a nonprofit organization for the homeless in New York. She graduated from Sarah Lawrence and received her law degree from Georgetown.</p>
+        <p>Her father, who once represented President Bill Clinton, is a partner in the New York law firm of Skadden, Arps, Slate, Meagher &amp; Flom, working in its Washington office.. Her mother is a photographer in Washington.</p>
+        <p>Mr. Bennaceur, 45, is a founder and the chief executive of Triplanet Partners, a New York company that provides information technology and management consultant services to investment banking clients. He graduated from the University of Tunis</p>
+        <p>His mother, who is retired, was a history teacher at Nabeul Elementary Public School. His father, also retired, was a lieutenant governor of several states in Tunisia.</p>
+        <p>The couple met last August at the Chanel store in SoHo.</p>
+        <p>''Through the glass I saw this beautiful, elegant woman,'' said Mr. Bennaceur, who was passing by.</p>
+        <p>Ms. Bennett, who had just come from a yoga class, hadn't showered and was wearing flip-flops and sweat pants.</p>
+        <p>''She was dressed very casually, but I could tell this woman was full of grace,'' Mr. Bennaceur said. He entered the store and asked to buy the same purse she was about to request.</p>
+        <p>''I was buying the bag for my mother's birthday, and he wanted to buy it for his sister's birthday, which was a day earlier,'' Ms. Bennett said. She won the handbag and his heart.</p>
+        <p>''I never wanted to get married, but when I saw her I wanted to get married,'' said Mr. Bennaceur, who revealed his intentions on their first date three days later. ''What women find more romantic than anything else is if you're committed and you do what you say.''</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

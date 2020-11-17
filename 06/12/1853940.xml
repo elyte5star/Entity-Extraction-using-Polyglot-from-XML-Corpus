@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Names of the Dead</title>
+    <meta content="12list" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/us/12list.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853940"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E2DB173FF931A25755C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Names of the Dead</hl1>
+        <hl2 class="online_headline">Names of the Dead</hl2>
+      </hedline>
+      <abstract>
+        <p>Defense Dept confirms deaths of five service members in Iraq, bringing total to 3,499 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Department of Defense has identified 3,499 American service members who have died since the start of the Iraq war. It confirmed the deaths of the following Americans yesterday:</p>
+        <p>BARNES, Eric M., 20, Airman First Class, Air Force; Lorain, Ohio; 90th Logistics Readiness Squadron.</p>
+        <p>DEHN, Dariek E., 32, Sgt., Army; Spangle, Wash.; First Cavalry Division.</p>
+        <p>ENDLICH, Cory M., 23, Sgt., Army; Massillon, Ohio; Second Infantry Division.</p>
+        <p>LONG, Brian M., 32, Staff Sgt., Army; Burns, Wyo.; Second Infantry Division.</p>
+        <p>MILLER, Scott A., 20, Pvt., Army; Casper, Wyo.; Second Infantry Division.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Department of Defense has identified 3,499 American service members who have died since the start of the Iraq war. It confirmed the deaths of the following Americans yesterday:.</p>
+      </block>
+      <block class="full_text">
+        <p>The Department of Defense has identified 3,499 American service members who have died since the start of the Iraq war. It confirmed the deaths of the following Americans yesterday:</p>
+        <p>BARNES, Eric M., 20, Airman First Class, Air Force; Lorain, Ohio; 90th Logistics Readiness Squadron.</p>
+        <p>DEHN, Dariek E., 32, Sgt., Army; Spangle, Wash.; First Cavalry Division.</p>
+        <p>ENDLICH, Cory M., 23, Sgt., Army; Massillon, Ohio; Second Infantry Division.</p>
+        <p>LONG, Brian M., 32, Staff Sgt., Army; Burns, Wyo.; Second Infantry Division.</p>
+        <p>MILLER, Scott A., 20, Pvt., Army; Casper, Wyo.; Second Infantry Division.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

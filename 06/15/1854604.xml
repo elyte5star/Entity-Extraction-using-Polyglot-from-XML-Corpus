@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coping With Menopause</title>
+    <meta content="l15menopause" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854604"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E1DD153FF936A25755C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coping With Menopause</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Listen Up, Everybody: I'm in Menopause'' (Thursday Styles, June 7):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Listen Up, Everybody: I'm in Menopause'' (Thursday Styles, June 7):</p>
+        <p>It's great to see women embracing menopause as a natural stage of life and a universal female experience. Most women don't have symptoms severe enough to need hormone therapy or other prescription medications; in fact, fewer than 1 in 5 women would be considered appropriate candidates.</p>
+        <p>But it's important for all women to understand the range of options available for treating symptoms. Helpful approaches include lifestyle modifications (wearing layered clothing; avoiding caffeine, alcohol, tobacco and spicy foods; increasing soy in the diet; getting adequate physical activity), lowering thermostats, and paced respiration or other relaxation techniques.</p>
+        <p>For women with hot flashes or night sweats severe enough to interrupt sleep and disrupt quality of life, prescription medications may be worth discussing with your doctor.</p>
+        <p>Fortunately, we are now in a position to make more informed choices than the generations of women before us.</p>
+        <p>JoAnn E. Manson, M.D.  Shari S. Bassuk  Boston, June 8, 2007</p>
+        <p>The writers are authors of a book about menopause.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

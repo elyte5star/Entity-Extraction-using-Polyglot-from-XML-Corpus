@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Radio Time To Join List Of eBay Items Up for Auction</title>
+    <meta content="06ebay" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/technology/06ebay.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852506"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">eBay Inc</org>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DE1E30F935A35755C0A9619C8B63" item-length="554" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Radio Time To Join List Of eBay Items Up for Auction</hl1>
+        <hl2 class="online_headline">Radio Time to Join List of eBay Items Up for Auction</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE; Miguel Helft and Louise Story contributed reporting.</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+      <dateline>SAN FRANCISCO, June 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The auction giant eBay said it would begin selling radio airtime to advertisers starting Wednesday, expanding into a business that Google entered last year</p>
+        <p>EBay, through a partnership with Bid4Spots, a two-year-old company in Encino, Calif., will offer advertisers a way to buy unsold radio inventory from 2,300 radio stations in the top 300 media markets in the United States</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The auction giant said it would begin selling radio airtime to advertisers, expanding into a business that Google entered last year.</p>
+      </block>
+      <block class="full_text">
+        <p>The auction giant eBay said it would begin selling radio airtime to advertisers starting Wednesday, expanding into a business that Google entered last year</p>
+        <p>EBay, through a partnership with Bid4Spots, a two-year-old company in Encino, Calif., will offer advertisers a way to buy unsold radio inventory from 2,300 radio stations in the top 300 media markets in the United States</p>
+        <p>Advertisers can go shopping for airtime on the eBay Media Marketplace, originally a forum for cable television ads which began in March. EBay was hired to create the service by a consortium of major advertisers like Hewlett-Packard, Intel and Home Depot.</p>
+        <p>But the eBay ad exchange has had little success so far. Broadcasters have vocally protested that they were not adequately consulted on its development and that it goes too far in removing people from the process. Only Oxygen, the cable network, currently sells some of its ad time on eBay's service.</p>
+        <p>EBay, based in San Jose, Calif., hopes to jump-start its ad service by expanding to other media. ''By combining this radio station base with eBay's reach and scale among potential advertisers, we believe we have the opportunity to create a vibrant new marketplace that will benefit the radio industry and advertisers alike,'' Hani Durzy, an eBay spokesman, said in a statement.</p>
+        <p>Services like Bid4Spots typically attract unsold inventory -- the ad time that remains available at the end of the selling process. Bid4Spots works as a so-called reverse auction: advertisers who join designate what they are willing to pay for a 15-second or 30-second spot, then radio stations with the available airtime make offers to win their business.</p>
+        <p>In eBay's new service, advertisers or their ad agencies will create auctions on the eBay Media Marketplace, then radio stations registered with Bid4Spots can make offers. Advertisers can also stick with Bid4Spots' own service if they prefer it to eBay's exchange.</p>
+        <p>''There are a lot of businesses that do business with eBay and are comfortable doing business with eBay,'' said Dave Newmark, chief executive of the privately held Bid4Spots. ''EBay feels it can reach out to those businesses and provide them an effective advertising program.''</p>
+        <p>EBay may ultimately be aiming to persuade its huge base of online sellers to promote their goods offline, said David Bank, a media analyst with RBC Capital Markets. ''If you are using eBay to sell something, you are in essence marketing your product through online search. Perhaps you can ultimately do it through the offline radio world, too. I think that's the hope.''</p>
+        <p>Google, however, has a head start over eBay in cracking the radio business. Last year it paid $1.24 billion to acquire dMarc Broadcasting, a rival to Bid4Spots. In April, it struck a deal with the broadcasting giant Clear Channel to sell ads across all the company's 675 stations. Google currently offers radio ad inventory to advertisers using its AdSense platform to place online ads on a broad network of Web sites.</p>
+        <p>Eric Schmidt, Google's chief executive, has said his company will ultimately have 1,000 employees dedicated to radio advertising alone. It also recently started selling ads for the 125 national satellite channels on the Dish Network of EchoStar Communications and is testing ad sales for papers including The Chicago Tribune, The New York Times and newspaper chains.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

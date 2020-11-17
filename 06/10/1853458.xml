@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adjusted Income</title>
+    <meta content="10lives.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="106" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/magazine/10lives-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Lives"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Handler, Daniel</person>
+        <person class="indexing_service">Snicket, Lemony (Daniel Handler)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/Lives</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E0D81130F933A25755C0A9619C8B63" item-length="895" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adjusted Income</hl1>
+        <hl2 class="online_headline">Adjusted Income</hl2>
+      </hedline>
+      <byline class="print_byline">By Daniel Handler</byline>
+      <byline class="normalized_byline">Handler, Daniel</byline>
+      <abstract>
+        <p>Daniel Handler article says that although he makes lots of money as author of Lemony Snicket children's books, people will often assume he makes much more and have no qualms about asking him to give, say, $5 million to some worthy causes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Let's start by saying I have a lot of money. I've acquired it by writing children's books about terrible things happening to orphans, and this seems like such a crazy and possibly monstrous way of acquiring money that I give a lot of it away. I mean, I guess it's a lot. Let me put it like this: My wife and I recently became obsessed with a Web site where you plug in the amount of money you made in a year and find out where you stand. If your salary equaled the amount of money my wife and I gave Planned Parenthood one year, you'd be in the richest 1 percent in the world, which is pretty great. Still, there would be 60 million people richer than you, and that's a lot. They wouldn't fit in your home, for example, even though you'd have the sort of home that only the top 1 percent of people in the world can afford.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A little money is actually a lot, but a lot of money may not be much.</p>
+      </block>
+      <block class="full_text">
+        <p>Let's start by saying I have a lot of money. I've acquired it by writing children's books about terrible things happening to orphans, and this seems like such a crazy and possibly monstrous way of acquiring money that I give a lot of it away. I mean, I guess it's a lot. Let me put it like this: My wife and I recently became obsessed with a Web site where you plug in the amount of money you made in a year and find out where you stand. If your salary equaled the amount of money my wife and I gave Planned Parenthood one year, you'd be in the richest 1 percent in the world, which is pretty great. Still, there would be 60 million people richer than you, and that's a lot. They wouldn't fit in your home, for example, even though you'd have the sort of home that only the top 1 percent of people in the world can afford.</p>
+        <p>There's a gorgeous, historic building in my hometown, San Francisco, for example, a beautiful, beautiful place, a source of peace and contentment for a great number of people. I haven't gone into it for a few years, but still, it's a noble cause. A man associated with the historic building called me up. He has known my family forever. He watched me grow up. I had a crush on his daughter in fifth grade, but nothing came of it. He called me up and told me the historic building was collapsing and needed a great deal of money. I agreed to have lunch with him and went downstairs to talk to my wife.</p>
+        <p>''As you know,'' I said to her, ''we're the 100-something-thousandth richest people in the world, according to that Web site. That's the top .001 percent, which is crazy and possibly monstrous. Come the revolution, we will be guillotined, and our house will be torn apart by angry mobs. Speaking of beautiful buildings, guess what historic building needs money?''</p>
+        <p>''How much money?'' my wife said. ''How much money is he going to ask for?''</p>
+        <p>''I don't know,'' I said, and then I guessed a number that, had it been your yearly salary, would put you with those 60 million people outside your home. They must get thirsty out there. Maybe you should give them a beer, even though every last one of these 60 million people makes more money than you.</p>
+        <p>''That seems like a lot of money,'' my wife said.</p>
+        <p>We looked at each other: we're in the top .001 percent. Why even discuss whether to give money to a noble cause? Still, there are 100-something thousand people who have even more money. Why haven't they fixed the historic building?</p>
+        <p>Lunch was at a reasonable place in my neighborhood. At least, I think it was reasonable. We talked about the historic building. We talked about my childhood. Yes, we talked about his daughter, and then for some reason we ended up talking about gay marriage, a noble cause to which I've given about what we paid for lunch.</p>
+        <p>And then the guy asked me for five million dollars.</p>
+        <p>I had my checkbook with me, but I never brought it out. I felt suddenly as if someone had proposed marriage and I'd countered with an offer of a beer. I stuttered something. He explained that I wouldn't have to give all of it at once. I stuttered something else, and we talked about gay marriage a little more, and then I went home and lay down on the rug, which is what I do when things like this come up.</p>
+        <p>It's not the first time. People know I have a lot of money -- there's no way to hide it, and I'm irritated by those people who have a lot of money but pretend they don't have a lot of money, not really, not when you compare them to some other people. But still, I don't have all the money. My cousin recently assumed out loud that I'd been paid $100 million by a movie studio, even after he knew that the movie in question cost about $150 million to make. I was once referred to, in passing and not sarcastically, as a trillionaire. And a friend estimated that my home is worth $20 million, which it would be, if after lunch I lay down on a stack of gold bars instead of a rug.</p>
+        <p>Still, though, it's a nice rug. If the rug cost your annual salary, and I were a noble cause, I wouldn't ask you for money, because you wouldn't have any to give. Your income would, however, still be in the top 15 percent in the world. This is why, maybe, there are so many noble causes and so few of them are well financed: we all want other people to write the checks -- they're richer than we are. I wrote the guy a check anyway, of course, and it was for a lot of money. At least, I think it was a lot of money. You'd have to ask those other people, the hundred thousand who make more than I do and the 60 million who make more than I gave to restore the historic building: isn't this a lot of money? Then why does it feel as if I bought him a beer?</p>
+        <p>Lives Daniel Handler writes novels under his own name and also as Lemony Snicket.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Daniel Handler writes novels under his own name and also as Lemony Snicket.</tagline>
+    </body.end>
+  </body>
+</nitf>

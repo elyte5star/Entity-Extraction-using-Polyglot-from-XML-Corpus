@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wading Through Formats: JPEG, TIFF and Friends</title>
+    <meta content="05format" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/circuits/05format.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852358"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PICTURE-PERFECT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">Adobe Systems Inc</org>
+        <org class="online_producer">Apple Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E2D91130F936A35755C0A9619C8B63" item-length="847" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wading Through Formats: JPEG, TIFF and Friends</hl1>
+        <hl2 class="online_headline">Wading Through Formats: JPEG, TIFF and Friends</hl2>
+      </hedline>
+      <byline class="print_byline">By IVAN BERGER</byline>
+      <byline class="normalized_byline">Berger, Ivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A DIGITAL camera can save photos in a file format called JPEG, and sometimes in other formats like TIFF or RAW. A computer's photo software offers even more choices. While the options can seem bewildering, it pays to know something about them. Format choice can make a big difference, depending on what you want to do with your pictures.</p>
+        <p>For most people, JPEG is a good format. It's universal, compatible with all digital cameras, all photo software and all commercial print services. It also makes compact files that don't hog space on a camera's memory card or take long to download.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Depending on what you want to do with digital pictures, the format in which you save them can make a big difference.</p>
+      </block>
+      <block class="full_text">
+        <p>A DIGITAL camera can save photos in a file format called JPEG, and sometimes in other formats like TIFF or RAW. A computer's photo software offers even more choices. While the options can seem bewildering, it pays to know something about them. Format choice can make a big difference, depending on what you want to do with your pictures.</p>
+        <p>For most people, JPEG is a good format. It's universal, compatible with all digital cameras, all photo software and all commercial print services. It also makes compact files that don't hog space on a camera's memory card or take long to download.</p>
+        <p>To make these files compact, though, the JPEG format compresses image data by discarding picture details (a process known as ''lossy'' compression), starting with ones that people notice least. So if you edit your JPEGs by cropping them, correcting their color, eliminating red-eye in flash photos, sharpening them or making other changes, more details will be thrown away each time you save a new version. Nothing is lost if you open a JPEG file and close it without resaving.</p>
+        <p>Another format, PNG, can use lossy compression like JPEG or ''lossless'' compression that does not lose any data. The size of PNG files varies with the software and compression settings you use. Microsoft has marketed its Windows Media Photo format, renamed HD Photo, as another alternative to JPEG. The company says it can make files half as big as JPEGs while preserving more image information. Many photo programs support PNG, while Windows Vista supports HD Photo, though no cameras use either yet.</p>
+        <p>Because JPEG doesn't capture all the nuances, many cameras also let you save photos in a higher-quality format, called TIFF. A TIFF file holds more information than a JPEG. And because most TIFFs are uncompressed and the rest use ''lossless'' compression, you can edit a TIFF, save it and make more changes on the version you saved without losing any quality.</p>
+        <p>The catch is the file size. A TIFF file can be 4 to 10 times as large as a JPEG made from the same image. That means not only that fewer shots fit on a memory card, but also there's a longer wait between shots while the camera processes them. Photographers who plan to edit and enhance their pictures often use the TIFF format, or make their edits on TIFF copies of their pristine JPEGs.</p>
+        <p>These formats all process the image data to reflect camera settings like exposure, white balance, color intensity and contrast. Which parts of the picture register as white, for example, will depend on the camera's white-balance setting, as well as the subject and the actual illumination. If the settings were right, the image is ready to use as soon as you download it from your camera; if they were wrong, you can adjust the picture in your computer.</p>
+        <p>Many cameras can also store images as RAW files, which aren't processed. Instead, they capture all the data, unchanged, that is picked up by your camera's image sensor, with a list of what the camera's settings were. When you download the images to your computer, you get a second chance to edit those settings; all you're changing is the settings, not the picture data.</p>
+        <p>Once you have told your computer how you want these images processed, it will save the results in one of the standard formats, usually TIFF. This is a nondestructive process -- unless you delete it, you will still have the RAW original, which you can re-edit any time.</p>
+        <p>Some cameras can save your shots in RAW and JPEG simultaneously, which lets you use the more convenient JPEG version for most shots and RAW on shots you want to edit.</p>
+        <p>But every camera maker has its own RAW format, sometimes more than one. Adobe has developed a RAW format, DNG (for Digital Negative), that it hopes will become universal. (It's free to camera and software makers, and already used by several.) Because the format is open source, users can be confident that software to view and edit their old DNG images will always be available.</p>
+        <p>Two editing programs, Apple's Aperture and Adobe's Photoshop Lightroom, also work nondestructively. Like RAW and DNG, they add a packet of instructions to each image without actually changing the original. Your editing commands affect the image that you see on your computer monitor or print, and are incorporated into copies you export to JPEG, TIFF or other processed files. You can also copy the unmodified image and your editing instructions to a DNG.</p>
+        <p>Even more flexible is the system used by image-editing programs like Photoshop or Photoshop Elements, Paint Shop Pro and PhotoImpact. They let you save edited images in a proprietary format (PSD, PSP and UFO, respectively) that includes the original, unaltered, image plus a list of all the changes you have made to it. You can undo the changes one by one, if you like. Not all programs can read other programs' proprietary formats, which can be a problem if you change software or send the files to someone else.</p>
+        <p>PICTURE-PERFECT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

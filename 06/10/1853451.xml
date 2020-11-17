@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Head Case</title>
+    <meta content="10funny--humor.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/magazine/10funny-humor-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853451"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE FUNNY PAGES: II: TRUE-LIFE TALES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Headaches</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Novocain (Drug)</classifier>
+        <person class="indexing_service">Nelson, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Headaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain</classifier>
+        <classifier class="online_producer" type="descriptor">Brain</classifier>
+        <classifier class="online_producer" type="descriptor">Pain</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Headaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E1D81130F933A25755C0A9619C8B63" item-length="898" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Head Case</hl1>
+        <hl2 class="online_headline">A Head Case</hl2>
+      </hedline>
+      <byline class="print_byline">By Michael J. Nelson</byline>
+      <byline class="normalized_byline">Nelson, Michael J</byline>
+      <abstract>
+        <p>Michael J Nelson article in The Funny Pages describes his 20-year-and-counting headache and fruitless efforts to treat it with drugs, including Novocain injection into his head; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I've had a headache for 20 years. Not headaches, but one continuous headache, 20 years running.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After trying everything to get rid of a headache, the author realizes just how moronic his muscles are.</p>
+      </block>
+      <block class="full_text">
+        <p>I've had a headache for 20 years. Not headaches, but one continuous headache, 20 years running.</p>
+        <p>''I suppose you get used to it,'' people say.</p>
+        <p>Well, in the sense that you begin to expect it morning after morning, yes. But you don't grow to tolerate it any more than you would, say, having a toddler punch you in the groin at three-minute intervals, 24 hours a day, for 20 years. (Of course I realize it would have to be a series of toddlers, but let's not quibble.)</p>
+        <p>I can best describe my headache like this: Imagine deeply eccentric thugs seized you and forced a small, sturdy hat (e.g., a jaunty bowler) onto your head and glued it in place. Now imagine that every month or so the thugs return, apply powerful solvents to loosen the glue and remove the hat, only to glue on another -- and sometimes it's a more staid homburg (as I said, they're eccentric) that is two sizes smaller. That's my headache: unending weeks of moderate pain relieved by shorter stints of nearly intolerable pain.</p>
+        <p>Some time ago, I went to a neurologist, a grim, unsympathetic older man with a voice not unlike Winnie the Pooh's -- which is charming coming from a cartoon character but disconcerting coming from a man tasked with treating your chronic pain.</p>
+        <p>He listened to me describe my headache and then pronounced his diagnosis: ''You have a chronic headache.''</p>
+        <p>He then began to prescribe an endless series of pharmaceuticals. Because there is no medicine dedicated exclusively to the treatment of chronic headaches, he gave me pills for coronary artery disease, depression, joint pain, eczema, etc. -- the theory being that in studies of these medicines, some patients found that they treated their headaches. Now, if 1,000 people were given a dose of ringworm medication, I would expect one or two of them to exclaim, ''Hey, I find I no longer dislike the music of Rascal Flatts as much as I used to!'' That would not lead me to conclude, however, that ringworm medication cures an aversion to the music of Rascal Flatts. But then, I'm not a neurologist with the voice of Winnie the Pooh.</p>
+        <p>If you judge these medications on their ability to cure my headache, all failed. If you judge them on their ability to deliver a string of bizarre and unpleasant effects, however, then they were a rousing success! One caused my heart to slow significantly, so that if I exerted myself by, for example, walking several paces, my vision would swim (inconvenient, as walking several paces was a big part of my life back then). Another scrambled my sense of time, giving me the sensation that I was continually shifting several seconds into the future and waiting for the rest of humanity to catch up to me. For the record, imaginary trips several seconds into the future have nothing much to offer, aside from feelings of stark terror.</p>
+        <p>So I gave up on medications, eschewing even aspirin for 10 years. But then I heard about a novel kind of treatment that involves having Novocain injected into the head, the theory being that if you could somehow get your muscles to ''remember'' what it was like not to feel pain, they'd return to their normal state.</p>
+        <p>I was dubious. Do muscles remember? Are my thighs consumed with bitterness over the time I did too many leg lifts? Or what if the theory is sound, but my muscles just happen to be the biggest idiots in all of muscledom?</p>
+        <p>''Hey, scalp muscles. Remember that time, like, 20 years ago when you weren't in pain?''</p>
+        <p>''Hmm . . . was that that strange warm feeling?''</p>
+        <p>''No, you morons! That was me showering, and that was seven minutes ago!''</p>
+        <p>''Well, then we're tapped out. Sorry.''</p>
+        <p>Still, I decided to try it because, hey, why pass up a chance to have a large needle jammed into your head? My new neurologist quickly embarked on the established procedure: probe neck or scalp muscle. If tender, insert cocktail-straw-size needle deep into flesh. Inject numbing agent for a good 5 to 10 surprisingly painful seconds. Repeat two dozen times.</p>
+        <p>Once he finished and my whimpering ceased, my head was indeed pain-free. But now I had something else to deal with: my head was free of any sensation whatsoever. It lolled about on my shoulders like a puppet head.</p>
+        <p>I planned to go to work and hoped to pass off my listing head as a new, insouciant, devil-may-care attitude, but after about 20 minutes, a quarter-size area at the very top of my head began to feel very tight and hot, the sensation increasing by the minute until it became like a laser beam of unbearable pain. I felt as if I could point my head at people and kill them.</p>
+        <p>I skipped work -- there is little use for a man with a nonfunctioning head -- and drove home, where my wife, who was well within her rights to point at me and laugh, instead tended to me as I lay on the couch, moaning. The next morning, feeling had completely returned and my headache was worse than ever.</p>
+        <p>For all I know, the theory may be true and muscles do remember. Mine were simply trying to say: ''Hey, we hear you, man. We just prefer agony.''</p>
+        <p>As I said: My muscles are morons.</p>
+        <p>THE FUNNY PAGES: II: TRUE-LIFE TALES Michael J. Nelson is a former host of ''Mystery Science Theater 3000'' and the proprietor of RiffTrax.com, a Web site selling audio commentary on movies.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Michael J. Nelson is a former host of ''Mystery Science Theater 3000'' and the proprietor of RiffTrax.com, a Web site selling audio commentary on movies.</tagline>
+    </body.end>
+  </body>
+</nitf>

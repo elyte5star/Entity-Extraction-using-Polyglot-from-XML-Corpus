@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GOODWIN, F. LAWRENCE, JR.</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853232"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GOODWIN, F. LAWRENCE, JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E3DA143AF933A25755C0A9619C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GOODWIN, F. LAWRENCE, JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOODWIN--F. Lawrence, Jr., age 88, of Wilton, CT, died peacefully at home Tuesday evening, June 5, after a short bout with pancreatic cancer, surrounded by his wife Terry and his wonderful caregivers. He had not been in his usual robust health since he suffered a stroke in 1994 which ended his lifelong love of sailing and the seas. He was born and raised in Baltimore, attended Calvert, Gilman and Canterbury Schools, worked on the Grenfell Missions. A staff sargeant in World War II, he was shot down in Ploesti and became a prisoner of War in Romania for eight months in 1944. Worked for Woods Hole Oceanographic as a seaman on The Atlantis. Married in 1961, he moved to Wilton, was a salesman for Fayette R. Plumb (Hammers and Hatchets and Axes) and later for Union Fork &amp; Hoe (Garden Tools). He retired in 1984 and turned his interest into land conservation and preservation mainly in Wilton. He is survived by his wife Terry (46 years), his sister Emily Goodwin Kemp (Philip S., Omaha, NE) and bother Charles Goodwin III of Baltimore, MD. Plus many nieces and nephews. Services will be held at 10:00 am, Monday June 11, 2007 at Our Lady of Fatima, 229 Danbury Rd., Wilton, CT. Reception to follow. Contribution may be made to The Wilton Land Conservation Trust, Box 77, Wilton, CT 06897, or WHOI, Woods Hole, MA 02543.</p>
+      </block>
+      <block class="full_text">
+        <p>GOODWIN--F. Lawrence, Jr., age 88, of Wilton, CT, died peacefully at home Tuesday evening, June 5, after a short bout with pancreatic cancer, surrounded by his wife Terry and his wonderful caregivers. He had not been in his usual robust health since he suffered a stroke in 1994 which ended his lifelong love of sailing and the seas. He was born and raised in Baltimore, attended Calvert, Gilman and Canterbury Schools, worked on the Grenfell Missions. A staff sargeant in World War II, he was shot down in Ploesti and became a prisoner of War in Romania for eight months in 1944. Worked for Woods Hole Oceanographic as a seaman on The Atlantis. Married in 1961, he moved to Wilton, was a salesman for Fayette R. Plumb (Hammers and Hatchets and Axes) and later for Union Fork &amp; Hoe (Garden Tools). He retired in 1984 and turned his interest into land conservation and preservation mainly in Wilton. He is survived by his wife Terry (46 years), his sister Emily Goodwin Kemp (Philip S., Omaha, NE) and bother Charles Goodwin III of Baltimore, MD. Plus many nieces and nephews. Services will be held at 10:00 am, Monday June 11, 2007 at Our Lady of Fatima, 229 Danbury Rd., Wilton, CT. Reception to follow. Contribution may be made to The Wilton Land Conservation Trust, Box 77, Wilton, CT 06897, or WHOI, Woods Hole, MA 02543.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

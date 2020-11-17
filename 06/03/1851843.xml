@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For a Freshly Brushed Tan</title>
+    <meta content="03bronze" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851843"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EED71530F930A35755C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For a Freshly Brushed Tan</hl1>
+      </hedline>
+      <byline class="print_byline">By Ellen Tien</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apparently, the Bronze Age has an expansion contract. Cosmetics companies are making bronzing-powder compacts the size of salad plates, guaranteed not to leave a square inch of skin unburnished. Color-hungry customers can choose from supersize compacts by T. LeClerc ($55, at Barneys New York), NYX ($16, at Duane Reade stores), Smashbox ($54 at Sephora) and Guerlain ($65, available in late July at Saks Fifth Avenue; call 212-940-2660 to preorder). Estée Lauder's limited-edition azurée soleil compact in blue enamel with gold trim hearkens back to 70s Côte d'Azur glamour in an extra big way ($75 at esteelauder.com). Brush the bronzer on the face, collarbone, even knees and shins for a hint of hue -- click the compacts closed and they could practically double as luxe Frisbees at the season's first barbecues.</p>
+      </block>
+      <block class="full_text">
+        <p>Apparently, the Bronze Age has an expansion contract. Cosmetics companies are making bronzing-powder compacts the size of salad plates, guaranteed not to leave a square inch of skin unburnished. Color-hungry customers can choose from supersize compacts by T. LeClerc ($55, at Barneys New York), NYX ($16, at Duane Reade stores), Smashbox ($54 at Sephora) and Guerlain ($65, available in late July at Saks Fifth Avenue; call 212-940-2660 to preorder). Estée Lauder's limited-edition azurée soleil compact in blue enamel with gold trim hearkens back to 70s Côte d'Azur glamour in an extra big way ($75 at esteelauder.com). Brush the bronzer on the face, collarbone, even knees and shins for a hint of hue -- click the compacts closed and they could practically double as luxe Frisbees at the season's first barbecues.  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

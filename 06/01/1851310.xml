@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01loan--refer" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E1D81530F932A35755C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>State Oversight for Columbia  Columbia University will pay $1.1 million to a fund to educate students about loans and will have its financial aid office monitored by state officials for five years, under a settlement with the attorney general in a student lending scandal.</p>
+        <p>PAGE B1</p>
+        <p>Qualms About Interrogations  The Senate Intelligence Committee questioned the continuing value of the Central Intelligence Agency's secret interrogation program for terrorism suspects.</p>
+        <p>PAGE A18</p>
+        <p>Ex-Operative Sues C.I.A.  Valerie Wilson sued the C.I.A. over its refusal to allow her to publish a memoir that would discuss how long she worked for the agency.</p>
+        <p>PAGE A18</p>
+        <p>Art of the Very Large Variety  The sculptor Richard Serra, 67, ''one of the last great modernists in an age of minor talents,'' has a show at the Modern. A review by Michael Kimmelman.</p>
+        <p>WEEKEND, PAGE E25</p>
+        <p>Famous Genes Deciphered  The full genome of James D. Watson, who with Francis Crick discovered the structure of DNA in 1953, has been deciphered, marking what some scientists believe is the gateway to an impending era of personalized genomic medicine.</p>
+        <p>PAGE A19</p>
+      </block>
+      <block class="full_text">
+        <p>State Oversight for Columbia  Columbia University will pay $1.1 million to a fund to educate students about loans and will have its financial aid office monitored by state officials for five years, under a settlement with the attorney general in a student lending scandal.</p>
+        <p>PAGE B1</p>
+        <p>Qualms About Interrogations  The Senate Intelligence Committee questioned the continuing value of the Central Intelligence Agency's secret interrogation program for terrorism suspects.</p>
+        <p>PAGE A18</p>
+        <p>Ex-Operative Sues C.I.A.  Valerie Wilson sued the C.I.A. over its refusal to allow her to publish a memoir that would discuss how long she worked for the agency.</p>
+        <p>PAGE A18</p>
+        <p>Art of the Very Large Variety  The sculptor Richard Serra, 67, ''one of the last great modernists in an age of minor talents,'' has a show at the Modern. A review by Michael Kimmelman.</p>
+        <p>WEEKEND, PAGE E25</p>
+        <p>Famous Genes Deciphered  The full genome of James D. Watson, who with Francis Crick discovered the structure of DNA in 1953, has been deciphered, marking what some scientists believe is the gateway to an impending era of personalized genomic medicine.</p>
+        <p>PAGE A19</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

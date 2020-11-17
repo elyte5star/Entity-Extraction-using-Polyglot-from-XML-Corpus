@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dry Cleaner Calls $54 Million Lawsuit Over Pants a 'Nightmare'</title>
+    <meta content="14pants" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/us/14pants.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854353"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cleansers, Detergents and Soaps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <person class="online_producer">Pearson, Roy L Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DA143FF937A25755C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dry Cleaner Calls $54 Million Lawsuit Over Pants a 'Nightmare'</hl1>
+        <hl2 class="online_headline">Dry Cleaner Calls $54 Million Lawsuit Over Pants a ‘Nightmare’</hl2>
+      </hedline>
+      <byline class="print_byline">By SUEVON LEE</byline>
+      <byline class="normalized_byline">Lee, Suevon</byline>
+      <dateline>WASHINGTON, June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A pair of charcoal-colored pants at the center of a $54 million lawsuit was unfurled in a courtroom here on Wednesday, introduced into evidence by a defense lawyer who called the lawsuit a ''nightmare'' for his clients.</p>
+        <p>''It's a story of how one man has ruthlessly abused the legal system and one statute and caused a great deal of suffering for what was essentially a hardworking mom-and-pop business,'' the lawyer, Christopher Manning, said, referring to Roy L. Pearson Jr., a District of Columbia administrative law judge who is suing the owners of a neighborhood dry-cleaning shop here.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A pair of charcoal-colored pants at the center of a $54 million lawsuit was unfurled in a courtroom on Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>A pair of charcoal-colored pants at the center of a $54 million lawsuit was unfurled in a courtroom here on Wednesday, introduced into evidence by a defense lawyer who called the lawsuit a ''nightmare'' for his clients.</p>
+        <p>''It's a story of how one man has ruthlessly abused the legal system and one statute and caused a great deal of suffering for what was essentially a hardworking mom-and-pop business,'' the lawyer, Christopher Manning, said, referring to Roy L. Pearson Jr., a District of Columbia administrative law judge who is suing the owners of a neighborhood dry-cleaning shop here.</p>
+        <p>Mr. Pearson is alleging that the shop, Custom Dry Cleaners, returned the wrong pair of pants to him, and along the way broke promises made in signs saying ''Same Day Service'' and ''Satisfaction Guaranteed.''</p>
+        <p>Judge Judith Bartnoff is hearing the case and is expected to make a ruling by the end of next week.</p>
+        <p>In emotional testimony, Soo Chung, one of the business's owners, said the case had created an ordeal for her and her family, who sat in the front rows of the courtroom.</p>
+        <p>The pants were introduced before Mrs. Chung took the stand. Fingering the cloth, Mrs. Chung told the court that she remembered -- because of the unusual configuration of the belt loops -- that these were the pants Mr. Pearson had brought in for a $10.50 alteration.</p>
+        <p>But Mr. Pearson has said the pants are not his; he sued after Mrs. Chung and her husband, Jin Chung, did not respond to his request for $1,150 to buy a replacement suit.</p>
+        <p>''Economically, emotionally, and health-wise as well, it's been extremely hard for us,'' Mrs. Chung said, breaking into tears. ''He would just come into the store as he pleased, taking pictures as we were running the business.''</p>
+        <p>In cross-examination, Mr. Manning asked Mr. Pearson whether it was reasonable for someone to sue a merchant for millions of dollars for not receiving the satisfaction guaranteed by a sign.</p>
+        <p>''Without regard to the law, as a human being, as a person, don't you think it makes sense to interpret merchant signage in a reasonable way?'' Mr. Manning said.</p>
+        <p>Mr. Pearson, who is representing himself, eventually responded, ''No.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

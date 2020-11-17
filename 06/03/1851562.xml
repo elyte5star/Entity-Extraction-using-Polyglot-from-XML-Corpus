@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WALLER, LESLIE</title>
+    <meta content="dn060307.2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851562"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">WALLER, LESLIE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EFDE143AF930A35755C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WALLER, LESLIE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WALLER--Leslie, April 1, 1923-March 29, 2007. Author of more than 50 books, Leslie Waller passed away March 29th, 2007, in Rochester, NY, of natural causes attended by family. Waller is most well known for his New York Times best seller, The American, the novelization of Dog Day Afternoon, under his pseudonym, Patrick Mann, and his original story, Hide in Plain Sight, made by James Caan into a movie. Waller was the ghost writer for Steven Spielberg's Close Encounters of the Third Kind, and coauthor, with Arnold Blake, of It Rhymes with Lust, which some have suggested is the first modern graphic novel, recently re-issued by Dark Horse Comics. A memorial will be held for him on Wednesday, June 6th, 2007, at Writers &amp; Books, 740 University Avenue, Rochester, NY, 5-8 pm, with remarks at 6:30 pm. The public is welcome. Contact: David Doser Funeral Home (585) 223-9144</p>
+      </block>
+      <block class="full_text">
+        <p>WALLER--Leslie, April 1, 1923-March 29, 2007. Author of more than 50 books, Leslie Waller passed away March 29th, 2007, in Rochester, NY, of natural causes attended by family. Waller is most well known for his New York Times best seller, The American, the novelization of Dog Day Afternoon, under his pseudonym, Patrick Mann, and his original story, Hide in Plain Sight, made by James Caan into a movie. Waller was the ghost writer for Steven Spielberg's Close Encounters of the Third Kind, and coauthor, with Arnold Blake, of It Rhymes with Lust, which some have suggested is the first modern graphic novel, recently re-issued by Dark Horse Comics. A memorial will be held for him on Wednesday, June 6th, 2007, at Writers &amp; Books, 740 University Avenue, Rochester, NY, 5-8 pm, with remarks at 6:30 pm. The public is welcome. Contact: David Doser Funeral Home (585) 223-9144</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

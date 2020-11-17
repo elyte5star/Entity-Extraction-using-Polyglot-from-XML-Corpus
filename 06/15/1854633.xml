@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Fantastic Four -- Rise of the Silver Surfer</title>
+    <meta content="15roun-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854633"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Dargis, Manohla</person>
+        <person class="indexing_service">Story, Tim</person>
+        <person class="indexing_service">Evans, Chris</person>
+        <person class="indexing_service">Gruffudd, Ioan</person>
+        <person class="indexing_service">Alba, Jessica</person>
+        <person class="indexing_service">Chiklis, Michael</person>
+        <object.title class="indexing_service">Fantastic Four: Rise of the Silver Surfer (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E4DC153FF936A25755C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Fantastic Four -- Rise of the Silver Surfer</hl1>
+      </hedline>
+      <byline class="print_byline">By MANOHLA DARGIS</byline>
+      <byline class="normalized_byline">Dargis, Manohla</byline>
+      <abstract>
+        <p>Manohla Dargis reviews film Fantastic Four: Rise of the Silver Surfer, directed by Tim Story; Chris Evans, Ioan Gruffudd, Jessica Alba and Michael Chiklis star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide  Directed by Tim Story  95 minutes</p>
+        <p>Given that the finest special effects in this crashing bore are Jessica Alba's pillowy lips, which look as if they could save lives in a 175-mile-an-hour car crash, it's no wonder some viewers might find themselves wishing that the promised end of the world might happen a bit sooner. At least there would be some bounce to go along with the big bang. Woe unto the impatient: it takes well over an hour before Armageddon comes knock, knock, knocking on the door to this particular hell, by which time the guy with the director's credit, Tim Story, has shown that he checked out the latest Superman movie before slapping together this amalgam of recycled ideas, dead air, dumb quips, casual sexism and pseudoscientific mumbo jumbo.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide  Directed by Tim Story  95 minutes</p>
+        <p>Given that the finest special effects in this crashing bore are Jessica Alba's pillowy lips, which look as if they could save lives in a 175-mile-an-hour car crash, it's no wonder some viewers might find themselves wishing that the promised end of the world might happen a bit sooner. At least there would be some bounce to go along with the big bang. Woe unto the impatient: it takes well over an hour before Armageddon comes knock, knock, knocking on the door to this particular hell, by which time the guy with the director's credit, Tim Story, has shown that he checked out the latest Superman movie before slapping together this amalgam of recycled ideas, dead air, dumb quips, casual sexism and pseudoscientific mumbo jumbo.</p>
+        <p>This existentially and aesthetically unnecessary sequel to the equally irrelevant if depressingly successful ''Fantastic Four'' reunites Ms. Alba's Sue Storm, a k a the Invisible Woman, with the insinuatingly rubbery Reed Richards, a k a Mr. Fantastic (Ioan Gruffudd); the flaming Johnny Storm, a k a the Human Torch (Chris Evans); and that grumpy pile of rocks, Ben Grimm, otherwise known as the Thing (Michael Chiklis). Also collecting a paycheck (hello, new vacation home!) are Andre Braugher as an Army general with an expiration date stamped on his forehead and Laurence Fishburne, who voices the Silver Surfer, a sleek number that looks like a hood ornament and drops wisdom about the impending doom. Because he's anatomically correct save in one crucial regard, this dude clearly knows from personal catastrophe.</p>
+        <p>MANOHLA DARGIS</p>
+        <p>''Fantastic Four: Rise of the Silver Surfer'' is rated PG (Parental guidance suggested). It has modest action and major cleavage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

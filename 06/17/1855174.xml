@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mea Culpa, Said the Bond Market Watchers</title>
+    <meta content="17fund" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/business/17fund.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855174"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FUNDAMENTALLY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Government Bonds</classifier>
+        <person class="indexing_service">Lim, Paul J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Fundamentally</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E1DA153FF934A25755C0A9619C8B63" item-length="1174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mea Culpa, Said the Bond Market Watchers</hl1>
+        <hl2 class="online_headline">Mea Culpa, Said the Bond Market Watchers</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL J. LIM</byline>
+      <byline class="normalized_byline">Lim, Paul J</byline>
+      <abstract>
+        <p>Paul J Lim Fundamentally column on some reasons for recent sell-off in Treasury bonds that has led to higher yields and sell-off's relationship to fluctuations in equities market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE stock market has spent the better part of the last two weeks trying to figure out what higher bond yields really mean for equities. So far, it's hard to conclude very much, except that higher yields have brought higher volatility to stocks, with the Dow Jones industrial average having either lost or gained more than 100 points in five of the last eight trading days.</p>
+        <p>But here's a thought: Why not ask some bond investors directly what message they see behind the recent climb in rates? After all, they're the ones who have been selling Treasury bonds, driving up long-term yields. And let's face it: Stock investors often take their cues from the fixed-income market anyway, because bond investors have a better reputation for accurately forecasting the economy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stock market has spent the better part of the last two weeks trying to figure out what higher bond yields really mean for equities.</p>
+      </block>
+      <block class="full_text">
+        <p>THE stock market has spent the better part of the last two weeks trying to figure out what higher bond yields really mean for equities. So far, it's hard to conclude very much, except that higher yields have brought higher volatility to stocks, with the Dow Jones industrial average having either lost or gained more than 100 points in five of the last eight trading days.</p>
+        <p>But here's a thought: Why not ask some bond investors directly what message they see behind the recent climb in rates? After all, they're the ones who have been selling Treasury bonds, driving up long-term yields. And let's face it: Stock investors often take their cues from the fixed-income market anyway, because bond investors have a better reputation for accurately forecasting the economy.</p>
+        <p>In fact, many bond experts say the reasons for the recent sell-off in Treasury bonds aren't terribly complicated. To be sure, there are some technical factors to consider -- for instance, mortgage investors selling some of the Treasury bonds they owned to hedge their portfolios.</p>
+        <p>But for the most part, it's been one big mea culpa. ''Those of us in the bond market got it wrong,'' says Marilyn Cohen, chief executive of Envision Capital Management, a fixed-income manager in Los Angeles. At the start of the year, bond investors were buying Treasuries on the theory that the slowdown in the housing market would seriously hurt the broader economy.</p>
+        <p>But recent government data have shown that the economy is turning out to be far more resilient than fixed-income traders assumed. Last week, for example, the government reported the biggest jump in retail sales in nearly a year and a half. And the annual rate of growth in the gross domestic product, just 0.6 percent in the first quarter, is expected to jump to around 3 percent in the second.</p>
+        <p>This would indicate that ''the bond market got a little ahead of itself'' in anticipating the need for a quick rate cut by the Federal Reserve, said Christopher T. Vincent, head of the fixed-income group at William Blair &amp; Company, the asset manager based in Chicago.</p>
+        <p>And as it became clear in recent days that the Fed probably wouldn't trim rates to bolster the economy this year, bond investors turned around and started pushing yields higher, said Carl P. Kaufman, manager of the Osterweis Strategic Income fund. A result is that long-term bonds are back to paying higher yields than short-term debt, which is the way things usually work. Of course, that wasn't the case in recent months because of the bond market's fear of a possible recession.</p>
+        <p>So far, these higher yields reflect strong forecasts for growth in both the domestic and global economy. But bonds aren't necessarily predicting a corresponding spike in inflation, said Jeffrey N. Kleintop, chief market strategist at LPL Financial Services in Boston.</p>
+        <p>If the bond market was truly worried about inflation brewing, market strategists say, that fear would be reflected in Treasury inflation-protected securities, or TIPS. Yet the spread between yields on TIPS and traditional Treasuries isn't all that different from what it was at the start of the year.</p>
+        <p>All of this would seem to point to an economy that's both stronger and more stable than expected. And Duncan W. Richardson, chief equity investment officer at Eaton Vance, the asset management firm in Boston, noted that ''a healthy economy is not the worst prescription for equities.''</p>
+        <p>To be sure, part of the reason stocks lost ground in recent days is that higher interest rates do affect the competitiveness of equities. For instance, some people fear that rising borrowing costs may slow the corporate buyout activity that has fueled higher stock prices recently.</p>
+        <p>Moreover, when yields on 10-year Treasuries have risen in the past, the price-to-earnings ratio of the Standard &amp; Poor's 500 index of blue-chip stocks has typically fallen.</p>
+        <p>But Tobias M. Levkovich, chief United States equity strategist at Citigroup Investment Research, said that as long as 10-year Treasury yields didn't exceed 5.5 percent, stocks were still likely to be considered reasonably priced.</p>
+        <p>And if the economy is really accelerating in the second quarter, this should provide a tailwind to strong corporate profit growth, Mr. Levkovich said. That means stock prices could rise further even if P/E ratios don't. Indeed, Mr. Levkovich says he believes that the S.&amp; P. 500 will still close 2007 at around 1,600, which would mean that stocks would climb an additional 4.4 percent by the end of the year.</p>
+        <p>Beyond that, what should equity investors expect? Here are some possibilities:</p>
+        <p>MORE GAINS FOR LARGE-CAP STOCKS -- If market volatility is here to stay because of higher interest rates, Mr. Richardson said, investors are likely to gravitate toward stable, dependable companies. And that should benefit large-cap stocks, he said.</p>
+        <p>Moreover, if the bond market is truly reflecting strong global growth, companies with a global reach stand to benefit. Larger companies tend to generate a greater percentage of their sales overseas. Finally, rising bond yields are likely to increase overall borrowing costs for companies. Small-cap companies tend to depend more on borrowing than large-cap companies do.</p>
+        <p>THE COMEBACK OF GARP INVESTING -- GARP stands for ''growth at a reasonable price,'' an investment strategy that calls for buying shares of companies with faster-than-average earnings growth -- but only if those shares are attractively priced.</p>
+        <p>Although the economy is proving stronger than expected, it's still quite mature. And in the latter stages of an economic cycle, investors tend to focus on growth-oriented stocks, market strategists say.</p>
+        <p>But, at the same time, ''as interest rates rise, people do become more concerned about valuations,'' said David P. Nolan, portfolio manager of the BB&amp;T Mid-Cap Growth fund. So this is not a time to seek out the most aggressive forms of growth.</p>
+        <p>A NEW FOCUS ON DIVIDEND GROWTH -- As rates rise, classic bond alternatives like high-dividend utility stocks are likely to fall out of favor. After all, if investors feel that they can get higher payouts from ultra-safe Treasuries than from utility stocks, why take the risk of owning those stocks?</p>
+        <p>Rising yields are also likely to renew investor focus on payouts in general, Mr. Kleintop said. And that could drive investors to sectors where dividends aren't as generous as bond yields but are at least growing. That would include areas like health care, financial services and even technology, he said.</p>
+        <p>CONTINUED INTEREST IN CYCLICAL STOCKS -- If the bond market is correct and the economy is indeed reaccelerating, at least for now, investors shouldn't turn their backs on economically sensitive sectors that have been the market's darlings for several years. These would include areas like the industrials and energy, Mr. Nolan said.</p>
+        <p>Though investors are now inclined to seek shelter from this market storm, they should also remember why the stock market has been so volatile lately. It's the bond market that's been spooking stocks -- and not the other way around. So it makes sense to pay attention to what bonds are saying.</p>
+        <p>FUNDAMENTALLY Paul J. Lim is a financial writer at U.S. News &amp; World Report. E-mail: fund@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Paul J. Lim is a financial writer at U.S. News &amp; World Report. E-mail: fund@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

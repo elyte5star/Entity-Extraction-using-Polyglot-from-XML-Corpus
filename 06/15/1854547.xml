@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Annette Bening Set to Revisit Broadway After Two Decades</title>
+    <meta content="15maye" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/theater/15maye.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854547"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Bening, Annette</person>
+        <person class="online_producer">Murray-Smith, Joanna</person>
+        <person class="online_producer">Mayer, Michael</person>
+        <person class="online_producer">Richenthal, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DF153FF936A25755C0A9619C8B63" item-length="449" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Annette Bening Set to Revisit Broadway After Two Decades</hl1>
+        <hl2 class="online_headline">Annette Bening Set to Revisit Broadway After Two Decades</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After nearly 20 years away, Annette Bening is returning to Broadway next spring in a new play by the Australian writer Joanna Murray-Smith. The six-character play, ''The Female of the Species,'' about a feminist author with an extreme case of writer's block, is set to begin performances on April 11 and open on April 28 at a theater to be named, according to the producers David Richenthal and Mary Beth O'Connor. Michael Mayer, who just won a Tony for his direction of ''Spring Awakening,'' is slated to direct.</p>
+        <p>Ms. Bening hasn't been on Broadway since 1988 (she received a Tony nomination for her role in Tina Howe's ''Coastal Disturbances''), though she has done some theater in Los Angeles and been on the lookout for plays that appealed to her.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Bening is returning to Broadway next spring in a new play by the Australian writer Joanna Murray-Smith.</p>
+      </block>
+      <block class="full_text">
+        <p>After nearly 20 years away, Annette Bening is returning to Broadway next spring in a new play by the Australian writer Joanna Murray-Smith. The six-character play, ''The Female of the Species,'' about a feminist author with an extreme case of writer's block, is set to begin performances on April 11 and open on April 28 at a theater to be named, according to the producers David Richenthal and Mary Beth O'Connor. Michael Mayer, who just won a Tony for his direction of ''Spring Awakening,'' is slated to direct.</p>
+        <p>Ms. Bening hasn't been on Broadway since 1988 (she received a Tony nomination for her role in Tina Howe's ''Coastal Disturbances''), though she has done some theater in Los Angeles and been on the lookout for plays that appealed to her.</p>
+        <p>''Because of the direction my life took with movies and kids,'' she said in a phone interview yesterday, ''it was logistically really hard for me to make it all work.''</p>
+        <p>She also preferred to find a new work.</p>
+        <p>''Its hard to find new plays,'' she said. ''There are classics and other things I'm interested in doing, but to find a new play -- that's a joy.''</p>
+        <p>She said she was attracted to ''Female'' -- which was sent to her out of the blue by Mr. Richenthal, whom she had never met -- because ''it's very smart, its about something serious, but it's also got a lot of comedy in it.''</p>
+        <p>Mr. Mayer said that he and Ms. Bening had often discussed doing a project.</p>
+        <p>''Over the years we've done this dance together of trying to find something to do,'' Mr. Mayer said. When Mr. Richenthal sent him the script this winter, Ms. Bening was already committed to the role. ''When I read the play, I had her in my mind reading it,'' Mr. Mayer said. ''It's a beautiful part for her.''</p>
+        <p>Ms. Bening's character, Margot Mason, is, in Mr. Mayer's words, ''a kind of monster, but amazingly articulate and witty and passionate and impetuous.'' (And, he added, ''sexy and glamorous and self-destructive and demanding and complicated and mercurial.'')</p>
+        <p>Ms. Murray-Smith is perhaps best known to Broadway audiences for her play ''Honour,'' which starred Jane Alexander and Laura Linney, and had a short Broadway run in 1998. ''The Female of the Species'' is being produced in association with the Geffen Playhouse in Los Angeles, where it will have a pre-Broadway run from Feb. 5 to March 16.</p>
+        <p>''The whole athleticism of being on the stage and being with other actors is what I love about it,'' said Ms. Bening, who started her acting career in the theater. ''It felt so funny to me for so long to be on movie sets.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

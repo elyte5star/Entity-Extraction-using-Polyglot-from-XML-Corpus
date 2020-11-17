@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Snake Around Her Neck And a Tragedy in Her Past</title>
+    <meta content="08bind" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/arts/television/08bind.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852889"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <person class="online_producer">Irwin, Steve</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0DE1F30F93BA35755C0A9619C8B63" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Snake Around Her Neck And a Tragedy in Her Past</hl1>
+        <hl2 class="online_headline">A Snake Around Her Neck and a Tragedy in Her Past</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bindi Irwin is 8 years old, she has straight bangs and crimped pigtails, and she has already appeared on both ''Larry King Live'' and ''The Ellen DeGeneres Show.'' The daughter of the celebrity naturalist Steve Irwin, who was killed by a stingray in his native Australia last year, Miss Irwin has become a kind of Shirley Temple of the wildlife conservation movement. ''I'm trying to get across the message that don't be afraid of animals,'' People magazine quoted her as saying after her father's death. ''They're just put on this earth to help the environment and everything like that.''</p>
+        <p>Miss Irwin's grammar and vocabulary have undergone some maturing for her latest effort, ''Bindi: The Jungle Girl,'' a show on which, Joan Rivers-like, she will forsake an adjective like cuddly in talking about a panda, describing it as ''gorgeous'' (or, more accurately, ''gawgeous'') instead.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In her show which guides children through the animal kingdom, Bindi Irwin, daughter of the celebrity naturalist Steve Irwin, seems to be affecting childhood rather than experiencing it.</p>
+      </block>
+      <block class="full_text">
+        <p>Bindi Irwin is 8 years old, she has straight bangs and crimped pigtails, and she has already appeared on both ''Larry King Live'' and ''The Ellen DeGeneres Show.'' The daughter of the celebrity naturalist Steve Irwin, who was killed by a stingray in his native Australia last year, Miss Irwin has become a kind of Shirley Temple of the wildlife conservation movement. ''I'm trying to get across the message that don't be afraid of animals,'' People magazine quoted her as saying after her father's death. ''They're just put on this earth to help the environment and everything like that.''</p>
+        <p>Miss Irwin's grammar and vocabulary have undergone some maturing for her latest effort, ''Bindi: The Jungle Girl,'' a show on which, Joan Rivers-like, she will forsake an adjective like cuddly in talking about a panda, describing it as ''gorgeous'' (or, more accurately, ''gawgeous'') instead.</p>
+        <p>''Bindi: The Jungle Girl,'' which makes its debut on Discovery Kids tomorrow afternoon, guides children through the animal kingdom. But it gave me the creeps, not merely because Miss Irwin seems to be affecting childhood rather than experiencing it, but because it is simply disconcerting to see a little girl wear a snake around her neck as if it were a charm necklace from Forever 21.</p>
+        <p>''Up here is Cornie the corn snake,'' Miss Irwin informs her viewers, guiding them to the bedroom of her treehouse before adorning herself with the creature. ''We sleep together.''</p>
+        <p>If your children happen to know that Mr. Irwin is dead -- maybe they were standing beside you at the supermarket when every cover of every down-market magazine in the United States was devoted to his demise -- then they may ask you why Miss Irwin speaks about him as if he were still with us. Parts of ''Bindi'' were filmed while Mr. Irwin was alive. The action cuts from Miss Irwin's treehouse to Mr. Irwin as he visits endangered animals in some remote corner of the world. But the show, according to press material, will never refer to his attack.</p>
+        <p>Miss Irwin talks about her father in the present tense. So be prepared to tell your children, should they inquire, that Mr. Irwin is up at that big crocodile hunter party in the sky.</p>
+        <p>Bindi  The Jungle Girl  Discovery Kids, tomorrow at 5, Eastern and Pacific times; 4, Central time.</p>
+        <p>John Stainton and Wendy Douglas, executive producers; Marjorie Kaplan, president and general manager for Discovery Kids Media and Animal Planet Media. Produced by Best Picture Show for Discovery Kids Channel.</p>
+        <p>WITH: Bindi Irwin.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; The Players</title>
+    <meta content="15gall-5" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854666"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDC153FF936A25755C0A9619C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; The Players</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Arsenal Gallery in Central Park  64th Street and Fifth Avenue  Through June 27</p>
+        <p>An exhibition devoted to sports-inspired art sounds like a throwback to the days when beach- and baseball-theme shows were standard, light summer fare. ''The Players,'' featuring 15 contemporary artists, tries to escape this by probing the relationship between sports, history and culture.</p>
+      </block>
+      <block class="full_text">
+        <p>Arsenal Gallery in Central Park  64th Street and Fifth Avenue  Through June 27</p>
+        <p>An exhibition devoted to sports-inspired art sounds like a throwback to the days when beach- and baseball-theme shows were standard, light summer fare. ''The Players,'' featuring 15 contemporary artists, tries to escape this by probing the relationship between sports, history and culture.</p>
+        <p>Patrick Barth explores the line between ''friendly'' competition and armed conflict in an illustration of a battle scene from ''The Iliad,'' which uses figures traced from contemporary sports outfitted with ancient weaponry. Competition becomes contemporary and localized in Kadir Nelson's painting (commissioned by Vibe magazine) of elite street-basketball teams playing on a court in Harlem.</p>
+        <p>Sports history is the subject of Tim Laun's transfer-dye print depicting the fallen quarterback Don Majkowski . (It portrays a significant moment in the career of the Green Bay Packer quarterback Brett Favre, to whom Mr. Laun has devoted a project.) Lee Walton's drawing ''Boston Massacre (Yankees 5 Game Sweep Over the Red Sox)'' turns statistics into an inventive abstract composition.</p>
+        <p>Sports subcultures are documented in Michelle Elzay's photographs of fencers, Susannah Ray's series of surfers, David Rathman's painting of boxers and Freddy Rodriguez's text painting from a series that pays homage to the ''Apostles of Dominican Baseball.''</p>
+        <p>For many the art world serves as a surrogate for sports, replete with similar narratives of achievement, failure and redemption. Nancy Hwang gives form to this by digitally inserting herself into Michael Halsband's photograph of Warhol and Basquiat in boxing gloves. The image of a diminutive Asian woman sandwiched between two art-world heavyweights is a reminder that artists are never just competing with their peers, but with history as well -- a sober thought for a seemingly light summer show.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

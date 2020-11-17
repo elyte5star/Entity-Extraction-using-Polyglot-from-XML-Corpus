@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Killer Beside Me</title>
+    <meta content="01areef" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851212"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7DC1530F932A35755C0A9619C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Killer Beside Me</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In ''Mr. Brooks'' Kevin Costner, right, plays a Portland, Ore., box manufacturer with a murderous (and persuasive) alter ego who takes the human form of William Hurt, left. Also on hand in this thriller by Bruce A. Evans: Marg Helgenberger, Dane Cook and Demi Moore as a wealthy heiress -- and police detective.</p>
+        <p>Stephen Holden's review is on Page 8.</p>
+      </block>
+      <block class="full_text">
+        <p>In ''Mr. Brooks'' Kevin Costner, right, plays a Portland, Ore., box manufacturer with a murderous (and persuasive) alter ego who takes the human form of William Hurt, left. Also on hand in this thriller by Bruce A. Evans: Marg Helgenberger, Dane Cook and Demi Moore as a wealthy heiress -- and police detective.</p>
+        <p>Stephen Holden's review is on Page 8.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="10laugh" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853281"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DD163FF933A25755C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno</p>
+        <p>Did you hear about that lawyer from Georgia, a guy named Andrew Speaker? He's the first person in 44 years to be placed under federal quarantine after he got a drug resistant strain of tuberculosis. The doctors told him he should just stay in Italy.  Which, I believe, is also the Republican's healthcare plan. Sick? Stay in Italy!</p>
+        <p>This week, President Bush is at the big G8 summit in Germany, and many Germans are protesting his visit. See, that's when you know things are bad. When the Germans think you are invading too many countries.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno</p>
+        <p>Did you hear about that lawyer from Georgia, a guy named Andrew Speaker? He's the first person in 44 years to be placed under federal quarantine after he got a drug resistant strain of tuberculosis. The doctors told him he should just stay in Italy.  Which, I believe, is also the Republican's healthcare plan. Sick? Stay in Italy!</p>
+        <p>This week, President Bush is at the big G8 summit in Germany, and many Germans are protesting his visit. See, that's when you know things are bad. When the Germans think you are invading too many countries.</p>
+        <p>They said Paris was released for medical reasons. She suffers from a rare disorder that only trust-fund babies get.</p>
+        <p>David Letterman</p>
+        <p>Oh, here's a name from the past: Jack Kevorkian, Dr. Death, the suicide doctor, Jack Kevorkian. He's out of prison, ladies and gentlemen. And he got time off for good behavior. Apparently, he was very helpful on death row.</p>
+        <p>Conan O'Brien</p>
+        <p>Earlier tonight, a Republican presidential debate was held in New Hampshire. You know you're not the party of diversity when even people in New Hampshire are saying, ''Man, those guys are white.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Accent, Your Accent</title>
+    <meta content="l12accent" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853978"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DA173FF931A25755C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Accent, Your Accent</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Accents on the Wrong Syl-LA-ble'' (Itineraries, Business Day, June 5):</p>
+        <p>Bravo to Jennifer Pawlitschek, the accent coach from your article, for her statement that the term accent reduction ''is learning an American accent.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Accents on the Wrong Syl-LA-ble'' (Itineraries, Business Day, June 5):</p>
+        <p>Bravo to Jennifer Pawlitschek, the accent coach from your article, for her statement that the term accent reduction ''is learning an American accent.''</p>
+        <p>In my linguistics courses, I always ask students if they think they speak with an accent. The foreign born and those from the South always raise their hands, and sometimes those who think they sound ''Long Gilandy.''</p>
+        <p>Of course, the right answer is that we all have accents. Some are just more noticed and judged than others.</p>
+        <p>Susan J. Behrens  Brooklyn, June 5, 2007</p>
+        <p>The writer is an associate professor of communication sciences and disorders at Marymount Manhattan College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

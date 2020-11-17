@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fund Established to AidVictims of Disasters</title>
+    <meta content="10weekweWC-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853378"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Disasters</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Whitaker, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Disasters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFD9163FF933A25755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fund Established to AidVictims of Disasters</hl1>
+      </hedline>
+      <byline class="print_byline">By BARBARA WHITAKER</byline>
+      <byline class="normalized_byline">Whitaker, Barbara</byline>
+      <abstract>
+        <p>Westchester County officials, in wake of floods from April northeaster, establish Disaster Recovery Fund to give financial help to those who suffer long-term effects from natural disasters; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With more than 200 Westchester families still struggling to recover from the damage caused by severe flooding in April, county officials have established a Disaster Recovery Fund to give financial help to those who suffer such losses in the future.</p>
+        <p>In announcing the creation of the fund, which will be administered by the United Way of Westchester and Putnam, the county executive, Andrew J. Spano, said its purpose was to provide aid beyond government assistance to victims suffering long-term effects from a natural disaster.</p>
+      </block>
+      <block class="full_text">
+        <p>With more than 200 Westchester families still struggling to recover from the damage caused by severe flooding in April, county officials have established a Disaster Recovery Fund to give financial help to those who suffer such losses in the future.</p>
+        <p>In announcing the creation of the fund, which will be administered by the United Way of Westchester and Putnam, the county executive, Andrew J. Spano, said its purpose was to provide aid beyond government assistance to victims suffering long-term effects from a natural disaster.</p>
+        <p>Representative Nita M. Lowey, a Democrat from Harrison, pushed for the fund along with Senator Hillary Rodham Clinton. ''While the federal, state and local governments will continue to play a vital role in disaster response and recovery, this fund will provide a critical means of support to those who need it most,'' Ms. Lowey said.</p>
+        <p>The fund will rely on private contributions, and the United Way will oversee the raising, processing and distributing of donations. The agency's Community Initiatives Committee will create guidelines for the distributions. About $15,000 has already been contributed, said Ralph Gregory, president of the United Way of Westchester and Putnam.</p>
+        <p>Parts of Westchester were declared disaster areas after a northeaster in mid-April, opening the door to federal assistance for residents and businesses owner who experienced losses. But despite such assistance, more than 200 families are still working with aid groups to get back on their feet, Mr. Gregory said.</p>
+        <p>''This particular fund was set up as much to deal with future disasters as it is to address the current one,'' he said. ''It does not make much sense to reinvent the wheel every time we have some sort of a disaster -- and, unfortunately, disasters do occur form time to time.''</p>
+        <p>Donors can stipulate whether they want their money to go to victims of April's storm or to help those who suffer losses in future disasters. Donations may also be earmarked for specific communities.</p>
+        <p>BARBARA WHITAKER</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

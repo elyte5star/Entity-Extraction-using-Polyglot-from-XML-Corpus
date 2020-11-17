@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SIMON, PETER NEIL</title>
+    <meta content="dn061807" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855349"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SIMON, PETER NEIL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EED6143AF93BA25755C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SIMON, PETER NEIL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SIMON--Peter Neil, 61, passed away from complications from a stem cell transplant for leukemia/MDS. Son of the late Dr. Louis and Libby Simon. He was loved by his wife Nancy; daughters Emily and Lauren; son-in-law Michael; brother Alan and sister-in-law Carole; family Michael, Donna, Sarah, and Jack; Allyson and Gary; Robert and Carole. Exceptional math educator for NYC public schools for over 35 years. His unique spirit will always be remembered.</p>
+      </block>
+      <block class="full_text">
+        <p>SIMON--Peter Neil, 61, passed away from complications from a stem cell transplant for leukemia/MDS. Son of the late Dr. Louis and Libby Simon. He was loved by his wife Nancy; daughters Emily and Lauren; son-in-law Michael; brother Alan and sister-in-law Carole; family Michael, Donna, Sarah, and Jack; Allyson and Gary; Robert and Carole. Exceptional math educator for NYC public schools for over 35 years. His unique spirit will always be remembered.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

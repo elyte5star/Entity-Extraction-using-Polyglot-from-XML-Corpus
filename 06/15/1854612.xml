@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Experts Call for More Research And More Vigilance Against TB</title>
+    <meta content="15tb" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/health/15tb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854612"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Tuberculosis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Tuberculosis</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuberculosis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Centers for Disease Control and Prevention</org>
+        <person class="online_producer">Speaker, Andrew</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE0DD153FF936A25755C0A9619C8B63" item-length="478" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Experts Call for More Research And More Vigilance Against TB</hl1>
+        <hl2 class="online_headline">Experts Call for More Research and More Vigilance Against TB</hl2>
+      </hedline>
+      <byline class="print_byline">By KEVIN SACK</byline>
+      <dateline>ATLANTA, June 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the wake of a worldwide scare caused by an American who traveled abroad with a highly dangerous strain of tuberculosis, the country's top experts on the disease called Thursday for a vast increase in federal research dollars. They also asked for expanded authority to restrict travel by infected persons and a heightened explicitness in counseling patients on the risks of infecting others.</p>
+        <p>''I think we've been too mealy-mouthed in our communication of risk to patients,'' said Dr. Kenneth G. Castro, director of the division of tuberculosis elimination at the federal Centers for Disease Control and Prevention. Dr. Castro spoke at a three-day annual conference of tuberculosis physicians and nurses from across the country. The Thursday session was devoted to the emerging global challenge posed by multidrug-resistant tuberculosis, known as MDR, the most lethal form of which is defined as extensively drug-resistant tuberculosis, known as XDR.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The country’s top experts on tuberculosis called for a vast increase in federal research dollars and asked for expanded authority to restrict travel by infected persons.</p>
+      </block>
+      <block class="full_text">
+        <p>In the wake of a worldwide scare caused by an American who traveled abroad with a highly dangerous strain of tuberculosis, the country's top experts on the disease called Thursday for a vast increase in federal research dollars. They also asked for expanded authority to restrict travel by infected persons and a heightened explicitness in counseling patients on the risks of infecting others.</p>
+        <p>''I think we've been too mealy-mouthed in our communication of risk to patients,'' said Dr. Kenneth G. Castro, director of the division of tuberculosis elimination at the federal Centers for Disease Control and Prevention. Dr. Castro spoke at a three-day annual conference of tuberculosis physicians and nurses from across the country. The Thursday session was devoted to the emerging global challenge posed by multidrug-resistant tuberculosis, known as MDR, the most lethal form of which is defined as extensively drug-resistant tuberculosis, known as XDR.</p>
+        <p>The XDR form infected Andrew Speaker, a 31-year-old Atlanta lawyer who traveled to his European wedding in May after learning that he had MDR, and then flew to Montreal by commercial jet after receiving a diagnosis of XDR. He drove from Canada to New York City, where he was kept in isolation at Bellevue Hospital before flying to Atlanta on a C.D.C. plane.</p>
+        <p>Public health officials in Georgia had advised Mr. Speaker in May not to travel but said they did not have the authority to prohibit him. Mr. Speaker has said that county officials told him they preferred he not travel, but that they never forbade it and did not seem concerned about his ability to infect others.</p>
+        <p>Doctors for Mr. Speaker, who is in medical isolation in Denver, said Thursday that they would operate soon to remove infected lung tissue.</p>
+        <p>The incidence of tuberculosis in the United States has been falling for 15 years. But the specialists here are alarmed by the emergence of drug-resistant strains. Forty-eight cases of extensively drug-resistant tuberculosis have been reported in this country since 1993, with 12 fatalities, according to the disease centers.</p>
+        <p>Tuberculosis experts at the Thursday meeting said they were perversely grateful that Mr. Speaker had revived the public's focus on the disease. They called for an increase in federal financing for domestic tuberculosis programs, to $300 million a year from $137 million, while raising spending on global programs to $450 million from $90 million.</p>
+        <p>There is an urgent demand for new drug development, the experts said. And because the disease could spread quickly from abroad, there is a particular need for more laboratories overseas.</p>
+        <p>Officials at the disease centers said they had met with Homeland Security officials to discuss updating laws permitting the forcible quarantine of people with communicable diseases. Current statutes, intended to keep communicable diseases from reaching America, are ''silent on exportation,'' said Dr. Martin S. Cetron, the director of global migration and quarantine at the centers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agreed: We All Love Narciso</title>
+    <meta content="07ROW" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/fashion/07ROW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852653"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Front Row"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Friendship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Friendship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <person class="online_producer">Claiborne, Liz</person>
+        <person class="online_producer">Karan, Donna</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DA1E30F934A35755C0A9619C8B63" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agreed: We All Love Narciso</hl1>
+        <hl2 class="online_headline">Agreed: We All Love Narciso</hl2>
+      </hedline>
+      <byline class="print_byline">By Cathy Horyn</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON Tuesday evening at Il Cantinori, the Greenwich Village restaurant, Jerry and Jessica Seinfeld were waiting for guests to arrive at a dinner they were giving for their friend Narciso Rodriguez. Mr. Seinfeld had decided to wait at his place at one of the front tables, and though he didn't quite have fork and knife in hand, he looked like any number of American husbands at the dinner hour. ''I'm just here to eat,'' he said in his mock sensible tone.</p>
+        <p>The occasion was to celebrate Mr. Rodriguez's new partnership with Liz Claiborne, and the other hosts were Bill McComb, the chief executive of Claiborne, and his wife, Marianne. Last month, Claiborne announced it was investing in Mr. Rodriguez's sportswear business, with the promise of spending millions to develop it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jerry and Jessica Seinfeld host a dinner for Narciso Rodriguez in celebration of Mr. Rodriguez’s new partnership with Liz Claiborne.</p>
+      </block>
+      <block class="full_text">
+        <p>ON Tuesday evening at Il Cantinori, the Greenwich Village restaurant, Jerry and Jessica Seinfeld were waiting for guests to arrive at a dinner they were giving for their friend Narciso Rodriguez. Mr. Seinfeld had decided to wait at his place at one of the front tables, and though he didn't quite have fork and knife in hand, he looked like any number of American husbands at the dinner hour. ''I'm just here to eat,'' he said in his mock sensible tone.</p>
+        <p>The occasion was to celebrate Mr. Rodriguez's new partnership with Liz Claiborne, and the other hosts were Bill McComb, the chief executive of Claiborne, and his wife, Marianne. Last month, Claiborne announced it was investing in Mr. Rodriguez's sportswear business, with the promise of spending millions to develop it.</p>
+        <p>In one way, the dinner was proof of Mr. Rodriguez's long-standing relationships. Donna Karan, his first boss (more than 20 years ago, at Anne Klein), was there. So were Claire Danes, Sarah Jessica Parker, Julianna Margulies and Rachel Weisz, all of whom have had dresses (even maternity clothes) made by Mr. Rodriguez. But what's noteworthy is the length of those friendships. Ms. Danes, for one, has known him for 10 years.</p>
+        <p>Many of the 45 or so guests played a role in the Claiborne deal, so for them the party was a chance finally to uncork the wine. There was Kathy Kalesti, who is Mr. Rodriguez's right-hand person; and Gail Zauder, the investment banker who represented him; and Anna Wintour, the editor of Vogue, who gave him advice last fall when he was in financial straits. Jim Kelly, a friend and adviser from Denver, whose company owns St. John and who once tried to hire Mr. Rodriguez for that label, was also there.</p>
+        <p>Ms. Seinfeld, who had on a black Rodriguez dress from 2004, gave a toast with her husband, who drew laughs at the prospect that the Liz union would create ''more stuff.'' Mr. McComb acknowledged that there may be bumpy times ahead but that he ''promised to keep the promise.'' And Mr. Rodriguez particularly thanked his staff. Then everybody got down to eating.</p>
+        <p>Front Row</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GRECO, SAL</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GRECO, SAL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3DA143AF933A25755C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GRECO, SAL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GRECO--Sal. The Officers, Governors, and Members of The Friars Club deeply mourn the loss of their beloved honorary officer, Salvatore F. Greco, who was a member for over four decades. We are honored and proud to have been touched by our Patriarch whose generosity and support has helped us to maintain our status as one of the best clubs in New York City. Services will be held at Shrine of Old St. Joseph, 321 Willings Alley, ''Society Hill'', Philadephia, PA, on June 11 at 10 am. Jerry Lewis, Abbot Freddie Roman, Dean JeanPierre Trebot, Exec. Dir.</p>
+        <p>$(6$)GRECO--Salvatore F., died of pneumonia on June 7 at the age of 93. Survived by wife Estelle and adored nieces. A well known couture fur manufacturer for over 50 years. Member of the Friars Club for many years, honored with the title Patriarch. Private funeral in Philadelphia.</p>
+      </block>
+      <block class="full_text">
+        <p>GRECO--Sal. The Officers, Governors, and Members of The Friars Club deeply mourn the loss of their beloved honorary officer, Salvatore F. Greco, who was a member for over four decades. We are honored and proud to have been touched by our Patriarch whose generosity and support has helped us to maintain our status as one of the best clubs in New York City. Services will be held at Shrine of Old St. Joseph, 321 Willings Alley, ''Society Hill'', Philadephia, PA, on June 11 at 10 am. Jerry Lewis, Abbot Freddie Roman, Dean JeanPierre Trebot, Exec. Dir.</p>
+        <p>$(6$)GRECO--Salvatore F., died of pneumonia on June 7 at the age of 93. Survived by wife Estelle and adored nieces. A well known couture fur manufacturer for over 50 years. Member of the Friars Club for many years, honored with the title Patriarch. Private funeral in Philadelphia.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

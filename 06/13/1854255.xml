@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Southwest: Texas: DNA Affirms Conviction</title>
+    <meta content="13brfs-3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/us/13brfs-DNAAFFIRMSCO_BRF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Texas</location>
+        <person class="indexing_service">Watkins, Craig (Dist Attny)</person>
+        <person class="indexing_service">Henry, Culberson</person>
+        <person class="indexing_service">Blumenthal, Ralph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">Texas</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E4DE143FF930A25755C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Southwest: Texas: DNA Affirms Conviction</hl1>
+        <hl2 class="online_headline">Texas: DNA Affirms Conviction</hl2>
+      </hedline>
+      <byline class="print_byline">By RALPH BLUMENTHAL</byline>
+      <byline class="normalized_byline">Blumenthal, Ralph</byline>
+      <abstract>
+        <p>Dallas County District Atty Craig Watkins says that last year Culberson Henry got his DNA evidence retested under 2001 law and results confirm his guilt; Henry is serving 40 years in prison for raping 12-year-old girl in 1993 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A prisoner serving 40 years for raping a 12-year-old girl in 1993 got his wish, but it was not what he intended. The prisoner, Culberson Henry, applied for a retesting of the evidence under a 2001 law allowing inmates claiming wrongful conviction to petition for DNA review. The request was granted last year and the results confirmed his guilt, reported Craig Watkins, district attorney of Dallas County, where 13 prisoners were recently exonerated after DNA testing. ''Equally important,'' Mr. Watkins said, it works the other way, too.</p>
+        <p>RALPH BLUMENTHAL</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A prisoner serving 40 years for raping a 12-year-old girl in 1993 got his wish, but it was not what he intended. The prisoner, Culberson Henry, applied for a retesting of the evidence under a 2001 law allowing inmates claiming wrongful conviction to petition for DNA review. The request was granted last year and the results confirmed his guilt, reported Craig Watkins, district attorney of Dallas County, where 13 prisoners were recently exonerated after DNA testing. “Equally important,” Mr. Watkins said, it works the other way, too.</p>
+      </block>
+      <block class="full_text">
+        <p>A prisoner serving 40 years for raping a 12-year-old girl in 1993 got his wish, but it was not what he intended. The prisoner, Culberson Henry, applied for a retesting of the evidence under a 2001 law allowing inmates claiming wrongful conviction to petition for DNA review. The request was granted last year and the results confirmed his guilt, reported Craig Watkins, district attorney of Dallas County, where 13 prisoners were recently exonerated after DNA testing. ''Equally important,'' Mr. Watkins said, it works the other way, too.</p>
+        <p>RALPH BLUMENTHAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

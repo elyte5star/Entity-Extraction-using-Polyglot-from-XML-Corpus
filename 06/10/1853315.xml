@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Goodbye, Lower East Side</title>
+    <meta content="10lett-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853315"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E5DC163FF933A25755C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Goodbye, Lower East Side</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Lower East Side Is Under a Groove,'' by Allen Salkin (June 3):</p>
+        <p>I think Sion Misrahi should be ashamed of himself. While dodging ridiculous comparisons to Donald Trump, Mr. Misrahi is not only giving the illusion he cares about the business owners of the Lower East Side, but more insultingly, he is pretending he cares about its residents.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Lower East Side Is Under a Groove,'' by Allen Salkin (June 3):</p>
+        <p>I think Sion Misrahi should be ashamed of himself. While dodging ridiculous comparisons to Donald Trump, Mr. Misrahi is not only giving the illusion he cares about the business owners of the Lower East Side, but more insultingly, he is pretending he cares about its residents.</p>
+        <p>As a resident of the Lower East Side, I have been appalled at the destruction to this formerly enchanting, colorful neighborhood. The unrelenting noise pollution created by the construction has cursed Orchard Street. The night life isn't bringing a renewed sense of spirit. Instead, with every new, ugly hotel or overpriced bar that is opened, the soul of our neighborhood is quickly and tragically being gutted.</p>
+        <p>Melody Morgan  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

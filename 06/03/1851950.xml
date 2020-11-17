@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What 'Support Our Troops' Entails</title>
+    <meta content="03sun1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/03sun1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851950"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Iraq</location>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0DF1030F930A35755C0A9619C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What 'Support Our Troops' Entails</hl1>
+        <hl2 class="online_headline">What ‘Support Our Troops’ Entails</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Whenever and however American troops withdraw from Iraq, a flood of wounded and psychologically damaged veterans will present the nation for decades to come with costly needs that already are overwhelming government services.</p>
+        <p>The backlog of disability claims stands at more than 405,000, with cases averaging 177 days to be processed -- almost twice the backlog for civilians. Experts estimate that an additional 400,000 claims will be filed in the next two years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Bush administration has systematically shortchanged the wounded and maimed who make it back from harm’s way.</p>
+      </block>
+      <block class="full_text">
+        <p>Whenever and however American troops withdraw from Iraq, a flood of wounded and psychologically damaged veterans will present the nation for decades to come with costly needs that already are overwhelming government services.</p>
+        <p>The backlog of disability claims stands at more than 405,000, with cases averaging 177 days to be processed -- almost twice the backlog for civilians. Experts estimate that an additional 400,000 claims will be filed in the next two years.</p>
+        <p>At the same time, better battlefield care is sending veterans home with severe brain traumas that might have been fatal in earlier wars. Complex new treatments are required for these survivors and for veterans suffering from post-traumatic stress disorder and symptoms of depression that veterans groups fear are driving up suicide rates.</p>
+        <p>Congress is taking the lead in prodding the Bush administration, which shamefully underestimated the cost of treating the wounded. The House is sensibly budgeting $6.6 billion more than last year for veterans health care and processing claims. A series of other measures approved by the House tackle only some of the problems but point in the right direction. The Senate should act quickly on these proposals, which include:</p>
+        <p>Creation of up to five new brain trauma research centers to create comprehensive treatment programs. This is a whole new field of intensive care prompted by the signature injury of the Iraq and Afghanistan wars, inflicted in roadside bomb attacks.</p>
+        <p>Extending open-ended care for combat veterans to the first five years after their return, from the current two years. This is needed not only because of the backlog in claims and appeals but also because of the slower-evolving nature of postwar stress trauma and other illnesses.</p>
+        <p>A more intensive program to contact veterans who need to know about their rights.</p>
+        <p>Blue ribbon studies are under way, while the Department of Veterans Affairs scrambles to add claims processors and case managers to deal with such problems as outpatients who slip through the bureaucratic cracks. Far more is needed -- especially speeding up the disastrously slow pace of judging benefit claims and appeals, and reforming anachronistic disability standards from World War II that focused on returning wounded veterans to factory and farm jobs, not the modern work world.</p>
+        <p>Clearly, the administration has failed in more than its battle strategy in Iraq and Afghanistan. While talking a lot about supporting the troops and using them shamelessly in Congressional battles and election years, the administration has systematically shortchanged the wounded and maimed who make it back from harm's way. The nation has a moral obligation to help them face a whole new challenge of survival.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

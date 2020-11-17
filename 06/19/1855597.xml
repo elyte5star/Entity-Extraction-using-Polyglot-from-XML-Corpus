@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Leader of the L.I.R.R. Looks North for Inspiration</title>
+    <meta content="19lirr" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19lirr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855597"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <location class="online_producer">Long Island (NY)</location>
+        <org class="online_producer">Long Island Rail Road Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7DE133FF93AA25755C0A9619C8B63" item-length="500" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Leader of the L.I.R.R. Looks North for Inspiration</hl1>
+        <hl2 class="online_headline">New Leader of the L.I.R.R. Looks North for Inspiration</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For years, the Long Island Rail Road has had to suffer the indignity of being compared unfavorably, and perhaps not always fairly, with its sister railroad, Metro-North, which routinely scores better on performance measures like customer satisfaction and the ability to make trains run on time.</p>
+        <p>Now, the Long Island Rail Road has a new president who is hoping to go beyond the rivalry and capture some of that Metro-North magic.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Long Island Rail Road has a new president who is hoping to go beyond the rivalry and capture some of that Metro-North magic.</p>
+      </block>
+      <block class="full_text">
+        <p>For years, the Long Island Rail Road has had to suffer the indignity of being compared unfavorably, and perhaps not always fairly, with its sister railroad, Metro-North, which routinely scores better on performance measures like customer satisfaction and the ability to make trains run on time.</p>
+        <p>Now, the Long Island Rail Road has a new president who is hoping to go beyond the rivalry and capture some of that Metro-North magic.</p>
+        <p>Even before she officially took over yesterday, Helena E. Williams made plans to hire a former president of Metro-North, Donald N. Nelson, to conduct a top-to-bottom review.</p>
+        <p>''I think there is a recognition we need to take a step back and assess where we are and what we can do to make it better,'' Ms. Williams said in an interview yesterday, as she took a break from a tour of Pennsylvania Station on her first day on the job.</p>
+        <p>''It's an opportunity for the railroad to maybe put a new face on its operations,'' she said.</p>
+        <p>She said she did not think that Mr. Nelson's history at Metro-North, which he led from 1991 to 1999, would be a barrier. ''I think that Long Island Rail Road employees will quickly see that Don is more than just a Metro-North guy,'' she said. ''He is a professional with rail experience that goes well over 50 years.'' Mr. Nelson has been working as a consultant to the rail industry for the past several years.</p>
+        <p>Ms. Williams said that Mr. Nelson would work with her as a consultant during her first 90 days to analyze the railroad and come up with ''a blueprint of what are the next steps.''</p>
+        <p>The Long Island has more riders than Metro-North, but it lags in other categories. Last year, the Long Island reported that 93.3 percent of its trains reached their destinations within 5 minutes and 59 seconds of  their scheduled arrival time, the two railroads' definition of an on-time arrival. Metro-North reported that 97.5 percent of its trains arrived in that window.</p>
+        <p>The contrast is not that simple. Metro-North has more track capacity than the Long Island to ease tie-ups during rush hours. It also benefits by having exclusive use of Grand Central Terminal while the Long Island shares Penn Station with Amtrak and New Jersey Transit.</p>
+        <p>Ms. Williams acknowledged the disparity. ''I would love to have the success they've had with on-time performance,'' she said. But she said she believed the railroad had many strengths to build on.</p>
+        <p>Before taking the railroad job, Ms. Williams was a deputy county executive in Nassau County. She ran the Metropolitan Transportation Authority's Long Island bus division from 1993 to 1998.</p>
+        <p>Mitchell H. Pally, a board member of the authority who lives on Long Island, was enthusiastic about Ms. Williams's move to hire Mr. Nelson. ''Don Nelson is considered one of the foremost commuter rail experts in the country,'' Mr. Pally said. ''I don't think it matters if he comes from Metro-North or Boston or Philadelphia.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NASA Optimistic on Space Station Repair</title>
+    <meta content="15station" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/science/space/15station.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Station</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0DC153FF936A25755C0A9619C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NASA Optimistic on Space Station Repair</hl1>
+        <hl2 class="online_headline">NASA Optimistic on Space Station Repair</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NASA officials said yesterday that they fully expected engineers to resolve an unprecedented failure of computers on the International Space Station, though they cautioned that the process could take days.</p>
+        <p>''Don't get up tomorrow and expect it all to be working,'' the space station program manager, Michael T. Suffredini, said at an evening briefing for reporters, but he added, ''I feel like we're making good progress to resolving this issue.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NASA officials said that they fully expected engineers to resolve an unparalleled computer failure, but cautioned that the process could take days.</p>
+      </block>
+      <block class="full_text">
+        <p>NASA officials said yesterday that they fully expected engineers to resolve an unprecedented failure of computers on the International Space Station, though they cautioned that the process could take days.</p>
+        <p>''Don't get up tomorrow and expect it all to be working,'' the space station program manager, Michael T. Suffredini, said at an evening briefing for reporters, but he added, ''I feel like we're making good progress to resolving this issue.''</p>
+        <p>The space shuttle Atlantis is scheduled to return to Earth next week. The mission has already been extended by two days for a fourth spacewalk, and may be extended further to deal with the computer issue, officials said.</p>
+        <p>The computers, which are Russian, began crashing on Tuesday as astronauts were connecting a new truss and solar arrays to the station.</p>
+        <p>In a two-pronged system for maintaining the orientation of the station as it circles Earth, the American component runs gyroscopes that provide stability, and the Russian system controls thrusters that take over when the gyroscopes are overwhelmed.</p>
+        <p>If the problem is not corrected, the station could be unable to maintain the best position for charging its solar arrays. In the worst case, NASA and the Russian space agency would have to evacuate it.</p>
+        <p>The leading theory of what went wrong, Mr. Suffredini said, is ''noise'' in the electrical system that may have been introduced with new wiring.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

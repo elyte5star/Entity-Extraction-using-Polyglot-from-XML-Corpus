@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Democrats May Subpoena Eavesdropping Documents</title>
+    <meta content="08nsa" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/washington/08nsa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852910"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">National Security Agency</org>
+        <org class="online_producer">Democratic Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DC1F30F93BA35755C0A9619C8B63" item-length="558" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Democrats May Subpoena Eavesdropping Documents</hl1>
+        <hl2 class="online_headline">Democrats May Subpoena N.S.A. Documents</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES RISEN</byline>
+      <byline class="normalized_byline">Risen, James</byline>
+      <dateline>WASHINGTON, June 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senior House Democrats threatened Thursday to issue subpoenas to obtain secret legal opinions and other documents from the Justice Department related to the National Security Agency's domestic wiretapping program.</p>
+        <p>If the Democrats take that step, it would mark the most aggressive action yet by Congress in its oversight of the wiretapping program and could set the stage for a constitutional showdown over the separation of powers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The move would mark the most aggressive action yet by Congress in its oversight of the wiretapping program and could set the stage for a constitutional showdown over the separation of powers.</p>
+      </block>
+      <block class="full_text">
+        <p>Senior House Democrats threatened Thursday to issue subpoenas to obtain secret legal opinions and other documents from the Justice Department related to the National Security Agency's domestic wiretapping program.</p>
+        <p>If the Democrats take that step, it would mark the most aggressive action yet by Congress in its oversight of the wiretapping program and could set the stage for a constitutional showdown over the separation of powers.</p>
+        <p>The subpoena threat came after a senior Justice Department official told a House judiciary subcommittee on Thursday that the department would not turn over the documents because of their confidential nature. But the official, Steven G. Bradbury, principal deputy assistant attorney general and head of the Justice Department's office of legal counsel, did not assert executive privilege during the hearing.</p>
+        <p>The potential confrontation over the documents comes in the wake of gripping Senate testimony last month by a former deputy attorney general, James B. Comey, who described a confrontation in March 2004 between Justice Department and White House officials over the wiretapping program that took place in the hospital room of John Ashcroft, then attorney general. Mr. Comey's testimony, disclosing the sharp disagreements in the Bush administration over the legality of some N.S.A. activities, has increased Congressional interest in scrutinizing the program.</p>
+        <p>At the same time, the Bush administration is seeking new legislation to expand its wiretapping powers under the Foreign Intelligence Surveillance Act. Democratic lawmakers in both the House and the Senate have argued that they do not want to vote on the issue without first seeing the administration's legal opinions on the wiretapping program.</p>
+        <p>''How can we begin to consider FISA legislation when we don't know what they are doing?'' asked Representative Jerrold Nadler, Democrat of New York, who heads the subcommittee.</p>
+        <p>On May 17, after Mr. Comey's testimony, Mr. Nadler and Representative John Conyers Jr., Democrat of Michigan, who is the chairman of the full Judiciary Committee, wrote to Attorney General Alberto R. Gonzales requesting copies of Justice Department legal opinions used to support the N.S.A. wiretapping program, as well as later documents written by top Justice Department officials that raised questions about the program's legality in 2004. The letter also asked Mr. Gonzales to provide his own description of the 2004 confrontation.</p>
+        <p>Mr. Conyers said he had not received a response from the Justice Department. ''We're going to give him two more weeks, and then, as somebody said, it's about time process kicks in somewhere around here,'' Mr. Conyers said.</p>
+        <p>In an interview after the subcommittee hearing on Thursday, Mr. Bradbury said his refusal to provide the documents was not the final word from the Justice Department on the matter.</p>
+        <p>But Mr. Nadler made it clear that he did not expect the administration to comply and said he thought he would soon have to push for subpoenas.</p>
+        <p>In January, the Bush administration announced that it was placing the program under FISA, meaning that it would no longer conduct domestic wiretapping operations without seeking court approval, and officials said they were ending eavesdropping without warrants.</p>
+        <p>Since then, the White House has said that the debate over the program is moot because it has been brought under court supervision, and the Democrats, focused on Iraq war policy, had done little to challenge such assertions. Mr. Bradbury even said Thursday that the N.S.A. program was ''no longer operational.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

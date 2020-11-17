@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Practice Greens, the Rules Rule</title>
+    <meta content="14links" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/sports/golf/14links.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854439"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="descriptor">United States Open (Golf)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Open (Golf)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <person class="online_producer">Watson, Bubba</person>
+        <person class="online_producer">Crouse, Karen</person>
+        <person class="online_producer">Hack, Damon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4D8143FF937A25755C0A9619C8B63" item-length="409" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Practice Greens, the Rules Rule</hl1>
+        <hl2 class="online_headline">2 Greens, Blue Line, a Yellow Golfer</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE and DAMON HACK</byline>
+      <byline class="normalized_byline">Crouse, Karen; Hack, Damon</byline>
+      <dateline>OAKMONT, Pa., June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bubba Watson was taking a break between shots on the practice range at the Oakmont Country Club on Wednesday when the conversation in his entourage of four turned to the rules about putting on the practice green. Watson's eyes widened when he was told, incorrectly, as it turned out, that golfers would face disqualification if their putts rolled over the blue line separating the practice green from the ninth green.</p>
+        <p>''I'm going to be scared to practice putting,'' he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>OAKMONT, Pa., June 13  Bubba Watson was taking a break between shots on the practice range at the Oakmont Country Club on Wednesday when the conversation in his entourage of four turned to the rules about putting on the practice green. Watson’s eyes widened when he was told, incorrectly, as it turned out, that golfers would face disqualification if their putts rolled over the blue line separating the practice green from the ninth green.</p>
+      </block>
+      <block class="full_text">
+        <p>Bubba Watson was taking a break between shots on the practice range at the Oakmont Country Club on Wednesday when the conversation in his entourage of four turned to the rules about putting on the practice green. Watson's eyes widened when he was told, incorrectly, as it turned out, that golfers would face disqualification if their putts rolled over the blue line separating the practice green from the ninth green.</p>
+        <p>''I'm going to be scared to practice putting,'' he said.</p>
+        <p>His caddie laughed and said, ''I know what I'll be doing.'' With that, he posed as if he were Martin Brodeur in net, using the club he had been cleaning to protect the five hole. ''I'll be like a goalie,'' he said, laughing.</p>
+        <p>According the United States Golf Association, if a practicing player hits a putt out of the practice area onto the live green, he can pick up the ball, go back to the practice surface and continue to practice.</p>
+        <p>''He's O.K. as long as he doesn't play a stroke below the blue line,'' said Ed Gowan, a member of the championship rules committee. ''If the ball gets there, that's O.K. He goes and picks it up.''</p>
+        <p>Trouble would arise if the player putts from the live area back to the practice area. ''Now he's got a problem,'' Gowan said. ''Now he's got a rules violation.''</p>
+        <p>The penalty for practicing on the course is disqualification, under 7-1b of the Rules of Golf.</p>
+        <p>The rule states that before a round or playoff, no competitor can practice on the competition course or test the surface of any putting green.</p>
+        <p>PINEHURST GETS 2014 OPEN -- The U.S.G.A. announced Wednesday that Pinehurst No. 2 in Pinehurst, N.C., will be the host of the 2014 United States Open, making it the third time the event will be played on the course.</p>
+        <p>Pinehurst also played host to the championship in 1999, when Payne Stewart won, and in 2005, when Michael Campbell won.</p>
+        <p>''One hundred years after No. 2 opened, it continues to be a test for all golfers,'' said Robert Dedman Jr., the chief executive officer of Pinehurst.</p>
+        <p>The course, designed by Donald Ross, is famous for its hard-to-hit greens, shaped like turtle shells.</p>
+        <p>MACDONALD TO BE INDUCTED -- Charles Blair Macdonald, the renowned golf course architect who helped found the U.S.G.A., will be inducted into the World Golf Hall of Fame on Nov. 12.</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

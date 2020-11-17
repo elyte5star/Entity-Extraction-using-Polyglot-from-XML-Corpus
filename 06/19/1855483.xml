@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   O'BRIEN, DANIEL BRYCE,</title>
+    <meta content="dn061907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855483"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">O'BRIEN, DANIEL BRYCE,</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DF153AF93AA25755C0A9619C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   O'BRIEN, DANIEL BRYCE,</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>O'BRIEN--Daniel Bryce, aged 61 years, of Wassaic, NY, and Aiken, SC, died peacefully on June 18, 2007. Danny graduated from Malvern Preparatory School in 1964 and earned a Bachelor of Science in Business from Georgetown University in 1968. In addition to being a great family man, Danny was truly a man of many talents. From his work for the Saudi Government in Washington, D.C. in the 1970s, to his successful real estate business in New York City in the 1980s, to the founding of three restaurants in the 1990s. Dan's fervor and enthusiasm drove his many successes. Danny's sense of commitment for business carried over to his passion for giving back to his community. He was deeply devoted to multiple charities and non-profit organizations including Union Settlement, Scenic Hudson, Shakespeare on the Hudson and his family's Troutwalk Fund. Danny is survived by his wife of 38 years, Wendy; two sons, Bryce and Topher; two daughters, Timoney Dunlap and Caroleana; and five of the best grandchildren, Findely and Bryce III, and Bela, Trent and Austin Dunlap. A private memorial service will be held at 4pm Thursday, June 21 at Troutwalk Farm. In lieu of flowers, the family asks that donations may be made in Danny's name to Scenic Hudson, www.ScenicHudson.org Union Settlement Associates, www.UnionSettlemt.org and Part of the Solution, www.POTSBronx.org. Services have been entrusted to Allen Funeral Home, Millbrook, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>O'BRIEN--Daniel Bryce, aged 61 years, of Wassaic, NY, and Aiken, SC, died peacefully on June 18, 2007. Danny graduated from Malvern Preparatory School in 1964 and earned a Bachelor of Science in Business from Georgetown University in 1968. In addition to being a great family man, Danny was truly a man of many talents. From his work for the Saudi Government in Washington, D.C. in the 1970s, to his successful real estate business in New York City in the 1980s, to the founding of three restaurants in the 1990s. Dan's fervor and enthusiasm drove his many successes. Danny's sense of commitment for business carried over to his passion for giving back to his community. He was deeply devoted to multiple charities and non-profit organizations including Union Settlement, Scenic Hudson, Shakespeare on the Hudson and his family's Troutwalk Fund. Danny is survived by his wife of 38 years, Wendy; two sons, Bryce and Topher; two daughters, Timoney Dunlap and Caroleana; and five of the best grandchildren, Findely and Bryce III, and Bela, Trent and Austin Dunlap. A private memorial service will be held at 4pm Thursday, June 21 at Troutwalk Farm. In lieu of flowers, the family asks that donations may be made in Danny's name to Scenic Hudson, www.ScenicHudson.org Union Settlement Associates, www.UnionSettlemt.org and Part of the Solution, www.POTSBronx.org. Services have been entrusted to Allen Funeral Home, Millbrook, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

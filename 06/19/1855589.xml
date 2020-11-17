@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tough Act I, but the Second Has Some Funny Bits</title>
+    <meta content="19ink" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="Movies; Theater; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19ink.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855589"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Actors and Actresses</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Actors and Actresses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDF133FF93AA25755C0A9619C8B63" item-length="489" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tough Act I, but the Second Has Some Funny Bits</hl1>
+        <hl2 class="online_headline">A Tough Act I, but the Second Has Some Funny Bits</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS LIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KIM CHAN, like many character actors, has a face that is more familiar than his name. His high cheekbones, the mischief in his eyes and his knack for both serious and comedic performances seemed to be what Hollywood always looked for when casting roles for Asians.</p>
+        <p>So Mr. Chan is the ancient wise man from ''Kung Fu: The Legend Continues,'' and the mob boss Uncle Benny in ''Lethal Weapon 4.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kim Chan, like many character actors, has a face that is more familiar than his name.</p>
+      </block>
+      <block class="full_text">
+        <p>KIM CHAN, like many character actors, has a face that is more familiar than his name. His high cheekbones, the mischief in his eyes and his knack for both serious and comedic performances seemed to be what Hollywood always looked for when casting roles for Asians.</p>
+        <p>So Mr. Chan is the ancient wise man from ''Kung Fu: The Legend Continues,'' and the mob boss Uncle Benny in ''Lethal Weapon 4.''</p>
+        <p>He was the 76-year-old butler in ''The King of Comedy,'' directed by Martin Scorsese.</p>
+        <p>Mr. Chan, now in his 90s, realized long ago that even small film and television roles beat washing and ironing shirts for 10 cents apiece in real life.</p>
+        <p>As an actor, he said: ''You'll be the king, you'll be a millionaire, you'll be a great merchant, a great lover. You're not yourself, so I enjoyed it.''</p>
+        <p>Fifty roles later, he is finally letting up, having traded in his modest Bronx apartment for the Prospect Park Residence, an assisted-living home in Brooklyn. ''It was a big struggle,'' said Mr. Chan's niece, Judy Gee, who visits him daily.</p>
+        <p>Mr. Chan's career path was an unlikely one. His father, Lem Chan, a philosopher, fled China in 1928, bringing young Kim and his two older sisters first to Rhode Island, then to New York, where the family got into the restaurant and laundry businesses.</p>
+        <p>One day, the father caught the son lying to cover up an afternoon whiled away at the movies. Presented with an ultimatum, Kim Chan chose to leave his family, only to end up homeless in Central Park before moving on to other laundries. He never fully reconciled with his father, who died in 1952. Both his sisters have also died.</p>
+        <p>As he recalled family memories, Mr. Chan fell silent at times, stroking his long, wispy beard.</p>
+        <p>It took nearly four decades in inconsequential television, film and stage productions for Mr. Chan to shake free of the day labor grind.</p>
+        <p>He spent those years adrift, working at restaurants and laundries. He made movie contacts by day, and hustled cards and slept at night on  ironing boards crawling with bedbugs.</p>
+        <p>His big break came in 1983 in ''The King of Comedy.'' He played Jonno, Jerry Lewis's butler, and tangled with Robert De Niro, a frustrated comedian and obsessed fan who forces his way into Mr. Lewis's home. Mr. Chan's frantic efforts in the scene to warn Mr. Lewis provide comic relief.</p>
+        <p>''I always like comedy,'' Mr. Chan said. ''I enjoy making somebody laugh.''</p>
+        <p>He sometimes chafed in an industry rife with derogatory stereotypes. In the 1940s, he was usually cast as a Japanese soldier.</p>
+        <p>As an extra for a long-forgotten ''King Kong'' movie, Mr. Chan said, he led an insurrection of actors, egging the contingent of ''natives'' to protest their barefoot condition by shouting, ''Ouch, ouch,'' each time the director called, ''Action.''</p>
+        <p>''Finally,'' Mr. Chan recalled with an impish smile, ''they gave us shoes.''</p>
+        <p>INK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children and Their Senses</title>
+    <meta content="12lett-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854024"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4D9173FF931A25755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children and Their Senses</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Disorder Is Sensory; the Diagnosis, Elusive'' (June 5): As a teacher I attended workshops on Sensory Integration Dysfunction, and while I was never convinced that it should be labeled a disability, studying the ''symptoms'' allowed me to understand those children better and to help parents see them not as problem children, but as kids whose skills were still maturing.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Disorder Is Sensory; the Diagnosis, Elusive'' (June 5): As a teacher I attended workshops on Sensory Integration Dysfunction, and while I was never convinced that it should be labeled a disability, studying the ''symptoms'' allowed me to understand those children better and to help parents see them not as problem children, but as kids whose skills were still maturing.</p>
+        <p>Young children work hard to understand their environment, and the goal of education is to enable that process. Many teachers already know the value of occupational therapy as a tool to help children grow in skill and confidence. The more enlightened schools have therapists on staff or available for consultations. This issue belongs with the American Academy of Pediatrics, since sensory problems in a healthy child are more properly regarded as issues of growth and maturity.</p>
+        <p>Liz Jones  South Chatham, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

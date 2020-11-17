@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BROOKLYN INTERNATIONAL FILM FESTIVAL'S KIDSFILMFEST</title>
+    <meta content="01bkids" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851192"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPARE TIMES | JUNE 1 - JUNE 7"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3DD1530F932A35755C0A9619C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BROOKLYN INTERNATIONAL FILM FESTIVAL'S KIDSFILMFEST</hl1>
+      </hedline>
+      <byline class="print_byline">By LAUREL GRAEBER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Growing up often entails simple acts of courage, no less intimidating because they're small: mustering the nerve to climb a daunting jungle gym, conquering the mysteries of using the library or, eventually, getting up the nerve to ask someone for a date.</p>
+        <p>These are the challenges explored in ''The Little Gorilla,'' ''The Librarian From the Black Lagoon'' and ''Karma Café,'' 3 of the 20 shorts in kidsfilmfest, an offshoot of the Brooklyn International Film Festival. Although the festival's adult version is celebrating its 10th anniversary -- yes, it's older than the one in TriBeCa -- the children's is still maturing, having had its debut in 2005.</p>
+      </block>
+      <block class="full_text">
+        <p>Growing up often entails simple acts of courage, no less intimidating because they're small: mustering the nerve to climb a daunting jungle gym, conquering the mysteries of using the library or, eventually, getting up the nerve to ask someone for a date.</p>
+        <p>These are the challenges explored in ''The Little Gorilla,'' ''The Librarian From the Black Lagoon'' and ''Karma Café,'' 3 of the 20 shorts in kidsfilmfest, an offshoot of the Brooklyn International Film Festival. Although the festival's adult version is celebrating its 10th anniversary -- yes, it's older than the one in TriBeCa -- the children's is still maturing, having had its debut in 2005.</p>
+        <p>''In Brooklyn there are so many young families looking for something to do,'' said Lisa King, director of kidsfilmfest, who started it after noticing that many child-friendly shorts were being submitted to the regular festival. The fest's Peewee Program, for preschoolers through third graders, and the Tween-Time Program, for fourth through eighth graders, will each be screened twice on Sunday and twice on June 9 at the Brooklyn Children's Museum. ''I don't really do films for teenagers,'' Ms. King said. ''I think the subject matter is often dark, and the world is dark enough for children these days.''</p>
+        <p>But that doesn't mean that the festival won't include a few chills, as in the tween program's ''Voodoo Bayou,'' an animated Mexican film by Javier Gutiérrez in which a voodoo doll, above, comes to life. And King Kong himself plays a role in ''The Little Gorilla,'' by Harry Kellerman, when a boy who's afraid of the monkey bars takes inspiration from that giant ape. Middle schoolers will appreciate ''Karma Café,'' written and directed by Eben Kostbar, who also stars. Mr. Kostbar plays a lovelorn adolescent who finds uncannily appropriate advice in the form of pithy statements from a coffee-bar cashier.</p>
+        <p>All the films are in English, and all, Ms. King said, are ultimately upbeat. ''I like the kids to leave feeling really good,'' she added, ''but also having learned something.'' (Peewee Program, at the Commons Theater, and Tween-Time Program, at the Tank Theater, Brooklyn Children's Museum, 145 Brooklyn Avenue, at St. Mark's Avenue, Crown Heights, 718-735-4400, kidsfilmfest.org. Each at 1 and 3 p.m. Free with museum admission: $5; free for members.)</p>
+        <p>LAUREL GRAEBER</p>
+        <p>SPARE TIMES | JUNE 1 - JUNE 7</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

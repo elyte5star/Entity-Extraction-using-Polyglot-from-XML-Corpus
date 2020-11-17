@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mary Firestone, Napper Tandy</title>
+    <meta content="10firestone" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10firestone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853622"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Firestone, Mary</person>
+        <person class="indexing_service">II, James Napper Tandy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EFD71F30F933A25755C0A9619C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mary Firestone, Napper Tandy</hl1>
+        <hl2 class="online_headline">Mary Firestone, Napper Tandy</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary Firestone, a daughter of Susan P. Firestone of New York and John D. Firestone of Washington, was married last evening to James Napper Tandy II, the son of Nancy M. Tandy and Spencer A. Tandy of Fairfield, Conn. The Rev. Marie Neilly performed the ceremony at the Wesley Methodist Church on Harbour Island in the Bahamas.</p>
+        <p>Ms. Firestone, 30 and a film actress, is keeping her name. She has had roles in ''Just My Luck'' (2006) and ''Little Black Book'' (2004). She is also a founder of the Name Campaign, a humanitarian project in Los Angeles for Uganda's child victims of the Lord's Resistance Army. She graduated from Princeton.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mary Firestone, a daughter of Susan P. Firestone of New York and John D. Firestone of Washington, was married last evening to James Napper Tandy II, the son of Nancy M. Tandy and Spencer A. Tandy of Fairfield, Conn. The Rev. Marie Neilly performed the ceremony at the Wesley Methodist Church on Harbour Island in the Bahamas.</p>
+      </block>
+      <block class="full_text">
+        <p>Mary Firestone, a daughter of Susan P. Firestone of New York and John D. Firestone of Washington, was married last evening to James Napper Tandy II, the son of Nancy M. Tandy and Spencer A. Tandy of Fairfield, Conn. The Rev. Marie Neilly performed the ceremony at the Wesley Methodist Church on Harbour Island in the Bahamas.</p>
+        <p>Ms. Firestone, 30 and a film actress, is keeping her name. She has had roles in ''Just My Luck'' (2006) and ''Little Black Book'' (2004). She is also a founder of the Name Campaign, a humanitarian project in Los Angeles for Uganda's child victims of the Lord's Resistance Army. She graduated from Princeton.</p>
+        <p>Her father is a partner in the Secor Group, a venture capital firm in Washington. Her mother is an art therapist and psychotherapist in New York for the 9/11 School Recovery Program of the Red Cross; she is also a sculptor.</p>
+        <p>The bride is a great-granddaughter of Harvey S. Firestone, the founder of Firestone Tire and Rubber Company.</p>
+        <p>Mr. Tandy, 31, works in Torrance, Calif., as a copywriter with Saatchi &amp; Saatchi, the advertising firm. He was a writer of ''Two Roads to Baja,'' a promotional film for Toyota that played on Speed Channel cable network in January. He graduated from Connecticut College.</p>
+        <p>His father has produced plays, including the 1979 Broadway revival of the musical ''Peter Pan,'' and writes screenplays.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

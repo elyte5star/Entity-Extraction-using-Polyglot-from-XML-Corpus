@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mob Case Defendant Is Shot in Brooklyn</title>
+    <meta content="06mob" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/nyregion/06mob.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852504"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Organized Crime</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Crime</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <person class="online_producer">Gambino Crime Family</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E5DE1E30F935A35755C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mob Case Defendant Is Shot in Brooklyn</hl1>
+        <hl2 class="online_headline">Mob Case Defendant Is Shot in Brooklyn</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A reputed mobster associated with the Gambino crime family was shot at least three times while sitting in his car on a Brooklyn street yesterday morning, the police said.</p>
+        <p>The man, Robert DeCicco, 56, was hit in the arm and leg and grazed in the head while parked in front of 1678 Bath Avenue in Bath Beach about 10:30 a.m., the police said. He was treated at Lutheran Medical Center and released.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A reputed mobster associated with the Gambino crime family was shot at least three times while sitting in his car on a Brooklyn street yesterday morning, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A reputed mobster associated with the Gambino crime family was shot at least three times while sitting in his car on a Brooklyn street yesterday morning, the police said.</p>
+        <p>The man, Robert DeCicco, 56, was hit in the arm and leg and grazed in the head while parked in front of 1678 Bath Avenue in Bath Beach about 10:30 a.m., the police said. He was treated at Lutheran Medical Center and released.</p>
+        <p>In January, Mr. DeCicco, who lives on Staten Island, was indicted on federal racketeering charges in Brooklyn along with his father, George DeCicco, and 11 others as part of an 11-month investigation of the Gambino and Luchese families and the Sicilian Mafia.</p>
+        <p>George DeCicco is a high-ranking Gambino captain, federal authorities said. The charges against the group included racketeering, loan-sharking, extortion, bribery of a federal official, money laundering, attempted bank fraud and check forgery.</p>
+        <p>Witnesses said that before the shooting yesterday, Mr. DeCicco went to get a prescription filled at Dolinsky Pharmacy and then went to the nearby Nick's Discount Store. He was shot after getting back into his car, according to the police. A light-colored Lincoln sped away immediately after the shooting, investigators said. No one had been arrested last night.</p>
+        <p>This is not the first time a member of the DeCicco family has been the victim of violence. Robert DeCicco's cousin, Frank DeCicco, was killed in a car explosion outside a Bensonhurst social club on April 13, 1986.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

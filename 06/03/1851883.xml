@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patricia Murphy, Todd Stein</title>
+    <meta content="03murphy" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03murphy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851883"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Murphy, Patricia Marie</person>
+        <person class="indexing_service">Stein, Todd Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DA1230F930A35755C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patricia Murphy, Todd Stein</hl1>
+        <hl2 class="online_headline">Patricia Murphy, Todd Stein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patricia Marie Murphy and Todd Matthew Stein were married yesterday at Great Meadow, an equestrian center in The Plains, Va. Norman E. Cartwright-Brown, a Virginia civil marriage celebrant, officiated.</p>
+        <p>The bride, 36, will continue to use her name professionally. She is the executive editor of The American Interest, a public affairs magazine in Washington. She graduated from Vanderbilt and received a master's degree in journalism from Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Patricia Marie Murphy and Todd Matthew Stein were married yesterday at Great Meadow, an equestrian center in The Plains, Va. Norman E. Cartwright-Brown, a Virginia civil marriage celebrant, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Patricia Marie Murphy and Todd Matthew Stein were married yesterday at Great Meadow, an equestrian center in The Plains, Va. Norman E. Cartwright-Brown, a Virginia civil marriage celebrant, officiated.</p>
+        <p>The bride, 36, will continue to use her name professionally. She is the executive editor of The American Interest, a public affairs magazine in Washington. She graduated from Vanderbilt and received a master's degree in journalism from Columbia.</p>
+        <p>She is a daughter of Mary Kay Murphy and Michael C. Murphy of Duluth, Ga. The bride's father is a lawyer in Lawrenceville, Ga. Her mother is an associate vice president of the Morehouse School of Medicine in Atlanta, where she works on fund-raising; she is also on the board of education for the public schools of Gwinnett County, Ga.</p>
+        <p>The bridegroom, 33, is a lawyer with the Senate Committee on Homeland Security and Governmental Affairs in Washington. He graduated from Emory University and received a master's degree in literature from King's College London. His law degree is from Vanderbilt.</p>
+        <p>He is a son of Ellen Kierr Stein and Kenneth W. Stein, both of Atlanta. The bridegroom's mother is a real estate agent for Coldwell Banker, in Sandy Springs, Ga. His father is the William E. Schatten professor of contemporary Middle Eastern history and Israeli studies at Emory. The bridegroom is a stepson of Lynn Epstein.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

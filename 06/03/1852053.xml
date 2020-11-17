@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Divorce, Yankee Style</title>
+    <meta content="03inbox-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852053"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7D91030F930A35755C0A9619C8B63" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Divorce, Yankee Style</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''To Love and to Cherish for All Eternity, or Not,'' May 27: For lifelong Mets fans like me, it has certainly been sweet knowing that Yankees followers, for a change, are the New York baseball fans suffering through a season to forget. But what kind of fan can Jane Heller possibly be if she's calling it quits on her beloved Bronx Bombers?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''To Love and to Cherish for All Eternity, or Not,'' May 27: For lifelong Mets fans like me, it has certainly been sweet knowing that Yankees followers, for a change, are the New York baseball fans suffering through a season to forget. But what kind of fan can Jane Heller possibly be if she's calling it quits on her beloved Bronx Bombers?</p>
+        <p>Although her two divorces may have been appropriate and signs of strength rather than weakness, in baseball, fandom should be absolute rather than an oath that can be revoked. What kind of payback is a Yankee ''divorce'' after many of the same crew won all those championships in the late '90s and, yes, 2000? Should the Yankees ever come back to greatness (which is more likely than not), Heller should stay away from the Bronx.</p>
+        <p>Maia Weinstock  Brooklyn</p>
+        <p>To the Sports Editor:</p>
+        <p>Too bad Jane Heller has given up on the Yankees. True fans never give up. True fans die harder and root harder.</p>
+        <p>I plot trades the Yanks can make and write to Brian Cashman and Joe Torre, imploring them to hear me and act on my suggestions. If they lost today, I couldn't wait for them to play tomorrow. And when they did, and won, I'd feel better.</p>
+        <p>Heller wrote that ''I will give them serious consideration'' when they become World Series champions again. Well, don't do us any favors. We don't need you.</p>
+        <p>Stan Newman  New York</p>
+        <p>To the Sports Editor:</p>
+        <p>I became a Yankee fan in 1969, when everyone was a Met fan. It is because of triflers like Jane Heller that Yankee supporters have the bum rap of not being genuine fans of the game of baseball.</p>
+        <p>Heller has cast herself as the gay divorcée. Well, I cast myself as the best friend who never flinched while the Yankees finished last (1990) or when the most excitement on the field was Gene Michael's hidden-ball trick and Steve Hamilton's folly floater (circa 1970).</p>
+        <p>Heller said she might return if the Yankees won the World Series. I hope they don't give her visitation rights.</p>
+        <p>Adam Redfield  Allendale, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

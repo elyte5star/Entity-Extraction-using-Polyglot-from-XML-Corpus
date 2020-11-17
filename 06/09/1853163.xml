@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Giambi Has Little to Say On Issue of Selig's Request</title>
+    <meta content="09giambi" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/sports/baseball/09giambi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853163"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Steroids</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <person class="online_producer">Giambi, Jason</person>
+        <person class="online_producer">Selig, Bud</person>
+        <person class="online_producer">Mitchell, George J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DD163FF93AA35755C0A9619C8B63" item-length="493" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Giambi Has Little to Say On Issue of Selig's Request</hl1>
+        <hl2 class="online_headline">Giambi Has Little to Say on Issue of Selig’s Request</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK CURRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jason Giambi hobbled out of Yankee Stadium in the bottom of the seventh inning last night, wearing camouflage pants, a dark T-shirt and a black walking boot on his injured left foot. He was very willing to discuss his foot problems, but not so willing to discuss his other problems.</p>
+        <p>On Wednesday, Commissioner Bud Selig requested that within two weeks Giambi cooperate with the investigation into steroid use in baseball by the former Senator George J. Mitchell. Selig's request came after Giambi's tacit admission to USA Today that he had used steroids.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Commissioner Bud Selig has requested that Jason Giambi cooperate with the investigation into steroid use in baseball by the former Senator George J. Mitchell.</p>
+      </block>
+      <block class="full_text">
+        <p>Jason Giambi hobbled out of Yankee Stadium in the bottom of the seventh inning last night, wearing camouflage pants, a dark T-shirt and a black walking boot on his injured left foot. He was very willing to discuss his foot problems, but not so willing to discuss his other problems.</p>
+        <p>On Wednesday, Commissioner Bud Selig requested that within two weeks Giambi cooperate with the investigation into steroid use in baseball by the former Senator George J. Mitchell. Selig's request came after Giambi's tacit admission to USA Today that he had used steroids.</p>
+        <p>While Giambi acknowledged that he has spoken with his agent, Arn Tellem, about Selig's request, he said they needed to have additional talks. He would not elaborate on his discussions with Tellem.</p>
+        <p>''I'll just deal with what I can deal with,'' Giambi said. ''Like I said, I've been in contact. There's really not much to talk about until then. I'll definitely let you guys know. I have no problem with that.''</p>
+        <p>Tellem has not said whether Giambi would speak with Mitchell. Selig intimated that his decision about possibly disciplining Giambi would be affected by whether Giambi cooperated with Mitchell. Two of Giambi's teammates said they doubted that he would cooperate.</p>
+        <p>When a reporter asked Giambi if he felt Selig's statement was threatening because the potential punishment could be influenced by whether he meets with Mitchell, Giambi cut the questioner off.</p>
+        <p>''I don't want to get into anything further until I release a comment on what's going on,'' Giambi said. ''Like I said, when we talk, then I'll be more than happy. I've always talked to you guys, so I'll be more than happy.''</p>
+        <p>Giambi, who went on the disabled list with a torn left plantar fascia on June 1, said he would have another magnetic resonance imaging test in about 10 days. General Manager Brian Cashman has said he expects Giambi to miss several weeks, and he has not dismissed the possibility of Giambi missing the rest of the season.</p>
+        <p>''The best-case scenario is hopefully it'll heal soon,'' Giambi said. ''But you just don't know. That's the whole problem with this injury. Nobody really knows how fast it's going to heal. That's why you got to constantly do M.R.I.'s to see how fast it's healing.''</p>
+        <p>Before the game, Giambi's timing was impeccable. He walked into a side entrance to the clubhouse at 6:01 p.m., one minute after reporters are required to exit. Giambi saw at least one reporter waiting, but he never slowed down as he vanished behind a door. He issued a statement saying there was little to say ''other than I want to be a part of this team and show my support.''</p>
+        <p>Three and a half hours later, Giambi limped out of the Stadium before the end of the game. Giambi did not want to talk about Selig's request, but until Giambi announces what he plans to do, that crucial question will continue hounding him.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

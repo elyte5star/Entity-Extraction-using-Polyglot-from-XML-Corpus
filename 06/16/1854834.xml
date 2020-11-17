@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Work Done on Space Station Computers</title>
+    <meta content="16shuttle" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/science/16shuttle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854834"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Schwartz, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Station</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <location class="online_producer">Russia</location>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EED7153FF935A25755C0A9619C8B63" item-length="794" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Work Done on Space Station Computers</hl1>
+        <hl2 class="online_headline">Work Done on Space Station Computers</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <abstract>
+        <p>Russian astronauts and engineers may have corrected problem that caused computers aboard International Space Station to crash and raised possibility that station might have to be evacuated; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Russian astronauts and engineers may have corrected a problem yesterday that caused computers aboard the International Space Station to crash and raised the possibility that the station might have to be evacuated.</p>
+        <p>In a feat of ingenuity and high-stakes electronic jury-rigging, the astronauts isolated a switch that appeared to be the source of repeated crashes since Tuesday and had the balky computers start up again.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Russian cosmonauts and engineers may have corrected a problem that caused computers aboard the International Space Station to crash.</p>
+      </block>
+      <block class="full_text">
+        <p>Russian astronauts and engineers may have corrected a problem yesterday that caused computers aboard the International Space Station to crash and raised the possibility that the station might have to be evacuated.</p>
+        <p>In a feat of ingenuity and high-stakes electronic jury-rigging, the astronauts isolated a switch that appeared to be the source of repeated crashes since Tuesday and had the balky computers start up again.</p>
+        <p>''They successfully bypassed a power switch with an external cable,'' said Brandi Dean, a spokeswoman at the Johnson Space Center in Houston.</p>
+        <p>The two sets of computers control critical systems in the station, including the thrusters that help orient the station on orbit. Each system has three redundant channels, or ''lanes,'' so that if one crashes, two remain to perform in its place.</p>
+        <p>Just one of the three redundant lanes needs to be functioning at any time. On Tuesday, all six crashed and could not be restarted without going back into a cycle of crashes.</p>
+        <p>Having gotten two of each kind of computer back online, the Russians then shut them down, Ms. Dean said, ''so they could properly secure the jumper cables and close the equipment panels.''</p>
+        <p>They then brought up the computers again and two lanes on each system came back. The engineers kept them running idly without taking over functions like attitude control or running the oxygen generator.</p>
+        <p>So engineers planned to wait until the next set of passes, in the wee hours this morning, to bring the computers back up and to analyze the stream of data that they produce to ensure that things are going smoothly before giving the computers the additional work load of running the systems.</p>
+        <p>It was unclear that the repair would hold, and spacewalking astronauts performed more work outside the station yesterday to isolate the computers from connections with newly deployed solar panels that may have set off the problem.</p>
+        <p>The mood of NASA officials was decidedly more upbeat toward the end of the day than at the beginning, when overnight efforts to repair the glitch proved unsuccessful.</p>
+        <p>At a midday news briefing. Michael T. Suffredini, the head of the space station program, insisted that even if the problem was not resolved quickly, the astronauts were in no danger and that nothing had emerged that would require an evacuation.</p>
+        <p>''I'm not remotely concerned right now that we're looking at a scenario like that,'' Mr. Suffredini said.</p>
+        <p>He explained that the station could still support its crew despite the computer problems, adding, ''From a life support perspective, we're in good shape,'' with sufficient oxygen and temperature and humidity controls.</p>
+        <p>''There is nobody in this agency -- and, as far as I know, in the Russian agency -- that believes this vehicle is at risk of being lost,'' Mr. Suffredini said.</p>
+        <p>At an evening briefing, he struck an upbeat tone. When the Russian computers came up that afternoon, he said, ''it was an indication that things had changed,and changed for the better.''</p>
+        <p>As the Russians struggled to correct the computer problems, two American astronauts, James F. Reilly II and John D. Olivas, conducted the planned spacewalk that might otherwise have been the most compelling moment of the mission. Mr. Olivas first rode out on the robotic arm to fold down a bit of the heat shield that had folded on ascent, exposing a four-by-six-inch area.</p>
+        <p>Live video from Dr. Olivas's helmet camera showed him joining the errant insulating blanket to its neighbor with surgical staples from the medical kit on the station and then gingerly inserting a line of 21 stainless steel pins to bind the blanket to an adjoining set of thermal tiles, a task that requires dexterity that was clearly hard to achieve using the bulky gloves of a spacesuit.</p>
+        <p>Meanwhile, Dr. Reilly swapped a water-discharge vent on the station's Destiny module with a hydrogen vent that will be part of a new oxygen generation system on the station. The replacement went smoothly, but replacing a protective cover over the vent proved difficult, and that task was put aside.</p>
+        <p>With both tasks completed, the astronauts moved on to help fold a solar array back into its packing box. The array, which sits on top of the station and provided the first solar power to the complex, sat in the way of arrays that have been installed on the sides of the station. It will eventually be moved to the side of the station and redeployed. Having the fanfold array resume its more compact shape has required shaking, poking and pulling with tools created or modified for the task, a process that NASA calls ''fluffing.''</p>
+        <p>One more spacewalk is planned for tomorrow, consisting largely of what NASA calls ''get ahead'' tasks to prepare the station for the next stages of construction.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

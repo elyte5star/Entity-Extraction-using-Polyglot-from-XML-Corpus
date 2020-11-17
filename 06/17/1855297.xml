@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="17duke--refer" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855297"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFDE123FF934A25755C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prosecutor in Duke Case Disbarred by Ethics Panel  Michael B. Nifong, the North Carolina prosecutor who brought assault charges against three Duke lacrosse players, was disbarred after volunteering to give up his license. In the last year, Mr. Nifong's handling of the case has come under severe criticism, and all charges against the men have been dropped. ''There is no discipline short of disbarment that would be appropriate in this case,'' an ethics panel said.</p>
+        <p>PAGE 21</p>
+        <p>Suicide Bombing in Kabul  A suicide bomb in the Afghan capital near an American convoy killed the bomber and four others. Later, U.S. soldiers fired into a crowd of Afghans nearby, killing a man.</p>
+        <p>PAGE 10</p>
+        <p>Housing Charity Is Accused  Residents of a Florida development built by Habitat for Humanity seven years ago say that their low-cost houses are crumbling and infested with insects and rodents, and that the charity has been aloof and unresponsive.</p>
+        <p>PAGE 14</p>
+        <p>Jeter Lifts the Yankees  Derek Jeter hit a two-run homer that put the Yankees ahead for good in their 11-8 victory over the Mets at Yankee Stadium.</p>
+        <p>SPORTSSUNDAY</p>
+        <p>An East German Symbol Turns 50, Rust-Free (It's Plastic)  A proud Trabant owner flying the East German flag was among 2,000 who gathered in Zwickau, Germany, to celebrate 50 years of the rattletrap cars, symbols of nostalgia for a time before the Berlin Wall fell.</p>
+        <p>PAGE 3</p>
+        <p>Alaska's Lost Bearings  The frontier state is looking for its next big boom, but scandal and waning clout in Washington have put its future in doubt.</p>
+        <p>WEEK IN REVIEW</p>
+        <p>Beware the Leprosy Card  Nicole Holmes had leprosy. Now immigration demagogues loom. Editorial Observer.</p>
+        <p>OPINION PAGES</p>
+      </block>
+      <block class="full_text">
+        <p>Prosecutor in Duke Case Disbarred by Ethics Panel  Michael B. Nifong, the North Carolina prosecutor who brought assault charges against three Duke lacrosse players, was disbarred after volunteering to give up his license. In the last year, Mr. Nifong's handling of the case has come under severe criticism, and all charges against the men have been dropped. ''There is no discipline short of disbarment that would be appropriate in this case,'' an ethics panel said.</p>
+        <p>PAGE 21</p>
+        <p>Suicide Bombing in Kabul  A suicide bomb in the Afghan capital near an American convoy killed the bomber and four others. Later, U.S. soldiers fired into a crowd of Afghans nearby, killing a man.</p>
+        <p>PAGE 10</p>
+        <p>Housing Charity Is Accused  Residents of a Florida development built by Habitat for Humanity seven years ago say that their low-cost houses are crumbling and infested with insects and rodents, and that the charity has been aloof and unresponsive.</p>
+        <p>PAGE 14</p>
+        <p>Jeter Lifts the Yankees  Derek Jeter hit a two-run homer that put the Yankees ahead for good in their 11-8 victory over the Mets at Yankee Stadium.</p>
+        <p>SPORTSSUNDAY</p>
+        <p>An East German Symbol Turns 50, Rust-Free (It's Plastic)  A proud Trabant owner flying the East German flag was among 2,000 who gathered in Zwickau, Germany, to celebrate 50 years of the rattletrap cars, symbols of nostalgia for a time before the Berlin Wall fell.</p>
+        <p>PAGE 3</p>
+        <p>Alaska's Lost Bearings  The frontier state is looking for its next big boom, but scandal and waning clout in Washington have put its future in doubt.</p>
+        <p>WEEK IN REVIEW</p>
+        <p>Beware the Leprosy Card  Nicole Holmes had leprosy. Now immigration demagogues loom. Editorial Observer.</p>
+        <p>OPINION PAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

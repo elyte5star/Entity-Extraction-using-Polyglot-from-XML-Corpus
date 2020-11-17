@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Politics: And The Oscar-Winning Filmmaker Goes To</title>
+    <meta content="14brfs-5" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854469"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <person class="indexing_service">Halbfinger, David M</person>
+        <person class="indexing_service">Spielberg, Steven</person>
+        <person class="indexing_service">Clinton, Hillary Rodham (Sen)</person>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <person class="indexing_service">Edwards, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John Edwards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EED8143FF937A25755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Politics: And The Oscar-Winning Filmmaker Goes To</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HALBFINGER</byline>
+      <byline class="normalized_byline">Halbfinger, David M</byline>
+      <abstract>
+        <p>Steven Spielberg throws his support behind Sen Hillary Rodham Clinton for president, after maxing out his contributions to both Sen Barack Obama and former Sen John Edwards; cites 'experience and strength' as reason (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a flirtation with Senator Barack Obama, and maxing out his contributions to both Mr. Obama and former Senator John Edwards, Steven Spielberg threw his support behind Senator Hillary Rodham Clinton for president. Mr. Spielberg cited Mrs. Clinton's ''experience and strength'' in a statement posted on her campaign Web site. ''I've taken the time to familiarize myself with the impressive field of Democratic candidates and am convinced that Hillary Clinton is the most qualified candidate to lead us from her first day in the White House,'' he said. ''Hillary is a strong leader and is respected the world over. As president, she will bring America back together, rebuild our prestige abroad and ensure our protection here at home.''</p>
+        <p>DAVID M. HALBFINGER</p>
+      </block>
+      <block class="full_text">
+        <p>After a flirtation with Senator Barack Obama, and maxing out his contributions to both Mr. Obama and former Senator John Edwards, Steven Spielberg threw his support behind Senator Hillary Rodham Clinton for president. Mr. Spielberg cited Mrs. Clinton's ''experience and strength'' in a statement posted on her campaign Web site. ''I've taken the time to familiarize myself with the impressive field of Democratic candidates and am convinced that Hillary Clinton is the most qualified candidate to lead us from her first day in the White House,'' he said. ''Hillary is a strong leader and is respected the world over. As president, she will bring America back together, rebuild our prestige abroad and ensure our protection here at home.''</p>
+        <p>DAVID M. HALBFINGER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

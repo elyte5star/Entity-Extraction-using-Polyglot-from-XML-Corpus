@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHY WE TRAVEL | VENICE</title>
+    <meta content="10why" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853448"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <location class="indexing_service">Venice (Italy)</location>
+        <location class="indexing_service">Italy</location>
+        <person class="indexing_service">James, Henry (1843-1916)</person>
+        <person class="indexing_service">Trevenzoli, Mauro</person>
+        <object.title class="indexing_service">Italian Hours (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Venice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DB1130F933A25755C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHY WE TRAVEL | VENICE</hl1>
+      </hedline>
+      <dateline>MAURO TREVENZOLI, A VENETIAN GONDOLIER, GLIDES PAST THE PIAZZA SAN MARCO AT NIGHTFALL, MAY 19, 2007.</dateline>
+      <abstract>
+        <p>Excerpt from Henry James' book Italian Hours and photo of Venetian gondolier Mauro Trevenzoli (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''May in Venice is better than April, but June is best of all. Then the days are hot, but not too hot, and the nights are more beautiful than the days. Then Venice is rosier than ever in the morning and more golden than ever as the day descends. She seems to expand and evaporate, to multiply all her reflections and iridescences. Then the life of her people and the strangeness of her constitution become a perpetual comedy, or at least a perpetual drama. Then the gondola is your sole habitation, and you spend days between sea and sky.''</p>
+        <p>Henry James, ''Italian Hours,'' 1909</p>
+      </block>
+      <block class="full_text">
+        <p>''May in Venice is better than April, but June is best of all. Then the days are hot, but not too hot, and the nights are more beautiful than the days. Then Venice is rosier than ever in the morning and more golden than ever as the day descends. She seems to expand and evaporate, to multiply all her reflections and iridescences. Then the life of her people and the strangeness of her constitution become a perpetual comedy, or at least a perpetual drama. Then the gondola is your sole habitation, and you spend days between sea and sky.''</p>
+        <p>Henry James, ''Italian Hours,'' 1909</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

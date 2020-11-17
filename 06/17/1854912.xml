@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Summer School</title>
+    <meta content="Letters.t-1-3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854912"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E5DC163FF934A25755C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Summer School</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Gak! Joe Queenan's essay ''Summer Bummer'' (June 3) defies a more eloquent response. As a high school senior who reads stacks of books for pleasure each summer, I have detested every summer reading list since fourth grade. Summer reading traditionally starts as politically correct angst and then evolves into increasingly opaque volumes of classics. Every year, the agony of struggling through this mass ultimately comes down to a single summer reading quiz in September. I empathize with any student who has to endure his or her English teacher's recitation of this article and subsequent declaration that, once and for all, it's all really for our own good and if The New York Times says so, then the system can't really be twisted and sadistic. The horror! The horror!</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Gak! Joe Queenan's essay ''Summer Bummer'' (June 3) defies a more eloquent response. As a high school senior who reads stacks of books for pleasure each summer, I have detested every summer reading list since fourth grade. Summer reading traditionally starts as politically correct angst and then evolves into increasingly opaque volumes of classics. Every year, the agony of struggling through this mass ultimately comes down to a single summer reading quiz in September. I empathize with any student who has to endure his or her English teacher's recitation of this article and subsequent declaration that, once and for all, it's all really for our own good and if The New York Times says so, then the system can't really be twisted and sadistic. The horror! The horror!</p>
+        <p>Seth Alter</p>
+        <p>North Caldwell, N.J.</p>
+        <p>To the Editor:</p>
+        <p>Joe Queenan quotes Thomas Hardy in order to mock his writing style. Yes, the quotation held up to ridicule is long. But it is clear, well-constructed and thoughtful. Queenan is too puny to deal with it? Come on, Joe. Muscle up.</p>
+        <p>Margaret A. Robinson  Swarthmore, Pa.</p>
+        <p>To the Editor:</p>
+        <p>The real question is why there are summer reading lists. Why don't teachers simply require kids to read during the summer so that their skills don't deteriorate, and let the kids choose what to read themselves? Reading for pleasure is the way to foster the love of books.</p>
+        <p>Children shouldn't be forced to read complex and profound literature intended for adults. There's no pleasure in it for most of them.</p>
+        <p>Linda Dickey  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

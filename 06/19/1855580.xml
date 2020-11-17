@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bronx: Barge Collision Victim Dies</title>
+    <meta content="19mbrfs-BARGE" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19mbrfs-BARGE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855580"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEW YORK"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Boating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Boats and Boating</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boats and Boating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDF133FF93AA25755C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bronx: Barge Collision Victim Dies</hl1>
+        <hl2 class="online_headline">Bronx: Barge Collision Victim Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Bronx woman who was injured when her boat was struck by a 324-foot barge on Long Island Sound this month has been removed from life support, according to Newsday. The woman, Leibe Ociele Medina, 47, was on a fishing trip on a 24-foot boat off Sands Point on June 10 when a collision with a barge damaged the vessel, the police said. She was taken to St. Francis Hospital in Roslyn, where she remained in a coma. A doctor told her family on Friday that she was brain-dead, her daughter, Yuli Conely, told Newsday for yesterday's edition. The Coast Guard and the Nassau County police are investigating the collision.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Bronx woman who was injured when her boat was struck by a 324-foot barge on Long Island Sound this month has been removed from life support, according to Newsday. The woman, Leibe Ociele Medina, 47, was on a fishing trip on a 24-foot boat off Sands Point on June 10 when a collision with a barge damaged the vessel, the police said. She was taken to St. Francis Hospital in Roslyn, where she remained in a coma. A doctor told her family on Friday that she was brain-dead, her daughter, Yuli Conely, told Newsday for yesterday’s edition. The Coast Guard and the Nassau County police are investigating the collision.</p>
+      </block>
+      <block class="full_text">
+        <p>A Bronx woman who was injured when her boat was struck by a 324-foot barge on Long Island Sound this month has been removed from life support, according to Newsday. The woman, Leibe Ociele Medina, 47, was on a fishing trip on a 24-foot boat off Sands Point on June 10 when a collision with a barge damaged the vessel, the police said. She was taken to St. Francis Hospital in Roslyn, where she remained in a coma. A doctor told her family on Friday that she was brain-dead, her daughter, Yuli Conely, told Newsday for yesterday's edition. The Coast Guard and the Nassau County police are investigating the collision.</p>
+        <p>NEW YORK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

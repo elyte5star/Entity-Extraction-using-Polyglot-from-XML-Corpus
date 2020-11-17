@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Revolution, as in Beatles</title>
+    <meta content="l11beatles" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853782"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E5DE173FF932A25755C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Revolution, as in Beatles</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''P.S. I Loved You,'' by Aimee Mann (Op-Ed, June 3), shares an interesting perspective on why she cannot bear listening to ''Sgt. Pepper's Lonely Hearts Club Band'' as an adult musician: She fears it's not the achievement it seemed when she was a youth, surpassed by the better melodies and lyrics of others.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''P.S. I Loved You,'' by Aimee Mann (Op-Ed, June 3), shares an interesting perspective on why she cannot bear listening to ''Sgt. Pepper's Lonely Hearts Club Band'' as an adult musician: She fears it's not the achievement it seemed when she was a youth, surpassed by the better melodies and lyrics of others.</p>
+        <p>All in all, she says, it is ''like realizing you can beat your own father at chess or arm-wrestling.'' And that's a downer. But in this case, Dad is a bit more than a chess dilettante; he's the one who tore up the rulebook and rewrote it for generations to come.</p>
+        <p>Sure, others have been able to take popular music to new heights or have achieved greater depth -- maybe Ms. Mann among them. But they are building on a foundation that the Beatles, more than anyone else, helped establish.</p>
+        <p>Perhaps Ms. Mann will write her next Op-Ed essay after she's recorded something as utterly revolutionary or influential as ''Sgt. Pepper's Lonely Hearts Club Band,'' ''Revolver'' or ''Abbey Road.''</p>
+        <p>Steven Brett  Buffalo Grove, Ill., June 3, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

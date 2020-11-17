@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Man Would Lose His Land While Another Would Benefit</title>
+    <meta content="15land" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/business/15land.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854562"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <classifier class="indexing_service" type="descriptor">Reservoirs</classifier>
+        <classifier class="indexing_service" type="descriptor">Eminent Domain</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <location class="indexing_service">Bandon (Ore)</location>
+        <org class="indexing_service">Bandon Dune Golf Resort (Ore)</org>
+        <person class="indexing_service">Keiser, Mike</person>
+        <person class="indexing_service">Cook, Scott</person>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <person class="indexing_service">Bracken, Kassie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Oregon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Bandon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eminent Domain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">Bandon (Ore)</location>
+        <person class="online_producer">Cook, Scott</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E1DE153FF936A25755C0A9619C8B63" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Man Would Lose His Land While Another Would Benefit</hl1>
+        <hl2 class="online_headline">A Man Would Lose His Land While Another Would Benefit</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON; Kassie Bracken contributed reporting.</byline>
+      <byline class="normalized_byline">Bracken, Kassie; Johnston, David Cay</byline>
+      <dateline>BANDON, Ore.</dateline>
+      <abstract>
+        <p>Many in Bandon, Ore, praise Mike Keiser because his Bandon Dune Golf Resort created 325 full-time jobs in area where work has been scarce since 1980; Keiser bought land south of town for second resort; site lacks water so Keiser signed up for adequate supply to water course from proposed municipal reservoir; Scott Cook's family owns more than 300 acres of timberland, but reservoir would make logging impossible; family refuses to sell, to town plans to use its power of eminent domain to acquire land; Cook says it is morally offensive for government to take one man's land to benefit another, adding that family expects to get much less than full value for property; says alternative sources of water are being ignored; Keiser says he sees no problem as long as family is fully compensated; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many here praise Mike Keiser because his Bandon Dunes Golf Resort created 325 full-time jobs in an area where work has been scarce since 1980. But Scott Cook says Mr. Keiser is going too far.</p>
+        <p>Mr. Keiser bought land south of town for a second resort. Because the site lacks water, he signed up for an adequate supply to water the course from a proposed municipal reservoir.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Many here praise Mike Keiser because his golf resort created 325 full-time jobs. But Scott Cook says Mr. Keiser is going too far.</p>
+      </block>
+      <block class="full_text">
+        <p>Many here praise Mike Keiser because his Bandon Dunes Golf Resort created 325 full-time jobs in an area where work has been scarce since 1980. But Scott Cook says Mr. Keiser is going too far.</p>
+        <p>Mr. Keiser bought land south of town for a second resort. Because the site lacks water, he signed up for an adequate supply to water the course from a proposed municipal reservoir.</p>
+        <p>Mr. Cook's family owns more than 300 acres of timberland, a renewable resource that would provide income indefinitely. The reservoir would make logging impossible, however.</p>
+        <p>The family refuses to sell, so the town plans to use its power of eminent domain to acquire the land.</p>
+        <p>''Its morally offensive for government to take one man's land to benefit another,'' Mr. Cook said, adding that the family expects to get much less than full value for the property.</p>
+        <p>Alternative sources of water are being ignored, he said. And a dam, he contended, would ruin the salmon runs on Johnson Creek, an issue in Oregon because the stocks of Chinook and Coho salmon have dwindled so much that last year commercial fishing was banned.</p>
+        <p>Mr. Keiser said that so long as the family ''is fully compensated'' he sees no problem.</p>
+        <p>In many ways the antagonists are alike, seeing the world through entrepreneurial eyes. They differ mostly in their choice of business and luck.</p>
+        <p>Mr. Keiser and a partner started selling greeting cards printed on recycled paper in 1971, just as the environmental movement gained popularity, eventually making a fortune.</p>
+        <p>Mr. Cook worked as a salmon fisherman, logger and log truck driver, scrambling in a variety of ways to earn enough to support his family. But after 18 years without an accident, the state took his truck license away because he has only one arm after a childhood accident.</p>
+        <p>Mr. Cook has had to rebuild his life before. The first time was after his steel fishing boat, heavy with salmon and ice, was caught in a 1981 storm whose waves pounded a bulkhead into defeat. As they jumped into the sea in survival suits, Mr. Cook told his helper: ''I'm sorry I killed you.'' Both were surprised to survive.</p>
+        <p>''We are in a scenario now where our families -- our children -- can't afford to live here anymore,'' he said.</p>
+        <p>''Our way of life is changing, and it's happening,'' he added with a trace of wistfulness in his voice, ''just in moments.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

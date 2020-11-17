@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nellie Lutcher, 94, R &amp; B Singer</title>
+    <meta content="15lutcher" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/arts/15lutcher.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854592"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Music</classifier>
+        <classifier class="indexing_service" type="names">Nellie Lutcher</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E3DD153FF936A25755C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nellie Lutcher, 94, R &amp; B Singer</hl1>
+        <hl2 class="online_headline">Nellie Lutcher, 94, R &amp; B Singer, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER KEEPNEWS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nellie Lutcher, a singer and pianist who had a string of rhythm-and-blues hits in the late 1940s and continued performing into the early 1990s, died last Friday in Los Angeles. She was 94.</p>
+        <p>Her death was confirmed by her son, Talmadge Lewis of Concord, Calif.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Lutcher had a string of rhythm-and-blues hits in the late 1940s and continued performing into the early 1990s.</p>
+      </block>
+      <block class="full_text">
+        <p>Nellie Lutcher, a singer and pianist who had a string of rhythm-and-blues hits in the late 1940s and continued performing into the early 1990s, died last Friday in Los Angeles. She was 94.</p>
+        <p>Her death was confirmed by her son, Talmadge Lewis of Concord, Calif.</p>
+        <p>Ms. Lutcher's career was a classic case of seemingly overnight success that actually took years to achieve. She had been performing in the Los Angeles area for more than a decade when a Capitol Records talent scout, Dave Dexter, heard her on a radio broadcast of a charity concert in 1947 and quickly signed her. Over the next two years she went from obscurity to stardom, with four records reaching the Billboard R &amp; B Top 10.</p>
+        <p>Her distinctively lively, lighthearted, mildly risqué approach, exemplified by her original compositions ''He's a Real Gone Guy'' and ''Hurry On Down,'' earned her an international following and a booking at the New York nightclub Café Society. But by 1952 a more rough-hewn brand of rhythm and blues was catching on, her sales were declining and Capitol released her.</p>
+        <p>She continued to record for other record companies, but with limited success. By the end of the decade she was focusing on work for the Los Angeles musicians union.</p>
+        <p>In 1973 Barney Josephson, the former proprietor of Café Society, summoned Ms. Lutcher back to New York to perform at his Greenwich Village nightclub, the Cookery. That engagement was enthusiastically received and began a comeback that lasted two decades.</p>
+        <p>Nellie Lutcher was born in Lake Charles, La., on Oct. 15, 1912. Her father was a jazz bassist, and her mother was a church organist. By the age of 11, she was accomplished enough as a pianist to be pressed into service accompanying the blues singer Ma Rainey, whose regular pianist was ill. Within a few years she was playing and singing professionally, often in a band led by her father.</p>
+        <p>Besides her son, Mr. Lewis, her survivors include a sister, Margie Lutcher Levy; and a granddaughter.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

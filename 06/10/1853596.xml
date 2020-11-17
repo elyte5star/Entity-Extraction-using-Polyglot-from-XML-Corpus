@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Winner's Trophy Gets a Redesign</title>
+    <meta content="10TROPHY" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/automobiles/10TROPHY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853596"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DD1F30F933A25755C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Winner's Trophy Gets a Redesign</hl1>
+        <hl2 class="online_headline">Winner’s Trophy Gets a Redesign</hl2>
+      </hedline>
+      <byline class="print_byline">By PHIL PATTON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AUTO racing promoters are going high-design for the trophies they present to winners, commissioning Dror Benshetrit to create a series of trophies for the Champ Car World Series, Champ Car Atlantic and Historic Grand Prix. The trendy young designer is known for the products he has done for Puma, Swarovski and the fashion house of Marithé and François Girbaud, and for shop interiors like the Yigal Azrouël boutique in the meatpacking district of Manhattan.</p>
+        <p>Often listed among the emerging generation of future design stars, about to join luminaries like Yves Béhar and Karim Rashid, Mr. Benshetrit was hired by the owners of the Vegas Grand Prix and Grand Prix Arizona races in the Champ Car Series to give some flash to the winnner's circle. The result is a high concept ring in place of the traditional loving cup trophy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Auto racing promoters are going high-design for the awards they present to winners, commissioning a trendy young designer to create a series of trophies.</p>
+      </block>
+      <block class="full_text">
+        <p>AUTO racing promoters are going high-design for the trophies they present to winners, commissioning Dror Benshetrit to create a series of trophies for the Champ Car World Series, Champ Car Atlantic and Historic Grand Prix. The trendy young designer is known for the products he has done for Puma, Swarovski and the fashion house of Marithé and François Girbaud, and for shop interiors like the Yigal Azrouël boutique in the meatpacking district of Manhattan.</p>
+        <p>Often listed among the emerging generation of future design stars, about to join luminaries like Yves Béhar and Karim Rashid, Mr. Benshetrit was hired by the owners of the Vegas Grand Prix and Grand Prix Arizona races in the Champ Car Series to give some flash to the winnner's circle. The result is a high concept ring in place of the traditional loving cup trophy.</p>
+        <p>The owners of the races, Bradley Yonover and Dale Jensen, said they wanted to convey a sense of racing as very modern and progressive with the new trophy. They have been seeking younger, hipper audiences. Mr. Benshetrit is creating 25 trophies for races, which are held in Las Vegas and Phoenix.</p>
+        <p>PHIL PATTON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

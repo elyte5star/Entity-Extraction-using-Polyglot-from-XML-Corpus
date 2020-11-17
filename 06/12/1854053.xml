@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | Connecticut: New Haven: Mayor Seeks Halt To Immigration Raids</title>
+    <meta content="12mbrfs-7" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854053"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EED9173FF931A25755C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | Connecticut: New Haven: Mayor Seeks Halt To Immigration Raids</hl1>
+      </hedline>
+      <byline class="print_byline">By ALISON LEIGH COWAN; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor John DeStefano Jr. asked the federal government yesterday to ''back off'' from any further raids on illegal immigrants until allegations that agents broke rules in conducting one such raid last Wednesday could be addressed. The mayor said yesterday that another raid was ''imminent.'' At the same time, three Connecticut lawmakers -- Senators Christopher J. Dodd and Joseph I. Lieberman and Representative Rosa L. DeLauro -- wrote to Michael Chertoff, left, the homeland security secretary, seeking answers to questions about procedures used during the raid. The lawmakers also asked whether the timing of the raid was tied to a decision by city officials to provide identification cards to all residents, including illegal immigrants.</p>
+        <p>ALISON LEIGH COWAN</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor John DeStefano Jr. asked the federal government yesterday to ''back off'' from any further raids on illegal immigrants until allegations that agents broke rules in conducting one such raid last Wednesday could be addressed. The mayor said yesterday that another raid was ''imminent.'' At the same time, three Connecticut lawmakers -- Senators Christopher J. Dodd and Joseph I. Lieberman and Representative Rosa L. DeLauro -- wrote to Michael Chertoff, left, the homeland security secretary, seeking answers to questions about procedures used during the raid. The lawmakers also asked whether the timing of the raid was tied to a decision by city officials to provide identification cards to all residents, including illegal immigrants.</p>
+        <p>ALISON LEIGH COWAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

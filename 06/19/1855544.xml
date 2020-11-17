@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Jersey Civil Union Board Hears Bias Charge</title>
+    <meta content="19civil" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19civil.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855544"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3DF133FF93AA25755C0A9619C8B63" item-length="497" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Jersey Civil Union Board Hears Bias Charge</hl1>
+        <hl2 class="online_headline">New Jersey Civil Union Board Hears Bias Charge</hl2>
+      </hedline>
+      <byline class="print_byline">By TINA KELLEY</byline>
+      <dateline>TRENTON, June 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The commission that monitors how well civil unions are working for New Jersey's same-sex couples met for the first time on Monday and heard about the first official discrimination complaint filed to the state.</p>
+        <p>In October, the State Supreme Court ordered the Legislature to create a law extending the same rights and benefits to same-sex couples as heterosexual couples. The Legislature responded by creating a separate status, civil unions,  stopping short of calling them  marriages.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The commission heard the first official discrimination complaint filed to the state.</p>
+      </block>
+      <block class="full_text">
+        <p>The commission that monitors how well civil unions are working for New Jersey's same-sex couples met for the first time on Monday and heard about the first official discrimination complaint filed to the state.</p>
+        <p>In October, the State Supreme Court ordered the Legislature to create a law extending the same rights and benefits to same-sex couples as heterosexual couples. The Legislature responded by creating a separate status, civil unions,  stopping short of calling them  marriages.</p>
+        <p>J. Frank Vespa-Papaleo, director of the New Jersey Division on Civil Rights, said that since the law took effect in February, his office had received about 360 inquiries -- but only one complaint -- from people who said they might  have been discriminated against.</p>
+        <p>Steven Goldstein, chairman of Garden State Equality, a statewide gay-rights organization, said that his group had received 148 discrimination complaints and that people who had called his office with complaints were often shocked that they would not be protected under the civil union law.</p>
+        <p>''Couples have expectations, but they find that the law is not the panacea they though it was,'' Mr. Goldstein said.</p>
+        <p>He added, ''We encourage people to get civil unions, to get what they can, but the law is deeply flawed and it's not working.''</p>
+        <p>The review commission, which was established by the legislation, must  report to the Legislature every six months.</p>
+        <p>Mr. Vespa-Papaleo, who on Monday was elected  chairman of the 11-member Civil Union Review Commission, told the commission that the state received its first formal complaint on Wednesday.</p>
+        <p>In that complaint, Robert S. Kleid, a physician's assistant from Atlantic Highlands, said that his employers, Tri-State Professional Employment Organization, based in Manhattan, and Minimed Care of Chester, N.J., had denied him the chance to apply for health benefits for his civil union partner.</p>
+        <p>In a copy of the complaint, Mr. Kleid said that Tri-State's regional accounts manager said that because the company was based in New York, New Jersey's civil union law did not apply.</p>
+        <p>In a phone interview, Mr. Kleid said he was very angry when he could not get benefits for his partner of seven years. ''This is the law now, and people have spent years on this, going to court and planning strategies, finally getting the Supreme Court to recognize it,'' he said. ''I felt I just can't walk away from this.''</p>
+        <p>Mr. Vespa-Papaleo's office will investigate the complaint to see if there is sufficient evidence of discrimination.</p>
+        <p>He noted that in similar cases, New Jersey employees were found to be eligible for family leaves allowed in the state, even if their employers were based in other states.</p>
+        <p>Tri-State did not  respond to phone messages left on Monday.</p>
+        <p>Joe A. Komosinski, the state's registrar, said that on  Friday, there had been 1,092 civil unions in the state, 671 between women and 421 between men; an additional 40 couples who had civil unions or marriages in other states had their commitments reaffirmed in New Jersey.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

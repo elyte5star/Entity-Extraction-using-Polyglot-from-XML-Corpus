@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RAIN POSTPONES NASCAR RACE</title>
+    <meta content="04sportsbriefs-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS BRIEFING: AUTO RACING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E2DD1130F937A35755C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RAIN POSTPONES NASCAR RACE</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVE CALDWELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 400-mile Nascar Nextel Cup race scheduled for yesterday afternoon at Dover International Speedway in Delaware was postponed until noon today because of heavy rain. The race is the sixth of the year using the new Car of Tomorrow. Ryan Newman will start from the pole position, and Dale Earnhardt Jr. will start second, his best starting position in 13 races this season.</p>
+        <p>Although skies over the racetrack were still leaden, rain stopped long enough for workers to attempt to dry the track so the race could start just after its scheduled time of 1:45 p.m. But it began to rain again, and the race was postponed a half-hour later.</p>
+      </block>
+      <block class="full_text">
+        <p>The 400-mile Nascar Nextel Cup race scheduled for yesterday afternoon at Dover International Speedway in Delaware was postponed until noon today because of heavy rain. The race is the sixth of the year using the new Car of Tomorrow. Ryan Newman will start from the pole position, and Dale Earnhardt Jr. will start second, his best starting position in 13 races this season.</p>
+        <p>Although skies over the racetrack were still leaden, rain stopped long enough for workers to attempt to dry the track so the race could start just after its scheduled time of 1:45 p.m. But it began to rain again, and the race was postponed a half-hour later.</p>
+        <p>It was the third time in the past four Nextel Cup races, including those at Richmond and Darlington, that a race has been pushed back one day because of poor weather. There is a 60 percent chance of showers today.</p>
+        <p>DAVE CALDWELL</p>
+        <p>SPORTS BRIEFING: AUTO RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

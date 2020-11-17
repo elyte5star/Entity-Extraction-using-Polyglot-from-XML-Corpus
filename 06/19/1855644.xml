@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Symptoms and Ovarian Cancer</title>
+    <meta content="19tue2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/opinion/19tue2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855644"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="EDITORIAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Ovaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Ovaries</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DE133FF93AA25755C0A9619C8B63" item-length="422" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Symptoms and Ovarian Cancer</hl1>
+        <hl2 class="online_headline">Symptoms and Ovarian Cancer</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes cancer organizations' endorsement of list of persistent symptoms that might indicate ovarian cancer; says real value of endorsement may be to raise awareness of deadly disease that often goes undetected until it is too late</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frustrated at the lack of a good screening test for ovarian cancer, advocacy groups have persuaded professional cancer organizations to endorse a list of persistent symptoms that might indicate the presence of the disease. The list could have a very beneficial effect in alerting patients -- and doctors who have been dismissive of complaints of generalized discomfort -- that ovarian cancer is present at an early stage when it is most treatable.</p>
+        <p>Among the flood of patients who have the all-too-common symptoms, there will be some who undergo needless surgeries to remove ovaries that turn out not to be cancerous. That is the price that may be paid for this modest step toward detecting a cancer that typically kills most women who have it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new statement could have a very beneficial effect in alerting patients and doctors that ovarian cancer is present at an early stage when it is most treatable.</p>
+      </block>
+      <block class="full_text">
+        <p>Frustrated at the lack of a good screening test for ovarian cancer, advocacy groups have persuaded professional cancer organizations to endorse a list of persistent symptoms that might indicate the presence of the disease. The list could have a very beneficial effect in alerting patients -- and doctors who have been dismissive of complaints of generalized discomfort -- that ovarian cancer is present at an early stage when it is most treatable.</p>
+        <p>Among the flood of patients who have the all-too-common symptoms, there will be some who undergo needless surgeries to remove ovaries that turn out not to be cancerous. That is the price that may be paid for this modest step toward detecting a cancer that typically kills most women who have it.</p>
+        <p>The need for early detection is clear. Ovarian cancer can be successfully treated when it remains in the ovary; the five-year survival rate for localized treatment is 93 percent. But the vast majority are not detected until the cancer has spread to distant sites, at which point the five-year survival rate drops to 30 percent. Unfortunately, all efforts to develop a screening test for early detection, analogous to mammography for breast cancer or a pap smear for cervical cancer, have thus far failed. The two most common -- a blood test for a potential tumor marker and a transvaginal ultrasound to detect abnormal growths -- are notoriously inaccurate.</p>
+        <p>What the new statement does instead is list symptoms that are much more likely to occur in women with ovarian cancer: bloating, pelvic or abdominal pain, difficulty eating or feeling full quickly and urgent or frequent urination. Women who have these symptoms almost daily for more than a few weeks are advised to see their doctor.</p>
+        <p>Still there is a real quandary as to what should be done for women whose symptoms can't be attributed to other causes. The hope is that a combination of a pelvic and rectal exam, a blood marker test and transvaginal ultrasound -- none of which is determinative in itself -- might yield useful information. In the end, many women may opt for surgery to remove the ovary, just to be sure.</p>
+        <p>The real value of the statement may be to raise awareness. There are simply too many horror stories of doctors dismissing the complaints of patients as being ''all in their heads'' or as a sign of aging only to find out belatedly that an ovary was cancerous. The new statement puts them and their patients on alert that closer attention must be paid.</p>
+        <p>EDITORIAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

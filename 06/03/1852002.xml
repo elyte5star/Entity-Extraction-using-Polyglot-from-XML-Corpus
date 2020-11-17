@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After Injuring Her Groin, Fifth-Seeded Mauresmo Loses</title>
+    <meta content="03mauresmo" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/sports/tennis/03mauresmo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852002"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="descriptor">French Open (Tennis)</classifier>
+        <classifier class="online_producer" type="descriptor">Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">French Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+        <person class="online_producer">Mauresmo, Amelie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DA1030F930A35755C0A9619C8B63" item-length="257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After Injuring Her Groin, Fifth-Seeded Mauresmo Loses</hl1>
+        <hl2 class="online_headline">After Injuring Her Groin, Fifth-Seeded Mauresmo Loses</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIET MACUR</byline>
+      <dateline>PARIS, June 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>During the first set of her third-round match Saturday, Amélie Mauresmo felt a twinge in her right groin, and right then, her chances at winning the French Open vanished.</p>
+        <p>Even after a doctor wrapped her leg, the fifth-seeded Mauresmo said the injury continued to bother her, causing her to lose to Lucie Safarova, 6-3, 7-6 (3).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The fifth-seeded Amélie Mauresmo lost to Lucie Safarova, 6-3, 7-6 (3), in the third round at the French Open.</p>
+      </block>
+      <block class="full_text">
+        <p>During the first set of her third-round match Saturday, Amélie Mauresmo felt a twinge in her right groin, and right then, her chances at winning the French Open vanished.</p>
+        <p>Even after a doctor wrapped her leg, the fifth-seeded Mauresmo said the injury continued to bother her, causing her to lose to Lucie Safarova, 6-3, 7-6 (3).</p>
+        <p>''There's no miracle today,'' she said. ''I've been struggling for weeks now, and as I said coming here at the French Open, I didn't really know what to expect.''</p>
+        <p>Safarova, seeded 25th, also defeated Mauresmo at the Australian Open this year in the fourth round, preventing Mauresmo from repeating as the champion at that Grand Slam event.</p>
+        <p>Mauresmo won the Australian Open and Wimbledon last year, in her best season as a professional. Those victories took the pressure off her coming into the French Open, she said.</p>
+        <p>The furthest she has advanced at Roland Garros has been the quarterfinals, twice.</p>
+        <p>As the highest-seeded Frenchwoman, Mauresmo was the fan favorite here, with the crowd chanting her name Saturday even as she exited the court.</p>
+        <p>But for Mauresmo, winning her first French Open was a long shot. She had her appendix removed in March, so her preparation for this tournament had not been as smooth as planned. Safarova took advantage of that.</p>
+        <p>''It was very tough,'' Safarova said. ''I was very nervous at the beginning because I know that the crowd is for her.</p>
+        <p>''I tried to come for each point, to play aggressive. I think that's why I won.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

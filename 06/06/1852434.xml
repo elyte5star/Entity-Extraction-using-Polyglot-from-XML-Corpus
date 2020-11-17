@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MAILMAN, VIRGINIA S.</title>
+    <meta content="dn060607" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852434"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MAILMAN, VIRGINIA S.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E6DC143AF935A35755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MAILMAN, VIRGINIA S.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAILMAN--Virginia S. PEN American Center is enormously saddened by the loss of esteemed trustee and generous friend, Virginia S. Mailman. Virginia joined the Board in 2003, serving on the Board Executive Committee and as Co-Chair of the annual PEN Literary Gala benefit. Coming to New York as a young woman, she had worked as a reporter at Life Magazine and never lost her enthusiasm about words on the page and the role of language in helping a democratic society frame its ideas about itself and the world. Virginia's elegance, style, and imagination were vividly apparent at her annual PEN Authors' Evenings parties, where guests had the pleasure of meeting distinguished authors in her lovely home. In recognition of her services to letters, PEN made Virginia a full member in 2007.</p>
+      </block>
+      <block class="full_text">
+        <p>MAILMAN--Virginia S. PEN American Center is enormously saddened by the loss of esteemed trustee and generous friend, Virginia S. Mailman. Virginia joined the Board in 2003, serving on the Board Executive Committee and as Co-Chair of the annual PEN Literary Gala benefit. Coming to New York as a young woman, she had worked as a reporter at Life Magazine and never lost her enthusiasm about words on the page and the role of language in helping a democratic society frame its ideas about itself and the world. Virginia's elegance, style, and imagination were vividly apparent at her annual PEN Authors' Evenings parties, where guests had the pleasure of meeting distinguished authors in her lovely home. In recognition of her services to letters, PEN made Virginia a full member in 2007.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

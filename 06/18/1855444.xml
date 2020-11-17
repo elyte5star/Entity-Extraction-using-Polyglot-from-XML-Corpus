@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wind Helps Push Bonds Closer to Mark</title>
+    <meta content="18homer" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/sports/baseball/18homer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855444"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/San Francisco Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Boston Red Sox</org>
+        <org class="online_producer">San Francisco Giants</org>
+        <person class="online_producer">Aaron, Hank</person>
+        <person class="online_producer">Bonds, Barry</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E7DB123FF93BA25755C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wind Helps Push Bonds Closer to Mark</hl1>
+        <hl2 class="online_headline">Wind Helps Push Bonds Closer to Mark</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE LAPOINTE</byline>
+      <dateline>BOSTON, June 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On Friday night, on his first visit to Fenway Park, Barry Bonds hit a long fly ball that looked like a home run as it passed high above the foul pole in right field. But it was ruled foul.</p>
+        <p>On Sunday, in his third game against the Red Sox, Bonds hit a ball in the air that at first seemed harmless.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Barry Bonds hit the 748th home run of his career on Sunday. He now trails Hank Aaron by seven in the chase for the major league record.</p>
+      </block>
+      <block class="full_text">
+        <p>On Friday night, on his first visit to Fenway Park, Barry Bonds hit a long fly ball that looked like a home run as it passed high above the foul pole in right field. But it was ruled foul.</p>
+        <p>On Sunday, in his third game against the Red Sox, Bonds hit a ball in the air that at first seemed harmless.</p>
+        <p>''When it left the bat, I thought it was a pop-up,'' said Tim Wakefield, the Boston pitcher who threw the knuckleball on a 1-0 count.</p>
+        <p>But the ball got caught in a stiff breeze blowing from the left-field corner and sailed over the right-field wall into the San Francisco Giants' bullpen for a home run.</p>
+        <p>It was the 748th home run of Bonds's career, and he now trails Hank Aaron by seven in the chase for the major league record.</p>
+        <p>The home run was greeted with a mixture of cheers and boos in a game that ended as a 9-5 Red Sox victory.</p>
+        <p>When Bonds hit the home run, he was leading off the sixth inning with the Giants trailing, 8-3.</p>
+        <p>His previous home run was last Monday night.</p>
+        <p>J. D. Drew, the Boston right fielder, said he did not expect the ball to carry out of the park.</p>
+        <p>''I didn't move at first,'' Drew said. ''The way the wind blew, I was under it about 10 different times.''</p>
+        <p>Bonds has hit home runs in 36 major league ballparks.</p>
+        <p>Wakefield was the 441st pitcher to give up a home run to Bonds, who has 14 this season.</p>
+        <p>David Ortiz, one of the Red Sox players whom Bonds spoke with regularly on this visit, said he did not think Bonds was feeling pressure, although he is often taunted by fans on the road because of suspicions that he used steroids to increase his power.</p>
+        <p>''When I talk to him, it seems like he's having fun,'' Ortiz said, adding that the home run by Bonds was ''very nice.''</p>
+        <p>''It's going to be part of history,'' Ortiz said. ''It's cool.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

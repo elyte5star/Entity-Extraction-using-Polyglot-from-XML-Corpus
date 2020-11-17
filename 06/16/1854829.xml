@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="16qod" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854829"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFD7153FF935A25755C0A9619C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''It has become increasingly apparent, during the course of this week, in some ways that it might not have been before, that my presence as the district attorney in Durham is not furthering the cause of justice.''</p>
+        <p>MICHAEL B. NIFONG, district attorney of Durham County, N.C., announcing that he will resign over his handling of sexual assault accusations against three former Duke University lacrosse players. [A1]</p>
+      </block>
+      <block class="full_text">
+        <p>''It has become increasingly apparent, during the course of this week, in some ways that it might not have been before, that my presence as the district attorney in Durham is not furthering the cause of justice.''</p>
+        <p>MICHAEL B. NIFONG, district attorney of Durham County, N.C., announcing that he will resign over his handling of sexual assault accusations against three former Duke University lacrosse players. [A1]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMINGS &amp; GOINGS</title>
+    <meta content="03comings" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851650"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EFDF1730F930A35755C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMINGS &amp; GOINGS</hl1>
+      </hedline>
+      <byline class="print_byline">By HILARY HOWARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JetBlue and Expedia.com have announced a deal in which the online travel agency will list JetBlue flights for the next five years. Last August, JetBlue, known for its independence within the travel industry, began selling flights through Sabre Holdings, which owns Travelocity.com, another online travel agency that has been offering JetBlue flights on a testing basis since last September.  Travelers spending the night near Chicago's O'Hare airport can now do it in style. The Hyatt Regency O'Hare has undergone a $60 million renovation, which includes a new restaurant, a private lounge with leather walls, a 24-hour gym and a business center. Nightly rates start at $219 (www.ohare.hyatt.com).  The Courtauld Institute of Art Gallery in London (www.courtauld.ac.uk) will play host to England's first exhibition devoted exclusively to the works of the German Renaissance painter, Lucas Cranach the Elder (1472-1553). The highlight of the exhibition, from June 21 through Sept. 23, will be Cranach's ''Adam and Eve'' (1526), above. Gallery admission is 5 euros; free for those under 18 and students and for all on Mondays from 10 a.m. to 2 p.m.  Blue Man Group, the extremely popular multimedia theatrical experience, will begin performances at Universal Orlando Resort's Sharp Aquos Theater this Wednesday. The theater, which features a hard-to-miss 30-foot-tall Blue Man facade, is accessible from both the Universal CityWalk and the Universal Studios theme park. Tickets start at $59, and $49 for ages 3 to 9 (www.universalorlando.com).</p>
+        <p>HILARY HOWARD</p>
+      </block>
+      <block class="full_text">
+        <p>JetBlue and Expedia.com have announced a deal in which the online travel agency will list JetBlue flights for the next five years. Last August, JetBlue, known for its independence within the travel industry, began selling flights through Sabre Holdings, which owns Travelocity.com, another online travel agency that has been offering JetBlue flights on a testing basis since last September.  Travelers spending the night near Chicago's O'Hare airport can now do it in style. The Hyatt Regency O'Hare has undergone a $60 million renovation, which includes a new restaurant, a private lounge with leather walls, a 24-hour gym and a business center. Nightly rates start at $219 (www.ohare.hyatt.com).  The Courtauld Institute of Art Gallery in London (www.courtauld.ac.uk) will play host to England's first exhibition devoted exclusively to the works of the German Renaissance painter, Lucas Cranach the Elder (1472-1553). The highlight of the exhibition, from June 21 through Sept. 23, will be Cranach's ''Adam and Eve'' (1526), above. Gallery admission is 5 euros; free for those under 18 and students and for all on Mondays from 10 a.m. to 2 p.m.  Blue Man Group, the extremely popular multimedia theatrical experience, will begin performances at Universal Orlando Resort's Sharp Aquos Theater this Wednesday. The theater, which features a hard-to-miss 30-foot-tall Blue Man facade, is accessible from both the Universal CityWalk and the Universal Studios theme park. Tickets start at $59, and $49 for ages 3 to 9 (www.universalorlando.com).</p>
+        <p>HILARY HOWARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

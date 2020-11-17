@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Away From the Set but Not Away From HDTV</title>
+    <meta content="07hdtv" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/technology/07hdtv.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852722"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3D81E30F934A35755C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Away From the Set but Not Away From HDTV</hl1>
+        <hl2 class="online_headline">Away From the Set but Not Away From HDTV</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN C. MILLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's summertime, and catching your favorite TV shows is not so easy when you are on vacation or a weekend outing. A cheap, portable TV is one option, but what if you've developed a taste for high definition? Plextor has come out with its Mini Digital HDTV Receiver, which connects to a laptop's U.S.B. port. The receiver, which sells for $99 and is available at www.plextor.com, has an external antenna and software that scans for over-the-air HD signals.</p>
+        <p>Plextor's receiver works only with computers running Windows XP or Vista. The more computing horsepower you have -- both memory and graphics -- the better your viewing experience. Underpowered systems can produce a picture that occasionally stutters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Plextor has come out with its Mini Digital HDTV Receiver, which connects to a laptop’s U.S.B. port.</p>
+      </block>
+      <block class="full_text">
+        <p>It's summertime, and catching your favorite TV shows is not so easy when you are on vacation or a weekend outing. A cheap, portable TV is one option, but what if you've developed a taste for high definition? Plextor has come out with its Mini Digital HDTV Receiver, which connects to a laptop's U.S.B. port. The receiver, which sells for $99 and is available at www.plextor.com, has an external antenna and software that scans for over-the-air HD signals.</p>
+        <p>Plextor's receiver works only with computers running Windows XP or Vista. The more computing horsepower you have -- both memory and graphics -- the better your viewing experience. Underpowered systems can produce a picture that occasionally stutters.</p>
+        <p>The software, called ArtecMedia from Ultima, allows you to switch channels and record and play back shows. You can also set a schedule of shows to record. Of course, the PC and the software must be running to time-shift shows this way. The receiver draws its power from the laptop, so you may want to plug in before you veg out.</p>
+        <p>STEPHEN C. MILLER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

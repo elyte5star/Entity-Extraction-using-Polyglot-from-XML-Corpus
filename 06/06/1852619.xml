@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Hotelier Buys 1951 House</title>
+    <meta content="06mbrfs-4" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852619"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1DC1E30F935A35755C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Hotelier Buys 1951 House</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The hotelier André Balazs bought Maison Tropicale, a small 1951 aluminum-paneled house by the French designer Jean Prouvé, for $4.97 million yesterday, Christie's auction house said. Christie's had estimated that the house would go for $4 million to $6 million. (The final price includes Christie's commission: 20 percent of the first $500,000 and 12 percent of the rest.) The house had been on view since mid-May in Long Island City. Prouvé designed it as a prototype for prefabricated homes for French colonial officials stationed in Africa. The seller, Eric Touchaleaume, a French antiques dealer, has said he plans to use the proceeds to finance a Prouvé museum that will travel in another Maison Tropicale.</p>
+      </block>
+      <block class="full_text">
+        <p>The hotelier André Balazs bought Maison Tropicale, a small 1951 aluminum-paneled house by the French designer Jean Prouvé, for $4.97 million yesterday, Christie's auction house said. Christie's had estimated that the house would go for $4 million to $6 million. (The final price includes Christie's commission: 20 percent of the first $500,000 and 12 percent of the rest.) The house had been on view since mid-May in Long Island City. Prouvé designed it as a prototype for prefabricated homes for French colonial officials stationed in Africa. The seller, Eric Touchaleaume, a French antiques dealer, has said he plans to use the proceeds to finance a Prouvé museum that will travel in another Maison Tropicale.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

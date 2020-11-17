@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Air Service to the Middle East Is Expanding</title>
+    <meta content="10transflights" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853434"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <location class="indexing_service">Middle East</location>
+        <person class="indexing_service">Howard, Hilary</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EEDC1130F933A25755C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Air Service to the Middle East Is Expanding</hl1>
+      </hedline>
+      <byline class="print_byline">By HILARY HOWARD</byline>
+      <byline class="normalized_byline">Howard, Hilary</byline>
+      <abstract>
+        <p>Several airlines, in response to increased demand, are adding new routes and destinations in Middle East to their schedules; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In response to the increased demand for travel to Middle Eastern cities like Doha, Qatar; Tel Aviv; and Kuwait City, several airlines are adding new routes and destinations to their schedules.</p>
+        <p>Qatar Airways (www.qatarairways.com) recently announced it would fly four times a week from Doha International Airport to Newark Liberty International Airport, via Geneva (another new destination for the airline), beginning June 26. And starting July 19, Qatar will provide daily flights from Doha to Dulles International Airport near Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>In response to the increased demand for travel to Middle Eastern cities like Doha, Qatar; Tel Aviv; and Kuwait City, several airlines are adding new routes and destinations to their schedules.</p>
+        <p>Qatar Airways (www.qatarairways.com) recently announced it would fly four times a week from Doha International Airport to Newark Liberty International Airport, via Geneva (another new destination for the airline), beginning June 26. And starting July 19, Qatar will provide daily flights from Doha to Dulles International Airport near Washington.</p>
+        <p>Delta Air Lines (www.delta.com), which offers nonstop daily flights between Atlanta and Tel Aviv, recently announced that it would offer daily flights from Kennedy International Airport in New York to Tel Aviv starting next March. In addition, Delta is offering flights from Dubai to Atlanta five times a week.</p>
+        <p>''The Middle East region offers unique opportunities for Delta to provide customers with service to markets that are strong in business, leisure and ethnic travel,'' said Anthony Black, a Delta spokesman, explaining the company's decision to extend its service in the region.</p>
+        <p>United (www.united.com) is taking care of travel to Kuwait, the small country tucked between Iraq and Saudi Arabia. It has been offering daily nonstop flights between Washington and Kuwait since last fall.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

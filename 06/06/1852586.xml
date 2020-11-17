@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="06roun-2" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/theater/reviews/06words.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852586"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Theater Review | 'I.E., in Other Words'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Zinoman, Jason</person>
+        <person class="indexing_service">Greenfield, Mark</person>
+        <person class="indexing_service">Bergman, Teddy</person>
+        <object.title class="indexing_service">I.E., in Other Words (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <object.title class="online_producer">I.E., in Other Words (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DC1E30F935A35755C0A9619C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+        <hl2 class="online_headline">Irony and Other Theatrical Hazards</hl2>
+      </hedline>
+      <byline class="print_byline">By JASON ZINOMAN</byline>
+      <byline class="normalized_byline">Zinoman, Jason</byline>
+      <abstract>
+        <p>Jason Zinoman reviews Mark Greenfield play I.E., in Other Words, starring Teddy Bergman (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.E., in Other Words  Flea Theater  41 White Street, TriBeCa  (212) 352-3101  Through June 16</p>
+        <p>If this review was written in the style of ''I.E., in Other Words,'' the tedious new satire by the Bats, the resident acting company of the Flea Theater, it might begin something like this: insert snappy introduction putting play in context, followed by short plot description with some dismissive adjectives.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Urinetown” and “Gutenberg! The Musical!” have set the bar pretty high for the ironic musical, and this disposable show doesn’t even approach it.</p>
+      </block>
+      <block class="full_text">
+        <p>I.E., in Other Words  Flea Theater  41 White Street, TriBeCa  (212) 352-3101  Through June 16</p>
+        <p>If this review was written in the style of ''I.E., in Other Words,'' the tedious new satire by the Bats, the resident acting company of the Flea Theater, it might begin something like this: insert snappy introduction putting play in context, followed by short plot description with some dismissive adjectives.</p>
+        <p>Mark Greenfield's script is like a manual for anyone trying to write a cliché musical. In self-aware prose, it tries hard to draw attention to the formula of whatever it is that is being sent up, which includes just about everything from cheesy romances to Horatio Alger narratives. His intentionally stock characters say things like ''insert catchphrase here'' or ''something incidental with seeming allusions.'' Told by a game cast of 14, the plot follows a country bumpkin, Sam (Teddy Bergman), from the country lanes of Localtownsville to the hipster cafes and mean streets of Citycity. Between falling in love with an innocent girl back home and a not-so-innocent waitress from the city, our hero sings a few comic songs -- also written by Mr. Greenfield. The director, Kip Fagan, keeps the show moving briskly, and at times it's hard to tell exactly what ''I.E.'' is making fun of. At one point Sam is thrown in jail, which leads to a hip-hop beat. ''More slang and more curses/And acting like I'm down with it,'' he raps. ''Jive-talking and acting hard as steel/It's an obligatory rap.'' Are there really obligatory rap songs in musicals?</p>
+        <p>The humor of this show is of the anything-goes variety: pies in the face, erectile dysfunction gags, racial stereotypes, jokes so bad they are supposed to be funny because they're so bad. It is the kind of thing you might see at a mediocre sketch-comedy show. The difference is that Mr. Greenfield is constantly deconstructing theater conventions. But that can get tiresome. ''Urinetown'' and ''Gutenberg! The Musical!'' have set the bar pretty high for this type of ironic musical, and this disposable show doesn't even approach it. Insert clever put-down here.</p>
+        <p>JASON ZINOMAN</p>
+        <p>Theater Review | 'I.E., in Other Words'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thinking Beyond Asphalt</title>
+    <meta content="CT-Trains" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/nyregionopinions/CT-Trains.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855035"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Meadowlands Sports Complex (East Rutherford, NJ)</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">New York Giants</org>
+        <org class="indexing_service">New York Jets</org>
+        <org class="indexing_service">Amtrak (National Railroad Passenger Corp)</org>
+        <org class="indexing_service">Metro-North Commuter Railroad</org>
+        <org class="indexing_service">New Jersey Transit</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <location class="online_producer">Connecticut</location>
+        <org class="online_producer">Department of Transportation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE2D7143FF934A25755C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thinking Beyond Asphalt</hl1>
+        <hl2 class="online_headline">Thinking Beyond Asphalt</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports plan by Connecticut Department of Transportation to extend regional train service to Jets and Giants home games at Meadowlands</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The announcement that the state Department of Transportation plans to extend regional train service to sporting events is a good sign that the department is no longer trying to pave over the entire state but is shifting its focus to mass transit. This is welcome news in a state whose neglect of mass transit has led to more air pollution and congested highways.</p>
+        <p>Under the plan, several trains would take football fans to Secaucus, N.J., to attend Giants or Jets games at the nearby Meadowlands, beginning during the 2009 season. The department previously announced a joint effort with the Metropolitan Transportation Authority to set up train service to Yankees games at the team's new ballpark starting the same year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The announcement that the state Department of Transportation plans to extend regional train service to sporting events is a good sign that the department is shifting its focus to mass transit.</p>
+      </block>
+      <block class="full_text">
+        <p>The announcement that the state Department of Transportation plans to extend regional train service to sporting events is a good sign that the department is no longer trying to pave over the entire state but is shifting its focus to mass transit. This is welcome news in a state whose neglect of mass transit has led to more air pollution and congested highways.</p>
+        <p>Under the plan, several trains would take football fans to Secaucus, N.J., to attend Giants or Jets games at the nearby Meadowlands, beginning during the 2009 season. The department previously announced a joint effort with the Metropolitan Transportation Authority to set up train service to Yankees games at the team's new ballpark starting the same year.</p>
+        <p>The football service would not be a direct shot. Riders would travel from Connecticut to New Rochelle, N.Y., then board a train following an Amtrak route into Penn Station, from which they would be transported to Secaucus, where they could pick up a shuttle train to the stadium. But because of construction at the stadium in 2009, only season ticket holders will be able to park there anyway, which means that Connecticut riders will not be the only fans asked to negotiate a more complicated route.</p>
+        <p>The pilot program is worth a try, and the significance of these proposals goes beyond sports. It shows a change in mentality. Expanding train service is a lot easier than expanding highways, after all.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

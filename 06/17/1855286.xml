@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Son, Too, Lost to Drugs</title>
+    <meta content="l17jersey-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855286"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <person class="indexing_service">Wolf, Virginia A</person>
+        <person class="indexing_service">Winerip, Michael</person>
+        <person class="indexing_service">Katz, Ginger</person>
+        <person class="indexing_service">Katz, Ian</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0DE123FF934A25755C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Son, Too, Lost to Drugs</hl1>
+      </hedline>
+      <abstract>
+        <p>Virginia A Wolf letter on Michael Winerip's June 10 Parenting column on mother losing her son to drug overdose</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''For the Children, a Mother Revisits Her Sorrow,'' by Michael Winerip (Parenting, June 10):</p>
+        <p>I just read the article about Ian Katz, and as I read it I inserted my name, Virginia, and my son's name, Peter.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''For the Children, a Mother Revisits Her Sorrow,'' by Michael Winerip (Parenting, June 10):</p>
+        <p>I just read the article about Ian Katz, and as I read it I inserted my name, Virginia, and my son's name, Peter.</p>
+        <p>Our stories are so similar it took my breath away for a moment. Except for the fact that Peter never made it to college, he was the same kind of boy.</p>
+        <p>It has been many years now, 22 to be exact, and yes, we visit his grave on his birthday, on the anniversary of his death, at Thanksgiving and Christmas, and each time we do it seems like only a short time ago that he died.</p>
+        <p>My heart goes out to Ms. Katz. I know, I know.</p>
+        <p>Virginia A. Wolf  Willingboro</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

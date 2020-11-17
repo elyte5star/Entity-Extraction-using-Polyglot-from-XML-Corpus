@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ashley True, Aaron Lang</title>
+    <meta content="03true" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03true.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851859"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">True, Ashley Elizabeth (Ashley Elizabeth Lang)</person>
+        <person class="indexing_service">Lang, Aaron Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7DE1230F930A35755C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ashley True, Aaron Lang</hl1>
+        <hl2 class="online_headline">Ashley True, Aaron Lang</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ashley Elizabeth True, the daughter of Thea True and T. Craig True of Amelia Island Fla., is to be married today to Aaron Charles Lang, the son of Dr. Enid A. Lang and Norton D. Lang of Scarsdale, N.Y. The Rev. Cathy Barksdale, a United Methodist minister, officiated at the Ribault Club on Fort George Island in Jacksonville, Fla.</p>
+        <p>The couple, both 25, are associates at New York law firms, she at Thacher Proffitt &amp; Wood, and he at Dewey Ballantine. The bride, who graduated from Wake Forest University, and the bridegroom, a graduate of Harvard, met at Duke University, from which they received their law degrees.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ashley Elizabeth True, the daughter of Thea True and T. Craig True of Amelia Island Fla., is to be married today to Aaron Charles Lang, the son of Dr. Enid A. Lang and Norton D. Lang of Scarsdale, N.Y. The Rev. Cathy Barksdale, a United Methodist minister, officiated at the Ribault Club on Fort George Island in Jacksonville, Fla.</p>
+      </block>
+      <block class="full_text">
+        <p>Ashley Elizabeth True, the daughter of Thea True and T. Craig True of Amelia Island Fla., is to be married today to Aaron Charles Lang, the son of Dr. Enid A. Lang and Norton D. Lang of Scarsdale, N.Y. The Rev. Cathy Barksdale, a United Methodist minister, officiated at the Ribault Club on Fort George Island in Jacksonville, Fla.</p>
+        <p>The couple, both 25, are associates at New York law firms, she at Thacher Proffitt &amp; Wood, and he at Dewey Ballantine. The bride, who graduated from Wake Forest University, and the bridegroom, a graduate of Harvard, met at Duke University, from which they received their law degrees.</p>
+        <p>The bride's father is a partner in the McLean, Va., office of PricewaterhouseCoopers, the accounting and consulting firm.</p>
+        <p>The bridegroom's mother is retired. She had a private psychiatric practice, and was an assistant clinical professor of psychiatry at the Mount Sinai School of Medicine in New York. His father, a physicist, is on the research staff at I.B.M. in Yorktown Heights, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

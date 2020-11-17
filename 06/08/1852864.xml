@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Listings: June 8 - June 14; 'ROBIN RHODE'</title>
+    <meta content="08bart" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852864"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DE1F30F93BA35755C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Listings: June 8 - June 14; 'ROBIN RHODE'</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN GENOCCHIO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Perry Rubenstein Gallery is serving a cocktail of knockout works by Robin Rhode, a South African-born, Berlin-based artist known for his brilliantly inventive, performance-related artwork. Spread over all three of the gallery's Chelsea spaces, the works take their inspiration from hip-hop music, sports, film and fashion. Standouts include ''Table of Contents'' (2006), a stylish, pyramid-shaped sculptural installation of 36 photographs of the artist playing a game of shadow table tennis with himself on a table spray-painted on a wall. Mr. Rhode paints a representation of a light-colored ball in motion, positioning himself holding a paddle for the next shot. The photographs trace the game's progression. It is fun, devilishly clever and simple, reaffirming his leadership among the latest generation of performance-based artists. He uses the same low-tech, stop-frame animation formula to an equally satisfying effect for ''Juggla'' (2007), above, a display of photographs of himself in a top hat and cape, juggling imaginary balls painted on a wall. Nearby is his first short film, ''Candle'' (2007), a blurry dream adventure in which he lights and somehow controls a live candle flame. It is austerely beautiful, like most everything else in these lovely shows. (Through June 23, Perry Rubenstein Gallery, 527 West 23rd Street, 526 West 24th Street, 534 West 24th Street, Chelsea, (212) 627-8000, perryrubenstein.com.)</p>
+        <p>BENJAMIN GENOCCHIO</p>
+      </block>
+      <block class="full_text">
+        <p>Perry Rubenstein Gallery is serving a cocktail of knockout works by Robin Rhode, a South African-born, Berlin-based artist known for his brilliantly inventive, performance-related artwork. Spread over all three of the gallery's Chelsea spaces, the works take their inspiration from hip-hop music, sports, film and fashion. Standouts include ''Table of Contents'' (2006), a stylish, pyramid-shaped sculptural installation of 36 photographs of the artist playing a game of shadow table tennis with himself on a table spray-painted on a wall. Mr. Rhode paints a representation of a light-colored ball in motion, positioning himself holding a paddle for the next shot. The photographs trace the game's progression. It is fun, devilishly clever and simple, reaffirming his leadership among the latest generation of performance-based artists. He uses the same low-tech, stop-frame animation formula to an equally satisfying effect for ''Juggla'' (2007), above, a display of photographs of himself in a top hat and cape, juggling imaginary balls painted on a wall. Nearby is his first short film, ''Candle'' (2007), a blurry dream adventure in which he lights and somehow controls a live candle flame. It is austerely beautiful, like most everything else in these lovely shows. (Through June 23, Perry Rubenstein Gallery, 527 West 23rd Street, 526 West 24th Street, 534 West 24th Street, Chelsea, (212) 627-8000, perryrubenstein.com.)</p>
+        <p>BENJAMIN GENOCCHIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

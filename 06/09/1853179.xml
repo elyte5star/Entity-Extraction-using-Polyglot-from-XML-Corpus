@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arguing Case, Murder Suspect Is Convicted</title>
+    <meta content="09guilty" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/nyregion/09guilty.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070614T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1853179"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <location class="online_producer">Brighton Beach (NYC)</location>
+        <person class="online_producer">Zalevsky, Gregory</person>
+        <person class="online_producer">Ilyina, Irina</person>
+        <person class="online_producer">Orak, Igor</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDD163FF93AA35755C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arguing Case, Murder Suspect Is Convicted</hl1>
+        <hl2 class="online_headline">Arguing Case, Murder Suspect Is Convicted</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL BRICK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite a spirited summation replete with equal parts cogent argument and classic conspiracy theory, punctuated by deep sighs, vivid similes and repeated admonishments to remain alert even as the dinner hour drew near, a Brooklyn man who served as his own defense lawyer was convicted yesterday of murder.</p>
+        <p>The jury deliberated for about two and a half hours, or roughly a minute for each minute of his closing argument on Thursday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gregory Zalevsky, 57, faces up to 25 years to life in prison for the murder of a woman who he claimed was killed by her husband.</p>
+      </block>
+      <block class="full_text">
+        <p>Despite a spirited summation replete with equal parts cogent argument and classic conspiracy theory, punctuated by deep sighs, vivid similes and repeated admonishments to remain alert even as the dinner hour drew near, a Brooklyn man who served as his own defense lawyer was convicted yesterday of murder.</p>
+        <p>The jury deliberated for about two and a half hours, or roughly a minute for each minute of his closing argument on Thursday.</p>
+        <p>The convicted man, Gregory Zalevsky, 57, faces up to 25 years to life in prison. Justice Matthew J. D'Emic of State Supreme Court in Brooklyn scheduled his sentencing for June 18.</p>
+        <p>The murder victim, Irina Ilyina, 34, a mother of two young girls, was found smothered and strangled in Mr. Zalevsky's Brighton Beach apartment in July 2004. Ms. Ilyina was seeking a divorce from her husband, Igor Orak, 36, a real estate lawyer from New Jersey.</p>
+        <p>At his trial, Mr. Zalevsky said he had slept with Ms. Ilyina, but depicted himself as the pawn in a broad conspiracy involving Mr. Orak and unnamed others. The prosecutor, Jonathan S. Kaye, presented a videotaped confession, DNA evidence and testimony from Mr. Orak, who described tracking down Mr. Zalevsky during a search for his missing wife.</p>
+        <p>In his closing argument, Mr. Zalevsky called the evidence circumstantial, argued that his statement to the police had been coerced, and until Justice D'Emic stopped him, sought to recount recent science articles in an attempt to refute the credibility of DNA evidence.</p>
+        <p>''Please don't forget everything I've said in this room today,'' Mr. Zalevsky concluded on Thursday, adding, ''And please don't let prosecution brainwash and hypnotize you with all their psychological tricks.''</p>
+        <p>The jury rejected those arguments, finding him guilty of assault and weapons possession, as well as the murder count.</p>
+        <p>Correction:  June 14, 2007, Thursday  An article on Saturday about the conviction of a Brooklyn man, Gregory Zalevsky, for the 2004 murder of his girlfriend, Irina Ilyina, misstated their ages. He is 52, not 57, and she was 31 at the time of her death, not 34. (Both errors appeared in an article about his trial on June 2, and the incorrect age for Ms. Ilyina first appeared in an article about Mr. Zalevsky's arrest on July 8, 2004.)</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 14, 2007, Thursday</p>
+        <p>An article on Saturday about the conviction of a Brooklyn man, Gregory Zalevsky, for the 2004 murder of his girlfriend, Irina Ilyina, misstated their ages. He is 52, not 57, and she was 31 at the time of her death, not 34. (Both errors appeared in an article about his trial on June 2, and the incorrect age for Ms. Ilyina first appeared in an article about Mr. Zalevsky's arrest on July 8, 2004.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

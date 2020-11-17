@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marriage Benefits</title>
+    <meta content="l02marriage" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851472"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Marriages</classifier>
+        <person class="indexing_service">Motro, Shari</person>
+        <person class="indexing_service">Smallwood, Peter</person>
+        <person class="indexing_service">Conley, Dalton</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE0D61330F931A35755C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marriage Benefits</hl1>
+      </hedline>
+      <abstract>
+        <p>Shari Motro and Peter Smallwood letter holds that Dalton Conley's call for unbundling marriage contract into its constituent parts overlooks fact that rationales for many marriage-based benefits are inextricably linked to obligations spouses supposedly have to each other (May 20 Op-Ed)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Dalton Conley's call for unbundling the marriage contract into its constituent parts (''Spread the Wealth of Spousal Rights,'' Op-Ed, May 20) overlooks the fact that the rationales for many marriage-based benefits are inextricably linked to the obligations spouses supposedly have to each other.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Dalton Conley's call for unbundling the marriage contract into its constituent parts (''Spread the Wealth of Spousal Rights,'' Op-Ed, May 20) overlooks the fact that the rationales for many marriage-based benefits are inextricably linked to the obligations spouses supposedly have to each other.</p>
+        <p>Society invests in marriage to encourage and support people who are committed to taking care of each other, reducing the chances that taxpayers will have to.</p>
+        <p>The problem is that spouses are legally required to support each other only minimally, and plenty of unmarried Americans support each other fully. This mismatch between our image and the reality of marriage creates the impression that marriage-based benefits are random freebies from society.</p>
+        <p>Unbundling would sever all ties between the benefits and obligations. A better answer is to link each benefit to the obligations it is intended to support, regardless of people's marital status, not to create a market for free handouts.</p>
+        <p>Shari Motro  Peter Smallwood  Richmond, Va., May 20, 2007</p>
+        <p>The writers are, respectively, an assistant professor of law and an associate professor of biology at the University of Richmond.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

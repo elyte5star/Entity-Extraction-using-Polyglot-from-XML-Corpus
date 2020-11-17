@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooke Harlow, Kevin Lynyak</title>
+    <meta content="17harlow" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17harlow.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855108"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Harlow, Drew Brooke</person>
+        <person class="indexing_service">Lynyak, Kevin Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DB153FF934A25755C0A9619C8B63" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooke Harlow, Kevin Lynyak</hl1>
+        <hl2 class="online_headline">Brooke Harlow, Kevin Lynyak</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Drew Brooke Harlow and Kevin Scott Lynyak were married yesterday afternoon at St. Mary, Our Lady of the Isle Roman Catholic Church on Nantucket in Massachusetts. The Rev. Timothy R. Scully officiated.</p>
+        <p>The bride, 32, is keeping her name. She is a vice president for investment bank communications and marketing at JPMorgan Chase &amp; Company in New York. She graduated from Yale.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Drew Brooke Harlow and Kevin Scott Lynyak were married yesterday afternoon at St. Mary, Our Lady of the Isle Roman Catholic Church on Nantucket in Massachusetts. The Rev. Timothy R. Scully officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Drew Brooke Harlow and Kevin Scott Lynyak were married yesterday afternoon at St. Mary, Our Lady of the Isle Roman Catholic Church on Nantucket in Massachusetts. The Rev. Timothy R. Scully officiated.</p>
+        <p>The bride, 32, is keeping her name. She is a vice president for investment bank communications and marketing at JPMorgan Chase &amp; Company in New York. She graduated from Yale.</p>
+        <p>She is the daughter of E. Drew Harlow and Harold G. Harlow of Litchfield, Conn. Her father is the founder and president of the First Connecticut Investment Corporation, an investment management company in Torrington. The bride's mother is on the board of directors of the Litchfield Land Trust, a nonprofit conservation organization, and also of the Connecticut Junior Republic, a juvenile rehabilitation and counseling service, also in Litchfield.</p>
+        <p>The bridegroom, 34, is an executive director for corporate bond trading at Morgan Stanley, the New York investment bank. He graduated from Notre Dame.</p>
+        <p>He is a son of Barbara Bamford Lynyak and Robert Murray Lynyak of Chatham, Mass. His mother, who is retired, was a lawyer in Morristown, N.J., and a board member of the Eagle Hill School in Hardwick, Mass. His father, also retired, was a senior vice president and a managing director of the Chubb Group of Insurance Companies in Warren, N.J., where he managed international operations and served as deputy chief underwriter.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NBC Names Program Executive to Head TV Studio</title>
+    <meta content="04nbc" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/business/media/04nbc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852123"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">National Broadcasting Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E3DF1130F937A35755C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NBC Names Program Executive to Head TV Studio</hl1>
+        <hl2 class="online_headline">NBC Names Program Executive to Head TV Studio</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NBC Universal took another step in revamping its television entertainment operations yesterday, appointing Katherine Pope as president of its television production studio, NBC Universal Television.</p>
+        <p>The move came less than a week after it hired the independent producer Ben Silverman as a co-chairman, with Marc Graboff, of the television group, with authority over both the entertainment division of the NBC network and the television studio.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NBC Universal took another step in revamping its television entertainment operations, appointing a new president of its television production studio.</p>
+      </block>
+      <block class="full_text">
+        <p>NBC Universal took another step in revamping its television entertainment operations yesterday, appointing Katherine Pope as president of its television production studio, NBC Universal Television.</p>
+        <p>The move came less than a week after it hired the independent producer Ben Silverman as a co-chairman, with Marc Graboff, of the television group, with authority over both the entertainment division of the NBC network and the television studio.</p>
+        <p>That appointment, which coincided with the removal of Kevin Reilly as president of NBC Entertainment, raised questions about the future of Ms. Pope, who had been the top program development executive for NBC and was one of the most highly regarded young executives at the network.</p>
+        <p>But NBC Universal acted quickly to answer those questions by giving Ms. Pope authority over the studio, which is producing hit shows like ''Heroes'' and ''The Office'' for NBC and ''House'' for Fox.</p>
+        <p>Ms. Pope, who is in her mid-30s, will succeed Angela Bromstad, who headed the studio before she stepped away from the job several months ago. Ms. Bromstad is expected to be appointed to another NBC Universal position, perhaps heading its international division in London.</p>
+        <p>Ms. Pope said in a telephone interview yesterday that she expected to ''hit the ground running'' in her new position, speaking to writers and producers and instigating new programs as quickly as possible. She said she has been impressed by Mr. Silverman's passion and vision. ''He's like a hurricane of energy and ideas,'' she said.</p>
+        <p>The studio ''will take risks both monetarily and creatively,'' Ms. Pope said. Asked what that might entail, she said she would encourage writers to bring new ideas and would give them latitude in carrying out those ideas. The studio hopes to commission pilots as early as this summer, she said.</p>
+        <p>NBC continues to trail the other broadcast networks and needs hit programs. Ms Pope said she saw the studio as ''having two clients, the writers and NBC.''</p>
+        <p>Beyond the quest for a new generation of hits, Ms. Pope said she and Mr. Silverman had discussed ''the larger questions of where the business is going.'' That, she said, means ''thinking about new ideas, new avenues of distribution and the necessity to think globally about our content.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

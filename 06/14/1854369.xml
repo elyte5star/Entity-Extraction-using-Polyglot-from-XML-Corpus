@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bork v. Bork</title>
+    <meta content="14thu4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/opinion/14thu4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854369"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Falls</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <org class="indexing_service">Yale Club</org>
+        <person class="indexing_service">Bork, Robert H</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <org class="online_producer">Yale Club</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E1DA143FF937A25755C0A9619C8B63" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bork v. Bork</hl1>
+        <hl2 class="online_headline">Bork v. Bork</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on Robert Bork's lawsuit against Yale Club says it turns out that tort plaintiff may be described as critic of tort lawsuits who has slipped and fallen at Yale Club; reports that Bork, who once likened civil justice system to 'Barbary pirates,' has filed action so aggressive that he would call it piratical, if he had not filed it himself</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There are many versions of the cliché that ''a conservative is a liberal who has been mugged,'' and Robert Bork has just given rise to another. A tort plaintiff, it turns out, is a critic of tort lawsuits who has slipped and fallen at the Yale Club.</p>
+        <p>Mr. Bork, of course, is the former federal appeals court judge who was nominated to the Supreme Court in 1987 but not confirmed by the Senate. He has long been famous for his lack of sympathy for people who go to court with claims of race or sex discrimination, or other injustices. He has gotten particularly exercised about accident victims driving up the cost of business by filing lawsuits. In an op-ed article, he once complained that ''juries dispense lottery-like windfalls,'' and compared the civil justice system to ''Barbary pirates.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Imagine what Robert Bork the legal scholar would ask if he had a chance to question Mr. Bork the plaintiff.</p>
+      </block>
+      <block class="full_text">
+        <p>There are many versions of the cliché that ''a conservative is a liberal who has been mugged,'' and Robert Bork has just given rise to another. A tort plaintiff, it turns out, is a critic of tort lawsuits who has slipped and fallen at the Yale Club.</p>
+        <p>Mr. Bork, of course, is the former federal appeals court judge who was nominated to the Supreme Court in 1987 but not confirmed by the Senate. He has long been famous for his lack of sympathy for people who go to court with claims of race or sex discrimination, or other injustices. He has gotten particularly exercised about accident victims driving up the cost of business by filing lawsuits. In an op-ed article, he once complained that ''juries dispense lottery-like windfalls,'' and compared the civil justice system to ''Barbary pirates.''</p>
+        <p>That was before Mr. Bork spoke at the Yale Club last year, and fell on his way to the dais, injuring his leg and bumping his head. Mr. Bork is not merely suing the club for failing to provide a set of stairs and a handrail between the floor and the dais. He has filed a suit that is so aggressive about the law that, if he had not filed it himself, we suspect he might regard it as, well, piratical.</p>
+        <p>Mr. Bork puts the actual damages for his apparently non-life-threatening injuries (after his fall, he was reportedly able to go on and deliver his speech) at ''in excess of $1,000,000.'' He is also claiming punitive damages. And he is demanding that the Yale Club pay his attorney's fees.</p>
+        <p>We can imagine what Mr. Bork the legal scholar would ask if he had a chance to question Mr. Bork the plaintiff. If it was ''reasonably foreseeable'' that without stairs and a handrail, ''a guest such as Mr. Bork'' would be injured, why did Mr. Bork try to climb up to the dais? Where does personal responsibility enter in? And wouldn't $1 million-plus punitive damages amount to a ''lottery-like windfall''?</p>
+        <p>Since we believe in the tort system, when properly used, all we would ask is whether Mr. Bork's unfortunate experience at the Yale Club has led him to re-evaluate any of the harsh things he has said in the past about injured people, much like himself, who simply wanted their day in court.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

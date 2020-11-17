@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harshing His Mellow</title>
+    <meta content="03alsmail-3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SUMMER OF LOVE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Rock Music</classifier>
+        <person class="indexing_service">Kasdorf, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0DE1530F930A35755C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harshing His Mellow</hl1>
+      </hedline>
+      <abstract>
+        <p>Bill Kasdorf letter about May 20 article on revival of 1960's music says he wants to believe 60's rock groups were not in it just for money (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re: ''Welcome Back, Starshine'' by John Leland [May 20]:</p>
+        <p>We always suspected a lot of '60s musicians were in it for the money. But even 40 years later it's like a punch in the gut to read Michelle Phillips's words. After saying that the San Francisco groups thought they were ''the real heart and soul'' (in contrast to Los Angeles groups like hers), she adds: ''I think they were just jealous because we were making the money. The whole point, I thought, was to make hit records.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re: ''Welcome Back, Starshine'' by John Leland [May 20]:</p>
+        <p>We always suspected a lot of '60s musicians were in it for the money. But even 40 years later it's like a punch in the gut to read Michelle Phillips's words. After saying that the San Francisco groups thought they were ''the real heart and soul'' (in contrast to Los Angeles groups like hers), she adds: ''I think they were just jealous because we were making the money. The whole point, I thought, was to make hit records.''</p>
+        <p>Lalalalala. Don't wanna hear that. I'm gonna keep putting the Stones and Dylan on my stereo (see how old I am? I said stereo, not iPod), and I'm going to keep cranking them up real loud, and I'm even going to play their recent stuff. Which I buy! On CDs! I really want to believe they did it to win my heart and move my soul, because they did.</p>
+        <p>Bill Kasdorf  Ann Arbor, Mich.</p>
+        <p>SUMMER OF LOVE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

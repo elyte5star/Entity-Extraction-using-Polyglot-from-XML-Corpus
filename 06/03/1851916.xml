@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Public Detectives</title>
+    <meta content="03CIchristianson" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="indexing_service" type="descriptor">Detectives (Private)</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Christianson, Scott</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Detectives (Private)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Aid for the Poor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E0D81330F930A35755C0A9619C8B63" item-length="721" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Public Detectives</hl1>
+      </hedline>
+      <byline class="print_byline">By Scott Christianson</byline>
+      <byline class="normalized_byline">Christianson, Scott</byline>
+      <dateline>SAND LAKE, N.Y.</dateline>
+      <abstract>
+        <p>Op-Ed article by Scott Christianson, former investigative reporter and criminal justice aid to Gov Mario Cuomo, scores insufficient use of private investigators by lawyers assigned to handle criminal cases for indigent defendants; describes some reforms that should be taken (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST week, a battery of witnesses testified before two standing committees of the New York State Assembly citing numerous cases of wrongful conviction throughout the state and focusing on the role of DNA in winning exonerations for certain defendants. But the question remains: What should be done to reduce such mistakes from occurring in the first place?</p>
+        <p>One answer: better investigation by the defense.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST week, a battery of witnesses testified before two standing committees of the New York State Assembly citing numerous cases of wrongful conviction throughout the state and focusing on the role of DNA in winning exonerations for certain defendants. But the question remains: What should be done to reduce such mistakes from occurring in the first place?</p>
+        <p>One answer: better investigation by the defense.</p>
+        <p>According to New York State law -- and professional legal standards -- counsel is required to use investigators and other expert services when needed to mount an adequate criminal defense. But a recent study of New York's indigent defense system (the lawyers who handle most criminal cases) by the Spangenberg Group, a criminal-research consulting firm, found that most public defense providers employ few if any staff investigators. Furthermore, other lawyers who are assigned by the courts to handle cases for indigent defendants rarely hire a private detective.</p>
+        <p>Part of the reason is that most investigators won't work for the paltry $32 an hour that New York courts will pay them. As a result, most criminal cases in the state never get investigated by the defense. Indeed, often the defense doesn't check to see if the evidence is solid or conduct enough investigative research to devise an effective legal strategy.</p>
+        <p>Not surprisingly, this system sometimes leads to mistakes, as it did in the case of Fernando Bermudez, who was convicted in New York County in 1992 for a murder he did not commit. Although he had a solid alibi and there was no physical evidence against him, five witnesses identified him as the gunman. The defense did little investigation of its own to challenge these witnesses' accusations.</p>
+        <p>Today, Mr. Bermudez remains in prison, even though after his conviction, all five witnesses recanted and a federal magistrate judge found that the procedures the police used to obtain the testimony were ''suggestive and conducive to irreparable misidentification.'' The district attorney hasn't budged.</p>
+        <p>New York is not unique. Similar deficiencies exist throughout the criminal justice system in the United States.</p>
+        <p>As a result, many alibis are never verified, witnesses' credibility goes unchallenged, important aspects of the crime scene get overlooked and the defense generally fails to conduct its own independent investigation. This contributes to wrongful convictions and prompts many impoverished defendants to feel, with some justification, that they aren't getting a fair shake. This adversarial system needs to be improved to ensure that everyone receives equal justice before the law.</p>
+        <p>One crucial but overlooked way to achieve this is to expand investigative defense services. Perry Mason had Paul Drake to help him find the truth. In today's courtroom, this safeguard would enhance the quality of justice and reassure the public that serious crimes are receiving the attention they deserve. It would also save money by reducing the costs associated with mistaken arrests, wrongful imprisonment and other prosecutorial abuses.</p>
+        <p>But that's not the way our criminal justice system is headed. Over the last 25 years or so, ''tough-on-crime'' politicians have shifted inordinate power and resources to the prosecution. Too much discretion and leverage has become concentrated in one political bailiwick. And too much power goes unchecked.</p>
+        <p>Something needs to be done to right the scales of justice. For starters, public defense agencies should get more money to bolster their in-house investigative capacity. Where assigned counsel is responsible, he or she should be expected to hire a licensed private investigator to scrutinize the evidence.</p>
+        <p>Moreover, bar organizations and private investigators should join together to develop appropriate professional standards, training and oversight for this needed specialty. But most important, lawmakers should pass legislation setting realistic hourly rates and other criteria governing the level of compensation courts can authorize, and judges should not shun defense investigation any more than they discourage investigation by law enforcement agents.</p>
+        <p>Building such expertise will not come easily, since being a defense investigator requires a formidable set of skills. One ready resource might be former police officers and retired military investigators.</p>
+        <p>Our system's standard of proof beyond a reasonable doubt and innocent until proven guilty requires a rigorous search for truth. Defense lawyers and prosecutors alike are equal officers of the court, and neither can perform their duties without knowing the truth. Finding it, in many cases, requires a scientific investigation that brings it out for all to see.</p>
+        <p>Scott Christianson, a former investigative reporter and criminal justice aide to Gov. Mario Cuomo, is the author of ''Innocent: Inside Wrongful Conviction Cases.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Scott Christianson, a former investigative reporter and criminal justice aide to Gov. Mario Cuomo, is the author of ''Innocent: Inside Wrongful Conviction Cases.''</tagline>
+    </body.end>
+  </body>
+</nitf>

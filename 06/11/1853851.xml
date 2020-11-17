@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Video Cameras in Courts</title>
+    <meta content="11empire-2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853851"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7DC173FF932A25755C0A9619C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Video Cameras in Courts</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the late entries among the issues being discussed in the closing weeks of the legislative session is a proposal to allow video cameras in courtrooms. The issue is of increasing interest to newspapers as well as television networks because of the increasing sophistication of newspaper Web sites.</p>
+        <p>''I believe the more the public sees of what actually goes on inside the courtroom, the greater the confidence the public will have that justice is being administered properly,'' the governor said at a public meeting of legislative leaders last week.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the late entries among the issues being discussed in the closing weeks of the legislative session is a proposal to allow video cameras in courtrooms. The issue is of increasing interest to newspapers as well as television networks because of the increasing sophistication of newspaper Web sites.</p>
+        <p>''I believe the more the public sees of what actually goes on inside the courtroom, the greater the confidence the public will have that justice is being administered properly,'' the governor said at a public meeting of legislative leaders last week.</p>
+        <p>But the Assembly speaker, Sheldon Silver, below, who works for a large personal injury law firm, said he had concerns with the proposal and preferred giving judges broad discretion.</p>
+        <p>Diane Kennedy, president of the New York Newspaper Publishers Association, whose members come from most of the daily newspapers in the state, including this one, said the Assembly was seeking a provision that would allow any objecting party to require a judge to ''make a written finding that the benefits to the public of televising the trial overwhelm the concerns of the parties.''</p>
+        <p>''A judge is not going to do that,'' said Ms. Kennedy, whose group opposes the provision. Among other things, she said, it ''gives the defense an automatic avenue of appeal.''</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

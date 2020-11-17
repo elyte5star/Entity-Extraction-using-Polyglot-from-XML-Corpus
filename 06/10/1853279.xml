@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DataBank: JUNE 4-8; Long-Term Rates Rise, and Stocks Fall</title>
+    <meta content="10data" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10data.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853279"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE7DF163FF933A25755C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DataBank: JUNE 4-8; Long-Term Rates Rise, and Stocks Fall</hl1>
+        <hl2 class="online_headline">Long-Term Rates Rise, and Stocks Fall</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While the markets shifted to a happier note on Friday, the week was a troubling one for many investors, as stock and bond prices fell sharply and long-term interest rates soared.</p>
+        <p>A stock market rebound on Friday made up for a small portion of the week's losses, which appeared to have been set off by the remarks of Ben S. Bernanke, the Federal Reserve chairman. He said that inflation remains a threat, echoing language that he and other Fed officials have been using in recent weeks, but nevertheless worrying many traders.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While the markets shifted to a happier note on Friday, the week was a troubling one for many investors, as stock and bond prices fell sharply and long-term interest rates soared.</p>
+      </block>
+      <block class="full_text">
+        <p>While the markets shifted to a happier note on Friday, the week was a troubling one for many investors, as stock and bond prices fell sharply and long-term interest rates soared.</p>
+        <p>A stock market rebound on Friday made up for a small portion of the week's losses, which appeared to have been set off by the remarks of Ben S. Bernanke, the Federal Reserve chairman. He said that inflation remains a threat, echoing language that he and other Fed officials have been using in recent weeks, but nevertheless worrying many traders.</p>
+        <p>Longer-term interest rates rose, with the yield on the benchmark 10-year Treasury bond breaching the 5 percent level for the first time in nine months, and ending the week at 5.10 percent, up from 4.95 percent the previous week. That rate affects the cost of borrowing for homeowners and corporations alike, and it could slow down the brisk pace of mergers and acquisitions.</p>
+        <p>For the week, the Dow Jones industrial average lost 243.72 points, or 1.8 percent, to close at 13,424.39. The Standard &amp; Poor's 500-stock index fell 28.67 points, or 1.9 percent, to close at 1,507.67. The Nasdaq composite index dropped 40.38 points, or 1.5 percent, to close at 2,573.54.</p>
+        <p>JEFF SOMMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

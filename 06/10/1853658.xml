@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carroll Leatherman, William Brett</title>
+    <meta content="10LEATHERMAN" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10LEATHERMAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853658"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Leatherman, Carroll Seabrook (Carroll Seabrook Brett)</person>
+        <person class="indexing_service">Brett, William Carlisle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5D61F30F933A25755C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carroll Leatherman, William Brett</hl1>
+        <hl2 class="online_headline">Carroll Leatherman, William Brett</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carroll Seabrook Leatherman, the daughter of Donna Riso Leatherman of New York and the late S. R. Leatherman IV of Memphis, was married last evening to William Carlisle Brett, the son of Julie S. Brett and William J. Brett of Westwood, Mass. The Rev. Anthony Schueller, a Roman Catholic priest, performed the ceremony at the Church of St. Jean Baptiste in New York.</p>
+        <p>The bride, 27, is a senior associate in New York with Korn/Ferry, the executive search firm. She graduated from the University of North Carolina. Her mother owns an art gallery in New York. Her father founded Memphis Chair, furniture makers in Bruce, Miss.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Carroll Seabrook Leatherman, the daughter of Donna Riso Leatherman of New York and the late S. R. Leatherman IV of Memphis, was married last evening to William Carlisle Brett, the son of Julie S. Brett and William J. Brett of Westwood, Mass. The Rev. Anthony Schueller, a Roman Catholic priest, performed the ceremony at the Church of St. Jean Baptiste in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Carroll Seabrook Leatherman, the daughter of Donna Riso Leatherman of New York and the late S. R. Leatherman IV of Memphis, was married last evening to William Carlisle Brett, the son of Julie S. Brett and William J. Brett of Westwood, Mass. The Rev. Anthony Schueller, a Roman Catholic priest, performed the ceremony at the Church of St. Jean Baptiste in New York.</p>
+        <p>The bride, 27, is a senior associate in New York with Korn/Ferry, the executive search firm. She graduated from the University of North Carolina. Her mother owns an art gallery in New York. Her father founded Memphis Chair, furniture makers in Bruce, Miss.</p>
+        <p>The bridegroom, 30, markets and structures risk management transactions in New York for the Bank of America. He graduated from Harvard. His father is the president of Barclay Water Management, a water-treatment firm in Watertown, Mass.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

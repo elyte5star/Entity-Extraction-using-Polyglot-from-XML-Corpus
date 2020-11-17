@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cancer Drug May Elude Many Women Who Need It</title>
+    <meta content="12canc" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/health/12canc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853892"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Breast Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Tumors</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Breast</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Tumors</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Breast</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tumors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DC173FF931A25755C0A9619C8B63" item-length="746" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cancer Drug May Elude Many Women Who Need It</hl1>
+        <hl2 class="online_headline">Cancer Drug May Elude Many Women Who Need It</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <dateline>CHICAGO</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The breast cancer drug Herceptin is considered the model for the future of medicine tailored to each individual. The drug is given only to the 20 percent of breast cancer patients whose tumors have a particular genetic characteristic.</p>
+        <p>But now, nearly a decade after the drug's approval, evidence is emerging that the testing of the tumors can be highly inaccurate or that the wrong cutoff values are being used to determine who qualifies for treatment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New evidence is raising questions about the tests used to prescribe the breast cancer drug Herceptin, which was initially seen as a model for tailored medicine.</p>
+      </block>
+      <block class="full_text">
+        <p>The breast cancer drug Herceptin is considered the model for the future of medicine tailored to each individual. The drug is given only to the 20 percent of breast cancer patients whose tumors have a particular genetic characteristic.</p>
+        <p>But now, nearly a decade after the drug's approval, evidence is emerging that the testing of the tumors can be highly inaccurate or that the wrong cutoff values are being used to determine who qualifies for treatment.</p>
+        <p>That could mean that as many as 40 percent of women with early breast cancer might benefit from the drug but are not getting it, some experts say. Yet other women may be paying for the drug and risking its side effects unnecessarily.</p>
+        <p>''This has major practice-changing potential,'' Dr. James H. Doroshow of the National Cancer Institute said in a commentary after one presentation at the American Society of Clinical Oncology meeting here last week. But he added that the data were too preliminary to justify changing treatment patterns just yet.</p>
+        <p>Herceptin, also known as trastuzumab, works by blocking Her2, a protein that can spur growth of tumor cells. It is given only to women whose tumors have abundant amounts of the protein. There are two tests used to determine this. One looks at the amount of the protein on the surface of a sample of tumor cells. The other looks for extra copies of the gene that governs the production of Her2.</p>
+        <p>But two studies discussed at the oncology meeting found that patients who were considered Her2-negative even using both tests benefited from Herceptin.</p>
+        <p>Both studies reanalyzed tumor samples from earlier clinical trials showing that Herceptin, if used after a tumor is removed by surgery, cuts the risk of the cancer's recurring by half. For a woman to have entered those trials, her tumor had to be classified as Her2-positive by a local clinical laboratory.</p>
+        <p>But scientists have now gone back and retested those preserved tumor samples and found that as many as 20 percent of them were actually Her2-negative. Yet the women with those tumors also experienced a reduction in cancer recurrence from Herceptin, in some cases as great as that in the Her2-positive women.</p>
+        <p>''This is a revolution compared to what we believed before,'' said Dr. Edith A. Perez of the Mayo Clinic, who presented one of the studies. She said the findings raised questions of whether women who were Her2-negative should be tested again.</p>
+        <p>Some experts were skeptical, saying the number of patients in the two studies was too small to draw firm conclusions. Also, they said, it was not clear if those women were truly Her2-negative, since they had tested positive by the local laboratory.</p>
+        <p>Dr. Daniel F. Hayes, a breast cancer specialist at the University of Michigan who helped develop guidelines for Her2 testing, said it would be unwise to start giving Herceptin to Her2-negative women because the drug was expensive and raised the risk of heart failure.</p>
+        <p>But he said the studies called attention to the inconsistent quality of Her2 testing in many small laboratories. Laboratories can use commercially available tests or develop their own.</p>
+        <p>Dr. Soonmyung Paik, who presented the second study at the cancer conference, said the problem might lie not in sloppy testing but rather in the cutoff used to determine which women get Herceptin.</p>
+        <p>Dr. Paik, who is with the National Surgical Adjuvant Breast and Bowel Project, said that about 40 percent of women had intermediate levels of Her2. They are now classified as negative but might still derive some benefit from the drug. On the other hand, he said, many women who are Her2-positive do not benefit from Herceptin. So better ways are needed to determine who should be treated.</p>
+        <p>''To me, the take-home message is that we don't have a perfect test, unfortunately,'' Dr. Paik said.</p>
+        <p>Dr. Pamela M. Klein, an executive at Genentech, the manufacturer of Herceptin, said the company was continuing to explore how to best identify patients for the drug.</p>
+        <p>The fact that this uncertainty is occurring so long after the 1998 approval of Herceptin -- the paragon of ''personalized medicine'' -- suggests that it will not be so easy to tailor other drugs to patients based on gene or protein tests.</p>
+        <p>It left some doctors at the conference incredulous and uncertain how to treat their patients.</p>
+        <p>''Here we are, 10 years into it,'' said Dr. Marc L. Citron, an oncologist in Lake Success, N.Y., ''and we don't know how to test for it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

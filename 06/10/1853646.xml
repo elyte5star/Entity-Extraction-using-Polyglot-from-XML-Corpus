@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jennifer Mathissen, Michael Licamele III</title>
+    <meta content="10mathissen" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10mathissen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853646"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Mathissen, Jennifer Olsen</person>
+        <person class="indexing_service">III, Michael William Licamele</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D61F30F933A25755C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jennifer Mathissen, Michael Licamele III</hl1>
+        <hl2 class="online_headline">Jennifer Mathissen, Michael Licamele III</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jennifer Olsen Mathissen and Michael William Licamele III were married yesterday in Fairfield, Conn. The Rev. Dr. Alida Ward officiated at Greenfield Hill Congregational Church.</p>
+        <p>Ms. Mathissen, 36, is keeping her name. She is a vice president for strategy in the Norwalk, Conn., office of Modem Media, a marketing agency and a unit of Publicis, the advertising agency. She graduated from Mount Holyoke. She is the daughter of Cynthia S. Olsen and Randall J. Olsen of Dublin, Ohio.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jennifer Olsen Mathissen and Michael William Licamele III were married yesterday in Fairfield, Conn. The Rev. Dr. Alida Ward officiated at Greenfield Hill Congregational Church.</p>
+      </block>
+      <block class="full_text">
+        <p>Jennifer Olsen Mathissen and Michael William Licamele III were married yesterday in Fairfield, Conn. The Rev. Dr. Alida Ward officiated at Greenfield Hill Congregational Church.</p>
+        <p>Ms. Mathissen, 36, is keeping her name. She is a vice president for strategy in the Norwalk, Conn., office of Modem Media, a marketing agency and a unit of Publicis, the advertising agency. She graduated from Mount Holyoke. She is the daughter of Cynthia S. Olsen and Randall J. Olsen of Dublin, Ohio.</p>
+        <p>Mr. Licamele, 41, is the owner of Residential Finance Network, a mortgage brokerage in Fairfield. He graduated from Georgetown and received an M.B.A. from New York University. He is a son of Martha E. Rogowski of Fairfield and Mr. Licamele Sr. of Easton, Conn. The bridegroom is a stepson of Cherie Licamele and of John P. Rogowski.</p>
+        <p>The bride's previous marriage ended in divorce, as did that of the bridegroom.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

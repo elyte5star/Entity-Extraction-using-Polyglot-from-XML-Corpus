@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Son, Too, Lost to Drugs</title>
+    <meta content="l17conn-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855306"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDE123FF934A25755C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Son, Too, Lost to Drugs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I just read ''For the Children, a Mother Revisits Her Sorrow,'' by Michael Winerip (Parenting, June 10). Our stories are so similar it took my breath away. Except for the fact that my son Peter never made it to college, he was the same kind of boy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I just read ''For the Children, a Mother Revisits Her Sorrow,'' by Michael Winerip (Parenting, June 10). Our stories are so similar it took my breath away. Except for the fact that my son Peter never made it to college, he was the same kind of boy.</p>
+        <p>It has been many years now, 22 to be exact, and yes, we visit his grave, and each time we do it seems like only a short time ago that he died.</p>
+        <p>My heart goes out to Ms. Katz. I know, I know.</p>
+        <p>Virginia A. Wolf  Willingboro, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

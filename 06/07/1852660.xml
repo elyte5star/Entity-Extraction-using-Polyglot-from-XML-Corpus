@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mischievous Pieces for Practical Jokers</title>
+    <meta content="07miami" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: FURNITURE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E7D91E30F934A35755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mischievous Pieces for Practical Jokers</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Front, the Swedish collective named Designer of the Future for Design Miami/Basel 2007, will introduce its new Magical! furniture at the fair, which begins Tuesday in Basel, Switzerland. The collection includes the Balancing chair, below left, which appears to defy gravity by resting on a single leg, although when you sit on it all four legs touch the ground. (The secret lies in the plate of steel anchoring the chair to the floor, connected to the leg with a spring; because it is shaped like the chair's shadow, your eye passes over it.) The Levitating lamp, below right, has a shade that seems to float in mid-air. (It actually hangs from the ceiling on thin wire; the light comes from a bulb in the top of the base.) For information on other exhibitions at the fair, which runs through June 16: designmiami.com.</p>
+        <p>ELAINE LOUIE</p>
+      </block>
+      <block class="full_text">
+        <p>Front, the Swedish collective named Designer of the Future for Design Miami/Basel 2007, will introduce its new Magical! furniture at the fair, which begins Tuesday in Basel, Switzerland. The collection includes the Balancing chair, below left, which appears to defy gravity by resting on a single leg, although when you sit on it all four legs touch the ground. (The secret lies in the plate of steel anchoring the chair to the floor, connected to the leg with a spring; because it is shaped like the chair's shadow, your eye passes over it.) The Levitating lamp, below right, has a shade that seems to float in mid-air. (It actually hangs from the ceiling on thin wire; the light comes from a bulb in the top of the base.) For information on other exhibitions at the fair, which runs through June 16: designmiami.com.</p>
+        <p>ELAINE LOUIE  CURRENTS: FURNITURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

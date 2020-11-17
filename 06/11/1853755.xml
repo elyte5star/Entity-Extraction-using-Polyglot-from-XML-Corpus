@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Outspoken Political Scientist Denied Tenure at DePaul</title>
+    <meta content="11depa" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Education" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/arts/11depa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853755"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="descriptor">Anti-Semitism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anti-Semitism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">DePaul University</org>
+        <person class="online_producer">Dershowitz, Alan M</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFDF173FF932A25755C0A9619C8B63" item-length="445" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Outspoken Political Scientist Denied Tenure at DePaul</hl1>
+        <hl2 class="online_headline">Outspoken Political Scientist Denied Tenure at DePaul</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICIA COHEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Norman Finkelstein, the political scientist whose bid for a permanent position at DePaul University stirred up charges of anti-Semitism, personal vendettas and outside interference in the hiring process, was informed Friday that he had been denied tenure by the university.</p>
+        <p>Mr. Finkelstein said he clearly ''met the publishing standards and the teaching standards required for tenure'' and that DePaul's decision was based on ''transparently political grounds'' and an ''egregious violation'' of academic freedom.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Norman Finkelstein, the political scientist whose bid for a permanent position at DePaul University stirred up charges of anti-Semitism, was informed that he had been denied tenure by the university.</p>
+      </block>
+      <block class="full_text">
+        <p>Norman Finkelstein, the political scientist whose bid for a permanent position at DePaul University stirred up charges of anti-Semitism, personal vendettas and outside interference in the hiring process, was informed Friday that he had been denied tenure by the university.</p>
+        <p>Mr. Finkelstein said he clearly ''met the publishing standards and the teaching standards required for tenure'' and that DePaul's decision was based on ''transparently political grounds'' and an ''egregious violation'' of academic freedom.</p>
+        <p>DePaul's political science department had voted to award Mr. Finkelstein tenure, but the University Board on Promotion and Tenure rejected his bid. DePaul's president, the Rev. Dennis H. Holtschneider, upheld that decision. In a letter to Mr. Finkelstein, Father Holtschneider wrote that Mr. Finkelstein is an excellent teacher and a nationally recognized public intellectual but does not ''honor the obligation'' to ''respect and defend the free inquiry of associates.''</p>
+        <p>Mr. Finkelstein's work, accusing Jews of exploiting the Holocaust for monetary gain and attacking Israel for oppressing the Palestinians, has made Mr. Finkelstein many enemies over the years. One of the most dogged has been Alan Dershowitz, the attorney and Harvard law professor whose impassioned defense of Israel has led to frequent and often venomous conflicts with Mr. Finkelstein.</p>
+        <p>In a full-court press against Mr. Finkelstein, Mr. Dershowitz lobbied professors, alumni and the administration of DePaul, a Roman Catholic university in Chicago, to deny him tenure. Many faculty members at DePaul and elsewhere decried what they called Mr. Dershowitz's heavy-handed tactics.</p>
+        <p>Sounding resigned, Mr. Finkelstein said of DePaul, ''Rationally, it has to deny me tenure.''</p>
+        <p>''Any time I wrote or spoke would evoke another hysterical response and would be costly for them,'' he said, referring to the college's fund-raising efforts.</p>
+        <p>In a statement Father Holtschneider said the outside attention paid to Mr. Finkelstein's bid for tenure ''was unwelcome and inappropriate and had no impact on either the process or the outcome of this case.'' He added: ''Some will consider this decision in the context of academic freedom. In fact academic freedom is alive and well at DePaul.''</p>
+        <p>It is no surprise that Mr. Dershowitz was delighted. ''It was plainly the right decision,'' he said.</p>
+        <p>Mr. Finkelstein said he plans to leave Chicago for New York. ''Teaching is in my bones. I love to teach,'' he said, but he added that as a result of this ''blacklisting, I will be barred from ever entering a college classroom again.''</p>
+        <p>Nonetheless, any temptation to ''indulge in a bout of self-pity,'' he said, was halted by thinking of his parents, who survived the Warsaw ghetto and the Nazi death camps while the rest of his relatives were exterminated. ''They survived,'' he said. ''I'll survive.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

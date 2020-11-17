@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reservations on Demand; Service at Restaurants Changing Subtly With Online Information</title>
+    <meta content="18opentable" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/18opentable.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855366"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Urban Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Reservations (Airlines, Hotels, Etc)</classifier>
+        <org class="indexing_service">Opentable.com</org>
+        <person class="indexing_service">Hafner, Katie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="descriptor">Reservations (Airlines, Hotels, Etc)</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reservations (Airlines, Hotels, Etc)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5DD123FF93BA25755C0A9619C8B63" item-length="1271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reservations on Demand; Service at Restaurants Changing Subtly With Online Information</hl1>
+        <hl2 class="online_headline">Restaurant Reservations Go Online</hl2>
+      </hedline>
+      <byline class="print_byline">By KATIE HAFNER</byline>
+      <byline class="normalized_byline">Hafner, Katie</byline>
+      <dateline>SAN FRANCISCO, June 17</dateline>
+      <abstract>
+        <p>Restaurant industry adopts new technologies to ease reservation system for diners; OpenTable seats two million diners every month at restaurants in major cities; allows patrons to make reservations while enabling restaurants to improve customer service by storing information about guests such as special seating requests and service preferences; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Town Hall, one of the busiest restaurants in this food-crazed city, seems the very model of old-fashioned dining. Patrons who arrive to claim their reserved seats are greeted by a hostess who consults a piece of paper with the day's reservations and leads her guests to the appointed table.</p>
+        <p>But upstairs, in the restaurant's office, a different scene is playing out. In a veritable mission-control setting, a reservationist answers eight phone lines while seated in front of two computers that log reservations and hold an archive of past and future electronic bookings.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After decades of relying on telephones to book tables, the restaurant business has gone high-tech.</p>
+      </block>
+      <block class="full_text">
+        <p>Town Hall, one of the busiest restaurants in this food-crazed city, seems the very model of old-fashioned dining. Patrons who arrive to claim their reserved seats are greeted by a hostess who consults a piece of paper with the day's reservations and leads her guests to the appointed table.</p>
+        <p>But upstairs, in the restaurant's office, a different scene is playing out. In a veritable mission-control setting, a reservationist answers eight phone lines while seated in front of two computers that log reservations and hold an archive of past and future electronic bookings.</p>
+        <p>The software also reveals the idiosyncrasies of thousands of guests. The restaurant staff knows in advance, for instance, that a regular always insists on a table under a particular piece of artwork. They know about another person's request for kosher food -- but only when dining in certain company. And there is the guest so reliably late that staff members know to add 45 minutes to the reservation time.</p>
+        <p>After decades of relying on telephones to book tables, and piles of index cards -- or a maitre d'hotel's memory -- to collect information about diners and their quirks, the restaurant business has finally gone unabashedly high-tech.</p>
+        <p>Technology may not make it any easier for diners to get a reservation at the most sought-after spots, like the French Laundry in Yountville, Calif., or Babbo in New York City. But the perseverance of a San Francisco-based company called OpenTable, which has come to dominate the business of online restaurant reservations, is making it much easier for restaurants to manage reservations and improve customer service.</p>
+        <p>The change is subtle, but sweeping. Some 7,000 high-end restaurants around the world now use OpenTable, with the highest concentration in New York and San Francisco. Hundreds more are signing on every month.</p>
+        <p>''All restaurants have to do it, whether you like it or not,'' said Charles Phan, the owner and executive chef of the Slanted Door, currently ranked as the most popular restaurant in San Francisco on OpenTable.com. ''There's no way around it. At this point, there's no other technology or easy solution for making Web reservations.''</p>
+        <p>Making a reservation through OpenTable costs the diner nothing. And it reduces the inconvenience. Say you want a table on short notice at a busy Manhattan restaurant -- Danny Meyer's Union Square Cafe. Placing a phone call there usually requires calling during business hours, enduring loud jazz for hold music, and talking with a reservationist for a while before finding an acceptable time. OpenTable might give you the same results, but it will do the work in 10 seconds.</p>
+        <p>Andrew Shapiro, a business strategist who lives in Manhattan, said OpenTable was the first place he turned to for reservations. His loyalty was recently cemented when he used OpenTable to snag a reservation at a popular sushi restaurant around the corner within 15 minutes of his desired mealtime.</p>
+        <p>Mr. Shapiro said he and he wife had a couple of favorite restaurants that did not take reservations. ''The truth is, those places have gotten less attention from us lately,'' he said. ''It would be as if an airline didn't allow you to buy tickets online.''</p>
+        <p>Mr. Shapiro said he also liked the one-click cancellation feature. And he likes the convenience of making a reservation at 2 a.m. (One-third of OpenTable's reservations are made between 10 p.m. and 10 a.m.)</p>
+        <p>The other end, however, is where the service has real benefit.</p>
+        <p>The reservations that pop up on the restaurants' computer screens, especially those made by regulars, are accompanied by an important tidbit or two.</p>
+        <p>Doug Washington, a co-owner of Town Hall, said the notes were not just helpful, they are occasionally indispensable. Next to the name of one regular, who has a habit of bringing in women he is not married to, is an instruction to make sure the man's wife has not booked a separate table for the same day.</p>
+        <p>Another frequent guest asks the restaurant to send over dessert compliments of the chef but to put the charge on the guest's bill. Of another, who takes many of his first dates to Town Hall, the instructions read, ''Do not treat like a regular!''</p>
+        <p>But unlike owners of most OpenTable restaurants, Mr. Washington will not use a computer at the door. ''When you're coming into a restaurant you should still feel like you're walking into someone's home,'' he said.</p>
+        <p>OpenTable, which started in 1999, did not take off right away. The restaurant business greeted OpenTable with a shrug at first, even contempt. Few restaurant owners could see the advantage of paying a dollar per diner to an Internet company, especially when they already had more business than they could handle.</p>
+        <p>But the company deployed an aggressive sales force, and went to work persuading owners that dining reservations would eventually go the way of hotel and airline reservations by requiring fewer personnel. Restaurant owners began to see how the service increased the number of customers, and they liked the way the software managed the reservation process. Many of the restaurants discovered that they had to surrender to the automation because their popularity suffered if they did not.</p>
+        <p>''It was a long, long time before that was proven,'' said Bill Gurley, a Silicon Valley venture capitalist whose company, Benchmark, has invested $21.6 million in OpenTable over the years.</p>
+        <p>It took three years for OpenTable to seat its one-millionth diner. But now, the company seats two million diners every month. And Zagat, the restaurant rating service, has adopted OpenTable for reservations made through its site, zagat.com</p>
+        <p>''It's not a cheap solution, but it's a good one,'' said Laurence Kretchmer, who, together with Bobby Flay, owns three restaurants, including Bar Americain in Manhattan, all of which are on OpenTable. New York now has more restaurants on OpenTable than San Francisco does.</p>
+        <p>New York restaurant owners are still resisting the surcharge, especially when it means paying for people who would have eaten at their restaurants anyway. ''It adds up,'' said Steven Pipes, vice president of hospitality at the Jack Parker Corporation, owners of Le Parker Meridien, home to Norma's, a popular brunch spot in Midtown Manhattan.''We spend thousands of dollars.''</p>
+        <p>Still, Mr. Pipes is quick to appreciate the high ranking on OpenTable's most-booked list. And he likes the information he gleans from the system. ''We can know what kind of seating people like,'' Mr. Pipes said. ''And we can know if they have a favorite server.'' And that favorite server can note, ever so discreetly, whether a customer happened to order the restaurant's $1,000 frittata, or that he is a reliably generous tipper.</p>
+        <p>''In the old days, the question was, 'Where should we eat?' Now it's, 'Where can we eat?,' said Danny Meyer, a prominent New York restaurant owner who is an OpenTable investor and board member. OpenTable, he said, offers diners ideas for the first question and answers for the second. ''You literally get all that information within four seconds.''</p>
+        <p>Among the top-tier establishments, there are still some holdouts. Chez Panisse, the famed restaurant in Berkeley, Calif., is not on OpenTable. But that is not for lack of trying on OpenTable's part. ''We're in discussions with them,'' said Jaleh Bisharat, vice president of marketing at OpenTable.</p>
+        <p>Thomas Keller's French Laundry, on the other hand, arguably the most popular restaurant in the nation, signed up in early 2003 and Per Se, his New York version, is also there. ''Thomas Keller needs more reservations like a hole in the head,'' Mr. Meyer said. ''But even he knows that anyone truly into hospitality is being disingenuous to say they wouldn't benefit from all that great guest information provided automatically.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

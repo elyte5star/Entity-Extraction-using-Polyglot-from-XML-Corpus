@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooklyn: Sentencing For Woman's Murder</title>
+    <meta content="19mbrfs-sentence" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19mbrfs-sentence.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855600"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEW YORK"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <person class="online_producer">Zalevsky, Gregory</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E7DE133FF93AA25755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooklyn: Sentencing For Woman's Murder</hl1>
+        <hl2 class="online_headline">Brooklyn: Sentencing for Woman’s Murder</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL BRICK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man who served as his own defense lawyer was sentenced yesterday to 32 years to life in prison for killing a companion. At his sentencing in State Supreme Court, the man, Gregory Zalevsky, 52, submitted a handwritten 29-page motion to vacate his conviction for the murder of Irina Ilyina, 31, a mother of two from New Jersey. Ms. Ilyina, who had been dating Mr. Zalevsky while seeking a divorce from her husband, was found smothered in Mr. Zalevsky's Brighton Beach apartment in July 2004. In the courtroom, Justice Matthew J. D'Emic denied Mr. Zalevsky's motion. Ms. Ilyina's parents, sister and former husband asked for a long prison sentence, calling Mr. Zalevsky a ''monster.'' In a statement to the court, Mr. Zalevsky said he expected to be exonerated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A man who served as his own defense lawyer was sentenced yesterday to 32 years to life in prison for killing a companion. At his sentencing in State Supreme Court, the man, Gregory Zalevsky, 52, submitted a handwritten 29-page motion to vacate his conviction for the murder of Irina Ilyina, 31, a mother of two from New Jersey. Ms. Ilyina, who had been dating Mr. Zalevsky while seeking a divorce from her husband, was found smothered in Mr. Zalevsky’s Brighton Beach apartment in July 2004. In the courtroom, Justice Matthew J. D’Emic denied Mr. Zalevsky’s motion. Ms. Ilyina’s parents, sister and former husband asked for a long prison sentence, calling Mr. Zalevsky a “monster.” In a statement to the court, Mr. Zalevsky said he expected to be exonerated.</p>
+      </block>
+      <block class="full_text">
+        <p>A man who served as his own defense lawyer was sentenced yesterday to 32 years to life in prison for killing a companion. At his sentencing in State Supreme Court, the man, Gregory Zalevsky, 52, submitted a handwritten 29-page motion to vacate his conviction for the murder of Irina Ilyina, 31, a mother of two from New Jersey. Ms. Ilyina, who had been dating Mr. Zalevsky while seeking a divorce from her husband, was found smothered in Mr. Zalevsky's Brighton Beach apartment in July 2004. In the courtroom, Justice Matthew J. D'Emic denied Mr. Zalevsky's motion. Ms. Ilyina's parents, sister and former husband asked for a long prison sentence, calling Mr. Zalevsky a ''monster.'' In a statement to the court, Mr. Zalevsky said he expected to be exonerated.</p>
+        <p>NEW YORK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

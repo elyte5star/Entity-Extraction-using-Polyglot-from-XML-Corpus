@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Avery Gardiner, Edwin U</title>
+    <meta content="10gardiner" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10gardiner.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853662"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Gardiner, Avery Weld</person>
+        <person class="indexing_service">U, Edwin John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE5D61F30F933A25755C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Avery Gardiner, Edwin U</hl1>
+        <hl2 class="online_headline">Avery Gardiner, Edwin U</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Avery Weld Gardiner and Edwin John U were married last evening. Angus S. King Jr., the former governor of Maine, officiated at the summer home of the bride's family in Gardiner, Me.</p>
+        <p>The bride and bridegroom met at Harvard, from which they graduated, both magna cum laude, and received law degrees, both cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Avery Weld Gardiner and Edwin John U were married last evening. Angus S. King Jr., the former governor of Maine, officiated at the summer home of the bride’s family in Gardiner, Me.</p>
+      </block>
+      <block class="full_text">
+        <p>Avery Weld Gardiner and Edwin John U were married last evening. Angus S. King Jr., the former governor of Maine, officiated at the summer home of the bride's family in Gardiner, Me.</p>
+        <p>The bride and bridegroom met at Harvard, from which they graduated, both magna cum laude, and received law degrees, both cum laude.</p>
+        <p>Ms. Gardiner, 32, is keeping her name. She is a trial attorney in the antitrust division of the Justice Department in Washington.</p>
+        <p>She is a daughter of Anne and Robert H. Gardiner of Cumberland Foreside, Me. Her father retired as the director of the Maine office, in Brunswick, of the Conservation Law Foundation, an environmental legal advocacy organization. From 1992 to 2002, he was the president of Maine Public Broadcasting Corporation, which is in Lewiston, and operates the state's public radio and television stations. Her mother retired as a mediator for the State of Maine's court system.</p>
+        <p>Mr. U, 33, is a litigation partner in the Washington office of Kirkland &amp; Ellis, a Chicago firm.</p>
+        <p>He is the son of Anne and Dr. Raymond U of Cary, N.C. His father, a cancer researcher, retired as the director of hyperthermia oncology clinical research at Rex Hospital in Raleigh, N.C.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Subpoena Time</title>
+    <meta content="08fri1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/opinion/08fri1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852953"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Attorneys</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Miers, Harriet</person>
+        <person class="indexing_service">Rove, Karl</person>
+        <person class="indexing_service">Schlozman, Bradley</person>
+        <person class="indexing_service">Leahy, Patrick J (Sen)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">United States Attorneys</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Judges</classifier>
+        <classifier class="online_producer" type="descriptor">Perjury</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Perjury</classifier>
+        <classifier class="online_producer" type="general_descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Schlozman, Bradley</person>
+        <person class="online_producer">Leahy, Patrick J</person>
+        <person class="online_producer">Rove, Karl</person>
+        <person class="online_producer">Miers, Harriet E</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7DA1F30F93BA35755C0A9619C8B63" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Subpoena Time</hl1>
+        <hl2 class="online_headline">It’s Subpoena Time</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls on Sen Patrick Leahy, chairman of Judiciary Committee, to subpoena Karl Rove and former White House counsel Harriet Miers regarding Justice Dept firing of nine prosecutors; criticizes testimony of former federal atty Bradley Schlozman as latest in series of uninformative witnesses; scores Pres Bush for offering to make Rove and Miers available only if they do not take oath</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For months, senators have listened to a parade of well-coached Justice Department witnesses claiming to know nothing about how nine prosecutors were chosen for firing. This week, it was the turn of Bradley Schlozman, a former federal attorney in Missouri, to be uninformative and not credible. It is time for Senator Patrick Leahy, the chairman of the Judiciary Committee, to deliver subpoenas that have been approved for Karl Rove, former White House counsel Harriet Miers and their top aides, and to make them testify in public and under oath.</p>
+        <p>Mr. Schlozman was appointed United States attorney in Missouri while the state was in the midst of a hard-fought Senate race. In his brief stint, he pushed a lawsuit, which was thrown out by a federal judge, that could have led to thousands of Democratic-leaning voters being wrongly purged from the rolls. Just days before the election, he indicted voter registration workers from the liberal group Acorn on fraud charges. Republicans quickly made the indictments an issue in the Senate race.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Senator Patrick Leahy should deliver subpoenas that have been approved for Karl Rove and other top aides to make them testify under oath about the dismissals of nine United States attorneys</p>
+      </block>
+      <block class="full_text">
+        <p>For months, senators have listened to a parade of well-coached Justice Department witnesses claiming to know nothing about how nine prosecutors were chosen for firing. This week, it was the turn of Bradley Schlozman, a former federal attorney in Missouri, to be uninformative and not credible. It is time for Senator Patrick Leahy, the chairman of the Judiciary Committee, to deliver subpoenas that have been approved for Karl Rove, former White House counsel Harriet Miers and their top aides, and to make them testify in public and under oath.</p>
+        <p>Mr. Schlozman was appointed United States attorney in Missouri while the state was in the midst of a hard-fought Senate race. In his brief stint, he pushed a lawsuit, which was thrown out by a federal judge, that could have led to thousands of Democratic-leaning voters being wrongly purged from the rolls. Just days before the election, he indicted voter registration workers from the liberal group Acorn on fraud charges. Republicans quickly made the indictments an issue in the Senate race.</p>
+        <p>Mr. Schlozman said it did not occur to him that the indictments could affect the campaign. That is hard to believe since the Justice Department's guidelines tell prosecutors not to bring vote fraud investigations right before an election, so as not to affect the outcome. He also claimed, laughably, that he did not know that Acorn was a liberal-leaning group.</p>
+        <p>Mr. Schlozman fits neatly into the larger picture. Prosecutors who refused to use their offices to help Republicans win elections, like John McKay in Washington State, and David Iglesias in New Mexico, were fired. Prosecutors who used their offices to help Republicans did well.</p>
+        <p>Congress has now heard from everyone in the Justice Department who appears to have played a significant role in the firings of the prosecutors. They have all insisted that the actual decisions about whom to fire came from somewhere else. It is increasingly clear that the somewhere else was the White House. If Congress is going to get to the bottom of the scandal, it has to get the testimony of Mr. Rove, his aides Scott Jennings and Sara Taylor, Ms. Miers and her deputy, William Kelley.</p>
+        <p>The White House has offered to make them available only if they do not take an oath and there is no transcript. Those conditions are a formula for condoning perjury, and they are unacceptable. As for documents, the White House has released piles of useless e-mail messages. But it has reported that key e-mails to and from Mr. Rove were inexplicably destroyed. At the same time, it has argued that e-mails of Mr. Rove's that were kept on a Republican Party computer system, which may contain critical information, should not be released.</p>
+        <p>This noncooperation has gone on long enough. Mr. Leahy should deliver the subpoenas for the five White House officials and make clear that if the administration resists, Congress will use all available means to get the information it needs.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

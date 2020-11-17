@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Justice Dept. Official Resigns</title>
+    <meta content="16elston" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/washington/16elston.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854800"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Attorneys</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Johnston, David</person>
+        <person class="indexing_service">Elston, Michael</person>
+        <person class="indexing_service">Mcnulty, Paul J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <org class="online_producer">Justice Department</org>
+        <person class="online_producer">Elston, Michael J</person>
+        <person class="online_producer">McNulty, Paul J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1D8153FF935A25755C0A9619C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Justice Dept. Official Resigns</hl1>
+        <hl2 class="online_headline">Another Justice Dept. Official Resigns</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David</byline>
+      <dateline>WASHINGTON, June 15</dateline>
+      <abstract>
+        <p>Michael J Elston, chief of staff to outgoing deputy attorney general, Paul J McNulty, resigns; he is fifth Justice Dept official who played role in dismissals of federal prosecutors to resign in recent months (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Another Justice Department official involved in last year's dismissals of federal prosecutors is resigning, department officials said on Friday.</p>
+        <p>In this case, the departure of Michael J. Elston, chief of staff to the outgoing deputy attorney general, Paul J. McNulty, had been expected since Mr. McNulty announced last month that he would step down this summer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The departure of Michael J. Elston, chief of staff to the departing deputy attorney general, had been expected since last month.</p>
+      </block>
+      <block class="full_text">
+        <p>Another Justice Department official involved in last year's dismissals of federal prosecutors is resigning, department officials said on Friday.</p>
+        <p>In this case, the departure of Michael J. Elston, chief of staff to the outgoing deputy attorney general, Paul J. McNulty, had been expected since Mr. McNulty announced last month that he would step down this summer.</p>
+        <p>At one point, Mr. Elston compiled a list of prosecutors for possible removal, but his principal involvement came after the firings in February when he exchanged e-mail messages with H. E. Cummins III of Arkansas, one of the ousted United States attorneys.</p>
+        <p>Mr. Cummins testified later to the Senate Judiciary Committee that he regarded Mr. Elston's message as a veiled threat to retaliate against any ousted prosecutor who spoke to a reporter.</p>
+        <p>Mr. Elston said he was ''shocked and baffled'' by Mr. Cummins's assertions and denied that his e-mail message was intended to silence any of the dismissed prosecutors.</p>
+        <p>Mr. Elston is the fifth Justice Department official who played a role in the dismissals to resign in recent months. In addition to Mr. McNulty, others are D. Kyle Sampson, former chief of staff to Attorney General Alberto R. Gonzales, and Monica M. Goodling, a senior aide to Mr. Gonzales.</p>
+        <p>Michael Battle, who ran an office that serves as a link to the Justice Department's 93 United States attorneys, departed in March but said his resignation was not tied to the dismissals.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What the Greeks Knew</title>
+    <meta content="03alsmail-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851744"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WAR DRAMAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Quinn, Daniel P</person>
+        <object.title class="indexing_service">Journey's End (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0DE1530F930A35755C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What the Greeks Knew</hl1>
+      </hedline>
+      <abstract>
+        <p>Daniel P Quinn letter about May 27 article on war plays says Journey's End failed because it was old-fashioned play performed lethargically (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I do not share Charles Isherwood's lament about the closing of ''Journey's End.'' Having seen the plodding production, I was distressed by the lack of energy and projection by the actors, the dimly lighted stage and the horrendous bunker set that must cut off all sightlines in the balcony and the mezzanine. We are weary of the war in Iraq, as well as of an old-fashioned play performed lethargically that gets rave reviews. Let's get back to the Greeks for a war play please.</p>
+        <p>Daniel P. Quinn  Morristown, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I do not share Charles Isherwood's lament about the closing of ''Journey's End.'' Having seen the plodding production, I was distressed by the lack of energy and projection by the actors, the dimly lighted stage and the horrendous bunker set that must cut off all sightlines in the balcony and the mezzanine. We are weary of the war in Iraq, as well as of an old-fashioned play performed lethargically that gets rave reviews. Let's get back to the Greeks for a war play please.</p>
+        <p>Daniel P. Quinn  Morristown, N.J.</p>
+        <p>WAR DRAMAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

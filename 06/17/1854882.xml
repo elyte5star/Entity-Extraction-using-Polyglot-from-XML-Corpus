@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MCGOVERN, NANCY F.</title>
+    <meta content="dn061707.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854882"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MCGOVERN, NANCY F.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E4D6143AF934A25755C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MCGOVERN, NANCY F.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>McGOVERN--Nancy F., 84, July 26, 1922 to June 10, 2007. Wife of J. Stuart McGovern, mother, grandmother; KathArine, William, Kathy Lee and William Jr. From Greenwich and Palm Beach, has passed after a long illness. Very active volunteer in many charitable organizations in Larchmont, Minnesota, Greenwich and Palm Beach. Memorial services Monday, June 18, Lourdes McKeen Chapel, West Palm Beach at 11am. And St. Michael's, Greenwich, CT, June 23 at 11:30am. Please bring stories and pictures. In lieu of flowers, donations to Palm Beach Hospice. No more pain. Rest in Peace Mom and Dad. Love, Bill and Kath</p>
+      </block>
+      <block class="full_text">
+        <p>McGOVERN--Nancy F., 84, July 26, 1922 to June 10, 2007. Wife of J. Stuart McGovern, mother, grandmother; KathArine, William, Kathy Lee and William Jr. From Greenwich and Palm Beach, has passed after a long illness. Very active volunteer in many charitable organizations in Larchmont, Minnesota, Greenwich and Palm Beach. Memorial services Monday, June 18, Lourdes McKeen Chapel, West Palm Beach at 11am. And St. Michael's, Greenwich, CT, June 23 at 11:30am. Please bring stories and pictures. In lieu of flowers, donations to Palm Beach Hospice. No more pain. Rest in Peace Mom and Dad. Love, Bill and Kath</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

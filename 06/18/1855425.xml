@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muddy Waters</title>
+    <meta content="18mon2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/opinion/18mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855425"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wetlands</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Land Use Policies</classifier>
+        <location class="indexing_service">United States</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Wetlands</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wetlands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Land Use Policies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <org class="online_producer">Army Corps of Engineers</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0DC123FF93BA25755C0A9619C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muddy Waters</hl1>
+        <hl2 class="online_headline">Muddy Waters</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says bills in Congress would make sure that federal jurisdiction applies to all wetlands, large and small, and would restore order to regulatory system thrown into disarray by Supreme Court's tortured 2006 ruling that required laborious, expensive case-by-case analysis to see whether there was connection between wetland and distant navigable waters</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency and the Army Corps of Engineers have finally issued guidelines about which streams and wetlands are subject to federal jurisdiction. Unfortunately, they are just as confusing as the Supreme Court decision they are supposed to carry out -- guaranteeing endless litigation, while increasing the chances that valuable wetlands will be needlessly destroyed.</p>
+        <p>That is why Congress needs to move quickly to approve clarifying legislation that would reaffirm the broad federal protections lawmakers intended when they passed the Clean Water Act more than 30 years ago. The sponsors of a bill that would do just that -- Russell Feingold in the Senate and John Dingell and James Oberstar in the House -- should hold hearings and get Congress moving.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Congress needs to move quickly to approve clarifying legislation about which streams and wetlands are subject to federal jurisdiction.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency and the Army Corps of Engineers have finally issued guidelines about which streams and wetlands are subject to federal jurisdiction. Unfortunately, they are just as confusing as the Supreme Court decision they are supposed to carry out -- guaranteeing endless litigation, while increasing the chances that valuable wetlands will be needlessly destroyed.</p>
+        <p>That is why Congress needs to move quickly to approve clarifying legislation that would reaffirm the broad federal protections lawmakers intended when they passed the Clean Water Act more than 30 years ago. The sponsors of a bill that would do just that -- Russell Feingold in the Senate and John Dingell and James Oberstar in the House -- should hold hearings and get Congress moving.</p>
+        <p>The nub of the problem is an ambiguous 2006 ruling involving a Michigan landowner who had been denied permission to develop wetlands that had no obvious connection to other bodies of water. Four conservative justices ruled that federal jurisdiction extended only to navigable waters and adjacent wetlands. Four ruled that the law covered all waters, the government's traditional view. Justice Anthony Kennedy sought to split the difference, ruling that a wetland could be protected if the government could establish a ''significant nexus'' between it and a navigable body of water somewhere downstream.</p>
+        <p>The new E.P.A.-Corps of Engineers guidance follows Justice Kennedy's tortured middle way. Federal permits would be required for any development in traditionally navigable waters and adjacent wetlands. But for less obvious cases -- the tributaries, smaller streams and isolated wetlands that make up over half of the nation's waters -- the government would be required to conduct a laborious, expensive (and in some cases speculative) case-by-case analysis to see whether there was a connection to distant navigable waters.</p>
+        <p>The bills in Congress would cut through all that and make sure that federal jurisdiction applied to all waters, large and small, permanent or ephemeral. This makes perfect hydrological sense: very few, if any bodies of water are truly isolated and nearly all have some biological connection to a larger ecosystem. It would also restore order to a regulatory system thrown into disarray by the court.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

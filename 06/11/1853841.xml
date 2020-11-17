@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Queens Leader Supports Bloomberg's Traffic Plan</title>
+    <meta content="11plan" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/nyregion/11plan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853841"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Endorsements</classifier>
+        <classifier class="online_producer" type="descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <person class="online_producer">Crowley, Joseph</person>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFDD173FF932A25755C0A9619C8B63" item-length="671" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Queens Leader Supports Bloomberg's Traffic Plan</hl1>
+        <hl2 class="online_headline">Queens Leader Supports Bloomberg’s Traffic Plan</hl2>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bloomberg administration's plan to charge drivers in the busiest parts of Manhattan won support yesterday from Representative Joseph Crowley, the influential chairman of the Queens Democratic Party, whose endorsement could help reshape the fight where resistance to the plan has been among the strongest, in the boroughs outside Manhattan.</p>
+        <p>The congressman, who represents parts of Queens and the Bronx, announced his support at a news conference at Grand Central Terminal, standing alongside Mayor Michael R. Bloomberg and representatives of groups that support the plan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Representative Joseph Crowley’s endorsement could help reshape the fight where resistance to the plan has been among the strongest, in the boroughs outside Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bloomberg administration's plan to charge drivers in the busiest parts of Manhattan won support yesterday from Representative Joseph Crowley, the influential chairman of the Queens Democratic Party, whose endorsement could help reshape the fight where resistance to the plan has been among the strongest, in the boroughs outside Manhattan.</p>
+        <p>The congressman, who represents parts of Queens and the Bronx, announced his support at a news conference at Grand Central Terminal, standing alongside Mayor Michael R. Bloomberg and representatives of groups that support the plan.</p>
+        <p>Mr. Crowley said that although the proposal might require some changes, ''the overall plan -- and congestion pricing is just a part of it -- will make this a more livable city and make it easier to attract the best and the brightest not only from around the country but from around the world.''</p>
+        <p>The mayor has been on a feverish pace to try to win legislative approval for the plan before the close of Albany's regular session on June 21. Many Queens Democrats in the Assembly and members of the City Council have been among the plan's most ardent opponents. Last week, however, Mr. Bloomberg racked up crucial endorsements from Gov. Eliot Spitzer and the Bush administration, which said the city could be eligible for up to $500 million in federal grants if a congestion pricing plan were in place within the next three months.</p>
+        <p>Mr. Crowley was elected to Congress in 1998. Before then, he served in the Assembly for 12 years and was the handpicked successor to Thomas J. Manton, the powerful Queens party boss who died last year.</p>
+        <p>''He has considerable weight in Queens,'' said Joseph Mercurio, a political consultant. ''I would think that if he's moved on this, he already knows people are moving or he knows he could move them.''</p>
+        <p>Douglas A. Muzzio, a professor at the Baruch School of Public Affairs, said Mr. Crowley's support ''sends a powerful signal.''</p>
+        <p>The mayor is ''getting support where he needs it most,'' Mr. Muzzio said. ''The opposition is coming from Queens and Brooklyn, and him being a county leader says to his county people and State Assembly people that I'm on board with this.''</p>
+        <p>But some lawmakers who have already staked out a public position against the plan said Mr. Crowley's involvement, no matter how influential, would not change their minds.</p>
+        <p>''I have enormous respect for Joe, and he represents areas of Queens and the Bronx that will be impacted by congestion pricing,'' said Assemblyman Rory I. Lancman, a Queens Democrat. ''But reasonable people can disagree.''</p>
+        <p>City Councilman David I. Weprin and his brother, Assemblyman Mark Weprin, Queens Democrats whose districts overlap, echoed those sentiments.</p>
+        <p>The congestion pricing proposal is a central part of the long-range sustainability plan Mr. Bloomberg unveiled in April and could be a defining element of his legacy as mayor. The plan calls for charging cars $8 and large commercial trucks $21 to drive into Manhattan below 86th Street between 6 a.m. and 6 p.m. The mayor says the plan would encourage people to leave their cars at home and would raise $380 million a year to improve and expand mass transit options like subways, buses and ferries.</p>
+        <p>But opponents say the fees would be a regressive tax on the middle class, and they question the ripple effects the plan would have on traffic and parking outside the zone. Mr. Lancman as well as the Weprin brothers also oppose the plan because, they say, inadequate mass transit options leave many of their constituents with no choice but to drive, with improvements years away.</p>
+        <p>Mr. Crowley said the mayor's plans would produce the revenue needed to speed up such improvements, including adding more bus and rail stops in his Bronx and Queens district.</p>
+        <p>He and the mayor pointed specifically to plans to add new Metro-North Railroad stations in Co-op City and Parkchester in the Bronx and to activate dormant Long Island Rail Road stations in Corona and Elmhurst, Queens, communities that historically have been underserved by mass transit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

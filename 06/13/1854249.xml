@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bank Robber Forces A New Fashion Directive</title>
+    <meta content="13hat" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/nyregion/13hat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854249"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DE143FF930A25755C0A9619C8B63" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bank Robber Forces A New Fashion Directive</hl1>
+        <hl2 class="online_headline">Seeking a Bank Robber With a Taste for Hats</hl2>
+      </hedline>
+      <byline class="print_byline">By NATE SCHWEBER</byline>
+      <dateline>FLORHAM PARK, N.J., June 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You have to tip your hat, literally, to the man who has robbed 17 banks in northern New Jersey since last fall.</p>
+        <p>Because the man, known as the Hat Bandit and the Mad Hatter, has covered his head differently every time he has robbed a bank in Essex, Union, Morris and Middlesex Counties, the Hudson City Savings Bank and HSBC in this small suburban community are asking customers to enter the bank bareheaded.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>You have to tip your hat, literally, to the man who has robbed 17 banks in northern New Jersey since last fall.</p>
+      </block>
+      <block class="full_text">
+        <p>You have to tip your hat, literally, to the man who has robbed 17 banks in northern New Jersey since last fall.</p>
+        <p>Because the man, known as the Hat Bandit and the Mad Hatter, has covered his head differently every time he has robbed a bank in Essex, Union, Morris and Middlesex Counties, the Hudson City Savings Bank and HSBC in this small suburban community are asking customers to enter the bank bareheaded.</p>
+        <p>''Please remove all head-coverings, caps, hats and hoods,'' a sign on the door of the Hudson City Savings Bank instructs.</p>
+        <p>Since last September, the gray-haired, blue-eyed man with the varying headgear has made off with about $75,000, leading the police to visit each of the 11 banks here and ask them to make the request of customers.</p>
+        <p>Most bank security cameras are mounted near the ceiling, Lt. Robert Treiber of the Florham Park police said on Tuesday, and for that reason, ''We can't make out his face because of these hats.''</p>
+        <p>Lieutenant Treiber said the hats-off idea emerged in brainstorming sessions among more than a half-dozen law enforcement agencies in the area, and that they had asked -- but not ordered -- the banks to comply.</p>
+        <p>So far, only Hudson and HSBC have passed the request along to customers.</p>
+        <p>On Tuesday afternoon, many people who entered the Hudson City Savings Bank did not remove their hats.</p>
+        <p>But the branch manager, Nick Bruno, was not discouraged, saying that he expected people over time to remove their hats as a courtesy, and that anyone who did not would be ''looked at more closely.''</p>
+        <p>''It's like if you don't take off your hat during the 'Star-Spangled Banner' at a ballgame,'' Mr. Bruno said. ''People are going to look at you.''</p>
+        <p>To date, the man has robbed seven banks in Union County, five in Morris County, three in Essex County and two in Middlesex County, according to the Union County prosecutor's office, and his fashion accessories have included a knit cap, a fisherman's hat and an array of baseball caps.</p>
+        <p>And after several months, the police say they may be closing in on a suspect. When he robbed a Commerce Bank in Montclair on June 1, a security camera mounted behind a teller's head, a suggestion from Police Chief David Sabagh, captured his face.</p>
+        <p>An assistant Union County prosecutor, Eileen Walsh, said that the photograph was now hanging on bank walls throughout the region, and added that many leads had come in as a result of several segments on the television program ''America's Most Wanted.''</p>
+        <p>But Ms. Walsh said on Tuesday that she did not know how much the no-hat rule would help.</p>
+        <p>''You don't need a hat to rob a bank,'' she said. ''He could become the bareheaded bandit. Who knows?''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

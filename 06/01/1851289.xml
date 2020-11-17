@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Father, Jon Corzine</title>
+    <meta content="l01corzine" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851289"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD91530F932A35755C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Father, Jon Corzine</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re '' 'I Should Be Dead' '' (editorial, May 26):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re '' 'I Should Be Dead' '' (editorial, May 26):</p>
+        <p>I'm not claiming that a governor does not get special treatment. Nonetheless, having spent eight days with our father, Gov. Jon S. Corzine, who was on a ventilator at Cooper University Hospital in Camden, N.J., we witnessed the continuous, top-notch treatment and care of every patient on the trauma unit by nurses and doctors.</p>
+        <p>You write, ''Because he is extremely wealthy, his family could call in some of the best medical specialists from New York City.'' My brothers and I had to make some tough medical decisions. A friend from New York University Medical Center asked a few of his colleagues to provide a collegial review. They concurred completely with the Cooper doctors.</p>
+        <p>One of our dad's blessings is that he was a 10-minute helicopter ride from Camden. We're grateful to all the staff at Cooper University Hospital for putting him on a healthy road to recovery.</p>
+        <p>Jennifer Corzine-Pisani  New York, May 29, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Serena Hoy, James Reilly</title>
+    <meta content="03HOY" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851875"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Hoy, Serena Jeanine</person>
+        <person class="indexing_service">Reilly, James Dalton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DA1230F930A35755C0A9619C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Serena Hoy, James Reilly</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Serena Jeanine Hoy and James Dalton Reilly were married last evening at St. John's College in Annapolis, Md. Judge Merrick B. Garland of the United States Court of Appeals for the District of Columbia Circuit officiated.</p>
+        <p>The bride, 35, is keeping her name. She is a legal counsel in Washington to Senator Harry Reid of Nevada, the majority leader. She graduated from the University of Arizona and received a master's degree in modern Middle Eastern studies from Oxford University in England, where she was a Rhodes scholar, and a law degree from Yale.</p>
+      </block>
+      <block class="full_text">
+        <p>Serena Jeanine Hoy and James Dalton Reilly were married last evening at St. John's College in Annapolis, Md. Judge Merrick B. Garland of the United States Court of Appeals for the District of Columbia Circuit officiated.</p>
+        <p>The bride, 35, is keeping her name. She is a legal counsel in Washington to Senator Harry Reid of Nevada, the majority leader. She graduated from the University of Arizona and received a master's degree in modern Middle Eastern studies from Oxford University in England, where she was a Rhodes scholar, and a law degree from Yale.</p>
+        <p>She is a daughter of Peggy and Kenneth Hoy of Maryville, Tenn. Her father retired as a information systems manager at McDonnell Douglas, the aircraft manufacturer and military contractor in St. Louis. Her mother is an admissions coordinator at Blount Memorial Hospital Transitional Care Center in Maryville.</p>
+        <p>The bridegroom, 39, works in Washington as the chief of staff for Senator Tom Carper, Democrat of Delaware. He graduated from the University of Delaware and received a master's degree in environmental management from Duke.</p>
+        <p>He is a son of Alice Reilly of Wilmington, Del., and the late James Reilly. His mother is a registered nurse for Delaware Hospice in Wilmington. His father retired as a vice president of human resources for the DuPont Company in Wilmington.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

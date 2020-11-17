@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bad Is Good in One-Act Operas Featuring the Sin of Infidelity</title>
+    <meta content="13bara" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/arts/music/13bara.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854112"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Symphony Space</org>
+        <person class="online_producer">Barab, Seymour</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0D8173FF930A25755C0A9619C8B63" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bad Is Good in One-Act Operas Featuring the Sin of Infidelity</hl1>
+        <hl2 class="online_headline">Bad Is Good in One-Act Operas Featuring the Sin of Infidelity</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nothing gets an opera moving like one of the seven deadly sins, and if you can make the sin comic rather than deadly, so much the better. Seymour Barab has written several one-act comic operas and short operatic scenes about lust -- more specifically, adultery -- and on Monday evening the After Dinner Opera Company offered several at the Leonard Nimoy Thalia Theater at Symphony Space.</p>
+        <p>At 86, Mr. Barab is a prolific composer who also had a career as a cellist and gamba player. He writes his own librettos, which are clever, funny and often rhymed, and he sets them to music with an easygoing theatricality. No grand stylistic points are made here, except perhaps that directness and lyricism are both sensible and useful if your goal is simply to entertain.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nothing gets an opera moving like one of the seven deadly sins, and if you can make the sin comic rather than deadly, so much the better.</p>
+      </block>
+      <block class="full_text">
+        <p>Nothing gets an opera moving like one of the seven deadly sins, and if you can make the sin comic rather than deadly, so much the better. Seymour Barab has written several one-act comic operas and short operatic scenes about lust -- more specifically, adultery -- and on Monday evening the After Dinner Opera Company offered several at the Leonard Nimoy Thalia Theater at Symphony Space.</p>
+        <p>At 86, Mr. Barab is a prolific composer who also had a career as a cellist and gamba player. He writes his own librettos, which are clever, funny and often rhymed, and he sets them to music with an easygoing theatricality. No grand stylistic points are made here, except perhaps that directness and lyricism are both sensible and useful if your goal is simply to entertain.</p>
+        <p>The company opened its program with ''Savoir Faire,'' a vignette from Mr. Barab's ''American Punchlines.'' Here three drinking buddies each define savoir-faire in terms of a husband's reaction to finding his wife in bed with another man.</p>
+        <p>One suggests a husband who apologizes for arriving without calling first; another suggests the husband's offering his wife's lover a drink. In the third tale it's the lover who demonstrates savoir-faire: he asks the pistol-wielding husband not to shoot him until the lady has been sufficiently satisfied. Gracefully harmonized trios begin and end the piece.</p>
+        <p>In ''Everyone Has to Be Free'' the philanderer is a nightingale who enjoys warbling to a young princess (in a fairy tale within the opera) but needs to get back to his wife. The frame for that story is a conversation between a recently widowed man and his wife's ghost.</p>
+        <p>Their marriage had been blissful, but he had a suitcase packed in case he needed a night away, so to speak. He never took the option, but when he opens the suitcase to see if his suit still fits, he discovers one of his wife's negligees.</p>
+        <p>The final panel, ''The Husband, the Wife, the Lover,'' is a set of five scenes exploring infidelity and discovery, and a raft of subsidiary themes, in the same spirit of lyrical geniality and taboo smashing: in ''My, My!'' Mr. Barab gets laugh lines into the final moments of a double murder and suicide.</p>
+        <p>The singers were mostly students or recent graduates of Mercyhurst College in Erie, Pa., where the After Dinner Opera Company is based.</p>
+        <p>The best performances were by Jaqueline Edford, Dennis TeCulver, Kate Amatuzzo and Mark Donlin, but the others made strong contributions as well. They were Matthew Makay, Lydia Howery, Nicole Marie Gasse, Rachel Myers and Scott Spinnato. Louisa Jonason directed the production.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

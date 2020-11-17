@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Increased Spending For Legal Aid</title>
+    <meta content="01mbrfs-5" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851373"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D71530F932A35755C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Increased Spending For Legal Aid</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer proposed new regulations yesterday that are expected to increase by more than fourfold state spending on civil legal services for the poor. The regulations will require banks to pay a far higher interest rate on funds deposited in special accounts that lawyers use to temporarily hold money deposited by clients. Interest from these accounts has traditionally been used to pay for civil legal services, but banks have been paying an interest rate of 0.5 percent, on average. The new regulations will require banks to pay a more competitive rate of about 2.7 percent. The change, which requires a 45-day comment period but not legislative approval, is expected to increase financing for civil legal services for the poor from more than $13 million to as much as $65 million.</p>
+        <p>DANNY HAKIM</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer proposed new regulations yesterday that are expected to increase by more than fourfold state spending on civil legal services for the poor. The regulations will require banks to pay a far higher interest rate on funds deposited in special accounts that lawyers use to temporarily hold money deposited by clients. Interest from these accounts has traditionally been used to pay for civil legal services, but banks have been paying an interest rate of 0.5 percent, on average. The new regulations will require banks to pay a more competitive rate of about 2.7 percent. The change, which requires a 45-day comment period but not legislative approval, is expected to increase financing for civil legal services for the poor from more than $13 million to as much as $65 million.</p>
+        <p>DANNY HAKIM</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

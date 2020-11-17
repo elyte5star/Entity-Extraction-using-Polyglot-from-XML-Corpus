@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Iraq Ranks No. 2 Of Failed States</title>
+    <meta content="19failed" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855566"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Foreign Policy (Magazine)</org>
+        <org class="indexing_service">Fund for Peace</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E0DF133FF93AA25755C0A9619C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Iraq Ranks No. 2 Of Failed States</hl1>
+      </hedline>
+      <byline class="print_byline">By REUTERS</byline>
+      <dateline>WASHINGTON, June 18</dateline>
+      <abstract>
+        <p>Failed States Index for 2007 produced by Foreign Policy magazine and Fund for Peace ranks Iraq as world's second most unstable country, behind Sudan, more than four years after American-led invasion; survey finds Iraq with diminished results across range of social, economic, political and military indicators since 2006, when it was ranked fourth (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Iraq was ranked the world's second most unstable country, behind Sudan, more than four years after the American-led invasion of the country, in an annual survey released Monday.</p>
+        <p>The 2007 Failed States Index, produced by Foreign Policy magazine and the Fund for Peace, said Iraq suffered a third straight year of deterioration in 2006 with diminished results across a range of social, economic, political and military indicators. The survey ranked Iraq fourth last year.</p>
+      </block>
+      <block class="full_text">
+        <p>Iraq was ranked the world's second most unstable country, behind Sudan, more than four years after the American-led invasion of the country, in an annual survey released Monday.</p>
+        <p>The 2007 Failed States Index, produced by Foreign Policy magazine and the Fund for Peace, said Iraq suffered a third straight year of deterioration in 2006 with diminished results across a range of social, economic, political and military indicators. The survey ranked Iraq fourth last year.</p>
+        <p>Afghanistan, another war-torn country, where American and NATO forces are battling a Taliban insurgency nearly six years after a United States-led invasion, was in eighth place.</p>
+        <p>''Iraq and Afghanistan, the two main fronts in the global war on terror, both suffered over the past year,'' a report that accompanied the figures said. ''Their experiences show that billions of dollars in development and security aid may be futile unless accompanied by a functioning government, trustworthy leaders and realistic plans to keep the peace and develop the economy.''</p>
+        <p>The index said  Sudan, which it ranked as the world's worst failed nation, appeared to be dragging down its neighbors, the Central African Republic and Chad, with violence in the Darfur region responsible for at least 200,000 deaths.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

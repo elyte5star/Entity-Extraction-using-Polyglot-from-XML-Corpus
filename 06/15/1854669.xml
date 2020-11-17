@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Senator Blocks Vote On Subpoenas Over Eavesdropping</title>
+    <meta content="15brfs-5" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854669"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Subpoenas</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <org class="indexing_service">National Security Agency</org>
+        <person class="indexing_service">Risen, James</person>
+        <person class="indexing_service">Kyl, Jon (Sen)</person>
+        <person class="indexing_service">Leahy, Patrick J (Sen)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EEDC153FF936A25755C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Senator Blocks Vote On Subpoenas Over Eavesdropping</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES RISEN</byline>
+      <byline class="normalized_byline">Risen, James</byline>
+      <abstract>
+        <p>Sen Jon Kyl blocks vote in Judiciary Committee on whether to authorize subpoenas to Justice Department to obtain secret legal opinions and other documents related to National Security Agency's program of domestic eavesdropping; after vote Sen Patrick J Leahy, chairman of committee, can decide whether to issue subpoenas or use them as leverage in negotiations with Bush administration over access to documents (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Republican senator blocked a vote in the Judiciary Committee on whether to authorize subpoenas to the Justice Department to obtain secret legal opinions and other documents related to the National Security Agency's program of domestic eavesdropping. The action by Senator Jon Kyl of Arizona will block the vote for a week. After the vote next Thursday, Senator Patrick J. Leahy, Democrat of Vermont and chairman of the committee, can decide whether to issue the subpoenas or use them as leverage in negotiations with the Bush administration over access to the documents.</p>
+        <p>JAMES RISEN</p>
+      </block>
+      <block class="full_text">
+        <p>A Republican senator blocked a vote in the Judiciary Committee on whether to authorize subpoenas to the Justice Department to obtain secret legal opinions and other documents related to the National Security Agency's program of domestic eavesdropping. The action by Senator Jon Kyl of Arizona will block the vote for a week. After the vote next Thursday, Senator Patrick J. Leahy, Democrat of Vermont and chairman of the committee, can decide whether to issue the subpoenas or use them as leverage in negotiations with the Bush administration over access to the documents.</p>
+        <p>JAMES RISEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

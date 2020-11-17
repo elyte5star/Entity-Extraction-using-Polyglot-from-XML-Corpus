@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>British Court Names Terror Case Escapee</title>
+    <meta content="15britain" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/world/europe/15britain.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854553"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <person class="indexing_service">Siddiqui, Zeeshan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Great Britain</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E2DE153FF936A25755C0A9619C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>British Court Names Terror Case Escapee</hl1>
+        <hl2 class="online_headline">British Court Names Terror Case Escapee</hl2>
+      </hedline>
+      <dateline>LONDON, June 14</dateline>
+      <abstract>
+        <p>British court lifts restriction on identifying terrorism suspect who escaped from mental hospital last year and remains at large; he is Zeeshan Siddiqui, who is accused of having met other militants in Britain and Pakistan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A British court lifted restrictions Thursday on identifying a terrorism suspect who was said to have absconded last year by clambering through a window at a mental hospital. He is still at large.</p>
+        <p>The suspect, Zeeshan Siddiqui, 26, a former worker on the London subway system, is accused of having met other militants in Britain and Pakistan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The suspect, Zeeshan Siddiqui, is accused of having met other militants in Britain and Pakistan.</p>
+      </block>
+      <block class="full_text">
+        <p>A British court lifted restrictions Thursday on identifying a terrorism suspect who was said to have absconded last year by clambering through a window at a mental hospital. He is still at large.</p>
+        <p>The suspect, Zeeshan Siddiqui, 26, a former worker on the London subway system, is accused of having met other militants in Britain and Pakistan.</p>
+        <p>Last month, the names of three men who also disappeared while under official restrictions were made public. The restrictions, which fall short of formal imprisonment, limit the movements of suspects who have not been convicted of crimes under Britain's counterterrorism laws.</p>
+        <p>Mr. Siddiqui's name came to prominence in 2005 when extracts of a diary he had written were published in The New York Times.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

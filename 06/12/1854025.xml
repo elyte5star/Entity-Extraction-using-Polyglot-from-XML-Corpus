@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Infinite Universe, or Not</title>
+    <meta content="12lett-4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854025"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E4D9173FF931A25755C0A9619C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Infinite Universe, or Not</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Universe, Expanding Beyond All Understanding'' (Essay, June 5): Thank you, Dennis Overbye, for your essay about the implications of the continued expansion of the universe. I have never quite internalized the notion that space, which feels finite, is actually infinite. And life, which feels infinite, is finite. Now I know that were I born in the predicted future, space would feel finite. But how will life feel?</p>
+        <p>Hannah I. Lipman, M.D.  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Universe, Expanding Beyond All Understanding'' (Essay, June 5): Thank you, Dennis Overbye, for your essay about the implications of the continued expansion of the universe. I have never quite internalized the notion that space, which feels finite, is actually infinite. And life, which feels infinite, is finite. Now I know that were I born in the predicted future, space would feel finite. But how will life feel?</p>
+        <p>Hannah I. Lipman, M.D.  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

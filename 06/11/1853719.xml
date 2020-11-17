@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   TABACOFF, FRANCES ''FAY''</title>
+    <meta content="dn061107" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853719"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TABACOFF, FRANCES ''FAY''</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D9143AF932A25755C0A9619C8B63" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   TABACOFF, FRANCES ''FAY''</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TABACOFF--Frances ''Fay'', on June 7, 2007. Wife of Seymour, mother of David and his wife Sheri Bloom, Risa Tabacoff and her husband Mark Hess and Emily Tabacoff. Grandmother of Helaine, Matthew, Elyssa, Jeremy, Erica, Alec, Jonathan, Rachel and Zachary. Memorials to the Multiple Myeloma Foundation appreciated.</p>
+      </block>
+      <block class="full_text">
+        <p>TABACOFF--Frances ''Fay'', on June 7, 2007. Wife of Seymour, mother of David and his wife Sheri Bloom, Risa Tabacoff and her husband Mark Hess and Emily Tabacoff. Grandmother of Helaine, Matthew, Elyssa, Jeremy, Erica, Alec, Jonathan, Rachel and Zachary. Memorials to the Multiple Myeloma Foundation appreciated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

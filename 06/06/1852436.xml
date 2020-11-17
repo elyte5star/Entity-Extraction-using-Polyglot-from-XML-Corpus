@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   RUSSELL, EDWARD T.</title>
+    <meta content="dn060607" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852436"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">RUSSELL, EDWARD T.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DC143AF935A35755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   RUSSELL, EDWARD T.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RUSSELL--Edward T., Widower of Mary Jane Russell, died in Savannah on May 20 after a brief illness at 82. He is survived by sons and daughters-in-law John and Cynthia; David; and Mark and Barbara; brother and sister-in-law Alfred and Lynn; and sister and brother-in-law Barbara and Bill Brennan. Ed earned seven battle stars in the Navy during WWII. He worked in advertising, rising in position from mailroom clerk to President of Doyle Dane Bernbach Int'l. Ed was known for his work on VW, Sony, Jamaica Tourism, and Clairol accounts. He later had his own firm, Russell, Harris, Levenson, and also served as President of Della Femina, Travisano Int'l. An accomplished photographer, Ed won the Distinctive Award of Merit from the NY Advertising Club. A 37-year resident of Pound Ridge, NY, Ed founded the PR Land Conservancy, was a recipient of the PR Good Neighbor Award, and was an active member of the PR Fire Department, serving as its President, as President of the PR Firemen's Benevolent Association, and as Chair of the Board of Fire Commissioners. A memorial service will be held on June 9, 1PM, at the PR Fire Department. Donations may be made to the PR Fire Department, 179 Westchester Ave, Pound Ridge, NY, 10576</p>
+      </block>
+      <block class="full_text">
+        <p>RUSSELL--Edward T., Widower of Mary Jane Russell, died in Savannah on May 20 after a brief illness at 82. He is survived by sons and daughters-in-law John and Cynthia; David; and Mark and Barbara; brother and sister-in-law Alfred and Lynn; and sister and brother-in-law Barbara and Bill Brennan. Ed earned seven battle stars in the Navy during WWII. He worked in advertising, rising in position from mailroom clerk to President of Doyle Dane Bernbach Int'l. Ed was known for his work on VW, Sony, Jamaica Tourism, and Clairol accounts. He later had his own firm, Russell, Harris, Levenson, and also served as President of Della Femina, Travisano Int'l. An accomplished photographer, Ed won the Distinctive Award of Merit from the NY Advertising Club. A 37-year resident of Pound Ridge, NY, Ed founded the PR Land Conservancy, was a recipient of the PR Good Neighbor Award, and was an active member of the PR Fire Department, serving as its President, as President of the PR Firemen's Benevolent Association, and as Chair of the Board of Fire Commissioners. A memorial service will be held on June 9, 1PM, at the PR Fire Department. Donations may be made to the PR Fire Department, 179 Westchester Ave, Pound Ridge, NY, 10576</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

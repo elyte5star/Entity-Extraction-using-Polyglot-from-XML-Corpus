@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="13roundup-3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/theater/reviews/13rabb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854244"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Theater Review | 'Rabbit'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Brits Off Broadway (Festival)</classifier>
+        <person class="indexing_service">Bellafante, Ginia</person>
+        <person class="indexing_service">Raine, Nina</person>
+        <person class="indexing_service">Randle, Charlotte</person>
+        <object.title class="indexing_service">Rabbit (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <object.title class="online_producer">Rabbit (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E7DE143FF930A25755C0A9619C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+        <hl2 class="online_headline">For This Group, the Party’s Over</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+      <byline class="normalized_byline">Bellafante, Ginia</byline>
+      <abstract>
+        <p>Ginia Bellafante reviews Nina Raine play Rabbit, which is part of Brits Off Broadway festival; Charlotte Randle stars (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rabbit  59E59 Theaters  59 East 59th Street, Manhattan  (212) 279-4200  Through July 1</p>
+        <p>''Rabbit,'' a new play by the young British writer Nina Raine, feels a bit like an episode of ''Friends'' set in an abbey. It is chatty and high-strung. It is stark and funereal. It is Bella, the central figure, a woman in glittery high heels and an unadorned black dress who embodies a tension that Ms. Raine tries to grab but can never quite clutch -- the tension between the enticement of sex and the denial of its most profound implications.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This new play by the young British writer Nina Raine feels a bit like an episode of “Friends” set in an abbey.</p>
+      </block>
+      <block class="full_text">
+        <p>Rabbit  59E59 Theaters  59 East 59th Street, Manhattan  (212) 279-4200  Through July 1</p>
+        <p>''Rabbit,'' a new play by the young British writer Nina Raine, feels a bit like an episode of ''Friends'' set in an abbey. It is chatty and high-strung. It is stark and funereal. It is Bella, the central figure, a woman in glittery high heels and an unadorned black dress who embodies a tension that Ms. Raine tries to grab but can never quite clutch -- the tension between the enticement of sex and the denial of its most profound implications.</p>
+        <p>Ms. Raine also directed the play, part of the Brits Off Broadway festival at the 59E59 Theaters. She likes words and riffs delivered anxiously and nimbly. The pretty young people who grace her spare stage know the game, sparring about love, sex and ambition as if any other sort of conversation would be as pointless as artichokes on toast.</p>
+        <p>The group has gathered for the 29th birthday of their friend Bella (Charlotte Randle), a particular sort of British woman, high enough in the class structure that her loose sexual ethics never redound to a cheapened image. Bella is Ms. Raine's receptacle for both her obvious affection for David Mamet and, incongruously, her apparent grievances with the failures of feminism.</p>
+        <p>''Last night I realized -- all my favorite authors are men; why aren't any of my favorite authors women?'' she says at one point. ''Who are the great women now?''</p>
+        <p>Bella is a sexist. She doesn't mean to be, but it is the way things have turned out. And her sexism has translated into a self-loathing that keeps her from doing anything professionally meaningful.</p>
+        <p>Ms. Raine operates here without a flight plan, but she taps into a paradox of our time: Although 40 is the new 30, 75 the new 60, and so on, midlife crises seem to come earlier and earlier as the pressure to succeed at a young age has become astronomical.</p>
+        <p>I watched ''Rabbit'' feeling a vague cramp of despair for the young men and women in front of me, all taut skin and sharp bite, who seemed to be at the end of something rather than the beginning, showing up at a party over long before they arrived.</p>
+        <p>GINIA BELLAFANTE</p>
+        <p>Theater Review | 'Rabbit'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

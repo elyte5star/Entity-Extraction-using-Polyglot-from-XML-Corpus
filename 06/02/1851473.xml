@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Palestinian Disarray</title>
+    <meta content="l02palestinian" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851473"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <location class="indexing_service">Israel</location>
+        <person class="indexing_service">Reich, Jonathan D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D61330F931A35755C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Palestinian Disarray</hl1>
+      </hedline>
+      <abstract>
+        <p>Jonathan D Reich letter holds that if Palestinians are desperate, it is time for them to look in mirror and ask why their own media promote violence, why their society has no due process, and why their education system continues to teach hate</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Jihadist Groups Fill a Palestinian Power Vacuum'' (front page, May 31):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Jihadist Groups Fill a Palestinian Power Vacuum'' (front page, May 31):</p>
+        <p>We have constantly heard the mantra that Palestinian desperation is pushing Palestinians toward extremism and that the solution is to empower moderates by making concessions.</p>
+        <p>But the concessions are only viewed as weakness by the extremists who gain more power, while the moderates, who frequently are engaged in terror, whine for more concessions.</p>
+        <p>If Palestinians are desperate, it is time for them to look in the mirror and ask why their own media promote violence, why their society has no due process, and why their educational system continues to teach hate.</p>
+        <p>They need to ponder why a group of people that receives more aid per person than any group on earth continues to have no credible economic system or rule of law.</p>
+        <p>If jihadists are gaining power, it is not the fault of the West or Israel. The root cause of the conflict is accountability</p>
+        <p>Jonathan D. Reich  Lakeland, Fla., May 31, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

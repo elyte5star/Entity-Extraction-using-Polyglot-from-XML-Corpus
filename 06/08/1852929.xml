@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Veterans' Benefits System Needs Overhaul, Panel Says</title>
+    <meta content="08vets" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/us/08vets.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852929"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Handicapped</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Veterans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Veterans Affairs Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DB1F30F93BA35755C0A9619C8B63" item-length="732" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Veterans' Benefits System Needs Overhaul, Panel Says</hl1>
+        <hl2 class="online_headline">Veterans’ Benefits System Needs Overhaul, Panel Says</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIK ECKHOLM</byline>
+      <byline class="normalized_byline">Eckholm, Erik</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A panel of medical experts called yesterday for a sweeping overhaul of the way veterans' disability claims are judged, saying the current system is riddled with obsolete medical definitions and ignores the impact of injuries on veterans' quality of life.</p>
+        <p>''The ratings schedule used by the V.A. is hopelessly outdated,'' said Dr. Lonnie R. Bristow, chairman of the Institute of Medicine panel, which issued the study's findings. ''It's a system originally designed in 1945 and it hasn't kept pace with modern changes in medicine and in our understanding of disability.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A panel of medical experts said the current system of judging disability claims ignores the impact of injuries on veterans’ quality of life.</p>
+      </block>
+      <block class="full_text">
+        <p>A panel of medical experts called yesterday for a sweeping overhaul of the way veterans' disability claims are judged, saying the current system is riddled with obsolete medical definitions and ignores the impact of injuries on veterans' quality of life.</p>
+        <p>''The ratings schedule used by the V.A. is hopelessly outdated,'' said Dr. Lonnie R. Bristow, chairman of the Institute of Medicine panel, which issued the study's findings. ''It's a system originally designed in 1945 and it hasn't kept pace with modern changes in medicine and in our understanding of disability.''</p>
+        <p>Veterans applying to the Department of Veterans Affairs for disability benefits receive a rating, from zero to 100 percent, based on their diagnosed, service-related problems and the supposed loss in workplace earnings that will result. Currently, a veteran without dependents who receives a rating of 10 percent would receive $115 a month tax free. A rating of 100 percent, meaning an inability to work at all, would entitle the veteran to $2,471 a month.</p>
+        <p>But the agency's list of ailments and infirmities does not include, among other things, the signature wound of the Iraq war, traumatic brain injury. This forces examiners to consider a range of symptoms that brain-injury patients have and to try to relate them to an existing rating code, which creates the potential for wide variations in awards.</p>
+        <p>The study was conducted for the Veterans' Disability Benefits Commission, a body established in 2004 by Congress to recommend changes to an ailing system that now provides nearly three million veterans with about $30 billion a year in payments. The commission is expected to issue its report this fall.</p>
+        <p>The fairness and efficiency of the veterans department's disability procedures have been in contention for decades, with veterans' groups complaining of long waits for decisions and the agency's tardy response to problems like post traumatic stress and gulf war syndrome. Other critics say the system has fostered dependency among some veterans who could work.</p>
+        <p>The study by the medicine institute, a branch of the National Academy of Sciences, addresses the heart of the system: how service-related injuries or diseases are defined, given a rating and compensated.</p>
+        <p>Among other problems, the formula that ties particular injuries to earnings losses has not been updated for 40 years, the study said, and does not take account of advances in therapies and prosthetics or the vast changes in the workplace, resulting in awards too high or low.</p>
+        <p>In its most far-reaching proposal, the panel said that the focus on lost earnings was too narrow and did not reflect modern ideas about the meaning of disability. It called for compensation formulas to pay new attention to the effects of injuries on daily functioning and quality of life. Thus, for example, a father's inability to play catch with a son would deserve compensation even if, with a damaged arm, he could work as a computer programmer.</p>
+        <p>The study said that such changes would be ''difficult and costly,'' requiring research and retraining of staff and more involvement of doctors in the ratings process.</p>
+        <p>The panel was not asked to estimate the cost of its recommendations, either for retooling the payment system or the higher benefits. Dr. Bristow, former president of the American Medical Association, said such a calculation was impossible at this point but emphasized that ''these costs are related to our obligations to those who served the nation.''</p>
+        <p>In a written statement, the veterans department said, ''We look forward to examining the I.O.M. study and the full report of the Veterans Disability Benefits Commission to ensure America's veterans receive the benefits they have earned by their service to our nation.''</p>
+        <p>Advocates for veterans responded to the study enthusiastically.</p>
+        <p>''These changes, especially including quality of life, would be really good news for the vets and their families,'' said Paul Sullivan, director of Veterans for Common Sense. ''But this is an indication of the true cost of war, and it will cost money.''</p>
+        <p>Mr. Sullivan noted that the V.A. is already overstretched, taking an average of six months to rule on new disability claims, and that appeals take an average of two years.</p>
+        <p>Steve Robinson, an official of Veterans for America, called the study ''good news.'' He said that many advocates were hopeful that the benefits commission would incorporate these and other major changes in its report this fall and that Congress and President Bush would listen.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

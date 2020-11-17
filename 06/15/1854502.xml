@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Listings: June 15 - June 21; IT'S ONLY A MOVIE: HORROR FILMS FROM THE 1970S AND TODAY</title>
+    <meta content="15bmovie" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854502"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D6143FF936A25755C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Listings: June 15 - June 21; IT'S ONLY A MOVIE: HORROR FILMS FROM THE 1970S AND TODAY</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVE KEHR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>(Tomorrow and Sunday) The Museum of the Moving Image examines the links between the politically charged horror movies of the 1970s and the literal-minded, blood-soaked remakes many of them are receiving today. Tomorrow's program begins at 2 p.m. with ''The American Nightmare,'' Adam Simon's 2000 documentary about the horror phenomenon of the '70s, which features interviews with John Carpenter, Wes Craven, Tobe Hooper, John Landis and other seminal figures. Then, at 4 p.m., you can compare Stanley Kubrick's blithely sadistic 1971 film, ''A Clockwork Orange'' (with its consideration of rape -- at least as performed by Alex, Malcolm McDowell's character, above -- as a political act), with its glumly moralistic 21st-century cousin, ''Saw II,'' which screens at 6:30. Sunday brings Mr. Hooper's original 1974 ''The Texas Chainsaw Massacre,'' with its garish, paranoid portrait of a demented, ingrown middle America, represented by a family of laid-off slaughterhouse workers who take out their resentment on a traveling band of flower children (2 p.m.). It is followed by Rob Zombie's Hooper-inspired ''Devil's Rejects'' of 2005 (6:30 p.m.). In between there's a panel discussion with the critics Nathan Lee, Adam Lowenstein, Maitland McDonagh and Joshua Rothkopf.(Through July 22, Museum of the Moving Image, 35th Avenue, at 36th Street, Astoria, Queens, 718-784-0077, movingimage.us; $10.)</p>
+        <p>DAVE KEHR</p>
+      </block>
+      <block class="full_text">
+        <p>(Tomorrow and Sunday) The Museum of the Moving Image examines the links between the politically charged horror movies of the 1970s and the literal-minded, blood-soaked remakes many of them are receiving today. Tomorrow's program begins at 2 p.m. with ''The American Nightmare,'' Adam Simon's 2000 documentary about the horror phenomenon of the '70s, which features interviews with John Carpenter, Wes Craven, Tobe Hooper, John Landis and other seminal figures. Then, at 4 p.m., you can compare Stanley Kubrick's blithely sadistic 1971 film, ''A Clockwork Orange'' (with its consideration of rape -- at least as performed by Alex, Malcolm McDowell's character, above -- as a political act), with its glumly moralistic 21st-century cousin, ''Saw II,'' which screens at 6:30. Sunday brings Mr. Hooper's original 1974 ''The Texas Chainsaw Massacre,'' with its garish, paranoid portrait of a demented, ingrown middle America, represented by a family of laid-off slaughterhouse workers who take out their resentment on a traveling band of flower children (2 p.m.). It is followed by Rob Zombie's Hooper-inspired ''Devil's Rejects'' of 2005 (6:30 p.m.). In between there's a panel discussion with the critics Nathan Lee, Adam Lowenstein, Maitland McDonagh and Joshua Rothkopf.(Through July 22, Museum of the Moving Image, 35th Avenue, at 36th Street, Astoria, Queens, 718-784-0077, movingimage.us; $10.)</p>
+        <p>DAVE KEHR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

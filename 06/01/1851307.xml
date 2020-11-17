@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="01trans" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851307"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3D81530F932A35755C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>National Association of Professional  Baseball Leagues--Announced Mike Moore, president, will retire in December.  American League  CLEVELAND INDIANS--Recalled OF Franklin Gutierrez from Buffalo (IL). Optioned RHP Mike Koplove to Buffalo.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Agreed to terms with RHP Max Scherzer on a four year contract.  FLORIDA MARLINS--Activated RHP Henry Owens from the 15-day DL. Optioned RHP Lee Gardner to Albuquerque (PCL).  SAN DIEGO PADRES--Agreed to terms with RHP Jeremy McBryde. Claimed OF Hiram Bocachica off waivers from Oakland.  SAN FRANCISCO GIANTS--Traded RHP Armando Benitez to Florida for RHP Randy Messenger.</p>
+        <p>N.B.A.</p>
+        <p>INDIANA PACERS--Named Jim O'Brien coach.  MEMPHIS GRIZZLIES--Named Marc Iavaroni coach.</p>
+        <p>N.F.L.</p>
+        <p>PITTSBURGH STEELERS--Signed P Dan Sepulveda and OL Cameron Stephenson.</p>
+        <p>N.H.L.</p>
+        <p>CAROLINA HURRICANES--Re-signed G Cam Ward to a three-year contract.  MONTREAL CANADIENS--Acquired F Ryan Russell from New York for a 2007 seventh round draft pick and signed him to a three-year contract. Signed F Janne Lahti to a one- year contract.  TAMPA BAY LIGHTNING--Named Mike Sullivan assistant coach. Signed G Riku Helenius and C Chris Lawrence to three year contracts.  WASHINGTON CAPITALS--Signed D Sami Lepisto to a two-year contract.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>National Association of Professional  Baseball Leagues--Announced Mike Moore, president, will retire in December.  American League  CLEVELAND INDIANS--Recalled OF Franklin Gutierrez from Buffalo (IL). Optioned RHP Mike Koplove to Buffalo.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Agreed to terms with RHP Max Scherzer on a four year contract.  FLORIDA MARLINS--Activated RHP Henry Owens from the 15-day DL. Optioned RHP Lee Gardner to Albuquerque (PCL).  SAN DIEGO PADRES--Agreed to terms with RHP Jeremy McBryde. Claimed OF Hiram Bocachica off waivers from Oakland.  SAN FRANCISCO GIANTS--Traded RHP Armando Benitez to Florida for RHP Randy Messenger.</p>
+        <p>N.B.A.</p>
+        <p>INDIANA PACERS--Named Jim O'Brien coach.  MEMPHIS GRIZZLIES--Named Marc Iavaroni coach.</p>
+        <p>N.F.L.</p>
+        <p>PITTSBURGH STEELERS--Signed P Dan Sepulveda and OL Cameron Stephenson.</p>
+        <p>N.H.L.</p>
+        <p>CAROLINA HURRICANES--Re-signed G Cam Ward to a three-year contract.  MONTREAL CANADIENS--Acquired F Ryan Russell from New York for a 2007 seventh round draft pick and signed him to a three-year contract. Signed F Janne Lahti to a one- year contract.  TAMPA BAY LIGHTNING--Named Mike Sullivan assistant coach. Signed G Riku Helenius and C Chris Lawrence to three year contracts.  WASHINGTON CAPITALS--Signed D Sami Lepisto to a two-year contract.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

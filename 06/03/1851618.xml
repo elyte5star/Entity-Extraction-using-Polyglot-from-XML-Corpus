@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alice, Let's Eat</title>
+    <meta content="Kuh.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/books/review/Kuh-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851618"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Berkeley</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <location class="online_producer">Berkeley (Calif)</location>
+        <org class="online_producer">Chez Panisse</org>
+        <person class="online_producer">Waters, Alice</person>
+        <person class="online_producer">McNamee, Thomas</person>
+        <object.title class="online_producer">Alice Waters and Chez Panisse (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DEFD61630F930A35755C0A9619C8B63" item-length="1212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alice, Let's Eat</hl1>
+        <hl2 class="online_headline">Alice, Let’s Eat</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRIC KUH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALICE WATERS AND CHEZ PANISSE</p>
+        <p>The Romantic, Impractical, Often Eccentric, Ultimately Brilliant Making of a</p>
+        <p>Food Revolution.</p>
+        <p>By Thomas McNamee.</p>
+        <p>Illustrated. 380 pp. The Penguin Press. $27.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A history of Alice Waters’s Berkeley restaurant, which changed American cooking.</p>
+      </block>
+      <block class="full_text">
+        <p>ALICE WATERS AND CHEZ PANISSE</p>
+        <p>The Romantic, Impractical, Often Eccentric, Ultimately Brilliant Making of a</p>
+        <p>Food Revolution.</p>
+        <p>By Thomas McNamee.</p>
+        <p>Illustrated. 380 pp. The Penguin Press. $27.95.</p>
+        <p>On Aug. 28, 1971, Chez Panisse opened for business. The evening light was streaming across Shattuck Avenue in Berkeley. In the kitchen, a complicated sauce for canard aux olives was being attempted. No one there thought American cooking was about to be sent off in a new direction. The question was whether the restaurant could make it through the evening. True to the kind of well-intentioned venture it was, it almost didn't.</p>
+        <p>Except for a handful of establishments, haute cuisine in America was a spent force by the early '70s. But the alternative was not yet clear. Chez Panisse would create a new ideal, one that included seasonal and local aspects, yes, but that also had personal values at its core. The idea of gastronomy would never again depend on preparations named for dead French nobles.</p>
+        <p>In Thomas McNamee's ''Alice Waters and Chez Panisse,'' the careering, chaotic and ultimately inspiring story of that transition is told. This is not a book of great culinary theories; it is a book that shows Waters, the restaurant's founder and guiding spirit, driving cooks to distraction by plucking an infinitesimal lettuce leaf from a salad because it threw off the scale. Such examples provide McNamee with his great insight. Chez Panisse possessed neither the tradition nor the craft of other restaurants. Instead, it had the shakiest of concepts for founding a restaurant: an aesthetic sense of how things could be. McNamee shows just how crucial that aesthetic sense was to the creation and development of Chez Panisse. For when the technical aspect of its cooking finally caught up to its aesthetic vision, a new direction in American cooking was truly born.</p>
+        <p>The story has never been so completely told before. But then, no writer was ever given the access to Waters that McNamee enjoyed, and she comes across in these pages as quirky and passionate, by turns exasperating and challenging -- in short, a fully rounded person. McNamee's cleareyed assessment avoids the usual platitudes about California cuisine and shows how one individual with an understanding of food can carve out a personal identity and at the same time make culinary history.</p>
+        <p>In fact, when it opened, restaurants like Chez Panisse were not all that rare. When one basted the cultural disaffection of the '60s with enough descriptions of Italian ports and French farmhouses by the English food writer Elizabeth David, the result was often a restaurant. In most cases the cooperative goodwill of these establishments faded with the realization that running a restaurant was like preparing Thanksgiving dinner every day.</p>
+        <p>Daily Thanksgivings seem like a curious subject for McNamee. He is not a culinary journalist by trade but a skilled nature writer who, in a previous book, ''The Return of the Wolf to Yellowstone,'' was at his best recounting how quickly cottonwood saplings returned to a Montana riverbank after cattle were fenced out.</p>
+        <p>Certainly, to see him describe lobes of fresh foie gras as ''quivering'' gives one pause. Raw foie gras is solid, a consistency that allows a cook either to devein it for a terrine or to slice it for sautéing in a hot pan. McNamee also suggests that the months young cooks spend at repetitious tasks in the classic kitchen somehow dull the culinary voice. The French call the body of skills they are learning le métier, and among the many benefits of its acquisition is to delay personal expression until a cook has something to say. I think we can all agree on the value of that.</p>
+        <p>Despite such missteps, McNamee has genuine insights to offer. His observation that the desserts by Chez Panisse's co-founder and pastry chef, Lindsey Shere, were ''the first dishes fully to embody the elegance and unassuming perfection'' that were the restaurant's culinary ideals significantly advances our understanding of the restaurant's development.</p>
+        <p>Indeed, McNamee is well served by his naturalist's patience and skills of observation. No sooner is the opening scene painted than he is working in an array of genres, from reporting to transcribing recipes to compiling a kind of oral history of Chez Panisse. Chefs, friends, backers, lovers -- in fact anyone who has had one angst-ridden moment at 1517 Shattuck Avenue -- is handed the mike, and each has something to say.</p>
+        <p>Waters herself tells us of the first day of her first visit to France in 1965, when the heavy blue draperies of a Paris hotel and the good vegetable soup served there represented something of an awakening for her. Her friend Bob Carrau comments on what drives her to change the way Americans think about food: ''One thing that everyone loves about Alice but also drives everyone crazy is how she's always into the struggle. It can be annoying to some people, because they just don't want to think of this stuff all the time. There's a kind of sad beauty in it all -- her fixation on injustice and her restlessness about it. I'm sure it also allows her to stay out of her interior, too.''</p>
+        <p>Letting Waters talk through her approach to certain preparations works particularly well. Recipes can seem like so much padding. Here they enrich the book because they show how someone who never pretended to be a great cook herself could so influence others. The French vegetable soup that threw a switch in her consciousness exemplifies her ability to communicate the spirit of a dish. After she's gathered her winter vegetables and sautéed them until they've started to soften, she adds a really light chicken stock that won't mask the taste of the vegetables. The soup shouldn't be ground in a blender, she says, ''because that would make it too smooth. I use a food mill with the widest holes, so you still have a sense of the liquid in the soup.'' No weights or measures here.</p>
+        <p>s McNamee comes to the end of his story, he returns to a reportorial mode. He travels with Waters and several of the restaurant's cooks to a dinner they are preparing for Slow Food bigwigs in an Italian castle. The scene could have been precious since it is so distant from the everyday. Still, here they are, improvising, grilling over vine cuttings, cooking neither an Italian nor a French meal, unafraid of whether they impress or not. Being true to the ingredients is all that counts. That is what they stand for.</p>
+        <p>If Chez Panisse transformed American dining it is thanks to the passions of the people who have been part of it, particularly Waters. Because of her openness to the personal side of cooking, her ability to embrace it whatever confusion might result, Waters forced gastronomy down a more modest path. For the first time in this country, cuisine could mirror one's own life and beliefs. And that would be the new way. When McNamee's patient gaze finally settles on the restaurant's dining room today, he steps back and lets pure description carry the moment. The evening sun is coming in from Shattuck Avenue, the guests are expected, and behind the pine table that separates dining room from kitchen, the cooks are quietly at work.</p>
+        <p>Patric Kuh is the restaurant critic of Los Angeles magazine and the editor, with Dorothy Hamilton, of ''Chef's Story: 27 Chefs Talk About What Got Them Into the Kitchen.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Patric Kuh is the restaurant critic of Los Angeles magazine and the editor, with Dorothy Hamilton, of ''Chef's Story: 27 Chefs Talk About What Got Them Into the Kitchen.''</tagline>
+    </body.end>
+  </body>
+</nitf>

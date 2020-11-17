@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NBC Developing Web Site for Students</title>
+    <meta content="14nbc" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Education" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/arts/television/14nbc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">NBC News</org>
+        <person class="online_producer">Russert, Tim</person>
+        <person class="online_producer">Williams, Brian</person>
+        <person class="online_producer">Stewart, Jon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DB143FF937A25755C0A9619C8B63" item-length="723" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NBC Developing Web Site for Students</hl1>
+        <hl2 class="online_headline">NBC Developing Web Site for Students</hl2>
+      </hedline>
+      <byline class="print_byline">By JACQUES STEINBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Imagine Tim Russert introducing a classroom history lesson that compares the Bill of Rights with the Articles of Confederation, or Brian Williams describing the reverberations of the Stamp Act.</p>
+        <p>NBC News actually has, and in a formal presentation to broadcast industry analysts today, the network is to announce an online venture intended as a supplement to Advanced Placement high school courses in three subjects: American history, government and English. The effort, which the network is spending nearly $10 million to develop, draws heavily on its exhaustive film and video archives chronicling the most important events of the last half century, as well as on its best-known journalists, who will have a chance to report on stories that occurred long before they were born.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Imagine Tim Russert introducing a classroom history lesson about the Articles of Confederation, or Brian Williams describing the reverberations of the Stamp Act.</p>
+      </block>
+      <block class="full_text">
+        <p>Imagine Tim Russert introducing a classroom history lesson that compares the Bill of Rights with the Articles of Confederation, or Brian Williams describing the reverberations of the Stamp Act.</p>
+        <p>NBC News actually has, and in a formal presentation to broadcast industry analysts today, the network is to announce an online venture intended as a supplement to Advanced Placement high school courses in three subjects: American history, government and English. The effort, which the network is spending nearly $10 million to develop, draws heavily on its exhaustive film and video archives chronicling the most important events of the last half century, as well as on its best-known journalists, who will have a chance to report on stories that occurred long before they were born.</p>
+        <p>Named iCue -- pronounced like I.Q. but meant to exhort students to Immerse Compete Understand and Excel -- the project is intended not only to engage teachers and their students in fresh ways, but also to woo a new generation of potential viewers to NBC News, network executives said in recent interviews.</p>
+        <p>''We recognize when we look at our broadcast platforms that teenagers don't get their news from there,'' said Adam Jones, chief financial officer for NBC News, who has helped lead the project. ''They're either online or they watch Jon Stewart or 'The Colbert Report.' We've always talked about trying to find new ways to reach our future audience.''</p>
+        <p>In turning to the classroom as a potential pool of new viewers, NBC is following in the footsteps of other mainstream media organizations, including newspapers like The New York Times, which has long had a newspaper-in-education program, and Time magazine, which repackages some of its articles for use in classrooms as early as the first grade.</p>
+        <p>The network also intends the program as a source of revenue. Though it will initially be made available free to schools and teachers, NBC ultimately expects to charge an annual subscription fee, based on the number of students in a school. As a rough example Mr. Jones estimated that a school of about 750 students would pay slightly less than $2,000 a year. This could add up quickly when multiplied by tens of thousands of high schools.</p>
+        <p>The site will also have advertising, though Mr. Jones said the ads would appear ''strictly outside school hours.'' NBC has yet to decide whether users, including teachers working after school, would see video ads or merely banners. And while advertisers have yet to be solicited, Mr. Jones predicted that NBC would pursue ''a limited number of exclusive sponsors'' along the lines of Intel, Boeing or an insurance company, rather than soft-drink or snack makers.</p>
+        <p>An early prototype also included a link to an interview with a young star from the NBC drama ''Heroes.''</p>
+        <p>The College Board, which administers the A.P. program, said it had agreed to provide NBC with course outlines, which NBC is seeking to align with the contents of its archives. To supplement historical events in the A.P. curriculum that happened before the advent of NBC News -- like the assassination of Abraham Lincoln in 1865 -- Mr. Jones said the site would seek to make available articles from newspapers, including The New York Times and The Washington Post. Mr. Jones said the network already had an arrangement with The Post to use some of its content, and was pursuing a deal with The Times.</p>
+        <p>In a conference room at NBC News headquarters yesterday, a consultant, Alex Chisholm, co-director of a game and education research group at the Massachusetts Institute of Technology, gave an online tour of a prototype of the site. It included a segment from ''NBC Nightly News,'' reported by Pete Williams, about the detentions at Guantánamo Bay, Cuba. The segment was then used to supplement discussion of the Geneva Conventions, an element of an A.P. course.</p>
+        <p>There was also black-and-white film from NBC archives of firemen turning hoses on civil rights protesters, and video of Tom Brokaw late on election night in 2000 explaining it was anyone's guess who had won the presidency. Students and teachers would be provided with discussion questions and opportunities to share their answers through the site's social networking forums.</p>
+        <p>''Selfishly we're looking to create a long-lasting relationship with these students,'' Mr. Jones said. ''Philosophically, though, we realize these are the voters and decision makers and employers of tomorrow.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

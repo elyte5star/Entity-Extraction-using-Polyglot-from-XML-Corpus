@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bankruptcy Filing May Delay Pornography on Cellphones</title>
+    <meta content="11mobile" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/technology/11mobile.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853737"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Pornography and Obscenity</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pornography and Obscenity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Amp'd Mobile</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2DF173FF932A25755C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bankruptcy Filing May Delay Pornography on Cellphones</hl1>
+        <hl2 class="online_headline">Bankruptcy Filing May Delay Pornography on Cellphones</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC TAUB</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amp'd Mobile's filing for protection from bankruptcy on June 1 may have one unexpected side effect: a delay in the introduction of sex-oriented programming on cellphones.</p>
+        <p>No mobile carrier, including Amp'd Mobile, a niche carrier that markets itself as a service for the young and technologically sophisticated, directly offers sexually oriented videos or still nude imagery. Amp'd Mobile let subscribers download pictures of fully clothed pornography stars and models.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amp’d Mobile’s filing for protection from bankruptcy may delay the introduction of sex-oriented programming on cellphones.</p>
+      </block>
+      <block class="full_text">
+        <p>Amp'd Mobile's filing for protection from bankruptcy on June 1 may have one unexpected side effect: a delay in the introduction of sex-oriented programming on cellphones.</p>
+        <p>No mobile carrier, including Amp'd Mobile, a niche carrier that markets itself as a service for the young and technologically sophisticated, directly offers sexually oriented videos or still nude imagery. Amp'd Mobile let subscribers download pictures of fully clothed pornography stars and models.</p>
+        <p>But Amp'd Mobile had discussed the possibility of offering racier fare in a meeting with industry analysts in March, according to Neil Strother, an analyst with Jupiter Research.</p>
+        <p>While Amp'd, based in Aliso Viejo, Calif., declined to comment on the bankruptcy filing, analysts believed that the company would be more cautious in proceeding for fear of alienating subscribers while it worked though its financial difficulties.</p>
+        <p>Members of CTIA, a wireless industry trade group, agreed not to introduce sex-oriented programming until age-verification technology is in place.</p>
+        <p>People who are determined to download pornography to their cellphones can do so today, but it must be done from third-party Web sites designed for mobile phones.</p>
+        <p>ERIC TAUB</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Pop Drummer Dies</title>
+    <meta content="05arts-3" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852395"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E6D81130F936A35755C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Pop Drummer Dies</hl1>
+      </hedline>
+      <byline class="print_byline">By MELENA RYZIK; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a daylong search, John Pike, 23, the drummer for Ra Ra Riot, an indie pop band from Syracuse, was found dead on Sunday. His body was pulled from Wilbur's Point, a shallow body of water in Buzzards Bay in Fairhaven, Mass., around 4 p.m., according to Gary Souza, the chief of police there. Mr. Pike was reported missing on Saturday afternoon. Ra Ra Riot had played in Providence, R.I., on Friday night, and Mr. Pike was last seen around 3 a.m. Saturday, when he left an after-party at a waterfront cottage nearby. He was found fully clothed on the other side of the beach from the party, and not far from his cellphone, which had been left on shore. There were no indications of foul play, Chief Souza said. The band's next show, in Hartford on Friday, was canceled; Ra Ra Riot is also scheduled to play the River to River Festival at the South Street Seaport in Lower Manhattan on June 29.</p>
+        <p>MELENA RYZIK</p>
+      </block>
+      <block class="full_text">
+        <p>After a daylong search, John Pike, 23, the drummer for Ra Ra Riot, an indie pop band from Syracuse, was found dead on Sunday. His body was pulled from Wilbur's Point, a shallow body of water in Buzzards Bay in Fairhaven, Mass., around 4 p.m., according to Gary Souza, the chief of police there. Mr. Pike was reported missing on Saturday afternoon. Ra Ra Riot had played in Providence, R.I., on Friday night, and Mr. Pike was last seen around 3 a.m. Saturday, when he left an after-party at a waterfront cottage nearby. He was found fully clothed on the other side of the beach from the party, and not far from his cellphone, which had been left on shore. There were no indications of foul play, Chief Souza said. The band's next show, in Hartford on Friday, was canceled; Ra Ra Riot is also scheduled to play the River to River Festival at the South Street Seaport in Lower Manhattan on June 29.</p>
+        <p>MELENA RYZIK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

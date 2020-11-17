@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PLEASE DON'T GO</title>
+    <meta content="10suits-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853309"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD163FF933A25755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PLEASE DON'T GO</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nicholas D. Chabraja, chairman and chief executive of General Dynamics, now knows what a difference a year and two months can make.</p>
+        <p>Mr. Chabraja, 64, was scheduled to retire in April 2008, and he had been promised two years' use of an office and assistant and 500 hours of flying time on the company's Gulfstream jets. In its proxy statement published in March, General Dynamics estimated the cost of those postretirement perquisites at about $3 million.</p>
+      </block>
+      <block class="full_text">
+        <p>Nicholas D. Chabraja, chairman and chief executive of General Dynamics, now knows what a difference a year and two months can make.</p>
+        <p>Mr. Chabraja, 64, was scheduled to retire in April 2008, and he had been promised two years' use of an office and assistant and 500 hours of flying time on the company's Gulfstream jets. In its proxy statement published in March, General Dynamics estimated the cost of those postretirement perquisites at about $3 million.</p>
+        <p>But last week, the company agreed to pay Mr. Chabraja $8 million, plus interest, next year in lieu of the use of the planes and office, or well more than double what it said they were worth three months ago. A company spokesman said that for ''expedience,'' General Dynamics decided to give him enough to cover the cost of buying those services elsewhere.</p>
+        <p>That is not the only special incentive for him to stay past his 65th birthday. He also would receive a bonus for all of 2009, despite working only four months of that year, that will be at least as big as his bonus for 2008. His bonus last year was $3.2 million. In addition, his retirement benefit will grow by more than $400,000 a year.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

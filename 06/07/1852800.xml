@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Detect Variations in DNA That Underlie Seven Common Diseases</title>
+    <meta content="07disease" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852800"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3D61E30F934A35755C0A9619C8B63" item-length="890" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Detect Variations in DNA That Underlie Seven Common Diseases</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Applying a new genomic technique to a large group of patients, researchers in Britain have detected DNA variations that underlie seven common diseases, discovering unexpected links between them.</p>
+        <p>The variations pinpoint biological pathways underlying each of the diseases, and researchers hope that as the pathways are analyzed, new drugs and treatments will emerge.</p>
+      </block>
+      <block class="full_text">
+        <p>Applying a new genomic technique to a large group of patients, researchers in Britain have detected DNA variations that underlie seven common diseases, discovering unexpected links between them.</p>
+        <p>The variations pinpoint biological pathways underlying each of the diseases, and researchers hope that as the pathways are analyzed, new drugs and treatments will emerge.</p>
+        <p>The seven common diseases are bipolar disorder, coronary artery disease, Crohn's disease, hypertension, rheumatoid arthritis, and Type 1 and Type 2 diabetes.</p>
+        <p>Unveiling the complex genetics of common diseases was the promised payoff of the $3 billion human genome project, completed in 2003, but progress was slow until the recent development of devices that in a single operation can read the DNA sequence at up to 500,000 points across an individual's genome. With the devices, called chips, researchers can compare large numbers of patients with healthy individuals, looking for points of differences in their genomes that may be associated with disease.</p>
+        <p>The approach is known as whole genome association, and studies on Type 2 diabetes, heart disease and breast cancer have been reported within the last few weeks. Those and the new study, which was financed by the Wellcome Trust of London, demonstrate the power and reliability of the whole genome association method, which stands in contrast to the many uncorroborated claims of disease genes made previously.</p>
+        <p>''It's now absolutely clear that this is a new dawn in the genetics of common human diseases,'' said Peter Donnelly, a statistical geneticist at Oxford University who was chairman of the consortium of 50 institutions involved in the Wellcome Trust study.</p>
+        <p>The consortium compared 2,000 patients with each disease from across Britain with 3,000 healthy individuals as controls, half of whom were born in a single week in 1958. The consortium's findings are published in today's Nature, along with reports from two groups that largely confirm the consortium's genomic hits in independent patient groups suffering from Crohn's disease and Type 1 diabetes.</p>
+        <p>The consortium discovered some 24 variants strongly linked to disease, about half of which have been found already by other groups and half of which are new.</p>
+        <p>Among its most interesting findings is that genetic variants close to a gene known as PTPN2 are associated with both Crohn's disease and Type 1 diabetes. The link may be that both are autoimmune diseases and that the gene helps regulate the immune system. Researchers hope that analysis of the gene's operations may produce a treatment for the two diseases.</p>
+        <p>The consortium also found a genetic variant on chromosome 7 that carries a high risk of rheumatoid arthritis for women, but none for men. Very few such variants are known in diseases common to both sexes, Dr. Donnelly said.</p>
+        <p>Anne Bowcock, a geneticist at the Washington University School of Medicine in St. Louis, said the Wellcome Trust study was a ''tour de force'' that established how large-scale studies should be conducted.</p>
+        <p>Marie Nierras, an official of the Juvenile Diabetes Research Foundation, which supported the companion study of Type 1 diabetes, said the research was ''a significant advance that identifies additional pathways that need to be looked at.''</p>
+        <p>Dr. Kari Stefansson, chief executive of DeCode Genetics, an Icelandic company that has dominated the search for common disease genes until the arrival of the whole genome association method, said the Wellcome Trust study was ''a large body of work, done by very good people'' but that it ''hadn't come up with any big discovery.''</p>
+        <p>Dr. Stefansson said the study had been delayed because of problems with the Affymetrix chip it used, and would have had greater impact in the fast-moving field if it had appeared several months earlier.</p>
+        <p>In the course of screening for any geographically related genetic bias, the Wellcome Trust researchers discovered a southeast-to-northwest gradient across Britain composed of 13 genes. The genes were probably under natural selection in the people who became the island's first inhabitants.</p>
+        <p>One of the genes, which arose among Europe's first cattle herders 5,000 years ago, enables people to drink milk in adulthood, an ability known as lactose tolerance. The other genes, the researchers speculate, may confer resistance to former scourges like pellagra, tuberculosis and leprosy.</p>
+        <p>Another possible source of statistical bias relates to race. The Wellcome Trust consortium asked their 17,000 subjects to identify their race, then genetically tested them and excluded 153 people who had non-European ancestry. The procedure is necessary because whole genome association studies look for small differences between patients and controls, which can be confounded by the genetic differences between races.</p>
+        <p>The Wellcome Trust's findings apply to populations of European descent and need to be verified in other races. Geneticists do not yet know what proportion of the genetic variants associated with common disease will be found in all races, but hope the overall biology will be much the same.</p>
+        <p>''The genetics gives us a whole new foothold into the biology of disease,'' Dr. Donnelly said. ''If you find a variant in one population you might learn a lot about that disease which is relevant to the disease in other populations.''</p>
+        <p>Because whole genome association studies work only in people of a single race, researchers are concerned that follow-up studies should then be done in other races. ''I think everyone is committed to make sure that is the case,'' said Mark Daly, a geneticist at Massachusetts General Hospital.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

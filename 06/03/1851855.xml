@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Julia Taft, Christof Putzel</title>
+    <meta content="03taft" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851855"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Taft, Julia Harris</person>
+        <person class="indexing_service">Putzel, Christof Blackman</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFDF1230F930A35755C0A9619C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Julia Taft, Christof Putzel</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Julia Harris Taft, a daughter of Julia V. Taft and William H. Taft IV of Lorton, Va., was married there yesterday to Christof Blackman Putzel, the son of Ann Blackman and Michael Putzel of Washington. Leora Motley, a civil marriage celebrant in Fairfax County, Va., officiated at the home of the bride's parents.</p>
+        <p>Ms. Taft, 26, is keeping her name. She graduated from Georgetown and received a nursing degree this year from New York University. In 2002 and 2003, she worked in Sierra Leone with the International Medical Corps, a relief organization in Los Angeles; she served as a liaison to the country's health ministry and managed the administration of maternal health and H.I.V. and AIDS programs.</p>
+      </block>
+      <block class="full_text">
+        <p>Julia Harris Taft, a daughter of Julia V. Taft and William H. Taft IV of Lorton, Va., was married there yesterday to Christof Blackman Putzel, the son of Ann Blackman and Michael Putzel of Washington. Leora Motley, a civil marriage celebrant in Fairfax County, Va., officiated at the home of the bride's parents.</p>
+        <p>Ms. Taft, 26, is keeping her name. She graduated from Georgetown and received a nursing degree this year from New York University. In 2002 and 2003, she worked in Sierra Leone with the International Medical Corps, a relief organization in Los Angeles; she served as a liaison to the country's health ministry and managed the administration of maternal health and H.I.V. and AIDS programs.</p>
+        <p>Her father is of counsel to the Washington office of Fried, Frank, Harris, Shriver &amp; Jacobson, the New York law firm. From 2001 to 2005, he was the legal adviser to Secretary of State Colin Powell, and from 1989 to 1992, the bride's father was the United States permanent representative to NATO. Her mother, who retired as an assistant administrator of the United Nations Development Program in New York, was the assistant secretary of state for population, refugees and migration in Washington from 1997 to 2001.</p>
+        <p>The bride is a great-granddaughter of the late Robert A. Taft, Republican senator from Ohio, and a great-great-granddaughter of President William H. Taft.</p>
+        <p>Mr. Putzel, 27, graduated from Connecticut College and is a television correspondent at Current TV, a media company in San Francisco which the former Vice President Al Gore helped found. He produces news stories for the network. He also produced and directed ''Left Behind,'' a documentary about AIDS orphans in Kenya, which was shown at the Cannes Film Festival in 2003.</p>
+        <p>His mother is the author of several biographies, including ''Seasons of Her Life'' (Scribner, 1998) about Madeleine K. Albright. His father is a freelance book editor in Washington. From 1987 to 1990, the bridegroom's mother was a Moscow correspondent for Time magazine, and his father was the Moscow bureau chief for the Associated Press.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SUMMA, CRAIG J.</title>
+    <meta content="dn060507" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852241"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SUMMA, CRAIG J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DC143AF936A35755C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SUMMA, CRAIG J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SUMMA--Craig J. The family sadly announces Craig's death on May 31st, 2007. He was born in New Britain, CT on May 10th 1962 to Kenneth and Lorraine Summa. A longtime resident of NYC he recently lived in Long Branch, NJ and Bucks County, PA. His energy, passion, and humor will be greatly missed by the many who loved him or simply crossed his path. He is survived by son Zachary, mother Lorraine, sister Laurie, brother Keith and untold others who loved him dearly. A tribute is planned for Tuesday, June 5th at 4pm at the Greenwich Village Funeral Home, 199 Bleecker St., NYC. In lieu of flowers, donations for an educational fund for his son (set up through USAA) can be sent to: Zachary Summa, 23 East 10th St. #</p>
+      </block>
+      <block class="full_text">
+        <p>SUMMA--Craig J. The family sadly announces Craig's death on May 31st, 2007. He was born in New Britain, CT on May 10th 1962 to Kenneth and Lorraine Summa. A longtime resident of NYC he recently lived in Long Branch, NJ and Bucks County, PA. His energy, passion, and humor will be greatly missed by the many who loved him or simply crossed his path. He is survived by son Zachary, mother Lorraine, sister Laurie, brother Keith and untold others who loved him dearly. A tribute is planned for Tuesday, June 5th at 4pm at the Greenwich Village Funeral Home, 199 Bleecker St., NYC. In lieu of flowers, donations for an educational fund for his son (set up through USAA) can be sent to: Zachary Summa, 23 East 10th St. #</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

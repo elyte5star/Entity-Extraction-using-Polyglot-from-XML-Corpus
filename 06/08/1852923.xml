@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As the Local Economy Prospers, So Does the Lobbying Industry</title>
+    <meta content="08lobby" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/nyregion/08lobby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852923"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EEDC1F30F93BA35755C0A9619C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As the Local Economy Prospers, So Does the Lobbying Industry</hl1>
+        <hl2 class="online_headline">As the Local Economy Prospers, So Does the Lobbying Industry</hl2>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The strong local economy that is driving record city surpluses is also helping the lobbying industry.</p>
+        <p>Revenues of people paid to influence city government grew 18 percent last year to $44 million, according to an annual report released by the city clerk's office.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The strong local economy that is driving record city surpluses is also helping the lobbying industry.</p>
+      </block>
+      <block class="full_text">
+        <p>The strong local economy that is driving record city surpluses is also helping the lobbying industry.</p>
+        <p>Revenues of people paid to influence city government grew 18 percent last year to $44 million, according to an annual report released by the city clerk's office.</p>
+        <p>Nearly half the money was concentrated among the top 10 firms, whose clients included real estate developers, telecommunications companies and nonprofit foundations. Leading the group for the second year in a row was Kasirer Consulting, a lobbying practice run by Suri Kasirer. Her top clients included Silverite Construction, a Long Island general contractor; T-Mobile, the cellphone carrier; and U.S. Power Generating Company, an electricity producer. Each paid her firm $120,000 in lobbying fees.</p>
+        <p>Ms. Kasirer's revenues grew by nearly $600,000 from the previous year to a total of $3.02 million.</p>
+        <p>Ms. Kasirer is also a prolific fund-raiser for officials like City Comptroller William C. Thompson Jr., who is considered a mayoral hopeful.</p>
+        <p>Bolton-St. Johns was second, moving up two spots with earnings of $2.5 million. Bolton's top clients included the Trustees of Columbia University in the City of New York, the university's governing body; and the Amdec Foundation Inc., a nonprofit group of medical schools, health centers and research institutions involved in biomedical research.</p>
+        <p>The increase in revenue comes as the Bloomberg administration and the City Council try to rein in any undue influence that lobbyists may have by reducing the amount they can contribute to local candidates.</p>
+        <p>One factor most likely driving the growth is the city's development boom, as developers hire lobbyists to help them navigate the land-use application process, said Dick Dadey, executive director of Citizens Union, a government watchdog group. Another factor, he said, might be the city's growing budget -- expected to hit $59 billion next year with a $4.4 billion surplus -- as more and more nonprofit groups hire lobbyists to help them win city money.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

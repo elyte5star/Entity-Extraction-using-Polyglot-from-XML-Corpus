@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Seller Wants A Low Price?</title>
+    <meta content="01norris" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/business/01norris.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851313"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HIGH &amp; LOW FINANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Models (Simulations)</classifier>
+        <org class="indexing_service">Zions Bancorporation</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Norris, Floyd</person>
+        <person class="indexing_service">Ross, Stephen A (Prof)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Floyd Norris</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="descriptor">Appraisals and Valuation</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appraisals and Valuation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E0D81530F932A35755C0A9619C8B63" item-length="818" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Seller Wants A Low Price?</hl1>
+        <hl2 class="online_headline">What Seller Wants a Low Price?</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+      <abstract>
+        <p>Floyd Norris column on Zions Bancorporation's bid to have Securities and Exchange Commission allow it to value employee stock options it issued in May based on value of securities it auctioned at same time that were intended to replicate options' performance; auction valued options as being worth much less than models indicate, enabling Zions to report lower expenses from options it issues; Zions hopes to build profitable business from organizing auctions of similar securities, which it calls Esoars, for other companies; Stephen A Ross, expert on options pricing, believes SEC should refuse to accept Zions value, citing distortions arising from large spread between Esoars' bid price and asked price (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Can you imagine an auction house bragging to sellers about the low prices at its auctions? Perhaps this would be the pitch:</p>
+        <p>''Sell your Picasso at Fred's Auction House. You'll get less from Fred.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The S.E.C. is considering whether a different kind of auction will be allowed to set values on company income statements.</p>
+      </block>
+      <block class="full_text">
+        <p>Can you imagine an auction house bragging to sellers about the low prices at its auctions? Perhaps this would be the pitch:</p>
+        <p>''Sell your Picasso at Fred's Auction House. You'll get less from Fred.''</p>
+        <p>That won't happen, of course. In normal auctions, sellers try to get the most they can, and buyers seek to pay as little as possible. The result is a market price.</p>
+        <p>But the Securities and Exchange Commission is now considering whether a fundamentally different kind of auction -- with a pitch not too far from the one above -- will be allowed to set values on company income statements.</p>
+        <p>At stake could be the future of stock options as a principal part of the compensation packages at many companies.</p>
+        <p>In May, Zions Bancorporation, a Utah bank, auctioned off securities intended to replicate the performance of the employee stock options it issued at the same time. In effect, the company would have issued more options to the investors.</p>
+        <p>Evan M. Hill, a Zions vice president, told me this week that he expected the S.E.C. to decide in June whether Zions can use the auction prices to value the real options it issued, or whether the company must use the values it got from an options pricing model.</p>
+        <p>Conrad Hewitt, the S.E.C.'s chief accountant, said the commission had not yet received all the needed information from Zions, but would not comment further.</p>
+        <p>The Zions auction valued the options as being worth much less than the models indicated. If the S.E.C. goes along, that would mean that Zions would report lower expenses from options it issues. Zions hopes to build a profitable business from organizing auctions of similar securities for other companies.</p>
+        <p>Why, you might ask, would anyone want to auction something in a way that is expected to produce a low price? Wouldn't the seller prefer to receive a high price?</p>
+        <p>The answer is no. The auctions for what Zions calls Esoars are likely to be small, raising little money for companies, and thus costing them little if they are underpriced. But the result would be that each company could report higher profits by reducing the reported expense from the far larger number of employee stock options that it issues.</p>
+        <p>One expert on options pricing, Stephen A. Ross, the chief executive of Compensation Valuation Inc. and a professor of financial economics at the Massachusetts Institute of Technology, says that he thinks the commission should refuse to accept the Zions value, even though the design of the Esoars security is generally acceptable.</p>
+        <p>A major problem, he said, is that the market for Esoars is likely to be illiquid, with a large spread between the price at which one could easily sell the security (the bid price) and the price at which it could easily be bought (the asked price). A true market price would be between those two and, he thinks, close to what the models say it should be.</p>
+        <p>Mr. Ross has an idea how that number could be discovered. ''The natural thing to do is not to issue more of these options,'' he said. ''It is to go into the market and buy some of them back.''</p>
+        <p>If Zions did that, investors would be agreeing to pay Zions what the options ended up costing the company, and would be bidding just what price they would charge to take on that obligation. That would be the ''asked price'' for the security, just as the Zions auction produced a ''bid price.''</p>
+        <p>If the Zions auction is accepted by the S.E.C., it will be hailed by some companies as proof that option pricing models produce values that are too high, and it will help them to minimize the values on their income statements. That, in turn, will encourage companies to issue more options rather than use other forms of compensation, such as cash or restricted stock.</p>
+        <p>There is another way to get companies to search for fair values, even if they are high, and it will be the subject of a hearing before a Senate subcommittee headed by Senator Carl Levin, Democrat of Michigan, on Tuesday.</p>
+        <p>That would be to give companies a tax deduction for their expense when they issue options. Under current law, the company gets a deduction later, when employees exercise the options. That deduction may be far larger, or much smaller, than the expense the company reports to investors.</p>
+        <p>If the valuation that companies put on options affected both reported profits and taxes, the companies would have offsetting incentives.</p>
+        <p>As it is now, argued Jeff Mahoney, the general counsel of the Council of Institutional Investors, which is asking the S.E.C. not to approve the Zions auction as a way of setting valuation (and which retained Mr. Ross to evaluate it), ''Zions wants the low price as much as the bidders do.''</p>
+        <p>''How,'' he asked, ''can this produce a market price? It just can't.''</p>
+        <p>HIGH &amp; LOW FINANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

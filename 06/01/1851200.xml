@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ANIMAL COLLECTIVE</title>
+    <meta content="01bpop" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851200"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE LISTINGS | JUNE 1 - JUNE 7"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE1DD1530F932A35755C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ANIMAL COLLECTIVE</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The vibrations are somewhere on the brink between good and bad in the songs of Animal Collective, a group formed in New York seven years ago by old friends from Baltimore whose songs are as joyous are they are eerie. Building on loose improvisations with lo-fi instrumentation that makes them sound like a folkier version of Pavement, the four pseudonymous members of Animal Collective -- (shown, from left) Geologist, Avey Tare, Deacon and Panda Bear, though they don't seem to mind being called Brian, Dave, Josh and Noah -- send the sunniest and most playful Beach Boys melodies through endless, sometimes frightening psychedelic transformations, guided by dream logic and a love of the carnivalesque. ''I think it's all right to feel inhuman,'' sings Avey Tare over weirdly pulsating electronics and thudding tribal rhythms on ''Strawberry Jam'' (Domino), their outstanding new album, to be released in September. The band plays tonight with Danielson at the opening of the Seaport Music Festival at South Street Seaport, an essential indie-rock series that runs through the end of August as part of the River to River Festival in Lower Manhattan. Others at the Seaport this summer include Fujiya &amp; Miyagi, Menomena, Bishop Allen, Camera Obscura, the National and Battles. (Tonight at 7, Pier 17, Fulton and South Streets, Lower Manhattan, 212-835-2789, seaportmusicfestival.com or rivertorivernyc.com; free.)</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>The vibrations are somewhere on the brink between good and bad in the songs of Animal Collective, a group formed in New York seven years ago by old friends from Baltimore whose songs are as joyous are they are eerie. Building on loose improvisations with lo-fi instrumentation that makes them sound like a folkier version of Pavement, the four pseudonymous members of Animal Collective -- (shown, from left) Geologist, Avey Tare, Deacon and Panda Bear, though they don't seem to mind being called Brian, Dave, Josh and Noah -- send the sunniest and most playful Beach Boys melodies through endless, sometimes frightening psychedelic transformations, guided by dream logic and a love of the carnivalesque. ''I think it's all right to feel inhuman,'' sings Avey Tare over weirdly pulsating electronics and thudding tribal rhythms on ''Strawberry Jam'' (Domino), their outstanding new album, to be released in September. The band plays tonight with Danielson at the opening of the Seaport Music Festival at South Street Seaport, an essential indie-rock series that runs through the end of August as part of the River to River Festival in Lower Manhattan. Others at the Seaport this summer include Fujiya &amp; Miyagi, Menomena, Bishop Allen, Camera Obscura, the National and Battles. (Tonight at 7, Pier 17, Fulton and South Streets, Lower Manhattan, 212-835-2789, seaportmusicfestival.com or rivertorivernyc.com; free.)</p>
+        <p>BEN SISARIO  THE LISTINGS | JUNE 1 - JUNE 7</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

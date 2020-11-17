@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Man Denies Raping Student</title>
+    <meta content="01mbrfs-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851372"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0D71530F932A35755C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Man Denies Raping Student</hl1>
+      </hedline>
+      <byline class="print_byline">By ANEMONA HARTOCOLLIS; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An ex-convict pleaded not guilty yesterday to raping and torturing a Columbia University graduate student in her Hamilton Heights apartment in April. The suspect, Robert A. Williams, 30, was arraigned in State Supreme Court on attempted murder, rape, kidnapping, sexual assault and other charges. Police have said that Mr. Williams, who served eight years in prison for attempted murder, tied the 23-year-old woman to her bed, raped and sodomized her, slit her eyelids and poured bleach and scalding water over her. During his arraignment, Mr. Williams was watched over by about 20 court officers. A prosecutor said he had been found concealing two razor blades on May 21, the day before he was scheduled to be in a lineup.</p>
+        <p>ANEMONA HARTOCOLLIS</p>
+      </block>
+      <block class="full_text">
+        <p>An ex-convict pleaded not guilty yesterday to raping and torturing a Columbia University graduate student in her Hamilton Heights apartment in April. The suspect, Robert A. Williams, 30, was arraigned in State Supreme Court on attempted murder, rape, kidnapping, sexual assault and other charges. Police have said that Mr. Williams, who served eight years in prison for attempted murder, tied the 23-year-old woman to her bed, raped and sodomized her, slit her eyelids and poured bleach and scalding water over her. During his arraignment, Mr. Williams was watched over by about 20 court officers. A prosecutor said he had been found concealing two razor blades on May 21, the day before he was scheduled to be in a lineup.</p>
+        <p>ANEMONA HARTOCOLLIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

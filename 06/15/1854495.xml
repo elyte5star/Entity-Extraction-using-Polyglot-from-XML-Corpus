@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KLIOT, BORIS</title>
+    <meta content="dn061507" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854495"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KLIOT, BORIS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2D7143AF936A25755C0A9619C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KLIOT, BORIS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KLIOT--Boris, 84, born in Riga, Latvia, survived four concentration camps before he immigrated to the US where he became a successful entrepreneur. He founded Riviera Trading Company, which is credited with introducing fashionable eyeware to the American public. Boris was a devoted philanthropist. He erected the Kliot Wing for Neurosurgery at the Ichilov General Hospital in Tel Aviv and was an important contributor to the United Jewish Appeal. Additionally, he built a memorial in the Rumbula Forest outside Riga, Latvia to honor the 27,000 Jews who had been mass-murdered at the site. His parents, Moishe and Roza, and his four sisters were among those who perished in the massacres. Boris is survived by three sons: Michel with his mother Myra Sterling, and Gene and Jason with their mother Jacqueline Kliot, as well as daughter-inlaw Joana, and four grandchildren: Tamara, Josh, Hannah and Anton. He was married to Josette Poux. Contributions in his honor may be made to the UJA Federation of NY. Funeral Sunday at 11am, Plaza Jewish Community Chapel, 630 Amsterdam Avenue.</p>
+      </block>
+      <block class="full_text">
+        <p>KLIOT--Boris, 84, born in Riga, Latvia, survived four concentration camps before he immigrated to the US where he became a successful entrepreneur. He founded Riviera Trading Company, which is credited with introducing fashionable eyeware to the American public. Boris was a devoted philanthropist. He erected the Kliot Wing for Neurosurgery at the Ichilov General Hospital in Tel Aviv and was an important contributor to the United Jewish Appeal. Additionally, he built a memorial in the Rumbula Forest outside Riga, Latvia to honor the 27,000 Jews who had been mass-murdered at the site. His parents, Moishe and Roza, and his four sisters were among those who perished in the massacres. Boris is survived by three sons: Michel with his mother Myra Sterling, and Gene and Jason with their mother Jacqueline Kliot, as well as daughter-inlaw Joana, and four grandchildren: Tamara, Josh, Hannah and Anton. He was married to Josette Poux. Contributions in his honor may be made to the UJA Federation of NY. Funeral Sunday at 11am, Plaza Jewish Community Chapel, 630 Amsterdam Avenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

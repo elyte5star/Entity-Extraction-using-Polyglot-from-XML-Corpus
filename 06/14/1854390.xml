@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wall St. Journal Will Raise Price to $1.50</title>
+    <meta content="14journal" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/business/media/14journal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854390"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Wall Street Journal</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Wall Street Journal</org>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6D9143FF937A25755C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wall St. Journal Will Raise Price to $1.50</hl1>
+        <hl2 class="online_headline">Wall St. Journal Will Raise Price to $1.50</hl2>
+      </hedline>
+      <abstract>
+        <p>Wall Street Journal will raise its weekday newsstand price from $1 to $1.50, starting July 16 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Wall Street Journal will raise its weekday newsstand price from $1 to $1.50, starting July 16, the newspaper's parent, Dow Jones &amp; Company, said yesterday.</p>
+        <p>The subscription price will not change, a company spokesman said, so more than 90 percent of The Journal's buyers will not be affected.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Wall Street Journal will raise its weekday newsstand price from $1 to $1.50, starting July 16.</p>
+      </block>
+      <block class="full_text">
+        <p>The Wall Street Journal will raise its weekday newsstand price from $1 to $1.50, starting July 16, the newspaper's parent, Dow Jones &amp; Company, said yesterday.</p>
+        <p>The subscription price will not change, a company spokesman said, so more than 90 percent of The Journal's buyers will not be affected.</p>
+        <p>The weekday newsstand price has not risen since April 2001. In that time, newspaper costs have soared and advertising revenue has dropped. The newsstand price of The Journal's weekend paper, which was introduced in 2005 and is published on Saturdays, is already $1.50.</p>
+        <p>Many newspapers have been reluctant to charge more, which can drive down sales, and The Journal already has one of the highest newsstand prices in the country.</p>
+        <p>The Journal is also one of the few American newspapers with a growing circulation; it has more than two million subscribers a day (including a portion of its online subscribers), and is second only to USA Today. Industry analysts say that with a desirable product and an affluent audience, The Journal does not risk losing many readers to a price increase.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

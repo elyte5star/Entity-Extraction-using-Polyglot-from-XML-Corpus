@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Stories of Refugees, Wrapped in Stereotypes</title>
+    <meta content="19genz" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/arts/television/19genz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855568"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW | 'RAIN IN A DRY LAND'"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <location class="online_producer">Africa</location>
+        <org class="online_producer">Public Broadcasting Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0DF133FF93AA25755C0A9619C8B63" item-length="409" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Stories of Refugees, Wrapped in Stereotypes</hl1>
+        <hl2 class="online_headline">The Stories of Refugees, Wrapped in Stereotypes</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In its more unfortunate passages, ''Rain in a Dry Land,'' Anne Makepeace's film about two Somali refugee families being relocated to the United States, reinforces unpleasant stereotypes that some people still harbor about Africa: that everybody over there is so illiterate and backward that airplanes and staircases and telephones baffle them.</p>
+        <p>Watch closely, though, and you may end up thinking that the truly naïve and unsophisticated people in the story are the ones who thought that they were doing African farmers a favor by depositing them in urban America without a strong, open-ended support system.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In its more unfortunate passages, “Rain in a Dry Land” reinforces unpleasant stereotypes that some people still harbor about Africa.</p>
+      </block>
+      <block class="full_text">
+        <p>In its more unfortunate passages, ''Rain in a Dry Land,'' Anne Makepeace's film about two Somali refugee families being relocated to the United States, reinforces unpleasant stereotypes that some people still harbor about Africa: that everybody over there is so illiterate and backward that airplanes and staircases and telephones baffle them.</p>
+        <p>Watch closely, though, and you may end up thinking that the truly naïve and unsophisticated people in the story are the ones who thought that they were doing African farmers a favor by depositing them in urban America without a strong, open-ended support system.</p>
+        <p>The film, tonight on PBS's ''P.O.V.'' series, begins with a brief synopsis of the endless war that sent many Bantu families fleeing from Somalia to refugee camps in Kenya. The United States, the film says, is now taking in 13,000 of the refugees. Ms. Makepeace follows a husband and wife, Aden and Madina, and their seven children, who go to Springfield, Mass., and a single mother named Arbai and her four children, who go to Atlanta.</p>
+        <p>The film too often settles for condescending scenes that seem intent on reinforcing Western superiority at the expense of the immigrants: Aden can't open a childproof cap; Madina doesn't trust Banquet Crispy Chicken. (''How do you know it's chicken?'' she says. ''Why is it so cold?'')</p>
+        <p>It's a common viewpoint in collision-of-cultures films, and an irritating one: sure, American money baffles newcomers, but do we ever get a comparative lesson in the financial system they left behind? No; easier, and more comforting, to just let us assume that they're dimwits.</p>
+        <p>But Ms. Makepeace's film is fascinating when it takes an unblinking look at more difficult issues: Madina's apparent depression; Aden's growing frustration at not being able to master English or find a job; some of the children's troubles in school, where they are plunked without translators.</p>
+        <p>The film ends ambiguously, and an update on pbs.org that fills in the story since filming was completed is equally inconclusive. The uncomfortable feeling remains that this type of resettlement is simultaneously an act of generosity and a sort of benevolent torment.</p>
+        <p>P.O.V.</p>
+        <p>Rain in a Dry Land</p>
+        <p>On most PBS stations tonight (check local listings).</p>
+        <p>Produced, directed and written by Anne Makepeace. Mary Lampson, editor; Joan Churchill, Barney Broomfield, cinematography; music by Joel Goodman. Produced by Anne Makepeace Productions Inc. and the Independent Television Service (ITVS), in association with American Documentary | P.O.V. and Center for Independent Documentary.</p>
+        <p>TELEVISION REVIEW | 'RAIN IN A DRY LAND'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

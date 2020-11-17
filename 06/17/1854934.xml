@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nine Centuries of History and Wine Making</title>
+    <meta content="17cultured" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/travel/17cultured.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854934"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CULTURED TRAVELER: STIFT KLOSTERNEUBURG, AUSTRIA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Stift Klosterneuburg (Austrian Monastery)</classifier>
+        <location class="indexing_service">Kahlenbergerdorf (Austria)</location>
+        <location class="indexing_service">Austria</location>
+        <person class="indexing_service">Wildman, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/History</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Austria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Austria/Vienna</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">History</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Vienna (Austria)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDC173FF934A25755C0A9619C8B63" item-length="1332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nine Centuries of History and Wine Making</hl1>
+        <hl2 class="online_headline">Nine Centuries of History and Wine Making</hl2>
+      </hedline>
+      <byline class="print_byline">By SARAH WILDMAN</byline>
+      <byline class="normalized_byline">Wildman, Sarah</byline>
+      <abstract>
+        <p>Sarah Wildman travel article on visit to Stift Klosterneuburg, 12th-century monastery in Kahlenbergerdorf, outside Vienna, Austria; photo; map (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOLLOW the Danube northwest out of Vienna by car, train or bicycle, and the cityscape shaped by the Hapsburgs and the Secessionist architect Otto Wagner quickly slides away into verdant countryside. Hamlets pop up, like tiny Kahlenbergerdorf, looking like an Epcot Center idealization of a Mitteleuropean village; Wagner's Art Nouveau Church of St. Leopold looms stark and lovely on a hilltop.</p>
+        <p>Twenty minutes outside the city limits, the Stift Klosterneuburg, a 900-year-old monastery straight out of a fairy tale, comes into view, rising up above the B14 highway with its stern peaks set against the backdrop of a steep, perfect-for-grape-growing hill. ''Wo sich Himmel und Erde Begegnen'' (''Where Heaven and Earth Meet'') advertises posters, beckoning visitors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After long years of building and fixing, the city is home to one of the oldest continuously operating monasteries in Austria, as well as the oldest and largest winery.</p>
+      </block>
+      <block class="full_text">
+        <p>FOLLOW the Danube northwest out of Vienna by car, train or bicycle, and the cityscape shaped by the Hapsburgs and the Secessionist architect Otto Wagner quickly slides away into verdant countryside. Hamlets pop up, like tiny Kahlenbergerdorf, looking like an Epcot Center idealization of a Mitteleuropean village; Wagner's Art Nouveau Church of St. Leopold looms stark and lovely on a hilltop.</p>
+        <p>Twenty minutes outside the city limits, the Stift Klosterneuburg, a 900-year-old monastery straight out of a fairy tale, comes into view, rising up above the B14 highway with its stern peaks set against the backdrop of a steep, perfect-for-grape-growing hill. ''Wo sich Himmel und Erde Begegnen'' (''Where Heaven and Earth Meet'') advertises posters, beckoning visitors.</p>
+        <p>This is the view, with a myriad of architectural variations, seen for centuries, from the monastery's 12th-century founder Leopold III, to the invading Turks in the 16th and 17th centuries, to the Holy Roman Emperor Charles VI in the following century, to the Nazis in 1938, and, now, 21st-century visitors in Fiat Puntos and Audis. One of the oldest continuously operating monasteries in Austria, it now has 47 Augustinian monks from around the world in residence. Over the centuries, restorations, renovations and building projects turned the monastery into an architectural marvel; interconnected buildings flow from medieval to Gothic to ornately Baroque.</p>
+        <p>Stift Klosterneuburg (43-2243-411-0; www.stift-klosterneuburg.at) is also, improbably, home to the oldest and largest working winery in Austria. The vineyard project was conceived, ingeniously and successfully, in the 1100s, as a source of ever-renewing financing for the abbey. The Anschluss provided the only blip in this millennial narrative: Nazis briefly decommissioned the monastery and made life difficult for the monks. It is a period commemorated by a prominent monument quoting John 15:13, ''Greater love hath no man than this, that a man lay down his life for his friends,'' paying homage to the fallen of all sides in both World Wars.</p>
+        <p>With all that history, those beckoning posters about heaven and earth might seem gratuitous. But the abbey is wooing locals as well as foreigners to view the fruit of decades under scaffolding, the bulk of which was completed in May 2006. It is open daily from 9 a.m. to 6 p.m., and comprehensive tours cost 10.50 euros, or about $14.50 at $1.38 to the euro. The hype is not undeserved: An entire section of the imperial wing built by Charles VI in an effort to recast Klosterneuburg as an ''Austrian Escorial'' is open to visitors for the first time since the 18th century. (Charles was bitterly pining for the original Escorial, the royal palace, monastery and mausoleum in Spain, after losing the War of Spanish Succession.)</p>
+        <p>The soaring new visitor's center -- and the sleek and modern Café Escorial offering tasty topfenstrudel and apfelstrudel with coffee -- served as a junk room for nearly three centuries. Cleaned out, the airy space astounds with huge marbles of mythical figures, sternly standing guard in the corners of the soaring ceiling. Above the center, the spectacularly gilded entrance hall is like Schönbrunn without the crowds. Suddenly the abbey seems quite fresh. A new, well-edited museum and smart multilingual guided tours have begun to draw visitors by the thousands since last spring. The combined tours of the abbey, imperial wing and winery are well worth their price.</p>
+        <p>The apocryphal version of the Stift's origin is quite romantic: on their wedding day in 1106, Leopold III's bride Agnes's veil blew away. So distraught was his new queen -- it was a second marriage for both -- that Leopold swore he would build a monastery on the spot where the fabric was found. Nine years later Leopold stumbled upon the veil while hunting and honored his promise. ''This appealing legend,'' earnestly explains the material on sale at the abbey, ''does not correspond in any way to historical facts.'' That said, Viennese children still learn the tale of St. Leopold (he was canonized in 1485 by Pope Innocent VIII and became the patron saint of Austria in 1663) and his bride.</p>
+        <p>The real Leopold and Agnes did settle here with their patchwork family -- eventually there were 18 children in all -- and made their home and religious center in Klosterneuburg (Kloster, or ''monastery,'' and Neuburg, or ''new castle'') on what was actually a former Roman fortress. The gravestones of the Roman soldiers are on display in the abbey, pulled from their resting places centuries ago with an eye toward reuse as ghoulish building blocks.</p>
+        <p>As my friend Roland and I were led through the restoration by an older-than-his-years art historian named Alexander Potucek, 24, we were saturated by the sheer range of architectural periods on display, from the gilded Baroque royal apartments to the stark Gothic cloisters to the ornate Baroque abbey church. In one room, a row of wooden apostles was displayed above our heads, Mr. Potucek explained, because medieval artists hadn't yet grasped the same dimensionality of their later counterparts. The apostles are to be observed from below -- both for reasons of supplication and to trick the eye into not realizing how incredibly large their heads were.</p>
+        <p>Mr. Potucek gave earnest but amusing background stories on everything from the once-frescoed Gothic hallways, to the Verona Candelabra (a gift from Agnes that was shipped from Italy in pieces to be reassembled on arrival at Klosterneuburg), to the famous Verdun Altar: a collection of 51 miniature enamel and gold biblical scenes created by Nicolaus of Verdun in 1181. In the dark medieval church, Mr. Potucek said, a glow from the gold was probably all that parishioners could make out.</p>
+        <p>After two hours, dizzy with stories of everything from the origins of Charles VI's elaborate imperial frescoed ceilings to the new high-tech security systems, we took a break. Outside in the crisp early spring air, a tiny farmers' market sold fresh cheeses and brown breads, fruits and cakes. After securing a wine-cellar tour for later, we hopped in the car and drove up San Francisco-steep Hafnergraben Street to see the vineyards before the light was lost. Parking as high up the hill as we could go -- passing an unexpected group of gorgeous modernist homes jutting out over the valley -- we trespassed across the vineyards, climbing under fences and over vines to get a broad panoramic view. The grapevines were bare but the beginnings of spring were everywhere. We scrambled back down, undetected.</p>
+        <p>Back at the monastery we went from the light-filled choir rooms to the dank 18th-century cellar. Nearly 120 feet under the earth, the storage space was modern for its day (''with ventilation,'' our guide told us proudly), but now feels claustrophobically deep and dark. The German-speaking tour guide didn't help as she obsessively turned lights off as we went deeper and deeper underground, giving us the impression of being swallowed up by the barrels.</p>
+        <p>It was a relief to emerge to fading sunlight and glide into the fancy new Vinothek, designed like an Austrian Dean &amp; Deluca, with jars of wine-based jam and fancy vinegars, as well as native wines and apple juices. The abbey produces about a million bottles of wine each year. Johann Fabian, the jolly young sommelier, skillfully described the tastes and textures among 15 wine varieties. He bantered -- in English -- about the restoration, the re-opening of the abbey and the events that take place there each spring and summer, from an orchid festival to classical concerts to, naturally, wine tastings.</p>
+        <p>I bought a fresh, light white weissburgunder for 8.90 euros, and tasted from bottles of red St. Laurent ranged from 8.60 to 19 euros. ''We are the largest producer of St. Laurent,'' Mr. Fabian said, swirling the wine in his glass. ''It's fruity and elegant but a lot of work because if you have a late spring, well, the plants die.'' A quarter of the bottles produced in the abbey's vineyards are for export to Northern Europe. The abbey's method of breaking into new markets is a little unusual, Mr. Fabian explained: ''We try to use our monastery connections.''</p>
+        <p>CULTURED TRAVELER: STIFT KLOSTERNEUBURG, AUSTRIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

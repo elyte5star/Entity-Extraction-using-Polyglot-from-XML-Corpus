@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hillary's War</title>
+    <meta content="17letters.t-3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854949"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E6D8173FF934A25755C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hillary's War</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In her Senate-floor speech, before the vote on the authorization of the use of force in Iraq, Senator Clinton warned about the dangers of acting unilaterally and emphasized the benefits of first obtaining authorization from the United Nations. But as she acknowledged, there was no language in the Senate resolution requiring the president to try to work with the U.N. And as an experienced lawyer, she should have known that if you don't have the language, you don't have the deal. Her vote is all the more inexplicable, given her prior vote against a substitute resolution, offered by Carl Levin, requiring precisely the diplomatic requirement she had advocated.</p>
+      </block>
+      <block class="full_text">
+        <p>In her Senate-floor speech, before the vote on the authorization of the use of force in Iraq, Senator Clinton warned about the dangers of acting unilaterally and emphasized the benefits of first obtaining authorization from the United Nations. But as she acknowledged, there was no language in the Senate resolution requiring the president to try to work with the U.N. And as an experienced lawyer, she should have known that if you don't have the language, you don't have the deal. Her vote is all the more inexplicable, given her prior vote against a substitute resolution, offered by Carl Levin, requiring precisely the diplomatic requirement she had advocated.</p>
+        <p>So why did she vote for a resolution that she knew had inadequate language and against a resolution that had the language she said she desired? I can conclude only that a vote to restrict the president's hand seemed too politically risky given the tremendous popular support at the time for going after Saddam. It is a political calculation I can understand, one that was made by many of her colleagues. But I cannot understand or forgive efforts to construe such a vote as a principled decision.</p>
+        <p>Daniel A. Simon</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

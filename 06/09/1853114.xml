@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Road to Somewhere</title>
+    <meta content="09sat3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/opinion/09sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853114"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Wetlands</classifier>
+        <classifier class="indexing_service" type="descriptor">Land Use Policies</classifier>
+        <location class="indexing_service">Florida</location>
+        <location class="indexing_service">Alaska</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Young, Don (Rep)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wetlands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Land Use Policies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Alaska</location>
+        <org class="online_producer">House of Representatives</org>
+        <person class="online_producer">Young, Don</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFDF163FF93AA35755C0A9619C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Road to Somewhere</hl1>
+        <hl2 class="online_headline">The Road to Somewhere</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that Rep Don Young of Alaska, ranking Republican for transportation spending, was feted by Florida land developers who chipped in $40,000 for his re-election drive last year; holds that Young has tailored choice piece of Florida pork--$10 million in taxpayer money for cross-wetlands connection to federal interstate; says that connector would boost value of thousands of acres that Young's contributors want to develop over objections of environmentalists; says what makes this earmark special was that a local congressman said he never sought money, and local officials voted twice against connector</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Representative Don Young is a man of few words. He offered an obscene gesture the other day in response to a reporter curious about his travels as king of the Congressional pork dispensers. Far from his home district in Alaska, Mr. Young, the ranking Republican for transportation spending, was feted by Florida land developers who chipped in $40,000 for his re-election drive last year. Fast as quo follows quid, Mr. Young tailored a choice piece of Florida pork -- $10 million in taxpayer money for a cross-wetlands connection to the federal interstate. The connector would boost the value of thousands of acres that Mr. Young's contributors want to develop over the objections of environmentalists.</p>
+        <p>Last year's transportation bill was stuffed with 6,300 budget-busting earmarks -- far too many of them chunks of blatant pork like the road connector. What made this one special was that the local congressman said he never sought the money. Local officials voted twice against the connector.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Representative Don Young of Alaska is the king of the Congressional pork dispensers.</p>
+      </block>
+      <block class="full_text">
+        <p>Representative Don Young is a man of few words. He offered an obscene gesture the other day in response to a reporter curious about his travels as king of the Congressional pork dispensers. Far from his home district in Alaska, Mr. Young, the ranking Republican for transportation spending, was feted by Florida land developers who chipped in $40,000 for his re-election drive last year. Fast as quo follows quid, Mr. Young tailored a choice piece of Florida pork -- $10 million in taxpayer money for a cross-wetlands connection to the federal interstate. The connector would boost the value of thousands of acres that Mr. Young's contributors want to develop over the objections of environmentalists.</p>
+        <p>Last year's transportation bill was stuffed with 6,300 budget-busting earmarks -- far too many of them chunks of blatant pork like the road connector. What made this one special was that the local congressman said he never sought the money. Local officials voted twice against the connector.</p>
+        <p>Mr. Young ran into flak last year for customizing a costly pork project for the Alaska outback that was dubbed the Bridge to Nowhere. At least that was his turf. In Florida, he eliminated the middleman, the elected congressman.</p>
+        <p>The Democrats took the House majority on promises to end abusive earmarking, but the Republicans say the new majority is up to the old tricks. We hold the new appropriations chairman, David Obey of Wisconsin, to his promise for reform as he wades through 30,000 earmark requests. ''I don't give a damn if people criticize me or not,'' Mr. Obey snapped. He vowed that staff workers would investigate and publicly highlight each earmark to assure ''some idiot'' in the House isn't profiteering. Now there's a higher road for Congress.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

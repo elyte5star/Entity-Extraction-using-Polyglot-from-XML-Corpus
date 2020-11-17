@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GOLDEN, JEAN STANLEY</title>
+    <meta content="dn061207" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853865"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GOLDEN, JEAN STANLEY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1D9143AF931A25755C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GOLDEN, JEAN STANLEY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLDEN--Jean Stanley. Born in Calgary, Canada and raised in Portland, Oregon, Jean died peacefully at home June 6, 2007. Beloved of the late Myron. She was greatful for the care and comfort she received from her caregivers Rose, Joyce, Laurette, Kade, Ann and Jack, and her cat, Daisy, and from the staff at the Manhasset. Jean spent many years on staff of the music publisher Boosey and Hawkes in New York. She was a kind and generous friend to all who knew her. Jean donated her body to science. Donations in her memory may be sent to the Mohonk Preserve (Jean was a life member), New Paltz, NY 12561 or to the Multnomah County Central Library, 801 SW 10th St., Portland, OR 97205. RIP, dear Jean.</p>
+      </block>
+      <block class="full_text">
+        <p>GOLDEN--Jean Stanley. Born in Calgary, Canada and raised in Portland, Oregon, Jean died peacefully at home June 6, 2007. Beloved of the late Myron. She was greatful for the care and comfort she received from her caregivers Rose, Joyce, Laurette, Kade, Ann and Jack, and her cat, Daisy, and from the staff at the Manhasset. Jean spent many years on staff of the music publisher Boosey and Hawkes in New York. She was a kind and generous friend to all who knew her. Jean donated her body to science. Donations in her memory may be sent to the Mohonk Preserve (Jean was a life member), New Paltz, NY 12561 or to the Multnomah County Central Library, 801 SW 10th St., Portland, OR 97205. RIP, dear Jean.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

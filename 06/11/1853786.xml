@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Judge's Salary</title>
+    <meta content="l11judges" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853786"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE5DE173FF932A25755C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Judge's Salary</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Free Judges' Pay,'' by Judith S. Kaye (Op-Ed, June 7):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Free Judges' Pay,'' by Judith S. Kaye (Op-Ed, June 7):</p>
+        <p>I agree with Chief Judge Kaye on the importance of keeping our ''democracy prosperous and free,'' with ''powers balanced, debts recovered, promises kept and justice done.''</p>
+        <p>Perhaps the biggest single issue in achieving these goals is equal educational opportunity -- and indeed this has been a major judicial issue in New York State for many years.</p>
+        <p>In this light, I am struck by Judge Kaye's worry that judges earning a minimum of $136,700 cannot ''afford to continue to live in New York and educate their children.'' Presumably, she means that they cannot afford expensive private educations for their children.</p>
+        <p>Setting judges' salaries at a level that guarantees their children access to elite educations is not necessarily a good thing.</p>
+        <p>Perhaps a few judicial offspring in the public schools would have a beneficial effect on suits such as Campaign for Fiscal Equity v. State of New York, which seek adequate, constitutionally mandated financing levels for state schools.</p>
+        <p>Tom Riordan  South Orange, N.J., June 7, 2007</p>
+        <p>To the Editor:</p>
+        <p>In addition to a pay increase for New York state judges, a bonus should be given to those judges who live in the judicial district in which they serve.</p>
+        <p>Residing in the judicial area would give the judge an in-depth knowledge of his or her community and provide the community with a sense that the judge is in touch with its activities, problems and dreams.</p>
+        <p>By the way, a residency bonus should also apply to teachers, police officer and firefighters.</p>
+        <p>Louise S. Albenda  Brooklyn, June 7, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

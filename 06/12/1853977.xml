@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Discoverer's DNA</title>
+    <meta content="12tue4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/opinion/12tue4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853977"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Human Genome Sequencing Center</org>
+        <person class="indexing_service">Watson, James D (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <org class="online_producer">Baylor College of Medicine</org>
+        <person class="online_producer">Watson, James D</person>
+        <person class="online_producer">Crick, Francis H C</person>
+        <person class="online_producer">Venter, J Craig</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E6DA173FF931A25755C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Discoverer's DNA</hl1>
+        <hl2 class="online_headline">The Discoverer’s DNA</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial discusses personal and ethical questions prompted by Human Genome Sequencing Center's complete sequencing of James D Watson's DNA; says soon anyone will be able to have his or her own DNA sequenced; contends that appropriate response is patience as quality of genetic information develops</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When scientists talk about sequencing the human genome, they have been talking so far about creating a composite picture drawn from the gene sequences of many people. That has now changed for good. Recently, the director of the Human Genome Sequencing Center at the Baylor College of Medicine gave James D. Watson -- who with Francis Crick discovered the structure of the DNA molecule -- two DVDs that contained the complete sequence of Mr. Watson's DNA.</p>
+        <p>Baylor is now mapping the gene sequence of another pioneer, J. Craig Venter, the founder of a private project to sequence the human genome. And the time when anyone can contract to have his or her DNA sequenced can't be far off.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The time when anyone can contract to have his or her DNA sequenced can’t be far off. That brings into sudden focus a number of important questions.</p>
+      </block>
+      <block class="full_text">
+        <p>When scientists talk about sequencing the human genome, they have been talking so far about creating a composite picture drawn from the gene sequences of many people. That has now changed for good. Recently, the director of the Human Genome Sequencing Center at the Baylor College of Medicine gave James D. Watson -- who with Francis Crick discovered the structure of the DNA molecule -- two DVDs that contained the complete sequence of Mr. Watson's DNA.</p>
+        <p>Baylor is now mapping the gene sequence of another pioneer, J. Craig Venter, the founder of a private project to sequence the human genome. And the time when anyone can contract to have his or her DNA sequenced can't be far off.</p>
+        <p>That brings into sudden focus a number of important questions -- some ethical, some merely personal. Dr. Watson has asked not to be told about his version of a gene that has been linked to a predisposition for Alzheimer's. The question of what we want to know -- and don't want to know -- about what our genes can tell us will only grow with time.</p>
+        <p>Understanding the human genome is a daunting problem. But even more daunting is understanding how much of what we become is driven by our genetic makeup and how much by the environment we live in and the choices we make.</p>
+        <p>The possibility of individual genomic sequencing inevitably raises feelings of hope and fear. Both emotions are caused by the same prospect -- having a clearer idea of who we are. For now, the most appropriate response is patience. There is no disputing the information contained in your genomic sequence. But what really matters at this stage is the quality of the information we have about that genetic information. And that story is just beginning.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judd Apatow's Ramily Values</title>
+    <meta content="10letters.t-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853469"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFD81130F933A25755C0A9619C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judd Apatow's Ramily Values</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thank you for Stephen Rodrick's authoritative article on the comedy director Judd Apatow (May 27). I count most of his movies among my favorites.</p>
+      </block>
+      <block class="full_text">
+        <p>Thank you for Stephen Rodrick's authoritative article on the comedy director Judd Apatow (May 27). I count most of his movies among my favorites.</p>
+        <p>However, I must defend the honor of the '90s comedy heavyweights Adam Sandler and Jim Carrey, who were accused in the article of crude slapstick that amounted to little more than ''kick the bad guys in the groin -- twice.''</p>
+        <p>There's a scene in ''Anchorman'' where the main character, Ron Burgundy, prances around the newsroom in a state of, let's say, arousal. If that's not crude, I don't know what is. The writer's point that the humor of Sandler et al. plays off villains and Apatow's is victimless is splitting hairs.</p>
+        <p>That doesn't mean Apatow isn't one of the best things in movies today.</p>
+        <p>Joel Badzinski</p>
+        <p>La Crosse, Wis.</p>
+        <p>Seeing my former first-grade student featured in your cover story evoked fond memories. Vividly, I recall my class comedian, who many a day entertained our class appropriately. (Fortunately, he had not yet developed his penchant for raunchiness.) Back in 1973, Mrs. Marriott's classroom often rocked with laughter. Congratulations to a fellow who pursued his dream. I guess he heeded our classroom slogan: ''A job worth doing is worth doing well.''</p>
+        <p>Mary Ann Marriott</p>
+        <p>Syosset, N.Y.</p>
+        <p>I'll look forward to laughing out loud when I see Judd Apatow's movie. As the C.E.O. of a Planned Parenthood affiliate, however, I am too familiar with the scenario of women with unintended pregnancies and the subsequent agonizing decisions they face. Each time I hear of a young woman in this predicament, my heart breaks, because there are so many ways to prevent an unwanted pregnancy: everything from abstinence, condom use and birth-control methods to emergency contraception after unprotected sex.</p>
+        <p>Laura Meyers</p>
+        <p>Buffalo, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

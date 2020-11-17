@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Names of the Dead</title>
+    <meta content="13list" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/us/13list.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854168"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE STRUGGLE FOR IRAQ"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE5D6173FF930A25755C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Names of the Dead</hl1>
+        <hl2 class="online_headline">Names of the Dead</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Department of Defense has identified 3,502 American service members who have died since the start of the Iraq war. It confirmed the following deaths yesterday:</p>
+        <p>FENDER, Llythaniele, 21, Cpl., Army; Medical Lake, Wash.; Fifth Battalion, Fifth Air Defense Artillery.</p>
+        <p>HEROLD, Adam G., 23, Specialist, Army; Omaha; 25th Infantry Division.</p>
+        <p>NGIRAKED, Meresebang, 21, Cpl., Army; Koror, Republic of Palau; Fifth Battalion, Fifth Air Defense Artillery.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Department of Defense has identified 3,502 American service members who have died since the start of the Iraq war. It confirmed the following deaths yesterday:.</p>
+      </block>
+      <block class="full_text">
+        <p>The Department of Defense has identified 3,502 American service members who have died since the start of the Iraq war. It confirmed the following deaths yesterday:</p>
+        <p>FENDER, Llythaniele, 21, Cpl., Army; Medical Lake, Wash.; Fifth Battalion, Fifth Air Defense Artillery.</p>
+        <p>HEROLD, Adam G., 23, Specialist, Army; Omaha; 25th Infantry Division.</p>
+        <p>NGIRAKED, Meresebang, 21, Cpl., Army; Koror, Republic of Palau; Fifth Battalion, Fifth Air Defense Artillery.</p>
+        <p>THE STRUGGLE FOR IRAQ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

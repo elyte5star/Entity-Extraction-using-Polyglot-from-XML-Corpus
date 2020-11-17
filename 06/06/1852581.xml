@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Putin Honors Solzhenitsyn</title>
+    <meta content="06arts-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852581"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DC1E30F935A35755C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Putin Honors Solzhenitsyn</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL SCHWIRTZ; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Vladimir V. Putin, a former K.G.B. officer, yesterday awarded the writer and former dissident Aleksandr I. Solzhenitsyn, right, Russia's top honor for a lifetime of humanitarian achievements, the Kremlin press service reported. Author of ''The Gulag Archipelago'' and other incendiary attacks against the Soviet government, the 88-year-old Nobel Prize winner spent two decades in exile before returning to Russia in 1994. Mr. Solzhenitsyn has since lived a reclusive life in Moscow, publishing several works, including a large book on Russian-Jewish relations. His wife, Natalia, told the Interfax news agency that her husband viewed the award as ''an expression of his life's work.'' ''It gives hope that this country will learn from the lesson of self-destruction in the 20th century and will not repeat it again,'' she said.</p>
+        <p>MICHAEL SCHWIRTZ</p>
+      </block>
+      <block class="full_text">
+        <p>President Vladimir V. Putin, a former K.G.B. officer, yesterday awarded the writer and former dissident Aleksandr I. Solzhenitsyn, right, Russia's top honor for a lifetime of humanitarian achievements, the Kremlin press service reported. Author of ''The Gulag Archipelago'' and other incendiary attacks against the Soviet government, the 88-year-old Nobel Prize winner spent two decades in exile before returning to Russia in 1994. Mr. Solzhenitsyn has since lived a reclusive life in Moscow, publishing several works, including a large book on Russian-Jewish relations. His wife, Natalia, told the Interfax news agency that her husband viewed the award as ''an expression of his life's work.'' ''It gives hope that this country will learn from the lesson of self-destruction in the 20th century and will not repeat it again,'' she said.</p>
+        <p>MICHAEL SCHWIRTZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

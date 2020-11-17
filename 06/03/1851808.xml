@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unearthing the Bad News</title>
+    <meta content="NJschool" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/nyregionopinions/NJschool.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides</classifier>
+        <location class="indexing_service">Paramus (NJ)</location>
+        <location class="indexing_service">New Jersey</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">New Jersey</location>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EEDC1530F930A35755C0A9619C8B63" item-length="368" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unearthing the Bad News</hl1>
+        <hl2 class="online_headline">Unearthing the Bad News</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds New Jersey attorney general's office should investigate to see whether school officials violated any state laws by waiting more than four months to warn parents about contaminated soil outside middle school in Paramus; says state education and environmental officials should take specific steps to ensure lapse does not occur again</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>School officials in the northern New Jersey suburb of Paramus abdicated their responsibility for assuring student safety by waiting more than four months before warning parents about contaminated soil just outside a middle school.</p>
+        <p>The school was shut down indefinitely last week by the town's mayor, James Tedesco, following a storm of protests from justifiably outraged parents. The local Board of Education announced that classes would be held at nearby Bergen Community College through June.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>School officials in Paramus abdicated their responsibility for assuring student safety by waiting more than four months before warning parents about contaminated soil just outside a middle school.</p>
+      </block>
+      <block class="full_text">
+        <p>School officials in the northern New Jersey suburb of Paramus abdicated their responsibility for assuring student safety by waiting more than four months before warning parents about contaminated soil just outside a middle school.</p>
+        <p>The school was shut down indefinitely last week by the town's mayor, James Tedesco, following a storm of protests from justifiably outraged parents. The local Board of Education announced that classes would be held at nearby Bergen Community College through June.</p>
+        <p>School officials learned about the contamination in January when an area next to the 47-year-old school was dug up for electrical work. Soil samples contained chlordane and two other pesticides up to 39 times the state's safety standards.</p>
+        <p>But not until a local newspaper, The Record, in Hackensack, began asking questions last month did the school district inform parents or the public. State environmental officials are trying to determine whether the soil was properly fenced off and covered, as required by the state.</p>
+        <p>A federal Environmental Protection Agency spokesman said that chlordane could cause liver problems if inhaled or swallowed, and that the two other pesticides, aldrin and dieldrin, could cause convulsions if swallowed.</p>
+        <p>At a Paramus Council meeting last week, angry parents demanded to know why they were not informed as soon as the contamination was discovered. Several said their children have recently complained of headaches and coughing. Students said that some youngsters had been inside the fenced off area taking pictures.</p>
+        <p>School Board President Mario Sicari acknowledges that the board made a mistake in not immediately notifying parents of the school's 700 students. He said the chlordane could have dated to the mid 1980s or before when it was used for termites. The other pesticides could have come from the days when Paramus, now known for shopping centers and congested highways, was a prime celery farming area.</p>
+        <p>Meanwhile, state DEP workers last week carted away truckloads of the tainted soil, something that should have been done long ago. The state attorney general's office should investigate to see whether school officials violated any state laws.</p>
+        <p>State education and environmental officials should also take specific steps to make sure that this kind of lapse does not happen again, in Paramus or anyplace else.</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

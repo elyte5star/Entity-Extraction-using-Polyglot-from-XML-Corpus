@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: France: Rare White Lion Cubs Die At Zoo</title>
+    <meta content="05briefs-6" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852400"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Zoos</classifier>
+        <classifier class="indexing_service" type="descriptor">Lions</classifier>
+        <location class="indexing_service">Jurques (France)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E5D81130F936A35755C0A9619C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: France: Rare White Lion Cubs Die At Zoo</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN TAGLIABUE</byline>
+      <abstract>
+        <p>Four white lion cubs born last month at zoo in Jurques, France, are dead; cubs were vulnerable to infection because they had been bottle fed after being rejected by their mother (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four white lion cubs, three females and a male, whose birth last month at the zoo in Jurques, in western France, added to the roughly 30 white lions in captivity worldwide, have died, zoo officials said. The cubs were vulnerable to infection because they had been bottle fed after being rejected by their mother.</p>
+        <p>JOHN TAGLIABUE</p>
+      </block>
+      <block class="full_text">
+        <p>Four white lion cubs, three females and a male, whose birth last month at the zoo in Jurques, in western France, added to the roughly 30 white lions in captivity worldwide, have died, zoo officials said. The cubs were vulnerable to infection because they had been bottle fed after being rejected by their mother.</p>
+        <p>JOHN TAGLIABUE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

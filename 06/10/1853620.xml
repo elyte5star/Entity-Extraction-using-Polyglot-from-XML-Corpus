@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marguerite Brackley, Kunal Jajoo</title>
+    <meta content="10brackley" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853620"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Brackley, Dr. Marguerite Mary</person>
+        <person class="indexing_service">Jajoo, Dr. Kunal</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EFD71F30F933A25755C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marguerite Brackley, Kunal Jajoo</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Marguerite Mary Brackley, the daughter of Marguerite M. Brackley of Hingham, Mass., and Dr. Lester M. Brackley of Middleboro, Mass., was married yesterday to Dr. Kunal Jajoo, the son of Pratibha and Dr. Krishana K. Jajoo of Westbury, N.Y. Pandit Jayant N. Sane, a Hindu priest, performed the ceremony at the Seaport Hotel in Boston.</p>
+        <p>The bride, 34, works in Marlborough, Mass., as a medical director in the global safety office of Boston Scientific, the medical device manufacturer in Natick, Mass. She graduated cum laude from Boston College and received her medical degree from the University of Massachusetts. Her father is an optometrist in the Quincy, Mass., office of Davis Vision. Her mother is a lawyer in private practice in Rockland, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Marguerite Mary Brackley, the daughter of Marguerite M. Brackley of Hingham, Mass., and Dr. Lester M. Brackley of Middleboro, Mass., was married yesterday to Dr. Kunal Jajoo, the son of Pratibha and Dr. Krishana K. Jajoo of Westbury, N.Y. Pandit Jayant N. Sane, a Hindu priest, performed the ceremony at the Seaport Hotel in Boston.</p>
+        <p>The bride, 34, works in Marlborough, Mass., as a medical director in the global safety office of Boston Scientific, the medical device manufacturer in Natick, Mass. She graduated cum laude from Boston College and received her medical degree from the University of Massachusetts. Her father is an optometrist in the Quincy, Mass., office of Davis Vision. Her mother is a lawyer in private practice in Rockland, Mass.</p>
+        <p>The bridegroom, 32, is a therapeutic endoscopy fellow at Brigham and Women's Hospital and at Massachusetts General Hospital, both in Boston. He graduated from Columbia and received his medical degree from Mount Sinai School of Medicine. His mother is the office manager of her husband's internal medicine practice in New Hyde Park, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

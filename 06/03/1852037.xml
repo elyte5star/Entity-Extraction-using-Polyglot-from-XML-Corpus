@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Plot Was Unlikely to Work, Experts Say, Citing Safeguards and Pipeline Structure</title>
+    <meta content="03pipe" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/nyregion/03pipe.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852037"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE J.F.K. AIRPORT CASE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DA1030F930A35755C0A9619C8B63" item-length="690" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Plot Was Unlikely to Work, Experts Say, Citing Safeguards and Pipeline Structure</hl1>
+        <hl2 class="online_headline">Plot Was Unlikely to Work, Experts Say, Citing Safeguards and Pipeline Structure</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN; William K. Rashbaum contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Federal authorities said that four men were hoping to blow up Kennedy International Airport and a large swath of Queens by detonating a fuel pipeline and storage tanks, but oil industry executives and local officials said yesterday that such a plot was probably not feasible.</p>
+        <p>While it is true that the tanks at Kennedy Airport are connected to a network of underground pipes that run from New Jersey through Staten Island, Brooklyn and Queens, an exploding tank should not ignite the pipeline, they said. The pipes, which carry jet fuel, gasoline and heating oil, have valves that can be operated from headquarters in Pennsylvania to cut off the flow if sensors indicate that there might be a leak or rupture, said Roy Haase, an official of Buckeye Partners, the company that operates the pipeline.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Federal authorities said that four men were hoping to blow up Kennedy International Airport and a large swath of Queens by detonating a fuel pipeline and storage tanks, but oil industry executives and local officials said yesterday that such a plot was probably not feasible.</p>
+      </block>
+      <block class="full_text">
+        <p>Federal authorities said that four men were hoping to blow up Kennedy International Airport and a large swath of Queens by detonating a fuel pipeline and storage tanks, but oil industry executives and local officials said yesterday that such a plot was probably not feasible.</p>
+        <p>While it is true that the tanks at Kennedy Airport are connected to a network of underground pipes that run from New Jersey through Staten Island, Brooklyn and Queens, an exploding tank should not ignite the pipeline, they said. The pipes, which carry jet fuel, gasoline and heating oil, have valves that can be operated from headquarters in Pennsylvania to cut off the flow if sensors indicate that there might be a leak or rupture, said Roy Haase, an official of Buckeye Partners, the company that operates the pipeline.</p>
+        <p>''It's not like the pipeline is a stick of dynamite and the whole thing would blow up,'' Mr. Haase said. He said it was more likely that the damage from an exploding tank would be limited to the immediate area around the tank.</p>
+        <p>Each of the fuel tanks at Kennedy ''is its own self-contained unit'' 200 to 300 feet from the nearest road, said Stephen Sigmund, a spokesman for the Port Authority of New York and New Jersey, which runs the airport.</p>
+        <p>Anthony E. Shorris, the executive director of the Port Authority, disputed the suspects' notion, as stated in the criminal complaint, that the tanks had minimal security during the daytime. At a news conference yesterday, Mr. Shorris said, ''There are Port Authority police patrols that are regularly in place around all of them.''</p>
+        <p>He said the tanks were also equipped with alarm systems and firefighting equipment.</p>
+        <p>Still, when the New York Police Department learned of the plot, officers began monitoring the pipeline from helicopters and boats, said Raymond W. Kelly, the police commissioner.</p>
+        <p>Mr. Haase said that Buckeye employees inspected the pipeline every day, on foot and in cars. They are not usually looking for terrorists, he said, but for contractors digging too close to the pipes.</p>
+        <p>He said there had not been a significant fire involving the pipeline in its 41 years of existence. During that time, he said, billions of gallons of fuel have moved through the pipeline, which originates in Linden, N.J.</p>
+        <p>From there, two pipes, each 12 inches in diameter, run east through the heart of Staten Island and under New York Bay to a junction in the New Lots section of Brooklyn. One pipe carries jet fuel for planes at Kennedy and La Guardia Airports and one carries diesel fuel for trucks, heating oil and gasoline.</p>
+        <p>From New Lots, one branch snakes north to a terminal at Long Island City and on to La Guardia. The other continues east to Kennedy and on to a terminal in Inwood. All told, the pipeline delivers more than eight million gallons of petroleum to the city each day, Mr. Haase said.</p>
+        <p>''We have security and safety measures in place and those features are very well known to the Fire Department, the Police Department, the F.B.I. and Homeland Security,'' he said. But when asked to describe them in detail, he added, ''There was a time when we would brag about the safety and security of our system, but we don't do that anymore.''</p>
+        <p>Thomas O. Miesner, a former president of Conoco Pipe Line in Houston, said, ''The reason the explosion wouldn't travel along the pipeline is that there's not enough oxygen present inside the pipeline to allow ignition.</p>
+        <p>''It would have caused a big fire, no question about that,'' Mr. Miesner said. ''And the fire would have burned until it was either put out or the jet fuel fueling the fire was all consumed or burned up.''</p>
+        <p>One Port Authority official, who declined to be identified because he was not authorized to comment publicly, said that while it would be extremely difficult to cause a catastrophic explosion by attacking the fuel system, the damage to the airline industry could have been substantial. ''No airline except American could survive any sustained drop in ridership,'' the official said.</p>
+        <p>THE J.F.K. AIRPORT CASE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

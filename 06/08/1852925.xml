@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For the Adventurous, an Earthbound Ride on the Shuttle</title>
+    <meta content="08ride" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/science/space/08ride.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852925"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">Kennedy Space Center</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DB1F30F93BA35755C0A9619C8B63" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For the Adventurous, an Earthbound Ride on the Shuttle</hl1>
+        <hl2 class="online_headline">For the Adventurous, an Earthbound Ride on the Shuttle</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <dateline>CAPE CANAVERAL, Fla., June 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hitching a ride on the space shuttle comes to the lucky few only after a long selection process and arduous training. But the Kennedy Space Center visitor complex has worked with current and former astronauts to develop a ride that just may be the next best thing.</p>
+        <p>The $60 million Shuttle Launch Experience opened Memorial Day weekend. The 44,000-square-foot building holds four simulators, each of which can accommodate 44 people, taking them through a special effects-heavy approximation of the stages of launching and ascent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hitching a ride on the space shuttle comes only to the lucky few, but the Kennedy Space Center has developed a ride that just may be the next best thing.</p>
+      </block>
+      <block class="full_text">
+        <p>Hitching a ride on the space shuttle comes to the lucky few only after a long selection process and arduous training. But the Kennedy Space Center visitor complex has worked with current and former astronauts to develop a ride that just may be the next best thing.</p>
+        <p>The $60 million Shuttle Launch Experience opened Memorial Day weekend. The 44,000-square-foot building holds four simulators, each of which can accommodate 44 people, taking them through a special effects-heavy approximation of the stages of launching and ascent.</p>
+        <p>The production opens with visitors standing for a ''pre-launch briefing'' on video by Brig. Gen. Charles F. Bolden Jr., now retired, who was twice a shuttle commander in his four flights. General Bolden's lively description of the basics is punctuated by powerful bass speakers providing a sensory jolt. Then visitors strap into their seats in the simulator, which looks like an overgrown can that has been loaded into the payload bay of a shuttle.</p>
+        <p>At ''liftoff'' there are more sounds and shaking seats. The entire simulator rears back on hydraulic lifts, setting the passengers up at a nearly 70-degree angle. As the sound and shaking intensifies, air bladders concealed in the seat cushions soften to give the feeling of being pressed back into the seats by the three-G force of ascent.</p>
+        <p>There is a slight power decrease during ''Max Q,'' the period of maximum stress on the vehicle during ascent, when the shuttle briefly eases off its power and then ramps it up again.</p>
+        <p>There is a noise and jolt as the solid rocket boosters are blown away from the shuttle, and another when the external tank is released -- and the simulator rocks back toward the floor and points slightly downward to emulate the thrown-into-the-straps feeling that astronauts describe as they first encounter the reduced acceleration and gravity of orbit.</p>
+        <p>On a real flight, that part of the ascent would have taken eight and a half minutes, but for the passengers on the ride, barely five minutes pass. At that point, the payload bay opens, celestial music plays, and the passengers see a projected image of Earth sliding by below.</p>
+        <p>Col. Richard A. Searfoss, a former shuttle commander, used what he called an ''astronaut-calibrated rear end'' to help the companies that designed and developed the ride. ''I am just amazed how good they've gotten it,'' Colonel Searfoss said.</p>
+        <p>On Wednesday, Matthew Eyers, a 12-year-old visiting Florida with his family from Hampshire, England, said he enjoyed the ride -- even if, by some standards, the shuttle is yesterday's news. A few days before, he had ridden the retro-futuristic Space Mountain ride at Tomorrowland in the Magic Kingdom at Walt Disney World.</p>
+        <p>''This is realistic,'' Matthew said with satisfaction. His father, Tim Eyers, put it differently: ''This is more down to earth.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

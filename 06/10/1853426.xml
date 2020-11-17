@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Up Front</title>
+    <meta content="Upfront.t-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/books/review/Upfront-t-2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853426"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Michaels, Leonard</person>
+        <person class="online_producer">Simpson, Mona</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFDF1030F933A25755C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Up Front</hl1>
+        <hl2 class="online_headline">Up Front</hl2>
+      </hedline>
+      <byline class="print_byline">By The Editors</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I first heard of Leonard Michaels not as a writer but as the teacher of English 134, an undergraduate creative writing class at the University of California, Berkeley,'' in the late 1970s, Mona Simpson recalled in an e-mail message. ''Students killed to get in. Hundreds applied. He took 12.'' In the first session, a student asked if they should all photocopy their stories and hand them around. '' 'No need,' Michaels said from the podium. 'We will be working orally.' ''</p>
+        <p>This meant presenting one copy, to Michaels alone, and then wincing through his unique style of pedagogy: ''He took the stack, shuffled it straight and then read the first line of the first story,'' Simpson recalled. ''After he'd worked through a paragraph, Michaels would throw the manuscript to the floor and pick up another one. He rarely made it past the first page.'' Midway through the course, ''we'd all stopped writing. But our ears would never be the same.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week, Mona Simpson discusses the remarkable effects of Leonard Michaels’s prose.</p>
+      </block>
+      <block class="full_text">
+        <p>I first heard of Leonard Michaels not as a writer but as the teacher of English 134, an undergraduate creative writing class at the University of California, Berkeley,'' in the late 1970s, Mona Simpson recalled in an e-mail message. ''Students killed to get in. Hundreds applied. He took 12.'' In the first session, a student asked if they should all photocopy their stories and hand them around. '' 'No need,' Michaels said from the podium. 'We will be working orally.' ''</p>
+        <p>This meant presenting one copy, to Michaels alone, and then wincing through his unique style of pedagogy: ''He took the stack, shuffled it straight and then read the first line of the first story,'' Simpson recalled. ''After he'd worked through a paragraph, Michaels would throw the manuscript to the floor and pick up another one. He rarely made it past the first page.'' Midway through the course, ''we'd all stopped writing. But our ears would never be the same.''</p>
+        <p>Undeterred, Simpson kept at it, and achieved fame with her best-selling first novel, ''Anywhere but Here,'' published in 1987. She also became a champion of her teacher's honed prose, whose remarkable effects she discusses in her review (Page 14) of two new volumes of Michaels's republished work.</p>
+        <p>The Editors</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

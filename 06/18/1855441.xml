@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE/NEW CDs</title>
+    <meta content="18CHOI-4" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855441"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EEDC123FF93BA25755C0A9619C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE/NEW CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DJ Khaled  ''We the Best'' (Koch)</p>
+        <p>Last year the Miami hip-hop hustler DJ Khaled assembled ''Listennn'' (Koch), a legal and licensed sequel to his underground mixtapes. The overstuffed lineup was a tribute to DJ Khaled's skill as a rapper wrangler, and the CD helped cement Miami's position as one of the country's most important hip-hop cities.</p>
+      </block>
+      <block class="full_text">
+        <p>DJ Khaled  ''We the Best'' (Koch)</p>
+        <p>Last year the Miami hip-hop hustler DJ Khaled assembled ''Listennn'' (Koch), a legal and licensed sequel to his underground mixtapes. The overstuffed lineup was a tribute to DJ Khaled's skill as a rapper wrangler, and the CD helped cement Miami's position as one of the country's most important hip-hop cities.</p>
+        <p>The follow-up is ''We the Best'' (or as DJ Khaled incessantly pronounces it, ''we-da-BESSS''), a leaner and more focused compilation that has already spawned a hit: the exuberant ''We Takin' Over,'' starring Akon, T. I., Birdman, Lil Wayne, Fat Joe and Rick Ross. All you get on this CD is a bunch of big-name rappers trading verses, but for a certain kind of hip-hop fan that's plenty. ''Brown Paper Bag'' gives Juelz Santana a chance to shift from third person to first: ''The cars that he drives are all foreign/The game is mine, I'm so far in/I'm speaking with a accent -- you just cahn't win.'' And ''I'm From the Ghetto'' has a chorus of kids along with back-in-the-day verses from the Jadakiss, Trick Daddy and the Game, whose throaty reminiscence makes him the victor. (There's no way around it: Put more than two rappers on the same song, and you've got yourself a competition.)</p>
+        <p>No one will confuse this CD with a classic album, but in an era when album sales are falling, maybe that's a good thing. Why couldn't an ambitious record company win customers -- maybe even subscribers -- by hiring mixtape D.J.'s and releasing a ''We the Best'' every month?</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Francine Hochberg, Jeffrey Giuffrida</title>
+    <meta content="10hochberg" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10hochberg.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853623"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Hochberg, Francine Allyn</person>
+        <person class="indexing_service">Giuffrida, Jeffrey Tom</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEFD71F30F933A25755C0A9619C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Francine Hochberg, Jeffrey Giuffrida</hl1>
+        <hl2 class="online_headline">Francine Hochberg, Jeffrey Giuffrida</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Francine Allyn Hochberg and Jeffrey Tom Giuffrida are to be married today by Rabbi Martin Levy at the Evergreen House, a museum and library in Baltimore.</p>
+        <p>The bride, 31, is an associate at the Center for Constitutional Litigation, a public interest law firm in Washington. She graduated magna cum laude from Bowdoin and received a master's degree in English and her law degree cum laude from Duke.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Francine Allyn Hochberg and Jeffrey Tom Giuffrida are to be married today by Rabbi Martin Levy at the Evergreen House, a museum and library in Baltimore.</p>
+      </block>
+      <block class="full_text">
+        <p>Francine Allyn Hochberg and Jeffrey Tom Giuffrida are to be married today by Rabbi Martin Levy at the Evergreen House, a museum and library in Baltimore.</p>
+        <p>The bride, 31, is an associate at the Center for Constitutional Litigation, a public interest law firm in Washington. She graduated magna cum laude from Bowdoin and received a master's degree in English and her law degree cum laude from Duke.</p>
+        <p>She is a daughter of Susan N. Hochberg and Dr. Marc C. Hochberg of Baltimore. Her father is a professor of medicine and the chief of the rheumatology and clinical immunology division at the University of Maryland School of Medicine in Baltimore. Her mother, who is retired, was a consultant for the division of special education at the Maryland State Department of Education in Baltimore.</p>
+        <p>The bridegroom, 30, was until this month a marketing manager for job placement advertisements at The Washington Post. In August, he is to begin studies for an M.B.A. degree at the University of Virginia. He graduated from Dartmouth.</p>
+        <p>He is a son of Judith L. Giuffrida and Tom A. Giuffrida of West Palm Beach, Fla. His mother, who is retired, was a consultant in West Palm Beach for Computer Curriculum, an educational software company that was in Sunnyvale, Calif. She is on the board of the Hospice of Palm Beach County. His father is the president of Palm Beach Newspapers, a group of four publications, including The Palm Beach Post, of which he is the publisher.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

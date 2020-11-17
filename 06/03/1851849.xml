@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kara Visconti, Frank Blanco</title>
+    <meta content="03VISCONTI" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03VISCONTI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851849"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Visconti, Kara (Kara Blanco)</person>
+        <person class="indexing_service">Blanco, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFDF1230F930A35755C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kara Visconti, Frank Blanco</hl1>
+        <hl2 class="online_headline">Kara Visconti, Frank Blanco</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kara Visconti and Frank Blanco were married yesterday at the Church of St. Ignatius Loyola in Manhattan. The Rev. George M. Witt, a Roman Catholic priest, performed the ceremony.</p>
+        <p>The couple met at Boston College, from which they graduated, he summa cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kara Visconti and Frank Blanco were married yesterday at the Church of St. Ignatius Loyola in Manhattan. The Rev. George M. Witt, a Roman Catholic priest, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Kara Visconti and Frank Blanco were married yesterday at the Church of St. Ignatius Loyola in Manhattan. The Rev. George M. Witt, a Roman Catholic priest, performed the ceremony.</p>
+        <p>The couple met at Boston College, from which they graduated, he summa cum laude.</p>
+        <p>The bride, 31, is a merchandiser for Macy's in Manhattan, where she provides strategic buying direction for men's dress shirts and neckwear.</p>
+        <p>She is the daughter of Kathy and Richard Visconti of Roslyn, N.Y. Her father works in Hicksville, N.Y., as the assistant general counsel of KeySpan Energy, the Brooklyn-based gas utility company.</p>
+        <p>The bridegroom, also 31, is a vice president at Keefe, Bruyette &amp; Woods, a Manhattan-based investment bank, where he specializes in advising corporations on mergers and acquisitions and raising capital.</p>
+        <p>He is the son of Wendy and Frank Blanco Jr. of Overland Park, Kan. His mother is a teacher's aide there who assists special-needs children at Indian Valley Elementary School. His father is the vice president for distributor sales with Nazdar, a manufacturer of printing inks and chemicals in Shawnee, Kan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

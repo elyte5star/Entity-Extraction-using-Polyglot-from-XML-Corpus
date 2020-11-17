@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In a Busy Season, a Return Engagement?</title>
+    <meta content="03basicA" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/weekinreview/03basicA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851947"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Basics"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <org class="online_producer">National Hurricane Center</org>
+        <org class="online_producer">National Oceanic and Atmospheric Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DF1030F930A35755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In a Busy Season, a Return Engagement?</hl1>
+        <hl2 class="online_headline">In a Busy Season, a Return Engagement?</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRIS CONWAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How likely is it that a major hurricane will strike Miami this year? Or Galveston, Tex.? Or the Outer Banks of North Carolina?</p>
+        <p>It's impossible to say with certainty.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While hurricane predictions are just that  predictions  historical data can offer perspective.</p>
+      </block>
+      <block class="full_text">
+        <p>How likely is it that a major hurricane will strike Miami this year? Or Galveston, Tex.? Or the Outer Banks of North Carolina?</p>
+        <p>It's impossible to say with certainty.</p>
+        <p>But weather forecasters are predicting a busy hurricane season between now and the end of November, and are urging coastal residents to be prepared.</p>
+        <p>The National Oceanic and Atmospheric Administration has warned of as many as 7 to 10 hurricanes, with three to five with major destructive force -- Category 3 storms (like Katrina) or worse. Atmospheric scientists at Colorado State University have made a similarly worrisome forecast, predicting nine hurricanes, with five ranked, at a minimum, as Category 3 storms with sustained winds of 111 miles per hour or greater. They added that there was a 74 percent chance that at least one major hurricane would hit the United States this year.</p>
+        <p>While predictions are just that, predictions, historical data can offer perspective. The National Hurricane Center in Miami used such data to calculate ''return periods'' for hurricanes along the Gulf and Atlantic Coasts. Forecasters estimated how often, on average, a major hurricane of Category 3 strength or greater would pass within 75 miles of selected coastal communities.</p>
+        <p>The map, below, shows what they found.</p>
+        <p>CHRIS CONWAY</p>
+        <p>The Basics</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

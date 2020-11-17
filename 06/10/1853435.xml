@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Monaco Recalls Princess Grace With Exhibit</title>
+    <meta content="10transgrace" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/travel/10transgrace.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853435"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Royal Family</classifier>
+        <location class="indexing_service">Monaco</location>
+        <org class="indexing_service">Grimaldi Forum Monaco</org>
+        <person class="indexing_service">Kelly, Grace (Princess Grace of Monaco) (1929-82)</person>
+        <person class="indexing_service">Howard, Hilary</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Monaco</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Royal Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Monaco</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EEDC1130F933A25755C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Monaco Recalls Princess Grace With Exhibit</hl1>
+        <hl2 class="online_headline">Monaco Recalls Princess Grace With Exhibit</hl2>
+      </hedline>
+      <byline class="print_byline">By HILARY HOWARD</byline>
+      <byline class="normalized_byline">Howard, Hilary</byline>
+      <abstract>
+        <p>Grimaldi Forum Monaco will pay tribute to Grace Kelly this summer with exhibit The Grace Kelly Years, Princess of Monaco; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Grace Kelly, the movie star who became a real-life princess when she married Prince Rainier in 1956, right, and the tragic victim of a car crash in 1982, revisits the French Riviera this summer when the Grimaldi Forum Monaco (www.grimaldiforum.com) pays tribute to her in an exhibition from July 12 through Sept. 23.</p>
+        <p>The exhibit, ''The Grace Kelly Years, Princess of Monaco,'' uses 15 walk-through rooms to reflect different eras of her life, including ''New York,'' which covers her early theatrical career; ''Hitchcock,'' which explores her work with the celebrated director and was designed to replicate the set from the 1954 movie ''Rear Window''; ''Wedding,'' where her wedding dress -- a gift from the MGM designer Helen Rose -- is on display; and ''Official,'' which contains the princess's belt and diadem.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Grimaldi Forum Monaco pays tribute to Grace Kelly, the movie star who became a real-life princess when she married Prince Rainier in 1956.</p>
+      </block>
+      <block class="full_text">
+        <p>Grace Kelly, the movie star who became a real-life princess when she married Prince Rainier in 1956, right, and the tragic victim of a car crash in 1982, revisits the French Riviera this summer when the Grimaldi Forum Monaco (www.grimaldiforum.com) pays tribute to her in an exhibition from July 12 through Sept. 23.</p>
+        <p>The exhibit, ''The Grace Kelly Years, Princess of Monaco,'' uses 15 walk-through rooms to reflect different eras of her life, including ''New York,'' which covers her early theatrical career; ''Hitchcock,'' which explores her work with the celebrated director and was designed to replicate the set from the 1954 movie ''Rear Window''; ''Wedding,'' where her wedding dress -- a gift from the MGM designer Helen Rose -- is on display; and ''Official,'' which contains the princess's belt and diadem.</p>
+        <p>Several Société des Bains de Mer hotels, including Hôtel de Paris and Hôtel Mirabeau, are offering packages that include two tickets to the exhibition (10 euros each, $13.70 at $1.37 to the dollar). Rates range from $540 to $985 a night; other packages are available by bidding at www.monacoauction.com.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

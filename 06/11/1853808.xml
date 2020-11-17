@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="11choi-2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DD173FF932A25755C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>T-Pain  ''Epiphany''  (Zomba/Sony BMG)</p>
+        <p>T-Pain is the undisputed heavyweight champion of cyborg soul, and for the past few years his computer-processed voice has been a staple on pop radio. Beneath the electronic ache of his 2005 breakthrough hits, ''I'm Sprung'' and ''I'm N Luv (Wit a Stripper),'' you could detect a sly joke about love's power. Apparently the right woman can turn any man into a robot. His new album, ''Epiphany,'' has already spawned a No. 1 hit, ''Buy U a Drank (Shawty Snappin')''; the similarly-themed follow-up is ''Bartender,'' featuring Akon, who is one of the album's executive producers. And in the opening track, ''Tallahassee Love,'' T-Pain pays tribute both to his hometown and to Roger Troutman, the funk pioneer who helped popularize the vocal effect that T-Pain is known for.</p>
+      </block>
+      <block class="full_text">
+        <p>T-Pain  ''Epiphany''  (Zomba/Sony BMG)</p>
+        <p>T-Pain is the undisputed heavyweight champion of cyborg soul, and for the past few years his computer-processed voice has been a staple on pop radio. Beneath the electronic ache of his 2005 breakthrough hits, ''I'm Sprung'' and ''I'm N Luv (Wit a Stripper),'' you could detect a sly joke about love's power. Apparently the right woman can turn any man into a robot. His new album, ''Epiphany,'' has already spawned a No. 1 hit, ''Buy U a Drank (Shawty Snappin')''; the similarly-themed follow-up is ''Bartender,'' featuring Akon, who is one of the album's executive producers. And in the opening track, ''Tallahassee Love,'' T-Pain pays tribute both to his hometown and to Roger Troutman, the funk pioneer who helped popularize the vocal effect that T-Pain is known for.</p>
+        <p>But don't be too distracted by the funny voice: T-Pain also produced every song on the album, and his thumping beats are the secret behind his success. In ''Backseat Action'' he rides a twitchy, syncopated rhythm, while ''Church'' hints at antsy new wave. And while ''Suicide'' is a perplexing bit of melodrama (an incautious man wails, ''She had H-I-Veee''), the last track, ''Sounds Bad,'' is a happy surprise: a bittersweet tribute to a desperate man. ''Got the whole house runnin' on a generator/No good food in my 'frigedator,'' sings the cyborg, and he sounds less robotic than many of his human counterparts.</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Is This Any Way to Treat Vera Wang?</title>
+    <meta content="10trash" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10trash.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Dresses</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dresses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E7D61F30F933A25755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Is This Any Way to Treat Vera Wang?</hl1>
+        <hl2 class="online_headline">Is This Any Way to Treat Vera Wang?</hl2>
+      </hedline>
+      <byline class="print_byline">By CAREN CHESLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FORGET throwing your wedding dress into a plastic bag and storing it in the attic. Enter the Trash the Dress photo session, in which the bride, post-wedding, jumps back into her gown and puts it through its paces -- swimming in it, wearing it on horseback, even burning it -- all while her photographer clicks away.</p>
+        <p>Brides have long had an admittedly complicated relationship with their wedding gowns, which they struggle to find, spend a small fortune on, and sweat over making fit properly -- all for a fabric confection that is typically worn once.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nowadays, many brides are opting for “Trash the Dress” photos instead of preserving or passing down wedding gowns.</p>
+      </block>
+      <block class="full_text">
+        <p>FORGET throwing your wedding dress into a plastic bag and storing it in the attic. Enter the Trash the Dress photo session, in which the bride, post-wedding, jumps back into her gown and puts it through its paces -- swimming in it, wearing it on horseback, even burning it -- all while her photographer clicks away.</p>
+        <p>Brides have long had an admittedly complicated relationship with their wedding gowns, which they struggle to find, spend a small fortune on, and sweat over making fit properly -- all for a fabric confection that is typically worn once.</p>
+        <p>Christa DiPaulo Becker, 31, said that sitting in 2005 for her post-wedding Trash the Dress shoot with John Michael Cooper, the Las Vegas wedding photographer credited with starting the trend, seemed appropriate because she was feeling pretty ''antiwedding'' after the whole affair. Besides, she had no plans to wear it ever again despite the $2,500 cost of the gown. So submerging it in a mossy spring in Nevada (above) was no loss, she said.</p>
+        <p>Her only reservation? ''The water was hypothermia cold.''</p>
+        <p>The photo trend in fact began with a yawn. Mr. Cooper, 41, said he was bored with the same old wedding photos, and so he persuaded several of his clients to pose after their weddings in grungy offbeat settings. ''In fashion photography, they often put really pretty people in very ugly places,'' he said. ''I'm applying that technique to weddings.''</p>
+        <p>Interest in these photos has even led to the creation of a Web site, trashthedress.com, which Mark Eric, a 35-year-old photographer from Alexandria, La., said he started to display his own Trash the Dress images.</p>
+        <p>So, what of the tradition of saving the dress, possibly to pass on? Ms. Becker said: ''I felt a little nostalgic for a second, but then I thought it was so cool to have that photo. I'd rather have that than to look at a dress in a box that is perfectly preserved.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

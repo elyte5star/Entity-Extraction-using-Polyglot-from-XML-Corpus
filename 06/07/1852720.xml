@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where a Screen Isn't an Option, a Hand-Held Uses Audio</title>
+    <meta content="07blind" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/technology/07blind.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852720"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blindness</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Blindness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blindness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3D81E30F934A35755C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where a Screen Isn't an Option, a Hand-Held Uses Audio</hl1>
+        <hl2 class="online_headline">Where a Screen Isn’t an Option, a Hand-Held Uses Audio</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Icon mobile manager has just about everything you would expect in a hand-held organizer, including a calendar, address book, clock, word processor, calculator, voice recorder, and Wi-Fi and Bluetooth connectivity. What it does not have is a screen, because this pocket-size device from LevelStar was designed for visually impaired users.</p>
+        <p>With its 30-gigabyte hard drive, the Icon can also store and play audiobooks, podcasts and digital music. An audio-based Web browser and an e-mail program are included in the suite of installed software. The Icon weighs about 7.4 ounces, but carries a laptoplike price tag; it sells for $1,395 at www.levelstar.com and can also be ordered by calling toll free at (800) 315-2305.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Icon mobile manager has just about everything you would expect in a hand-held organizer. What is does not have, however, is a screen.</p>
+      </block>
+      <block class="full_text">
+        <p>The Icon mobile manager has just about everything you would expect in a hand-held organizer, including a calendar, address book, clock, word processor, calculator, voice recorder, and Wi-Fi and Bluetooth connectivity. What it does not have is a screen, because this pocket-size device from LevelStar was designed for visually impaired users.</p>
+        <p>With its 30-gigabyte hard drive, the Icon can also store and play audiobooks, podcasts and digital music. An audio-based Web browser and an e-mail program are included in the suite of installed software. The Icon weighs about 7.4 ounces, but carries a laptoplike price tag; it sells for $1,395 at www.levelstar.com and can also be ordered by calling toll free at (800) 315-2305.</p>
+        <p>The Linux-based Icon, which comes with a rechargeable lithium-ion battery, runs on an Intel 520-megahertz XScale processor and has 256 megabytes of internal flash memory, along with a MiniSD card slot to add more storage. LevelStar is also at work on a docking station that connects to the Icon and provides a Braille or standard keyboard for data entry, along with a dial-up modem and an Ethernet jack for even more ways to go online.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

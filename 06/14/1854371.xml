@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congressional Payback</title>
+    <meta content="l14campaign" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854371"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E1DA143FF937A25755C0A9619C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congressional Payback</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Alaskan Gets Campaign Cash; Florida Road Gets U.S. Funds,'' (front page, June 7), it's clear that Representative Don Young, Republican of Alaska, believes that his constituents are not the voters who elected him but the elite few who made five-figure investments in his political endeavors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Alaskan Gets Campaign Cash; Florida Road Gets U.S. Funds,'' (front page, June 7), it's clear that Representative Don Young, Republican of Alaska, believes that his constituents are not the voters who elected him but the elite few who made five-figure investments in his political endeavors.</p>
+        <p>And how does he pay them back? By netting them a bonanza in million-dollar pork-barrel projects that are likely to substantially increase the value of their local real estate.</p>
+        <p>Mr. Young and those in our Capitol who immerse themselves in pay-to-play politics should be ashamed. Mr. Young and those in his political mold will one day be the exception instead of the norm.</p>
+        <p>Recently, new bipartisan measures were introduced in Congress, called the Fair Elections Now Act in the Senate, and Clean Money, Clean Elections Act in the House. This legislation would institute full public financing of elections. Qualified candidates would receive enough public funds to run a robust campaign, but only after they agree to forgo private contributions and to adhere to strict spending limits.</p>
+        <p>Until we end the money chase, our elected officials will be accountable to political rainmakers instead of their voters.</p>
+        <p>Nick Nyhart  Washington, June 7, 2007</p>
+        <p>The writer is president and C.E.O. of Public Campaign, a nonprofit, nonpartisan organization dedicated to improving America's campaign finance laws.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

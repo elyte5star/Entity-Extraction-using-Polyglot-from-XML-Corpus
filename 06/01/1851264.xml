@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="01churn" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/business/01churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851264"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4D91530F932A35755C0A9619C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+      <abstract>
+        <p>The Churn column on recent executive appointments (M)�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>Evercore Partners has hired two investment bankers as senior managing directors: François Maisonrouge, who had been a managing director and chairman of life sciences at Credit Suisse, and Mark Vander Ploeg, who was previously a vice chairman of investment banking at Merrill Lynch.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>Evercore Partners has hired two investment bankers as senior managing directors: François Maisonrouge, who had been a managing director and chairman of life sciences at Credit Suisse, and Mark Vander Ploeg, who was previously a vice chairman of investment banking at Merrill Lynch.</p>
+        <p>Paul Calderone, formerly of Morgan Stanley, has joined Credit Suisse as product manager for balanced alpha products.</p>
+        <p>Cowen Group has hired John Nelson, formerly of Friedman Billings Ramsey, and appointed Charles Preusse as co-heads of aerospace and defense investment banking.</p>
+        <p>Thomas Johnston, formerly of Miller &amp; Chevalier, has joined Shearman &amp; Sterling as a partner in its tax group in the Washington office.</p>
+        <p>Brendon J. Weiss has joined the lobbying and consulting firm Porterfield &amp; Lowenthal as a vice president. He recently served in the Securities and Exchange Commission's office of legislative and intergovernmental affairs.</p>
+        <p>Shannon Lowry Nagle, formerly of Stroock &amp; Stroock &amp; Lavan, has joined the New York office of O'Melveny &amp; Myers as a partner in the business restructuring and reorganization group.</p>
+        <p>GE Commercial Finance Corporate Lending has appointed Kjerstin E. Barley senior vice president and industry leader of technology and electronics.</p>
+        <p>Clifford Chance has named eight new counsels in the United States: Joseph T. Calto, David Cook, Jeffrey Gimpel, Mark Rueh and Mandy Stupart, all in New York; and Boyd Cloern, Jeffrey Drichta and Fabricio Longhin in the firm's Washington office.</p>
+        <p>Robert S. Loigman, who specializes in hedge fund and other securities cases, is joining the New York office of Quinn Emanuel Urquhart Oliver &amp; Hedges as a partner. Mr. Loigman was previously a partner with Friedman Kaplan Seiler &amp; Adelman.</p>
+        <p>Jeff S. Liebmann, Jonathan L. Freedman and Jonathan J. Kelly have joined Sidley Austin as partners in the global insurance practice in New York.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

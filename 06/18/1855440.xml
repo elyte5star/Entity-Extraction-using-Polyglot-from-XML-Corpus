@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE/NEW CDs</title>
+    <meta content="18CHOI-3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855440"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EEDC123FF93BA25755C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE/NEW CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fabolous  ''From Nothin' to Somethin' ''  (Def Jam)</p>
+        <p>The Brooklyn rapper Fabolous is known for rhymes that aspire to nothing more or less than cleverness. His voice is plain and conversational and smooth enough, and if he has any personality quirks he's keeping them to himself. You might even call him dull. But give him a hard backbeat or a soft R&amp;B track, and he'll happily supply you with wordplay until the chorus comes around. He's a word nerd, and he likes nothing more than finding unexpected rhymes: ''Last seen in Brooklyn, they found him by a Bronx lot/Rifles on the roof -- yeah, we got him by a longshot.''</p>
+      </block>
+      <block class="full_text">
+        <p>Fabolous  ''From Nothin' to Somethin' ''  (Def Jam)</p>
+        <p>The Brooklyn rapper Fabolous is known for rhymes that aspire to nothing more or less than cleverness. His voice is plain and conversational and smooth enough, and if he has any personality quirks he's keeping them to himself. You might even call him dull. But give him a hard backbeat or a soft R&amp;B track, and he'll happily supply you with wordplay until the chorus comes around. He's a word nerd, and he likes nothing more than finding unexpected rhymes: ''Last seen in Brooklyn, they found him by a Bronx lot/Rifles on the roof -- yeah, we got him by a longshot.''</p>
+        <p>That couplet comes from ''From Nothin' to Somethin','' Fabolous's fourth album and his first for Def Jam; it's a big-budget CD that delivers small pleasures. Every song but one has a guest star, some of whom inadvertently expose the limits of the Fabolous formula. ''Diamonds,'' with Young Jeezy, is a pale imitation of down South hip-hop. ''Gangsta Don't Play,'' with Junior Reid, is an inert foray into reggae. And ''Brooklyn,'' which includes a verse from Jay-Z, doesn't sound quite as tough as the borough it celebrates.</p>
+        <p>Luckily, Fabolous's wit rarely fails him (even the misfires are quotable), and the best tracks are charming throwbacks to that recent but distant era when New York hip-hop was riding high. In ''Return of the Hustle'' he delivers boasts (''I'd rather do my lip-lashing/When the chips cashed in'') over a bombastic Just Blaze beat; ''Jokes on You'' gives him a welcome chance to trade one-liners with Pusha T from Clipse; ''Baby Don't Go'' is a brisk and flirty T-Pain collaboration. And then there's his current single, ''Make Me Better,'' a love song with a chorus by Ne-Yo and a sleek beat by Timbaland. In it Fabolous delivers one of the sweetest and silliest pick-up lines of the summer: ''Guess it's a G thing whenever we swing/I'm-a need Coretta Scott if I'm gon' be King.''</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

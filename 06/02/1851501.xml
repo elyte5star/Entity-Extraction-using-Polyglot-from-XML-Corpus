@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COLD AND HOT</title>
+    <meta content="02five-3" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851501"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E2DF1030F931A35755C0A9619C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COLD AND HOT</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID BARBOZA</byline>
+      <byline class="normalized_byline">Barboza, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE government said economic growth was slower in the first quarter than it had initially estimated. Chinese markets swooned, but American investors reached new heights. The World Bank has big money-raising needs for its new leader.</p>
+        <p>China's stock market plummeted Wednesday after Beijing imposed higher taxes on stock trading activity in an attempt to cool off a sizzling market. China's two major stock indexes fell sharply in a huge sell-off, and the Shanghai composite index was down 6.5 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>THE government said economic growth was slower in the first quarter than it had initially estimated. Chinese markets swooned, but American investors reached new heights. The World Bank has big money-raising needs for its new leader.</p>
+        <p>China's stock market plummeted Wednesday after Beijing imposed higher taxes on stock trading activity in an attempt to cool off a sizzling market. China's two major stock indexes fell sharply in a huge sell-off, and the Shanghai composite index was down 6.5 percent.</p>
+        <p>The sharp fall did not sway American markets. The Standard &amp; Poor's 500-stock index closed Wednesday at a level last reached on March 24, 2000. It ended the week up 1.4 percent, closing yesterday at 1,536.34.</p>
+        <p>For the week, the Nasdaq climbed 2.2 percent and the Dow Jones industrial average gained 1.2 percent. Some angry Chinese investors, however, lashed out at the government for earlier saying there was no intention to raise the stamp duty tax and then promptly reversing course early Wednesday, after the raging bull market reached new highs on Monday and Tuesday. There were even reports that investors hacked into a government finance Web site and shut it down.</p>
+        <p>On Thursday, however, the market recovered slightly, but it continued its slide yesterday, ending the week down 4.3 percent. Still, one thing is clear: there is no panic.</p>
+        <p>DAVID BARBOZA</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from May 26 through June 1:  1. Bumped Fliers and No Plan B  2. In Fierce Competition, Google Finds Novel Ways to Feed Hiring Machine  3. Truth, Fiction and Lou Dobbs  4. Apple's Lesson for Sony's Stores: Just Connect  5. Lawmakers Push for Big Subsidies for Coal Process  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

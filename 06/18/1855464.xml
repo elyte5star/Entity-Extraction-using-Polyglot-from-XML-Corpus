@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Man Shot By Police In Critical Condition</title>
+    <meta content="18mbrfs-1" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855464"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E3DB123FF93BA25755C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Man Shot By Police In Critical Condition</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL WILSON; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man who was shot by police officers on Saturday night after the authorities said he refused to drop a pellet gun that looked like a handgun remained in critical but stable condition yesterday at Jamaica Hospital Medical Center, the police said. The man was identified as Luis A. Dominguez, 49, of Rosedale. The shooting occurred near his home shortly before 9 p.m., when several officers surrounded him and repeatedly ordered him to drop the gun before firing several shots, witnesses and the police said. Mr. Dominguez was shot in the torso, the police said. A lieutenant suffered a minor shoulder injury, and the police said yesterday it was unclear whether the lieutenant had been grazed by a bullet from a fellow officer. An investigation is continuing, the police said. A neighbor said Mr. Dominguez was prone to hostility when he had been drinking. ''He kept going up the street, hiding behind a tree with the gun,'' said the neighbor, Zita Young, 43. ''I ran to the deli to get one of the guys to see if they could talk to him or help him. By that time we heard the gunshots go off. I wasn't counting, but it was a lot.''</p>
+        <p>MICHAEL WILSON</p>
+      </block>
+      <block class="full_text">
+        <p>A man who was shot by police officers on Saturday night after the authorities said he refused to drop a pellet gun that looked like a handgun remained in critical but stable condition yesterday at Jamaica Hospital Medical Center, the police said. The man was identified as Luis A. Dominguez, 49, of Rosedale. The shooting occurred near his home shortly before 9 p.m., when several officers surrounded him and repeatedly ordered him to drop the gun before firing several shots, witnesses and the police said. Mr. Dominguez was shot in the torso, the police said. A lieutenant suffered a minor shoulder injury, and the police said yesterday it was unclear whether the lieutenant had been grazed by a bullet from a fellow officer. An investigation is continuing, the police said. A neighbor said Mr. Dominguez was prone to hostility when he had been drinking. ''He kept going up the street, hiding behind a tree with the gun,'' said the neighbor, Zita Young, 43. ''I ran to the deli to get one of the guys to see if they could talk to him or help him. By that time we heard the gunshots go off. I wasn't counting, but it was a lot.''</p>
+        <p>MICHAEL WILSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cut the Nuclear Arsenal</title>
+    <meta content="l13war" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854200"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treaties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E6DF143FF930A25755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cut the Nuclear Arsenal</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Nasty, Unfinished Cold War Business'' (editorial, June 9):Ever since August 1945, mankind has known how to destroy itself with atomic bombs. How to avoid doing so must be at the top of every country's agenda, and our children and grandchildren must be kept aware of the danger.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Nasty, Unfinished Cold War Business'' (editorial, June 9):Ever since August 1945, mankind has known how to destroy itself with atomic bombs. How to avoid doing so must be at the top of every country's agenda, and our children and grandchildren must be kept aware of the danger.</p>
+        <p>When the Soviet Union had 100 bombs and seemed close to using them, I was scared. Now, 15,000 bombs do not scare me anymore. But the sooner we reduce the number to 100, the better.</p>
+        <p>Better still, but more difficult, will be a comprehensive treaty that keeps these weapons out of international disagreements. What is holding us back?</p>
+        <p>Richard Wilson  Cambridge, Mass., June 10, 2007</p>
+        <p>The writer is emeritus professor of physics at Harvard University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

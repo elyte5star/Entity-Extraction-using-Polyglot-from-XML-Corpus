@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What's On Tonight</title>
+    <meta content="19tvcol" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/arts/television/19tvcol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855656"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E1DE133FF93AA25755C0A9619C8B63" item-length="412" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What's On Tonight</hl1>
+        <hl2 class="online_headline">What’s on Tonight</hl2>
+      </hedline>
+      <byline class="print_byline">By LORI MOORE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>8 P.M. (TCM) ON DANGEROUS GROUND Ida Lupino, born into an Italian theater family, acted in films steadily from the age of 13 and in the 1950s was one of the few female directors working in Hollywood. Turner Classic Movies is paying tribute to this actress, director, writer and producer throughout June; tonight a series of her performances will be showcased, starting with this 1952 drama about a police detective (Robert Ryan) who helps a blind girl (Ms. Lupino, above with Mr. Ryan) whose brother has been murdered. Next, at 9:30 p.m., is ''While the City Sleeps'' (1956); at 11:15 p.m. Ms. Lupino plays a widow terrorized by a deranged handyman in ''Beware, My Lovely'' (1952); and at 12:45 a.m. comes ''Ladies in Retirement'' (1941), an understated thriller about women living on the moors.</p>
+        <p>8 P.M. (22, 26) NOVA: BONE DIGGERS A newly discovered cave beneath the Nullarbor Plain in Australia offers a trove of archaeological treasures, including the first complete skeleton of the largest carnivorous marsupial ever found and remains of another long-extinct species.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>8 P.M. (TCM) ON DANGEROUS GROUND Ida Lupino, born into an Italian theater family, acted in films steadily from the age of 13 and in the 1950s was one of the few female directors working in Hollywood. Turner Classic Movies is paying tribute to this actress, director, writer and producer throughout June; tonight a series of her performances will be showcased, starting with this 1952 drama about a police detective (Robert Ryan) who helps a blind girl (Ms. Lupino, above with Mr. Ryan) whose brother has been murdered. Next, at 9:30 p.m., is “While the City Sleeps” (1956); at 11:15 p.m. Ms. Lupino plays a widow terrorized by a deranged handyman in “Beware, My Lovely” (1952); and at 12:45 a.m. comes “Ladies in Retirement” (1941), an understated thriller about women living on the moors.</p>
+      </block>
+      <block class="full_text">
+        <p>8 P.M. (TCM) ON DANGEROUS GROUND Ida Lupino, born into an Italian theater family, acted in films steadily from the age of 13 and in the 1950s was one of the few female directors working in Hollywood. Turner Classic Movies is paying tribute to this actress, director, writer and producer throughout June; tonight a series of her performances will be showcased, starting with this 1952 drama about a police detective (Robert Ryan) who helps a blind girl (Ms. Lupino, above with Mr. Ryan) whose brother has been murdered. Next, at 9:30 p.m., is ''While the City Sleeps'' (1956); at 11:15 p.m. Ms. Lupino plays a widow terrorized by a deranged handyman in ''Beware, My Lovely'' (1952); and at 12:45 a.m. comes ''Ladies in Retirement'' (1941), an understated thriller about women living on the moors.</p>
+        <p>8 P.M. (22, 26) NOVA: BONE DIGGERS A newly discovered cave beneath the Nullarbor Plain in Australia offers a trove of archaeological treasures, including the first complete skeleton of the largest carnivorous marsupial ever found and remains of another long-extinct species.</p>
+        <p>8 P.M. (TLC) HOW TO MAKE MILLIONS Though the Internet bubble burst a few years back, the two business partners profiled here believe they can harness the Web for their big idea, an Action Sports Contest.</p>
+        <p>9 P.M. (22), 10 P.M. (26) ENDGAME This ''Frontline'' segment, produced by Michael Kirk, examines strategic and tactical decisions made by the American military in Iraq.</p>
+        <p>9 P.M. (Discovery) DEADLIEST CATCH In the season finale, capping a daylong marathon of the 2007 episodes, the opilio crab season in the Bering Sea also comes to an end, and the fishermen come to some realizations, including that some of them won't be back. In ''After the Catch,'' at 10 p.m., the crews come together to laugh over some of the more notorious pranks of the season.</p>
+        <p>9 P.M. (National Geographic) CRITICAL SITUATION Air Force Capt. Scott O'Grady grants a rare interview to discuss how he eluded capture and stayed alive after his F-16 fighter jet was shot down while patrolling the no-fly zone over Bosnia on June 2, 1995.</p>
+        <p>9 P.M. (USA) A.F.I. LIFETIME ACHIEVEMENT AWARD: A TRIBUTE TO AL PACINOHollywood turns out to help the American Film Institute honor Mr. Pacino for his contributions to film.</p>
+        <p>9 P.M. (History Channel)  JUPITER: THE GIANT PLANET This ''Universe'' program explores the largest planet in our solar system, its beautiful facade of colors and its more than 60 moons. LORI MOORE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

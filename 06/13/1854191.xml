@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Watching Your Every Move</title>
+    <meta content="13wed3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/opinion/13wed3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854191"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Google Inc</org>
+        <org class="online_producer">DoubleClick Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7DF143FF930A25755C0A9619C8B63" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Watching Your Every Move</hl1>
+        <hl2 class="online_headline">Watching Your Every Move</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Internet users are abuzz over Google's new Street View feature, which displays ground-level photos of urban blocks that in some cases even look through the windows of homes. If that feels like Big Brother, consider the reams of private information that Google collects on its users every day through the search terms they enter on its site.</p>
+        <p>Privacy International, a London-based group, has just given Google its lowest grade, below Yahoo and Microsoft, for ''comprehensive consumer surveillance and entrenched hostility to privacy.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Privacy is too important to leave up to the companies that benefit financially from collecting and retaining data.</p>
+      </block>
+      <block class="full_text">
+        <p>Internet users are abuzz over Google's new Street View feature, which displays ground-level photos of urban blocks that in some cases even look through the windows of homes. If that feels like Big Brother, consider the reams of private information that Google collects on its users every day through the search terms they enter on its site.</p>
+        <p>Privacy International, a London-based group, has just given Google its lowest grade, below Yahoo and Microsoft, for ''comprehensive consumer surveillance and entrenched hostility to privacy.''</p>
+        <p>There are welcome signs that this Wild West era of online privacy invasion could be coming to an end. Data protection chiefs from the 27 countries of the European Union sent Google a letter recently questioning the company's policy for retaining consumer information. Here at home, the Federal Trade Commission is looking into the antitrust ramifications of Google's $3.1 billion acquisition of DoubleClick, an online advertising company.</p>
+        <p>The F.T.C. should also examine the privacy ramifications of the deal. And Congress needs to act on proposals to prevent the warehousing of such personal data.</p>
+        <p>Google keeps track of the words users type into its popular site, while DoubleClick tracks surfing behavior across different client Web sites. The combination could give Google an unprecedented ability to profile Web users and their preferences. That knowledge means big bucks from companies trying to target their advertisements. But it also means Google could track more sensitive information -- like what diseases users have, or what political causes they support.</p>
+        <p>Google has announced that rather than keeping information indefinitely, it would only keep it for 18 months before making it anonymous. That is a good step, but not enough since it's not clear what anonymous means. Last year AOL released records of searches by 657,000 unidentified users. Reporters from The Times were able to trace the queries back to ''anonymous'' users.</p>
+        <p>Google is the focus of privacy advocates right now, but it is hardly the only concern. Competitors like Yahoo and Microsoft have the same set of incentives. Privacy is too important to leave up to the companies that benefit financially from collecting and retaining data. The F.T.C. should ask tough questions as it considers the DoubleClick acquisition, and Congress and the European Union need to establish clear rules on the collection and storage of personal information by all Internet companies.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

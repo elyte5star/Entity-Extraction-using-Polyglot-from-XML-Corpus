@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Toxic Toothpaste Made in China Is Found in U.S.</title>
+    <meta content="02toothpaste" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/us/02toothpaste.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851493"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Toothbrushes and Toothpaste</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Diethylene Glycol</classifier>
+        <classifier class="indexing_service" type="descriptor">Antifreeze Solutions</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Kidneys</classifier>
+        <classifier class="indexing_service" type="descriptor">Liver</classifier>
+        <location class="indexing_service">China</location>
+        <location class="indexing_service">Miami (Fla)</location>
+        <location class="indexing_service">Los Angeles (Calif)</location>
+        <location class="indexing_service">Puerto Rico</location>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <person class="indexing_service">Bogdanich, Walt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Teeth and Dentistry</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Miami</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Toothbrushes and Toothpaste</classifier>
+        <classifier class="online_producer" type="descriptor">Poisoning and Poisions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidneys</classifier>
+        <classifier class="online_producer" type="general_descriptor">Liver</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teeth and Dentistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">China</location>
+        <location class="online_producer">Miami (Fla)</location>
+        <location class="online_producer">Puerto Rico</location>
+        <location class="online_producer">Los Angeles (Calif)</location>
+        <org class="online_producer">Food and Drug Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E4DF1030F931A35755C0A9619C8B63" item-length="723" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Toxic Toothpaste Made in China Is Found in U.S.</hl1>
+        <hl2 class="online_headline">Toxic Toothpaste Made in China Is Found in U.S.</hl2>
+      </hedline>
+      <byline class="print_byline">By WALT BOGDANICH</byline>
+      <byline class="normalized_byline">Bogdanich, Walt</byline>
+      <abstract>
+        <p>Consumers are advised to discard all toothpaste made in China after federal health officials find Chinese-made toothpaste containing diethylene glycol, poison used in antifreeze, in Miami, Port of Los Angeles and Puerto Rico; Food and Drug Administration says that Chinese products have 'low but meaningful risk of toxicity and injury' to children and people with kidney or liver disease; US is seventh country to find tainted Chinese toothpaste within its borders; FDA has identified 10 brands of toxic Chinese toothpaste; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Consumers were advised yesterday to discard all toothpaste made in China after federal health officials said they found Chinese-made toothpaste containing a poison used in some antifreeze in three locations: Miami, the Port of Los Angeles and Puerto Rico.</p>
+        <p>Although there are no reports of anyone being harmed by the toothpaste, the Food and Drug Administration warned that the Chinese products had a ''low but meaningful risk of toxicity and injury'' to children and people with kidney or liver disease.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There are no reports of anyone being harmed, but the U.S. is the seventh country to find a poison in toothpaste.</p>
+      </block>
+      <block class="full_text">
+        <p>Consumers were advised yesterday to discard all toothpaste made in China after federal health officials said they found Chinese-made toothpaste containing a poison used in some antifreeze in three locations: Miami, the Port of Los Angeles and Puerto Rico.</p>
+        <p>Although there are no reports of anyone being harmed by the toothpaste, the Food and Drug Administration warned that the Chinese products had a ''low but meaningful risk of toxicity and injury'' to children and people with kidney or liver disease.</p>
+        <p>The United States is the seventh country to find tainted Chinese toothpaste within its borders in recent weeks.</p>
+        <p>Agency officials said they found toothpaste containing a small amount of diethylene glycol, a sweet, syrupy poison, at a Dollar Plus retail store in Miami, sold under the brand name ShiR Fresh Mint Fluoride Paste. The F.D.A. also identified nine other brands of Chinese toothpaste that contain diethylene glycol, some with concentrations of 3 percent to 4 percent.</p>
+        <p>Previously, only a few brands had been identified by health officials around the world as containing diethylene glycol and all of them listed the chemical on the label.</p>
+        <p>But diethylene glycol was not listed on the label of the toothpaste found in the Miami store. Its presence was detected only because the F.D.A. began testing imported Chinese toothpaste last month. That precaution was prompted by the discovery in Latin America of tens of thousands of tubes of tainted toothpaste made in China.</p>
+        <p>Over the years, counterfeiters have found it profitable to substitute diethylene glycol for its chemical cousin, glycerin, which is usually more expensive. Glycerin is a safe additive commonly found in food, drugs and household products. In toothpaste, glycerin is used as a thickening agent.</p>
+        <p>Chinese regulators said Thursday that their investigation of toothpaste manufacturers there had found they had done nothing wrong. Chinese officials also said that while small amounts of diethylene glycol could be safely used in toothpaste, new controls would be imposed on its use in toothpaste.</p>
+        <p>The F.D.A. said diethylene glycol in any amount was not suitable for use in toothpaste.</p>
+        <p>The agency said two Chinese companies, Goldcredit International Trading and the Suzhou City Jinmao Daily Chemicals Company, made the tainted brands found in the United States.</p>
+        <p>In a statement yesterday, federal health officials called diethylene-glycol poisoning ''an important public safety issue.'' The Panamanian government last year inadvertently mixed the poison made in China into 260,000 bottles of cold medicine, killing at least 100 people, prosecutors there said.</p>
+        <p>In that case, Chinese regulators acknowledged on Thursday that two companies in China had ''engaged in some misconduct'' in the way they labeled and sold the diethylene glycol, but they said a Panamanian importer bore most of the blame.</p>
+        <p>Last month, after publicity over the poisoning deaths from the cold medicine, a consumer in Panama noticed that toothpaste in a store listed diethylene glycol as an ingredient and notified the authorities. Eventually it was traced to China, and since then countries around the world have been on the lookout for the product.</p>
+        <p>In addition to the United States and Panama, tainted toothpaste has been found in Australia, the Dominican Republic, Costa Rica, Honduras and Nicaragua.</p>
+        <p>Chinese exports of toothpaste to the United States account for $3.3 million out of a $2 billion-dollar market in America, F.D.A. officials said. ''The scope of this is fairly small when you look at all the toothpaste that is consumed in the U.S.,'' Doug Arbesfeld, an agency spokesman, said.</p>
+        <p>The agency said Chinese-made brands with diethylene glycol were typically sold at low-cost, ''bargain'' retail outlets. A man answering the phone at the Dollar Plus store in Miami, identified by federal officials as selling the Chinese toothpaste, said he did not want to be interviewed because his English was poor. The man, who did not give his name, said federal inspectors came to his store yesterday.</p>
+        <p>Mr. Arbesfeld said that six tubes were confiscated there and that several more were found at the store's distributor. Those tubes were destroyed. F.D.A. officials also said they had confiscated several brands of toothpaste at the Port of Los Angeles and at a retail store in Puerto Rico.</p>
+        <p>The agency said toothpaste containing diethylene glycol was sold under the names Cooldent Fluoride, Cooldent Spearmint, Cooldent ICE, Dr. Cool, Superdent, Clean Rite, Oralmax Extreme, Oral Bright, Bright Max, and ShiR Fresh Mint.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

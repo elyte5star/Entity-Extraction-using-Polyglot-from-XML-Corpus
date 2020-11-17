@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HANAUER, BERNARD E.</title>
+    <meta content="dn060207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">HANAUER, BERNARD E.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFDF143AF931A35755C0A9619C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HANAUER, BERNARD E.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HANAUER--Bernard E., died peacefully with his family around him after a brief illness, May 30, 2007 at age 99. Beloved husband of Lilo (nee Growald) for 53 years. He will be sadly missed by daughters Elaine Hanauer Ravich and Linda Hanauer, son-in-law William Ravich and granddaughters Madeline Ravich and Emily Ravich. Donations can be made to YM &amp; YWHA of Washington Heights and Inwood Senior Center, 54 Nagle Ave., NY, NY 10040.</p>
+      </block>
+      <block class="full_text">
+        <p>HANAUER--Bernard E., died peacefully with his family around him after a brief illness, May 30, 2007 at age 99. Beloved husband of Lilo (nee Growald) for 53 years. He will be sadly missed by daughters Elaine Hanauer Ravich and Linda Hanauer, son-in-law William Ravich and granddaughters Madeline Ravich and Emily Ravich. Donations can be made to YM &amp; YWHA of Washington Heights and Inwood Senior Center, 54 Nagle Ave., NY, NY 10040.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

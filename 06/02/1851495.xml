@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Skull for Sale, With Diamonds</title>
+    <meta content="02arts-1" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851495"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E3DF1030F931A35755C0A9619C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Skull for Sale, With Diamonds</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING; Compiled by Peter Edidin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A human skull cast in platinum and covered with 8,601 diamonds, weighing 1,106.18 carats, went on view yesterday at the London gallery of its creator, the British artist Damien Hirst. The gallery, White Cube, said the skull cost $23.5 million to make and is being offered for $98 million. Timothy Marlow, the gallery's director of exhibitions, said that three collectors had shown interest in buying it. The bejeweled skull, presented in a dark room under a single spotlight, is called ''For the Love of God'' and is part of ''Beyond Belief,'' a larger show of Mr. Hirst's recent work being presented through July 7 at White Cube's Mayfair and Hoxton Square galleries.</p>
+        <p>ALAN RIDING</p>
+      </block>
+      <block class="full_text">
+        <p>A human skull cast in platinum and covered with 8,601 diamonds, weighing 1,106.18 carats, went on view yesterday at the London gallery of its creator, the British artist Damien Hirst. The gallery, White Cube, said the skull cost $23.5 million to make and is being offered for $98 million. Timothy Marlow, the gallery's director of exhibitions, said that three collectors had shown interest in buying it. The bejeweled skull, presented in a dark room under a single spotlight, is called ''For the Love of God'' and is part of ''Beyond Belief,'' a larger show of Mr. Hirst's recent work being presented through July 7 at White Cube's Mayfair and Hoxton Square galleries.</p>
+        <p>ALAN RIDING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Nick Z. and Kai Althoff</title>
+    <meta content="08gall-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852999"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDA1F30F93BA35755C0A9619C8B63" item-length="468" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Nick Z. and Kai Althoff</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>We Are Better Friends for It  Gladstone Gallery  515 West 24th Street, Chelsea  Through June 16</p>
+        <p>The artist-trashed gallery space is a familiar convention. It is often seen as rebellion against the white-box market system, yet it seems equally credible when interpreted as a different kind of assault: the assertion of an implicitly male artistic will over a passive, implicitly female receptacle.</p>
+      </block>
+      <block class="full_text">
+        <p>We Are Better Friends for It  Gladstone Gallery  515 West 24th Street, Chelsea  Through June 16</p>
+        <p>The artist-trashed gallery space is a familiar convention. It is often seen as rebellion against the white-box market system, yet it seems equally credible when interpreted as a different kind of assault: the assertion of an implicitly male artistic will over a passive, implicitly female receptacle.</p>
+        <p>The freewheeling collaboration of the German painter/musician/installation artist Kai Althoff and Nick Z., a former graffiti artist from Brooklyn, splits the difference between these two interpretations. Their multimedia environment turns the entire gallery into a kind of warm, fuzzy but trashy space that might have been concocted by over-active teenage boys with contrasting artistic sensibilities. With a startlingly beautiful progression of colors, images, materials and tableaus both large and small, it ruminates on the tensions between art and life, museum and street, and most of all parent and child, with a gritty yet ethereal beauty.</p>
+        <p>Mr. Althoff alternates between Expressionist grotesques, blood red abstractions and Victorian dandies, mostly on canvas and paper, but also in a dazzling installation involving a towering but sylphlike woman surrounded by a red grid structure.</p>
+        <p>Nick Z. specializes in hieroglyphic figures and faces (some of them printed, if you look closely) and slogans on wall, paper and notepaper. Accompanied by assorted objects (both found and made) and arrangements, the artists' contrasting efforts wend their way through the gallery, where lowered lights and swathings of carpet create the effect of an atmospheric cave.</p>
+        <p>The dimness is punctuated by three well-lighted containers in which artful messes and improvised furnishings suggest a studio (splattered with makeup, not paint), crash pad and child's bedroom.</p>
+        <p>But these stark white interiors also stand out from the gloom like canvases, inviting you to consider everything on view in two and three dimensions, as both form and narrative. Vitrines fronted with tinted plexiglass and containing everything from piles of cereal and an Edward Scissorshands hand to drawings, mediate between the light and the dark and parody museum displays.</p>
+        <p>The suggested domiciles here form a narrative of their own, starting with a little hovel of metal and cinderblock inhabited by a skeleton and ending behind a screen in the back space, where an antique doll sits on a white loveseat attended by an antique male store dummy. The poster on the wall behind them is not reassuring: it advertises a ''Muttershulungskurs'' or ''Mother Training Course.''</p>
+        <p>Neither is the show's only video component, which consists of scenes from ''Children of the Corn,'' a 1984 movie descended from Stephen King about the children of a Nebraska town who are incited to kill all the adults in the vicinity. It certainly adds weight to a graffiti by Nick Z. that agonizes: ''GGGGGGGGGGGGGGGGGGGG-God, Mom is gonna kill me.''</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

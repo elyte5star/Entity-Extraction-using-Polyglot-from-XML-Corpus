@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laugh Lines</title>
+    <meta content="17laugh" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855207"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D7153FF934A25755C0A9619C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laugh Lines</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jay Leno  Saudi Arabia has announced this week they've arrested 11 members of Al Qaeda. The bad news, they arrested them at a big fund-raiser they were throwing for Al Qaeda.</p>
+        <p>The richest candidate appears to be Republican Mitt Romney from Massachusetts. He's worth over $300 million. He's so rich, even his butler is a Republican.</p>
+      </block>
+      <block class="full_text">
+        <p>Jay Leno  Saudi Arabia has announced this week they've arrested 11 members of Al Qaeda. The bad news, they arrested them at a big fund-raiser they were throwing for Al Qaeda.</p>
+        <p>The richest candidate appears to be Republican Mitt Romney from Massachusetts. He's worth over $300 million. He's so rich, even his butler is a Republican.</p>
+        <p>The Pentagon has admitted they once tried to develop a gay bomb -- a bomb that would turn enemy soldiers gay. They said their goal was to turn the Iraq war into a musical.</p>
+        <p>David Letterman</p>
+        <p>By the way, this just in: Al Qaeda is claiming credit for the vague ending of ''The Sopranos.''</p>
+        <p>Dick Cheney, our Vice President  The poor guy has had like 19 heart attacks and has a pacemaker. He's got to get a new one. So right now, right now, Dick Cheney is being rushed to Cuba by Michael Moore.</p>
+        <p>Conan O'Brien</p>
+        <p>Earlier today, President Bush gave a speech at a Republican luncheon where he pushed his immigration bill. Reportedly, the Republicans in attendance didn't care for the speech but the guys in the kitchen loved it.</p>
+        <p>President Bush finished up his big European trip. He visited with the pope. They discussed world events and then caught a matinee of ''Knocked Up.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

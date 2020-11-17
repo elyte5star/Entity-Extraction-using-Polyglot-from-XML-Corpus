@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flirting, But Serious, Kicking Off With a Hit</title>
+    <meta content="04choi-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852177"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CRITICS' CHOICE: NEW CDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E7DD1130F937A35755C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flirting, But Serious, Kicking Off With a Hit</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rihanna  Good Girl Gone Bad  (Def Jam)</p>
+        <p>Rihanna's new CD is ''Good Girl Gone Bad,'' although that title seems to overstate her evolution: She has always presented herself as a playful flirt. But that's no reason not to take her seriously. This is her third album in three years, and though it doesn't arrive in shops until tomorrow, its success seems a foregone conclusion. Last week the album's first single, a space-age hip-pop song called ''Umbrella,'' zoomed to the top of Billboard's Hot 100 chart; it's the first serious contender for Song of the Summer.</p>
+      </block>
+      <block class="full_text">
+        <p>Rihanna  Good Girl Gone Bad  (Def Jam)</p>
+        <p>Rihanna's new CD is ''Good Girl Gone Bad,'' although that title seems to overstate her evolution: She has always presented herself as a playful flirt. But that's no reason not to take her seriously. This is her third album in three years, and though it doesn't arrive in shops until tomorrow, its success seems a foregone conclusion. Last week the album's first single, a space-age hip-pop song called ''Umbrella,'' zoomed to the top of Billboard's Hot 100 chart; it's the first serious contender for Song of the Summer.</p>
+        <p>In 2005 Rihanna was a 17-year-old Barbadian with a hit single -- the dancehall reggae confection ''Pon de Replay'' -- that seemed like a fluke. Apparently not: Others have followed, including the crisp dance track ''SOS'' and the ballad ''Unfaithful,'' a singularly cheerful evocation of romantic despair. And ''Good Girl Gone Bad'' should secure her place on pop music's A-list. She has an instantly recognizable voice (giddy enough for teen-pop, plaintive enough for R&amp;B), great taste in beats and a contract with CoverGirl. What else does she need?</p>
+        <p>This album begins with a rush of dance tracks. In ''Don't Stop the Music,'' produced by StarGate, she finds the exuberance in a rather severe techno beat; ''Push Up on Me'' gives Lionel Richie's ''Running With the Night'' a frenetic, club-friendly makeover. This CD sounds as if it were scientifically engineered to deliver hits: There's a breezy duet with Ne-Yo, ''Hate That I Love You,'' and three tracks produced by Timbaland, including one on which Justin Timberlake sings backup.</p>
+        <p>The most puzzling moment is ''Question Existing,'' a moody (though not unpleasant) electronic soundscape near the end, but maybe Rihanna figured fans would spend so much time rewinding that they'd never hear it.</p>
+        <p>KELEFA SANNEH</p>
+        <p>CRITICS' CHOICE: NEW CDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

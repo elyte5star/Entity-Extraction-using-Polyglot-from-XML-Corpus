@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Comptroller's Aide Wins Upper East Side Assembly Seat</title>
+    <meta content="06primary" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852576"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDD1E30F935A35755C0A9619C8B63" item-length="416" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Comptroller's Aide Wins Upper East Side Assembly Seat</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN P. HICKS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Micah Z. Kellner, an aide to the New York City comptroller, William C. Thompson Jr., won a special election yesterday for an Assembly seat representing the Upper East Side of Manhattan.</p>
+        <p>The seat was vacated by Alexander B. Grannis, known as Pete, a longtime Democratic incumbent who was named the commissioner of the State Department of Environmental Conservation in January.</p>
+      </block>
+      <block class="full_text">
+        <p>Micah Z. Kellner, an aide to the New York City comptroller, William C. Thompson Jr., won a special election yesterday for an Assembly seat representing the Upper East Side of Manhattan.</p>
+        <p>The seat was vacated by Alexander B. Grannis, known as Pete, a longtime Democratic incumbent who was named the commissioner of the State Department of Environmental Conservation in January.</p>
+        <p>Mr. Kellner, 28, a Democrat, ran against Gregory Camp, a Republican and a former prosecutor with the Manhattan district attorney's office.</p>
+        <p>Mr. Kellner received 64 percent of the vote and Mr. Camp received 35 percent with 100 percent of the precincts reporting, according to unofficial results from the New York City Board of Elections.</p>
+        <p>Mr. Camp, 45, had been endorsed by Mayor Michael R. Bloomberg, and Republican leaders believed he could appeal to Democratic and independent voters because of his liberal views.</p>
+        <p>The 65th Assembly District includes most of the area east of Second Avenue between 60th and 90th Streets as well as Roosevelt Island.</p>
+        <p>''I'm thrilled by the results,'' Mr. Kellner said in an interview last night. ''We ran a campaign that was focused on the issues. I think it's clear people understood that I've been fighting hard for this community for a long time.''</p>
+        <p>During the brief campaign, Mr. Kellner stressed his work in the community, as a liaison for Mr. Thompson and in his previous job as an aide to Representative Carolyn B. Maloney.</p>
+        <p>He frequently discussed his interest in improving living conditions for disabled residents. ''This district has one of the largest populations of people with disabilities in all of New York City,'' Mr. Kellner said in an interview last week. Mr. Kellner said he was born with cerebral palsy, and as a result, ''I see myself as a voice for the disabled community.''</p>
+        <p>Republicans held a number of elected positions on the Upper East Side for years. But Democrats now enjoy a 3-to-1-registration advantage over Republican voters in the 65th District.</p>
+        <p>Republican leaders had placed their hopes in Mr. Camp, who most recently served as deputy director of the State Division of Criminal Justice Services. They hoped that voters would be attracted to his support of gun-control measures, abortion rights and same-sex marriage.</p>
+        <p>Virtually all of Manhattan's Democratic officials -- particularly those from the East Side -- endorsed Mr. Kellner, including State Senator Liz Kruger, Assemblyman Jonathan L. Bing and City Council members Jessica S. Lappin and Daniel R. Garodnick. Senator Hillary Rodham Clinton endorsed Mr. Kellner on Monday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

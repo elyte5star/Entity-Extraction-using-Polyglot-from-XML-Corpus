@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dexterrie Ramirez, Robin Hom</title>
+    <meta content="17RAMIREZ" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855119"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Ramirez, Dexterrie Clemente</person>
+        <person class="indexing_service">Hom, Robin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EEDB153FF934A25755C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dexterrie Ramirez, Robin Hom</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dexterrie Clemente Ramirez, a daughter of Terrie and Dexter Ramirez of Diamond Bar, Calif., was married yesterday to Robin Hom, a son of Ann Hsiung and Sandy K. Hom of Manhattan. The Rev. John Davis, a Roman Catholic priest, officiated at University Parish, Church of St. Joseph in Manhattan.</p>
+        <p>Ms. Ramirez, 29, is keeping her name. Last month she completed her first year at the City University of New York School of Law at Queens College, and is now a summer legal intern for Justice Lottie E. Wilkins of New York Supreme Court in Manhattan. She graduated from the University of California, Los Angeles, and received a master's degree in educational psychology from New York University.</p>
+      </block>
+      <block class="full_text">
+        <p>Dexterrie Clemente Ramirez, a daughter of Terrie and Dexter Ramirez of Diamond Bar, Calif., was married yesterday to Robin Hom, a son of Ann Hsiung and Sandy K. Hom of Manhattan. The Rev. John Davis, a Roman Catholic priest, officiated at University Parish, Church of St. Joseph in Manhattan.</p>
+        <p>Ms. Ramirez, 29, is keeping her name. Last month she completed her first year at the City University of New York School of Law at Queens College, and is now a summer legal intern for Justice Lottie E. Wilkins of New York Supreme Court in Manhattan. She graduated from the University of California, Los Angeles, and received a master's degree in educational psychology from New York University.</p>
+        <p>Her father is a senior pharmaceutical sales representative in Diamond Bar for GlaxoSmithKline, the British drug company. Her mother is a community program director in the business services and marketing division of the City of Los Angeles.</p>
+        <p>Mr. Hom, 27, a University of Maryland graduate, is a middle-school mathematics teacher at the Berkeley Carroll School in Brooklyn and is a basketball, volleyball and softball coach there. He is also a candidate for a master's in mathematics education at City College in Manhattan.</p>
+        <p>His mother is a lawyer in Manhattan and his father is a judge on the Immigration Court, also in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

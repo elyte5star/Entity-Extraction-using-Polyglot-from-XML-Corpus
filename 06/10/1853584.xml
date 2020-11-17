@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A CITIZEN'S CALENDAR</title>
+    <meta content="10njcivic" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853584"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E5DD1F30F933A25755C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A CITIZEN'S CALENDAR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A selective listing of state, county and local government events across New Jersey this week. (All dates and times subject to confirmation.) Items should be submitted by mail at least three weeks in advance to the New Jersey Op-Ed Page, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or by e-mail to njcivic@nytimes.com.</p>
+        <p>State of New Jersey</p>
+        <p>Newark Board of Public Utilities. Thursday at 10 a.m. Board hearing room, eighth floor, 2 Gateway Center. (973) 648-2026.</p>
+        <p>Bergen County</p>
+        <p>Haworth Mayor and Council. Tuesday at 7:30 p.m. Haworth Municipal Center, 300 Haworth Avenue. (201) 384-4785.  Paramus Mayor and Council. Monday at 8 p.m. Paramus Borough Hall, 1 Jockish Square. (201) 265-2100.</p>
+        <p>Essex County</p>
+        <p>Montclair Planning Board. Monday at 7:30 p.m. Montclair Municipal Building, 205 Claremont Avenue, first floor. (973) 509-4955.</p>
+        <p>Morris County</p>
+        <p>Denville Town Council. Tuesday at 8 p.m. Denville Municipal Building, 1 St. Marys Place. (973) 625-8300.  Morristown Board of Chosen Freeholders. Monday at 7:30 p.m. Administration and Records Building, Court Street. (973) 285-6015.</p>
+        <p>Sussex County</p>
+        <p>Montague Township Committee. Tuesday at 7 p.m. Montague Town Hall, 277 Clove Road. (973) 293-7300.</p>
+        <p>Union County</p>
+        <p>Hillside Township Council. Monday at 7:30 p.m. Hillside Municipal Building, 1409 Liberty Avenue. (973) 926-3000.</p>
+      </block>
+      <block class="full_text">
+        <p>A selective listing of state, county and local government events across New Jersey this week. (All dates and times subject to confirmation.) Items should be submitted by mail at least three weeks in advance to the New Jersey Op-Ed Page, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or by e-mail to njcivic@nytimes.com.</p>
+        <p>State of New Jersey</p>
+        <p>Newark Board of Public Utilities. Thursday at 10 a.m. Board hearing room, eighth floor, 2 Gateway Center. (973) 648-2026.</p>
+        <p>Bergen County</p>
+        <p>Haworth Mayor and Council. Tuesday at 7:30 p.m. Haworth Municipal Center, 300 Haworth Avenue. (201) 384-4785.  Paramus Mayor and Council. Monday at 8 p.m. Paramus Borough Hall, 1 Jockish Square. (201) 265-2100.</p>
+        <p>Essex County</p>
+        <p>Montclair Planning Board. Monday at 7:30 p.m. Montclair Municipal Building, 205 Claremont Avenue, first floor. (973) 509-4955.</p>
+        <p>Morris County</p>
+        <p>Denville Town Council. Tuesday at 8 p.m. Denville Municipal Building, 1 St. Marys Place. (973) 625-8300.  Morristown Board of Chosen Freeholders. Monday at 7:30 p.m. Administration and Records Building, Court Street. (973) 285-6015.</p>
+        <p>Sussex County</p>
+        <p>Montague Township Committee. Tuesday at 7 p.m. Montague Town Hall, 277 Clove Road. (973) 293-7300.</p>
+        <p>Union County</p>
+        <p>Hillside Township Council. Monday at 7:30 p.m. Hillside Municipal Building, 1409 Liberty Avenue. (973) 926-3000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

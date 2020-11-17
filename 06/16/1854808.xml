@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Publisher of Men's Magazines Is Sold to Private Equity Fund</title>
+    <meta content="16mag" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/business/media/16mag.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854808"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Dennis Publishing</org>
+        <org class="indexing_service">Maxim (Magazine)</org>
+        <org class="indexing_service">Stuff (Magazine)</org>
+        <org class="indexing_service">Blender (Magazine)</org>
+        <org class="indexing_service">Quadrangle Capital Partners</org>
+        <person class="indexing_service">Brownridge, Kent</person>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Dennis Publishing</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EED8153FF935A25755C0A9619C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Publisher of Men's Magazines Is Sold to Private Equity Fund</hl1>
+        <hl2 class="online_headline">Publisher of Men’s Magazines Is Sold to Private Equity Fund</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD P�REZ-PE�A</byline>
+      <abstract>
+        <p>Dennis Publishing�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dennis Publishing, the magazine company behind three of the most successful publications aimed at young men in the United States -- Maxim, Stuff and Blender -- was acquired for an undisclosed price by the private equity fund, Quadrangle Capital Partners II, Quadrangle said yesterday.</p>
+        <p>Kent Brownridge, an industry veteran, is a junior partner in the purchase and will be chief executive of the magazine group. Mr. Brownridge, 66, spent 31 years at Wenner Media -- publisher of Rolling Stone, US Weekly and Men's Journal -- most recently as senior vice president and general manager, before leaving Wenner in 2005.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dennis Publishing was acquired for an undisclosed price by the private equity fund, Quadrangle Capital Partners II.</p>
+      </block>
+      <block class="full_text">
+        <p>Dennis Publishing, the magazine company behind three of the most successful publications aimed at young men in the United States -- Maxim, Stuff and Blender -- was acquired for an undisclosed price by the private equity fund, Quadrangle Capital Partners II, Quadrangle said yesterday.</p>
+        <p>Kent Brownridge, an industry veteran, is a junior partner in the purchase and will be chief executive of the magazine group. Mr. Brownridge, 66, spent 31 years at Wenner Media -- publisher of Rolling Stone, US Weekly and Men's Journal -- most recently as senior vice president and general manager, before leaving Wenner in 2005.</p>
+        <p>Dennis Publishing is the American arm of Dennis Publishing Ltd., a British company owned by Felix Dennis. It will retain one of its American magazines, The Week.</p>
+        <p>A spokesman for Quadrangle said the group would be renamed when the sale is completed, which is expected to be in the third quarter. Quadrangle was represented in the deal by Davis Polk &amp; Wardwell. Dennis was advised by Allen &amp; Company and Jones Day.</p>
+        <p>Maxim was a pioneer among the ''lad magazines,'' the upscale-but-raunchy publications, including Stuff and FHM, for young men. Blender, a music magazine, also appeals mostly to men under 35, a favorite target of advertisers.</p>
+        <p>Blender, Stuff and Maxim, all monthlies, have a combined paid circulation of 4.5 million in the United States, and together they average more than 400 ad pages each issue.</p>
+        <p>The deal includes the magazines' Web sites, which attracted more than four million unique visitors during April, and other related ventures including the Maxim satellite radio channel on Sirius and Maxim-themed resorts and restaurants.</p>
+        <p>Quadrangle is a major investor in a number of media companies, including Cablevision Systems and Metro-Goldwyn-Mayer Studios. The company is led by Steven Rattner, the former deputy chairman of Lazard.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

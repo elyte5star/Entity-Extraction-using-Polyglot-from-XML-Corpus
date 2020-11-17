@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patrick Chung, Matthew Burt</title>
+    <meta content="17chung" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17chung.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855107"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Chung, Patrick Shuao-Fong</person>
+        <person class="indexing_service">Burt, Matthew Fraser</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE0DB153FF934A25755C0A9619C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patrick Chung, Matthew Burt</hl1>
+        <hl2 class="online_headline">Patrick Chung, Matthew Burt</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patrick Shuao-Fong Chung and Matthew Fraser Burt affirmed their partnership last evening at the Memorial Church of Harvard in Cambridge, Mass. The Rev. Peter J. Gomes led the ceremony.</p>
+        <p>Mr. Chung, 33 (above left), is a partner in Menlo Park, Calif., at New Enterprise Associates, a venture capital firm based in Baltimore. He works with new companies, providing venture capital and strategic advice on growth. He graduated from Harvard and earned a Master of Science degree from Oxford, and a law degree and an M.B.A. from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Patrick Shuao-Fong Chung and Matthew Fraser Burt affirmed their partnership last evening at the Memorial Church of Harvard in Cambridge, Mass. The Rev. Peter J. Gomes led the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Patrick Shuao-Fong Chung and Matthew Fraser Burt affirmed their partnership last evening at the Memorial Church of Harvard in Cambridge, Mass. The Rev. Peter J. Gomes led the ceremony.</p>
+        <p>Mr. Chung, 33 (above left), is a partner in Menlo Park, Calif., at New Enterprise Associates, a venture capital firm based in Baltimore. He works with new companies, providing venture capital and strategic advice on growth. He graduated from Harvard and earned a Master of Science degree from Oxford, and a law degree and an M.B.A. from Harvard.</p>
+        <p>He is the son of May D. Chung and Archie H. Chung of San Diego, the founders of Champs Educational Services there, which provides remedial tutoring for elementary and high school students.</p>
+        <p>Mr. Burt, 29, is the director of music ministry at Christ Episcopal Church in Portola Valley, Calif., and is the liturgical project director of All Saints Company, a nonprofit organization in San Francisco that collaborates with churches on congregational revitalization programs. He is the managing editor of a new edition of ''The Harvard University Hymn Book'' to be published in October by the Harvard University Press. He graduated from Oxford, and has a master of divinity degree from Harvard and a master of sacred music degree from Boston University.</p>
+        <p>He is the son of Rita and J. Gordon Burt of Oxford, England. His father is retired as an executive director of Allied Dunbar Assurance, a financial services company in Swindon, England. His mother is retired as a technical assistant in the department of medical physics at the Churchill Hospital in Oxford.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

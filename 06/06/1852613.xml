@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REVISITS</title>
+    <meta content="06briefs-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852613"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING BRIEFS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E1DC1E30F935A35755C0A9619C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REVISITS</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK BRUNI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRASSERIE AT CAFÉ GRAY  Time Warner Center, Columbus Circle, (212) 823-6338.</p>
+        <p>Gray Kunz is among the most celebrated chefs who have worked in New York in recent decades, but he's not among the most prolific. When he opened Café Gray three years ago, it was his first restaurant in more than five years. And there's been no follow-up.</p>
+      </block>
+      <block class="full_text">
+        <p>BRASSERIE AT CAFÉ GRAY  Time Warner Center, Columbus Circle, (212) 823-6338.</p>
+        <p>Gray Kunz is among the most celebrated chefs who have worked in New York in recent decades, but he's not among the most prolific. When he opened Café Gray three years ago, it was his first restaurant in more than five years. And there's been no follow-up.</p>
+        <p>But he's plotting another Kunz production, and the evidence is inside Café Gray, where he's using the bar area, which the restaurant refers to as its brasserie, the way a Broadway-bound director might use Seattle or Boston. He's rehearsing new creations there, seeing how they play before they're unveiled at Grayz, a canapé-heavy cocktail lounge expected to open in Midtown in September.</p>
+        <p>These dishes can be found in a ''finger food'' section of the brasserie menu. On a recent night I sampled four.</p>
+        <p>Unsurprisingly, Mr. Kunz's notion of finger food is a refined one. Also unsurprisingly, it yields pleasures distinguished by his resourceful approach to seasoning.</p>
+        <p>What he labeled crab meat fritters ($23) tasted more like small, spirited crab cakes. Peekytoe crab meat was bound with matzo meal, shrimp chips and panko and coated with a saffron and red bell pepper aioli.</p>
+        <p>''Spiced chicken lollipops'' ($16) consisted of skewered wing meat marinated in sumac and wild thyme and then grilled on a plancha with a bracing tamarind glaze.</p>
+        <p>I was less impressed with an overly sweet steak tartare ($20) and a routine smoked salmon ($18). But thought and effort had clearly gone into most of these dishes and the extras with them. A shaved fennel salad joined the crab. Pickled cauliflower cozied up to the chicken.</p>
+        <p>And Grayz seemed like something that might be worth a bit of a wait.</p>
+        <p>FRANK BRUNI</p>
+        <p>DINING BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

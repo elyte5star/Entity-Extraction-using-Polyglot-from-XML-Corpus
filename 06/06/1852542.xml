@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study May Fuel Debate Over Title IX's Effect on Men's Sports</title>
+    <meta content="06women" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/sports/06women.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852542"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <org class="online_producer">Women's Sports Foundation</org>
+        <org class="online_producer">National Collegiate Athletic Assn</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DD1E30F935A35755C0A9619C8B63" item-length="595" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study May Fuel Debate Over Title IX's Effect on Men's Sports</hl1>
+        <hl2 class="online_headline">Study May Fuel Debate Over Title IX’s Effect on Men’s Sports</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL PENNINGTON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As Title IX commemorates its 35th anniversary this month, a study released yesterday will further agitate the debate over whether it has damaged men's college athletics and caused the elimination of dozens of men's teams.</p>
+        <p>Three months after a group lobbying to reform the law reported data it said revealed a sharp decline in men's college athletic opportunities, the Women's Sports Foundation has released statistics showing that the number of athletes, male and female, participating in college sports has increased in the past 10 years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Women’s Sports Foundation has released statistics showing that the number of athletes, male and female, participating in college sports has increased in the past 10 years.</p>
+      </block>
+      <block class="full_text">
+        <p>As Title IX commemorates its 35th anniversary this month, a study released yesterday will further agitate the debate over whether it has damaged men's college athletics and caused the elimination of dozens of men's teams.</p>
+        <p>Three months after a group lobbying to reform the law reported data it said revealed a sharp decline in men's college athletic opportunities, the Women's Sports Foundation has released statistics showing that the number of athletes, male and female, participating in college sports has increased in the past 10 years.</p>
+        <p>The foundation said that although there had been a decrease in the number of men's athletes competing in the N.C.A.A.'s major college category, Division I, those losses had been more than offset by gains in the number of men competing in Divisions II and III.</p>
+        <p>The report said that certain men's college sports, like tennis and wrestling, had experienced declines of 678 and 488 athletes. But football, baseball and lacrosse had each added more than 1,000 male athletes in the same period.</p>
+        <p>''People ask, 'What happened to my wrestling or tennis teams?' '' Billie Jean King, the foundation's founder, said yesterday at a news conference. ''Well, things have shifted. We keep reading that men's sports teams are being taken away. The fact is, women remain the underrepresented sex in athletics.''</p>
+        <p>The foundation's report, titled ''Who's Playing College Sports?'' included a chart showing the participation numbers for men and women at nearly 1,900 institutions. Each junior college, college or university received a grade, from A to F, for how effectively it was meeting Title IX's most controversial compliance option, called proportionality.</p>
+        <p>The proportionality option of the law recommends that institutions keep the percentage of women participating in athletics roughly equal to the percentage of women in the student body.</p>
+        <p>Because many colleges are 55 percent to 58 percent female, it has frequently been difficult for them to raise the female athletic population enough to comply. Proportionality, however, is not the only option for obeying Title IX, although it is the most recognized.</p>
+        <p>Still, Donna Lopiano, the foundation's chief executive, was disturbed that nearly 20 percent of institutions in the chart received a failing grade, meaning they had a gap of more than 22 percentage points between the percentage of female athletes and the percentage of women in the student body.</p>
+        <p>''Here we are, 35 years after Title IX was enacted, and there are that many schools that are that far off?'' Lopiano said. ''I didn't think it would be that bad, and that surprised me.''</p>
+        <p>The College Sports Council, a national coalition of coaches, athletes and parents that advocates Title IX reform, disputes the Women's Sports Foundation's findings. The council was established in the wake of the elimination of dozens of men's sports teams in recent years.</p>
+        <p>In March, the council conducted a study and concluded that colleges and universities had systematically cut men's teams, as well as male participation opportunities, during the past 25 years.</p>
+        <p>The council's chairman, Eric Pearson, said that the National Collegiate Athletic Association was inflating men's participation numbers and that his group's study found wide disparities between the N.C.A.A. numbers and what individual institutions reported to the Department of Education.</p>
+        <p>About the Women's Sports Foundation chart and grades, Pearson said: ''It just reinforces that all they care about is gender quotas. The chart is a litigation hit list.''</p>
+        <p>The foundation study was written by John Cheslock of the Center for the Study of Higher Education at the University of Arizona. Its findings, including the chart listing participation numbers, can be found at WomensSportsFoundation.org.</p>
+        <p>COLLEGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

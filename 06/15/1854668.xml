@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Kentucky: Indictment Issued In Fen-Phen Settlement</title>
+    <meta content="15brfs-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070616T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1854668"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weight</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Fen-Phen (Drug Combination)</classifier>
+        <classifier class="indexing_service" type="descriptor">Liability for Products</classifier>
+        <location class="indexing_service">Kentucky</location>
+        <person class="indexing_service">Gallion, William</person>
+        <person class="indexing_service">Cunningham, Shirley Jr</person>
+        <person class="indexing_service">Mills, Melbourne</person>
+        <person class="indexing_service">Liptak, Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Kentucky</classifier>
+        <classifier class="online_producer" type="general_descriptor">Liability for Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EEDC153FF936A25755C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Kentucky: Indictment Issued In Fen-Phen Settlement</hl1>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <abstract>
+        <p>Indictment for wire fraud issued in Covington, Ky, says that lawyers William J Gallion, Shirley A Cunningham Jr and Melbourne Mills Jr illegally kept $65 million in settlement money that should have been distributed to their clients; money is part of $200 million settlement of civil suit claiming that about 440 people had been injured by diet drug fen-phen (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three Lexington lawyers illegally kept $65 million in settlement money that should have been distributed to their clients, according to an indictment for wire fraud issued by a federal grand jury in Covington. The money was part of $200 million settlement of a civil suit claiming that about 440 people had been injured by the diet drug fen-phen. The lawyers, William J. Gallion, Shirley A. Cunningham Jr. and Melbourne Mills Jr., were entitled to about a third of the settlement but took twice that, the indictment said. The lawyers have denied criminal wrongdoing.</p>
+        <p>ADAM LIPTAK</p>
+      </block>
+      <block class="full_text">
+        <p>Three Lexington lawyers illegally kept $65 million in settlement money that should have been distributed to their clients, according to an indictment for wire fraud issued by a federal grand jury in Covington. The money was part of $200 million settlement of a civil suit claiming that about 440 people had been injured by the diet drug fen-phen. The lawyers, William J. Gallion, Shirley A. Cunningham Jr. and Melbourne Mills Jr., were entitled to about a third of the settlement but took twice that, the indictment said. The lawyers have denied criminal wrongdoing.</p>
+        <p>ADAM LIPTAK</p>
+        <p>Correction:  June 16, 2007, Saturday  A sports article yesterday about two lawyers indicted in Kentucky on federal charges of conspiring to defraud clients in a $200 million lawsuit settlement with the maker of the diet drug fen-phen omitted the name of a third lawyer who was indicted. Melbourne Mills Jr. was also charged -- but unlike the other two, Shirley A. Cunningham Jr. and William J. Gallion, he was not a part-owner of the Preakness champion Curlin. (Unaware of the sports article, the editors of the National Briefing column ran another one that omitted the lawyers' horse-owning backgrounds.)</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 16, 2007, Saturday</p>
+        <p>A sports article yesterday about two lawyers indicted in Kentucky on federal charges of conspiring to defraud clients in a $200 million lawsuit settlement with the maker of the diet drug fen-phen omitted the name of a third lawyer who was indicted. Melbourne Mills Jr. was also charged -- but unlike the other two, Shirley A. Cunningham Jr. and William J. Gallion, he was not a part-owner of the Preakness champion Curlin. (Unaware of the sports article, the editors of the National Briefing column ran another one that omitted the lawyers' horse-owning backgrounds.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Who Pays for Efficiency?</title>
+    <meta content="11save" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Business of Health" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/businessspecial3/11save.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853815"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="RISKS AND REWARDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E4DD173FF932A25755C0A9619C8B63" item-length="1573" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Who Pays for Efficiency?</hl1>
+        <hl2 class="online_headline">Who Pays for Efficiency?</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SAVING money can be expensive.</p>
+        <p>Indeed, the quest to save dollars in the nation's $2.1 trillion annual health care bill is becoming a lucrative market of its own. Thousands of companies, large and small, are pitching cost-saving ideas that range from electronic patient records to new medical devices.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The quest to save dollars in the nation’s $2.1 trillion annual health care bill is becoming a lucrative market of its own.</p>
+      </block>
+      <block class="full_text">
+        <p>SAVING money can be expensive.</p>
+        <p>Indeed, the quest to save dollars in the nation's $2.1 trillion annual health care bill is becoming a lucrative market of its own. Thousands of companies, large and small, are pitching cost-saving ideas that range from electronic patient records to new medical devices.</p>
+        <p>It's not all marketing hype. Experts in health policy agree that there is a real opportunity to curb health spending, which last year was the equivalent of $7,000 for every man, woman and child in the country. Studies predict a gain of as much as 30 percent in efficiency, mostly through reducing unnecessary tests and prescriptions, paperwork and medical mistakes.</p>
+        <p>Such streamlining would not cut the nation's total medical spending, as long as there is a growing aging population with ever-increasing health needs. But certain measures are expected to help keep costs from spiraling.</p>
+        <p>Every cost-saving product or service requires an upfront investment, which bets that it will produce overall savings. And so the paradox kicks in. ''There is money to be saved, but it is not going to be cheap,'' said David M. Cutler, a health economist at Harvard University.</p>
+        <p>The path to saving can be particularly uncertain in the United States' fragmented health care economy -- a mix of risk, regulation and profit in which the incentives are often contradictory. A physician, for example, may try new approaches to trim the costs of providing care, but the results usually benefit insurers more than doctors. Strides in efficiency may be good for society, though there may be scant financial motivation for the doctors themselves.</p>
+        <p>The experience of Dr. Richard Baron, who practices with three other physicians in an office in Philadelphia, provides a glimpse into the predicament. In 2004, Dr. Baron and his colleagues made the transition from ink and paper to computers and electronic health records. They were doing what health care reformers had been advocating for years. But the arithmetic of investing in health-information technology is daunting, especially for small practices like Dr. Baron's. His office spent $140,000 on personal computers, including tablet PCs, servers, software and installation.</p>
+        <p>The office's annual technology costs, he said, were about $50,000, including maintenance and technical support, and he plans to upgrade the three-year-old computers at a cost of $54,000. Those costs do not include the lost productivity in the first year, when the staff was learning to use the new technology.</p>
+        <p>Dr. Baron's office has saved money -- in transcribing medical reports, for example -- and his practice now handles its 6,000 patients with three fewer office employees. He described other benefits, mainly the ability to find information quickly for patients, hospitals, insurers and labs with a few keystrokes.</p>
+        <p>The technology, Dr. Baron said, has also helped make him become a more adept physician. But it has not yet paid off in dollars and cents: the savings in salaries is less than the costs entailed in computerization. ''It is a high-risk venture,'' he said, ''and you do it at your own financial peril.''</p>
+        <p>Today, an estimated one-fourth of primary-care doctors use electronic health records, but only 5 percent of them are in offices with five doctors or fewer -- where about half of all doctors practice.</p>
+        <p>Dr. Anne Wilson has her own internal-medicine practice in Rockville, Md., and has felt the pinch of reimbursement cutbacks from Medicare and other insurers. Buying computers and software for electronic health records, Dr. Wilson said, would mean a big cost with no clear payoff.</p>
+        <p>''I can't capture the economics of scale as a sole practitioner,'' she said. ''Electronic health records may well be a good thing, as a collective good, but why should I make the investment if I don't get any of the gains?''</p>
+        <p>Physicians get only about 11 percent of the savings from electronic health records; the real benefit goes mainly to private and public insurers because, for one, they are paying for fewer unnecessary tests, and automated record-handling is a big cost saving for the payers, according to a study by the Center for Technology Leadership, a medical research group. ''The doctors bear all the costs, and others reap most of the benefit,'' said Dr. David J. Brailer, who was the national health information technology coordinator in the Bush administration from 2004 to 2006. ''The incentives are totally awry.''</p>
+        <p>In recent years, another well-promoted effort to try to cut costs while improving care has been the use of specialty cardiac hospitals. Specialty hospitals, in theory, should be able to achieve quality and efficiency by focusing on a single part of the body. Yet a study published in The Journal of the American Medical Association in March found that in regions where cardiac hospitals had opened, the overall rates of angioplasty and open-heart surgery more than doubled after four years, compared with regions without specialty hospitals.</p>
+        <p>This is another example of the paradox, with the lure of saving money undermined by marketplace realities. In the nation's fee-for-service system of medical payments, the more procedures that are done, the more money a specialist or a hospital receives.</p>
+        <p>New technology also tends to increase the number of procedures. Cardiac treatment has been revolutionized by angioplasty and stents, meshlike tubes often put in heart arteries to keep them open after blockages have been cleared. Stenting, which became common in the late 1990s, costs less, is not as invasive as open-heart surgery and involves shorter recovery times. So the number of open-heart, coronary-bypass surgeries each year has dropped by more than 100,000 since the mid-1990s, but more than a million stent procedures are now performed each year.</p>
+        <p>''The trigger for intervention is lower and the pool of treatable patients is larger,'' said Dr. John D. Birkmeyer, director of surgical outcomes research at the University of Michigan and a co-author of the journal article. ''These are institutions with an incentive to increase the supply of surgically treatable disease. It's a matter of if you build it, they will come.''</p>
+        <p>Questions in the last year about the long-term safety and effectiveness of stents are causing some patients to think twice about them. Nevertheless, the stent-first approach to heart disease in the last decade has meant that the patients who later require bypass surgery are often older and less healthy than the typical open-heart patient years ago. One consequence is that the rate of postsurgery kidney failure has increased sharply, a costly and life-threatening complication.</p>
+        <p>Once again, entrepreneurs are ready. The answer to the kidney problem, say engineers at Design Medical, a start-up company in Pelham, N.H., is a new pump for the heart-lung machines used during surgery. With the better blood flow resulting from the new pump, aging kidneys and other organs will come through open-heart surgery in better shape, potentially saving up to $2 billion in hospitalization and treatment costs, said Doug Vincent, president of Design Medical.</p>
+        <p>The catch is that the new pump will cost $2,000, about 10 times more than conventional pumps. ''Yes, it would be more expensive,'' Mr. Vincent said. ''But if we're right it would save a lot of money.''</p>
+        <p>The best way to improve health care and contain costs is to take a new approach, said Dr. Dean Ornish, a clinical professor of medicine at the University of California, San Francisco, and a leading proponent of preventive medicine. Medicine is currently practiced, he said, as part of a ''disease care system'' geared to reactingto the consequences of bad health instead of treating the underlying causes. More than 90 percent of heart disease, Dr. Ornish insists, is preventable.</p>
+        <p>Over the years, Dr. Ornish has led several projects showing that fundamental changes in diet, exercise and stress management can stop and even reverse heart disease.</p>
+        <p>Preventive programs cost money upfront, but can cut overall treatment costs to insurers by 30 percent or more, yet few insurers pay for preventive care.</p>
+        <p>A third of people with health coverage switch insurers every year, so insurers reason that their investment in preventive health measures could become another company's gain.</p>
+        <p>That attitude may be changing, though. Last year, Medicare agreed to cover a dietary program designed by Dr. Ornish.</p>
+        <p>''Given the failures of high-tech medicine, these low-tech approaches are starting to get the attention they deserve,'' Dr. Ornish said.</p>
+        <p>But high-tech remains in favor, despite recent studies raising doubts about the value to many patients of widely used medical devices like heart defibrillators. The lucrative medical-device market in the United States is a favorite of venture capitalists these days.</p>
+        <p>''The medical technology race is a promise that we will continue to try to do everything we can,'' said David Cassak, an editor at In Vivo, which covers the medical-device industry.</p>
+        <p>That may be a noble goal. But it is hardly a prescription for controlling costs. Health care reformers say that treatments are justified when there is evidence of sound science and financial logic. That threshold, it seems, is not the standard today. Studies done by researchers at Dartmouth College show large differences in treatment, and costs, for elderly patients in their last few years of life in different parts of the country. And, they found, more aggressive and expensive treatment does not prolong life -- and may even shorten it.</p>
+        <p>''You need to move toward well-defined clinical guidelines based on medical evidence and better information throughout the health care system,'' said Jonathan S. Skinner, an economist at Dartmouth. ''But that's not going to be easy, and it's going to be fraught with difficult choices.''</p>
+        <p>RISKS AND REWARDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ballet Dancer</title>
+    <meta content="03wiwn" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851846"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE: WHAT I'M WEARING NOW"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EED71530F930A35755C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ballet Dancer</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER TUNG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a senior corps member with the New York City Ballet, 22-year-old Georgina Pazcoguin spends most of each day rehearsing in a leotard, tights and leg warmers, then stepping right into costume for performances at night. That leaves a scant few hours to flaunt her own style, so she tries to make every minute count.</p>
+        <p>''I usually go out to dinner with friends after the show, so I wear outfits that I can layer,'' said Ms. Pazcoguin, who has been with the company five years. ''With a few really simple changes, I can be casual in the morning and more dressed at night.''</p>
+      </block>
+      <block class="full_text">
+        <p>As a senior corps member with the New York City Ballet, 22-year-old Georgina Pazcoguin spends most of each day rehearsing in a leotard, tights and leg warmers, then stepping right into costume for performances at night. That leaves a scant few hours to flaunt her own style, so she tries to make every minute count.</p>
+        <p>''I usually go out to dinner with friends after the show, so I wear outfits that I can layer,'' said Ms. Pazcoguin, who has been with the company five years. ''With a few really simple changes, I can be casual in the morning and more dressed at night.''</p>
+        <p>Here, she wears a Nanette Lepore dress over a black American Apparel T-shirt. She bought her Mercedes Salazar gold-skull pendant years before pirate chic exploded.</p>
+        <p>''It's my punk phase lingering with me,'' she said. ''That was when I was 17 and 18.''</p>
+        <p>The outfit is typically versatile: Post-performance, she wears the dress without the black T-shirt and trades flat shoes for heels.</p>
+        <p>Heels, paired with short skirts, are a signature accessory for Ms. Pazcoguin.</p>
+        <p>''I'm relatively short for a dancer -- 5-foot-5 -- so the opportunity to wear heels and be at eye level with some of the taller ballerinas is important to me,'' she said.</p>
+        <p>Not to mention that it highlights her hard-earned dancers' legs.</p>
+        <p>''If you've got it, flaunt it, right?'' she said. ''High heels just make me happy. But don't tell my physical therapist.''</p>
+        <p>JENNIFER TUNG</p>
+        <p>PULSE: WHAT I'M WEARING NOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

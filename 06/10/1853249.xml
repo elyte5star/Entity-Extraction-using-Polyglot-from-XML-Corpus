@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NORWEB, ELIZABETH GARDNER</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853249"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NORWEB, ELIZABETH GARDNER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E2DA143AF933A25755C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NORWEB, ELIZABETH GARDNER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NORWEB--Elizabeth Gardner. The Officers and Directors of The Garden Club of America express deep sorrow on the death of their former President, Elizabeth (Libby) Gardner Norweb, and extend deepest sympathy to her family and friends. Libby served The Garden Club with great distinction, as its 23rd President (1979-1981) and in many other capacities that began with her membership in the Garden Club of Cleveland. Beginning in 1972, Libby served The Garden Club of America on a national level serving as Bulletin Review Editor, Library Committee Chair, and on the Executive Committee. She was the recipient of the Zone Creative Leadership Award and the Medal of Merit. Libby will be remembered for her wonderful sense of community and her friendly personality. Contributions in her memory can be made to The Garden Club of America, 14 East 60th Street, NY, NY 10022. Alice Mathews, President</p>
+      </block>
+      <block class="full_text">
+        <p>NORWEB--Elizabeth Gardner. The Officers and Directors of The Garden Club of America express deep sorrow on the death of their former President, Elizabeth (Libby) Gardner Norweb, and extend deepest sympathy to her family and friends. Libby served The Garden Club with great distinction, as its 23rd President (1979-1981) and in many other capacities that began with her membership in the Garden Club of Cleveland. Beginning in 1972, Libby served The Garden Club of America on a national level serving as Bulletin Review Editor, Library Committee Chair, and on the Executive Committee. She was the recipient of the Zone Creative Leadership Award and the Medal of Merit. Libby will be remembered for her wonderful sense of community and her friendly personality. Contributions in her memory can be made to The Garden Club of America, 14 East 60th Street, NY, NY 10022. Alice Mathews, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

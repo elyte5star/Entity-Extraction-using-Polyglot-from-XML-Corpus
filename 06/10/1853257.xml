@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ROBOHM, DOROTHY BAUER, M.D.</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ROBOHM, DOROTHY BAUER, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E1DA143AF933A25755C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ROBOHM, DOROTHY BAUER, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROBOHM--Dorothy Bauer, M.D., 97, died peacefully in her sleep, on March 20, 2007, in Columbus, Ohio. Dr. Bauer, practiced medicine in Richmond Hill, Queens, and Southold, New York, with her husband, Dr. Claus H. Robohm, for nearly four decades. Dr. Robohm predeceased her in 1993. Dr. Bauer was born in Brooklyn, New York, on July 3, 1909. She was a graduate of Packer Collegiate Institute, Skidmore College, New York University, and the Long Island College of Medicine, from which she graduated first in her class. Her medical focus was pediatrics. She is survived by four children and their families: Peter and Sharon Robohm of Bath, Maine; John and Johanna Robohm of Jacksonville, Vermont; Dorothy and John Brownley of Columbus, Ohio; Donald and Natalie Robohm, of Ocean Springs, Mississippi; eleven grandchildren and five great-grandchildren. A sister, Lois (Bauer) Remmer, of Martha's Vineyard, Massachusetts, also survives her. A memorial service will be held on Saturday, June 16, 2007, at 2:00pm, in the Southold Presbyterian Church, Main Road, Southold. Interment will be private. In lieu of flowers, the family requests that those wishing to make contributions in Dr. Bauers name do so to the American Cancer Society, the Eastern Long Island Hospital (Greenport, NY), or the Southold Historical Society.</p>
+      </block>
+      <block class="full_text">
+        <p>ROBOHM--Dorothy Bauer, M.D., 97, died peacefully in her sleep, on March 20, 2007, in Columbus, Ohio. Dr. Bauer, practiced medicine in Richmond Hill, Queens, and Southold, New York, with her husband, Dr. Claus H. Robohm, for nearly four decades. Dr. Robohm predeceased her in 1993. Dr. Bauer was born in Brooklyn, New York, on July 3, 1909. She was a graduate of Packer Collegiate Institute, Skidmore College, New York University, and the Long Island College of Medicine, from which she graduated first in her class. Her medical focus was pediatrics. She is survived by four children and their families: Peter and Sharon Robohm of Bath, Maine; John and Johanna Robohm of Jacksonville, Vermont; Dorothy and John Brownley of Columbus, Ohio; Donald and Natalie Robohm, of Ocean Springs, Mississippi; eleven grandchildren and five great-grandchildren. A sister, Lois (Bauer) Remmer, of Martha's Vineyard, Massachusetts, also survives her. A memorial service will be held on Saturday, June 16, 2007, at 2:00pm, in the Southold Presbyterian Church, Main Road, Southold. Interment will be private. In lieu of flowers, the family requests that those wishing to make contributions in Dr. Bauers name do so to the American Cancer Society, the Eastern Long Island Hospital (Greenport, NY), or the Southold Historical Society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

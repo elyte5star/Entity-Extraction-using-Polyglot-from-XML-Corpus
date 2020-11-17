@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Apple, Challenging Its Archrival, Is to Release a Windows Browser</title>
+    <meta content="12apple" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/technology/12apple.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853965"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Apple Computer Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Jobs, Steven P</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Apple Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDB173FF931A25755C0A9619C8B63" item-length="886" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Apple, Challenging Its Archrival, Is to Release a Windows Browser</hl1>
+        <hl2 class="online_headline">Apple Releasing a Windows Browser</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, June 11</dateline>
+      <abstract>
+        <p>Apple Computer will make its Safari Web browser available for Windows-based Pcs, opening new front in its rivalry with Microsoft; announcement comes at end of presentation made by Apple's chief executive Steven P Jobs at company's World Wide Developers Conference; it indicates that Apple is increasingly confident in its ability to compete against Microsoft's desktop computing monopoly; shares of Apple drop sharply after announcement, falling $4.30, to $120.19; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apple said Monday that it would make its Safari Web browser available for Windows-based PCs, opening a new front in its rivalry with Microsoft.</p>
+        <p>The announcement came at the end of a presentation made by Steven P. Jobs, Apple's co-founder and chief executive, at the company's annual World Wide Developers Conference. It indicates that Apple is increasingly confident in its ability to compete against Microsoft's desktop computing monopoly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Windows-based Safari Web browser opens a new front in Apple's rivalry with Microsoft.</p>
+      </block>
+      <block class="full_text">
+        <p>Apple said Monday that it would make its Safari Web browser available for Windows-based PCs, opening a new front in its rivalry with Microsoft.</p>
+        <p>The announcement came at the end of a presentation made by Steven P. Jobs, Apple's co-founder and chief executive, at the company's annual World Wide Developers Conference. It indicates that Apple is increasingly confident in its ability to compete against Microsoft's desktop computing monopoly.</p>
+        <p>Shares of Apple dropped sharply after the announcement, falling $4.30, to $120.19. Several Wall Street analysts said the decline proved that Mr. Jobs was, after all, mortal. In recent years, Apple's chief executive has refined product announcements into an art form that leaves his audience cheering and then rushing to a store. Wall Street has come to hope that each new event will create a new iPod-style billion-dollar market.</p>
+        <p>''This was pretty underwhelming,'' said Gene Munster, a financial analyst at Piper Jaffray. ''He hit a double instead of a homer.''</p>
+        <p>With his usual showmanship, Mr. Jobs said that Safari would have twice the performance capability of Microsoft's browser, Internet Explorer. He also expressed confidence that Apple would be able to increase its market share against the dominant software company, pointing to half a billion downloads of Apple's iTunes software, most of them by Windows users.</p>
+        <p>A test version of the program was available Monday for downloading  from Apple's Web site.</p>
+        <p>In an interview after his presentation, Mr. Jobs said he had no concerns that the new competition might anger Microsoft or lead to retaliation, such as slowing the development of the version of Office for the Macintosh. ''After all, we are developing for Windows,'' he said.</p>
+        <p>Like many of Apple's strategic moves, the implication of an Apple browser for Windows was not immediately clear. It is likely that Mr. Jobs is now plotting a broader business strategy that will allow Apple to grow beyond its niche position in the computer market of about a 5 percent share.</p>
+        <p>''Who knows? Maybe we can grow our Safari share in the future,'' Mr. Jobs said. ''We're going to try.''</p>
+        <p>Apple's move is significant, industry executives said, because it indicates that despite the end of the browser wars of the late 1990s, Microsoft's continued ability to retain more than 80 percent market share is a continuing threat to its competitors. Mr. Jobs said that Safari's market share was currently about 5 percent and the share of Firefox, the open source browser, was about 15 percent. There has been a persistent fear that Microsoft would be able to create new standards that would force computer users to adopt its software to reach certain Web sites and Internet services.</p>
+        <p>The broader appeal of the browser might have implications for Apple's iPhone. In his presentation, Mr. Jobs said that the company was encouraging Apple software developers to use modern Internet software standards to make applications compatible with Apple's iPhone, which will go on sale June 29. The announcement is likely to touch off a frenzy of activity because Mr. Jobs said that applications that are written to Internet standards like AJAX and designed to work with Web browsers would work from the first day the iPhone is available.</p>
+        <p>''It will create a much more significant consumer platform for the iPhone,'' said Mike McGuire, a research analyst at Gartner, an industry research firm in San Jose, Calif.</p>
+        <p>By moving software development away from personal computers and cellular phones and toward the Internet, Apple is attempting to persuade its developers that they can achieve new economies of scale while permitting the computer and consumer electronics firm to build more secure devices and computers.</p>
+        <p>''There is something very clever going on here with Apple releasing Safari for Windows,'' said Scott Love, president of Aquaminds Software, a Macintosh developer based in Palo Alto, Calif. ''Don't ever underestimate S. J.'s motives.'' Some developers said they were disappointed that Apple would continue to restrict software development for the iPhone. However, a number of them said that they were intrigued by the company's new Windows-oriented Web browser strategy.</p>
+        <p>Much of the rest of the presentation focused on showing 10 new features of the company's Leopard version of the OS X operating system. Mr. Jobs had shown many of the features, such as a new backup system called Time Machine and a new more powerful version of the Apple instant messaging system called iChat. On Monday, Mr. Jobs showed several refinements to the company's operating system appearance and graphical user interface.</p>
+        <p>At previous events announcing the Leopard version of Apple's Mac OS X operating system, Mr. Jobs has hinted at important new features. However, Monday's event indicated that Leopard, which was originally supposed to be commercially available by now and then was delayed until October when the company shifted resources toward its iPhone, had no major surprises.</p>
+        <p>Mr. Jobs teased the audience of about 5,000 software developers, saying the company would have multiple versions of Leopard, all priced at $129.</p>
+        <p>''I'm sure most of you will want the Ultimate version,'' he said. The reference was a not-so-subtle jab at Microsoft, which offers Windows Vista at a variety of price points with different features. Apple, of course, will sell just one version.</p>
+        <p>Electronic Arts and Id announced that they would begin releasing popular games for the Macintosh simultaneously with Windows versions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Culture, Available for Takeout, At Four Museum Shops' Sale</title>
+    <meta content="07whoo" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852661"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: WHO KNEW?"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7D91E30F934A35755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Culture, Available for Takeout, At Four Museum Shops' Sale</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIANNE ROHRLICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Good buys abound during Shop the Block, an annual event that takes place today from 10 a.m. to 6 p.m., on 53rd Street between Fifth and Sixth Avenues. The four museum shops on the street -- the two MoMA stores, the shop at the Museum of Arts and Design and the American Folk Art Museum store -- are giving 20 percent discounts on all merchandise to anyone who is a member of any of the museums. In addition, Alice Pickett-Lewis, a rug weaver, will demonstrate her craft on a loom set up outside the American Folk Art Museum. Ms. Pickett-Lewis's colorful cotton rugs, above, which are sold at the museum store, are made from excess material from clothing manufacturers, and come in assorted colors and sizes. They start at $58 for a two-by-three-foot carpet. For information: (212) 265-1040.</p>
+        <p>MARIANNE ROHRLICH</p>
+      </block>
+      <block class="full_text">
+        <p>Good buys abound during Shop the Block, an annual event that takes place today from 10 a.m. to 6 p.m., on 53rd Street between Fifth and Sixth Avenues. The four museum shops on the street -- the two MoMA stores, the shop at the Museum of Arts and Design and the American Folk Art Museum store -- are giving 20 percent discounts on all merchandise to anyone who is a member of any of the museums. In addition, Alice Pickett-Lewis, a rug weaver, will demonstrate her craft on a loom set up outside the American Folk Art Museum. Ms. Pickett-Lewis's colorful cotton rugs, above, which are sold at the museum store, are made from excess material from clothing manufacturers, and come in assorted colors and sizes. They start at $58 for a two-by-three-foot carpet. For information: (212) 265-1040.</p>
+        <p>MARIANNE ROHRLICH  CURRENTS: WHO KNEW?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

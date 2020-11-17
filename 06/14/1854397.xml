@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Economical Alternative to a Higher-End Canon</title>
+    <meta content="14camera" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14camera.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854397"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Cameras</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Canon Inc</org>
+        <person class="indexing_service">Katz, Marty</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="online_producer">Canon Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4D9143FF937A25755C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Economical Alternative to a Higher-End Canon</hl1>
+        <hl2 class="online_headline">An Economical Alternative to a Higher-End Canon</hl2>
+      </hedline>
+      <byline class="print_byline">By MARTY KATZ</byline>
+      <byline class="normalized_byline">Katz, Marty</byline>
+      <abstract>
+        <p>Canon's 8-megapixel S5 IS is considered bridge camera, crossing gap between pocket point-and-shoot and heftier single-lens reflect models, known as DSLRs; camera is priced at $499; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Canon's 8-megapixel S5 IS, which just went on sale, is considered a bridge camera -- crossing the gap between a pocket point-and-shoot and heftier single-lens reflex models, known as DSLRs. Those high-end cameras have interchangeable lenses, which can be costly and hard to change without dirt finding its way to the charged image sensor. The resulting spots on images can be a real problem.</p>
+        <p>The S5 IS's all-purpose lens has a big zoom range -- 12X optical, allowing it to go from a wide 36 millimeters to an extremely long telephoto length, 432 millimeters, and with image stabilization to minimize shake. Like DSLRs, it has a hot shoe that lets you mount an external flash for advanced lighting control. But it gives up the DSLR's ability to see the world live through the lens. Instead it uses an electronic viewfinder -- a tiny screen -- inside the eyepiece instead. For dusty places and limited budgets, the trade-off can be a good deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Canon’s 8-megapixel S5 IS digital camera is crossing the gap between a pocket point-and-shoot and heftier single-lens reflex models.</p>
+      </block>
+      <block class="full_text">
+        <p>Canon's 8-megapixel S5 IS, which just went on sale, is considered a bridge camera -- crossing the gap between a pocket point-and-shoot and heftier single-lens reflex models, known as DSLRs. Those high-end cameras have interchangeable lenses, which can be costly and hard to change without dirt finding its way to the charged image sensor. The resulting spots on images can be a real problem.</p>
+        <p>The S5 IS's all-purpose lens has a big zoom range -- 12X optical, allowing it to go from a wide 36 millimeters to an extremely long telephoto length, 432 millimeters, and with image stabilization to minimize shake. Like DSLRs, it has a hot shoe that lets you mount an external flash for advanced lighting control. But it gives up the DSLR's ability to see the world live through the lens. Instead it uses an electronic viewfinder -- a tiny screen -- inside the eyepiece instead. For dusty places and limited budgets, the trade-off can be a good deal.</p>
+        <p>The camera, available from major retailers for $499, uses AA batteries that can be throwaways or rechargeable, making it attractive for on-the-road use. For maximum trip-documentation flexibility, frames of its 30 frames-per-second MPEG-1 video can be printed as still pictures.</p>
+        <p>MARTY KATZ</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

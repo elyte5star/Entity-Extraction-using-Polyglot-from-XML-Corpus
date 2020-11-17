@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stormy Schubert, Soaring Mahler, Easy-Does-It Gershwin</title>
+    <meta content="10oest" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853493"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Oestreich, James R</person>
+        <person class="indexing_service">Lieberson, Peter</person>
+        <person class="indexing_service">Hunt Lieberson, Lorraine</person>
+        <person class="indexing_service">Mahler, Gustav (1860-1911)</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <person class="indexing_service">Vignoles, Roger</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3DF1E30F933A25755C0A9619C8B63" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stormy Schubert, Soaring Mahler, Easy-Does-It Gershwin</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES R. OESTREICH</byline>
+      <byline class="normalized_byline">Oestreich, James R</byline>
+      <abstract>
+        <p>James R Oestreich reviews new CD of songs by Mahler, Handel and Peter Lieberson performed by Lorraine Hunt Lieberson, soprano, and Roger Vignoles, pianist; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mahler, Handel, Peter Lieberson: Songs  Lorraine Hunt Lieberson, mezzo-soprano; Roger Vignoles, pianist. Wigmore Hall Live 0013; CD.</p>
+        <p>ALTHOUGH it is slim consolation for the loss of the superb mezzo-soprano Lorraine Hunt Lieberson to cancer last year, there are obviously still archival recordings of her work available to be released commercially. This gem of a disc is drawn from a recital Ms. Hunt Lieberson gave at Wigmore Hall in London in November 1998.</p>
+      </block>
+      <block class="full_text">
+        <p>Mahler, Handel, Peter Lieberson: Songs  Lorraine Hunt Lieberson, mezzo-soprano; Roger Vignoles, pianist. Wigmore Hall Live 0013; CD.</p>
+        <p>ALTHOUGH it is slim consolation for the loss of the superb mezzo-soprano Lorraine Hunt Lieberson to cancer last year, there are obviously still archival recordings of her work available to be released commercially. This gem of a disc is drawn from a recital Ms. Hunt Lieberson gave at Wigmore Hall in London in November 1998.</p>
+        <p>It is vintage material, including Handel's aria ''As with rosy steps,'' which -- whether performed separately, as here, or in performances of its parent oratorio, ''Theodora'' -- became a signature work for Ms. Hunt Lieberson. This performance is remarkably fluid and organic, and the ornamentations in the return of the main melody are all the more striking for being few and subtle.</p>
+        <p>Ms. Hunt Lieberson, who inspired so much of her husband's music and was its greatest champion, here offers two Rilke Songs by Peter Lieberson and an aria from his first opera, ''Ashoka's Dream.'' In the spiritual ''Deep River,'' as so often, Ms. Hunt Lieberson is a force of nature, however restrained at the outset. And a second encore, Brahms's ''Unbewegte laue Luft'' (''Mild Motionless Air''), affords a lovely exit.</p>
+        <p>But the most poignant numbers in the wake of Ms. Hunt Lieberson's death are Mahler's Rückert Lieder, especially the soaring final arc, from ''Liebst du um Schönheit'' (''If You Love for Beauty'') through ''Um Mitternacht'' (''At Midnight'') to ''Ich bin der Welt abhanden gekommen'' (''I Am Lost to the World''). The cycle ends with the astonishing line: ''I live alone in my heaven, in my love, in my song.''</p>
+        <p>Roger Vignoles is a typically fine and sensitive collaborator. The recorded sound is better than adequate, and the audience is quiet but for the applause, which seems almost irreverent in the altered circumstances. Lovers of Ms. Hunt Lieberson's work would settle for far worse audio quality if only more recordings were to appear.</p>
+        <p>JAMES R. OESTREICH</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

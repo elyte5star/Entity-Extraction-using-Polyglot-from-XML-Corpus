@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 More Democratic Candidates Decline to Join in Fox News Debate</title>
+    <meta content="01debate" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851247"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE 2008 CAMPAIGN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John Edwards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D91530F932A35755C0A9619C8B63" item-length="455" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 More Democratic Candidates Decline to Join in Fox News Debate</hl1>
+      </hedline>
+      <byline class="print_byline">By JACQUES STEINBERG and RAYMOND HERNANDEZ</byline>
+      <byline class="normalized_byline">Hernandez, Raymond; Steinberg, Jacques</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The congressman overseeing plans to stage a debate among Democratic presidential hopefuls on the Fox News Channel said yesterday that the forum would go on as planned, despite the defection of two more candidates, Senator Christopher J. Dodd of Connecticut and Gov. Bill Richardson of New Mexico.</p>
+        <p>The congressman, Representative Bennie G. Thompson of Mississippi, said in an interview that he was disappointed in Senator Dodd and Governor Richardson for following the lead of three other candidates who had previously announced they were skipping the debate: Senators Hillary Rodham Clinton of New York and Barack Obama of Illinois, and John Edwards, the former senator from North Carolina. The debate is being co-sponsored by the Congressional Black Caucus.</p>
+      </block>
+      <block class="full_text">
+        <p>The congressman overseeing plans to stage a debate among Democratic presidential hopefuls on the Fox News Channel said yesterday that the forum would go on as planned, despite the defection of two more candidates, Senator Christopher J. Dodd of Connecticut and Gov. Bill Richardson of New Mexico.</p>
+        <p>The congressman, Representative Bennie G. Thompson of Mississippi, said in an interview that he was disappointed in Senator Dodd and Governor Richardson for following the lead of three other candidates who had previously announced they were skipping the debate: Senators Hillary Rodham Clinton of New York and Barack Obama of Illinois, and John Edwards, the former senator from North Carolina. The debate is being co-sponsored by the Congressional Black Caucus.</p>
+        <p>Three candidates seeking the Democratic nomination in 2008 -- Senator Joseph R. Biden Jr. of Delaware, former Senator Mike Gravel of Alaska and Representative Dennis J. Kucinich of Ohio -- have committed to attend the forum, which is scheduled for Sept. 23 in Detroit.</p>
+        <p>''All the candidates who've decided against the debate are missing a very important opportunity to talk with constituents represented by the caucus,'' said Mr. Thompson, the chairman of the caucus's Political Education and Leadership Institute, which is a co-sponsor of the debate along with Fox News.</p>
+        <p>Only Mr. Edwards has given a specific reason for his withdrawal, with his campaign saying in April that he considered the Fox channel's programming to be neither as fair nor balanced as the network's slogan suggests, and instead tilted in favor of Republicans. He and the other candidates have been under pressure from liberals, including those associated with Moveon.org, to spurn Fox. At the same time, the caucus has continued to support the debate, exposing fissures in the party.</p>
+        <p>Aides to Mr. Richardson and Mr. Dodd said yesterday that the candidates had decided in recent days not to attend. Katie Roberts, a spokeswoman for Mr. Richardson, had said last Thursday that he was pulling out, only to call a reporter back a few hours later to say she had misspoken, and that he was on the fence. Ms. Roberts said yesterday that after a ''scheduling meeting'' on Monday, Mr. Richardson had decided to withdraw after all; she provided no further explanation. A spokesman for Mr. Dodd had no immediate comment on why he was withdrawing.</p>
+        <p>A Fox News spokeswoman did not comment beyond saying that the debate was moving ahead as planned.</p>
+        <p>Mr. Thompson said he continued to hold out hope that the candidates who had declined would reconsider.</p>
+        <p>''I think any person running for president of the United States has an obligation to deal with as many individuals as possible who may, or may not, see eye to eye with them,'' he said.</p>
+        <p>THE 2008 CAMPAIGN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

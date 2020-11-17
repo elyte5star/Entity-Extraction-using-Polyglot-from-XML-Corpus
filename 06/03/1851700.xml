@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THEATER: THE TONYS | A Season's Indelible Moments; Techno-Touches -- 'The Merchant of Venice'</title>
+    <meta content="03snap1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/theater/theaterspecial/03snap1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851700"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Merchant of Venice"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <org class="indexing_service">Theater for A New Audience (Theater Co)</org>
+        <person class="indexing_service">Simonson, Robert</person>
+        <person class="indexing_service">Shakespeare, William (1564-1616)</person>
+        <object.title class="indexing_service">Merchant of Venice, the (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/William Shakespeare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <org class="online_producer">Theater for a New Audience</org>
+        <person class="online_producer">Tresnjak, Darko</person>
+        <person class="online_producer">Abraham, F Murray</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3DB1430F930A35755C0A9619C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THEATER: THE TONYS | A Season's Indelible Moments; Techno-Touches -- 'The Merchant of Venice'</hl1>
+        <hl2 class="online_headline">Techno-Touches</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT SIMONSON</byline>
+      <byline class="normalized_byline">Simonson, Robert</byline>
+      <abstract>
+        <p>Article describes indelible moment from 2006-7 theater season, technological touches introduced into Shakespeare's The Merchant of Venice in Theater for a New Audience production; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In ''The Merchant of Venice,'' when Tubal learned the whereabouts of his friend Shylock's runaway daughter, Jessica, Shylock didn't have to wait long for the news in the Theater for a New Audience production this year. He got a call from Tubal on his cellphone.</p>
+        <p>The moment, however, wasn't played for comedy, as the anachronism easily might have been. Shylock's anguish at having lost a daughter and part of his fortune to a Christian husband registered just as acutely -- perhaps more so -- for the Jewish father having no friend by his side to comfort him, only that friend's distant, mechanized voice.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Darko Tresnjak’s sleek, modern-day production of “The Merchant of Venice” was littered with technological touches.</p>
+      </block>
+      <block class="full_text">
+        <p>In ''The Merchant of Venice,'' when Tubal learned the whereabouts of his friend Shylock's runaway daughter, Jessica, Shylock didn't have to wait long for the news in the Theater for a New Audience production this year. He got a call from Tubal on his cellphone.</p>
+        <p>The moment, however, wasn't played for comedy, as the anachronism easily might have been. Shylock's anguish at having lost a daughter and part of his fortune to a Christian husband registered just as acutely -- perhaps more so -- for the Jewish father having no friend by his side to comfort him, only that friend's distant, mechanized voice.</p>
+        <p>Darko Tresnjak's sleek, modern-day production in February, starring F. Murray Abraham as Shylock, was littered with such technological touches. Adjusting his position onstage to receive a better signal, Portia's preening assistant received calls from her suitors on a cordless headset. The three famous caskets containing the riddles the suitors have to answer to win Portia's hand were Mac PowerBooks. When activated, each laptop released a bells-and-whistles video letting the would-be husband know if he had chosen well or badly.</p>
+        <p>In another director's hands these flourishes might have seemed like so much eye-catching tinsel. But Mr. Tresnjak fully integrated them into his vision of a modern-day Venice as chilly, sleek and calculating as any Wall Street house: a world where all exchanges -- monetary, marital, fraternal, emotional -- are coolly commodified, and where any weakness is quickly exploited and the raid then rationalized as ''just business.''</p>
+        <p>ROBERT SIMONSON</p>
+        <p>The Merchant of Venice</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

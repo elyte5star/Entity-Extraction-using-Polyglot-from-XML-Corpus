@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CNN and YouTube Keep Reporters Dangling</title>
+    <meta content="18debate" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/media/18debate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="descriptor">Debating</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">YouTube.com</org>
+        <org class="online_producer">Cable News Network</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2DD123FF93BA25755C0A9619C8B63" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CNN and YouTube Keep Reporters Dangling</hl1>
+        <hl2 class="online_headline">CNN and YouTube Keep Reporters Dangling</hl2>
+      </hedline>
+      <byline class="print_byline">By ANGEL JENNINGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If the news conference that CNN and YouTube held last week to discuss their first-of-a-kind presidential debate was any sort of omen, there might be a few kinks for the companies to work out in the months ahead.</p>
+        <p>Ahead of a conference call Thursday, the companies sent the wrong dial-in number to many journalists, leaving about a dozen of them listening to dead air while colleagues call continued on another line.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If the news conference that CNN and YouTube held to discuss their presidential debate was any sort of omen, there might be a few kinks to work out.</p>
+      </block>
+      <block class="full_text">
+        <p>If the news conference that CNN and YouTube held last week to discuss their first-of-a-kind presidential debate was any sort of omen, there might be a few kinks for the companies to work out in the months ahead.</p>
+        <p>Ahead of a conference call Thursday, the companies sent the wrong dial-in number to many journalists, leaving about a dozen of them listening to dead air while colleagues call continued on another line.</p>
+        <p>After the fact, there was some finger-pointing, but no official explanation of how the lines of communications had been crossed. Reporters who missed the first 15 minutes or so of the news conference could get an e-mail transcript.</p>
+        <p>Those who had the correct telephone number heard senior executives from CNN and YouTube talk about the new ground rules: Ordinary folk are being invited to post videos on YouTube with questions for the candidates, and the best of the questions will be selected for a July 23 event featuring the Democrats. A similar forum for Republican candidates will be held on Sept. 17.</p>
+        <p>''We're confident we're providing a new outlet for them for distribution,'' said Chad Hurley, chief executive and co-founder of YouTube, a division of Google. ''We're actively working to provide them new opportunities and develop new technologies.''</p>
+        <p>At the first debate, Anderson Cooper of CNN will act as a moderator and pose follow-up questions; the original pool of questions will come from the public.</p>
+        <p>In the anything-goes world of YouTube, the companies expect to see creative and maybe emotional clips that will stir the audience and perhaps the candidates.</p>
+        <p>CNN and YouTube say they are trying to drive political dialogue by replacing the old scripted format and putting power into the hands of everyday citizens.</p>
+        <p>''This is the most democratic of all possible structures,'' said David Bohrman, senior vice president and Washington bureau chief of CNN. ''Everyone in the country has a chance of having a question asked of someone who can very possibly be the next president.''</p>
+        <p>As for ironing out any possible glitches or communication problems before the debate, CNN said it was sure everything would be organized and ready.</p>
+        <p>''We don't normally handle the press conferences,'' Mr. Bohrman said. ''But we are running the debates, so the audience shouldn't worry.''</p>
+        <p>ANGEL JENNINGS</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

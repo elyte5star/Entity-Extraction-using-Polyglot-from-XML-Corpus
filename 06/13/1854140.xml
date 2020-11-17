@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Is a Test. Results May Vary.</title>
+    <meta content="13education" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/education/13education.html" name="alternate_url"/>
+    <meta content="Education Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="1854140"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON EDUCATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="descriptor">Reading and Writing Skills</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reading and Writing Skills</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0D7173FF930A25755C0A9619C8B63" item-length="1143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Is a Test. Results May Vary.</hl1>
+        <hl2 class="online_headline">This Is a Test. Results May Vary.</hl2>
+      </hedline>
+      <byline class="print_byline">By JOSEPH BERGER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>We know the script. It opens with a Greek chorus lamenting how poorly students are reading. A pedagogic hero -- a new chancellor or state commissioner -- appears on the scene with a fresh quiver of weapons and schedules improved tests.</p>
+        <p>The results come back, and -- alakazam! -- achievement surges, and our hero is hailed as rescuer of the school system. That is, until tests in later years reveal that students are back to about where they were.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The heartening results last month on the annual reading tests in New York State and New York City, and the results on the math tests announced Tuesday, should be taken in perspective.</p>
+      </block>
+      <block class="full_text">
+        <p>We know the script. It opens with a Greek chorus lamenting how poorly students are reading. A pedagogic hero -- a new chancellor or state commissioner -- appears on the scene with a fresh quiver of weapons and schedules improved tests.</p>
+        <p>The results come back, and -- alakazam! -- achievement surges, and our hero is hailed as rescuer of the school system. That is, until tests in later years reveal that students are back to about where they were.</p>
+        <p>Such a pattern has stamped the history of standardized testing. And so the heartening results last month on the annual reading tests in New York State and New York City, and the results on the math tests announced yesterday, should be taken in perspective.</p>
+        <p>Officials trumpeted these results. In reading, the city's proportion of passing eighth graders -- for years the subject of hand-wringing -- rose a breathtaking 7.9 percentage points, with 46.4 percent of fluent English speakers tested qualifying as proficient compared with 38.5 percent the year before. Reading results for eighth graders statewide were as comforting. In math, almost 73 percent of students from third through eighth grade met standards compared with almost 66 percent last year.</p>
+        <p>But some skeptics who have been on this roller coaster before wonder whether these increases are animated more by the content of the tests or by how the results are measured than by anything administrators or teachers did or did not do. In these critics' view, a test may show an individual student's progress, but is not as precise at measuring the progress of an entire grade or school system.</p>
+        <p>That's not to say that New York students did not genuinely improve. State officials say scores rose because tougher curriculum standards were spelled out, teachers were given better training and students were given extra tutoring. But a little humility may be called for.</p>
+        <p>Robert Tobias ran New York City's office of assessment for 13 years under seven chancellors, so he knows in his marrow the vagaries of test scores. He was there when chancellors flaunted the results and when they had to sheepishly explain why scores fell. He has learned neither to get too intoxicated by the leaps nor too downhearted by the plunges.</p>
+        <p>Mr. Tobias, who directs the Center for Research on Teaching and Learning at New York University's Steinhardt School of Education, gets suspicious when test results rise too high from one year to the next, or when one grade rises spectacularly and others register only a modest change.</p>
+        <p>On this year's reading test, for example, the proportion of state eighth graders reaching proficiency surged by 7.7 percentage points, but the proportion of proficient sixth graders increased by a more modest 2.8 points and that of seventh graders by only 1.4 points.</p>
+        <p>Richard P. Mills, the state education commissioner, credited the middle-school showing to leaders who ''have high expectations for all children'' and ''use proven practices.''</p>
+        <p>Did the leaders of sixth and seventh grades not have expectations that were as high or fail to use proven practices in reading?</p>
+        <p>And, in math, why did the state's eighth graders improve by almost 5 percentage points, while the seventh graders, lackluster readers after all, soared by nearly 11 points?</p>
+        <p>Another detail that raises Mr. Tobias's eyebrows is sharp gains in too many places. Only in Yonkers, among the state's biggest five cities, did reading scores fall, a setback officials attributed to an unusually large number of immigrants in the pool. Were almost all city superintendents at the top of their game?</p>
+        <p>''I would say it's something about the test when there's too large an increase and it's too ubiquitous -- in too many districts,'' Mr. Tobias said.</p>
+        <p>Although officials insist that tests are thoroughly scientific, a reading test -- by the very fact that its questions are chosen by teachers -- does not measure a student's ability as precisely as, say, a cardiogram measures the cadence of a heart. For one thing, test scores can go up and down depending on who is allowed to take the test.</p>
+        <p>IT has long been known that some administrators find pretexts for eliminating students on the margins -- those with learning disabilities or in danger of being held back. Walter Haney, a testing expert at Boston College, said Texas doubled the number of special education students who were exempted from 1994 to 1998, a move that he said accounted for spectacular gains -- gains which, incidentally, contributed to calls for nationwide testing that culminated in the federal No Child Left Behind law.</p>
+        <p>For several years until the federal government banned it, New York State exempted immigrant students who had been in the school system for less than three years. This year, only those in the country for less than a year were exempted, and the declining scores in Grades 3 and 4 were attributed to the large share of immigrants those grades absorbed.</p>
+        <p>Familiarity with the test format can also lead to slightly higher scores, Mr. Tobias said; versions of the reading and math tests were given for a second year.</p>
+        <p>Then there's the test itself. Psychometricians may argue that what they do is science, but Mr. Tobias contends that there is more than a little art. Test questions are given weights based on degree of difficulty or their power to discriminate among students of similar abilities. Theoretically, a question that is scaled the same way a similar question was the previous year should yield the same results.</p>
+        <p>But, Mr. Tobias said, ''in practice the theory is not always realized.'' Mr. Haney pointed out that states can tweak the proportion of students deemed proficient by including one or two easier questions.</p>
+        <p>Seymour Fliegel, a longtime administrator who is now president of the Center for Educational Innovation-Public Education Association, a nonprofit group, said that there is always skepticism when scores go up, but seldom when they decline.</p>
+        <p>''If you live by the sword you die by the sword, it seems to me, or else public education can't win,'' he said.</p>
+        <p>State officials in New York said statistical factors explain part of the anomalous rise in the eighth-grade reading test, paradoxically making it less remarkable.</p>
+        <p>David M. Abrams, the state's assistant commissioner for standards and assessment, noted that sixth graders and eighth graders improved about the same in raw numbers -- five points on a scale in which a score of 650 represents proficiency. But since a comparatively large number of sixth graders were already proficient the year before and a relatively large number of eighth graders were clustered just below the 650 threshold, the same five points qualified many more eighth graders as proficient while doing far less for the sixth-grade showing.</p>
+        <p>Mr. Tobias said officials generally did not analyze high scores as aggressively as falling ones, and his remark betrays a weary understanding of educational politics.</p>
+        <p>''Why would you take away your own good story?'' he said.</p>
+        <p>ON EDUCATION E-mail: joeberg@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: joeberg@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

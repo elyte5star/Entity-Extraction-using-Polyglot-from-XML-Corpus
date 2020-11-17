@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Kathe Burkhart</title>
+    <meta content="08gall-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853000"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFDA1F30F93BA35755C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Kathe Burkhart</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Liz Taylor Series: Selections From 1983-2007  Alexander Gray Associates  526 West 26th Street, Chelsea  Through June 23</p>
+        <p>If the term postfeminism strikes you as another bit of academic jargon, it may gain significance as you look at Kathe Burkhart's paintings from her ''Liz Taylor Series.'' While 1970s feminist art tended either to draw attention to the plight of women or to commemorate great ones -- Judy Chicago's ''Dinner Party'' is the archetype -- Ms. Burkhart, who arrived a generation later, takes a different approach.</p>
+      </block>
+      <block class="full_text">
+        <p>The Liz Taylor Series: Selections From 1983-2007  Alexander Gray Associates  526 West 26th Street, Chelsea  Through June 23</p>
+        <p>If the term postfeminism strikes you as another bit of academic jargon, it may gain significance as you look at Kathe Burkhart's paintings from her ''Liz Taylor Series.'' While 1970s feminist art tended either to draw attention to the plight of women or to commemorate great ones -- Judy Chicago's ''Dinner Party'' is the archetype -- Ms. Burkhart, who arrived a generation later, takes a different approach.</p>
+        <p>Ms. Burkhart doesn't just celebrate a famous woman, she also inhabits her. Over the last 24 years Elizabeth Taylor has served as a doppelgänger for the artist in paintings that combine movie-still and tabloid images with collaged elements and red, Barbara Kruger-style slogans, most of them unprintable here. (Let's just say that where 1970s feminist art leaned toward the menstrual, Ms. Burkhart is more scatological.)</p>
+        <p>''Liz'' serves as a model of complicated womanhood and a channel for all the rage and campy excess that Ms. Burkhart can muster. (By comparison, Ms. Chicago's icons feel safe and distant.) Here she rants in a still from ''Who's Afraid of Virginia Woolf?''; an image from ''Cleopatra'' depicts her as a Toulouse Lautrec apparition; and a third features a bed scene lifted from ''Cat on a Hot Tin Roof,'' with Liz reading tarot cards, surrounded by books like ''Sex and the Zodiac'' and Aleister Crowley's ''Diary of a Drug Fiend.''</p>
+        <p>Ms. Burkhart has made more than 125 of these paintings, which have been shown piecemeal in galleries in the United States and Europe. But it would be great to see a museum show devoted to the entire series -- if nothing else, to help budding neo-postfeminists understand how feminism can be retooled for every generation.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

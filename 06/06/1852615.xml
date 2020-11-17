@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BARS</title>
+    <meta content="06briefs-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852615"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING BRIEFS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1DC1E30F935A35755C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BARS</hl1>
+      </hedline>
+      <byline class="print_byline">By PETE WELLS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PDT  Inside Crif Dogs, 113 St. Marks Place (Avenue A), (212) 614-2728.</p>
+        <p>It took three centuries, but at last New Yorkers can walk into a bar and order a mint julep with a deep-fried hot dog wrapped in bacon.</p>
+      </block>
+      <block class="full_text">
+        <p>PDT  Inside Crif Dogs, 113 St. Marks Place (Avenue A), (212) 614-2728.</p>
+        <p>It took three centuries, but at last New Yorkers can walk into a bar and order a mint julep with a deep-fried hot dog wrapped in bacon.</p>
+        <p>Before walking in, though, they'll have to go through an elaborate screening ritual: step into a hot dog joint, slip into the phone booth, smile at the camera and wait for the secret door to swing open.</p>
+        <p>One can view this speak-easy pantomime as a necessary crowd-control measure given that the demand for juleps and bacon dogs is likely to be ferocious. Or one can view it as undiluted affectation. (What kind of speak-easy invites food writers to its opening preview?)</p>
+        <p>But one will probably forgive anything after knocking back one of PDT's precisely calibrated, classically inclined cocktails ($11).</p>
+        <p>As in all right-minded cocktail bars these days, the glasses are small, the ice cubes huge and the bartenders as rigorous as Jesuits.</p>
+        <p>When somebody asked for a caipirinha last week, the bartender said apologetically that he could make one but that it wouldn't be authentic because he didn't have the right kind of sugar.</p>
+        <p>PETE WELLS</p>
+        <p>DINING BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

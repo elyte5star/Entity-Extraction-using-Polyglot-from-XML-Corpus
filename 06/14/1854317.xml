@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sharing Views of Past, Present and Purgatory</title>
+    <meta content="14pasc" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/arts/dance/14pasc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854317"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Joyce Theater</org>
+        <org class="online_producer">Pascal Rioult Dance Theater</org>
+        <org class="online_producer">Martha Graham Dance Company</org>
+        <person class="online_producer">Bausch, Pina</person>
+        <person class="online_producer">Taylor, Paul</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DB143FF937A25755C0A9619C8B63" item-length="431" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sharing Views of Past, Present and Purgatory</hl1>
+        <hl2 class="online_headline">Sharing Views of Past, Present and Purgatory</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of two things usually happens when something goes on for a long time (long being an outrageously subjective concept in the arts). Either the activity builds in impact, like a Pina Bausch spectacle, or you largely forget it's there, like a Norah Jones album.</p>
+        <p>It was Norah all the way on Tuesday night at the Joyce Theater, where Pascal Rioult Dance Theater presented a two-hour program of four works, all of which seemed longer than their actual durations. Mr. Rioult has been presenting his choreography since 1984. He knows how to move bodies and make them look beautiful. But going beyond that seems beyond him, so the best you can say for these dances is that they do no harm: hardly something you want to declare, or feel, about a concert in which half the works are set to Stravinsky, and one to his ''Symphony of Psalms'' no less.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Pascal Rioult knows how to move bodies and make them look beautiful, but going beyond that seems beyond him.</p>
+      </block>
+      <block class="full_text">
+        <p>One of two things usually happens when something goes on for a long time (long being an outrageously subjective concept in the arts). Either the activity builds in impact, like a Pina Bausch spectacle, or you largely forget it's there, like a Norah Jones album.</p>
+        <p>It was Norah all the way on Tuesday night at the Joyce Theater, where Pascal Rioult Dance Theater presented a two-hour program of four works, all of which seemed longer than their actual durations. Mr. Rioult has been presenting his choreography since 1984. He knows how to move bodies and make them look beautiful. But going beyond that seems beyond him, so the best you can say for these dances is that they do no harm: hardly something you want to declare, or feel, about a concert in which half the works are set to Stravinsky, and one to his ''Symphony of Psalms'' no less.</p>
+        <p>Before forming his own company Mr. Rioult was a principal dancer with the Martha Graham Dance Company. This lineage shows in his choreography, as does the imprint of other modern biggies like Paul Taylor. But the effect is more of a dead end than a next step, especially in works like ''If by Chance,'' a romantic romp to Jacques Loussier's jazzy interpretation of a Mozart piano concerto.</p>
+        <p>Mr. Rioult edges a bit farther out on the limb in ''EXP #1,'' a premiere that alternates between Bach sonatas and an electronic score by Autechre. Relying heavily on spotlights and blackouts, David Finley's design creates a series of fragmentary, claustrophobic environments for the dancers' precise contortions. As the male lead Marcus Jarrell Willis brings a silky intelligence to his elucidation of these hemmed-in movements, suggesting a vital inner struggle. He is an interpreter, and a very human one, whereas too many others in the company seem more modern dancer than human.</p>
+        <p>Mr. Willis returns in the other premiere, ''Symphony of Psalms,'' but is less able to put a stamp on this ensemble work, in which nine dancers repeatedly and futilely reach for something higher. In one section the women are lifted, their legs hugged to their partners' chests. They extend their arms like crosses, or crucifixions, only to sink back down. It is a purgatory of sorts, neither here nor there, and a sadly apt metaphor for a choreographer who seeks to extend a proud tradition of modern dance and finds he has nowhere to go.</p>
+        <p>Pascal Rioult Dance Theater performs through Sunday at the Joyce Theater, 175 Eighth Avenue, at 19th Street, Chelsea; (212) 242-0800 or joyce.org.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Comedy Gives NBC Reason to Smile</title>
+    <meta content="15arts-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854632"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DC153FF936A25755C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Comedy Gives NBC Reason to Smile</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The return of ''Last Comic Standing'' to NBC, with a new host, Bill Bellamy (''Def Comedy Jam''), gave the network a boost in the ratings Wednesday, helping it finish a strong second to Fox on the night. Following an episode of NBC's ''Deal or No Deal'' at 8 p.m., which delivered 8.2 million viewers according to Nielsen's estimates, the fifth-season debut of the stand-up comedy competition attracted 6.9 million viewers from 9 to 11 and NBC's highest ratings in the time period in four months. Fox led the night over all with a two-hour installment of ''So You Think You Can Dance,'' which drew 8.9 million viewers from 8 to 10. CBS and ABC shared third place. ABC's episode of ''Traveler'' at 10 (4.1 million) earned the series's lowest ratings to date.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>The return of ''Last Comic Standing'' to NBC, with a new host, Bill Bellamy (''Def Comedy Jam''), gave the network a boost in the ratings Wednesday, helping it finish a strong second to Fox on the night. Following an episode of NBC's ''Deal or No Deal'' at 8 p.m., which delivered 8.2 million viewers according to Nielsen's estimates, the fifth-season debut of the stand-up comedy competition attracted 6.9 million viewers from 9 to 11 and NBC's highest ratings in the time period in four months. Fox led the night over all with a two-hour installment of ''So You Think You Can Dance,'' which drew 8.9 million viewers from 8 to 10. CBS and ABC shared third place. ABC's episode of ''Traveler'' at 10 (4.1 million) earned the series's lowest ratings to date.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

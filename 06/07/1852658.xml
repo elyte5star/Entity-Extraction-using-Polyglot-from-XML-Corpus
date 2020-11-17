@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natural Sanitizer Uses Science But Also Relies a Bit on Faith</title>
+    <meta content="07food" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852658"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: GADGETS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEEDA1E30F934A35755C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natural Sanitizer Uses Science But Also Relies a Bit on Faith</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE GREEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Lotus Sanitizing System ($149.99) claims to oxygenate water, turning it into a natural cleanser. At 11 by 14 inches, it may be the bulkiest object on your counter, but the premise is neat: press a button and presto! Oxygenated water, which sucks up bacteria because it has a third oxygen molecule. It had no effect on the mystery stains on my carpet, but on the bathtub it seemed to work as well as Ajax. To test its other application -- nuking the scary things on your food -- I tipped a pint of strawberries into its bowl attachment and let it whir. But how can you tell it's working? Steve Hengsperger, president of Tersano, the company that makes Lotus, pointed me to a number on the box. ''That number is the E.P.A.'s approval of the device as a sanitizer,'' he said. ''Lysol has the same thing.'' Without the nose-singeing smell of bleach or Lysol, it's leap-of-faith territory, but the idea of never buying another bottle of Fantastik or Clorox is appealing. Information: tersano.com.</p>
+        <p>PENELOPE GREEN</p>
+      </block>
+      <block class="full_text">
+        <p>The Lotus Sanitizing System ($149.99) claims to oxygenate water, turning it into a natural cleanser. At 11 by 14 inches, it may be the bulkiest object on your counter, but the premise is neat: press a button and presto! Oxygenated water, which sucks up bacteria because it has a third oxygen molecule. It had no effect on the mystery stains on my carpet, but on the bathtub it seemed to work as well as Ajax. To test its other application -- nuking the scary things on your food -- I tipped a pint of strawberries into its bowl attachment and let it whir. But how can you tell it's working? Steve Hengsperger, president of Tersano, the company that makes Lotus, pointed me to a number on the box. ''That number is the E.P.A.'s approval of the device as a sanitizer,'' he said. ''Lysol has the same thing.'' Without the nose-singeing smell of bleach or Lysol, it's leap-of-faith territory, but the idea of never buying another bottle of Fantastik or Clorox is appealing. Information: tersano.com.</p>
+        <p>PENELOPE GREEN  CURRENTS: GADGETS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

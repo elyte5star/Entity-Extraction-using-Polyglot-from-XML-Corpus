@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Radioactivity Sensors for Russia</title>
+    <meta content="01border" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/world/europe/01border.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851297"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Russia</location>
+        <org class="online_producer">National Nuclear Security Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E6D81530F932A35755C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Radioactivity Sensors for Russia</hl1>
+        <hl2 class="online_headline">Radioactivity Sensors for Russia</hl2>
+      </hedline>
+      <byline class="print_byline">By C. J. CHIVERS</byline>
+      <byline class="normalized_byline">Chivers, C J</byline>
+      <dateline>MOSCOW, May 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States and Russia have agreed to accelerate a program that detects radioactive materials along Russia's borders and plan to have automated detection systems installed at all Russian border crossing points by 2011, American energy officials said Thursday.</p>
+        <p>As part of the agreement, the program, administered jointly by Russia's federal custom service and the National Nuclear Security Administration in the United States, will be completed six years ahead of schedule.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The United States and Russia have agreed to accelerate a program that detects radioactive materials along Russia’s borders.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States and Russia have agreed to accelerate a program that detects radioactive materials along Russia's borders and plan to have automated detection systems installed at all Russian border crossing points by 2011, American energy officials said Thursday.</p>
+        <p>As part of the agreement, the program, administered jointly by Russia's federal custom service and the National Nuclear Security Administration in the United States, will be completed six years ahead of schedule.</p>
+        <p>Relations between Russia and the United States have been increasingly strained in recent months. Some of the disputes are related to American criticism of Russia's human rights record and its treatment of former Soviet republics and the seemingly intractable disagreements about the future status of Kosovo and an American-led plan to install a missile-defense system in Europe.</p>
+        <p>But the United States has insisted that the two countries have managed to maintain productive relations on certain themes, including nuclear nonproliferation.</p>
+        <p>''We share with Russia many common global nonproliferation goals,'' Daniel Fried, assistant secretary of State for European and Eurasian Affairs, said in testimony before the Helsinki Commission in Washington on May 24.</p>
+        <p>William H. Tobey, deputy administrator for nonproliferation at the administration, said that within four years the detection equipment would be installed at all 350 of Russia's border crossing points, including seaports, international airports and road and rail crossings.</p>
+        <p>The program to install the equipment began in 1998; about 200 of the crossings are expected to be covered by the end of this year. The United States has spent about $40 million on the program through the end of 2006 and expects to spend $100 million more before the end of 2011.</p>
+        <p>Roughly half of the remaining installations will be paid for by Russia, American officials said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

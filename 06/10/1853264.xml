@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  STEIVELMAN, HARRIET</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853264"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">STEIVELMAN, HARRIET</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0DA143AF933A25755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  STEIVELMAN, HARRIET</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STEIVELMAN--Harriet, dear friend, gentle soul, loved nature and all nature's creatures. You will be missed dearly by all of us. The entire Sussman Family</p>
+        <p>$(6$)STIEVELMAN--Harriet. Dearest friend, our wonderful thoughts and memories of you, and special times together, will live within our hearts forever. We love you. Rhoda Bernstein Rita and Gene Rothkopf</p>
+        <p>$(6$)STIEVELMAN--Harriet. We deeply mourn the loss of our dear friend. Our deepest condolences to Jack, Troy and Stacy, Gabi and Mitchell, Jodi and all the grandchildren. Charlotte and Roger Ellen and Marc Lisa and Eric Beth and Peter</p>
+        <p>$(6$)STIEVELMAN--Harriet. In loving memory of Harriet Stievelman, a wonderful friend, wife, mother and grandmother. We will miss and love you always. Howard and Karen Susan and David</p>
+        <p>$(6$)STIEVELMAN--Harriet. In loving memory of a wonderful woman. Our condolences to Jack and the family. Brenda and Carlin</p>
+      </block>
+      <block class="full_text">
+        <p>STEIVELMAN--Harriet, dear friend, gentle soul, loved nature and all nature's creatures. You will be missed dearly by all of us. The entire Sussman Family</p>
+        <p>$(6$)STIEVELMAN--Harriet. Dearest friend, our wonderful thoughts and memories of you, and special times together, will live within our hearts forever. We love you. Rhoda Bernstein Rita and Gene Rothkopf</p>
+        <p>$(6$)STIEVELMAN--Harriet. We deeply mourn the loss of our dear friend. Our deepest condolences to Jack, Troy and Stacy, Gabi and Mitchell, Jodi and all the grandchildren. Charlotte and Roger Ellen and Marc Lisa and Eric Beth and Peter</p>
+        <p>$(6$)STIEVELMAN--Harriet. In loving memory of Harriet Stievelman, a wonderful friend, wife, mother and grandmother. We will miss and love you always. Howard and Karen Susan and David</p>
+        <p>$(6$)STIEVELMAN--Harriet. In loving memory of a wonderful woman. Our condolences to Jack and the family. Brenda and Carlin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

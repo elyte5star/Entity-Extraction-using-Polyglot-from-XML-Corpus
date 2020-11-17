@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tina Barney -- China Visit</title>
+    <meta content="01gall-5" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851359"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2D71530F932A35755C0A9619C8B63" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tina Barney -- China Visit</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Janet Borden  560 Broadway, at Prince Street  SoHo  Through June 16</p>
+        <p>Tina Barney's last series of photographs featured a nearly extinct species: the European aristocracy. Her new work looks to a nation and a people on the rise.</p>
+      </block>
+      <block class="full_text">
+        <p>Janet Borden  560 Broadway, at Prince Street  SoHo  Through June 16</p>
+        <p>Tina Barney's last series of photographs featured a nearly extinct species: the European aristocracy. Her new work looks to a nation and a people on the rise.</p>
+        <p>This small, tight show features what a gallery release calls the ''new'' Chinese. For the purpose of Ms. Barney's photographs, these include mostly members of the creative class: an opera student, actors in a dressing room, a group of dancers rehearsing, acrobats at rest and ''The Jingle Composer,'' a leather-jacketed hipster with a pierced eyebrow.</p>
+        <p>But the show actually moves between the ''old'' China, seen in a traditional opera performance, and the ''new,'' Westernized version, represented by female caddies on a golf course. Photographs of different generations posed together include an image of a middle-aged man and his teenage son in their modern kitchen, and an older woman with two young girls standing in a garden.</p>
+        <p>Ms. Barney is a skilled technician, yet her work of the last two decades has struggled to be as interesting as the series that made her famous in the 1980s, members of her own upper-crust East Coast tribe. Ms. Barney's familiarity with that group allowed her to capture the subjects unposed, in intimate settings like the kitchen or bathroom. The Chinese, like the Europeans, are portrayed in more neutral locales.</p>
+        <p>In a sense Ms. Barney has drifted from anthropology to sociology, from culture and human interaction to larger societal patterns. But with China's growing position on the world's political and economic stages, the potential for this project is promising. If Ms. Barney spends as much time with the Chinese as she did with the European aristocracy -- nearly a decade -- her latest foray may develop into something even richer than what is offered here.</p>
+        <p>MARTHA SCHWENDENER</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

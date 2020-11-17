@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Posada May Start at First Base on Interleague Trip</title>
+    <meta content="17pins" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855274"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DE123FF934A25755C0A9619C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Posada May Start at First Base on Interleague Trip</hl1>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mike Mussina's spot in the rotation comes up twice on the Yankees' trip to National League parks at Colorado and San Francisco. That presents Manager Joe Torre with a problem.</p>
+        <p>Torre has made the light-hitting Wil Nieves (.122 batting average) the personal catcher for Mussina. But Jorge Posada, the regular catcher, is batting .347. With no designated hitter allowed, how could Torre get Posada's bat into the lineup?</p>
+      </block>
+      <block class="full_text">
+        <p>Mike Mussina's spot in the rotation comes up twice on the Yankees' trip to National League parks at Colorado and San Francisco. That presents Manager Joe Torre with a problem.</p>
+        <p>Torre has made the light-hitting Wil Nieves (.122 batting average) the personal catcher for Mussina. But Jorge Posada, the regular catcher, is batting .347. With no designated hitter allowed, how could Torre get Posada's bat into the lineup?</p>
+        <p>The answer may be to use Posada as the first baseman. Posada took grounders at first during batting practice yesterday and may start there when Mussina is scheduled to pitch, Tuesday in Colorado and Sunday in San Francisco.</p>
+        <p>Posada has played 17 career games at first base, including a three-inning appearance last June 4 at Baltimore. Before that, Posada had not played at first base since 2001.</p>
+        <p>''When you've been behind the plate for so long, things come instinctively,'' Posada said. ''When you're at first base, you have to think about where you have to be. Instincts don't play a role here. It's not going to come easy.''</p>
+        <p>Posada sounded skeptical of the idea, which he learned about two days ago. He said that the Yankees would evaluate how he did in practice.</p>
+        <p>But Torre, who made the transition to first baseman from catcher as a player, does not seem concerned. ''Speaking as one of those people, I certainly think it's something he can do,'' he said.</p>
+        <p>Johnny Damon has also been practicing at first, although Torre seems more comfortable with the idea of using Damon at a corner outfield spot to give a day off to Hideki Matsui or Bobby Abreu.</p>
+        <p>The Yankees will have an extra position player on the bench for the games, as outfielder Kevin Thompson was recalled from Class AAA Scranton/Wilkes-Barre.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Monaghan, Noah Treuhaft</title>
+    <meta content="17Monaghan" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17Monaghan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855117"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Monaghan, Elizabeth Gray (Elizabeth Gray Treuhaft)</person>
+        <person class="indexing_service">Treuhaft, Noah Wallace</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDB153FF934A25755C0A9619C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Monaghan, Noah Treuhaft</hl1>
+        <hl2 class="online_headline">Elizabeth Monaghan, Noah Treuhaft</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Gray Monaghan, the daughter of Valerie W. Monaghan and Edward Monaghan of New Canaan, Conn., was married yesterday to Noah Wallace Treuhaft, a son of Mary Treuhaft of San Francisco and Dr. Paul Treuhaft of Oberlin, Ohio. The bride's father, who was designated a deputy marriage commissioner for the occasion by the Alameda County commissioner of civil marriages, officiated at the couple's home in Oakland, Calif.</p>
+        <p>The bride, 29, is a cardiac nurse at the Alta Bates Summit Medical Center, a community-based, nonprofit hospital in Berkeley, Calif. She graduated from the University of Pennsylvania.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Gray Monaghan, the daughter of Valerie W. Monaghan and Edward Monaghan of New Canaan, Conn., was married yesterday to Noah Wallace Treuhaft, a son of Mary Treuhaft of San Francisco and Dr. Paul Treuhaft of Oberlin, Ohio. The bride’s father, who was designated a deputy marriage commissioner for the occasion by the Alameda County commissioner of civil marriages, officiated at the couple’s home in Oakland, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Gray Monaghan, the daughter of Valerie W. Monaghan and Edward Monaghan of New Canaan, Conn., was married yesterday to Noah Wallace Treuhaft, a son of Mary Treuhaft of San Francisco and Dr. Paul Treuhaft of Oberlin, Ohio. The bride's father, who was designated a deputy marriage commissioner for the occasion by the Alameda County commissioner of civil marriages, officiated at the couple's home in Oakland, Calif.</p>
+        <p>The bride, 29, is a cardiac nurse at the Alta Bates Summit Medical Center, a community-based, nonprofit hospital in Berkeley, Calif. She graduated from the University of Pennsylvania.</p>
+        <p>Her father retired as an electrical engineer with the nuclear Northeast division of the Entergy Corporation, the power company, in White Plains, N.Y. Her mother retired as the office manager for the Junior League of Stamford-Norwalk.</p>
+        <p>The bridegroom, 32, is a senior developer of software at OpenDNS, a firm in San Francisco that translates Internet domain names into numerical network addresses. He graduated from Oberlin and received a master's in computer science from the University of California, Berkeley.</p>
+        <p>His mother retired as the vice president for regulatory and quality assurance for Point Biomedical Corporation, a biotechnology company in San Carlos, Calif., that produces imaging products for ultrasound equipment. She is a first-year nursing student at Samuel Merritt College in Oakland. His father is an orthopedic surgeon at the Cleveland Clinic in Ohio.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Bronx: Voter Registration Urged</title>
+    <meta content="04mbrfs-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852216"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E2DD1130F937A35755C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Bronx: Voter Registration Urged</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>State Senator Jeffrey D. Klein said yesterday that New York should expand its efforts to encourage young people to register to vote. Senator Klein, a Democrat who represents parts of the Bronx and Westchester County, said a survey of 60 colleges and universities in the state conducted by his staff found that none of the private institutions mailed voter forms to students and only 10 percent of the public ones did so. Only half of the private universities surveyed provided registration information on campus, he said. Senator Klein has proposed requiring the state to mail voter registration forms to all residents when they turn 18.</p>
+      </block>
+      <block class="full_text">
+        <p>State Senator Jeffrey D. Klein said yesterday that New York should expand its efforts to encourage young people to register to vote. Senator Klein, a Democrat who represents parts of the Bronx and Westchester County, said a survey of 60 colleges and universities in the state conducted by his staff found that none of the private institutions mailed voter forms to students and only 10 percent of the public ones did so. Only half of the private universities surveyed provided registration information on campus, he said. Senator Klein has proposed requiring the state to mail voter registration forms to all residents when they turn 18.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

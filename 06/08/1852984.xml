@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Frankenstein Finds a Castle</title>
+    <meta content="08arts-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/theater/08theater.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852984"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E2DA1F30F93BA35755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Frankenstein Finds a Castle</hl1>
+        <hl2 class="online_headline">Theater Briefs</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the sinking of ''The Pirate Queen'' it's now official: The new musical ''Young Frankenstein'' -- excuse us, ''The New Mel Brooks Musical Young Frankenstein'' -- will open at the Hilton Theater on Broadway on Nov. 8, with previews set to begin on Oct. 11. Under the direction of Susan Stroman (who staged ''The Producers''), the cast includes Roger Bart as Dr. Frankenstein as well as Megan Mullally, Sutton Foster and Shuler Hensley. ''Young Frankenstein'' will have its pre-Broadway tryout at the Paramount Theater in Seattle in August. The Public Theater has scheduled a free staged reading of Winter Miller's play ''In Darfur'' at the Delacorte Theater in Central Park on July 9.  Nathan Lane has been confirmed to play the role of President Charles Smith in David Mamet's new comedy, ''November,'' which is scheduled to open on Broadway on Jan. 17.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Young Frankenstein” finds a castle, and Nathan Lane is coming back to Broadway.</p>
+      </block>
+      <block class="full_text">
+        <p>With the sinking of ''The Pirate Queen'' it's now official: The new musical ''Young Frankenstein'' -- excuse us, ''The New Mel Brooks Musical Young Frankenstein'' -- will open at the Hilton Theater on Broadway on Nov. 8, with previews set to begin on Oct. 11. Under the direction of Susan Stroman (who staged ''The Producers''), the cast includes Roger Bart as Dr. Frankenstein as well as Megan Mullally, Sutton Foster and Shuler Hensley. ''Young Frankenstein'' will have its pre-Broadway tryout at the Paramount Theater in Seattle in August. The Public Theater has scheduled a free staged reading of Winter Miller's play ''In Darfur'' at the Delacorte Theater in Central Park on July 9.  Nathan Lane has been confirmed to play the role of President Charles Smith in David Mamet's new comedy, ''November,'' which is scheduled to open on Broadway on Jan. 17.</p>
+        <p>CAMPBELL ROBERTSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

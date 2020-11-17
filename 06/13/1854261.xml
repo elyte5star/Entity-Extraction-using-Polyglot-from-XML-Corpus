@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knicks to Play Exhibition Against Top Israeli Team</title>
+    <meta content="13knicks" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854261"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E3DE143FF930A25755C0A9619C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knicks to Play Exhibition Against Top Israeli Team</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD BECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Knicks, who have not won an N.B.A. title in three decades, will open their preseason schedule Oct. 11 against Maccabi Tel Aviv, a club that has won 47 Israeli championships. The event will benefit a charity for disadvantaged Israeli children, if not necessarily the Knicks themselves.</p>
+        <p>''I'm kind of hoping we don't embarrass ourselves too much,'' said Coach Isiah Thomas, whose team has had six straight losing seasons.</p>
+      </block>
+      <block class="full_text">
+        <p>The Knicks, who have not won an N.B.A. title in three decades, will open their preseason schedule Oct. 11 against Maccabi Tel Aviv, a club that has won 47 Israeli championships. The event will benefit a charity for disadvantaged Israeli children, if not necessarily the Knicks themselves.</p>
+        <p>''I'm kind of hoping we don't embarrass ourselves too much,'' said Coach Isiah Thomas, whose team has had six straight losing seasons.</p>
+        <p>Maccabi Tel Aviv has been one of the most successful clubs in the European League and has produced two current N.B.A. players, Anthony Parker of the Toronto Raptors and Sarunas Jasikevicius of the Golden State Warriors.</p>
+        <p>The current Maccabi team has four players born in the United States, including Will Bynum, who helped lead Georgia Tech to the N.C.A.A. final in 2004.</p>
+        <p>''The caliber of play we'll be playing against will be very elite,'' Thomas said at a news conference to announce the game. Tickets for the game, which will be played at Madison Square Garden, go on sale at 9 a.m. today.</p>
+        <p>Tal Brody, a former Israeli player who is on the Maccabi Tel Aviv board, said his team had been cheered wildly in exhibition games in Toronto and Los Angeles, prompting Thomas to say, ''That's O.K., we're used to getting booed here.''</p>
+        <p>The proceeds from the game will benefit Migdal Ohr (Tower of Light), which provides education and support to 6,500 orphaned, abused and underprivileged children.</p>
+        <p>Thomas, who spoke fondly of a trip to Israel in the late 1980s, said the Knicks had been working to organize this game for two years.</p>
+        <p>''I'm from a family of nine, and I was one of those kids who were at risk,'' Thomas said.</p>
+        <p>The Knicks lost 15 of their final 19 games to finish 33-49 this season, in large part because Jamal Crawford, David Lee and Quentin Richardson were injured.</p>
+        <p>Crawford, who had a stress fracture in his right ankle, is fully recovered and playing again in his hometown, Seattle. Lee, who had an injury to his right leg, has been working out daily at the Knicks' training center in Greenburgh, N.Y., and ''looks good,'' Thomas said. Richardson, he added, is on track in his recovery from back surgery.</p>
+        <p>PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

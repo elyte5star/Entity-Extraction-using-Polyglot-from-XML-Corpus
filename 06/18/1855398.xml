@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robert Tracy, 52, Dance Writer</title>
+    <meta content="18tracy" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855398"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0DD123FF93BA25755C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robert Tracy, 52, Dance Writer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robert Tracy, a prolific dance writer, died on June 7 in Manhattan. He was 52.</p>
+        <p>The cause was complications of infection with H.I.V., said his sister, Mary Ellen Tracy.</p>
+      </block>
+      <block class="full_text">
+        <p>Robert Tracy, a prolific dance writer, died on June 7 in Manhattan. He was 52.</p>
+        <p>The cause was complications of infection with H.I.V., said his sister, Mary Ellen Tracy.</p>
+        <p>Mr. Tracy's first book, ''Balanchine's Ballerinas: Conversations With the Muses,'' was published by Simon &amp; Schuster in 1983 and described by The Wall Street Journal as ''this year's great ballet book.'' Subsequent books included ''Goddess: Martha Graham's Dancers Remember'' (1997) and ''Ailey Spirit: The Journey of an American Dance Company'' (2004), both published by Limelight.</p>
+        <p>Mr. Tracy also edited Nigel Gosling's ''Prowling the Pavements: Selected Writings From London, 1950-1980'' (Winchell, 1986) and contributed to Isamu Noguchi's 1994 anthology ''Essays and Conversations'' and to the International Encyclopedia of Dance. He also wrote on dance, theater, music, art and film for newspapers and magazines including The New York Times, Vanity Fair, Dance, Elle and Vogue.</p>
+        <p>Born in Boston, Mr. Tracy earned a bachelor's degree in classical studies and dance from Skidmore College, where he studied ballet with Melissa Hayden. He performed for a year with Maria Tallchief's Chicago Lyric Opera Ballet before being awarded a scholarship to the New York City Ballet-affiliated School of American Ballet in New York, where he also studied at the Alvin Ailey American Dance Theater school. Mr. Tracy also performed in productions by Rudolf Nureyev on Broadway and internationally.</p>
+        <p>In addition to his sister, of Atlanta, Mr. Tracy is survived by his brother, Frank, of Hong Kong.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OVERHEARD</title>
+    <meta content="12phillary" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853954"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0DB173FF931A25755C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OVERHEARD</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the looks-are-just-superficial-anyway front, John Edwards has been lampooned for his ''I Feel Pretty'' primping in front of a mirror. Now Senator Hillary Rodham Clinton is drawing notice, though decidedly positive notice, for a glamorous turn at last week's New Hampshire debate.</p>
+        <p>Her new look, right, was the work of Kriss Soterion, a makeup artist and former Miss New Hampshire, who runs a salon in Manchester and was freelancing for CNN, a co-sponsor of the debate.</p>
+      </block>
+      <block class="full_text">
+        <p>On the looks-are-just-superficial-anyway front, John Edwards has been lampooned for his ''I Feel Pretty'' primping in front of a mirror. Now Senator Hillary Rodham Clinton is drawing notice, though decidedly positive notice, for a glamorous turn at last week's New Hampshire debate.</p>
+        <p>Her new look, right, was the work of Kriss Soterion, a makeup artist and former Miss New Hampshire, who runs a salon in Manchester and was freelancing for CNN, a co-sponsor of the debate.</p>
+        <p>Ms. Soterion has been pancaking pols since 1991, when a friend introduced her to Patrick J. Buchanan just before he was photographed for the cover of Newsweek. Since then, she has applied makeup to many political notables, including Bill Clinton, Newt Gingrich and John Kerry.</p>
+        <p>But in a sign of how a woman's looks may be scrutinized more, her work on Mrs. Clinton stood out. The reviews were raves; Arianna Huffington, of the Huffington Post, wrote that Mrs. Clinton had received a ''killer makeup job.'' The Boston Herald said the senator had never looked so good (and pondered whether she had had ''work'' done but allowed for the possibility of good lighting and ''sublime makeup'').</p>
+        <p>CNN has hired Ms. Soterion and her team for the 17 months left in the traveling road show that is the presidential campaign. Over that time, a lot of faces are bound to fall, despite Ms. Soterion's best efforts.</p>
+        <p>KATHARINE Q. SEELYE</p>
+        <p>THE CAUCUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

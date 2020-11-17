@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Modern and Safe Play</title>
+    <meta content="l01playground" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851294"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFD91530F932A35755C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Modern and Safe Play</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Danger: Playground Ahead,'' by Allison Arieff (Op-Ed, May 29):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Danger: Playground Ahead,'' by Allison Arieff (Op-Ed, May 29):</p>
+        <p>While it is all well and good to capture the interest of adolescents, a playground safety expert should be added to your team of artists, architects and designers, to provide a new playground design.</p>
+        <p>As an attorney who has been involved in playground design cases, including a horrible accident where a 7-year-old boy was rendered a quadriplegic in a New York City playground, I can remind you that safety needs should come first and that the playgrounds are used by kids of all ages.</p>
+        <p>Tempting a younger child, or even an adolescent, to take an unnecessary risk that may have lifelong negative and perhaps even catastrophic consequences should be avoided.</p>
+        <p>Playground safety, like car safety, has developed over time. When car manufacturers wax nostalgic, they still incorporate the newest safety ideas into their retro vehicles. You should do the same in your new playgrounds.</p>
+        <p>Tomas L. Bondy  New York, May 29, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

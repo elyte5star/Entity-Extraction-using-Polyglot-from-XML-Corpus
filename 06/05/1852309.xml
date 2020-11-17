@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warner Group in Deal to Offer Free Music via Internet Site</title>
+    <meta content="05music" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/media/05music.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852309"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Warner Music Group</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DA1130F936A35755C0A9619C8B63" item-length="614" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warner Group in Deal to Offer Free Music via Internet Site</hl1>
+        <hl2 class="online_headline">Warner Group in Deal to Offer Free Music via Internet Site</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT LEVINE</byline>
+      <byline class="normalized_byline">Levine, Robert</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Major labels have fought several legal battles to try to keep fans from listening to music without paying for it. Now one label, the Warner Music Group, has made a deal with an Internet start-up, Lala.com, that will allow anyone to listen to its music free, with the idea that doing so will drive music sales.</p>
+        <p>Lala.com is expected to announce today that it will make the vast majority of albums in the Warner Music catalog available at its site as audio ''streams,'' which can be heard online but not downloaded. Although listening to those streams will be free for consumers, Lala.com will pay Warner a royalty each time a user listens to a song.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Warner Music Group has made a deal with an Internet start-up, Lala.com, that will allow anyone to listen to its music free.</p>
+      </block>
+      <block class="full_text">
+        <p>Major labels have fought several legal battles to try to keep fans from listening to music without paying for it. Now one label, the Warner Music Group, has made a deal with an Internet start-up, Lala.com, that will allow anyone to listen to its music free, with the idea that doing so will drive music sales.</p>
+        <p>Lala.com is expected to announce today that it will make the vast majority of albums in the Warner Music catalog available at its site as audio ''streams,'' which can be heard online but not downloaded. Although listening to those streams will be free for consumers, Lala.com will pay Warner a royalty each time a user listens to a song.</p>
+        <p>Lala.com, which is now a site where music fans can trade used CDs for a fee, is hoping to make money by selling music, both in CD format and as digital files that it will send to iPods without using Apple's iTunes software. The site does not yet have similar deals with other labels, but the company's founder and chief executive, Bill Nguyen, said it was in talks with several.</p>
+        <p>For Warner, the deal with Lala.com has limited risk, because the label will make money from streaming royalties. But its priority is increasing sales of music, which have declined further this year. ''The evidence we've seen is that a lot of people want to own music,'' said Alex Zubillaga, Warner's executive vice president for digital strategy and business development. ''And their mandate is to sell music.''</p>
+        <p>Mr. Zubillaga added that Lala.com was giving Warner Music a good deal of flexibility in determining how to price and bundle music. Apple, the dominant player in the market with its iTunes music store, does not give music labels those options, much to their chagrin. Unlike iTunes, Lala.com will concentrate on selling albums, which it will offer for a variety of prices based on the behavior of individual consumers.</p>
+        <p>Lala.com, which has received $14 million from Bain Capital and Ignition Partners, will be under considerable pressure to sell music. Mr. Nguyen estimated that the company would spend $140 million in licensing fees over two years, assuming the site attracts the five million users it anticipates.</p>
+        <p>''They're going all-in in terms of making a bet by paying for all that music,'' said Mike McGuire, a vice president at Gartner, an e-commerce consultant firm. ''The fees for the streaming could be thought of as their customer acquisition cost.''</p>
+        <p>Mr. Nguyen, an entrepreneur whose tastes run to indie rock, said he thought that the recent decline in music sales was linked not only to piracy but also to a lack of appealing places to purchase music now that stores like Tower Records have closed. ''Retailing has such an enormous impact,'' he said. He said he was confident that music fans will still want to own albums even though they will be able to hear them free.</p>
+        <p>At first, Lala.com will not work with any other portable device. Since the iPod dominates the market, no online service that does not work with it has captured a significant market share. The digital files that Lala.com will sell are not copy-protected, but they will be difficult for users to replicate because they bypass iTunes and are stored only on the iPod.</p>
+        <p>How much those customers are worth will depend on their willingness to buy what they can sample free. ''My immediate reaction is, that's smart, rather than thinking I'll lose sales when people listen and don't buy,'' said Scott Booker, who manages the Flaming Lips, a band signed to Warner. People, he said, buy their favorite music ''to feel like they own a piece of it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

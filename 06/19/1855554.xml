@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>United Nations To Help Lebanon Investigation</title>
+    <meta content="19briefs-investigation" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855554"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WORLD BRIEFING | MIDDLE EAST"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Assassinations and Assassination Attempts</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <location class="indexing_service">Lebanon</location>
+        <location class="indexing_service">Syria</location>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">Security Council (Un)</org>
+        <person class="indexing_service">Hoge, Warren</person>
+        <person class="indexing_service">Hariri, Rafik (1945-2005)</person>
+        <person class="indexing_service">Eido, Walid</person>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Syria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1DF133FF93AA25755C0A9619C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>United Nations To Help Lebanon Investigation</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN HOGE</byline>
+      <byline class="normalized_byline">Hoge, Warren</byline>
+      <abstract>
+        <p>Security Council approves request from Lebanon's prime minister to have United Nations commission ivestigating 2005 assassination of former Prime Min Rafik Hariri help investigate killing of legislator Walid Eido; Eido and Hariri died similarly in car bombings and both opposed past Syrian domination of Lebanon's politics; preliminary findings implicate Syrian intelligence services in Hariri's murder (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Security Council approved a request from Lebanon's prime minister to have the United Nations commission investigating the 2005 assassination of the former Lebanese prime minister, Rafik Hariri, help investigate last week's killing of a legislator, Walid Eido. Mr. Eido died in an attack similar to the one that had killed Mr. Hariri, when a vehicle parked along the same road in Beirut blew up as his car passed. Like Mr. Hariri, Mr. Eido was opposed to past Syrian domination of Lebanon's politics. Preliminary findings of the commission have implicated Syrian intelligence services in Mr. Hariri's murder.</p>
+      </block>
+      <block class="full_text">
+        <p>The Security Council approved a request from Lebanon's prime minister to have the United Nations commission investigating the 2005 assassination of the former Lebanese prime minister, Rafik Hariri, help investigate last week's killing of a legislator, Walid Eido. Mr. Eido died in an attack similar to the one that had killed Mr. Hariri, when a vehicle parked along the same road in Beirut blew up as his car passed. Like Mr. Hariri, Mr. Eido was opposed to past Syrian domination of Lebanon's politics. Preliminary findings of the commission have implicated Syrian intelligence services in Mr. Hariri's murder.</p>
+        <p>WORLD BRIEFING | MIDDLE EAST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

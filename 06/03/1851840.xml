@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shine On</title>
+    <meta content="03street" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/03street.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851840"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EFD71530F930A35755C0A9619C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shine On</hl1>
+        <hl2 class="online_headline">Shine On</hl2>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An early warm-weather surprise: the appearance of silver handbags and shoes as an alternative to summer white. There are even three sculptured stainless steel trees by the artist Roxy Paine in Madison Square Park, at Fifth Avenue and 23rd Street. The shimmering silver bags mark a departure from the heavy hardware decorations on purses last winter, instead relying on quilting for a textured surface. This is echoed in the huge silver rock that looks like a fallen meteorite in the park.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An early warm-weather surprise: the appearance of silver handbags and shoes as an alternative to summer white.</p>
+      </block>
+      <block class="full_text">
+        <p>An early warm-weather surprise: the appearance of silver handbags and shoes as an alternative to summer white. There are even three sculptured stainless steel trees by the artist Roxy Paine in Madison Square Park, at Fifth Avenue and 23rd Street. The shimmering silver bags mark a departure from the heavy hardware decorations on purses last winter, instead relying on quilting for a textured surface. This is echoed in the huge silver rock that looks like a fallen meteorite in the park.  ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

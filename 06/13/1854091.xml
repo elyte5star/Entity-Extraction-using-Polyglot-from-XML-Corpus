@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   STAVOLA, JOSEPH, M.D.</title>
+    <meta content="dn061307" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854091"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">STAVOLA, JOSEPH, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E2D8143AF930A25755C0A9619C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   STAVOLA, JOSEPH, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STAVOLA--Joseph, M.D. We are deeply saddened by the untimely death of our former colleague Dr. Joseph Stavola and his wife, Jeanne Serocke. The Chief of Pediatric Infectious Disease at NewYorkPresbyterian Hospital/Weill Cornell Medical Center, and Associate Professor of Clinical Pediatrics at Weill Cornell Medical College from 1999 to 2005. Dr. Stavola was an outstanding clinical researcher and teacher, whose contributions to pediatrics, particulary in the area of pediatrics AIDS, will long be remembered. We express our heartfelt condolences to the Stavola and Serocke families. Herbert Pardes, M.D. President and CEO NewYork-Presbyterian Hospital Antonio M. Gotto Jr., M.D. Dean Weill Cornell Medical College Cynthia Sparer, Executive Director Children's Hospital of NewYork-Presbyterian Hospital, and Senior Vice President and Chief Operating Officer of Women's, Children's and Community Health Services NewYork-Presbyterian Hospital Gerald Loughlin, M.D. Chairman, Pediatrics Department, Weill Cornell Medical College and Pediatrician-in-Chief, Komansky Center for Children's Health at NewYork-Presbyterian Hospital/Weill Cornell Medical Center</p>
+      </block>
+      <block class="full_text">
+        <p>STAVOLA--Joseph, M.D. We are deeply saddened by the untimely death of our former colleague Dr. Joseph Stavola and his wife, Jeanne Serocke. The Chief of Pediatric Infectious Disease at NewYorkPresbyterian Hospital/Weill Cornell Medical Center, and Associate Professor of Clinical Pediatrics at Weill Cornell Medical College from 1999 to 2005. Dr. Stavola was an outstanding clinical researcher and teacher, whose contributions to pediatrics, particulary in the area of pediatrics AIDS, will long be remembered. We express our heartfelt condolences to the Stavola and Serocke families. Herbert Pardes, M.D. President and CEO NewYork-Presbyterian Hospital Antonio M. Gotto Jr., M.D. Dean Weill Cornell Medical College Cynthia Sparer, Executive Director Children's Hospital of NewYork-Presbyterian Hospital, and Senior Vice President and Chief Operating Officer of Women's, Children's and Community Health Services NewYork-Presbyterian Hospital Gerald Loughlin, M.D. Chairman, Pediatrics Department, Weill Cornell Medical College and Pediatrician-in-Chief, Komansky Center for Children's Health at NewYork-Presbyterian Hospital/Weill Cornell Medical Center</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

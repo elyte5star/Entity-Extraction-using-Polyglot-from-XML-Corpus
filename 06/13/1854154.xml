@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Gathering</title>
+    <meta content="13lens" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LENS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Lens</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EED7173FF930A25755C0A9619C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Gathering</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD PERRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A group of local witches gathered late last month in La Plaza Cultural, a small garden at Ninth Street and Avenue C, to mark a relatively rare lunar event: the second full moon in the same month, sometimes known as a blue moon. The celebration featured readings and meditation as the witches formed a circle around candles.</p>
+      </block>
+      <block class="full_text">
+        <p>A group of local witches gathered late last month in La Plaza Cultural, a small garden at Ninth Street and Avenue C, to mark a relatively rare lunar event: the second full moon in the same month, sometimes known as a blue moon. The celebration featured readings and meditation as the witches formed a circle around candles.  LENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

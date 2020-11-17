@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Phone for the Sly Can Record Calls and Store Them on a Computer</title>
+    <meta content="14phone" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854400"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Ipevo</org>
+        <person class="indexing_service">Furchgott, Roy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E4D9143FF937A25755C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Phone for the Sly Can Record Calls and Store Them on a Computer</hl1>
+        <hl2 class="online_headline">A Phone for the Sly Can Record Calls and Store Them on a Computer</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+      <abstract>
+        <p>Ipevo Free.2 phone is slim and sleek and makes calls over Internet; it can record calls and save them on hard drive of computer; phone sells for $45; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Ipevo Free.2 phone is slim, sleek and potentially sneaky. The phone, which makes calls over the Internet, can record your calls and save them on the hard drive of your computer.</p>
+        <p>The phone, $45 at www.ipevo.com, has other features that are equally neat, though less sly. The handset has separate hot buttons for making free calls on the Skype calling service to other Skype users, and for Skype Out calls to regular phones, which incur a charge.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Ipevo Free.2 phone, which makes calls over the Internet, can record your calls and save them on the hard drive of your computer.</p>
+      </block>
+      <block class="full_text">
+        <p>The Ipevo Free.2 phone is slim, sleek and potentially sneaky. The phone, which makes calls over the Internet, can record your calls and save them on the hard drive of your computer.</p>
+        <p>The phone, $45 at www.ipevo.com, has other features that are equally neat, though less sly. The handset has separate hot buttons for making free calls on the Skype calling service to other Skype users, and for Skype Out calls to regular phones, which incur a charge.</p>
+        <p>A toggle button speeds scrolling through past calls and current contacts. And there is a mute button -- critical to any recording device.</p>
+        <p>Recordings made with the phone can be saved in MP3 and other formats, although the record feature currently works only with a PC using Windows XP or higher. The phone features work with PC or Macintosh, provided your Mac has OS X 10.4 or higher.</p>
+        <p>Of course, secretly recording calls is illegal in many states, which the Free.2 addresses by posting a warning on the screen of the other person's computer (or inserting an occasional beep on calls to phones), alerting people that they are being recorded. And that little click you might hear? That just means your friend hung up.</p>
+        <p>ROY FURCHGOTT</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

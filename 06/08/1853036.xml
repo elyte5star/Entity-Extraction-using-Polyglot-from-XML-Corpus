@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="08trans" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853036"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E2D91F30F93BA35755C0A9619C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  KANSAS CITY ROYALS--Activated RHP Joakim Soria from the 15-day DL. Optioned RHP Ryan Braun to Omaha (PCL).  OAKLAND ATHETLTICS--Released RHP Jay Witasick.  TEXAS RANGERS--Recalled RHP Scott Feldman from Oklahoma (PCL). Optioned LHP John Rheinecker to Oklahoma.  TORONTO BLUE JAYS--Designated RHP Tomo Ohka for assignment.</p>
+        <p>National League  COLORADO ROCKIES--Optioned RHP Ramon Ramirez to Colorado (PCL). Activated RHP Josh Fogg from the 15-day DL.  METS--Placed OF Endy Chavez on the 15-day DL. Activated 2B Jose Valentin from the 15-day DL.  ST. LOUIS CARDINALS--Recalled RHP Andy Cavazos from Memphis (PCL). Optioned INF Brendan Ryan to Memphis.</p>
+        <p>N.B.A.</p>
+        <p>CHARLOTTE BOBCATS--Named Phil Ford and Lee Rose assistant coaches. Retained Jeff Capel, assistant coach.  ORLANDO MAGIC--Named Stan Van Gundy coach.  SEATTLE SUPERSONICS--Named Sam Presti general manager.</p>
+        <p>N.F.L.</p>
+        <p>KANSAS CITY CHIEFS--Signed S Jerome Woods to a one-year contract.  MIAMI DOLPHINS--Signed DT Paul Soliaito a four-year contract.  MINNESOTA VIKINGS--Named George Paton director of player personnel.  NEW ENGLAND PATRIOTS--Signed WRC.J. Jones.  GIANTS--Signed G Zach Piller. Released DT Sir Henry Anderson and CB R.W Cobbs.  OAKLAND RAIDERS--Signed DB Colin Branch.  TAMPA BAY BUCCANEERS--Announced the retirement of TE Dave Moore.  WASHINGTON REDSKINS--Signed CB Jerametrius Butler. Released DB Chip Cox.</p>
+        <p>N.H.L.</p>
+        <p>CAROLINA HURRICANES--Re-signed Marshall Johnston, director of professional scouting; Claude Larose and Ron Smith, professional scouts; and Martin Madden, amateur scout, to multiyear contracts.  MINNESOTA WILD--Agreed to terms with G Niklas Backstrom on a multiyear contract.  TAMPA BAY LIGHTNING--Announced a one-year affiliation agreement with Mississippi (ECHL) for the 2007-08 season.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>American League  KANSAS CITY ROYALS--Activated RHP Joakim Soria from the 15-day DL. Optioned RHP Ryan Braun to Omaha (PCL).  OAKLAND ATHETLTICS--Released RHP Jay Witasick.  TEXAS RANGERS--Recalled RHP Scott Feldman from Oklahoma (PCL). Optioned LHP John Rheinecker to Oklahoma.  TORONTO BLUE JAYS--Designated RHP Tomo Ohka for assignment.</p>
+        <p>National League  COLORADO ROCKIES--Optioned RHP Ramon Ramirez to Colorado (PCL). Activated RHP Josh Fogg from the 15-day DL.  METS--Placed OF Endy Chavez on the 15-day DL. Activated 2B Jose Valentin from the 15-day DL.  ST. LOUIS CARDINALS--Recalled RHP Andy Cavazos from Memphis (PCL). Optioned INF Brendan Ryan to Memphis.</p>
+        <p>N.B.A.</p>
+        <p>CHARLOTTE BOBCATS--Named Phil Ford and Lee Rose assistant coaches. Retained Jeff Capel, assistant coach.  ORLANDO MAGIC--Named Stan Van Gundy coach.  SEATTLE SUPERSONICS--Named Sam Presti general manager.</p>
+        <p>N.F.L.</p>
+        <p>KANSAS CITY CHIEFS--Signed S Jerome Woods to a one-year contract.  MIAMI DOLPHINS--Signed DT Paul Soliaito a four-year contract.  MINNESOTA VIKINGS--Named George Paton director of player personnel.  NEW ENGLAND PATRIOTS--Signed WRC.J. Jones.  GIANTS--Signed G Zach Piller. Released DT Sir Henry Anderson and CB R.W Cobbs.  OAKLAND RAIDERS--Signed DB Colin Branch.  TAMPA BAY BUCCANEERS--Announced the retirement of TE Dave Moore.  WASHINGTON REDSKINS--Signed CB Jerametrius Butler. Released DB Chip Cox.</p>
+        <p>N.H.L.</p>
+        <p>CAROLINA HURRICANES--Re-signed Marshall Johnston, director of professional scouting; Claude Larose and Ron Smith, professional scouts; and Martin Madden, amateur scout, to multiyear contracts.  MINNESOTA WILD--Agreed to terms with G Niklas Backstrom on a multiyear contract.  TAMPA BAY LIGHTNING--Announced a one-year affiliation agreement with Mississippi (ECHL) for the 2007-08 season.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

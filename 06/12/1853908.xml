@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Light Fantastic</title>
+    <meta content="12invis" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/science/12invis.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853908"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Light</classifier>
+        <classifier class="online_producer" type="descriptor">Physics</classifier>
+        <classifier class="online_producer" type="descriptor">Microwaves</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Microwaves</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1DC173FF931A25755C0A9619C8B63" item-length="1814" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Light Fantastic</hl1>
+        <hl2 class="online_headline">Light Fantastic: Flirting With Invisibility</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Increasingly, physicists are constructing materials that bend light the ''wrong'' way, an optical trick that could lead to sharper-than-ever lenses or maybe even make objects disappear.</p>
+        <p>Last October, scientists at Duke demonstrated a working cloaking device, hiding whatever was placed inside, although it worked only for microwaves.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Physicists are constructing materials that bend light the “wrong” way, an optical trick that could lead to sharper-than-ever lenses or even make objects disappear.</p>
+      </block>
+      <block class="full_text">
+        <p>Increasingly, physicists are constructing materials that bend light the ''wrong'' way, an optical trick that could lead to sharper-than-ever lenses or maybe even make objects disappear.</p>
+        <p>Last October, scientists at Duke demonstrated a working cloaking device, hiding whatever was placed inside, although it worked only for microwaves.</p>
+        <p>In the experiment, a beam of microwave light split in two as it flowed around a specially designed cylinder and then almost seamlessly merged back together on the other side. That meant that an object placed inside the cylinder was effectively invisible. No light waves bounced off the object, and someone looking at it would have seen only what was behind it.</p>
+        <p>The cloak was not perfect. An alien with microwave vision would not have seen the object, but might have noticed something odd. ''You'd see a darkened spot,'' said David R. Smith, a professor of electrical and computer engineering at Duke. ''You'd see some distortion, and you'd see some shadowing, and you would see some reflection.''</p>
+        <p>A much greater limitation was that this particular cloak worked for just one particular ''color,'' or wavelength, of microwave light, limiting its usefulness as a hiding place. Making a cloak that works at the much shorter wavelengths of visible light or one that works over a wide range of colors is an even harder, perhaps impossible, task.</p>
+        <p>Nonetheless, the demonstration showed the newfound ability of scientists to manipulate light through structures they call ''metamaterials.''</p>
+        <p>Obviously the military would be interested in any material that could be used to hide vehicles or other equipment. But such materials could also be useful in new types of microscopes and antennae. So far, scientists have written down the underlying equations, performed computer simulations and conducted some proof-of-principle experiments like the one at Duke. They still need to determine the practical limitations of how far they can bend light to their will.</p>
+        <p>The method is not magic, nor are the materials novel. Physicists are taking ordinary substances like fiberglass and copper to build metamaterials that look like mosaics of repeating tiles. The metamaterials interact with the electric and magnetic fields in light waves, manipulating a quantity known as the index of refraction to bend the light in a way that no natural material does.</p>
+        <p>''There are some things that chemistry can't do on its own,'' said John B. Pendry, a physicist at Imperial College London. ''The additional design flexibility with introducing structure as well as chemistry into the equation enables you to reach properties that just haven't been accessible before.''</p>
+        <p>When a ray of light crosses a boundary from air to water, glass or other transparent material, it bends, and the degree of bending is determined by the index of refraction.</p>
+        <p>Air has an index of 1. Water's index of refraction is about 1.3. That is why rippling water waves distort the view of a pond bottom, for instance. It is refraction that makes a straw in a glass of water look as if it is bending toward the surface, and fish swimming in a pond look closer to the surface than they really are.</p>
+        <p>Diamonds have a refractive index of 2.4, giving them their sparkling beauty.</p>
+        <p>For visible light, transparent materials like glass, water and diamonds all have an index of 1 or higher, meaning that when the light enters, its path bends inward, closer to the perpendicular. Because the index is uniform throughout a material, the bending occurs only as the light crosses a boundary.</p>
+        <p>But with metamaterials, scientists can now also create indexes of refraction from 0 to 1. In the Duke cloaking device, the index actually varies smoothly from 0, at the inside surface of the cylinder, to 1, at the outside surface. That causes the path of light to curve not just at the boundaries, but also as it passes through the metamaterial.</p>
+        <p>Metamaterials first took center stage in a scientific spat a few years ago over a startling claim that the index of refraction could be not just less than 1, but also negative, less than 0. Light entering such a material would take a sharp turn, almost as if it had bounced off an invisible mirror as it crossed the boundary.</p>
+        <p>The refractive index depends on the response of a material to electric and magnetic fields. Typically within a material, electrons flow in a way to minimize the effects of an external electric field, producing an internal electrical field in the opposite direction. But that is not universally true. For some metals like silver, an oscillating electric field induces a field in the same, not opposite, direction.</p>
+        <p>Victor G. Veselago, a Russian physicist, realized in the 1960s that if it were possible to find a material that responded in a contrarian way not just to electric fields and but also magnetic fields, a result would be a negative index of refraction.</p>
+        <p>Dr. Pendry was among the first to start making metamaterials in the late '90s, building a structure of thin wires that responded to electrical fields in a way opposite most materials. He also designed one that reacted similarly to magnetic fields.</p>
+        <p>Dr. Smith, then at the University of California, San Diego, attended a talk by Dr. Pendry at a conference in 1999. He and his colleagues built the first metamaterial to combine electric and magnetic behavior.</p>
+        <p>The journal Physical Review Letters rejected his scientific paper describing the experiment, considering it simplistic and uninteresting. Only then did Dr. Smith come upon Dr. Veselago's work on negative refraction and the larger implications of the experiment. ''We had it, but we didn't realize it,'' said Dr. Smith, who is now at Duke. ''Then I rewrote the abstract, and it was accepted.''</p>
+        <p>That set off a contentious back and forth that lasted several years between researchers who made and measured negative-refraction metamaterials and those who said that the experiments showed nothing of the sort, that negative refraction was at best an illusion and violated the laws of physics.</p>
+        <p>Part of the difficulty in resolving the controversy was that the negative refraction experiments were at microwave wavelengths. Designing metamaterials for shorter wavelengths and higher frequencies like visible light is more difficult, because fewer materials are transparent at the higher frequencies.</p>
+        <p>''Just look around the room,'' Dr. Pendry said. ''How many things can you see through? Not many. You're running out of road.''</p>
+        <p>This year, researchers at the Ames Laboratory in Iowa and Karlsruhe University in Germany reported making a metamaterial that had a negative index of refraction for a visible wavelength.</p>
+        <p>Some critics remain unmollified. Nicolás García of the Spanish National Research Council still calls Dr. Pendry's statements on negative refraction ''propaganda.'' But today, most physicists accept the negative refraction interpretation.</p>
+        <p>The debate did highlight limits of metamaterials. They are dispersive, meaning the angle of refraction depends very sensitively on the frequency of light, and they are lossy, meaning that they absorb energy from the light as it passes through.</p>
+        <p>Nonetheless, Dr. Pendry has proposed that negative refraction materials can be used to make a ''superlens'' because they sidestep a process called diffraction that blurs images taken via conventional optics.</p>
+        <p>Researchers led by Xiang Zhang, a professor at the University of California, Berkeley, have demonstrated that a thin, flat piece of silver can indeed produce such images, able to resolve two thin lines separated by 70 billionths of a meter.</p>
+        <p>''You put your object on one side and your image will be projected on the other side,'' Dr. Zhang said.</p>
+        <p>The superlens can also preserve detail lost in conventional optics. Light is usually thought of as having undulating waves. But much closer up, light is a much more jumbled mess, with the waves mixed in with more complicated ''evanescent waves.''</p>
+        <p>The evanescent waves quickly dissipate as they travel, and thus are usually not seen. A negative refraction lens actually amplified the evanescent waves, Dr. Pendry calculated, and that effect was demonstrated by Dr. Zhang's experiment. A negative refraction could someday lead to an optical microscope that could make out tiny biological structures like individual viruses.</p>
+        <p>The main limit now is that an object has to be placed very close to the lens, within a fraction of a wavelength of light.</p>
+        <p>Another possible use would be for a DVD-type recorder. The finer focus could allow more data like high-definition movies to be packed in the same space, perhaps the entire Library of Congress on a platter the size of today's DVD, Dr. Zhang said.</p>
+        <p>The metamaterials researchers also look for new problems to solve. ''Now it's sort of fired up our imaginations to do this cloaking thing,'' Dr. Pendry said, ''because we realized we could actually make one using these materials.''</p>
+        <p>In May 2006, Dr. Pendry and Dr. Smith proposed a design that would cloak a single microwave frequency. By October, Dr. Smith's group at Duke demonstrated a working version, although simplified and imperfect. Dr. Smith's microwave design cannot be adapted to visible light, because the energy absorption problem becomes too great.</p>
+        <p>This year, Vladimir M. Shalaev of Purdue displayed a different design, avoiding the absorption problem. He said it would cloak visible light, albeit just a single wavelength at a time. ''We can make our cloak for any of these colors but not for all of them simultaneously,'' Dr. Shalaev said. ''At least, it starts looking like it's doable.''</p>
+        <p>He said he hoped to build the design, which requires tiny rods arrayed around a cylinder, in a few years. Metamaterials could also be used for other novel devices. Dr. Shalaev suggested an ''anticloak'' that would trap light of a certain wavelength. ''That could be used as a sensing device,'' he said.</p>
+        <p>Whether the cloak could be made big enough to cover a teenage wizard or an alien spaceship is another question. ''I'm fairly pessimistic knowing what I know now,'' Dr. Smith said.</p>
+        <p>Dr. Shalaev said it would be a challenge. ''I don't know,'' he said. ''We hope it is possible.''</p>
+        <p>The Irresistible Fantasy of the Invisible Man, and Machine  Humans have always dreamed of invisibility. Perseus, in Greek mythology, had a cap to make him disappear. Leprechauns and other magical creatures did it on their own.</p>
+        <p>In more recent times, invisibility has been a theme in fiction from H. G. Wells to Harry Potter. In ''The Invisible Man,'' Wells had a scientist change the refractive index of his own body. In Harry Potter, a cloak does the trick. In ''The Lord of the Rings,'' it is, of course, a ring that makes the wearer vanish, with some rather unpleasant side effects.</p>
+        <p>Both Wonder Woman and the Romulans of ''Star Trek'' managed to make their flying craft invisible, and in the movie ''Predator'' an alien hunter used high technology to cloak itself, while Arnold Schwarzenegger, prey for once, went low-tech. He used cold mud to mask his body heat, making himself invisible to the alien in the infrared spectrum.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

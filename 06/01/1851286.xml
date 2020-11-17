@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Witness Protection</title>
+    <meta content="01fri3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/opinion/01fri3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851286"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Whosarat.com (Web site)</classifier>
+        <classifier class="indexing_service" type="descriptor">Witnesses</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <org class="online_producer">Justice Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D91530F932A35755C0A9619C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Witness Protection</hl1>
+        <hl2 class="online_headline">Witness Protection</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial opposes Justice Dept efforts to have federal courts scale down public access to electronic court files; says it would be mistake to overreact to Web site whosarat.com, which claims to provide information on witnesses cooperating with government; holds that solution lies in greater protection of witnesses and addressing adversarial relationship between law enforcement and citizens, particularly young black and Hispanic men</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A catalog of cooperating witnesses in criminal cases is probably not what Internet pioneers had in mind when they touted the Web's potential. But like bomb-making instructional videos on jihadi sites, it is the unfortunate reality.</p>
+        <p>The Web site whosarat.com claims to provide information on witnesses cooperating with the government. As Adam Liptak reported in The Times recently, the site says it has identified some 4,300 informers and another 400 undercover agents, complete with photos and court documents.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Where the life of the witness may be in jeopardy, courts should consider scaling back on public access to electronic court files.</p>
+      </block>
+      <block class="full_text">
+        <p>A catalog of cooperating witnesses in criminal cases is probably not what Internet pioneers had in mind when they touted the Web's potential. But like bomb-making instructional videos on jihadi sites, it is the unfortunate reality.</p>
+        <p>The Web site whosarat.com claims to provide information on witnesses cooperating with the government. As Adam Liptak reported in The Times recently, the site says it has identified some 4,300 informers and another 400 undercover agents, complete with photos and court documents.</p>
+        <p>The Justice Department is concerned that the site is enabling witness harassment and is asking federal courts to scale back on public access to electronic court files. We believe that transparency is essential to a fair judicial system and it would be a mistake to overreact to one odious Web site by pulling down plea agreements from the Internet wholesale. But whosarat.com should serve notice that a different level of caution may be necessary in the wired age. In selective cases, where the life of the witness may be in jeopardy, courts should consider not putting the documents online.</p>
+        <p>For all the high-tech gizmos favored by television crime shows like ''CSI,'' the eyewitness remains essential to police work and prosecutions. It is discouraging to see citizens cooperating with the government for the sake of public safety denigrated as rats and tattletales, threatened and sometimes killed as part of the discouragingly persistent ''stop snitching'' movement popularized in hip-hop culture through songs, videos and T-shirts.</p>
+        <p>Too often, stony silence greets investigators, even those trying to solve murders. In Baltimore, gang members were sentenced last year for firebombing the house of an activist who told the police about neighborhood drug deals. Combating the growing culture of fear will require a greater emphasis on the physical protection of witnesses.</p>
+        <p>Everyone from police to politicians would do well to remember that the Web site and the ''stop snitching'' wave are symptoms of a deeper breakdown. Racial profiling, sentencing disparities for crack and powdered cocaine and aggressive stops and searches in certain neighborhoods have fed a deep sense of persecution -- particularly among young black and Hispanic men -- and a dangerously adversarial relationship with law enforcement. Until that relationship is healed, cooperation will continue to suffer, as will the communities themselves.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

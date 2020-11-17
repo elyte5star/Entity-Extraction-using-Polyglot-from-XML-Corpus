@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Motion Picture Academy Seeks Fresh Faces</title>
+    <meta content="19arts-007" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855519"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ARTS, BRIEFLY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5DF133FF93AA25755C0A9619C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Motion Picture Academy Seeks Fresh Faces</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL CIEPLY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Academy of Motion Picture Arts and Sciences opened its rolls slightly yesterday, extending invitations to 115 prospective members. The additions would bring the film academy's voting membership to just under 6,000, and fell short of the maximum of 150 new members authorized by academy rules for the year. Among actors 16 invitees include Jennifer Aniston,Steve Carell, Daniel Craig and Christopher Plummer. Six directors invited to join included Peter Berg, Antoine Fuqua and Paul Greengrass.</p>
+      </block>
+      <block class="full_text">
+        <p>The Academy of Motion Picture Arts and Sciences opened its rolls slightly yesterday, extending invitations to 115 prospective members. The additions would bring the film academy's voting membership to just under 6,000, and fell short of the maximum of 150 new members authorized by academy rules for the year. Among actors 16 invitees include Jennifer Aniston,Steve Carell, Daniel Craig and Christopher Plummer. Six directors invited to join included Peter Berg, Antoine Fuqua and Paul Greengrass.</p>
+        <p>ARTS, BRIEFLY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

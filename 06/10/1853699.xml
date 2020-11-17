@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Door Key That Can't Be Misplaced</title>
+    <meta content="10novel" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10novel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853699"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NOVELTIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="descriptor">Locks and Keys</classifier>
+        <classifier class="online_producer" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Locks and Keys</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <org class="online_producer">Black &amp; Decker Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFD61F30F933A25755C0A9619C8B63" item-length="1116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Door Key That Can't Be Misplaced</hl1>
+        <hl2 class="online_headline">The Door Key That Can’t Be Misplaced</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT'S a common juggling act on the doorstep: rummaging for the house keys with one hand while balancing a bag of groceries with the other. Now a manufacturer is aiming to streamline household entry with a deadbolt lock that reduces the need to fish for keys. Instead, the lock opens with the swipe of a finger.</p>
+        <p>The lock is a scanner that stores the fingerprints of authorized users. If your print matches the stored ones, the bolt slides open smartly with a crisp, satisfying clack, welcoming you home the biometric way.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A manufacturer is reducing the need to fish for keys with a deadbolt lock that opens with the swipe of a finger.</p>
+      </block>
+      <block class="full_text">
+        <p>IT'S a common juggling act on the doorstep: rummaging for the house keys with one hand while balancing a bag of groceries with the other. Now a manufacturer is aiming to streamline household entry with a deadbolt lock that reduces the need to fish for keys. Instead, the lock opens with the swipe of a finger.</p>
+        <p>The lock is a scanner that stores the fingerprints of authorized users. If your print matches the stored ones, the bolt slides open smartly with a crisp, satisfying clack, welcoming you home the biometric way.</p>
+        <p>The lock looks nothing like the bulky commercial scanners that read entry cards in building lobbies. It is small, close to the size of a standard lock, and comes in upscale finishes like antique bronze and silvery nickel, suitable for home décor. The sensor is hidden in a teardrop-shaped overhang below the keyhole.</p>
+        <p>The lock, called SmartScan, is made by Kwikset of Lake Forest, Calif. ($199). The device is powered by four AA batteries and requires no wiring. It works by emitting radio waves that detect distances between the ridges and valleys of a finger just below the surface of the skin, said Michael Maridakis, the chief electronic engineer for the hardware and home improvement group of Black &amp; Decker, which owns the Kwikset brand.</p>
+        <p>Because the scanner reads subdermally, it is not affected by dirt or oil on the fingertips. ''It will even work for fingers that have minor cuts and scratches,'' Mr. Maridakis said.</p>
+        <p>He said the lock's batteries would last about a year if you used it about 20 times a day. The deadbolt also works with standard keys that accompany it.</p>
+        <p>The SmartScan can also be programmed to grant temporary access -- for someone to enter your home from 8 to 10 a.m. on a particular day, for instance, to take the dog for a walk. The lock holds about 50 different fingerprints.</p>
+        <p>Before installing the lock, I looked into the security of biometric locks, especially after reading about the research of Stephanie Schuckers, an associate professor of electrical and computer engineering at Clarkson University in Potsdam, N.Y. She has fooled other biometric locks with devices like fake fingers made from Play-Doh and gelatin. An episode of the television show ''MythBusters,'' too, showed ways to get past other biometric locks.</p>
+        <p>Professor Schuckers, it turns out, is not worried about the security of residential biometric fingerprint locks. ''The risk is no greater than someone taking your keys and making a copy,'' she said. ''In fact, it's a lot harder to fool the system with a fake finger.''</p>
+        <p>Over all, she said, biometric locks tend to improve residential security. ''Keys get lost, but you always have your fingerprint with you,'' she said.</p>
+        <p>Bruce Schneier, founder and chief technical officer of the security company BT Counterpane in Mountain View, Calif., says that while biometric locks may not be appropriate for guarding Air Force One, they are suitable for use in homes.</p>
+        <p>''Honestly, who's going to get a photo of your fingerprint to trick the scanner?'' he said. ''If I had a photo of your key, I could fool your lock. I can also get a rock and throw it in your window.''</p>
+        <p>Biometric door locks have an advantage, he said, because they store information locally, not centrally, where it might be hacked. ''The fingerprint reader says, 'Yes, it's you,' '' he said, just as other such readers can do for applications like authorizing owners of cellphones and computers. ''It's a great idea,'' he said. ''I'm amazed there aren't more of them.''</p>
+        <p>Reassured, I did a test run. A friend set up the lock in a room inside my house, taking out the existing door knobs and latch, sliding the new deadbolt into the hole and screwing in the housing for the biometric controls. The process took about 20 minutes.</p>
+        <p>From the outside, the deadbolt looked much like any other, except for the overhang below the keyhole. The assembly on the back of the door, though, was different: it held the four batteries, an L.C.D. display screen and a keypad used to program the lock.</p>
+        <p>After the deadbolt direction was set, using the keypad and following the instructions on the L.C.D. screen, I ''enrolled'' my fingerprint by swiping it three times across the sensor. Once registered, I opened and closed the bolt several times successfully. (To close the lock, you tap the sensor three times.) Pleased with my quick progress, I went to bed.</p>
+        <p>Pride goeth before a fall. When I returned the next morning, my memory of the exact motions I'd used to open the door had evaporated. I swiped and swiped, but the door wouldn't budge. Many speeds and angles can be used in swiping a finger, I gradually realized, and I could no longer recapture the technique I'd used the night before.</p>
+        <p>Humbled, I started from scratch, but this time I paid close attention to the positioning of my swipe, and followed the advice of the instructions and frequently asked questions in the manual: I placed my thumb on the cylinder as a pivot to control speed and angle, and noted where my thumb was. I put the first joint of my finger under the teardrop, and noticed where that first joint was (facing up).</p>
+        <p>Once I had recorded the first fingerprint, I enrolled the same finger again so the scanner would have a choice. I also lowered the default ''high'' security setting, which requires 20 matching points in the fingerprints, to ''normal,'' which requires 15.</p>
+        <p>Then I tried again, and all entries and exits proceeded smoothly.</p>
+        <p>My difficulties were not surprising, said Professor Schuckers, who says that biometric devices, like any other new technology, require training. ''You have to learn how to run the lock just as you had to learn how to run your cellphone,'' she said. Standard locks are easy to use because people have already put in time to learn them. ''We are all trained how to use keys, from when we are young,'' she said.</p>
+        <p>IT has been two weeks since my lock was installed, and it continues to work, although I worry that I will lose my touch, like a shortstop who can no longer throw reliably to first base, or the person who's swiped an I.D. or subway card through a turnstile for years, but suddenly faces a ''please swipe again'' display.</p>
+        <p>So far, though, the only problem is that the lock occasionally won't close when I tap it. When that happens, I wiggle the mechanism a few times and start again, and all is well. That tip, by the way, is also in the frequently asked questions, which I now read respectfully.</p>
+        <p>NOVELTIES E-mail: novelties@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: novelties@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

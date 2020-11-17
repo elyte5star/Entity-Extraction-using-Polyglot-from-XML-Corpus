@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Felicia Feinerman, Elliott Einhorn</title>
+    <meta content="10feinerman" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853643"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Feinerman, Felicia Beth (Felicia Beth Einhorn)</person>
+        <person class="indexing_service">Einhorn, Elliott Howard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E6D61F30F933A25755C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Felicia Feinerman, Elliott Einhorn</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Felicia Beth Feinerman, the daughter of Peppi and Melvin Feinerman of Hollis, Queens, was married last evening to Elliott Howard Einhorn, a son of Barbara and Martin Einhorn of Bayside, Queens. Rabbi Michael Ehrlich officiated at the Riviera, an event space in Massapequa, N.Y.</p>
+        <p>Mrs. Einhorn, 25, is the director of intergovernmental affairs for Scott M. Stringer, the Manhattan borough president. In August, she is to become a first-year law student at St. John's University. She graduated cum laude from Syracuse University.</p>
+      </block>
+      <block class="full_text">
+        <p>Felicia Beth Feinerman, the daughter of Peppi and Melvin Feinerman of Hollis, Queens, was married last evening to Elliott Howard Einhorn, a son of Barbara and Martin Einhorn of Bayside, Queens. Rabbi Michael Ehrlich officiated at the Riviera, an event space in Massapequa, N.Y.</p>
+        <p>Mrs. Einhorn, 25, is the director of intergovernmental affairs for Scott M. Stringer, the Manhattan borough president. In August, she is to become a first-year law student at St. John's University. She graduated cum laude from Syracuse University.</p>
+        <p>Her father, who is retired, was a delicatessen clerk at Waldbaum's supermarket in Garden City, N.Y. Her mother is a clerk at the New York City Human Resources Administration in Jamaica, Queens.</p>
+        <p>Mr. Einhorn, 26, is a software systems computer engineer for Goldman Sachs in Manhattan. He graduated from Carnegie Mellon, from which he received two bachelor's degrees, one in computer science and another in business administration. In September, he is to begin studying for an M.B.A. degree at New York University.</p>
+        <p>His mother, who is retired, was a guidance counselor at Bayside High School. His father, also retired, was an actuary at the New York City Office of the Actuary in Manhattan.</p>
+        <p>The bride and bridegroom met in fifth grade at P.S. 221 in Little Neck, Queens.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

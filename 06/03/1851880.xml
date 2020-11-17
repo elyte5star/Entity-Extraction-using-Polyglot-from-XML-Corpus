@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aimee Bartol, Jacob Zissu</title>
+    <meta content="03bartol" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03bartol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851880"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bartol, Aimee Elizabeth</person>
+        <person class="indexing_service">Zissu, Jacob Royal</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5DA1230F930A35755C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aimee Bartol, Jacob Zissu</hl1>
+        <hl2 class="online_headline">Aimee Bartol, Jacob Zissu</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aimee Elizabeth Bartol, a daughter of Christine Bartol and Ernest T. Bartol of Syosset, N.Y., was married on Monday to Jacob Royal Zissu, the son of Patricia J. Murphy of New York and Michael J. Zissu of Largo, Fla. C. Raymond Radigan, a retired judge of the Surrogate's Court of Nassau County, in Mineola, N.Y., officiated at the Woodbury Country Club in Woodbury, N.Y.</p>
+        <p>The bride, 34, will continue to use her name professionally. She is the senior copy editor at Esquire magazine in New York. She graduated from Boston University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Aimee Elizabeth Bartol, a daughter of Christine Bartol and Ernest T. Bartol of Syosset, N.Y., was married on Monday to Jacob Royal Zissu, the son of Patricia J. Murphy of New York and Michael J. Zissu of Largo, Fla. C. Raymond Radigan, a retired judge of the Surrogate’s Court of Nassau County, in Mineola, N.Y., officiated at the Woodbury Country Club in Woodbury, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Aimee Elizabeth Bartol, a daughter of Christine Bartol and Ernest T. Bartol of Syosset, N.Y., was married on Monday to Jacob Royal Zissu, the son of Patricia J. Murphy of New York and Michael J. Zissu of Largo, Fla. C. Raymond Radigan, a retired judge of the Surrogate's Court of Nassau County, in Mineola, N.Y., officiated at the Woodbury Country Club in Woodbury, N.Y.</p>
+        <p>The bride, 34, will continue to use her name professionally. She is the senior copy editor at Esquire magazine in New York. She graduated from Boston University.</p>
+        <p>Her father is a partner in Murphy, Bartol &amp; O'Brien, a law firm in Mineola. Her mother is a director of senior citizens affairs for the town of Oyster Bay, N.Y.</p>
+        <p>Mr. Zissu, 33, is an associate in the New York office of Clausen Miller, a Chicago law firm. He graduated from the United States Naval Academy and received a law degree from Catholic University. From 1992 to 2007, he served in the Navy, attaining the rank of lieutenant commander and serving as a strategic planner at the Pentagon in the Office of the Chief of Naval Operations.</p>
+        <p>His mother is a partner in Murphy &amp; Zissu, a law firm in New York; his father retired as a partner in the firm.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

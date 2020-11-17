@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>School Is Emptied After Explosives Are Found in Lockers</title>
+    <meta content="14evacuate" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14evacuate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854425"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6D8143FF937A25755C0A9619C8B63" item-length="427" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>School Is Emptied After Explosives Are Found in Lockers</hl1>
+        <hl2 class="online_headline">Explosives Are Found in Lockers in New Jersey School</hl2>
+      </hedline>
+      <byline class="print_byline">By NATE SCHWEBER</byline>
+      <dateline>WAYNE, N.J., June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A high school was evacuated here during the last full day of classes after a total of 16 gunpowder-filled devices with fuses were found in two lockers on Wednesday morning, officials said.</p>
+        <p>The 1,400 students from the school, Wayne Valley High School, were moved to the football field bleachers and then off school grounds to Calvary Temple, about a block away. Local law enforcement officials searched the students in the church and then released them, officials said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A bomb squad defused 16 gunpowder-filled devices at Wayne Valley High School after 1,400 students were removed from the bulding.</p>
+      </block>
+      <block class="full_text">
+        <p>A high school was evacuated here during the last full day of classes after a total of 16 gunpowder-filled devices with fuses were found in two lockers on Wednesday morning, officials said.</p>
+        <p>The 1,400 students from the school, Wayne Valley High School, were moved to the football field bleachers and then off school grounds to Calvary Temple, about a block away. Local law enforcement officials searched the students in the church and then released them, officials said.</p>
+        <p>The devices, which were found in two lockers on the second floor of the two-story building, were about six inches long and shaped like ''ministicks of dynamite,'' said Donald Stouthamer, the Wayne police chief. Each locker contained eight sticks, which were bundled into groups of four and attached to a fuse that would burn about six minutes, he said.</p>
+        <p>A bomb squad robot removed the devices, said Jerry Speziale, the Passaic County sheriff. When the ''pyrotechnic devices'' were ignited at the county bomb pit on nearby Garrett Mountain, they produced ''a large fire and a large amount of smoke,'' he said.</p>
+        <p>''The smoke would've overtaken the entire top floor of Wayne Valley High School,'' he said.</p>
+        <p>Sheriff's officials also found a backpack filled with ''regular fireworks'' on the school's first floor, though it is unclear whether it is related, Mr. Speziale said.</p>
+        <p>The sheriff's department searched the school grounds throughout the afternoon and said it was safe for the students to return on Thursday.</p>
+        <p>James Avigliano, the Passaic County prosecutor, said that there were no suspects but that several people were being interviewed.</p>
+        <p>He added that he contacted each police chief in the county and organized a check of every high school to ''make sure this isn't repeated.''</p>
+        <p>School officials learned of the devices around 9:20 a.m. after being alerted by a student. When he passed his old locker, which he had emptied and cleaned a week ago, he noticed that it was padlocked and that a shoelace-like fuse was sticking out. School officials then found a fuse hanging from another locker 20 feet away. The officials then pulled the fire alarm and called the police.</p>
+        <p>When the evacuation occurred, said Jared Pottruck, 17, a junior, he feared there was a national disaster because the only other time he had been evacuated from school was Sept. 11, 2001. His mother, Ruth Pottruck, 53, said that when she learned of the evacuation, she feared there was a gunman inside.</p>
+        <p>Maria Nuccetelli, the outgoing superintendent of Wayne schools, said the school would be open Thursday morning for final exams.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books Worth a Spot On a Car Buff's Shelf</title>
+    <meta content="03SIAN" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851823"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E0DB1530F930A35755C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books Worth a Spot On a Car Buff's Shelf</hl1>
+      </hedline>
+      <byline class="print_byline">By JOSEPH SIANO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Classic Era  By Beverly Rae Kimes  Illustrated. 720 pages. Classic Car Club of America, 2001.</p>
+        <p>The author presents a detailed year-by-year rundown of the American and European auto industry from 1925 through 1948, but don't expect any mention of plebeian Chevrolets, Fords or Dodges. As the title implies, this is a chronicle of the kings (and princes) of the road -- the higher-priced brands like Stutz, Cord, Auburn and Rolls-Royce (particularly the cars from the American factory in Springfield, Mass.).</p>
+      </block>
+      <block class="full_text">
+        <p>The Classic Era  By Beverly Rae Kimes  Illustrated. 720 pages. Classic Car Club of America, 2001.</p>
+        <p>The author presents a detailed year-by-year rundown of the American and European auto industry from 1925 through 1948, but don't expect any mention of plebeian Chevrolets, Fords or Dodges. As the title implies, this is a chronicle of the kings (and princes) of the road -- the higher-priced brands like Stutz, Cord, Auburn and Rolls-Royce (particularly the cars from the American factory in Springfield, Mass.).</p>
+        <p>Each chapter is a thorough almanac of the year's activities, including executive shuffling; a necrology of the marques that went under; and the latest engineering breakthroughs. Ms. Kimes is a facile writer, so the wheels never become mired. Besides, there are plenty of photos to linger over.</p>
+        <p>Not that there is any reason to hurry to the end of this book: we all know who's left standing, for example, in the Packard-Cadillac showdown. And the palette of body colors forced a buyer to choose among whimsically named shades like Fenimore and Laurel (two greens) or Yedaz (tan). Even then, luxury had its price.</p>
+        <p>JOSEPH SIANO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

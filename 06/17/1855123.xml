@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Maggie Hymowitz, Scott Sequeira</title>
+    <meta content="17hymowitz" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855123"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Hymowitz, Dr. Maggie Blair</person>
+        <person class="indexing_service">Sequeira, Dr. Scott James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EEDB153FF934A25755C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Maggie Hymowitz, Scott Sequeira</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Maggie Blair Hymowitz and Dr. Scott James Sequeira were married last evening at the Rosecliff mansion in Newport, R.I. Anne M. Collins, a former clerk of the Newport County Superior Court, officiated.</p>
+        <p>The bride, 29, will continue to use her name professionally. She will begin her residency in ophthalmology at Montefiore Medical Center in the Bronx in July. She graduated cum laude from the University of Pennsylvania and received her medical degree from Boston University. She is a daughter of Harriet Ellen Hymowitz and Dr. Samuel S. Hymowitz of Manhasset, N.Y. Her father, a periodontist, works at Richmond Hill Dental Associates in Richmond Hill, Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Maggie Blair Hymowitz and Dr. Scott James Sequeira were married last evening at the Rosecliff mansion in Newport, R.I. Anne M. Collins, a former clerk of the Newport County Superior Court, officiated.</p>
+        <p>The bride, 29, will continue to use her name professionally. She will begin her residency in ophthalmology at Montefiore Medical Center in the Bronx in July. She graduated cum laude from the University of Pennsylvania and received her medical degree from Boston University. She is a daughter of Harriet Ellen Hymowitz and Dr. Samuel S. Hymowitz of Manhasset, N.Y. Her father, a periodontist, works at Richmond Hill Dental Associates in Richmond Hill, Queens.</p>
+        <p>The bridegroom, 27, is a general surgery resident at Stony Brook University Medical Center in Stony Brook, N.Y. He graduated magna cum laude from Providence College and received his medical degree from Boston University.</p>
+        <p>He is the son of Mariana R. Sequeira and James J. Sequeira of Bristol, R.I. His mother is a senior vice president in Providence of the Private Bank of Bank of America, where she manages private client accounts. The bridegroom's father is the vice president of Gardiner Whiteley Boardman Insurance Agency in Pawtucket, R.I., and serves on the board of directors at the Quincy Mutual Fire Insurance Company in Quincy, Mass.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

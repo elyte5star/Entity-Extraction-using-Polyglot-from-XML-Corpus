@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Erick Swenson</title>
+    <meta content="15gall-6" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854667"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDC153FF936A25755C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Erick Swenson</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>James Cohan Gallery  533 West 26th Street, Chelsea  Through June 30</p>
+        <p>Erick Swenson has created an Arctic diorama (featuring a whale carcass) that instead of simply referring to natural-history museum displays could actually be one. His installations are made from resin, sculptured and painted to look real. But in the past the subject matter has usually leaned toward the fantastic. There was ''Edgar,'' for example, a mythic beast that resembles a long-haired deer with a poodle's haircut, and his 2004 Whitney Biennial contribution, a young snow-white deer scratching its horns on an Oriental carpet.</p>
+      </block>
+      <block class="full_text">
+        <p>James Cohan Gallery  533 West 26th Street, Chelsea  Through June 30</p>
+        <p>Erick Swenson has created an Arctic diorama (featuring a whale carcass) that instead of simply referring to natural-history museum displays could actually be one. His installations are made from resin, sculptured and painted to look real. But in the past the subject matter has usually leaned toward the fantastic. There was ''Edgar,'' for example, a mythic beast that resembles a long-haired deer with a poodle's haircut, and his 2004 Whitney Biennial contribution, a young snow-white deer scratching its horns on an Oriental carpet.</p>
+        <p>But this show more wholeheartedly embraces verisimilitude, putting Mr. Swenson in the company of artists like Michael Joo and Damien Hirst. A rectangular, elevated pool filled with ice chunks and lusciously frigid-blue water takes up most of the gallery's main space. On top of the ice lies a jaw, teeth intact, attached to a scrap of pallid, blubbery skin.</p>
+        <p>The gallery's news release says the jaw came from a killer whale, but compared with the iceberg, it looks like a film prop. This didn't stop me from wondering, however, if the whale had died of age or disease, or been killed by a predator, human or animal.</p>
+        <p>Mr. Swenson's naturalistic but nonetheless fictive scene demonstrates that the divide between art and science can be small, while also suggesting that nature is far enough removed from the everyday that you can be sure that you will recognize it when you see it.</p>
+        <p>BRIDGET L. GOODBODY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

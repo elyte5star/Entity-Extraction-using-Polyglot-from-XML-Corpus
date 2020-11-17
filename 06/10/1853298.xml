@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Health Costs: Symptom or Disease?</title>
+    <meta content="l10health" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE2DD163FF933A25755C0A9619C8B63" item-length="575" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Health Costs: Symptom or Disease?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Health Care as if Costs Didn't Matter,'' by David Leonhardt (Economix column, June 6), focuses on the core issues of cost control in our current system.</p>
+        <p>The biggest problems are unproven and unnecessary procedures that require hospital services with high reimbursement, as well as expensive new drugs that have no advantage over generics or existing brand drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Health Care as if Costs Didn't Matter,'' by David Leonhardt (Economix column, June 6), focuses on the core issues of cost control in our current system.</p>
+        <p>The biggest problems are unproven and unnecessary procedures that require hospital services with high reimbursement, as well as expensive new drugs that have no advantage over generics or existing brand drugs.</p>
+        <p>Basic universal health care must exclude certain expensive drugs and procedures that are not proved to be superior. An impartial specialist consultant would need the power to deny coverage.</p>
+        <p>Unfortunately, politicians have offered few specific remedies, focusing instead, as Mr. Leonhardt points out, on information technology. Computerizing medical records has value, but it won't reduce costs.</p>
+        <p>Gottfried K. Spring, M.D.  Cleveland, June 6, 2007</p>
+        <p>To the Editor:</p>
+        <p>Ah, but the 50 million Americans who lack health insurance do, in fact, contribute to the rising cost of health insurance.</p>
+        <p>They receive most of their care at expensive emergency rooms. The institutions, overwhelmed by the volume of uncompensated care, shift the costs to the insurance companies, which in turn increase premiums, co-payments and deductibles.</p>
+        <p>As these costs increase, businesses as well as individuals are priced out of the system, creating more uninsured to go to emergency rooms.</p>
+        <p>The only solution is a single-payer system that is equivalent to Medicare for all.</p>
+        <p>Donald L. Rucknagel, M.D.  Cincinnati, June 6, 2007</p>
+        <p>To the Editor:</p>
+        <p>Instead of focusing on denying care when patients are already sick, why not improve preventive care?</p>
+        <p>Preventive care is usually far less expensive than treating a full-blown injury or disease. In the case of back pain, losing weight and lifting heavy objects correctly would likely reduce a patient's chance of becoming injured in the first place.</p>
+        <p>Nina Lanza  Albuquerque, June 6, 2007</p>
+        <p>To the Editor:</p>
+        <p>I agree with David Leonhardt (Economix column, June 6) that the lack of insurance is not causing the health care crisis. Rather, it is a symptom, and focusing on it will not solve the problem.</p>
+        <p>When I worked for the California Legislature and drafted universal health insurance legislation (which was passed and then vetoed by the governor), it became clear that ''expensive, medically questionable treatments'' are but one of the underlying problems.</p>
+        <p>Others are unplanned and uncoordinated capital health care expenditures; failure to consolidate purchasing power to lower drug costs; and huge administrative expenses.</p>
+        <p>Would-be reformers, including presidential hopefuls, would be well advised to study those systems that have solved all four health crisis culprits.</p>
+        <p>Judy Spelman  Point Reyes Station, Calif.  June 7, 2007</p>
+        <p>The writer, a nurse, served as health consultant to State Senator Sheila Kuehl.</p>
+        <p>To the Editor:</p>
+        <p>David Leonhardt uses the example of lumbar fusion versus nonsurgical alternatives to argue against coverage of more expensive treatments. This is a convenient example because the success rate of lumbar fusion is so low.</p>
+        <p>What about a patient in chronic pain who has tried all medications except a new, very expensive drug called Actiq? What about a patient with multiple sclerosis whose condition deteriorates quickly unless she is given IVIg, an expensive treatment that some insurers refuse to cover?</p>
+        <p>Should we allow cost to dictate health care decisions when we know that the patient's condition will improve with the more expensive treatment?</p>
+        <p>Jennifer C. Jaff  Farmington, Conn.  June 6, 2007</p>
+        <p>The writer, a lawyer, is the founder of Advocacy for Patients With Chronic Illness.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

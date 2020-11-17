@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ready to Improve Your Game? The Experts Offer Some Advice</title>
+    <meta content="03chess" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/crosswords/chess/03chess.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851975"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CHESS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="descriptor">Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DD1030F930A35755C0A9619C8B63" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ready to Improve Your Game? The Experts Offer Some Advice</hl1>
+        <hl2 class="online_headline">Ready to Improve Your Game? The Experts Offer Some Advice</hl2>
+      </hedline>
+      <byline class="print_byline">By Dylan Loeb McClain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With summer (nearly) here, the time is right for improving your game. While some people catch up on reading, chess players can use the longer days to study and train.</p>
+        <p>Playing is often a good way to improve, said John P. Fedorowicz, a grandmaster and coach. ''When I started, I just played a lot,'' he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With summer (nearly) here, the time is right for improving your game.</p>
+      </block>
+      <block class="full_text">
+        <p>With summer (nearly) here, the time is right for improving your game. While some people catch up on reading, chess players can use the longer days to study and train.</p>
+        <p>Playing is often a good way to improve, said John P. Fedorowicz, a grandmaster and coach. ''When I started, I just played a lot,'' he said.</p>
+        <p>Studying openings is also important, Fedorowicz said, but concentrate on ones that suit your style. ''Are they aggressive players, or are they solid players?'' he said. Fedorowicz said he was always aggressive, so he gravitated toward openings like the Sicilian Defense.</p>
+        <p>Although many coaches suggest working through books with collections of tactical problems, Fedorowicz is not keen on them.</p>
+        <p>Asked which books he would recommend, Fedorowicz first mentioned ones on the endgame, in particular ''Rook Endings,'' by Grigory Levenfish and Vassily Smyslov, and ''Fundamental Chess Endings,'' by Karsten Müller and Frank Lamprecht. He also suggested collections of games by players like Bobby Fischer, Tigran Petrosian and Mikhail Tal. ''You can learn a lot from these great players,'' he said.</p>
+        <p>Danny Kopec, an international master who has written more than 30 books and runs summer chess camps, agreed that game collections were good to study. ''You have to watch the pros,'' he said.</p>
+        <p>Kopec recommended playing in tournaments maybe twice a month, and reviewing those games soon after. ''It is very important to be introspective to look at what you are doing,'' he said.</p>
+        <p>Kopec said people should not play too much rapid chess because ''it is not serious chess.''</p>
+        <p>He said that, excluding his own books, he preferred classics like ''How to Win in the Chess Openings,'' by I. A. Horowitz; ''The Ideas Behind the Chess Openings,'' by Reuben Fine; and ''Point Count Chess,'' by Horowitz and Geoffrey Mott-Smith.</p>
+        <p>Fedorowicz said one of the greatest obstacles was learning the subtleties of strategic, or positional, play. He cited a game he played as a teenager at the Hastings International Chess Congress in 1977, against Roman Dzindzichashvili, a Georgian grandmaster.</p>
+        <p>The opening was a Reti, which can be innocuous and is rarely tactical.</p>
+        <p>Through 11 a3, the position developed slowly, but then Fedorowicz lashed out with 11  b5, creating a backward c pawn that could be a serious strategic weakness.</p>
+        <p>After Dzindzichashvili secured a knight in front of the pawn, Fedorowicz's light-squared bishop was entombed; it was as if he were playing a piece down. From there, Dzindzichashvili unhurriedly improved the placement of his pieces.</p>
+        <p>In the final position, Black must lose material. For example, 28  Be5 29 Qe5 Nf6 30 Re7 Qf5 31 Qa1 Rd8 32 Ne6 fe 33 Bg4 is lights out.</p>
+        <p>After the game, Fedorowicz recalled with a laugh, Dzindzichashvili said, ''You are no positional genius.''</p>
+        <p>CHESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

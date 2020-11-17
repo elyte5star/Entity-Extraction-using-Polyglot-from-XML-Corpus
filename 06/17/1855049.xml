@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Query at School Finds Milk Not Contaminated</title>
+    <meta content="17weekweWC" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/nyregionspecial2/17weekwe.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855049"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="indexing_service" type="descriptor">Dairy Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Bacteria</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Westchester County Airport</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Sirens</classifier>
+        <classifier class="indexing_service" type="descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <location class="indexing_service">Yorktown (NY)</location>
+        <location class="indexing_service">White Plains (NY)</location>
+        <location class="indexing_service">Putnam County (NY)</location>
+        <location class="indexing_service">Rockland County (NY)</location>
+        <location class="indexing_service">Orange County (NY)</location>
+        <location class="indexing_service">Buchanan (NY)</location>
+        <org class="indexing_service">Bravo Brands</org>
+        <org class="indexing_service">Nuclear Regulatory Commission</org>
+        <person class="indexing_service">Whitaker, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Milk</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6D6143FF934A25755C0A9619C8B63" item-length="852" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Query at School Finds Milk Not Contaminated</hl1>
+        <hl2 class="online_headline">The Week in Westchester</hl2>
+      </hedline>
+      <byline class="print_byline">By BARBARA WHITAKER</byline>
+      <byline class="normalized_byline">Whitaker, Barbara</byline>
+      <abstract>
+        <p>The Week column; Westchester County Health Department spokeswoman says fortified milk beverages being tested at middle school in Yorktown did not contain bacteria; says it appears dozens of students who became ill apparently drank too many samples during give-away by Bravo] Brands Inc; AirLink express bus service is scheduled to start between White Plains Transportation Center and Westchester County Airport; Nuclear Regulatory Commission denies Westchester County request that Putnam, Rockland and Orange Counties share $130,000 fine against Indian Point nuclear power plant for failing to install emergency siren system by deadline (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dozens of students at a Yorktown middle school became ill last month apparently because they drank too much flavored milk during a giveaway -- not because the beverages were tainted.</p>
+        <p>Heather McGill, a spokeswoman for the county health department, said the results of chemical analysis and bacteriological tests on samples of the milk all came back normal. ''At this point, we don't have any definitive cause for the illness,'' she said. ''It appears that most likely what happened was a case of overconsumption.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dozens of students at a Yorktown middle school became ill last month apparently because they drank too much flavored milk during a giveaway  not because the beverages were tainted.</p>
+      </block>
+      <block class="full_text">
+        <p>Dozens of students at a Yorktown middle school became ill last month apparently because they drank too much flavored milk during a giveaway -- not because the beverages were tainted.</p>
+        <p>Heather McGill, a spokeswoman for the county health department, said the results of chemical analysis and bacteriological tests on samples of the milk all came back normal. ''At this point, we don't have any definitive cause for the illness,'' she said. ''It appears that most likely what happened was a case of overconsumption.''</p>
+        <p>In some cases, she said, the problem might have been that students drank beverages that were meant as meal replacements, then ate lunch.</p>
+        <p>About 50 sixth and seventh graders at Lakeland-Copper Beech Middle School in the Lakeland Central School District began vomiting or became nauseous after drinking three samples of fortified milk being tested at the school by Bravo! Brands Inc. The beverages were Bravo! Blenders, Slammers and Slim Slammers, and are distributed by Snapple, a division of Cadbury Schweppes Americas Beverages. The district has a contract to buy about $60,000 worth of juice and beverages during the school year from Snapple.</p>
+        <p>School officials said food and beverage samples are sometimes provided to students to determine whether they should be added to a menu or a vending machine. The samples must be approved by the food service manager and given out in small paper cups under school supervision, officials said.</p>
+        <p>Kenneth J. Connolly, the Lakeland superintendent, said at the time of the incident that Bravo! Blenders, a high-protein drink marketed as a meal substitute, was prohibited from being tested. A representative of Bravo! Brands disputed that, saying the school had approved all the sampled beverages provided.</p>
+        <p>Express Bus Service For Airport Set to Start</p>
+        <p>AirLink, or express bus service between the White Plains Transportation Center and the Westchester County Airport, is scheduled to start Monday.</p>
+        <p>Bus schedules will be timed to meet Metro-North trains and will depart about every 30 minutes from 6:35 a.m. to 9:06 p.m. on weekdays. The buses will stop at the Metro-North Railroad station and the White Plains Bus Terminal at the transportation center, then go to the airport; the trip should take about 22 minutes.</p>
+        <p>Buses will leave the airport to return to the center every 30 minutes from 7:36 a.m. to 9:36 p.m. weekdays. The bus will make two stops at the airport, at the north complex parking and employment center and at the passenger terminal.</p>
+        <p>Service on weekends and holidays will be hourly in the mornings and mid-day and every 30 minutes in late afternoon and evenings. The cost of the trip is one ride on a MetroCard(including a transfer) and $1.75 if using change.</p>
+        <p>The service, part of the Bee-Line bus system, was aimed at addressing parking issues at the airport. In the past year, the number of passengers taking off and landing at the airport has doubled, and parking there has been filling up by late morning.</p>
+        <p>''We hope with the start of AirLink, and the other alternatives we've proposed, the parking crunch at the county airport will be reduced,'' the county transportation commissioner, Lawrence C. Salley, said in a statement.</p>
+        <p>He said that daily bus service to Playland Amusement Park in Rye was also scheduled to begin on Monday, and additional weekend bus service in White Plains would begin on Saturday. Buses will run later on Routes 5, 3, 40 and 60 from White Plains.</p>
+        <p>''There are more and more workers and shoppers that we are bringing in to go shopping at the Galleria, the new City Center and the Westchester Mall,'' Richard L. Stiller, director of surface transportation for the county, said in a telephone interview last week. ''They've asked for later service on Saturday and Sunday evenings, and we're responding to those requests.''</p>
+        <p>Request That Four Counties Share Indian Pt. Fine Denied</p>
+        <p>The Nuclear Regulatory Commission has denied a request by county officials that four counties within a 10-mile radius of the Indian Point nuclear power plant share a $130,000 fine against the plant. The plant was fined for failing to install an emergency siren system by an April 15 deadline.</p>
+        <p>In a June 8 letter, Cynthia A. Carpenter, director of the N.R.C.'s Office of Enforcement, said the commission did not have the authority to redirect such funds.</p>
+        <p>The commission fined Entergy Nuclear Northeast, which owns the plant, after it failed to meet the siren deadline; the sirens have been installed since, but they have failed to sound during some tests.</p>
+        <p>The county asked that Westchester, Putnam, Rockland and Orange Counties share the fine so the money could be used for emergency preparedness.</p>
+        <p>Ms. Carpenter said that under federal law -- specifically, the Miscellaneous Receipts Act -- the N.R.C. had no choice but to deposit the money in the United States Treasury.</p>
+        <p>Susan Tolchin, the adviser to Andrew J. Spano, the county executive, said the county would turn to Congressional representatives to see if there was a way to get fines redirected in the future. ''We want to find out exactly what we need to do if this should happen again,'' she said.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

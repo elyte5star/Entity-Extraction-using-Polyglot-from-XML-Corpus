@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Web</title>
+    <meta content="WEB.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851659"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E2DB1730F930A35755C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are Ian McEwan (above), the author of ''On Chesil Beach''; Amanda Hesser on cookbooks; Steven Heller on graphic design books; and Dwight Garner, senior editor, with best-seller news. Sam Tanenhaus, the editor of the Book Review, is the host.</p>
+        <p>Links: Reviews of the books chosen in the writers' survey.</p>
+        <p>First Chapters: Excerpts from ''After Dark,'' by Haruki Murakami; ''The Ministry of Special Cases,'' by Nathan Englander; and other books.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are Ian McEwan (above), the author of ''On Chesil Beach''; Amanda Hesser on cookbooks; Steven Heller on graphic design books; and Dwight Garner, senior editor, with best-seller news. Sam Tanenhaus, the editor of the Book Review, is the host.</p>
+        <p>Links: Reviews of the books chosen in the writers' survey.</p>
+        <p>First Chapters: Excerpts from ''After Dark,'' by Haruki Murakami; ''The Ministry of Special Cases,'' by Nathan Englander; and other books.</p>
+        <p>Books Update E-Mail: Receive a selective overview of new book reviews and features every Sunday.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

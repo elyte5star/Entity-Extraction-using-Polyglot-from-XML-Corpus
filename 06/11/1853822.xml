@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Biotech Brews, Questions of Consistency</title>
+    <meta content="11vat" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Business of Health" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/businessspecial3/11vat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853822"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PHARMACEUTICALS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Biotechnology</classifier>
+        <classifier class="online_producer" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Genentech Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE4DD173FF932A25755C0A9619C8B63" item-length="975" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Biotech Brews, Questions of Consistency</hl1>
+        <hl2 class="online_headline">In Biotech Brews, Questions of Consistency</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <dateline>VACAVILLE, Calif.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE cancer drugs produced at Genentech's gleaming factory here are the vanguard of 21-century biotechnology. But the way the drugs are made is borrowed a bit from a more ancient industry of Napa Valley.</p>
+        <p>Wine and biotech drugs are both made by growing cells, usually in stainless-steel tanks. But rather than using yeast to convert sugar to alcohol, biotechs use genetically engineered animal or bacterial cells to make proteins from nutrients.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Genentech is borrowing a bit of the winemaker’s art to make biotech pharmaceuticals.</p>
+      </block>
+      <block class="full_text">
+        <p>THE cancer drugs produced at Genentech's gleaming factory here are the vanguard of 21-century biotechnology. But the way the drugs are made is borrowed a bit from a more ancient industry of Napa Valley.</p>
+        <p>Wine and biotech drugs are both made by growing cells, usually in stainless-steel tanks. But rather than using yeast to convert sugar to alcohol, biotechs use genetically engineered animal or bacterial cells to make proteins from nutrients.</p>
+        <p>The process for both is part art, part science. Results can differ from factory to factory, or even between lots in a single site. While wine lovers savor the differences among vintages, patients could be hurt by inconsistencies in drugs.</p>
+        <p>Such vagaries lie at the heart of a debate going on in Congress -- whether pharmaceutical companies can be allowed to make generic, low-priced copies of the drugs originated by Genentech and other biotech companies. Genentech says the pharmaceutical companies should not be allowed, arguing that other companies could not replicate its drugs precisely because the process is so complex.</p>
+        <p>Genentech says the Vacaville plant is one of the largest factories in the world making genetically engineered drugs using animal cells. The plant was built in the 1990s for more than $400 million and has tanks with a capacity of 144,000 liters (about 38,000 gallons) to produce the drugs Avastin, Rituxan and Herceptin for cancer and Xolair for asthma.</p>
+        <p>These drugs, which are proteins, are made by splicing a human or other gene that has the recipe for the protein into another cell, creating a master bank for each drug.</p>
+        <p>For simpler biotech drugs like insulin and growth hormone, bacterial cells are usually used. But for the more complex proteins made here, bacteria are not up to the task. So Genentech uses cells from Chinese hamster ovaries, which have become an industry standard.</p>
+        <p>At Vacaville, scientists take a small vial of cells from the master bank and multiply them until they fill a steel vessel that is nearly two stories high and produces mass quantities of the drug. If all goes well, the process takes about three weeks.</p>
+        <p>But everything doesn't always go well because the cells normally grow inside hamster ovaries. ''Any cell line, at any point in time, can go, 'I'm tired,' '' and stop growing, said Mark Fischer, a production specialist for Genentech. ''You may not know why.''</p>
+        <p>When the factory first opened, the cells for making Herceptin would not grow. Company scientists found that traces of tungsten were leaking into the vats from bearing seals, poisoning the broth.</p>
+        <p>One cannot simply pour a few cells into a huge vat and wait for them to multiply. Rather, the finicky cells must acclimatize to larger and larger tanks. At this factory, the contents of the original vial are poured into a three-liter flask. When the cells fill that, they are transferred to a 20-liter steel tank. When that is filled, they are moved into vessels of 80 liters, 400 liters, 2,000 liters and finally 12,000 liters, or about 3,200 gallons.</p>
+        <p>At each step, the cells are fed a secret sauce of sugars, amino acids, proteins and hormones like insulin. Inside the vessels, paddles stir the mix.</p>
+        <p>All the manufacturing is done under strict sanitary conditions. Workers wear jumpsuits, gloves, booties and covers for their hair and beards. The cells and other ingredients are not exposed to the environment, but are pumped into the sealed vessels through hundreds of miles of pipes.</p>
+        <p>When the 12,000-liter tank is full, the drug is separated from the cells, the other proteins made by the cells and the nutrient mix. This process isolates the desired protein based on its density, electric charge, molecular weight and chemical affinity. Once the protein is 99.9 percent pure, it is frozen and shipped to other plants for packaging.</p>
+        <p>Subtle changes in conditions can change the drug. When Genentech transferred production of its psoriasis drug, Raptiva, from a 2,000-liter tank at a partner's factory to its own 12,000-liter tank, tests showed that the drugs had changed, even though the same cell lines were used.</p>
+        <p>The Food and Drug Administration required that Genentech conduct new clinical trials to show that the drug worked as well as the drug that had been made by the partner. That process delayed approval of Raptiva by nearly two years.</p>
+        <p>Congress is considering legislation that will allow pharmaceutical companies to make ''biogenerics,'' or ''biosimilars,'' for much lower prices than the original biotech drugs, which can cost patients and insurers tens or even hundreds of thousands of dollars a year.</p>
+        <p>Genentech executives argue that generic drug companies could never precisely replicate biologics, as these drugs are called, as they can simpler pills made from chemicals.</p>
+        <p>''The minute you change the cell line, you're going to make a different product,'' said Robert L. Garnick, senior vice president for regulatory affairs, quality and compliance at Genentech.</p>
+        <p>And as the case with Raptiva shows, the product can come out differently even using the same cell.</p>
+        <p>Company executives say that makers of biogenerics should be required to conduct clinical trials on humans to prove their drugs are safe and effective. That requirement would increase the time and cost of taking the drugs to market.</p>
+        <p>Companies that want to make biogenerics say that analytical techniques are becoming sophisticated enough to ensure that their drugs would be as safe and effective as the originals.</p>
+        <p>Theresa L. Gerrard, a consultant to the Generic Pharmaceutical Association, said that biotechnology companies often tweak their processes but do clinical trials only if analytical tests show the drugs differ, she said.</p>
+        <p>Moreover, she added, perfect replication is unnecessary because the drugs that Genentech produces also vary slightly from lot to lot.</p>
+        <p>''We're not asking for a lower standard,'' Dr. Gerrard said. ''We're asking to use the standard that has been in place at the F.D.A. for 15 years.''</p>
+        <p>PHARMACEUTICALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

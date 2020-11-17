@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>While Lyrical Moments Abound, Tension Sometimes Simmers</title>
+    <meta content="17vivi" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854969"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Corigliano Quartet (Music Group)</org>
+        <person class="indexing_service">Schweitzer, Vivien</person>
+        <person class="indexing_service">Corigliano, John</person>
+        <person class="indexing_service">Friedman, Jefferson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E3D7173FF934A25755C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>While Lyrical Moments Abound, Tension Sometimes Simmers</hl1>
+      </hedline>
+      <byline class="print_byline">By VIVIEN SCHWEITZER</byline>
+      <byline class="normalized_byline">Schweitzer, Vivien</byline>
+      <abstract>
+        <p>Vivien Schweitzer reviews new CD of John Corigliano String Quartet No 1, other works and Jefferson Friedman String Quartet No 2 played by Corigliano Quartet; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Corigliano: String Quartet No. 1, Other Works; Jefferson Friedman: String Quartet No. 2  Corigliano Quartet. Naxos 8.559180; CD.</p>
+        <p>JOHN CORIGLIANO wrote his gripping String Quartet No. 1 (''Farewell'') for the Cleveland Quartet's final concert tour in 1995. The Cleveland's fading embers sparked the birth of the fiery Corigliano Quartet, which, incongruously, was founded in 1996 to champion the ''Farewell.''</p>
+      </block>
+      <block class="full_text">
+        <p>John Corigliano: String Quartet No. 1, Other Works; Jefferson Friedman: String Quartet No. 2  Corigliano Quartet. Naxos 8.559180; CD.</p>
+        <p>JOHN CORIGLIANO wrote his gripping String Quartet No. 1 (''Farewell'') for the Cleveland Quartet's final concert tour in 1995. The Cleveland's fading embers sparked the birth of the fiery Corigliano Quartet, which, incongruously, was founded in 1996 to champion the ''Farewell.''</p>
+        <p>It is not hard to understand why Mr. Corigliano encouraged the quartet to continue playing under his name, in light of these knockout performances. In the five-movement ''Farewell'' Quartet (still a staple of the group's repertory), the players vividly illuminate Mr. Corigliano's varied sonic landscapes, from the anguished microtonal moan that opens the work through the slashing chords and mournful melodies of the Scherzo and the hypnotic, exotic counterpoint of the Nocturne to the stark, dissonant counterpoint of the Fugue.</p>
+        <p>The disc opens with the beautifully yearning ''Snapshot: Circa 1909,'' inspired by a photograph of Mr. Corigliano's father, who was also named John and eventually became concertmaster of the New York Philharmonic, at about 8, playing the violin and standing next to his older brother, who is playing the guitar. An evocative violin melody soars over guitarlike strumming, and the work fades away with a dreamy, delicate melody played in the highest violin register.</p>
+        <p>That gentle nostalgia is shattered by the riotous opening of the short ''Black November Turkey.''</p>
+        <p>There are also riotous moments in the charismatic String Quartet No. 2 by Jefferson Friedman, which was written when he was studying with Mr. Corigliano at the Juilliard School and shows his influence. The slashing chords and frenzy of the rhythmically driven first movement are interspersed with melancholy lyricism. After a slow, powerful middle movement, the conclusion veers between vigor and quietly simmering tension.</p>
+        <p>The Corigliano Quartet champions Mr. Friedman's meaty work as devotedly as those of his mentor.</p>
+        <p>VIVIEN SCHWEITZER</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

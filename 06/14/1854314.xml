@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROOM TO IMPROVE</title>
+    <meta content="14room" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/garden/14room.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854314"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="descriptor">Windows</classifier>
+        <classifier class="online_producer" type="general_descriptor">Windows</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E7DB143FF937A25755C0A9619C8B63" item-length="570" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROOM TO IMPROVE</hl1>
+        <hl2 class="online_headline">Room to Improve</hl2>
+      </hedline>
+      <byline class="print_byline">By Tim McKeough</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How can I hide my ugly windows without blocking the light?</p>
+        <p>A. When dealing with less than desirable windows, it is tempting to think about covering them up with heavy curtains and swags. Don't -- that will only draw more attention to them. Instead, focus on deflecting attention.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How can I hide my ugly windows without blocking the light?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How can I hide my ugly windows without blocking the light?</p>
+        <p>A. When dealing with less than desirable windows, it is tempting to think about covering them up with heavy curtains and swags. Don't -- that will only draw more attention to them. Instead, focus on deflecting attention.</p>
+        <p>If the window casings are the problem, you can camouflage them with paint. Rather than following the usual practice of painting them a glossy white so they contrast with colored walls, cover them with the same paint used on the walls so they recede into the background. I once employed this technique in an old house where the new thin window trim clashed with wide turn-of-the-century casings. After painting them out, I hung custom roman blinds in white canvas, mounted on the inside of the frame.</p>
+        <p>But sometimes old window casings have sustained so much damage -- and are covered with so many layers of paint -- that they remain unsightly no matter how clever you are with a new coat. In that situation, Ian Gibbs, an owner of the Shade Store, recommends using an outside-mount shade, which attaches to the wall above the window and covers the entire window and casing. He also recommends using roller- or Roman-style shades made with a light-filtering material. Rolling solar shades (from $97 at the Shade Store, 800-754-1455 or theshadestore.com) are one of the most transparent options; for something a little more opaque, you could try Roman shades in a linen sheer (from $183) or roller shades in light Mercer or Thompson fabrics (from $100). To preserve as much transparency as possible they can be ordered unlined.</p>
+        <p>A more striking option would be to cover the entire wall with floor-to-ceiling curtains made of a light-filtering material, even if you only have a few small windows. It is a solution that Stefan Boublil, the founder of the Apartment, a New York-based design firm, used in the renovation of a home in Chelsea. ''We wanted people just to notice the light'' filtering through the gauzy curtains, Mr. Boublil said, rather than focusing on the individual windows. ''We're great fans of making a single sweeping gesture.'' He used custom sheers from Distinctive Windows (distinctivewindows.com, 718-768-9340), but he pointed out that do-it-yourselfers can find similar fabric at Joe's Fabric Warehouse in Manhattan (joesfabrics.com, 212-674-7089).</p>
+        <p>S. Russell Groves, a Manhattan architect, used wall-to-wall sheers in an apartment on Central Park West, above, with one addition -- wood blinds to further disguise the nondescript metal windows. The wide-slat blinds ''form a barrier between the window and the interior space,'' Mr. Groves said, but let you enjoy the view when they are partially open. Hunter Douglas's Country Woods Classics blinds with two-inch-wide slats, available at Janovic stores (from $175, janovic.com, 718-392-3999), would work well.</p>
+        <p>For something even more daring, you could take a lesson from Mr. Boublil's own apartment, where he installed Cut Collection shades by the Glasgow design studio Timorous Beasties (starting at about $168 per square meter -- almost 11 square feet -- from timorousbeasties.com). As the name suggests, these shades have cutout patterns that let light through. ''On a really sunny day, when I put my shades down for privacy, I still have the sun coming through this multitude of holes,'' Mr. Boublil said. ''It looks like a disco ball.''</p>
+        <p>''And truth be told,'' he added, ''it's something people could do at home with a good pair of scissors.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

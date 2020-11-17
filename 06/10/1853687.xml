@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Pick Winners, Start by Weeding Out the Losers</title>
+    <meta content="10grow" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10grow.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853687"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SUNDAY MONEY: INVESTING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Google Inc</org>
+        <org class="online_producer">Columbia University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D61F30F933A25755C0A9619C8B63" item-length="781" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Pick Winners, Start by Weeding Out the Losers</hl1>
+        <hl2 class="online_headline">To Pick Winners, Start by Weeding Out the Losers</hl2>
+      </hedline>
+      <byline class="print_byline">By BARRY REHFELD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INVESTORS who want to add a margin of safety when searching for hot growth stocks may want to consider a grading system developed by Partha S. Mohanram, an associate professor at Columbia University's business school.</p>
+        <p>Professor Mohanram says that his method can't reliably pinpoint the next Google, but that it may help investors avoid some money-losers. For individual investors, the main insight of his work may be that stocks whose prices far outstrip the net value of their assets are unlikely to outperform the overall market. Prudent investors would be advised to do their homework and avoid such risky bets.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Investors who want to add a margin of safety when searching for hot growth stocks may want to consider a new grading system.</p>
+      </block>
+      <block class="full_text">
+        <p>INVESTORS who want to add a margin of safety when searching for hot growth stocks may want to consider a grading system developed by Partha S. Mohanram, an associate professor at Columbia University's business school.</p>
+        <p>Professor Mohanram says that his method can't reliably pinpoint the next Google, but that it may help investors avoid some money-losers. For individual investors, the main insight of his work may be that stocks whose prices far outstrip the net value of their assets are unlikely to outperform the overall market. Prudent investors would be advised to do their homework and avoid such risky bets.</p>
+        <p>Professor Mohanram outlined his grading system in a paper published in the September 2005 issue of the Review of Accounting Studies. Using a database of stocks similar to those in the Dow Jones Wilshire 5,000 index from 1979 to 2001, he found that his system appeared to be more effective in screening out stocks with poor performances than in predicting those that would actually beat the market.</p>
+        <p>On average, the returns of the 14 percent of stocks that received the highest grades under the professor's system outperformed the market by an average of 3.1 percentage points a year. The stocks with the lowest scores -- about 13 percent of those considered -- underperformed the market by an average of 17.5 percentage points a year.</p>
+        <p>The paper, ''Separating Winners From Losers Among Low Book-to-Market Stocks Using Financial Statement Analysis,'' may be found on the Web site of the Social Sciences Research Network, at papers.ssrn.com,</p>
+        <p>and through links on AlphaSeeker.com, a site developed by Richard Sloan, now the director of accounting research at Barclays Global Investors in San Francisco and formerly a professor at the University of Michigan.</p>
+        <p>Professor Mohanram developed the grading system by collecting public company reports, then screening for three measures of profitability -- the ratio of net income to assets, the ratio cash flow to assets, and the difference between net income and cash flow -- as well as five other variables. These were the consistency of both sales and earnings growth, and spending in three categories: research and development, advertising and capital expenditures.</p>
+        <p>Institutional investors began taking notice of his research several years ago. James Montier, for example, a global equity strategist at Dresdner Kleinwort Wasserstein in London, wrote favorably about it in a research paper before the final peer-reviewed version of the paper was published.</p>
+        <p>While poring through hundreds of company reports and grading all of their stocks may be beyond the ability of a typical investor, a basic guideline drawn from the study may be widely useful: stocks whose book value (assets minus liabilities) is much lower than their market value are unlikely to fare well.</p>
+        <p>That means it's important to check the balance sheet of a company before making an investment in it.</p>
+        <p>''Stocks with low book-to-market ratios don't perform well as a group,'' Mr. Mohanram said, adding that their average return is 8.7 percentage points a year below the market.</p>
+        <p>These stocks -- generally those whose prices have shot up on investor euphoria that isn't adequately supported by the net value of the assets stated on the company's books -- will often turn out to be a disappointment, Mr. Mohanram's paper suggested.</p>
+        <p>As recent examples of such stocks, he cited Lucent and Yahoo. At the end of 2005, Lucent's book-to-market ratio was 0.03, and it underperformed the market by 19.5 percentage points in 2006, while Yahoo, with a book-to-market ratio of 0.15, underperformed the market by 30.5 percentage points for the same period.</p>
+        <p>Those interested in using his grading system to beat the market may want to combine two strategies, Mr. Mohanram says, by buying high-scoring stocks and selling low-scoring stocks short. Short-selling, of course, can be a risky strategy and is not widely recommended for individual investors.</p>
+        <p>Investors who work with brokers might ask for their help in duplicating the system, suggests Robert Hagin, a former Morgan Stanley research chief who now runs Hagin Investment Research.</p>
+        <p>And investors don't have to adopt the system completely in order to make use of it, says Jayendran Rajamony, a portfolio manager at Numeric Investors who is an admirer of Mr. Mohanram's work. They may simply look at annual reports and research papers for any growth stocks that interest them and use his criteria -- even without peer comparisons -- as screens in picking or avoiding stocks.</p>
+        <p>''It's about doing fundamental analysis,'' Mr. Rajamony said. ''This system is a way for investors to discipline themselves to pay attention to important variables because picking growth stocks is not just about buying a stock with a good story.''</p>
+        <p>In short, don't buy a stock that holds a world of promise but not much else.</p>
+        <p>SUNDAY MONEY: INVESTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

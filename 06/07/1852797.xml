@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Virtually Untrammeled Power of Presidential Pardons</title>
+    <meta content="07pardon" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852797"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amnesties and Pardons</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3D61E30F934A35755C0A9619C8B63" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Virtually Untrammeled Power of Presidential Pardons</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN JO KELLER</byline>
+      <byline class="normalized_byline">Keller, Susan Jo</byline>
+      <dateline>WASHINGTON, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When it comes to high-profile presidential pardons, the big one, of course, was President Gerald R. Ford's pardon of Richard M. Nixon.</p>
+        <p>Ford issued the pardon on Sept. 8, 1974, pre-empting the possibility of a trial for Nixon, who had resigned on Aug. 9 because of the Watergate scandal without being charged with any crimes.</p>
+      </block>
+      <block class="full_text">
+        <p>When it comes to high-profile presidential pardons, the big one, of course, was President Gerald R. Ford's pardon of Richard M. Nixon.</p>
+        <p>Ford issued the pardon on Sept. 8, 1974, pre-empting the possibility of a trial for Nixon, who had resigned on Aug. 9 because of the Watergate scandal without being charged with any crimes.</p>
+        <p>Explaining his decision, Ford described the Nixon family's situation as ''an American tragedy in which we all have played a part.''</p>
+        <p>''It could go on and on and on, or someone must write the end to it,'' he said. ''I have concluded that only I can do that, and if I can, I must.''</p>
+        <p>The debate about that pardon followed Ford to the end of his life, though he never wavered in his belief that it was the correct action for the country.</p>
+        <p>Passion over Watergate had cooled a bit by 1977, when President Jimmy Carter commuted the sentence of G. Gordon Liddy, who was convicted in the 1972 Watergate break-in.</p>
+        <p>President Ronald Reagan and the first President George Bush also acted in cases that reached high in the Washington power structure. In 1981, Reagan granted clemency to two former high officials of the Federal Bureau of Investigation, W. Mark Felt and Edward Miller. They had been fined after having been convicted of conspiracy to violate the rights of Americans by authorizing government agents to break into homes in search of antiwar radicals in the early '70s. In 2005, Mr. Felt was named as Deep Throat, the source who helped The Washington Post uncover the Watergate scandal.</p>
+        <p>In 1989, Mr. Bush pardoned Armand Hammer, the head of Occidental Petroleum who had been fined and put on probation after pleading guilty to making illegal contributions to Nixon's re-election campaign in 1972.</p>
+        <p>In 1992, President Bush granted pardons to six former Reagan administration officials, including Defense Secretary Caspar W. Weinberger, who had been scheduled to go on trial in two weeks. All had been involved in the Iran-contra affair that dealt with arms sales to Tehran and the diversion of that money to Nicaraguan rebels.</p>
+        <p>Mr. Bush also pardoned Robert C. McFarlane, former national security adviser, and Elliott Abrams, former assistant secretary of state. Both had pleaded guilty to misdemeanor charges of withholding information from Congress about support for the contras.</p>
+        <p>In 2001, as one of his last official acts, President Bill Clinton pardoned Marc Rich, the fugitive commodities trader charged with 51 counts of tax evasion and trading with the enemy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trisha Donnelly</title>
+    <meta content="01gall-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851358"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D71530F932A35755C0A9619C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trisha Donnelly</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Casey Kaplan  525 West 21st Street, Chelsea  Through June 14  Trisha Donnelly is not interested in your ''getting'' her work. The gallery release she has written omits the customary introductions and explanations but features an abstruse poem (well, it resembles a poem) composed by the artist:</p>
+        <p>I incline towards the minds of others  and all it is  all it is -- is  the vert panic  the mind mass  of cantled freaks  th. constant triple knock of 3 parallel pains  I am the all star epileptic truth-  x4 x4 x4  africa take me in your form.</p>
+        <p>The works here include a series of C-prints made by placing a shipping tube wrapped with a photograph of an unidentified woman on a scanner; a scan of a trumpet's bell partly obscured by a slip of paper that reads ''Peralta'' (a reference both to the skateboarder Stacy Peralta and to a town in Spain); stele-shaped armatures covered with peach-colored fabric; a small photograph of the interior of a B-17 bomber; drawings showing fragments of movement or objects; and a sound piece with booming church bells whose frequency increases over the course of the show.</p>
+      </block>
+      <block class="full_text">
+        <p>Casey Kaplan  525 West 21st Street, Chelsea  Through June 14  Trisha Donnelly is not interested in your ''getting'' her work. The gallery release she has written omits the customary introductions and explanations but features an abstruse poem (well, it resembles a poem) composed by the artist:</p>
+        <p>I incline towards the minds of others  and all it is  all it is -- is  the vert panic  the mind mass  of cantled freaks  th. constant triple knock of 3 parallel pains  I am the all star epileptic truth-  x4 x4 x4  africa take me in your form.</p>
+        <p>The works here include a series of C-prints made by placing a shipping tube wrapped with a photograph of an unidentified woman on a scanner; a scan of a trumpet's bell partly obscured by a slip of paper that reads ''Peralta'' (a reference both to the skateboarder Stacy Peralta and to a town in Spain); stele-shaped armatures covered with peach-colored fabric; a small photograph of the interior of a B-17 bomber; drawings showing fragments of movement or objects; and a sound piece with booming church bells whose frequency increases over the course of the show.</p>
+        <p>This hodgepodge of sound, text, image and performance (on opening night Ms. Donnelly moved two sculptures, then banished the audience from the gallery, then let everyone return) is in keeping with her genre- and interpretation-defying oeuvre.</p>
+        <p>But while her work admirably stands apart from easily consumable art, packaging it for a gallery show creates problems. Her works are less interesting as objects than as a body of ideas; Ms. Donnelly withholds so much from her viewers that her work runs the risk of being more interesting explained than experienced. If you favor philosophical abstraction over something more concrete -- the ''all it is -- is'' embedded in her text -- then it is easier to accept her methods.</p>
+        <p>MARTHA SCHWENDENER</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

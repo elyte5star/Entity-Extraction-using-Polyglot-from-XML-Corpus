@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Visits May Reduce Infant Deaths, Findings Show</title>
+    <meta content="12baby" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/health/12baby.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853909"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: HAVING A BABY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Babies</classifier>
+        <classifier class="online_producer" type="descriptor">Infant Mortality</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DC173FF931A25755C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Visits May Reduce Infant Deaths, Findings Show</hl1>
+        <hl2 class="online_headline">Having a Baby: Home Visits May Reduce Infant Deaths, Findings Show</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Health workers may be able to reduce the number of infant deaths by making regular visits before and after birth to the homes of pregnant women considered at risk.</p>
+        <p>That is the finding of a new study that looked at a Cincinnati home-visiting program for first-time mothers and their children. The study, led by Dr. Edward F. Donovan of the Cincinnati Children's Hospital Medical Center, appears in the June issue of Pediatrics.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Health workers may be able to reduce the number of infant deaths by making regular visits before and after birth to the homes of some pregnant women.</p>
+      </block>
+      <block class="full_text">
+        <p>Health workers may be able to reduce the number of infant deaths by making regular visits before and after birth to the homes of pregnant women considered at risk.</p>
+        <p>That is the finding of a new study that looked at a Cincinnati home-visiting program for first-time mothers and their children. The study, led by Dr. Edward F. Donovan of the Cincinnati Children's Hospital Medical Center, appears in the June issue of Pediatrics.</p>
+        <p>The researchers compared the outcomes of more than 1,600 infants whose families received visits with almost 5,000 in homes that did not. Children in the second group were 2.5 times as likely as the others to die in infancy, the study said.</p>
+        <p>To be eligible for the program, Every Child Succeeds, mothers had to be considered at high risk; the risk factors included being under 18 or unmarried, or having low income or inadequate prenatal care.</p>
+        <p>For some of the women, the visits began while they were pregnant, while others began getting them after giving birth. The visits were provided by social workers, child development experts or nurses, among others.</p>
+        <p>The counseling can cover a number of areas, including simply encouraging mothers to stop smoking, which the women in this study did at a rate three times higher than average for American mothers.</p>
+        <p>The counselor may also talk about health issues like nutrition. Earlier research has found that at-home visits help lower the number of babies born early or underweight.</p>
+        <p>Infant mortality is defined as the death of a baby within the first year of life. Among the causes are premature birth, labor complications, infection and injury. African-Americans are at especially high risk for infant mortality.</p>
+        <p>VITAL SIGNS: HAVING A BABY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

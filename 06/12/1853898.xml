@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Clues In the Legend (Or Is It Fact?) Of Romulus</title>
+    <meta content="12rome" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/science/12rome.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853898"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Rome</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="descriptor">Caves and Caverns</classifier>
+        <classifier class="online_producer" type="general_descriptor">Caves and Caverns</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <location class="online_producer">Rome (Italy)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E2DC173FF931A25755C0A9619C8B63" item-length="452" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Clues In the Legend (Or Is It Fact?) Of Romulus</hl1>
+        <hl2 class="online_headline">More Clues in the Legend (or Is It Fact?) of Romulus</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The story of Romulus and Remus is almost as old as Rome. The orphan twins were suckled by a she-wolf in a cave on the banks of the Tiber. Romulus grew up to found Rome in 753 B. C.</p>
+        <p>Historians have long since dismissed the story as a charming legend. The 19th-century historian Theodor Mommsen said: ''The founding of the city in the strict sense, such as the legend assumes, is of course to be reckoned out of the question: Rome was not built in a day.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New archaeological finds are fueling a heated debate about Rome's founding myth.</p>
+      </block>
+      <block class="full_text">
+        <p>The story of Romulus and Remus is almost as old as Rome. The orphan twins were suckled by a she-wolf in a cave on the banks of the Tiber. Romulus grew up to found Rome in 753 B. C.</p>
+        <p>Historians have long since dismissed the story as a charming legend. The 19th-century historian Theodor Mommsen said: ''The founding of the city in the strict sense, such as the legend assumes, is of course to be reckoned out of the question: Rome was not built in a day.''</p>
+        <p>Yet the legend is as imperishable as Mommsen's skeptical verdict, and it has been invigorated by recent archaeological finds.</p>
+        <p>This year, Italian archaeologists reported discovering the long-lost cave under the Palatine Hill that ancient Romans held sacred as the place where the twins were nursed. The grown brothers fought over leadership of the new city, the story goes, and Romulus killed Remus and became the first king.</p>
+        <p>The cave was no surprise to Andrea Carandini, a historian and an archaeologist at the University of Rome, who has said, ''The tale of the birth of Rome is part myth and part historical truth.'' He had already found remains of an ancient wall and ditch and also ruins of a palace that he said was built in the eighth century B.C.</p>
+        <p>''When I excavated the Romulean-age wall on the Palatine, I realized that I was looking at the very origins of Rome as a city-state,'' Dr. Carandini said in a long interview in the July-August issue of the magazine Archaeology.</p>
+        <p>Dr. Carandini said the wall, built on the slopes occupied by huts of the pre-Roman settlement, was dated through a number of foundation deposits to about 775-750 B.C. He said that the wall was possibly the sacred boundary in Rome's foundation legend and concluded that it was ''archaeological evidence of the existence of Romulus and Remus.''</p>
+        <p>Based on these and other findings, Dr. Carandini said of Rome's founding, ''everything was born'' after 750 B.C. ''There was no gradual expansion of an old core, but the sudden evolution of a city that was great and remains great.''</p>
+        <p>The magazine noted that Dr. Carandini's support of the legend ''has earned him the admiration of the Roman public but the disapproval of many of his colleagues.''</p>
+        <p>A lecture that Dr. Carandini gave last fall in Rome attracted 5,000 people, an Italian newspaper reported. But other archaeologists, while praising his excavations, were skeptical of his interpretations.</p>
+        <p>Albert Ammerman, an archaeologist at Colgate University who has excavated Roman ruins, said in the magazine that the presence of certain physical remains did not necessarily validate the literary tradition of Rome's founding and the existence of someone known as Romulus.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

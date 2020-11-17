@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="07askk" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/technology/07askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852719"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D81E30F934A35755C0A9619C8B63" item-length="662" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">iTunes and Vista, Playing Nice</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ITunes and Vista, Playing Nice</p>
+        <p>Q. If I buy a new PC with Windows Vista, can I move my iTunes music over to it and still have it work reliably?</p>
+        <p>A. Conflicts between Apple's iTunes software and iPods and Windows Vista cropped up this year right after Vista, Microsoft's latest operating system, went on sale. Vista users discovered that iTunes songs they had bought did not play on the PC, that iPods would not synchronize with it and, in some cases, that iPod content became corrupted.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If I buy a new PC with Windows Vista, can I move my iTunes music over to it and still have it work reliably?</p>
+      </block>
+      <block class="full_text">
+        <p>ITunes and Vista, Playing Nice</p>
+        <p>Q. If I buy a new PC with Windows Vista, can I move my iTunes music over to it and still have it work reliably?</p>
+        <p>A. Conflicts between Apple's iTunes software and iPods and Windows Vista cropped up this year right after Vista, Microsoft's latest operating system, went on sale. Vista users discovered that iTunes songs they had bought did not play on the PC, that iPods would not synchronize with it and, in some cases, that iPod content became corrupted.</p>
+        <p>Things have improved for Vista users over the last few months. Both Apple and Microsoft have released software updates to fix the majority of reported issues. When setting up your new Vista PC, be sure to download and install all available updates from Microsoft. The company has specific information on the software patch for the corrupted iPod problem at support.microsoft.com/kb/936824.</p>
+        <p>You should also download and install the latest version of iTunes before it connects to the Vista PC. Apple has an illustrated guide to getting iTunes on a Vista machine and a link to the latest version of the software at tinyurl.com/2ezwu2.</p>
+        <p>Recording TV On the Computer</p>
+        <p>Q. Is it possible to plug in a TV cable to my computer and use it like a VCR to record programs?</p>
+        <p>A. In most cases, you just need a TV tuner card for the computer and a program to do the recording. Some TV tuner cards are designed for installation inside the computer and some are external boxes that connect through a Mac or a PC's U.S.B. port. Both provide the jacks to connect a coaxial cable or antenna to the computer so you can pipe in the programming.</p>
+        <p>Several companies sell TV cards, including Hauppauge (hauppauge.com) and AverMedia (www.aver.com/multimedia.html), and you can find many more around the Web. Some cards include their own recording software, but programs like SnapStream's Beyond TV (www.snapstream.com) give TiVo-like powers to your Windows PC. You can also buy the Beyond TV software bundled with a compatible TV tuner card if you haven't made the hardware purchase yet.</p>
+        <p>Some TV recording software includes onscreen program guides that let you easily select the shows you want to record, and a few can also handle high-definition content, so shop around. Extra features, like the ability to easily burn shows to DVD or export them to versions that play on a portable video player, are also becoming common.</p>
+        <p>ADS Technologies (www.adstech.com) has a number of internal and external TV recorders and Elgato Systems (www.elgato.com) offers the EyeTV 250, an external tuner box and recording software, for Macs running OS X.</p>
+        <p>If you plan to record a lot, you might want to consider adding an external hard drive to the mix to hold all of your programs, as high-quality video files can be rather large. For example, a guide on SnapStream's site (www.snapstream.com/products/beyondtv/faq.asp) estimates that five hours of recorded video at the ''good quality'' MPEG-2 setting needs 10 gigabytes of space -- and just one hour of HDTV can eat the same amount of hard drive real estate.</p>
+        <p>TIP OF THE WEEK: If you've spent all your money buying a portable audio or video player, you will now need free stuff to put in it. Project Gutenberg (www.gutenberg.org) has thousands of digitized books -- everything from the plays of Shakespeare to the Tarzan novels of Edgar Rice Burroughs -- free to download onto devices that display text files. It has many free audiobooks, too.</p>
+        <p>If you are seeking free moving pictures, the Internet Archive (www.archive.org) has digitized versions of old movies, cartoons and other video in the MPEG-4 format that works nicely with video iPods and the Sony PSP. The site is a treasure trove of free audio files, including Grateful Dead concerts, old-time radio shows and songs recorded from 78 r.p.m. records. The iTunes Store has thousands of free audio files and video podcasts as well.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

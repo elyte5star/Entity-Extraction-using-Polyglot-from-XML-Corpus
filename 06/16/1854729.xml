@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Underworld, Looking for Beams Of Blessed Light</title>
+    <meta content="16neta" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/arts/dance/16neta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854729"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <person class="online_producer">Pulvermacher, Neta</person>
+        <person class="online_producer">Roach, Mary</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7D9153FF935A25755C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Underworld, Looking for Beams Of Blessed Light</hl1>
+        <hl2 class="online_headline">In the Underworld, Looking for Beams of Blessed Light</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In her latest program Neta Pulvermacher reveals not just a trilogy of dances, but also three sides of the choreographer herself, linked by madcap visions of heaven and hell. In a sense her dancers, performing on Thursday night at Dance New Amsterdam, embody spirits, somberly or comically trapped in underworld landscapes, where even Elvis Presley makes an appearance. But it is the concluding ''Air,'' in which she drops the veneer of storytelling, that is the most stirring.</p>
+        <p>Ms. Pulvermacher has been making dances in New York since the mid-1980s, and that experience shows in her craft. In ''Gotta Go,'' a voice-over loosely quoting the author Mary Roach announces: ''The way I see it, being dead is not so different than being on a cruise ship.'' Her dancers, wearing dresses resembling drab hospital gowns and carrying butterflies attached to sticks, are trapped in a mundane existence in which acceptance of their plight is rarely a given.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In her latest program, Neta Pulvermacher reveals not just a trilogy of dances, but also three sides of the choreographer herself.</p>
+      </block>
+      <block class="full_text">
+        <p>In her latest program Neta Pulvermacher reveals not just a trilogy of dances, but also three sides of the choreographer herself, linked by madcap visions of heaven and hell. In a sense her dancers, performing on Thursday night at Dance New Amsterdam, embody spirits, somberly or comically trapped in underworld landscapes, where even Elvis Presley makes an appearance. But it is the concluding ''Air,'' in which she drops the veneer of storytelling, that is the most stirring.</p>
+        <p>Ms. Pulvermacher has been making dances in New York since the mid-1980s, and that experience shows in her craft. In ''Gotta Go,'' a voice-over loosely quoting the author Mary Roach announces: ''The way I see it, being dead is not so different than being on a cruise ship.'' Her dancers, wearing dresses resembling drab hospital gowns and carrying butterflies attached to sticks, are trapped in a mundane existence in which acceptance of their plight is rarely a given.</p>
+        <p>Wearing a dark overcoat and a scraggly blond wig, Ms. Pulvermacher creeps onto the stage halfway through. Gesticulating to the crowd, she screeches raspily: ''When you die, is it going to be too late? Too soon?'' Four performers sit in hard wooden chairs, smoke unlighted cigarettes and pretend to cough up their lungs.</p>
+        <p>Ms. Pulvermacher's soundscore includes audio tutorials of an autopsy and snippets from a telephone conversation between herself and a woman you imagine to be her mother. (The work is dedicated to her.) The choreographer asks: ''What do the doctors say? So should I come?'' This precedes the haunting moment when she removes her coat; nude, she curls on the floor to remain for the work's duration.</p>
+        <p>But ''Gotta Go,'' which lists Thomas F. DeFrantz as artistic adviser, is cluttered with clunky, heavy-handed moments. ''Welcome to My Garden,'' with the aid of a floral painting and the dancer Karen Carbonell channeling Presley, takes a lighter and, unfortunately, slighter look at purgatory. Consequently, ''Air,'' set to sections from Handel's ''Dixit Dominus,'' is a balm.</p>
+        <p>The dancers, wearing Rebecca Bernstein's hot-pink dresses cleverly modeled after the hospital gowns in ''Gotta Go,'' glide in horizontal lines, swooping like sea birds onto the floor and upright again. At times, it's derivative of Mark Morris, yet Ms. Pulvermacher's frisky musicality and aptitude for stillness sticks with you. ''Air,'' like a little slice of heaven, shines through the cracks.</p>
+        <p>Neta Dance Company performs through tomorrow at Dance New Amsterdam, 280 Broadway, at Chambers Street, TriBeCa; (212) 279-4200, dnadance.org.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

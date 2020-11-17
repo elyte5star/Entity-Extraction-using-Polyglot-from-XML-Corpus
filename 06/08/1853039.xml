@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>KNICKS ASSISTANT JOINS BOBCATS</title>
+    <meta content="08hoops-2" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853039"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="N.B.A. ROUNDUP"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Charlotte Bobcats</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1D91F30F93BA35755C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>KNICKS ASSISTANT JOINS BOBCATS</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD BECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Phil Ford, a Knicks assistant coach the past two seasons, is joining the staff of the Charlotte Bobcats, under their new coach, Sam Vincent. Ford was hired by Larry Brown in 2004 and stayed with the Knicks after Brown was fired a year later.</p>
+      </block>
+      <block class="full_text">
+        <p>Phil Ford, a Knicks assistant coach the past two seasons, is joining the staff of the Charlotte Bobcats, under their new coach, Sam Vincent. Ford was hired by Larry Brown in 2004 and stayed with the Knicks after Brown was fired a year later.</p>
+        <p>Ford's departure leaves the Knicks with a still-sizable staff of five assistant coaches. Head Coach Isiah Thomas has not decided whether to fill the vacancy. Dave Hanners is the only coach hired by Brown to remain on the staff. The move to Charlotte represents a sort of homecoming for Ford, who starred as a point guard at the University of North Carolina.</p>
+        <p>HOWARD BECK</p>
+        <p>N.B.A. ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

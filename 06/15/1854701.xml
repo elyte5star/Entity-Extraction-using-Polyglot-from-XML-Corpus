@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>YONKERS NATIVE MAKES OPEN DEBUT</title>
+    <meta content="15links-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854701"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DB153FF936A25755C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>YONKERS NATIVE MAKES OPEN DEBUT</hl1>
+      </hedline>
+      <byline class="print_byline">By DAMON HACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frank Bensel, an assistant club professional at Century Country Club in Purchase, N.Y., spent his opening nine holes on the leader board of the championship, only to see his round disintegrate in a maze of mistakes.</p>
+        <p>Bensel shot even-par 35 on his opening nine. He closed with a nine-over 44 that left him numb.</p>
+      </block>
+      <block class="full_text">
+        <p>Frank Bensel, an assistant club professional at Century Country Club in Purchase, N.Y., spent his opening nine holes on the leader board of the championship, only to see his round disintegrate in a maze of mistakes.</p>
+        <p>Bensel shot even-par 35 on his opening nine. He closed with a nine-over 44 that left him numb.</p>
+        <p>''For a while there, I couldn't stop the bleeding,'' said Bensel, who is playing in his first United States Open. ''Just to start so well and get it on track and then to go completely off track, it wouldn't have been so bad if it was four or five over.''</p>
+        <p>After opening with two birdies and two bogeys on his opening nine, he opened his back nine with a double bogey on No. 1, added a second double bogey on No. 3 and a third double bogey on No. 5.</p>
+        <p>The 39-year-old Bensel, who was born in Yonkers, played in the 2004 P.G.A. Championship at Whistling Straits, where he missed the cut.</p>
+        <p>DAMON HACK</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books Worth a Spot On a Car Buff's Shelf</title>
+    <meta content="03VINS" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851819"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BOOKS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3DB1530F930A35755C0A9619C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books Worth a Spot On a Car Buff's Shelf</hl1>
+      </hedline>
+      <byline class="print_byline">By Z. TAYLOR VINSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>America on Wheels  The First 100 Years: 1896-1996  By Frank Coffey and Joseph Layden  Illustrated. 304 pages. General Publishing Group, 1996.</p>
+        <p>Standard automotive history treats the machines and the men who made them. ''America on Wheels,'' published as a companion to a three-hour PBS special of the same name, is more of a sociological story: how the horseless carriage changed the character of the country as it metamorphosed from the Age of Cleveland to the Age of Clinton.</p>
+      </block>
+      <block class="full_text">
+        <p>America on Wheels  The First 100 Years: 1896-1996  By Frank Coffey and Joseph Layden  Illustrated. 304 pages. General Publishing Group, 1996.</p>
+        <p>Standard automotive history treats the machines and the men who made them. ''America on Wheels,'' published as a companion to a three-hour PBS special of the same name, is more of a sociological story: how the horseless carriage changed the character of the country as it metamorphosed from the Age of Cleveland to the Age of Clinton.</p>
+        <p>Technical and biographical details do not overwhelm the reader. Of particular note are the chapters on labor relations in the '30s and the industry's wartime contributions of the '40s. The book, written in a conversational style, is eminently readable and includes comments by some participants in the PBS broadcast.</p>
+        <p>''America on Wheels'' is a feast for the eyes as well, with reproductions of colorful ads and nostalgic black-and-white photos. More's the pity then that a number of errors appear in dates and identification of cars.</p>
+        <p>The book was written principally by Frank Coffey, an author of novels and a former magazine and book editor. If you aren't put off by the dust-jacket blurb that it's ''an indispensable coffee table keepsake,'' you might find that it's true.</p>
+        <p>Z. TAYLOR VINSON</p>
+        <p>BOOKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

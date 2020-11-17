@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where the Rocks and the Rapids Become a Classroom</title>
+    <meta content="09outdoors" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/sports/othersports/09outdoors.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853169"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OUTDOORS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Rafts</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DD163FF93AA35755C0A9619C8B63" item-length="439" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where the Rocks and the Rapids Become a Classroom</hl1>
+        <hl2 class="online_headline">Where the Rocks and the Rapids Become a Classroom</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL BECHER</byline>
+      <dateline>SEQUOIA NATIONAL FOREST, Calif.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Forward paddle! Stop!''</p>
+        <p>The aspiring rafting guide Robert Owen-Miller, known as Rabbit, shouted commands to the other student paddlers as the raft bumped a rock, spun around and plunged backward through a foaming rapid.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At the Kern River Outfitters’ guide school, students learn how to run the wild river located 160 miles north of Los Angeles.</p>
+      </block>
+      <block class="full_text">
+        <p>''Forward paddle! Stop!''</p>
+        <p>The aspiring rafting guide Robert Owen-Miller, known as Rabbit, shouted commands to the other student paddlers as the raft bumped a rock, spun around and plunged backward through a foaming rapid.</p>
+        <p>Owen-Miller was one of eight students at the Kern River Outfitters' guide school learning how to run this wild river 160 miles north of Los Angeles. Most of the students hoped to be hired for the summer to guide paying guests.</p>
+        <p>''It's a six-day job interview,'' said Luther Stephens, the general manager of the company.</p>
+        <p>The company tries to hire most who take the course, but it is not guaranteed. A friendly attitude and hustle are important, along with river skills.</p>
+        <p>The student demographic runs the gamut in terms of age and gender, from 19-year-olds like Owen-Miller to Nancy Patterson, a 51-year-old former dietitian and exercise instructor with a caffeinated personality. She was looking for a new challenge, although she was afraid she might not have the physical strength required to be a guide.</p>
+        <p>Students learn to read currents that flow past the rocks that dot the river, making a run like a trip in a pinball machine. Avoiding obstacles requires timing and understanding the angles.</p>
+        <p>''It's like driving a car on ice,'' said Kristen Finstad, one of the instructors. The river is also as cold as ice in the early season -- the water seems to remember being snow on the slopes of Mount Whitney in the Sierra Nevada not long ago -- so students wear wetsuits.</p>
+        <p>The guide candidates are taught to yell ''high side'' when a raft hangs up on a boulder, commanding paddlers to move to one side to avoid ''wrapping'' -- what happens when water pressure pastes the raft on a rock like plastic film on a piece of fruit. Then it might take a rope and pulley to get the raft unstuck.</p>
+        <p>The students also practice mundane tasks: rigging rafts, tying knots and planning and preparing meals.</p>
+        <p>On the fourth day of the course, students ran a Class IV rapid called Joe's Diner, so named because its chaotic whitewater sometimes eats rafters for lunch. Class IV rapids are defined as ''intense and powerful,'' and require ''precise boat handling in turbulent water.'' But all of the students made it through Joe's unscathed.</p>
+        <p>Then it was time to practice hauling fellow students out of the drink on a quieter run. Patterson grunted and strained as she pulled on a fellow student's life vest, but she got him into the raft.</p>
+        <p>''I think there's a place for me here,'' she said.</p>
+        <p>Stephens agreed -- he offered Patterson a guiding job for the summer.</p>
+        <p>OUTDOORS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

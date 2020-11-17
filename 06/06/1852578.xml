@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coast of Oman Hit By Strong Cyclone</title>
+    <meta content="06storm" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/world/middleeast/06storm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852578"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <location class="indexing_service">Oman</location>
+        <location class="indexing_service">Iran</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Oman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Oman</classifier>
+        <classifier class="online_producer" type="descriptor">Cyclones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cyclones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <location class="online_producer">Iran</location>
+        <location class="online_producer">Oman</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDD1E30F935A35755C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coast of Oman Hit By Strong Cyclone</hl1>
+        <hl2 class="online_headline">Cyclone Nears Iran and Oman</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <abstract>
+        <p>Oman and Iran gird for heavy flooding and winds as strongest cyclone ever recorded by scientists in northwestern Arabic Sea begins to hit coastlines that havelittle experience with such powerful storms (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oman and Iran girded for heavy flooding and winds today as the strongest cyclone ever recorded by scientists in the northwestern Arabian Sea began to hit coastlines that have little experience with such powerful storms.</p>
+        <p>The storm, Tropical Cyclone Gonu, had sustained winds over 120 miles per hour and was raising 35-foot-high waves yesterday, according to the Joint Typhoon Warning Center of the Defense Department, which tracks such storms in the Indian and Pacific Oceans. By Wednesday morning, when the storm reached the Omani coastal towns of Sur and Ras al Hadd, the winds had slowed to 106 miles per hour, The Associated Press reported.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Oman and Iran girded for heavy flooding and winds as the strongest cyclone ever recorded by scientists in the northwestern Arabian Sea neared.</p>
+      </block>
+      <block class="full_text">
+        <p>Oman and Iran girded for heavy flooding and winds today as the strongest cyclone ever recorded by scientists in the northwestern Arabian Sea began to hit coastlines that have little experience with such powerful storms.</p>
+        <p>The storm, Tropical Cyclone Gonu, had sustained winds over 120 miles per hour and was raising 35-foot-high waves yesterday, according to the Joint Typhoon Warning Center of the Defense Department, which tracks such storms in the Indian and Pacific Oceans. By Wednesday morning, when the storm reached the Omani coastal towns of Sur and Ras al Hadd, the winds had slowed to 106 miles per hour, The Associated Press reported.</p>
+        <p>Muscat, the capital, was being hit by heavy rain, but there were no immediate reports of any serious damage, The A.P. said. Computer models projected that dry air and contact with land would weaken Gonu as it churned up the Gulf of Oman before crossing the Strait of Hormuz, the narrow passage through which most Persian Gulf oil must pass.</p>
+        <p>The oil markets were unimpressed, with the price of a barrel of light crude dropping 60 cents yesterday to $65.61 on the New York Mercantile Exchange.</p>
+        <p>Judith Curry, a hurricane expert at Georgia Tech, said the cyclone's strength was ''really rather amazing'' for the region, and appeared to be amplified by sea temperatures hovering around 87 degrees. Even weakened, she said, the storm could prove disastrous in Oman or Iran. ''Cyclones are very rare in this region and hence governments and people are unprepared,'' she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

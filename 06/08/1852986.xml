@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flim in Review; Surf's Up</title>
+    <meta content="08roun-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070613T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852986"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Brannon, Ash</person>
+        <person class="indexing_service">Buck, Chris</person>
+        <person class="indexing_service">Labeouf, Shia</person>
+        <person class="indexing_service">Bridges, Jeff</person>
+        <person class="indexing_service">Deschanel, Zooey</person>
+        <object.title class="indexing_service">Surf's up (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2DA1F30F93BA35755C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flim in Review; Surf's Up</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews animated film Surf's Up, directed by Ash Brannon and Chris Buck and featuring voices of Shia LaBeouf, Jeff Bridges and Zooey Deschanel; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today nationwide.  Directed by Ash Brannon and Chris Buck  90 minutes</p>
+        <p>Ever since Luc Jacquet's endearing documentary ''March of the Penguins'' persuaded Hollywood that penguins are the new Bambis, we have endured singing, wisecracking and even tap-dancing versions. Now, treading eagerly on the flippers of last year's ''Happy Feet,'' comes ''Surf's Up,'' a computer-animated comedy featuring birds on boards.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today nationwide.  Directed by Ash Brannon and Chris Buck  90 minutes</p>
+        <p>Ever since Luc Jacquet's endearing documentary ''March of the Penguins'' persuaded Hollywood that penguins are the new Bambis, we have endured singing, wisecracking and even tap-dancing versions. Now, treading eagerly on the flippers of last year's ''Happy Feet,'' comes ''Surf's Up,'' a computer-animated comedy featuring birds on boards.</p>
+        <p>To deliver its winning-isn't-everything message, this ho-hum addition to the kiddie canon follows Cody Maverick (engagingly voiced by Shia LaBeouf), a young Rockhopper penguin with surfing in his blood and dreams of greatness in his head. Trailed by a documentary film crew, the fatherless Cody (Dad was eaten by a shark) heads for his first professional surfing competition, at which he will learn about love, perseverance and the feet-of-clay principle.</p>
+        <p>Assisting in his education is a washed-up champ (Jeff Bridges), a coy lifeguard (Zooey Deschanel) and the reigning titleholder (Diedrich Bader), whose relationship with his trophies borders on the indecent.</p>
+        <p>Directed by Ash Brannon and Chris Buck (both contributed to the screenplay), ''Surf's Up'' has a friendly, blue-collar vibe (Cody is an ex-fish-sorter from the Shiverpool, Antarctica) and some sly, low-key humor. Nevertheless, a moratorium on penguins might be called for, despite the inevitable anthropomorphic void. Lord help us if ''Ratatouille'' is a hit.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''Surf's Up'' is rated PG (Parental guidance suggested). Characters flirt, urinate on one another and behave lewdly with surfing trophies.</p>
+        <p>Correction:  June 13, 2007, Wednesday  A film review in Weekend on Friday about ''Surf's Up'' misidentified the animal that ate Cody's father. It was a killer whale, not a shark.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 13, 2007, Wednesday</p>
+        <p>A film review in Weekend on Friday about ''Surf's Up'' misidentified the animal that ate Cody's father. It was a killer whale, not a shark.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

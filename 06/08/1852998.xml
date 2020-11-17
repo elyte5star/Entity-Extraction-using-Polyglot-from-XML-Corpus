@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Yankees Draft a 6-Foot-10 Pitcher, Elating at Least One of Their Players</title>
+    <meta content="08pins" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852998"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DA1F30F93BA35755C0A9619C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Yankees Draft a 6-Foot-10 Pitcher, Elating at Least One of Their Players</hl1>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER</byline>
+      <dateline>CHICAGO, June 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Before the 2006 season, Alex Rodriguez visited his neighbor Ramon Corona at North Carolina State. Corona is the Wolfpack's second baseman, and Rodriguez attended a weekend series. He watched from behind the catcher as a 6-foot-10 right-hander warmed up.</p>
+        <p>''He was phenomenal,'' Rodriguez said. ''I was like, 'That's major league stuff. That was awesome.' ''</p>
+      </block>
+      <block class="full_text">
+        <p>Before the 2006 season, Alex Rodriguez visited his neighbor Ramon Corona at North Carolina State. Corona is the Wolfpack's second baseman, and Rodriguez attended a weekend series. He watched from behind the catcher as a 6-foot-10 right-hander warmed up.</p>
+        <p>''He was phenomenal,'' Rodriguez said. ''I was like, 'That's major league stuff. That was awesome.' ''</p>
+        <p>Rodriguez remembered the pitcher's name, Andrew Brackman, and he was clearly delighted when the Yankees selected Brackman with the 30th overall pick in the first-year player draft Thursday. Rodriguez said that Brackman could be a No. 1 or 2 starter in the majors.</p>
+        <p>''I am pumped about this,'' said Rodriguez, who, like Brackman, is represented by the agent Scott Boras. ''This is cool.''</p>
+        <p>Brackman, 21, was 6-4 with a 3.81 earned run average in 13 starts as a junior this season. He also played two seasons for the North Carolina State basketball team, averaging 7.5 points.</p>
+        <p>Brackman was a preseason all-American selection by Baseball America, but his stock might have dropped because of physical concerns. Brackman said that he cut his season short because of elbow soreness and tightness in his forearm.</p>
+        <p>Based on the history of Boras's negotiations, Brackman could take awhile to sign. But he said that he wanted to start his career as soon as possible, and he sounded thrilled to be taken by the Yankees.</p>
+        <p>''This is a dream come true,'' said Brackman, who is from Cincinnati but rooted for the Yankees growing up. ''This is more than I ever could have asked for.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

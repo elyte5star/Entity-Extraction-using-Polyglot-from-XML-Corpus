@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Classes From Closed School Will Be Moved to College</title>
+    <meta content="03weeknjNJ-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852018"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">Paramus (NJ)</location>
+        <org class="indexing_service">Bergen Community College</org>
+        <person class="indexing_service">Tedesco, James J 3rd (Mayor)</person>
+        <person class="indexing_service">Randall, David K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3DA1030F930A35755C0A9619C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Classes From Closed School Will Be Moved to College</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID K. RANDALL</byline>
+      <byline class="normalized_byline">Randall, David K</byline>
+      <abstract>
+        <p>Several hundred students and teachers from West Brook Middle School in Paramus, NJ, will hold classes at Bergen Community College after Mayor James Tedesco orders school closed because soil is contaminated with pesticides; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seven hundred students and their teachers from West Brook Middle School in Paramus will begin holding classes at Bergen Community College on Tuesday, a week after Mayor James J. Tedesco III ordered the middle school campus closed because soil on school grounds was contaminated with pesticides.</p>
+        <p>School officials learned in December that the soil was contaminated at a level up to 39 times the state's safety guidelines, but did not inform parents until mid-May.</p>
+      </block>
+      <block class="full_text">
+        <p>Seven hundred students and their teachers from West Brook Middle School in Paramus will begin holding classes at Bergen Community College on Tuesday, a week after Mayor James J. Tedesco III ordered the middle school campus closed because soil on school grounds was contaminated with pesticides.</p>
+        <p>School officials learned in December that the soil was contaminated at a level up to 39 times the state's safety guidelines, but did not inform parents until mid-May.</p>
+        <p>Faculty members and administration will begin setting up their rooms and becoming familiar with the college campus on Monday, said Michael D. Redmond, the executive vice president of the college.</p>
+        <p>Janice Dime, the superintendent of Paramus Public Schools, said that students would be clustered by grade into about 30 rooms and that teachers would rotate between classrooms, rather than students.</p>
+        <p>Bergen Community College was ''able to accommodate our request for the classrooms, for the gymnasium, for computer rooms, for everything we would need to have an educationally good facility,'' Dr. Dime said. The college campus is less than a 10-minute drive from the middle school, she said.</p>
+        <p>Mr. Redmond said the college is holding its first summer session, with about 5,000 students. Faculty members offered to reschedule their classes to free up rooms on the campus, and the administration is working with the Paramus Police Department and its own public safety force to minimize contact between middle-schoolers and college students, he said.</p>
+        <p>Dr. Dime said the middle school students will use the college through June 25, but if the resumption of classes is pushed beyond Tuesday the district may have to extend that date to meet the state minimum of 180 days of instruction. Students have already completed all state-mandated tests, she said.</p>
+        <p>There are no plans to test students for exposure to pesticides, said Dr. Dime, who would not comment on whether the school may consider tests in the future.</p>
+        <p>DAVID K. RANDALL</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

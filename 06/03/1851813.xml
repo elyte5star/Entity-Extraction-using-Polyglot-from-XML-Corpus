@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books Worth a Spot On a Car Buff's Shelf</title>
+    <meta content="03CHAN" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851813"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BOOKS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4DB1530F930A35755C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books Worth a Spot On a Car Buff's Shelf</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD S. CHANG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Road &amp; Track Illustrated Automotive Dictionary  By John Dinkel  250 pages. Bentley Publishers. $19.95</p>
+        <p>For many people, automotive mechanics will always be one of the everlasting mysteries of life. Trips to the dealership for service or even combing through car reviews seem to entail a certain amount of technical decoding, which inevitably leads to head-scratching and frustration.</p>
+      </block>
+      <block class="full_text">
+        <p>Road &amp; Track Illustrated Automotive Dictionary  By John Dinkel  250 pages. Bentley Publishers. $19.95</p>
+        <p>For many people, automotive mechanics will always be one of the everlasting mysteries of life. Trips to the dealership for service or even combing through car reviews seem to entail a certain amount of technical decoding, which inevitably leads to head-scratching and frustration.</p>
+        <p>The staff of Road &amp; Track magazine had these laypeople in mind when it came up with its original Illustrated Automotive Dictionary in 1977.</p>
+        <p>Since then, there have been all sorts of breakthroughs in automotive technology, from antilock brakes to drive-by-wire throttles to the continuously variable transmission. A few years ago, John Dinkel, who was Road &amp; Track's editor in chief at the time of the original publication, updated the dictionary to include these advances. The latest edition contains more than 1,300 definitions and 435 black-and-white photographs and illustrations.</p>
+        <p>The latest edition arrived in 2000, just before the recent boom in environmental awareness, and there is a huge gap in the dictionary regarding alternative fuels. Ethanol made the cut, but other newfound catchwords, like biodiesel, hybrid and hydrogen fuel cell, didn't.</p>
+        <p>RICHARD S. CHANG</p>
+        <p>BOOKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Internets, They Can Be Cruel</title>
+    <meta content="04link" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/technology/04link.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852118"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LINK BY LINK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <location class="online_producer">London (England)</location>
+        <org class="online_producer">Reuters Group Plc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DF1130F937A35755C0A9619C8B63" item-length="972" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Internets, They Can Be Cruel</hl1>
+        <hl2 class="online_headline">The Internets, They Can Be Cruel</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Internet can sometimes seem overrun with versions of Simon, the alpha male tech guy from the BBC series ''The Office.''</p>
+        <p>When the show's protagonist, Tim, asks Simon what he is doing to his computer, Simon at first answers, ''You don't need to know,'' and then allows that he is installing a firewall for Tim.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest example of the danger of revealing technological weakness is Judge Peter Openshaw of the High Court, Queen’s Branch Division, in London.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Internet can sometimes seem overrun with versions of Simon, the alpha male tech guy from the BBC series ''The Office.''</p>
+        <p>When the show's protagonist, Tim, asks Simon what he is doing to his computer, Simon at first answers, ''You don't need to know,'' and then allows that he is installing a firewall for Tim.</p>
+        <p>''O.K. What's that?''</p>
+        <p>''It protects your computer against script kiddies, data collectors, viruses, worms and Trojan horses, and it limits your outbound Internet communications. Any more questions?''</p>
+        <p>''Yes. How long will it take?''</p>
+        <p>''Why? Do you want to do it yourself?''</p>
+        <p>''No, I can't do it myself. How long will it take you, out of interest?''</p>
+        <p>''It will take as long as it takes.''</p>
+        <p>''Right, er, how long did it take last time when -- ''</p>
+        <p>''It's done.''</p>
+        <p>Any modern office worker quickly learns that professing complete inadequacy is usually the best move in the presence of such a character. The same rules, however, don't apply in public life.</p>
+        <p>The latest example of the danger of revealing technological weakness is Judge Peter Openshaw of the High Court, Queen's Branch Division, in London. While presiding over the trial of three men charged under antiterrorism laws, he was quoted by Reuters last month as saying in open court: ''The trouble is, I don't understand the language. I don't really understand what a Web site is.''</p>
+        <p>The pillorying of the judge -- and Wikipedia entry -- came nearly instantly (en.wikipedia.org/wiki/Peter--Openshaw). Not since Senator Ted Stevens, Republican of Alaska, referred to the Internet as ''a bunch of tubes,'' or President Bush spoke of the ''Internets,'' had the Web grinned so widely.</p>
+        <p>The next day, the Judiciary of England and Wales issued an extraordinary statement asserting that Judge Openshaw's comments had been taken out of context. (Reuters, while reporting on that statement, said it ''stands by its story.'')</p>
+        <p>''Trial judges always seek to ensure that everyone in court is able to follow all of the proceedings,'' the statement said, adding that Judge Openshaw was acting not for himself but ''on behalf of all those following a case, in the interests of justice.''</p>
+        <p>In case anyone was curious, the statement concluded that ''Mr. Justice Openshaw is entirely computer literate and indeed has taken notes on his own computer in court for many years.''</p>
+        <p>Some in the British press parsed that official explanation, wondering why the judge hadn't said explicitly that he was asking on behalf of the jury, if that is what he meant. Others came to his defense.</p>
+        <p>Alex Carlile, a member of the House of Lords, wrote in The Independent that he could attest that Judge Openshaw had a ''sharp, incisive brain often well ahead of the barristers before him. He is at ease with a computer; I have seen him taking notes on it in court, as habitually he does.''</p>
+        <p>When I spoke by phone with the judiciary's press office, I suggested that the judge use e-mail to send me his thoughts on the controversy and let the medium be the message. A spokeswoman there cast doubt on that idea, saying that the judicial e-mail system worked only internally -- but she said that she would relay my request.</p>
+        <p>I suppose she may have sent him an electronic message with the details, but I'd like to think a clerk wrapped the note in a ribbon and rode by carriage to the courthouse. I never heard back, but I haven't checked with Western Union for several days.</p>
+        <p>Such tales of technological cluelessness can serve as entertainment, or even provide a common folklore for the online world. But surely there is also an aspect of marking turf against ''the technologically ignorant masses,'' an instinct Simon the tech guy would surely recognize. Silence, while the master works.</p>
+        <p>Edward W. Felten, a professor of computer science and public affairs at Princeton, says it is hardly a coincidence that Internet commentators seize on slips by public officials. ''There is a widespread belief online that many politicians and policy makers don't understand the Internet well enough to regulate it,'' he said.</p>
+        <p>Senator Stevens offered his description of the Internet last summer, as chairman of the committee responsible for telecommunications, commenting on the issue known as Net neutrality. ''The Internet,'' he said, ''is not something that you just dump something on. It's not a big truck. It's, it's a series of tubes.''</p>
+        <p>To the online activists who favor Net neutrality -- the principle that high-speed Internet companies not be allowed to charge content providers for priority access -- Mr. Stevens is the enemy, and an unworthy one at that. Hardly a day goes by on liberal sites like Daily Kos or Eschaton that ''bunch of tubes'' won't appear. On Thursday, it was prominently displayed on both. (A Google search of ''bunch of tubes'' and ''Stevens'' brings in 8,310 results.)</p>
+        <p>Professor Felten, using his authority as a computer expert, defended the senator.</p>
+        <p>''I felt the criticism had gone too far,'' he said, ''had gone to the point of unfairness. It seemed to me that talking about the Internet as 'tubes' wasn't too far from what even some of the experts do -- talking about 'pipes.' ''</p>
+        <p>Professor Felten describes himself on the Net neutrality issue as believing ''there is a problem, but I don't think government can solve it.'' But he said his sympathy for the senator had nothing to do with a shared outlook. Instead, he preached humility.</p>
+        <p>''The Internet is pretty complicated,'' he said. ''Nobody understands everything about how the Internet works.'' He then spoke about the complexity of ''emergent behavior'' and some other ideas I hadn't heard before.</p>
+        <p>When I told him that, of course the Internet wasn't a bunch of tubes, it was a ''bunch of wires,'' he laughed. ''Saying the Internet is a 'bunch of wires' is like saying your body is a bunch of meat.''</p>
+        <p>Know-it-all.</p>
+        <p>LINK BY LINK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art as a Bitter Pill, Coated With Sweetener</title>
+    <meta content="05ink" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/nyregion/05ink.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852294"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">New York Foundation for the Arts</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDB1130F936A35755C0A9619C8B63" item-length="451" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art as a Bitter Pill, Coated With Sweetener</hl1>
+        <hl2 class="online_headline">Art as a Bitter Pill, Coated With Sweetener</hl2>
+      </hedline>
+      <byline class="print_byline">By ROJA HEYDARPOUR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN a sweet, thin voice that broke into a giggle, Andrea Dezsö showed her delicately made book of paintings, which took her a year to complete.</p>
+        <p>''This is when insects come and attack Steinway Street,'' she said of one of the pictures, as she sat in her apartment in Jackson Heights, Queens, which also doubles as her art studio.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The work of Andrea Dezsö shows sometimes distasteful subject matter in a style that makes it easier to digest.</p>
+      </block>
+      <block class="full_text">
+        <p>IN a sweet, thin voice that broke into a giggle, Andrea Dezsö showed her delicately made book of paintings, which took her a year to complete.</p>
+        <p>''This is when insects come and attack Steinway Street,'' she said of one of the pictures, as she sat in her apartment in Jackson Heights, Queens, which also doubles as her art studio.</p>
+        <p>Then there was the diagram she painted of the inside of a dead fly she found on the street. And the embroidery series, 50 stitchings on white cloth called ''Lessons From My Mother,'' which was recently shown at the Hungarian Cultural Center in SoHo.</p>
+        <p>From afar, the stitching and calming colors looked like the work of a doting grandmother, but up close there were images of vaginas, fetuses and a study of the myths that mothers told their daughters in Transylvania, Romania, where Ms. Dezsö, 39, was raised.</p>
+        <p>''It's kind of like a sugar-coated pill with a really bitter inside,'' she said about her work. ''But the pill still goes down.''</p>
+        <p>That theme shows through in most every aspect of Ms. Dezsö's work. She was one of the 124 artists out of more than 3,000 applicants who received a fellowship in May from the New York Foundation for the Arts, hers in the form of a $7,000 grant.</p>
+        <p>From her artistic process to her demeanor, Ms. Dezsö is paradoxical. With a box cutter and thick watercolor paper, she created detailed, tiny paper cutouts, including shockingly realistic paper people engaged in sexual intercourse.</p>
+        <p>Ms. Dezsö moved to New York in 1997 after receiving a residency at the New York Center for Book Arts, a group dedicated to preserving the traditional craft of making books. Much of her work reflects her childhood in a Communist society.</p>
+        <p>A memory of a slaughtered pig outside the plain building where she lived became an inspiration for more than one of her works, including a pop-up book. The dismembered animal was on the sidewalk and the image stuck because such an act seemed out of place on a city street.</p>
+        <p>Ms. Dezsö, who teaches at Parsons the New School for Design, plans to use the grant money to send her 14-year-old son, her only child, to camp this summer so he can get out of the city and she can have more time to work.</p>
+        <p>Working in the city has provided fodder for many of her ideas and for her embroidery series, which she stitched while traveling throughout the city. A woman stitching in public is viewed differently in different neighborhoods, Ms. Dezsö found.</p>
+        <p>''If I'm in Queens, people think I'm a traditional woman,'' Ms. Dezsö said. ''If I'm in Manhattan, it's the hippest thing.''</p>
+        <p>INK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Battle of the Sexes Stirs for the Belmont</title>
+    <meta content="06racing" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/sports/othersports/06racing.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852555"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HORSE RACING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Belmont Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Belmont Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <person class="online_producer">Pletcher, Todd</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2DD1E30F935A35755C0A9619C8B63" item-length="540" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Battle of the Sexes Stirs for the Belmont</hl1>
+        <hl2 class="online_headline">Filly Rags to Riches Will Take on the Boys at Belmont</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE DRAPE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What had been shaping up as a ho-hum Belmont Stakes received some star power yesterday when the filly Rags to Riches was confirmed as a starter for the 139th running of the race Saturday.</p>
+        <p>Battles between the sexes in horse racing have been around since the beginning of the sport. The filly Ruthless won the first Belmont in 1867. But the debate about the battle has become louder recently, especially in the spring, when the rich Triple Crown races showcase the maturing 3-year-old horses.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For only the 22nd time in the race’s 139-year history, a filly will run against the 3-year-old colts in the Belmont Stakes this weekend.</p>
+      </block>
+      <block class="full_text">
+        <p>What had been shaping up as a ho-hum Belmont Stakes received some star power yesterday when the filly Rags to Riches was confirmed as a starter for the 139th running of the race Saturday.</p>
+        <p>Battles between the sexes in horse racing have been around since the beginning of the sport. The filly Ruthless won the first Belmont in 1867. But the debate about the battle has become louder recently, especially in the spring, when the rich Triple Crown races showcase the maturing 3-year-old horses.</p>
+        <p>Only 38 fillies have started in the 133-year history of the Kentucky Derby, and only 3 have won: Regret in 1915, Genuine Risk in 1980 and Winning Colors in 1988.</p>
+        <p>Rags to Riches will be the 22nd filly to try the Belmont in 139 years, and the first since Silverbulletday finished seventh in 1999. Besides Ruthless, who won the Belmont at the long-gone Jerome Park in 1867, the only other filly to win was Tanya in 1905.</p>
+        <p>Those two fillies won the Belmont at different distances -- Ruthless at the longer mile and five-eighths and Tanya at a shorter mile and a quarter. The Belmont is now a mile and a half.</p>
+        <p>''It's pretty intimidating,'' said the trainer Todd Pletcher of the statistical evidence that lines up against his horse, Rags to Riches. ''It makes you really not want to try it.''</p>
+        <p>Ultimately, however, Pletcher and the filly's owner, Michael Tabor, said they believed Rags to Riches was special. She has won four of her five lifetime starts, including a four-and-a-quarter-length victory in the Kentucky Oaks on May 4. She is also impeccably bred for the grueling once-in-a-lifetime distance of the Belmont. Her father, A .P. Indy, won the race in 1992, and her half-brother Jazil captured last year's Belmont.</p>
+        <p>''If there's any advantage that we have, it's the fact that we have a horse that wants the mile and a half,'' Pletcher said. ''We can take a shot at history and do something extra special.''</p>
+        <p>The filly's entry into the $1 million race set off a scramble among jockeys trying to nail down a realistic contender in the Belmont, the third leg of the Triple Crown. John Velazquez, Pletcher's main rider, decided to ride Rags to Riches, leaving Slew's Tizzy without a rider even though he is coming here after winning the Lexington Stakes and the Lone Star Derby.</p>
+        <p>Greg Fox, the trainer of Slew's Tizzy, quickly named Rafael Bejarano as his replacement rider. ''That's racing,'' Fox said. ''It doesn't affect my enthusiasm or confidence in the horse.''</p>
+        <p>Rags to Riches changed the complexion of the race. The connections of one horse, Time Squared, decided to wait to race another day. Another potential entry, Digger, will probably not run.</p>
+        <p>And while Curlin, the Preakness winner, remains the likely favorite for the Belmont, Rags to Riches is being taken seriously by her remaining opponents. Street Sense, the Kentucky Derby winner, is not running in the Belmont.</p>
+        <p>''I expect her to put in a very formidable run,'' said Larry Jones, the trainer of Hard Spun, who was the runner-up in the Derby and finished third in the Preakness. ''She's quality, and believe me, you'll have to run a mile and a half to beat her.''</p>
+        <p>HORSE RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

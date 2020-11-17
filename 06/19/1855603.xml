@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rags to Riches Will Probably Not Race Colts Again This Year</title>
+    <meta content="19racing" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/sports/19racing.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855603"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Belmont Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Belmont Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <person class="online_producer">Finley, Bill</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6DE133FF93AA25755C0A9619C8B63" item-length="434" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rags to Riches Will Probably Not Race Colts Again This Year</hl1>
+        <hl2 class="online_headline">Rags to Riches Will Probably Not Race Colts Again This Year</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL FINLEY</byline>
+      <byline class="normalized_byline">Finley, Bill</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although no firm plans have been made for the Belmont Stakes winner Rags to Riches beyond her next scheduled start,  it appears  she may not face colts in the Travers Stakes or at any time this year.</p>
+        <p>Her next appearance will be against fillies in the Coaching Club American Oaks at Belmont Park on July 21. The Travers, run Aug. 25 at Saratoga Race Course, is perhaps the only race left this year that could feature a showdown among the three winners of the Triple Crown races. The Kentucky Derby winner Street Sense is definitely being pointed to the race.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Although no firm plans have been made for the Belmont Stakes winner Rags to Riches beyond her next scheduled start, it appears she may not face colts for the rest of the year.</p>
+      </block>
+      <block class="full_text">
+        <p>Although no firm plans have been made for the Belmont Stakes winner Rags to Riches beyond her next scheduled start,  it appears  she may not face colts in the Travers Stakes or at any time this year.</p>
+        <p>Her next appearance will be against fillies in the Coaching Club American Oaks at Belmont Park on July 21. The Travers, run Aug. 25 at Saratoga Race Course, is perhaps the only race left this year that could feature a showdown among the three winners of the Triple Crown races. The Kentucky Derby winner Street Sense is definitely being pointed to the race.</p>
+        <p>It is also a  probable target for the Preakness winner Curlin, who  will make his next start in the  Haskell Invitational on Aug. 5 at Monmouth Park Race Track in Oceanport, N.J.  Street Sense may also be entered in the Haskell.</p>
+        <p>Michael Tabor, the co-owner of Rags to Riches, who is trained by Todd Pletcher, would not rule out a start in the Travers. But  Tabor said yesterday that it was more likely  his filly would start  in the  Alabama Stakes at Saratoga against fillies on Aug. 18. The Alabama and the Travers are run at a distance of a mile and a quarter (10 furlongs).</p>
+        <p>''After the Coaching Club, the obvious choices are the Alabama and the Travers,'' Tabor said. ''At this moment in time, though, the Alabama is the favorite. She's already proven herself against the boys. She won the Belmont at a mile and a half, and the other two races are at a mile and a quarter. I'll leave the final decision up to Todd.</p>
+        <p>I know everybody would love to see her do it again, but, for me, she's already proven herself against the boys.''</p>
+        <p>Tabor, who said he planned to keep Rags to Riches racing next year, said his filly might run against colts in 2008 or even the next year.</p>
+        <p>''We plan to run her next year, and who's to say she won't run as a 5-year-old?'' Tabor said. ''We have all the time in the world to consider running her against the boys.''</p>
+        <p>Rags to Riches is undefeated this year in five starts, and she became the first filly to win the Belmont Stakes in 102 years.</p>
+        <p>Notes</p>
+        <p>The Green Monkey, who was sold last year as a 2-year-old  for a world-record $16 million, worked three furlongs in 38.6 seconds Sunday at Belmont. Michael Tabor is a co-owner and  Todd Pletcher  is the trainer.  The Green Monkey, who has been out with a muscle problem, had not had a published workout since October.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

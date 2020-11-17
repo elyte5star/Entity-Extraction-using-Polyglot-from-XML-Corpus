@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Same Breath As a Screen Classic</title>
+    <meta content="10suits-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853308"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0DD163FF933A25755C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Same Breath As a Screen Classic</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal judge in Minneapolis made a tart comparison when he gave the go-ahead last week to a class-action lawsuit against the giant insurer UnitedHealth Group and William W. McGuire, its former chairman and chief executive.</p>
+        <p>United States District Judge James M. Rosenbaum said the suit's accusation -- that the company inflated its share price by not disclosing the backdating of employee stock options -- ''lies at the core of the plot'' of ''The Sting,'' the 1973 film with Paul Newman and Robert Redford as con men who bet on horse races after they are run.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal judge in Minneapolis made a tart comparison when he gave the go-ahead last week to a class-action lawsuit against the giant insurer UnitedHealth Group and William W. McGuire, its former chairman and chief executive.</p>
+        <p>United States District Judge James M. Rosenbaum said the suit's accusation -- that the company inflated its share price by not disclosing the backdating of employee stock options -- ''lies at the core of the plot'' of ''The Sting,'' the 1973 film with Paul Newman and Robert Redford as con men who bet on horse races after they are run.</p>
+        <p>Accusations that the company backdated options to maximize executive compensation led to the departure last November of Dr. McGuire, a medical doctor who built the company, based in Minneapolis, into one of the nation's largest insurers. He was the biggest recipient of stock options. Mr. McGuire's lawyers sent Judge Rosenbaum a letter disputing his ruling.</p>
+        <p>Calpers, the California Public Employees' Retirement Fund, sued to recover damages from any changes in the stock price from backdating of options.</p>
+        <p>In bringing up ''The Sting,'' Judge Rosenbaum noted in his ruling denying the motion to dismiss that he had ''not the slightest opinion as to whether such shenanigans occurred here.''</p>
+        <p>But if contentions by Calpers that executives ''were playing a game with a stacked deck'' are true, then ''this case is incredibly simple,'' he said. ''When awarded options, with deliberately selected grant dates that were already in the money,'' he wrote, ''defendants were playing a game they knew they could not lose; and, unsurprisingly, defendants won.''</p>
+        <p>UnitedHealth has acknowledged that some stock option grants were probably backdated favorably, but a spokesman, Don Nathan, said that the plaintiffs would have a hard time proving harm since they benefited from an explosion in the stock price between 1994 and 2002, the period at issue.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

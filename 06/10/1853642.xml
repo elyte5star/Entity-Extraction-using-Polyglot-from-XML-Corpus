@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Katherine Rogers, Seton Marshall</title>
+    <meta content="10Rogers" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10Rogers.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853642"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Rogers, Katherine Beeland (Katherine Beeland Marshall)</person>
+        <person class="indexing_service">Marshall, Seton Gray</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D61F30F933A25755C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Katherine Rogers, Seton Marshall</hl1>
+        <hl2 class="online_headline">Katherine Rogers, Seton Marshall</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Katherine Beeland Rogers, a daughter of Jeanne Rogers and Ernest Mabry Rogers of Birmingham, Ala., was married last evening to Seton Gray Marshall, the son of Joseph Paull Marshall Jr. and the stepson of Barbara A. Marshall of Princeton, N.J. Canon John Thompson Brown, an Episcopal priest, performed the ceremony at the Cathedral Church of the Advent in Birmingham with the Rev. Samuel Gates Shaw, also an Episcopal priest, participating.</p>
+        <p>The couple graduated from Princeton, where they met.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Katherine Beeland Rogers, a daughter of Jeanne Rogers and Ernest Mabry Rogers of Birmingham, Ala., was married last evening to Seton Gray Marshall, the son of Joseph Paull Marshall Jr. and the stepson of Barbara A. Marshall of Princeton, N.J. Canon John Thompson Brown, an Episcopal priest, performed the ceremony at the Cathedral Church of the Advent in Birmingham with the Rev. Samuel Gates Shaw, also an Episcopal priest, participating.</p>
+      </block>
+      <block class="full_text">
+        <p>Katherine Beeland Rogers, a daughter of Jeanne Rogers and Ernest Mabry Rogers of Birmingham, Ala., was married last evening to Seton Gray Marshall, the son of Joseph Paull Marshall Jr. and the stepson of Barbara A. Marshall of Princeton, N.J. Canon John Thompson Brown, an Episcopal priest, performed the ceremony at the Cathedral Church of the Advent in Birmingham with the Rev. Samuel Gates Shaw, also an Episcopal priest, participating.</p>
+        <p>The couple graduated from Princeton, where they met.</p>
+        <p>Until last month Mrs. Marshall, 25, worked in New York as the senior manager of corporate development at 1st Financial Bank USA, a provider of financial services for college students and graduates based in Dakota Dunes, S.D.</p>
+        <p>Her father is a partner in Bradley Arant Rose &amp; White, a law firm in Birmingham. Her mother is an interior decorator and the owner of Finders Keepers, an antiques business with locations in Atlanta and Birmingham.</p>
+        <p>Mr. Marshall, 27, was until May the director of financial planning and analysis at Eos Airlines, an airline specializing in trans-Atlantic business travel, which is based in Purchase, N.Y. Starting in August he is to begin studying for an M.B.A. at the University of Virginia.</p>
+        <p>Mr. Marshall is also the son of the late Leslie Fleming Marshall. His father retired as an assistant managing editor of Sports Illustrated in New York. The bridegroom's stepmother retired as a preschool teacher at the Stuart Country Day School of the Sacred Heart in Princeton.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

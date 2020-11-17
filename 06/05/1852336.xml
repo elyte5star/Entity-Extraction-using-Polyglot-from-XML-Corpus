@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The TB Patient And the What-Ifs</title>
+    <meta content="l05tb" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852336"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03EEDA1130F936A35755C0A9619C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The TB Patient And the What-Ifs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Agent at Border, Aware of Alert, Did Not Detain Man Who Has TB'' (front page, June 1):</p>
+        <p>Perhaps one good outcome of this ordeal is a new appreciation of why we, as a nation, need to know and care about public health threats brewing around the globe -- before they cross our borders.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Agent at Border, Aware of Alert, Did Not Detain Man Who Has TB'' (front page, June 1):</p>
+        <p>Perhaps one good outcome of this ordeal is a new appreciation of why we, as a nation, need to know and care about public health threats brewing around the globe -- before they cross our borders.</p>
+        <p>We had a scare with the avian flu, but this tuberculosis case has brought the issue down to a very personal level.</p>
+        <p>Will this be the watershed event that will change our apathy into action?</p>
+        <p>Susan Moses  Boston, June 1, 2007</p>
+        <p>The writer is deputy director of the Center for Health Communication at Harvard School of Public Health.</p>
+        <p>To the Editor:</p>
+        <p>As a physician and a woman of ethnic origin, I am disturbed that Andrew Speaker, the man with a dangerous form of tuberculosis, feels that an apology is acceptable. But that is a decision that he and his family will obviously have to live with.</p>
+        <p>I pose the following scenario and wonder how different the response would be if the patient in question were a young male of Islamic origin?</p>
+        <p>Kavita K. Patel, M.D.  Santa Monica, Calif., June 1, 2007</p>
+        <p>To the Editor:</p>
+        <p>The border agent let Andrew Speaker pass, despite knowing that he was being sought by health authorities, on the grounds that he did not look sick.</p>
+        <p>Does that mean that in a parallel case, someone who does not look like a terrorist will also be allowed entry?</p>
+        <p>Margaret Smyth  Charlestown, Mass., June 1, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

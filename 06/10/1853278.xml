@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beware Of Exploding Mortgages</title>
+    <meta content="10gret" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10gret.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FAIR GAME"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7DF163FF933A25755C0A9619C8B63" item-length="1232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beware Of Exploding Mortgages</hl1>
+        <hl2 class="online_headline">Beware of Exploding Mortgages</hl2>
+      </hedline>
+      <byline class="print_byline">By GRETCHEN MORGENSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANYONE who believes that the worst is over in the subprime mortgage fiasco need merely wait awhile. A tsunami of interest rate increases on these loans is headed your way.</p>
+        <p>Adjustable-rate mortgages, with interest rates that recalibrate according to market fluctuations, have been among the more questionable ''innovations'' sweeping through the staid world of home lending in recent years. Especially ingenious -- for lenders, at least -- were so-called exploding A.R.M.'s that lured borrowers with unusually low teaser rates that then reset skyward two or three years later (typically pegged to the London Interbank Offered Rate, plus six percentage points).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A tsunami of interest rate increases on adjustable-rate mortgages is coming, meaning that the worst of the subprime lending fiasco is far from over.</p>
+      </block>
+      <block class="full_text">
+        <p>ANYONE who believes that the worst is over in the subprime mortgage fiasco need merely wait awhile. A tsunami of interest rate increases on these loans is headed your way.</p>
+        <p>Adjustable-rate mortgages, with interest rates that recalibrate according to market fluctuations, have been among the more questionable ''innovations'' sweeping through the staid world of home lending in recent years. Especially ingenious -- for lenders, at least -- were so-called exploding A.R.M.'s that lured borrowers with unusually low teaser rates that then reset skyward two or three years later (typically pegged to the London Interbank Offered Rate, plus six percentage points).</p>
+        <p>During the next five years, some $1 trillion in adjustable-rate mortgages will reset. But in the here and now -- from just June to October this year -- more than $100 billion of that amount is scheduled to reset, and all of it is in loans that are in the riskier subprime category. Given the recent interest rate spike, many of those loans that once carried low teaser rates are on track to reset to at least 11 percent -- or more than four percentage points higher than the current rate on a conventional, 30-year home loan.</p>
+        <p>Chances are slim that even the most creditworthy borrowers can survive payment shocks like these. And so, as the reset storm hits, delinquencies will rise and foreclosures will follow. It is too early to estimate how many foreclosures will take place as a result, but last year there were 1.2 million, according to RealtyTrac, an online real estate database.</p>
+        <p>In one index of mortgages that tracks 20 loan pools issued in the second half of 2005 -- a subset of an index called the ABX -- some 42 percent of those loans are about to hit the reset button on their interest rates. But we don't have to wait for that to happen to know there's trouble brewing: delinquencies in the ABX loan pools have already started ballooning. A Morgan Stanley analysis shows that 8 percent of mortgage loans in pools put together in the latter part of 2005 were more than 60 days delinquent in May. Even more worrisome, almost 4 percent of the loans made in the second half of 2006 were more than two months delinquent. That's almost double the delinquency rate for loans made one year earlier and at the same point in their terms.</p>
+        <p>What's more, fully 35 percent of the most recently issued loan pools in the index have delinquency rates that exceed the target levels specified when they were sold to investors. And for loans made in the first half of 2006, three-quarters are exceeding their delinquency targets.</p>
+        <p>ADD to this grim picture the fact that many of the loans taken out most recently are held by people who probably have little or no equity in their homes. As prices soften further, these borrowers will find themselves ''upside down'' -- owing more on their mortgage than their houses are worth.</p>
+        <p>None of this bodes well for home prices, which are already flat or falling. Then again, this is what a mania always looks like when it unravels.</p>
+        <p>Elizabeth Warren, a Harvard Law School professor and bankruptcy expert, said that this ugly scenario is proof that consumers need protection from financial products that can wipe them out. She is calling for the creation of a Financial Product Safety Commission to oversee the increasingly complex market for loans and other financial goods. (For a more elaborate explanation, you can read her article in ''Democracy: A Journal of Ideas'' online at democracyjournal.org/article.php?ID=6544.)</p>
+        <p>''We have basic safety regulations for nearly every product a consumer can buy, except the ones that ruin them financially,'' Ms. Warren said in an interview. ''We would not be where we are today with home mortgage foreclosures and millions of families in bankruptcy or on the brink of economic collapse if we had had better regulation of financial products.''</p>
+        <p>A data point in support of her thesis: five years ago, Fannie Mae estimated that 50 percent of the borrowers who took out subprime mortgages had credit profiles that could have qualified them for prime rates. While that may not have been the case in the late stages of the mania, it suggests that some of the people who are facing enormous resets may be doing so unnecessarily.</p>
+        <p>Many in the industry argue, of course, that borrowers, not lenders, are responsible for any problems they experience with their loans. If they didn't want a loan that would reset to a sky-high level, why did they sign the documents?</p>
+        <p>''If we had 1.2 million people whose toasters had exploded this year, we would not be saying they should have checked the wiring more closely before they bought those things,'' Ms. Warren said. ''We would say those are products that should not have been put on the market. I completely understand it makes no sense to try to insure that every product will be 100 percent safe. But consumers should not be faced with products that are so unsafe that they will cost them their homes.''</p>
+        <p>Ms. Warren's idea for a financial product consumer safety unit will probably be laughed off the stage by the anti-regulation crowd. Get ready for gripes and groans from the usual suspects saying that increased regulation would poison the American economy and cripple our competitiveness.</p>
+        <p>''The anti-regulation folks say all regulation is bad, and yet we live in a world where regulation works most of the time,'' she said. ''We don't eat tainted meat and we don't drink adulterated milk because we have fairly good regulation. Financial products are no different. Free markets are not well supported when consumers are at risk for injury.''</p>
+        <p>It would be nice if this notion got an airing on Capitol Hill on Wednesday, when Representative Barney Frank, the Massachusetts Democrat who is chairman of the House Financial Services Committee, convenes hearings on the future of federal consumer protection in the financial industry. Makers of exploding toasters would surely be dragged to Congress to explain themselves; why shouldn't the people who manufactured exploding mortgages be asked to do the same?</p>
+        <p>Some states are taking the matter of protecting consumers into their own hands. Last week, Maine's state Senate followed its House of Representatives in unanimously passing legislation that requires lenders there to evaluate a borrower's ability to repay a mortgage and recommend only loans that make sense for them. It would also prohibit lenders from charging financing points and fees in high-cost mortgages, a practice that allows lenders to both strip equity from homeowners and hide the true cost of the loan.</p>
+        <p>THE law brings to mind the suitability requirements in federal securities regulations that protect investors. Stockbrokers are not allowed to peddle stocks and bonds to clients whose financial situation or risk tolerance make the investments inappropriate. Why shouldn't mortgage bankers be subjected to a similar prohibition?</p>
+        <p>Gov. John E. Baldacci is scheduled to sign the Maine Homeowner Protection Act tomorrow. Kaylene Waindle, special assistant to Glenn Cummings, Maine's House speaker and lead sponsor of the bill, said: ''While we hope that the federal government takes some action, to wait on somebody else to protect our citizens would be irresponsible. We also feel pretty strongly that this bill can serve as a blueprint for the federal government.''</p>
+        <p>State regulators have shamed their federal counterparts into action before. Let's see if they can do it again.</p>
+        <p>FAIR GAME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

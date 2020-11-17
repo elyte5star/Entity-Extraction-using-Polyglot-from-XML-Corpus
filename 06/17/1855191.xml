@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DataBank; Rallies Soothe Investor Fears on Bond Yields</title>
+    <meta content="17data" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855191"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Sommer, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7D9153FF934A25755C0A9619C8B63" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DataBank; Rallies Soothe Investor Fears on Bond Yields</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+      <abstract>
+        <p>Roundup of last week's stock market performance; graphs; charts (L)0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market rebounded and the Standard &amp; Poor's 500-stock index climbed to its best weekly gain in several months, although bond yields also rose.</p>
+        <p>A five-week surge in bond yields has concerned stock investors, leading to big losses the previous week. And last week, the yield on the benchmark 10-year Treasury note closed at 5.16 percent, up from 5.1 percent a week earlier -- and nearly half a percentage point higher than it had been at the beginning of the year. But on Friday, a relatively moderate report on inflation -- the core Consumer Price Index rose by 2.2 percent on an annual basis in May -- evidently calmed some concerns.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market rebounded and the Standard &amp; Poor's 500-stock index climbed to its best weekly gain in several months, although bond yields also rose.</p>
+        <p>A five-week surge in bond yields has concerned stock investors, leading to big losses the previous week. And last week, the yield on the benchmark 10-year Treasury note closed at 5.16 percent, up from 5.1 percent a week earlier -- and nearly half a percentage point higher than it had been at the beginning of the year. But on Friday, a relatively moderate report on inflation -- the core Consumer Price Index rose by 2.2 percent on an annual basis in May -- evidently calmed some concerns.</p>
+        <p>General Motors gained 11.8 percent for the week, the best performance among the Dow industrials, on a report that the company is seeking concessions on its health care costs from the United Automobile Workers union. Intel, which said it would cut the price of some of its chips, gained 11 percent for the week</p>
+        <p>For the week, the Dow Jones industrial average rose 215.09 points, or 1.6 percent, to close at 13,639.48. The S.&amp; P. 500 climbed 25.24 points, or 1.7 percent, to close at 1,532.91. The Nasdaq composite index jumped 53.17 points, or 2.1 percent, to close at 2,626.71.</p>
+        <p>JEFF SOMMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

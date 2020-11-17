@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Evening Full of Trios, Combining Bach and Ballet</title>
+    <meta content="05trad" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/arts/dance/05trad.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">New York City Ballet</org>
+        <person class="online_producer">Gilliland, Kaitlyn</person>
+        <person class="online_producer">Whelan, Wendy</person>
+        <person class="online_producer">Bouder, Ashley</person>
+        <person class="online_producer">Robbins, Jerome</person>
+        <person class="online_producer">Balanchine, George</person>
+        <person class="online_producer">Kowroski, Maria</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3DB1130F936A35755C0A9619C8B63" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Evening Full of Trios, Combining Bach and Ballet</hl1>
+        <hl2 class="online_headline">An Evening Full of Trios, Combining Bach and Ballet</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In life there can never be too much Bach. If only the same could be said for New York City Ballet's latest compilation program, ''Three by Bach,'' an evening of dances by George Balanchine, Christopher d'Amboise and Jerome Robbins, whose portion was a revival of his sparkling 1997 ''Brandenburg.'' For a program to fulfill an artistic craving, variety is crucial.</p>
+        <p>In ''Concerto Barocco,'' Balanchine's masterly 1941 ballet to Bach's Double Violin Concerto in D minor, two ballerinas mirror the violin solos. When it works, it's as if the instruments were expressed through fleeting footwork and arching legs caressing the air -- a joyful, jazzy conversation. But Wendy Whelan and Rachel Rutherford, lacking sharpness in their feet and scrupulous syncopation, made it all seem rather flimsy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In life there can never be too much Bach. If only the same could be said for New York City Ballet’s latest compilation program.</p>
+      </block>
+      <block class="full_text">
+        <p>In life there can never be too much Bach. If only the same could be said for New York City Ballet's latest compilation program, ''Three by Bach,'' an evening of dances by George Balanchine, Christopher d'Amboise and Jerome Robbins, whose portion was a revival of his sparkling 1997 ''Brandenburg.'' For a program to fulfill an artistic craving, variety is crucial.</p>
+        <p>In ''Concerto Barocco,'' Balanchine's masterly 1941 ballet to Bach's Double Violin Concerto in D minor, two ballerinas mirror the violin solos. When it works, it's as if the instruments were expressed through fleeting footwork and arching legs caressing the air -- a joyful, jazzy conversation. But Wendy Whelan and Rachel Rutherford, lacking sharpness in their feet and scrupulous syncopation, made it all seem rather flimsy.</p>
+        <p>Mr. d'Amboise's ''Tribute,'' created for students at the School of American Ballet, quotes liberally from Balanchine ballets, and when placed next to ''Concerto Barocco,'' it can't help suffering.</p>
+        <p>But the cast, including Kaitlyn Gilliland, airily elegant in a debut, enlivened the ballet with youthful exuberance. Devin Alberda was particularly shimmering in an opening solo infused with poetic daring, and Ashley Bouder, opposite Tyler Angle in the pas de deux, was a marvel, spinning straw into gold.</p>
+        <p>The evening's highlight, Robbins's ''Brandenburg,'' set to four of Bach's concertos (Nos. 3, 2, 1 and 6), begins with a group dressed in Holly Hynes's pretty peasant costumes and standing in a triangle formation, led at its point by Rachel Piskin . Her name was left out of the program, but she epitomized the ballet's ebullient spirit.</p>
+        <p>The ballet begins, quite charmingly, with classroom pliés, but soon bodies blossom into wreaths -- a kaleidoscope of patterns -- leading the way for the first principal couple, Ms. Bouder and Andrew Veyette, who glided along with superb panache.</p>
+        <p>The second dreamy pas de deux showcases a couple that come within inches of each other, but rarely touch. The atmosphere, like a flickering candle, should glow and spark, but Maria Kowroski and Philip Neal had a difficult time capturing its inherent mystery. In the final allegro the dancers were visibly taxed, yet for all of the blurring of the details, ''Brandenburg'' remains an unequivocal delight.</p>
+        <p>''Three by Bach'' repeats tomorrow, Saturday and June 16 at the New York State Theater, Lincoln Center; (212) 870-5570, nycballet.org.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

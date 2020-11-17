@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stormy Schubert, Soaring Mahler, Easy-Does-It Gershwin</title>
+    <meta content="10tomm" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853494"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Tommasini, Anthony</person>
+        <person class="indexing_service">Andsnes, Leif Ove</person>
+        <person class="indexing_service">Bostridge, Ian</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DF1E30F933A25755C0A9619C8B63" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stormy Schubert, Soaring Mahler, Easy-Does-It Gershwin</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY TOMMASINI</byline>
+      <byline class="normalized_byline">Tommasini, Anthony</byline>
+      <abstract>
+        <p>Anthony Tommasini reviews new CD of Schubert Piano Sonata in C Minor (D 958), lieder and fragments performed by pianist Leif Ove Andsnes and tenor Ian Bostridge; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Schubert: Piano Sonata in C minor (D. 958), Lieder, Fragments  Leif Ove Andsnes, pianist; Ian Bostridge, tenor. EMI Classics 3 84321 2; CD.</p>
+        <p>AT the end of his terribly short life, Schubert composed three monumental piano sonatas. Though the Sonatas in B flat and A have become standard repertory works, the Sonata in C minor has never quite caught on. There seems to be a general perception that this stormy work is less fully realized. The finale, an episodic Allegro driven by a relentless tarantella rhythm, can sometimes seem awkward and uninspired.</p>
+      </block>
+      <block class="full_text">
+        <p>Schubert: Piano Sonata in C minor (D. 958), Lieder, Fragments  Leif Ove Andsnes, pianist; Ian Bostridge, tenor. EMI Classics 3 84321 2; CD.</p>
+        <p>AT the end of his terribly short life, Schubert composed three monumental piano sonatas. Though the Sonatas in B flat and A have become standard repertory works, the Sonata in C minor has never quite caught on. There seems to be a general perception that this stormy work is less fully realized. The finale, an episodic Allegro driven by a relentless tarantella rhythm, can sometimes seem awkward and uninspired.</p>
+        <p>Actually there are some very distinguished recordings of this elusive work. The pianist Leif Ove Andsnes here contributes another: an elegant, sensitive and exciting account, the last in a series of Schubert recordings for EMI that pair this superb Norwegian pianist in late piano sonatas with selected groups of songs, performed by the British tenor Ian Bostridge.</p>
+        <p>Mr. Andsnes treats the mood swings in the C minor Sonata with straightforward musical integrity and plays with vigor, clarity and sweep. The tender Adagio emerges as one of Schubert's most affecting slow movements. In the finale Mr. Andsnes's brilliant technique allows him to set a bracing tempo and maintain it effortlessly throughout all the awkward twists, giving the music a controlled wildness.</p>
+        <p>In a group of lesser-known lieder Mr. Bostridge sings with keen sensitivity to the text and expressive vocal inflections. The recording also includes six engrossing fragments of songs and piano pieces that Schubert never completed.</p>
+        <p>The performers give vibrant accounts of the aborted pieces, stopping cold when they cut off. An Allegretto in C for piano of nearly five minutes comes across as strangely exuberant music full of playful but repetitive passagework. Perhaps Schubert thought it sounded a little trivial and gave up. If he could have heard Mr. Andsnes's scintillating performance he might have finished it.</p>
+        <p>ANTHONY TOMMASINI</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

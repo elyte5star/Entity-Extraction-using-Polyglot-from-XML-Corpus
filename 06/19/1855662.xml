@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Test Driving an Air Taxi: Quiet, Quick but Not Cheap</title>
+    <meta content="19road" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855662"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE ROAD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Eclipse Aviation</org>
+        <org class="indexing_service">Adam Aircraft Industries</org>
+        <person class="indexing_service">Sharkey, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/On the Road</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EEDA1731F93AA25755C0A9619C8B63" item-length="845" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Test Driving an Air Taxi: Quiet, Quick but Not Cheap</hl1>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+      <dateline>BOCA RATON, Fla.</dateline>
+      <abstract>
+        <p>Very light jet planes are finding niche among businesspeople for short trips of 300 to 400 miles or so, which now require long drives or, worse, frustrating delays and connections in commercial airports; air taxi flight may cost $800 to $2,400 to and from Tallahassee, as opposed to about $700 for commercial air trip; commercial trip takes two days and requires hotel stay; companies that sell light jets include Eclipse Aviation and Adam Aircraft; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I don't know if the air taxi model will work. But I do know that it flies.</p>
+        <p>At 11:09 a.m. on a recent Thursday, with the pilot, Guenn  Stevenson, and her co-pilot, Rick Hemphill, at the controls, the little Eclipse 500 very light jet took off with a sharp climb from the Boca Raton Airport. Both Ms. Stevenson and Mr. Hemphill are former airline pilots.</p>
+      </block>
+      <block class="full_text">
+        <p>I don't know if the air taxi model will work. But I do know that it flies.</p>
+        <p>At 11:09 a.m. on a recent Thursday, with the pilot, Guenn  Stevenson, and her co-pilot, Rick Hemphill, at the controls, the little Eclipse 500 very light jet took off with a sharp climb from the Boca Raton Airport. Both Ms. Stevenson and Mr. Hemphill are former airline pilots.</p>
+        <p>The three-passenger aircraft, owned by the air taxi company DayJet, was the first of its type in demonstration service. In the seat next to me was a potential customer, Eric Romano, a lawyer, from West Palm Beach, Fla. In the rear seat was Nancy Lee Iacobucci, co-founder of DayJet.</p>
+        <p>It was a 20-minute flight out over the ocean with a big loop back to the airport. After we reached our cruising altitude of 4,200 feet (the plane can fly up to 41,000 feet), Mr. Hemphill took off his headphones and asked,  ''What do you think?''</p>
+        <p>''It's very quiet,''  Mr. Romano replied.</p>
+        <p>It was quiet enough for the three passengers to engage in conversation. The flight was also smooth, though you did have more of a sense of riding on air currents than you would in a big airliner.</p>
+        <p>The Eclipse 500  -- about 2,500 of them are on order from Eclipse Aviation  --  sells for about $1.5 million, making it the least expensive of the dozen or so models  being rushed to market by various manufacturers.</p>
+        <p>We'll be hearing a lot more about very light jets, especially as commercial airlines and the business jet industry battle over increasingly crowded skies and the question of who pays how much to help fix an outmoded air traffic control system.</p>
+        <p>In late 2003, I began visiting very light jet manufacturing plants, including Eclipse and Adam Aircraft, which is bringing its own $2.5 million A700 into service next year. At that time, many critics in aviation scoffed that very light jets would never get off the ground.</p>
+        <p>Well, they have. They still have major critics (more on that in a future column), but the planes are finding a niche among businesspeople for short trips of  300 to 400 miles or so, which  now require long drives or, worse, frustrating delays and connections in commercial airports.</p>
+        <p>Surveys on market potential conducted by DayJet turned up favorable factors like the value of time versus the cost of a trip. But some travelers worried that very light jets would avoid urban airports.</p>
+        <p>''People said,  'Don't drop me off in a cow pasture with a wind sock,' '' said Ed Iacobucci, DayJet's chief executive  and Nancy's husband.</p>
+        <p>DayJet's business model to run an on-demand per seat air taxi, is mind-numbingly complex, as are its fares  --  usually but not always higher than a comparable full-coach regional fare on a commercial airline.</p>
+        <p>Florida, with business centers  all over the state and commercial air service that tends to be modeled mostly on long-haul hub-to-hub routes, was an ideal place to start, Mr. Iacobucci said.</p>
+        <p>The company has seven Eclipse 500s and is expecting delivery of two more soon.</p>
+        <p>The start date for regular service  was delayed by questions about an avionics unit on the aircraft. Mr. Iacobucci said that Eclipse was working with the unit's manufacturer to address concerns raised by the Federal Aviation Administration.</p>
+        <p>Once that issue is resolved, he said he expected service to begin late next month or in early August, when  he says he hopes DayJet will have 10</p>
+        <p>Eclipse 500s. The company designated five Florida airports as its initial ''Day Ports'':  Boca Raton, Gainesville, Lakeland, Tallahassee and Pensacola. By the end of 2008, Mr. Iacobucci said he hoped to have 40 in Florida and the Southeast.</p>
+        <p>Mr. Romano explained why he would be a customer.</p>
+        <p>''I work in a  small law firm,'' he said. ''We travel all the time, frequently throughout Florida. We spend far too much time driving all over the state because there are not a lot of airline options. Frequently to travel from South Florida to Tallahassee or Pensacola, we'll hop on a commercial airline, go to Atlanta, change planes and fly back into Florida. Being somewhere for a three-hour meeting means two full days out of the office.''</p>
+        <p>Collectively, the four lawyers in his firm spend 400 to 500 nights a year on the road.  ''Spending more time with our families is a real consideration,'' he said.</p>
+        <p>He said  that spending more time in the office, rather than in an airport or a car, argues for paying more on an air taxi flight. Depending on when it is booked, an air taxi flight may  cost $800 to $2,400 to and from Tallahassee, as opposed to perhaps $700 for a commercial air trip. But the commercial trip takes two days and requires a hotel stay.</p>
+        <p>Replacing current travel patterns with an air taxi service  ''would probably allow us 50 to 60 more full workdays in the office each year for the firm as a whole, which is a tremendous increase in productivity,'' Mr. Romano said.</p>
+        <p>ON THE ROAD</p>
+        <p>E-mail:jsharkey@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail:jsharkey@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

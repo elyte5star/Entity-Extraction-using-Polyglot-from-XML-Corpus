@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congestion Pricing In Manhattan</title>
+    <meta content="l10conn" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853538"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Tolls</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Fortuna, Diana</person>
+        <person class="indexing_service">Fassett, Richard</person>
+        <person class="indexing_service">Roth, Gabriel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tolls</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DF1F30F933A25755C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congestion Pricing In Manhattan</hl1>
+      </hedline>
+      <abstract>
+        <p>Citizens Budget Commission president Diana Fortuna and Richard Fassett letters on Gabriel Roth's May 20 Op-Ed article on New York Mayor Michael Bloomberg's congestion pricing plan</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''The Road Best Not Taken'' (Op-Ed, May 20), Gabriel Roth implies that Mayor Michael Bloomberg's congestion-pricing proposal would not benefit auto users.</p>
+        <p>In fact, the funds would be dedicated to a proposed fund (called Smart, for Sustainable Mobility and Regional Transportation) whose purposes are to help bring local roads to a state of good repair, as well as pay for mass transit improvements.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''The Road Best Not Taken'' (Op-Ed, May 20), Gabriel Roth implies that Mayor Michael Bloomberg's congestion-pricing proposal would not benefit auto users.</p>
+        <p>In fact, the funds would be dedicated to a proposed fund (called Smart, for Sustainable Mobility and Regional Transportation) whose purposes are to help bring local roads to a state of good repair, as well as pay for mass transit improvements.</p>
+        <p>However, given the costs that highway traffic generates in terms of congestion and pollution, it is perfectly appropriate -- and good public policy -- to require auto users to support mass transit.</p>
+        <p>Diana Fortuna  President  Citizens Budget Commission  New York</p>
+        <p>To the Editor:</p>
+        <p>Gabriel Roth argues that the congestion fee levied against drivers should go toward highway improvements in the tristate region. Instead, how about dedicating it to better integration with the regional transportation networks?</p>
+        <p>The New York subway was designed almost exclusively to bring riders from the outer boroughs into Manhattan.</p>
+        <p>It's time to rethink that model.</p>
+        <p>If the subway went from Queens to the Bronx, the need for interborough automobile travel could be reduced.</p>
+        <p>It's worth investigating how the other disparate transportation systems could be expanded to better integrate the city and the region. Hudson-Bergen Light Rail could be expanded into Manhattan to allow tens of thousands of New Jersey residents a one-seat ride.</p>
+        <p>Other good proposals have been mentioned over the decades, but not followed up.</p>
+        <p>PATH should be brought to the East Side.</p>
+        <p>AirTrain should be expanded to Manhattan and La Guardia Airport.</p>
+        <p>The subway and Hudson-Bergen should be expanded to Staten Island.</p>
+        <p>The real challenge behind reducing congestion might be getting the city, the Metropolitan Transportation Authority, the Port Authority, and New Jersey Transit to work together.</p>
+        <p>Richard Fassett  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congress Hobbles the AIDS Fight</title>
+    <meta content="04mon3" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/opinion/04mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852151"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Hypodermic Needles and Syringes</classifier>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="descriptor">Hypodermic Needles and Syringes</classifier>
+        <classifier class="online_producer" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Washington (DC)</location>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DE1130F937A35755C0A9619C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congress Hobbles the AIDS Fight</hl1>
+        <hl2 class="online_headline">Congress Hobbles the AIDS Fight</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Congress's ban on even locally financed needle exchange programs in District of Columbia to reduce spread of AIDS is insult to city's voters and clear hazard to public health</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="online_lead_paragraph">
+        <p>Congress’s ban on even locally financed needle exchange programs in the District of Columbia is an insult to the city’s voters and a clear hazard to public health.</p>
+      </block>
+      <block class="full_text">
+        <p>Every state in the union allows some system for providing addicts with clean needles. But nearly a decade ago, ideologues in Congress who were unable to derail needle programs in their own states chose to grandstand on the issue when it came time to pass the District's appropriation bill. Barred from spending local tax dollars on these medically necessary programs, the city has limped along with a privately financed operation that turns away more people than it serves.</p>
+        <p>Critics offer the same know-nothing arguments. They say that handing out needles legitimizes drug use -- even though studies here and abroad showed long ago that the programs cut the infection rate without increasing addiction. They say that addicts should be offered treatment instead of clean needles -- even though addicts who want treatment must sometimes wait for months or even years to get in. While they wait, they continue to use drugs and become infected.</p>
+        <p>Congress's ban on even locally financed needle exchange programs in the District of Columbia is an insult to the city's voters and a clear hazard to public health. Ideologues, in the House in particular, need to get out of the way and let public health officials save lives.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

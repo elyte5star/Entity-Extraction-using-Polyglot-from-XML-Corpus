@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>City Streamlines Searches For Real Estate Sales Data</title>
+    <meta content="02coop" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/nyregion/02coop.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851506"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Condominiums</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Condominiums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EEDF1030F931A35755C0A9619C8B63" item-length="575" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>City Streamlines Searches For Real Estate Sales Data</hl1>
+        <hl2 class="online_headline">City Streamlines Searches for Real Estate Sales Data</hl2>
+      </hedline>
+      <byline class="print_byline">By ETHAN WILENSKY-LANFORD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Once, curious neighbors wanting to find out how much a co-op unit sold for had no choice but to ask. The city made things a bit easier last summer by putting such data online, but few besides wonks and real estate professionals could find it.</p>
+        <p>Now, those nosy neighbors have a new resource. A page on the Web site of the city's Department of Finance -- under the ''Recent Sales Information'' category at www.nyc.gov/html/dof/html/property/property.shtml -- that went online yesterday allows anyone with basic computer skills to browse property sale prices by neighborhood and address. The sales data goes back four years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new city Web page allows anyone with basic computer skills to browse property sales prices by neighborhood and address.</p>
+      </block>
+      <block class="full_text">
+        <p>Once, curious neighbors wanting to find out how much a co-op unit sold for had no choice but to ask. The city made things a bit easier last summer by putting such data online, but few besides wonks and real estate professionals could find it.</p>
+        <p>Now, those nosy neighbors have a new resource. A page on the Web site of the city's Department of Finance -- under the ''Recent Sales Information'' category at www.nyc.gov/html/dof/html/property/property.shtml -- that went online yesterday allows anyone with basic computer skills to browse property sale prices by neighborhood and address. The sales data goes back four years.</p>
+        <p>''It is quite powerful, because they are breaking it up by borough, and they are breaking it up by year,'' said Jonathan J. Miller, president and chief executive of Miller Samuel Real Estate Appraisers.</p>
+        <p>There are still limitations. Certain information about co-op units is not tracked by the city. While the new site lists the price paid by a buyer, it does not reveal the square footage of a unit, or the number of rooms. (Technically, co-ops are not considered real property because residents buy shares, not a deed, as they might for a condominium or house.)</p>
+        <p>Sale prices for most property transactions have been available online since 2004 on the Department of Finance Web site, but finding the information was tricky. First a user had to translate a street address into lots-and-blocks real estate terminology, and then enter that data into an index that was less user-friendly than the updated presentation.</p>
+        <p>''You really need to know what you are doing,'' Gregory J. Heym, senior vice president and chief economist for Brown Harris Stevens and Halstead Property, said of the old system. ''Public records are very hard to use.''</p>
+        <p>Some real estate agents cautioned that the database could lead to misguided expectations. Without more information about the particulars of each sale, like the size, condition and layout of individual units, potential sellers are likely to become fixated on the price they should be asking, the agents said, and overlook each property's nuances.</p>
+        <p>''None of the reasons why people fall in love with apartments are part of this Web site,'' said Michele Kleier, president of the real estate firm of Gumley Haft Kleier. Ms. Kleier said that property owners might think, wrongly, that their unit would be worth the same as a similarly numbered unit a floor or two above. ''One apartment could need a $2 million renovation, and one could have had a $2 million renovation.''</p>
+        <p>Last August, a state law went into effect allowing the city to make co-op sale prices available to the public. The city's finance commissioner, Martha E. Stark, said yesterday that the department hoped to include more information about co-ops in its database eventually. In the meantime, it sells digital indexes of deeds, mortgages and property tax liens to corporate subscribers, some of whom pay more than $170,000 a year.</p>
+        <p>But individuals have turned elsewhere for the same information. Propertyshark.com, a real estate research tool, has 200,000 users in New York City, according to Ryan Slack, the chief executive. He said he was confident that customers would keep using his site, because it collates sale histories, foreclosures, maps, photographs and, in many cases, the names and telephone numbers of the parties involved in each transaction.</p>
+        <p>''It's not very helpful to just get a piece of information in isolation,'' he said. ''What's helpful is to get the whole picture.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

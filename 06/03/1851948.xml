@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Basics; No, Not Everyone Enjoyed the Show</title>
+    <meta content="03basicB" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/weekinreview/03basicB.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851948"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Beatles</org>
+        <person class="online_producer">DeRogatis, Jim</person>
+        <person class="online_producer">Bernstein, Carl</person>
+        <person class="online_producer">Lennon, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DF1030F930A35755C0A9619C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Basics; No, Not Everyone Enjoyed the Show</hl1>
+        <hl2 class="online_headline">No, Not Everyone Enjoyed the Show</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRIS CONWAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was 40 years ago last Friday that the Beatles released ''Sgt. Pepper's Lonely Hearts Club Band,'' widely, though not universally, considered the greatest rock album of all time.</p>
+        <p>In 2003, Rolling Stone magazine ranked it No. 1 on its list of the 500 greatest rock albums, calling it ''the most important rock &amp; roll album ever made, an unsurpassed adventure in concept, sound, songwriting, cover art and studio technology by the greatest rock &amp; roll group of all time.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Beatles’s “Sgt. Pepper’s Lonely Hearts Club Band” is widely, though not universally, considered the greatest rock album of all time.</p>
+      </block>
+      <block class="full_text">
+        <p>It was 40 years ago last Friday that the Beatles released ''Sgt. Pepper's Lonely Hearts Club Band,'' widely, though not universally, considered the greatest rock album of all time.</p>
+        <p>In 2003, Rolling Stone magazine ranked it No. 1 on its list of the 500 greatest rock albums, calling it ''the most important rock &amp; roll album ever made, an unsurpassed adventure in concept, sound, songwriting, cover art and studio technology by the greatest rock &amp; roll group of all time.''</p>
+        <p>Jim DeRogatis, pop music critic for The Chicago Sun-Times, who says he was born the year the Beatles invaded America, 1964, offers a revisionist assessment in an essay on his Web site, adapted from his 2003 book, ''Kill Your Idols: A New Generation of Rock Writers Reconsiders the Classics.'' His most concise appraisal, offered in four words, can't be reprinted here because it would violate the newspaper's standards on vulgarity.</p>
+        <p>His more expansive view? ''The Beatles have just given us 39 minutes and 52 seconds of rather unremarkable, uninspired music with a central theme that's conservative, reactionary and retrogressive.''</p>
+        <p>Critics at the time were also divided.</p>
+        <p>Writing in The New York Times on June 18, 1967, Richard Goldstein found one of the album's songs, ''A Day in the Life,'' to be ''one of the most important Lennon-McCartney compositions, and it is a historic Pop event.'' But overall, he was unimpressed, calling the album ''an undistinguished collection of work.''</p>
+        <p>Not so Carl Bernstein (yes, that Carl Bernstein), who reviewed the album for The Washington Post on the same day. ''In their latest album,'' he wrote, ''the Beatles have managed to create a musical infinity through a miraculous metamorphosis of dozens of Eastern and Western musical ideas, some centuries old, others from our own era and more than a few from the future  It is a bit fantastic -- and certainly unprecedented.''</p>
+        <p>Whatever its merits, the album still commands interest. It ranks No. 55 on Gracenote's all-time list of albums accessed by users of the firm's digital music database. Gracenote processes more than 1.2 billion searches a month.</p>
+        <p>CHRIS CONWAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

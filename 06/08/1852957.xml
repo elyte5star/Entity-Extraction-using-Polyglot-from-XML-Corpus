@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Waiting for Al Gore</title>
+    <meta content="l08herbert" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852957"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DA1F30F93BA35755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Waiting for Al Gore</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Passion of Al Gore,'' by Bob Herbert (column, June 5):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Passion of Al Gore,'' by Bob Herbert (column, June 5):</p>
+        <p>The Democrats have an admirable field of presidential candidates, but with one move Al Gore could level the playing field.</p>
+        <p>Experience matters, and the former vice president has the most at the highest level.</p>
+        <p>I could understand if Mr. Gore chose not to run, but I would be one of countless others who would be disappointed if he didn't take the risk.</p>
+        <p>Jon Hunt  Old Greenwich, Conn., June 5, 2007</p>
+        <p>To the Editor:</p>
+        <p>Former Vice President Al Gore is probably right: he's not much good at politics. The current administration, on the other hand, excels at politics.</p>
+        <p>Perhaps in his conversation with Bob Herbert, Mr. Gore has inadvertently suggested what should be a test for those considering a run for the presidency.</p>
+        <p>Politics is a game of trivial and superficial pursuits, while governing is a serious business, best left to those with hearts and minds. What a better place the United States would be in now if someone were in office who actually thought about the consequences of his actions and possessed a conscience about the pain his actions might cause.</p>
+        <p>Stephanie Nicholas Acquadro  Westfield, N.J., June 5, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

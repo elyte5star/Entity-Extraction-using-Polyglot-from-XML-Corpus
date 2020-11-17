@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Phuong Cao, Douglas Fields</title>
+    <meta content="03Cao" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851872"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Cao, Phuong Anh (Phuong Anh Fields)</person>
+        <person class="indexing_service">Fields, Dr. Douglas William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DA1230F930A35755C0A9619C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Phuong Cao, Douglas Fields</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Phuong Anh Cao and Dr. Douglas William Fields were married last evening in New York Harbor aboard the Noa Danielle, a yacht. Harold Silverman, a retired State Supreme Court justice in the Bronx, officiated.</p>
+        <p>The bride, 32, works in Piscataway, N.J., as a chemical engineer in the research and development division of the Dow Chemical Company, the manufacturer based in Midland, Mich. She graduated cum laude from St. Peter's College in Jersey City and received a master's in chemical engineering from the New Jersey Institute of Technology in Newark.</p>
+      </block>
+      <block class="full_text">
+        <p>Phuong Anh Cao and Dr. Douglas William Fields were married last evening in New York Harbor aboard the Noa Danielle, a yacht. Harold Silverman, a retired State Supreme Court justice in the Bronx, officiated.</p>
+        <p>The bride, 32, works in Piscataway, N.J., as a chemical engineer in the research and development division of the Dow Chemical Company, the manufacturer based in Midland, Mich. She graduated cum laude from St. Peter's College in Jersey City and received a master's in chemical engineering from the New Jersey Institute of Technology in Newark.</p>
+        <p>She is a daughter of Kim-Anh Nguyen of Old Bridge, N.J., and the late Khai Minh Cao. Her mother, who is retired, and the bride's father were bilingual teachers at Public School 17, an elementary school in Jersey City, N.J., where they taught reading and math to Vietnamese children.</p>
+        <p>The bridegroom, 46, is an emergency medicine physician at Madison Avenue Emergency Medicine, a group practice at North General Hospital in Harlem. He graduated magna cum laude from Hunter College and received his medical degree from Cornell University Medical College.</p>
+        <p>He is a son of Elaine Fields and Edward Fields of Kew Gardens, Queens. His mother retired as a real estate agent in Manhattan and Forest Hills, Queens. His father retired as an importer of precious gems in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Talks for Chip Software Maker Are Said to Bog Down on Price</title>
+    <meta content="18cadence" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/18cadence.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855395"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Cadence Design Systems Incorporated</org>
+        <org class="online_producer">Blackstone Group</org>
+        <org class="online_producer">Kohlberg Kravis Roberts &amp; Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1DD123FF93BA25755C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Talks for Chip Software Maker Are Said to Bog Down on Price</hl1>
+        <hl2 class="online_headline">Talks for Chip Software Maker Are Said to Bog Down on Price</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN and MICHAEL J. de la MERCED</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Buyout talks between Cadence Design Systems, one of the largest makers of the software used to design computer chips, and two private equity firms appear to have stalled over price, according to people close to the matter.</p>
+        <p>Though negotiations between Cadence and the two firms, the Blackstone Group and Kohlberg Kravis Roberts, may resume at some point, it appears that the discussions have been suspended for now, these people said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Buyout talks between Cadence Design Systems and two private equity firms appear to have stalled, according to people close to the matter.</p>
+      </block>
+      <block class="full_text">
+        <p>Buyout talks between Cadence Design Systems, one of the largest makers of the software used to design computer chips, and two private equity firms appear to have stalled over price, according to people close to the matter.</p>
+        <p>Though negotiations between Cadence and the two firms, the Blackstone Group and Kohlberg Kravis Roberts, may resume at some point, it appears that the discussions have been suspended for now, these people said.</p>
+        <p>Price has been among the chief concerns in the negotiations. Private equity has been pushing into markets it once shunned, including technology, but a buyout of Cadence would represent a risky bet on a volatile industry that is dependent on research and development spending. With a market value around $6.5 billion, Cadence may be too expensive for the equity firms to wring out lucrative returns.</p>
+        <p>Blackstone may already be troubled by another of its bets over the last year. The firm and its partners agreed to pay $17.6 billion for Free-scale Semiconductor, only to see that chip maker report lower sales in the first quarter of 2007.</p>
+        <p>Concerns over Cadence's price were compounded by a recent jump in its stock price, fueled by a report on June 4 in The New York Times that the company was in talks with Blackstone and Kohlberg Kravis. The stock closed up nearly 6 percent that day, at $24.22.</p>
+        <p>Shares in Cadence have since declined nearly 4 percent, closing on Friday at $23.30.</p>
+        <p>Started in 1983, Cadence has grown into one of the largest makers of chip design software, having made a string of acquisitions. Since 2004, it has acquired four companies and invested heavily in several others.</p>
+        <p>In the last two years, cheap debt has helped private investors like Blackstone and Kohlberg Kravis knock down barriers that once deterred some deal making, and both have acquired technology companies in the last year. Rising interest rates may curb that easy credit, making it harder to finance such acquisitions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

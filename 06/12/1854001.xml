@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>YouTube Sets Tests of Video Blocking</title>
+    <meta content="12google" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854001"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <org class="indexing_service">Google Inc</org>
+        <org class="indexing_service">Youtube</org>
+        <org class="indexing_service">Disney, Walt, Co</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDA173FF931A25755C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>YouTube Sets Tests of Video Blocking</hl1>
+      </hedline>
+      <abstract>
+        <p>Google says it will soon begin testing long-awaited system that can block unauthorized copyrighted clips from being uploaded to YouTube; YouTube says it will initially test technology, called video fingerprinting, with group of partners, including Disney and Time Warner, and plans to make it available more widely in next few months (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Google says it will soon begin testing a long-awaited system that can block unauthorized copyrighted clips from being uploaded to YouTube, the popular video-sharing site it bought last year.</p>
+        <p>Company executives have predicted that the technology, once deployed, would lead to a détente with the studios and television networks that have bitterly complained about the proliferation of their copyrighted clips on YouTube.</p>
+      </block>
+      <block class="full_text">
+        <p>Google says it will soon begin testing a long-awaited system that can block unauthorized copyrighted clips from being uploaded to YouTube, the popular video-sharing site it bought last year.</p>
+        <p>Company executives have predicted that the technology, once deployed, would lead to a détente with the studios and television networks that have bitterly complained about the proliferation of their copyrighted clips on YouTube.</p>
+        <p>YouTube said it would initially test the technology, called video fingerprinting, with a group of partners, including Disney and Time Warner, and planned to make it available more widely in the next few months. ''We hope to have a better understanding of how this is going to work, not just from a technology standpoint, but also from a policy standpoint,'' said Chris Maxcy, vice president for business development at YouTube. ''The goal is to have something more openly available for content owners broadly later this year.''</p>
+        <p>Mr. Maxcy said the technology, which was developed by Google, would be tested for accuracy and speed.</p>
+        <p>A Google spokesman said it had invited several companies, including some that do not have licensing deals with YouTube, to test the system.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

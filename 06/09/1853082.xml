@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>David Halberstam Service</title>
+    <meta content="09halberstam" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853082"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <person class="indexing_service">Halberstam, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE5DF163FF93AA35755C0A9619C8B63" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>David Halberstam Service</hl1>
+      </hedline>
+      <abstract>
+        <p>Memorial service for Pulitzer Prize-winning war reporter and author David Halberstam is scheduled for June 12 at Riverside Church in Manhattan; Halberstam died April 23 at age 73 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A memorial service for the Pulitzer Prize-winning war reporter and author David Halberstam is scheduled for 4 p.m. on Tuesday at Riverside Church, 490 Riverside Drive, in Manhattan. Mr. Halberstam died on April 23 at the age of 73.</p>
+      </block>
+      <block class="full_text">
+        <p>A memorial service for the Pulitzer Prize-winning war reporter and author David Halberstam is scheduled for 4 p.m. on Tuesday at Riverside Church, 490 Riverside Drive, in Manhattan. Mr. Halberstam died on April 23 at the age of 73.</p>
+        <p>The service, which is open to the public, is to include speeches by the journalists Dexter Filkins, Gay Talese and Anna Quindlen and a performance by Peter Yarrow of the group Peter, Paul and Mary.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

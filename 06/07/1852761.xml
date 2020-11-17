@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Another No. 1 for R. Kelly</title>
+    <meta content="07arts-5" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852761"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0D71E30F934A35755C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Another No. 1 for R. Kelly</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This week R. Kelly, below, continues his winning streak on the Billboard chart, as his new album, ''Double Up'' (Jive), opens at No. 1 with 386,000 sales, according to Nielsen SoundScan. Of Mr. Kelly's 11 studio albums, each of the last 10 has reached the top two spots on the chart. Last week's chart-topper, Maroon 5's ''It Won't Be Soon Before Long'' (Octone/Interscope), fell to No. 2 with 172,000 copies sold, a 60 percent drop in sales from its first week. Linkin Park's ''Minutes to Midnight'' (Warner Brothers) also slipped one rung, to No. 3; it sold 126,000 copies, a 36 percent drop in its third week of release. Besides R. Kelly's album, the only other new release to reach the Top 20 is ''Relentless'' (Broken Bow), by the country singer Jason Aldean. It sold 98,000, bowing at No. 4. The British singer Amy Winehouse has been climbing the charts steadily since her album ''Back to Black'' (Universal) was released here in March, and last week it made a leap into the Top 10, climbing five slots to No. 6.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>This week R. Kelly, below, continues his winning streak on the Billboard chart, as his new album, ''Double Up'' (Jive), opens at No. 1 with 386,000 sales, according to Nielsen SoundScan. Of Mr. Kelly's 11 studio albums, each of the last 10 has reached the top two spots on the chart. Last week's chart-topper, Maroon 5's ''It Won't Be Soon Before Long'' (Octone/Interscope), fell to No. 2 with 172,000 copies sold, a 60 percent drop in sales from its first week. Linkin Park's ''Minutes to Midnight'' (Warner Brothers) also slipped one rung, to No. 3; it sold 126,000 copies, a 36 percent drop in its third week of release. Besides R. Kelly's album, the only other new release to reach the Top 20 is ''Relentless'' (Broken Bow), by the country singer Jason Aldean. It sold 98,000, bowing at No. 4. The British singer Amy Winehouse has been climbing the charts steadily since her album ''Back to Black'' (Universal) was released here in March, and last week it made a leap into the Top 10, climbing five slots to No. 6.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>News Summary</title>
+    <meta content="19forsumms" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855498"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D8123FF93AA25755C0A9619C8B63" item-length="686" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>News Summary</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INTERNATIONAL A3-11</p>
+        <p>New American OffensiveOn Sunni Insurgents in Iraq</p>
+        <p>The American military began a major attack against Sunni insurgent positions in Baquba, the capital of Iraq's Diyala Province, as part of a larger operation aimed at blunting car and suicide bombings that have thwarted political reconciliation. A1</p>
+      </block>
+      <block class="full_text">
+        <p>INTERNATIONAL A3-11</p>
+        <p>New American OffensiveOn Sunni Insurgents in Iraq</p>
+        <p>The American military began a major attack against Sunni insurgent positions in Baquba, the capital of Iraq's Diyala Province, as part of a larger operation aimed at blunting car and suicide bombings that have thwarted political reconciliation. A1</p>
+        <p>U.S. Ends Embargo to Aid Abbas</p>
+        <p>The United States ended a 15-month economic and political embargo of the Palestinian Authority in a bid to bolster President Mahmoud Abbas and the new Fatah-led emergency government he has established in the West Bank. A1</p>
+        <p>A Palestinian man was killed at the volatile and closed border between Israel and Gaza after Palestinian gunmen opened fire on Israeli soldiers near the area where several hundred people trying to flee Gaza were camped out. A6</p>
+        <p>Arms Flow From Egypt to Gaza</p>
+        <p>A lack of economic development fuels weapons smuggling to Gaza through Rafah, Egypt, and the smuggling helped Hamas seize control. A1</p>
+        <p>U.S. Raid Kills 7 Afghan Children</p>
+        <p>Seven children were killed during an airstrike by the U.S.-led coalition against a religious compound thought to be a sanctuary for Al Qaeda in remote eastern Afghanistan, the coalition said. A6</p>
+        <p>Parties Meet In Zimbabwe</p>
+        <p>Members of Zimbabwe's government and its political opposition met over the weekend for their first talkssince South Africa was asked to mediate between them. A10</p>
+        <p>NATIONAL A12-19</p>
+        <p>Debate on Right to VoteFor Mentally Ill Patients</p>
+        <p>Election officials are taking steps that could ban people with serious psychiatric impairments from voting, and Rhode Island is among a growing number of states grappling with the question of who is too mentally impaired to vote. A1</p>
+        <p>Water Supply Low in Florida</p>
+        <p>Many regions in Florida have all but depleted their groundwater supply, yet they have barely begun planning new water sources or enforcing conservation measures. The South Florida Water Management District is only now considering permanent, year-round watering restrictions. A18</p>
+        <p>Car Passengers Win Ruling</p>
+        <p>The Supreme Court extended to automobile passengers the same right that drivers have: the right to challenge the validity of a decision by the police to stop a car. A12</p>
+        <p>Duke Settles With Athletes</p>
+        <p>Duke University announced an agreement to head off any possible legal claims against the university by three former lacrosse players who had been falsely accused of sexual assault by a woman hired to strip at a team party. The terms were undisclosed under a confidentiality agreement. A15</p>
+        <p>Space Station Passes Test</p>
+        <p>Russian computers on the International Space Station passed a crucial test and are back in operation following a weeklong glitch that might have led to the station's evacuation if it had not been fixed. A15</p>
+        <p>NEW YORK/REGION B1-8</p>
+        <p>New Screening Tests Likely In Wake of Police Shootings</p>
+        <p>The New York Police Department is moving to require officers to take breath analysis tests whenever anyone is killed or wounded by police action, and to psychologically screen candidates for undercover work, accepting the recommendations of a panel formed after an unarmed bridegroom was fatally shot in a volley of 50 police bullets. A1</p>
+        <p>Earn an A, Earn a Dollar</p>
+        <p>New York City students could earn as much as $500 a year for doing well on standardized tests and showing up for class in a new program to begin this fall, city officials said. The Harvard economist who created the program is joining the inner circle of Schools Chancellor Joel I. Klein.B1</p>
+        <p>BUSINESS DAY C1-10</p>
+        <p>China Leads in Toy Recalls</p>
+        <p>China manufactured every one of the 24 kinds of toys recalled for safety reasons in the United States so far this year, including the popular Thomas &amp; Friends wooden train sets, a record that is causing alarm among consumer advocates, parents and regulators. A1</p>
+        <p>The toymaker RC2 has gone largely unnoticed as it has grown steadily, thanks largely to a strategy of sewing up licensing deals with big-name brands like Sesame Street, Winnie the Pooh, Disney, Nickelodeon and Thomas &amp; Friends. C1</p>
+        <p>Business Digest C2</p>
+        <p>EDITORIAL A20-21</p>
+        <p>Editorials: Crunch time on energy; symptoms and ovarian cancer; endangered after-school programs; and Verlyn Klinkenborg on missing birds.</p>
+        <p>Columns: David Brooks and Bob Herbert.</p>
+        <p>Crossword B6</p>
+        <p>TV Listings B9</p>
+        <p>Weather C16</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Youth Accused Of Bias Killing</title>
+    <meta content="15mbrfs-7" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854707"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2DB153FF936A25755C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Youth Accused Of Bias Killing</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Brooklyn teenager was indicted yesterday on charges that he had fatally stabbed a 20-year-old man because he was gay, prosecutors said. Omar Willock, 17, was charged with murder in the second degree as a hate crime, said Charles J. Hynes, the Brooklyn district attorney. Mr. Hynes said Mr. Willock is charged with stabbing Roberto Duncanson, 20, after shouting antigay remarks. Mr. Hynes said Mr. Duncanson tried to walk away, but Mr. Willock stabbed him four times.</p>
+      </block>
+      <block class="full_text">
+        <p>A Brooklyn teenager was indicted yesterday on charges that he had fatally stabbed a 20-year-old man because he was gay, prosecutors said. Omar Willock, 17, was charged with murder in the second degree as a hate crime, said Charles J. Hynes, the Brooklyn district attorney. Mr. Hynes said Mr. Willock is charged with stabbing Roberto Duncanson, 20, after shouting antigay remarks. Mr. Hynes said Mr. Duncanson tried to walk away, but Mr. Willock stabbed him four times.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

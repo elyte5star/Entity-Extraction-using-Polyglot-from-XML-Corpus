@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Paul Pfeiffer</title>
+    <meta content="08gall-3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070609T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1853001"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDA1F30F93BA35755C0A9619C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Paul Pfeiffer</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Live From Neverland  The Project  37 West 57th Street, Manhattan  Through June 16</p>
+        <p>After last year's overblown double show at the Gagosian Gallery in Chelsea and the Project (his home base), Paul Pfeiffer is redeeming himself with this spare, resonant one-work exhibition in which he also departs successfully from his signature style.</p>
+      </block>
+      <block class="full_text">
+        <p>Live From Neverland  The Project  37 West 57th Street, Manhattan  Through June 16</p>
+        <p>After last year's overblown double show at the Gagosian Gallery in Chelsea and the Project (his home base), Paul Pfeiffer is redeeming himself with this spare, resonant one-work exhibition in which he also departs successfully from his signature style.</p>
+        <p>A consummate digital/video craftsman, Mr. Pfeiffer is best known for short, suggestively altered loops of athletes and entertainers shown on nearly postage-stamp-size screens. Usually viewable by one person at a time, they recast the spectacles of our society as disturbing, it's-all-in-your-head visions.</p>
+        <p>In his latest piece, ''Live From Neverland,'' Mr. Pfeiffer moves convincingly into real space, alters sound more than images, but still does strange things with scale.</p>
+        <p>The piece involves two videos shown in separate rooms. In the first a monitor plays, soundlessly, Michael Jackson's famously surreal statement to the nation, delivered live from Neverland, his ranch north of Los Angeles, in which he denied charges of sexual abuse and detailed what he saw as his victimization by the Santa Barbara County authorities and the news media.</p>
+        <p>In a larger room, in a wall projection, Mr. Jackson's speech is recited by a chorus of 80 students in speech and theater at Silliman University in Dumaguete City, the Philippines.</p>
+        <p>Mr. Pfeiffer has nipped and tucked the Jackson video so that Mr. Jackson's mouth moves in perfect sync with the chorus, which is half male and half female and all dressed in white. The voices rise and fall, emoting in unison, like a Greek chorus. Standing on bleachers and arranged according to height, the chorus is shot from a distance, and it is difficult to tell if its members are children or adults.</p>
+        <p>ROBERTA SMITH</p>
+        <p>Correction:  June 9, 2007, Saturday  A brief art review in Weekend yesterday about Paul Pfeiffer's exhibition ''Live From Neverland'' at the Project gallery in Manhattan misstated the year of his double show at the Project and the Gagosian Gallery in Chelsea. It was 2004, not last year.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 9, 2007, Saturday</p>
+        <p>A brief art review in Weekend yesterday about Paul Pfeiffer's exhibition ''Live From Neverland'' at the Project gallery in Manhattan misstated the year of his double show at the Project and the Gagosian Gallery in Chelsea. It was 2004, not last year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Grey's' Star Said to Be Off the Show</title>
+    <meta content="08abc" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/business/media/08abc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853020"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Washington, Isaiah</person>
+        <person class="indexing_service">Knight, T R</person>
+        <person class="indexing_service">Carter, Bill</person>
+        <object.title class="indexing_service">Grey's Anatomy (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">ABC Inc</org>
+        <person class="online_producer">Washington, Isaiah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E5D91F30F93BA35755C0A9619C8B63" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Grey's' Star Said to Be Off the Show</hl1>
+        <hl2 class="online_headline">‘Grey’s’ Star Said to Be Off the Show</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>Isaiah Washington, star of hit ABC series Grey's Anatomy, who became embroiled in furor after he twice used anti-gay slur against co-star T R Knight, will not return in fall (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Isaiah Washington, a star of the hit ABC television series ''Grey's Anatomy,'' who became embroiled in a furor after he twice used an anti-gay slur against a co-star, will not return in the fall, an executive informed of the decision said last night.</p>
+        <p>The executive, who asked not to be identified because he was not authorized to speak for the production, said that the decision was tied to Mr. Washington's comments regarding his fellow cast member, T.R. Knight.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Isaiah Washington, a star of the hit ABC television series “Grey’s Anatomy,” was embroiled in a furor after he twice used an anti-gay slur against a co-star.</p>
+      </block>
+      <block class="full_text">
+        <p>Isaiah Washington, a star of the hit ABC television series ''Grey's Anatomy,'' who became embroiled in a furor after he twice used an anti-gay slur against a co-star, will not return in the fall, an executive informed of the decision said last night.</p>
+        <p>The executive, who asked not to be identified because he was not authorized to speak for the production, said that the decision was tied to Mr. Washington's comments regarding his fellow cast member, T.R. Knight.</p>
+        <p>Mr. Washington, who played a surgeon named Preston Burke, got into an altercation last fall with another star of the series, Patrick Dempsey, in which he reportedly used an epithet to describe Mr. Knight.</p>
+        <p>After the details of the argument appeared, Mr. Knight publicly acknowledged that he was gay.</p>
+        <p>Then, in January, at the Golden Globe awards, Mr. Washington, during a news conference backstage, was asked about the altercation with Mr. Dempsey and said he had never used the derogatory term to describe Mr. Knight. But his use of the word on camera expanded the controversy because other cast members, including Katherine Heigl, denounced Mr. Washington.</p>
+        <p>ABC executives also criticized the actor for making the comment and his future on the show was thrown into question.</p>
+        <p>Mr. Washington later apologized and said he was entering counseling. In a statement at the time, he said: ''With the support of my family and friends, I have begun counseling. I regard this as a necessary step toward understanding why I did what I did and making sure it never happens again.''</p>
+        <p>Mr. Washington appeared on episodes of ''Grey's Anatomy'' through the end of the season but in the finale his character abruptly walked out of a scheduled wedding and left town.</p>
+        <p>The executive who was told of the decision said the reasons for not renewing Mr. Washington's contract would probably not be specifically spelled out, but he said that it was because of the events of the last year.</p>
+        <p>ABC News also reported the decision last night on its Web site.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

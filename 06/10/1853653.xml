@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F. Y. I.</title>
+    <meta content="10fyi" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/nyregion/thecity/10fyi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853653"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="F. Y. I."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Latimer, Lewis H, House Museum (NYC)</org>
+        <person class="indexing_service">Latimer, Lewis H (1848-1928)</person>
+        <person class="indexing_service">Pollak, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/F.Y.I.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5D61F30F933A25755C0A9619C8B63" item-length="594" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F. Y. I.</hl1>
+        <hl2 class="online_headline">Make Your Home a Star</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL POLLAK</byline>
+      <byline class="normalized_byline">Pollak, Michael</byline>
+      <abstract>
+        <p>FYI column answers questions about who to contact to get your house used as location in movie or television production, Flushing museum dedicated to scientist Lewis Latimer and ancient Wall Street term called a 'bucket shop'; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Home Movies</p>
+        <p>Q. I have an especially photogenic house, and I think a film crew might be interested in it, given all the movie and television filming in the city. Can you tell me whom to contact to get my house in lights?</p>
+        <p>A. The city has a Web site just for you. Go to the mayor's Office of Film, Theater and Broadcasting (nyc.gov/html/film/). Under ''On Location,'' there is a section titled ''Make Your Home a Star.'' That says it all.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I have an especially photogenic house. Can you tell me whom to contact to get it into the movies?</p>
+      </block>
+      <block class="full_text">
+        <p>Home Movies</p>
+        <p>Q. I have an especially photogenic house, and I think a film crew might be interested in it, given all the movie and television filming in the city. Can you tell me whom to contact to get my house in lights?</p>
+        <p>A. The city has a Web site just for you. Go to the mayor's Office of Film, Theater and Broadcasting (nyc.gov/html/film/). Under ''On Location,'' there is a section titled ''Make Your Home a Star.'' That says it all.</p>
+        <p>You will first need to get the attention of location scouts, who are used by producers for individual projects, and to location services, brokers with whom you may list your property for use. The location service usually collects a percentage of the rental fee from the production company. The film office has online links to many location services and scouts.</p>
+        <p>The mayor's film office has other guidelines and warnings for people who want to get their property in lights. Aside from the obvious, like checking with a lawyer, it warns that most of the calls the film office gets about interior shooting are not from would-be hosts. They come from irate neighbors in various stages of anger, complaining they weren't notified about a film shooting in common areas of an apartment building, or about film crews taking up all the nearby parking spaces.</p>
+        <p>''We recommend working with your co-op/condo boards, management offices and neighbors at the earliest possible moment, before shooting commences in your home,'' the film office advises.</p>
+        <p>Longer-Lasting Light Bulb</p>
+        <p>Q. There's a small museum in Flushing dedicated to a scientist named Lewis Latimer. Could you tell me something about it?</p>
+        <p>A. An African-American pioneer lived there. Named a New York City landmark in 1995, the Lewis H. Latimer House Museum was the residence of Latimer, an inventor, from 1902 until his death in 1928. Latimer was born to fugitive slaves in 1848. As an engineer and a consultant to Thomas Edison, he devised a longer-lasting light-bulb filament in the 1880s, helping to make Edison's invention more practical.</p>
+        <p>The house, which had been on Holly Avenue, was saved from demolition in 1988 when it was moved to 137th and Leavitt Streets and renovated with help from the Queens borough president's office. It is open 1 to 3 p.m. Thursdays and by appointment; call (718) 961-8585.</p>
+        <p>Invest Without Investing</p>
+        <p>Q. I came across an ancient Wall Street term called a ''bucket shop.'' Can you tell me what it was?</p>
+        <p>A. In short, it was where many lost money on the stock market without owning any stock. Made possible in the 1860s by the introduction of the telegraphic stock ticker, allowing for quickly updated price quotations, the bucket shop was a combination of brokerage firm and betting parlor. People could gamble on the movements of share prices without having to buy stock.</p>
+        <p>Unlike the real brokerage houses, where a buyer had to pay 10 or 20 percent of a stock's price to buy it, the bucket shops would let one ''buy'' a $100 share for a dollar. Of that dollar, a quarter was the commission and 75 cents was the margin. If the stock fell 75 cents, you lost your margin. If the stock went up, you made money. Most people didn't.</p>
+        <p>The term ''bucket shop'' is thought to have originally referred to cheap American saloons that sold liquor in pails, or buckets, in the 1800s.</p>
+        <p>Bucket-shop brokerages were outlawed by the Securities and Exchange Commission in the 1930s.</p>
+        <p>MICHAEL POLLAK</p>
+        <p>F. Y. I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

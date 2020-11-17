@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where the Goods Are Odd</title>
+    <meta content="14egan" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/opinion/14egan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854412"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Guest Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Bridges and Tunnels</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">Alaska</location>
+        <location class="indexing_service">Lee County (Fla)</location>
+        <org class="indexing_service">Senate (US)</org>
+        <org class="indexing_service">House of Representatives (US)</org>
+        <org class="indexing_service">Congress (US)</org>
+        <person class="indexing_service">Palin, Sarah (Gov)</person>
+        <person class="indexing_service">Stevens, Ted (Sen)</person>
+        <person class="indexing_service">Young, Don (Rep)</person>
+        <person class="indexing_service">Egan, Timothy</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Alaska</location>
+        <person class="online_producer">Stevens, Ted</person>
+        <person class="online_producer">Young, Don</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED9143FF937A25755C0A9619C8B63" item-length="749" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where the Goods Are Odd</hl1>
+        <hl2 class="online_headline">Where the Goods Are Odd</hl2>
+      </hedline>
+      <byline class="print_byline">By TIMOTHY EGAN</byline>
+      <byline class="normalized_byline">Egan, Timothy</byline>
+      <abstract>
+        <p>Timothy Egan Op-Ed column discusses Alaska's Senator-for-Life Ted Stevens, who used to be respected independent voice but has become old politician with host of grudges and, now, looming ethics probe; takes up Alaska's Congressman-for-Life Don Young, who takes pride in being one of biggest pigs at trough; Young bundled pet projects as chairman of transportation committee, pushing for $200-million bridge to nowhere in his home state and earmarking $10 million for faraway Florida district to please major developer and campaign donor; says good news for Republicans is that most popular fresh face is one of their own, Gov Sarah Palin, who supports ethics bill to bring light to long winter of Alaska politics (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This time of year, Alaska is paradise. King Salmon hustle up to the front porch of Anchorage. Softball games unfold in the buttery glow of the midnight sun. And the woods are full of mega fauna in frisky pursuit.</p>
+        <p>But amid the lovely, longest days of the year, the political world -- controlled and corrupted by age and oil -- is unraveling. The farce in the far north involves two national politicians who are used to getting their way, and a lobby that treats legislators like houseboys.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amid the longest days of the year, Alaska’s political world  controlled and corrupted by age and oil  is unraveling.</p>
+      </block>
+      <block class="full_text">
+        <p>This time of year, Alaska is paradise. King Salmon hustle up to the front porch of Anchorage. Softball games unfold in the buttery glow of the midnight sun. And the woods are full of mega fauna in frisky pursuit.</p>
+        <p>But amid the lovely, longest days of the year, the political world -- controlled and corrupted by age and oil -- is unraveling. The farce in the far north involves two national politicians who are used to getting their way, and a lobby that treats legislators like houseboys.</p>
+        <p>Let's start with the Senator for Life, Ted Stevens, 83, the longest-serving Republican in the upper chamber. You know him, perhaps, only because he described the Internet last year as a ''series of tubes'' that can get backed up for days. This, while discussing legislation involving that dad-gummed series of tubes.</p>
+        <p>Uncle Ted is to Alaska what Huey Long was to Louisiana, and tributes range from the Ted Stevens Anchorage International Airport to the hundreds of projects built with ''Ted Stevens money'' as your tax dollars are called in Alaska. One of Uncle Ted's best friends, Bill J. Allen, former chief executive of an oil services company, pleaded guilty last month to bribery and other charges in a scandal that has rocked Alaska and produced four indictments of state politicians. It looks like there's more to come, soon.</p>
+        <p>If you live in Alaska, you pay no state taxes, and get a check every year in shared oil royalties. What keeps the gravy train going is oil. But as the decay in Saudi Arabia demonstrates, oil corrupts. And absolute oil corrupts absolutely. ''There are two things we worry about here in Alaska: Life after oil, and life after Uncle Ted,'' said Ivan Moore, an independent pollster.</p>
+        <p>Last week, Senator Stevens said the F.B.I. had asked him to preserve some of his records. He also said his son Ben, the former state Senate president, was under investigation. The probe is linked to bribes and other services paid by the oil services company, VECO. The F.B.I. has not said if the elder Stevens is a target.</p>
+        <p>Ted Stevens used to be a respected independent voice in the Senate. But his obsession with opening the Alaska wildlife refuge to oil drilling, and his nearly 40 years in the Senate, have left him an embittered, tired old politician with a host of grudges.</p>
+        <p>Then there's the Congressman for Life, Representative Don Young, 74. You know him from the Bridge to Nowhere, his effort to direct more than $200 million to build a span nearly as long as the Golden Gate Bridge from Ketchikan to an island with less than 100 people.</p>
+        <p>As chairman of the committee that bundled all pet projects into a single transportation bill last year, Young had this to say about the legislative process: ''I stuffed it like a turkey.''</p>
+        <p>He said he was proud to be one of the biggest pigs at the trough -- he used the word ''oinker'' -- because the power to control $300 billion only comes around once in a lifetime. But as it turned out, the pipe dream really was a bridge to somewhere: the back door. Many Republicans say it cost them control of the House in the 2006 election.</p>
+        <p>Last week, David D. Kirkpatrick wrote in The Times about one of Young's other earmarks -- $10 million to a Florida district whose congressman had never requested it. But a Florida real estate developer who stood to gain a huge windfall with the new road was very interested in the project. So much so that he helped to raise $40,000 for the sole congressman from Alaska.</p>
+        <p>Asked about the earmark, Young made an obscene gesture, which was in character, given that he once expressed himself similarly with a group of wide-eyed schoolchildren in Fairbanks.</p>
+        <p>The good news for Republicans is that the most popular fresh face is one of theirs -- Gov. Sarah Palin, who looks like Tina Fey of ''Saturday Night Live'' fame. A marathon runner and commercial fisherwoman -- whose kids are named Track, Bristol, Willow and Piper -- Governor Palin knocked out an encrusted incumbent in the primary last year. She supports a new ethics bill designed to bring light to the long winter of Alaska politics.</p>
+        <p>Maybe the women should have been given a chance earlier. With more men than women, Alaska has always been the kind of place where the odds are good, as the saying goes, but the goods are odd. Especially with age and power.</p>
+        <p>Guest Columnist Timothy Egan, a former Seattle correspondent for The Times and the author of ''The Worst Hard Time,'' is a guest columnist.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Timothy Egan, a former Seattle correspondent for The Times and the author of ''The Worst Hard Time,'' is a guest columnist.</tagline>
+    </body.end>
+  </body>
+</nitf>

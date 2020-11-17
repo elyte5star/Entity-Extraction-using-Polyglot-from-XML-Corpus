@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flight Snags Are Arriving On Schedule</title>
+    <meta content="12road" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/business/12road.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854041"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE ROAD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Delays (Transportation)</classifier>
+        <org class="indexing_service">Joesentme.com</org>
+        <org class="indexing_service">Transportation Department (US)</org>
+        <person class="indexing_service">Sharkey, Joe</person>
+        <person class="indexing_service">Brancatelli, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/On the Road</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">US Airways</org>
+        <org class="online_producer">Northwest Airlines</org>
+        <org class="online_producer">Federal Aviation Administration</org>
+        <org class="online_producer">Air Transport Assn</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E1D9173FF931A25755C0A9619C8B63" item-length="1107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flight Snags Are Arriving On Schedule</hl1>
+        <hl2 class="online_headline">Flight Snags Are Arriving on Schedule</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+      <abstract>
+        <p>Joe Sharkey On the Road column on growing problem of flight delays at some of major US airports; Joe Brancatelli, publisher of subscription business travel Web site joesentme.com, says June 8 goes down as worst travel day of summer so far, and summer has not even started yet; Transportation Department says in first four months of year, nearly 25 percent of domestic flights arrived late, worst record in 13 years; this year is shaping up to be worst ever for delays and there will be lots of blame to go around, and lots of finger pointing; some reasons for delays listed; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The nation's air-travel system fell apart again last Friday night, when the space shuttle Atlantis was just about the only flight that was on time on the East Coast.</p>
+        <p>It is a bit of an exaggeration, but consider the actual numbers of flight delays that began choking the system on the East Coast Friday morning after an air traffic control computer failed in Atlanta. By early afternoon, delays began piling up, especially in the New York area, where flights were arriving two to three hours late by early evening at Kennedy, La Guardia and Newark, and at Boston and Philadelphia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This year is shaping up to be the worst ever for delays, and there will be lots of blame to go around, and lots of finger-pointing.</p>
+      </block>
+      <block class="full_text">
+        <p>The nation's air-travel system fell apart again last Friday night, when the space shuttle Atlantis was just about the only flight that was on time on the East Coast.</p>
+        <p>It is a bit of an exaggeration, but consider the actual numbers of flight delays that began choking the system on the East Coast Friday morning after an air traffic control computer failed in Atlanta. By early afternoon, delays began piling up, especially in the New York area, where flights were arriving two to three hours late by early evening at Kennedy, La Guardia and Newark, and at Boston and Philadelphia.</p>
+        <p>As always happens when one major air center becomes snarled, delays cascade through the system. Here are the national on-time arrival rates for Friday for the seven top airlines at the top 10 airports, according to flightstats.com: US Airways, 36 percent; Delta, 57 percent; American, 59 percent; Northwest, 62 percent; Southwest, 65 percent; United, 67 percent; and Continental, 69 percent.</p>
+        <p>Joe Brancatelli, the publisher of the subscription business travel Web site joesentme.com, said, ''June 8 goes down as the worst travel day of the summer so far, and the summer hasn't even started yet.''</p>
+        <p>In the first four months of this year, nearly 25 percent of domestic flights arrived late, the worst record in 13 years, according to the Transportation Department. This year is shaping up to be the worst ever for delays, and there will be lots of blame to go around, and lots of finger-pointing. Among the villains and accused will be:</p>
+        <p>Severe weather, the dependable Snidley Whiplash of delays.</p>
+        <p>Reduction of capacity as airlines divert bigger planes onto more profitable international routes and toss more small regional jets into the skies, thus increasing overall air traffic in an attempt to put a paying passenger in every seat available.</p>
+        <p>The Federal Aviation Administration, which will increasingly take it on the chin as evidence mounts that its outdated technology is unable to handle growing air traffic demand.</p>
+        <p>The rapidly expanding private-jet industry, including its brash little sister the very-light-jet industry, just now taking to the skies. A battle royal is shaping up between commercial airlines and the business-jet industry, especially over using, and paying for, the air traffic control system.</p>
+        <p>''We have more planes with reduced capacity in the system, and of course that's adding to congestion,'' said James C. May, the president of the Air Transport Association, the commercial airlines' trade group.</p>
+        <p>But Mr. May and others think the F.A.A. needs to move quickly to improve the air traffic control system. ''The consequences of Congress not acting aggressively to make difficult choices on a next-generation air traffic control system are going to be even more extraordinary delays,'' he said.</p>
+        <p>There is growing tension between the airlines and the surging private-jet industry. There are more than 8,000 private jets in the domestic skies, about as many planes as the commercial airlines have. The nascent very-light-jet industry is expected to add thousands more.</p>
+        <p>The business-jet industry says that it imposes far less strain on the air traffic control system because most business jets can fly into more than 5,000 smaller airports, rather than the 460 or so used by commercial airlines in airspace most heavily supervised by air traffic control.</p>
+        <p>Mr. May concedes that, but adds that most of the private-jet traffic is flying not into some dusty little airport in the sticks, but rather into expanding general aviation airports in congested urban areas where the highest concentration of commercial airliners are.</p>
+        <p>''I accept the fact that they're going to smaller airports, and that's wonderful,'' Mr. May said. ''But they're using the same air traffic control system. They get really angry at me when I say a blip is a blip is a blip.'' Air traffic controllers have to pay the same attention to a business jet carrying 8 people as a 737 carrying 180, he said.</p>
+        <p>The private aviation industry is well aware of this, and supports the calls for vastly improved air traffic technology. One unpopular solution would be to schedule departures and arrivals of private jets more formally; now, their owners are accustomed to setting their own schedules. Meanwhile, commercial and private operators are squabbling about user fees for the air traffic control system.</p>
+        <p>''I think people are simply going to have to adjust as more airplanes come in and the system becomes more congested,'' said Robert E. Brown, the chief executive of CAE, a worldwide company that provides flight training and aircraft-trainer simulators, mostly for general aviation and the military.</p>
+        <p>Last week, CAE opened a $100 million center for training new business-jet pilots near the Morristown Airport in northern New Jersey, an expanding general aviation airport an hour's drive from New York.</p>
+        <p>The center includes six highly sophisticated simulators for training pilots to fly several Falcon business-jet models as well as Gulfstream IV's and Sikorsky S-76 helicopters. It is within 400 miles of more than 40 percent of the business-jet activity in the United States, CAE said.</p>
+        <p>The general aviation industry says that private jets and other noncommercial flights make up less than 5 percent of operations at the nation's top 20 commercial airports. True, the airlines agree. But private jets and other general aviation flights mainly use smaller but rapidly growing airports nearby -- within major metropolitan areas -- among them Van Nuys in Los Angeles; Teterboro and Morristown in the New York airspace of northern New Jersey; and DeKalb Peachtree in the airspace of the nation's busiest commercial airport, Atlanta Hartsfield.</p>
+        <p>Barring a catastrophe, industry officials agree, air traffic will continue to grow, both commercial and private.</p>
+        <p>Amidst all this, some involved in aviation are saying not to blame those little 50-to-70-seat regional jets that airlines have been increasingly using. While those jets add to the number of planes in the sky without increasing capacity, they also make it possible for air service to continue in small and midsize communities where it does not make economic sense for big airliners to do business, said Michael J. Boyd, an aviation forecaster who is a fierce critic of what he calls ''chronic mismanagement'' and ''foot-dragging'' at the F.A.A.</p>
+        <p>''Bottom line: it's the F.A.A.'s responsibility to have a system that can handle demand, and the F.A.A. is failing miserably to deliver,'' Mr. Boyd said.</p>
+        <p>Marion C. Blakey, the F.A.A. administrator, said in a recent speech addressing delays, ''We're trying to take steps to avoid the repeat of last year.'' Ms. Blakey said the F.A.A. had been expanding ''airflow space programs'' that give airlines the option of flying longer routes to avoid severe weather or, as she put it, ''Unwanted visits by Mother Nature.''</p>
+        <p>ON THE ROAD E-mail: jsharkey@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: jsharkey@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

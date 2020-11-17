@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRIO BEYOND</title>
+    <meta content="01bjazz" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851201"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE LISTINGS | JUNE 1 - JUNE 7"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E0DD1530F932A35755C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRIO BEYOND</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE CHINEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Almost 40 years ago the Tony Williams Lifetime pioneered a brand of superheated fusion that brooked no qualms or disclaimers. There were just three musicians in the original incarnation of the band -- John McLaughlin on guitar, Larry Young on Hammond B-3 organ and Tony Williams on drums -- but its sound could be crushingly massive. This had a lot to do with the intensity of its namesake leader, who had been pushing toward jazz-rock even during his celebrated tenure with the Miles Davis Quintet. Mr. Williams, who died in 1997, played the drums with a forward-tilt aggression that was matched by his intuitive sophistication. In Lifetime the balance often tilted to favor power over finesse. (Not that there's anything wrong with that.) That isn't the case with Trio Beyond, above, a tribute band consisting of the drummer Jack DeJohnette, the guitarist John Scofield and the keyboardist Larry Goldings. Formed by Mr. DeJohnette, Mr. Williams's loose-limbed successor with Miles Davis, the group recently released a live double album -- ''Saudades'' (ECM), recorded in 2004 -- that features not only Lifetime staples but also milestones of Mr. Williams's sideman career, songs associated with Mr. Young and even a bit of original material. The point seems to be a particular species of interaction, more than a repertory or even a style. So Mr. Scofield, another Davis alumnus, has no imperative to imitate Mr. McLaughlin; he sounds like a pumped-up version of himself. The same is true of his bandmates, who allude to their predecessors without overdoing the emulation. Appropriately, the musicians sound best when they're blazing together through an anthem like ''Emergency,'' seemingly without much concern for how the music might be classified. It's in their fierce commitment that they honor Mr. Williams best. (Tuesday through June 10 at 8 and 10:30 p.m., Blue Note, 131 West Third Street, West Village, 212-475-8592, bluenote.net; cover, $35 at tables, $20 at the bar, with a $5 minimum.)</p>
+        <p>NATE CHINEN</p>
+      </block>
+      <block class="full_text">
+        <p>Almost 40 years ago the Tony Williams Lifetime pioneered a brand of superheated fusion that brooked no qualms or disclaimers. There were just three musicians in the original incarnation of the band -- John McLaughlin on guitar, Larry Young on Hammond B-3 organ and Tony Williams on drums -- but its sound could be crushingly massive. This had a lot to do with the intensity of its namesake leader, who had been pushing toward jazz-rock even during his celebrated tenure with the Miles Davis Quintet. Mr. Williams, who died in 1997, played the drums with a forward-tilt aggression that was matched by his intuitive sophistication. In Lifetime the balance often tilted to favor power over finesse. (Not that there's anything wrong with that.) That isn't the case with Trio Beyond, above, a tribute band consisting of the drummer Jack DeJohnette, the guitarist John Scofield and the keyboardist Larry Goldings. Formed by Mr. DeJohnette, Mr. Williams's loose-limbed successor with Miles Davis, the group recently released a live double album -- ''Saudades'' (ECM), recorded in 2004 -- that features not only Lifetime staples but also milestones of Mr. Williams's sideman career, songs associated with Mr. Young and even a bit of original material. The point seems to be a particular species of interaction, more than a repertory or even a style. So Mr. Scofield, another Davis alumnus, has no imperative to imitate Mr. McLaughlin; he sounds like a pumped-up version of himself. The same is true of his bandmates, who allude to their predecessors without overdoing the emulation. Appropriately, the musicians sound best when they're blazing together through an anthem like ''Emergency,'' seemingly without much concern for how the music might be classified. It's in their fierce commitment that they honor Mr. Williams best. (Tuesday through June 10 at 8 and 10:30 p.m., Blue Note, 131 West Third Street, West Village, 212-475-8592, bluenote.net; cover, $35 at tables, $20 at the bar, with a $5 minimum.)</p>
+        <p>NATE CHINEN  THE LISTINGS | JUNE 1 - JUNE 7</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

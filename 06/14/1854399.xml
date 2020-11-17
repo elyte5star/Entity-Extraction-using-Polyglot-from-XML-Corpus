@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MacBook Pros Look Like Older Models, but the Innards Are Different</title>
+    <meta content="14mac" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14mac.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854399"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Apple Inc</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Apple Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E4D9143FF937A25755C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MacBook Pros Look Like Older Models, but the Innards Are Different</hl1>
+        <hl2 class="online_headline">MacBook Pros Look Like Older Models, but the Innards Are Different</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Apple's new MacBook Pro laptops look identical to older models, but innards are different, offering improved wireless networking and processing speed; standard 17-inch model with 160-gigabyte hard drive and DVD burner costs $2,799; 15-inch model starts at $1,999; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apple rarely makes sweeping changes to its product line, which is why its new MacBook Pro laptops look identical to older models. Only the innards are different, offering improved wireless networking and processing speed.</p>
+        <p>The 17-inch model, shown here, now includes a 2.4-gigahertz Intel Core 2 Duo processor along with up to 4 gigabytes of RAM. The battery lasts more than 5 hours on one charge, and it includes high-speed 802.11n wireless support and Bluetooth.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Apple rarely makes sweeping changes to its product line, which is why its new MacBook Pro laptops look identical to older models.</p>
+      </block>
+      <block class="full_text">
+        <p>Apple rarely makes sweeping changes to its product line, which is why its new MacBook Pro laptops look identical to older models. Only the innards are different, offering improved wireless networking and processing speed.</p>
+        <p>The 17-inch model, shown here, now includes a 2.4-gigahertz Intel Core 2 Duo processor along with up to 4 gigabytes of RAM. The battery lasts more than 5 hours on one charge, and it includes high-speed 802.11n wireless support and Bluetooth.</p>
+        <p>The standard 17-inch model with 160-gigabyte hard drive and DVD burner costs $2,799 at Apple's online store. It has two Firewire ports, three U.S.B. ports and an ExpressCard slot for expansion. A high-resolution 1,920-by-1,200-pixel screen and a 250-gigabyte hard drive are available.</p>
+        <p>The 15-inch model, which starts at $1,999, now has an energy-efficient L.E.D. backlit screen, an improvement over fluorescent lighting. The 15-inch version tops out at 2.4 gigahertz and can have up to 160 gigabytes of hard drive space.</p>
+        <p>Both new MacBook Pros also have an Nvidia GeForce 8600M GT graphics processor.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Genome of DNA Discoverer Is Deciphered</title>
+    <meta content="01gene" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/science/01gene.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851233"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <person class="online_producer">Watson, James D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5DA1530F932A35755C0A9619C8B63" item-length="1081" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Genome of DNA Discoverer Is Deciphered</hl1>
+        <hl2 class="online_headline">Genome of DNA Discoverer Is Deciphered</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The full genome of James D. Watson, who jointly discovered the structure of DNA in 1953, has been deciphered, marking what some scientists believe is the gateway to an impending era of personalized genomic medicine.</p>
+        <p>A copy of his genome, recorded on two DVDs, was presented to Dr. Watson yesterday in a ceremony in Houston by Richard A. Gibbs, director of the Human Genome Sequencing Center at the Baylor College of Medicine, and by Jonathan M. Rothberg, founder of the company 454 Life Sciences.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The sequencing of James D. Watson’s genome could be the gateway to an era of personalized genomic medicine.</p>
+      </block>
+      <block class="full_text">
+        <p>The full genome of James D. Watson, who jointly discovered the structure of DNA in 1953, has been deciphered, marking what some scientists believe is the gateway to an impending era of personalized genomic medicine.</p>
+        <p>A copy of his genome, recorded on two DVDs, was presented to Dr. Watson yesterday in a ceremony in Houston by Richard A. Gibbs, director of the Human Genome Sequencing Center at the Baylor College of Medicine, and by Jonathan M. Rothberg, founder of the company 454 Life Sciences.</p>
+        <p>''I am thrilled to see my genome,'' Dr. Watson said.</p>
+        <p>Dr. Rothberg's company makes an innovative DNA sequencing machine, the latest version of which proved capable of decoding Dr. Watson's genome in two months at a cost of less than $1 million, said Michael Egholm, 454's vice president for research. The sequence was verified and analyzed by Dr. Gibbs's center in Houston. It was Dr. Gibbs who proposed the idea of sequencing Dr. Watson's genome.</p>
+        <p>Dr. Watson has said he will make his entire genome available for researchers to study, with the single exception of his apolipoprotein E gene, the status of which he does not wish to know because it predisposes a person toward Alzheimer's disease.</p>
+        <p>He emphasized the need for sequencing many more individual genomes to help researchers understand mental diseases like schizophrenia, which has struck a member of his own family, and urged others to let their full genomes and identity be put on record so that their physical and mental qualities could be correlated with their DNA.</p>
+        <p>''I'm afraid we'll begin to think of a lot of reasons for restricting release of genomes and guarding them as if they were nuclear weapons,'' he said.</p>
+        <p>Dr. Watson, a Nobel laureate, was ''the right guy to do first'' because of his discovery, with Francis Crick, that DNA is the basis of heredity, Dr. Rothberg said in an e-mail message. Dr. Watson was also the architect and first director of the government's $3 billion human genome project, which completed the first human genome in 2003.</p>
+        <p>But that genome sequence, at present the standard reference for the human genome, belonged to a composite of anonymous donors from Buffalo, and cannot be matched with medical information from a single person.</p>
+        <p>The first two genome sequences belonging to individuals are now being made available to researchers within a few days of each other. One is Dr. Watson's and the other belongs to J. Craig Venter, who as president of the Celera Corporation started a human genome project in competition with the government.</p>
+        <p>Dr. Venter left Celera after producing only a draft version of a genome, his own, in 2001, which the company did no further work on. He has now brought his genome to completion at his own institute in Rockville, Md., and deposited it last week in GenBank, a public DNA database, he said.</p>
+        <p>Dr. Watson and Dr. Venter are both taking a considerable personal risk in making their genomes publicly available. As is probably true for everyone, their genomes are likely to contain mutations that could lead to disease, revealing possibly unfavorable information about themselves and their relatives. Even though the interpretation of the human genome sequence has only just begun, they are, in principle, exposing all their imperfections to public view for the sake of advancing research.</p>
+        <p>''The complexity of the analysis is such that I'm not worried about people making major discoveries that explain my idiosyncrasies,'' Dr. Venter said.</p>
+        <p>Amy L. McGuire, a medical ethicist at the Baylor College of Medicine who was involved in the Watson sequencing project, said Dr. Watson and Dr. Venter were following the medical tradition of making oneself the first subject of a new experiment and would incur unknown risks.</p>
+        <p>''I think that both have been motivated by their commitment to the science and genomic medicine and advancing the field,'' Dr. McGuire said.</p>
+        <p>Neither Dr. Venter nor 454 Life Sciences will talk in detail about the new individual genome sequences for fear of sanctions from the journals considering publications about them. But both genomes seem to be significantly better in many ways than the present reference standard.</p>
+        <p>Both are diploid genomes, meaning that they include the DNA sequence in the chromosomes inherited from both parents, whereas the reference genome completed by the Human Genome Project did not capture these differences.</p>
+        <p>Some 3.5 percent of Dr. Watson's genome could not be matched to the reference genome. One reason may be that the project scientists had to amplify human DNA by growing it in bacteria and may have lost many regions of human DNA that are toxic to bacteria, said Dr. Egholm, 454's vice president for research. The 454 sequencer skips the bacteria stage entirely and is free of this source of bias.</p>
+        <p>Dr. Venter said that 454 would have assembled Dr. Watson's genome by comparing short lengths of analyzed DNA with the reference sequence, so the company might not have detected any structural errors present in the reference assembly.</p>
+        <p>Dr. Venter said his new genome had been assembled from scratch. There were many more differences than he had expected, including in single units of DNA that were extra or absent. ''It's clear we have grossly underestimated the extent of human variation,'' he said.</p>
+        <p>Both he and Dr. Egholm said it would be valuable to compare the two new genomes, especially as they were generated by different methods. ''We are looking forward to getting the data and layering it on my genome,'' Dr. Venter said of his former rival's genome sequence.</p>
+        <p>Dr. Venter's new genome is ''a real tour de force'' and could become the new reference genome, said a researcher who heard him give a recent presentation on its details.</p>
+        <p>Some scientists believe that it will be medically useful to sequence patients' genomes when the cost of sequencing falls to around $10,000 or less. Dr. Egholm said that with improvements already under way, the 454 sequencing machine would soon be able to sequence a human genome for $100,000. The cost of sequencing has been dropping so fast in the hands of groups like 454 Life Sciences and Solexa Inc., a subsidiary of Illumina Inc., that some technologists predict the $10,000 genome will be attained in a few years.</p>
+        <p>At a news conference in Houston yesterday, Dr. Watson urged that more human genomes be sequenced, including those of successful people as well as those of medical interest. ''I just want the information assessed as soon as possible,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

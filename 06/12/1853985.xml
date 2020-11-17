@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After the Bomb</title>
+    <meta content="12carter" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/opinion/12carter.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853985"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <org class="indexing_service">Homeland Security Department</org>
+        <person class="indexing_service">Perry, William J</person>
+        <person class="indexing_service">Carter, Ashton B (Prof)</person>
+        <person class="indexing_service">May, Michael (Prof)</person>
+        <person class="indexing_service">Clinton, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E5DA173FF931A25755C0A9619C8B63" item-length="1396" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After the Bomb</hl1>
+        <hl2 class="online_headline">After the Bomb</hl2>
+      </hedline>
+      <byline class="print_byline">By William J. Perry, Ashton B. Carter and Michael M. May</byline>
+      <byline class="normalized_byline">May, Michael (Prof); Carter, Ashton B (Prof); Perry, William J</byline>
+      <abstract>
+        <p>Op-Ed article by Prof Michael M May and William J Perry and Ashton B Carter, professors and former Clinton administration officials, holds that it is crucial for US to have contingency plans for possible nuclear terrorism attack; maintains that federal government, led by Homeland Security Dept, must plan to quickly take full responsibility for handling crisis, which would overwhelm local governments; says only federal government could help country deal rationally with problem of radiation; warns that retaliating against government that provided supplies, knowingly or unknowingly, to terrorists would be counterproductive because their cooperation would be needed to stop nuclear terrorism; says contingency plans should demonstrate to Americans that all three branches of government can work in unison to respond to crisis, prevent panic and promote recovery; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE probability of a nuclear weapon one day going off in an American city cannot be calculated, but it is larger than it was five years ago. Potential sources of bombs or the fissile materials to make them have proliferated in North Korea and Iran. Russia's arsenal remains incompletely secured 15 years after the end of the Soviet Union. And Pakistan's nuclear technology, already put on the market once by Abdul Qadeer Khan, could go to terrorists if the president, Gen. Pervez Musharraf, cannot control radicals in that country.</p>
+        <p>In the same period, terrorism has surged into a mass global movement and seems to gather strength daily as extremism spills out of Iraq into the rest of the Middle East, Asia, Europe and even the Americas. More nuclear materials that can be lost or stolen plus more terrorists aspiring to mass destruction equals a greater chance of nuclear terrorism.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We are still woefully unprepared for a nuclear attack.</p>
+      </block>
+      <block class="full_text">
+        <p>THE probability of a nuclear weapon one day going off in an American city cannot be calculated, but it is larger than it was five years ago. Potential sources of bombs or the fissile materials to make them have proliferated in North Korea and Iran. Russia's arsenal remains incompletely secured 15 years after the end of the Soviet Union. And Pakistan's nuclear technology, already put on the market once by Abdul Qadeer Khan, could go to terrorists if the president, Gen. Pervez Musharraf, cannot control radicals in that country.</p>
+        <p>In the same period, terrorism has surged into a mass global movement and seems to gather strength daily as extremism spills out of Iraq into the rest of the Middle East, Asia, Europe and even the Americas. More nuclear materials that can be lost or stolen plus more terrorists aspiring to mass destruction equals a greater chance of nuclear terrorism.</p>
+        <p>Former Senator Sam Nunn in 2005 framed the need for Washington to do better at changing this math with a provocative question: On the day after a nuclear weapon goes off in an American city, ''what would we wish we had done to prevent it?'' But in view of the increased risk we now face, it is time to add a second question to Mr. Nunn's: What will we actually do on the day after? That is, what actions should our government take?</p>
+        <p>It turns out that much could be done to save lives and ensure that civilization endures in such terrible circumstances. After all, the underlying equation would remain a few terrorists acting against all the rest of us, and even nuclear weapons need not undermine our strong societies if we prepare to act together sensibly. Sadly, it is time to consider such contingency planning.</p>
+        <p>First and foremost, the scale of disaster would quickly overwhelm even the most prepared city and state governments. To avoid repeating the Hurricane Katrina fiasco on a much larger scale, Washington must stop pretending that its role would be to support local responders. State and local governments -- though their actions to save lives and avoid panic in the first hours would be essential -- must abandon the pretense that they could remain in charge. The federal government, led by the Department of Homeland Security, should plan to quickly step in and take full responsibility and devote all its resources, including those of the Department of Defense, to the crisis.</p>
+        <p>Only the federal government could help the country deal rationally with the problem of radiation, which is unique to nuclear terrorism and uniquely frightening to most people. For those within a two-mile-wide circle around a Hiroshima-sized detonation (in Washington, that diameter is the length of the Mall; in New York, three-fourths the length of Central Park; in most cities, the downtown area) or just downwind, little could be done. People in this zone who were not killed by the blast itself, perhaps hundreds of thousands of them, would get radiation sickness, and many would die.</p>
+        <p>But most of a city's residents, being farther away, would have more choices. What should they do as they watch a cloud of radioactive debris rise and float downwind like the dust from the twin towers on 9/11? Those lucky enough to be upwind could remain in their homes if they knew which way the fallout plume was blowing. (The federal government has the ability to determine that and to quickly broadcast the information.) But for those downwind and more than a few miles from ground zero, the best move would be to shelter in a basement for three days or so and only then leave the area.</p>
+        <p>This is a hard truth to absorb, since we all would have a strong instinct to flee. But walking toward the suburbs or sitting in long traffic jams would directly expose people to radiation, which would be the most intense on the day after the bomb went off. After that, the amount would drop off day by day (one-third as strong after three days, one-fifth as strong after five days, and so on), because of the natural decay of the radioactive components of the fallout.</p>
+        <p>More tough decisions would arise later. People downwind could leave their homes or stay, leave for a while and then come back or leave and come back briefly to retrieve valuables. The choices would be determined by the dose of radiation they were willing to absorb. Except in the hot zone around the blast and a few miles downwind, even unsheltered people would not be exposed to enough radiation to make them die or even become sick. It would be enough only to raise their statistical chance of getting cancer later in life from 20 percent (the average chance we all have) to something greater -- 21 percent, 22 percent, up to 30 percent at the maximum survivable exposure.</p>
+        <p>Similar choices would face first responders and troops sent to the stricken area: how close to ground zero could they go, and for how long? Few would choose to have their risk of death from cancer go up to 30 percent. But in cases of smaller probabilities -- an increase to 20.1 percent, for example -- a first responder might be willing to go into the radiation zone, or a resident might want to return to pick up a beloved pet. These questions could be answered only by the individuals themselves, based on information about the explosion.</p>
+        <p>Next comes the unpleasant fact that the first nuclear bomb may well not be the last. If terrorists manage to obtain a weapon, or the fissile material to make one (which fits into a small suitcase), who's to say they wouldn't have two or three more? And even if they had no more weapons, the terrorists would most likely claim that they did. So people in other cities would want to evacuate on the day after, or at least move their children to the countryside, as happened in England during World War II.</p>
+        <p>The United States government, probably convened somewhere outside Washington by the day after, would be urgently trying to trace the source of the bombs. No doubt, the trail would lead back to some government -- Russia, Pakistan, North Korea or other countries with nuclear arsenals or advanced nuclear power programs -- because even the most sophisticated terrorist groups cannot make plutonium or enrich their own uranium; they would need to get their weapons or fissile materials from a government.</p>
+        <p>The temptation would be to retaliate against that government. But that state might not even be aware that its bombs were stolen or sold, let alone have deliberately provided them to terrorists. Retaliating against Russia or Pakistan would therefore be counterproductive. Their cooperation would be needed to find out who got the bombs and how many there were, and to put an end to the campaign of nuclear terrorism. It is important to continue to develop the ability to trace any bomb by analyzing its residues. Any government that did not cooperate in the search should, of course, face possible retaliation.</p>
+        <p>Finally, as buildings and lives were destroyed, so would the sense of safety and well-being of survivors, and this in turn could lead to panic. Contingency plans for the day after a nuclear blast should demonstrate to Americans that all three branches of government can work in unison and under the Constitution to respond to the crisis and prevent further destruction.</p>
+        <p>A council of, say, the president, the vice president, the speaker of the House and the majority leader of the Senate, with the chief justice of the Supreme Court present as an observer, could consider certain aspects of the government's response, like increased surveillance. Any emergency measures instituted on the day after should be temporary, to be reviewed and curtailed as soon as the crisis ends.</p>
+        <p>Forceful efforts to prevent a nuclear attack -- more forceful than we have seen in recent years -- may keep the day from coming. But as long as there is no way to be sure it will not, it is important to formulate contingency plans that can save thousands of lives and billions of dollars, prevent panic and promote recovery. They can also help us preserve our constitutional government, something that terrorists, even if armed with nuclear weapons, should never be allowed to take away.</p>
+        <p>Op-Ed Contributor William J. Perry, a professor at Stanford, and Ashton B. Carter, a professor at Harvard, were, respectively, the secretary and an assistant secretary of defense in the Clinton administration. Michael M. May, also a professor at Stanford, is a former director of the Lawrence Livermore National Laboratory.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">William J. Perry, a professor at Stanford, and Ashton B. Carter, a professor at Harvard, were, respectively, the secretary and an assistant secretary of defense in the Clinton administration. Michael M. May, also a professor at Stanford, is a former director of the Lawrence Livermore National Laboratory.</tagline>
+    </body.end>
+  </body>
+</nitf>

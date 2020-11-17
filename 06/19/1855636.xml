@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Imagining the Day After the Unimaginable</title>
+    <meta content="l19nuclear" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DE133FF93AA25755C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Imagining the Day After the Unimaginable</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''After the Bomb,'' by William J. Perry, Ashton B. Carter and Michael M. May (Op-Ed, June 12):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''After the Bomb,'' by William J. Perry, Ashton B. Carter and Michael M. May (Op-Ed, June 12):</p>
+        <p>Where do we find volunteers for a response team to help after a nuclear attack? Look first to our older citizens. They are retired, post-procreation and are less likely than their juniors to worry about delayed radiation effects. The same argument can be applied with only a little less force to teams responding to a chemical or biological attack.</p>
+        <p>I am a healthy octogenarian with some background in radiation medicine. Where do I sign up?</p>
+        <p>Tor Richter, M.D.</p>
+        <p>Pittsburgh, June 12, 2007</p>
+        <p>The writer is a retired military medical officer.</p>
+        <p>To the Editor:</p>
+        <p>A high priority in preparing for a terrorist nuclear attack should be the identification and hardening of critical assets, many of which might survive if outside the zone of maximum destruction. These assets include hospitals and fire stations, but also museums and libraries, which contain irreplaceable cultural objects.</p>
+        <p>The most delicate parts of many of these structures are the glass windows, which shatter during an explosion, injuring those within and allowing radioactive material to enter the building. Plastic-laminated glass windows, such as those used in hurricane prone environments, should be mandated for critical buildings.</p>
+        <p>Looting is also a major post-detonation concern, which can be mitigated by strengthened structural components on the lower floors of hospitals and museums.</p>
+        <p>William Warmus</p>
+        <p>Lansing, N.Y., June 12, 2007</p>
+        <p>The writer was the curator of modern glass at the Corning Museum of Glass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

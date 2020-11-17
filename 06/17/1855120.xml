@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jayde Steckowych, Marty Schenker</title>
+    <meta content="17STECKOWYCH" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17STECKOWYCH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855120"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Steckowych, Dr. Jayde Marya</person>
+        <person class="indexing_service">Schenker, Marty</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EEDB153FF934A25755C0A9619C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jayde Steckowych, Marty Schenker</hl1>
+        <hl2 class="online_headline">Jayde Steckowych, Marty Schenker</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Jayde Marya Steckowych and Marty Schenker were married on Thursday at their home in Wyckoff, N.J., where John A. Paparazzo, a municipal judge in Verona, N.J., officiated. Last evening, Kerry Steckowych, a brother of the bride, led a public celebration of the couple's marriage, again at their home.</p>
+        <p>Dr. Steckowych, 53, is keeping her name. She is an otolaryngologist and a head and neck surgeon in Ramsey, N.J. She graduated from Boston University and received a medical degree from Far Eastern University in Manila. She is a daughter of Thérèse and Peter Steckowych of Goffstown, N.H.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Jayde Marya Steckowych and Marty Schenker were married on Thursday at their home in Wyckoff, N.J., where John A. Paparazzo, a municipal judge in Verona, N.J., officiated. Last evening, Kerry Steckowych, a brother of the bride, led a public celebration of the couple’s marriage, again at their home.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Jayde Marya Steckowych and Marty Schenker were married on Thursday at their home in Wyckoff, N.J., where John A. Paparazzo, a municipal judge in Verona, N.J., officiated. Last evening, Kerry Steckowych, a brother of the bride, led a public celebration of the couple's marriage, again at their home.</p>
+        <p>Dr. Steckowych, 53, is keeping her name. She is an otolaryngologist and a head and neck surgeon in Ramsey, N.J. She graduated from Boston University and received a medical degree from Far Eastern University in Manila. She is a daughter of Thérèse and Peter Steckowych of Goffstown, N.H.</p>
+        <p>The bridegroom, 57, is a top editor for Bloomberg News in Manhattan and is a Bard College graduate. He is the son of the late Lucille and Hyman Schenker, who lived in Flushing, Queens.</p>
+        <p>The bride's previous marriage ended in divorce, as did the bridegroom's two previous marriages.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

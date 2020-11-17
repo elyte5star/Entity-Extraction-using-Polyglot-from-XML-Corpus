@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRY, TRY AGAIN</title>
+    <meta content="10suits-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853310"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0DD163FF933A25755C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRY, TRY AGAIN</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joseph P. Nacchio, the former Qwest chief executive convicted in April on 19 counts of insider trading, is hoping that a change of scenery can spare him from the slammer. Mr. Nacchio is set to be sentenced the end of next month, but his lawyers petitioned a federal judge in Denver last week to overturn his conviction and move the case outside the city for a retrial.</p>
+        <p>The odds against Mr. Nacchio seem long. The same judge denied similar requests twice before, saying he was confident that jurors were capable of a fair evaluation, even though many of them acknowledged having heard of the case. Qwest is based in Denver.</p>
+      </block>
+      <block class="full_text">
+        <p>Joseph P. Nacchio, the former Qwest chief executive convicted in April on 19 counts of insider trading, is hoping that a change of scenery can spare him from the slammer. Mr. Nacchio is set to be sentenced the end of next month, but his lawyers petitioned a federal judge in Denver last week to overturn his conviction and move the case outside the city for a retrial.</p>
+        <p>The odds against Mr. Nacchio seem long. The same judge denied similar requests twice before, saying he was confident that jurors were capable of a fair evaluation, even though many of them acknowledged having heard of the case. Qwest is based in Denver.</p>
+        <p>The request for a retrial last Monday began a busy week for Mr. Nacchio's lawyers. On Tuesday, they formally answered another legal challenge: a civil complaint from the Securities and Exchange Commission alleging many of the same actions Mr. Nacchio was convicted of in criminal court. Mr. Nacchio denies the allegations.</p>
+        <p>JEREMY W. PETERS</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

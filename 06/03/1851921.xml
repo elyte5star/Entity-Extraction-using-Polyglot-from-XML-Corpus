@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Genius and Misfit Aren't Synonyms, or Are They?</title>
+    <meta content="03ping" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/business/yourmoney/03ping.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851921"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <location class="online_producer">Silicon Valley (Calif)</location>
+        <org class="online_producer">Google Inc</org>
+        <person class="online_producer">Gates, Bill</person>
+        <person class="online_producer">Page, Larry</person>
+        <person class="online_producer">Brin, Sergey</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD81330F930A35755C0A9619C8B63" item-length="1023" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Genius and Misfit Aren't Synonyms, or Are They?</hl1>
+        <hl2 class="online_headline">Genius and Misfit Aren’t Synonyms, or Are They?</hl2>
+      </hedline>
+      <byline class="print_byline">By G. PASCAL ZACHARY</byline>
+      <byline class="normalized_byline">Zachary, G Pascal</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE story of the college dropout who became the world's richest man still has the power to inspire us. It affirms our deeply engrained view that rejecting the received wisdom (do my own thing!) is a path to creativity and wealth.</p>
+        <p>As Walt Whitman famously wrote 150 years ago, ''I celebrate myself, and sing myself.'' In our individualistic country, the strong, lone voice is often viewed as the animating force behind every kind of success.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In Silicon Valley, where misfits rule, rejecting the received wisdom is commonly viewed as a path to creativity and wealth.</p>
+      </block>
+      <block class="full_text">
+        <p>THE story of the college dropout who became the world's richest man still has the power to inspire us. It affirms our deeply engrained view that rejecting the received wisdom (do my own thing!) is a path to creativity and wealth.</p>
+        <p>As Walt Whitman famously wrote 150 years ago, ''I celebrate myself, and sing myself.'' In our individualistic country, the strong, lone voice is often viewed as the animating force behind every kind of success.</p>
+        <p>This drive appears to power many technological innovators. In an era where one-size-fits-all solutions take hold for reasons of efficiency and winner-take-all economics, ''misfits can thrive, because start-up companies are how misfits express themselves,'' says Howard Rheingold, the author of ''Smart Mobs,'' which is about how the Internet allows strangers to act in concert.</p>
+        <p>Google, the hottest company on the planet as measured by media ink, is one of the latest examples of the power of the misfit. One co-founder, Larry Page, is enamored with the notion of ''space elevators.'' The other co-founder, Sergey Brin, is using $3.9 million of Google's money to finance a genetic mapping company started by his wife. The two men are said to have outfitted a private company jet with hammocks and king-size beds. In short, these billionaires are hardly men in gray flannel suits.</p>
+        <p>I come today to praise the misfit innovator, ''the loser now,'' in Bob Dylan's venerable lyric, who ''will be later to win.''</p>
+        <p>Back to the dropout (from Harvard, no less), who is, of course, Bill Gates, a co-founder of Microsoft. His story is repeated again and again by weary innovators facing failure and by fresh-faced geeks just striking out for the endless frontier.</p>
+        <p>''The Gates example is so interesting because we Americans like to tell stories that remind us that establishments are close-minded,'' says David A. Hollinger, a historian at the University of California, Berkeley.</p>
+        <p>The identification of technological innovators who have a rebellious streak -- resenting and resisting established authority and its prejudices -- took root in the 1960s counterculture. The '60s-inspired inventors of personal computers and software, like Mr. Gates and Steven P. Jobs, co-founder of Apple (and an outright hippie in his youth), were bent on destroying a technological priesthood that stifled innovation.</p>
+        <p>At first, ''I never expected to amount to anything,'' says Steve Wozniak, who was languishing as a low-level engineer at Hewlett-Packard when he teamed up with Mr. Jobs to design Apple's first computer.</p>
+        <p>Alienated by Hewlett-Packard's emphasis on large, expensive and forbidding technical systems, Mr. Wozniak took hardware that was used to power toys and calculators and created a rival approach, personal computing, that ultimately took over the world. ''All the ideas that mattered to me came from outsiders,'' he recalls.</p>
+        <p>While inventive, these men did not create their sensibility out of whole cloth. They received a crucial assist from a historian of science named Thomas Kuhn, whose seminal 1962 book, ''The Structure of Scientific Revolution,'' neatly mapped the anti-establishment landscape of innovation.</p>
+        <p>Kuhn's central insight, which fast became a cliché, was to identify ''paradigm shifts'' as the key to advances in science and technology.</p>
+        <p>Scientific world views were belief systems first and proved empirically only later. Facts had meaning only in relation to a ''world view.'' When world views were overthrown by rebels, new paradigms could be constructed, opening the way for new theories, new facts, new technologies.</p>
+        <p>As the London-based writer Ziauddin Sardar has noted, in the popular mind, Kuhn reduced science to ''nothing more than long periods of boring conformist activity punctuated by outbreaks of irrational deviance.''</p>
+        <p>For people like Mr. Gates and Mr. Jobs, Kuhn's attack on conformity in science and technology provided a moral and intellectual foundation that still survives.</p>
+        <p>Echoes of the Kuhnian sensibility can be heard around any corridor in Silicon Valley, any day of the week. In fact, misfits now rule Silicon Valley and its sibling, Seattle.</p>
+        <p>Sean M. Maloney, chief of sales and marketing at Intel, reminded me of this last month as he recalled a dictum that Andrew S. Grove, the company's former chairman and chief executive, often invoked. When everyone says that something is true, be very skeptical, Mr. Grove advised. Question the obvious.</p>
+        <p>THAT is easier said than done, especially when corporations become so invested in their own ''paradigm'' that they grow blind to signs that ''the times they are a-changin'.'' How else to explain that Mr. Gates, writing in the first edition of his 1995 treatise on the future of computing, made no mention of the Internet, the very force that began to disrupt (and is still disrupting) his company's core business from virtually the day the book appeared?</p>
+        <p>Similarly, Google must struggle to avoid falling so much in love with its wildly successful online search and advertising technologies that it misses the next inevitable and disruptive paradigm shift. ''The reality is that world-changing amounts of money are earned by people who question orthodoxies,'' Mr. Maloney said.</p>
+        <p>Does this mean the misfit is always worth betting on? Not really. The often-ignored side of the Kuhn theory is that for long stretches of time, the frontier of science and technology is ruled by diligent people who are quietly filling in the grand vision that spawned a new paradigm in the first place.</p>
+        <p>These people are heroes of their own sort, keeping the home fires burning until the reigning paradigm is played out. ''The celebration of misfits promotes a worrisome anti-intellectualism and presents a distorted picture of the innovation process,'' says Mr. Hollinger, the historian.</p>
+        <p>Indeed, technological innovation -- not to mention new scientific knowledge -- is increasingly a result of large teams, working in routine, predictable ways. Individuals matter, but their contributions often can no longer be measured, nor can credit be accurately apportioned -- even by the people working closest with them.</p>
+        <p>Perhaps the steady rise in power by faceless teams of engineers, technicians and scientists explains the persistent romantic appeal of the lone misfit.</p>
+        <p>By any measure, successful misfits are the exception, and there is no handy tool for distinguishing the next college dropout with a bright and wealthy future from the dropout who faces a heap of woe.</p>
+        <p>PING G. Pascal Zachary teaches journalism at Stanford and writes about technology and economic development. E-mail: gzach@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">G. Pascal Zachary teaches journalism at Stanford and writes about technology and economic development. E-mail: gzach@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

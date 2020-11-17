@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Care For the Earliest Newborns</title>
+    <meta content="05lett-1" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852382"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED91130F936A35755C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Care For the Earliest Newborns</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re: ''For the Tiniest Babies, the Closest Thing to a Cocoon'' (May 29): Christine Hauser notes that the obvious best place for a premature baby would be the ''exquisitely complex environment'' of amniotic fluid and that the womb room is the second best place. That is surely true for preemies born just a few weeks early. But technology, no matter how high, cannot offer extremely premature newborns everything they need for full, healthy development.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re: ''For the Tiniest Babies, the Closest Thing to a Cocoon'' (May 29): Christine Hauser notes that the obvious best place for a premature baby would be the ''exquisitely complex environment'' of amniotic fluid and that the womb room is the second best place. That is surely true for preemies born just a few weeks early. But technology, no matter how high, cannot offer extremely premature newborns everything they need for full, healthy development.</p>
+        <p>Researchers have not characterized all biochemicals in pregnant women and all genes of the fetus that induce maturation; thus the complex uterine environment cannot be replicated in an intensive care unit. To focus on survivability rates while ignoring the pain-filled, isolated and dependent lives typical for most micro-preemies misleads future parents into believing there's a technological solution for every insufficiency of physiology.</p>
+        <p>Ruth Levy Guyer  Bethesda, Md.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

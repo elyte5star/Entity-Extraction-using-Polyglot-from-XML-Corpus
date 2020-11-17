@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nanny Knew Best</title>
+    <meta content="10lett-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853316"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DC163FF933A25755C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nanny Knew Best</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Nanny Nightmare? Living Without One,'' by Liesl Schillinger (Books of Style, May 27):</p>
+        <p>I was born in London in 1924 to middle-class parents. The custom in those days in England was to hire a well-trained English nanny (with excellent references) to raise the children. My mother was a dedicated and valuable community volunteer but insecure in her role as a mother.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Nanny Nightmare? Living Without One,'' by Liesl Schillinger (Books of Style, May 27):</p>
+        <p>I was born in London in 1924 to middle-class parents. The custom in those days in England was to hire a well-trained English nanny (with excellent references) to raise the children. My mother was a dedicated and valuable community volunteer but insecure in her role as a mother.</p>
+        <p>My sister and I adored our nanny and I believe I am a much more confident and contented person because of her dedicated and experienced care. I doubt if my insecure, anxious mother would have been as successful. But my parents' marriage was a loving one and they were devoted parents and grandparents.</p>
+        <p>When Nanny died I felt her loss very deeply; when Mother died at 77 a few years later I was saddened, feeling as if I had lost a really good friend. I have always wondered whether Mother regretted (or realized) that in my heart Nanny was my ''real'' mother. Consequently, my husband and I did not have nannies for the children. I guess I was selfish and did not want to share their love.</p>
+        <p>Zelda Ruth Harris  Toronto</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

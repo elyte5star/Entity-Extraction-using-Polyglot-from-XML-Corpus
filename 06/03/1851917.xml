@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Freelancers Inc.</title>
+    <meta content="03CIparrott" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/nyregionopinions/03CIparrott.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851917"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Small Business</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Parrott, James</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="descriptor">Income</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0D81330F930A35755C0A9619C8B63" item-length="560" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Freelancers Inc.</hl1>
+        <hl2 class="online_headline">Freelancers Inc.</hl2>
+      </hedline>
+      <byline class="print_byline">By James Parrott</byline>
+      <byline class="normalized_byline">Parrott, James</byline>
+      <abstract>
+        <p>Op-Ed article by Fiscal Policy Institute chief economist and deputy director James Parrott opposes New York City Mayor Michael Bloomberg's executive budget that would cut unincorporated business tax by increasing credit against city's personal income tax, on grounds that doing so will help small entrepreneurs; holds city should exempt middle-income freelancers and small-business owners from unfair double taxation (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE smallest of small businesses -- the self-employed and freelancers -- rarely get their voices heard in the halls of government. And when small-business concerns are publicly debated, all too often they are simply a mask for proposals that are really intended to benefit corporate interests -- farm subsidies and the estate tax cut come to mind.</p>
+        <p>Unfortunately, this pattern is being repeated right now in the New York City budget. Mayor Michael Bloomberg's executive budget includes a City Council proposal to cut a little-known tax called the unincorporated business tax by increasing a credit against the city's personal income tax, on the grounds that doing so will help small entrepreneurs. But in reality, this move will overwhelmingly benefit large businesses and wealthy individuals.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why the city needs to give the self-employed a tax break.</p>
+      </block>
+      <block class="full_text">
+        <p>THE smallest of small businesses -- the self-employed and freelancers -- rarely get their voices heard in the halls of government. And when small-business concerns are publicly debated, all too often they are simply a mask for proposals that are really intended to benefit corporate interests -- farm subsidies and the estate tax cut come to mind.</p>
+        <p>Unfortunately, this pattern is being repeated right now in the New York City budget. Mayor Michael Bloomberg's executive budget includes a City Council proposal to cut a little-known tax called the unincorporated business tax by increasing a credit against the city's personal income tax, on the grounds that doing so will help small entrepreneurs. But in reality, this move will overwhelmingly benefit large businesses and wealthy individuals.</p>
+        <p>The original idea behind the unincorporated business tax was to ensure that the elite of New York's corporate services sector -- legal, accounting and financial firms that are private partnerships -- would pay a tax on profits just as corporations do.</p>
+        <p>But as the economy has changed, this tax now hits computer programmers, writers, graphic designers and other freelancers because they are -- like the private partnership firms -- unincorporated. These workers are not businesses -- but the rules treat them as if they were, and make them pay the tax. Of course, if these workers live in New York City, they must also pay the city's personal income tax -- so they are taxed twice on the same income.</p>
+        <p>This double taxation is a burden on an increasing number of New Yorkers, because more and more companies are choosing to treat workers as freelancers or independent contractors to avoid responsibility for payroll taxes and having to pay health insurance and other benefits.</p>
+        <p>This creates perverse results. For example, the salary of a staff editor at a publishing house is taxed as personal income while the earnings received by a freelance editor working for the same publishing house are taxed by the city twice -- once as business income and once as personal income.</p>
+        <p>The right solution to this problem is to change the tax rules to exempt freelancers from paying the unincorporated business tax. While the current budget proposal, which would simply enact an across-the-board increase in the personal income tax credit for unincorporated business taxes paid, would help freelancers some, the biggest beneficiaries would be high-income law firm partners and financiers. That's because the 8 percent increase in the credit applies to someone whether he has earned $150,000 or $1 million in a given year. If you make $150,000, you would pay $5,600 in unincorporated business tax, and the 8 percent increase in the credit would mean a $450 tax break. But if you make $1 million, you're talking about a whopping $3,200 tax break.</p>
+        <p>Indeed, about 80 percent of the total dollar value of the proposed cut would go to those with incomes over $150,000. That means about $23 million in tax cuts would go to the fortunate few while thousands of freelancers and owners of truly small businesses share $5 million, tops. That's a pretty regressive tax cut. Instead, the increase in the credit should only benefit those making under $200,000.</p>
+        <p>By all means, the city should exempt middle-income freelancers and small-business owners from unfair double taxation. But we should figure out a way to do it that doesn't involve millions in tax cuts being lavished on the well-heeled.</p>
+        <p>Op-Ed Contributor James Parrott is the chief economist and deputy director of the Fiscal Policy Institute, a nonprofit research group.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">James Parrott is the chief economist and deputy director of the Fiscal Policy Institute, a nonprofit research group.</tagline>
+    </body.end>
+  </body>
+</nitf>

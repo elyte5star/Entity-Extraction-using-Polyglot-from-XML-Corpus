@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Paris Hilton Out of Jail, Into a Gilded Cage</title>
+    <meta content="08arts-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852983"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E2DA1F30F93BA35755C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Paris Hilton Out of Jail, Into a Gilded Cage</hl1>
+      </hedline>
+      <byline class="print_byline">By SHARON WAXMAN; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>That was quick. Paris Hilton, the 26-year-old heiress who was jailed Sunday night for a probation violation, was released in the early hours yesterday to serve the rest of her sentence at home. At a hastily arranged news conference, a spokesman for the Los Angeles County Sheriff's Department offered the cryptic explanation that a ''medical situation'' was the reason for her release. ''She has been fitted with an ankle bracelet and sent home, and will be confined to her home for the next 40 days,'' said the spokesman, Steve Whitmore. Ms. Hilton, in a statement released by her lawyer, said, ''I have learned a great deal from this ordeal and hope that others have learned from my mistakes.'' She also thanked authorities ''for treating me fairly and professionally.'' Her sentence, imposed when she was caught driving with a license suspended from a reckless driving case, had been reduced to 23 days at the correctional facility, a two-story concrete building southeast of downtown Los Angeles. Now that she will serve time at her more comfortable West Hollywood home, the sentence reverts to the original 45 days, minus the five days she served since Sunday.</p>
+        <p>SHARON WAXMAN</p>
+      </block>
+      <block class="full_text">
+        <p>That was quick. Paris Hilton, the 26-year-old heiress who was jailed Sunday night for a probation violation, was released in the early hours yesterday to serve the rest of her sentence at home. At a hastily arranged news conference, a spokesman for the Los Angeles County Sheriff's Department offered the cryptic explanation that a ''medical situation'' was the reason for her release. ''She has been fitted with an ankle bracelet and sent home, and will be confined to her home for the next 40 days,'' said the spokesman, Steve Whitmore. Ms. Hilton, in a statement released by her lawyer, said, ''I have learned a great deal from this ordeal and hope that others have learned from my mistakes.'' She also thanked authorities ''for treating me fairly and professionally.'' Her sentence, imposed when she was caught driving with a license suspended from a reckless driving case, had been reduced to 23 days at the correctional facility, a two-story concrete building southeast of downtown Los Angeles. Now that she will serve time at her more comfortable West Hollywood home, the sentence reverts to the original 45 days, minus the five days she served since Sunday.</p>
+        <p>SHARON WAXMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

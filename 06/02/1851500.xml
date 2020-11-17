@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW FACE AT WORLD BANK</title>
+    <meta content="02five-2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851500"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E2DF1030F931A35755C0A9619C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW FACE AT WORLD BANK</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVEN R. WEISMAN</byline>
+      <byline class="normalized_byline">Weisman, Steven R</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE government said economic growth was slower in the first quarter than it had initially estimated. Chinese markets swooned, but American investors reached new heights. The World Bank has big money-raising needs for its new leader.</p>
+        <p>The World Bank is preparing for new leadership under Robert B. Zoellick, but facing many of the same problems that have made it a turbulent place in the last two years.</p>
+      </block>
+      <block class="full_text">
+        <p>THE government said economic growth was slower in the first quarter than it had initially estimated. Chinese markets swooned, but American investors reached new heights. The World Bank has big money-raising needs for its new leader.</p>
+        <p>The World Bank is preparing for new leadership under Robert B. Zoellick, but facing many of the same problems that have made it a turbulent place in the last two years.</p>
+        <p>An experienced diplomat, financier and trade negotiator in three Republican administrations, Mr. Zoellick won generally favorable reviews when President Bush announced his selection as the bank president less than two weeks after the downfall of Paul D. Wolfowitz, the former deputy defense secretary who resigned amid charges of favoritism.</p>
+        <p>Mr. Zoellick said that he would take seriously his obligation to try to heal the wounds left by Mr. Wolfowitz and would also consult widely as he charts a new course for an institution that provides $23 billion a year in assistance to poor countries.</p>
+        <p>Some problems are long term. Should the bank be lending $14 billion a year to ''middle income'' countries like China, India, Brazil and Mexico, which have easy access to capital markets? Can the bank focus on governance and corruption without being accused of meddling in the affairs of recipient countries?</p>
+        <p>One question is coming at Mr. Zoellick more quickly. This year the bank, under his leadership, must raise $30 billion to be lent over the next three years for the poorest of the poor countries. The effort has fallen behind because of the turmoil over Mr. Wolfowitz. Mr. Zoellick will be plunging into the task as soon as he is elected, probably before the end of the month.</p>
+        <p>STEVEN R. WEISMAN</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from May 26 through June 1:  1. Bumped Fliers and No Plan B  2. In Fierce Competition, Google Finds Novel Ways to Feed Hiring Machine  3. Truth, Fiction and Lou Dobbs  4. Apple's Lesson for Sony's Stores: Just Connect  5. Lawmakers Push for Big Subsidies for Coal Process  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

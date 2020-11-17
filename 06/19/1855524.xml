@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Enforcement of Hygiene Inconsistent at Petting Zoos</title>
+    <meta content="19awar" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/health/19awar.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855524"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Salmonella (Bacteria)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="descriptor">Salmonella (Bacteria)</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">E Coli (Bacteria)</classifier>
+        <classifier class="online_producer" type="general_descriptor">E Coli (Bacteria)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Salmonella (Bacteria)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5DF133FF93AA25755C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Enforcement of Hygiene Inconsistent at Petting Zoos</hl1>
+        <hl2 class="online_headline">Awareness: Enforcement of Hygiene Inconsistent at Petting Zoos</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Along with lambs, ducks and rabbits, petting zoos may also feature E. coli, salmonella and other disease-causing microorganisms. But according to a new study, few zoos consistently enforce hygienic practices that would keep these germs from spreading to humans.</p>
+        <p>Researchers made unannounced inspections of 36 Canadian petting zoos, most of them part of temporary exhibits. Their report appears in the July 1 issue of Clinical Infectious Diseases.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests that few zoos consistently enforce hygienic practices to keep germs from spreading to humans.</p>
+      </block>
+      <block class="full_text">
+        <p>Along with lambs, ducks and rabbits, petting zoos may also feature E. coli, salmonella and other disease-causing microorganisms. But according to a new study, few zoos consistently enforce hygienic practices that would keep these germs from spreading to humans.</p>
+        <p>Researchers made unannounced inspections of 36 Canadian petting zoos, most of them part of temporary exhibits. Their report appears in the July 1 issue of Clinical Infectious Diseases.</p>
+        <p>While all but two of the zoos had hand-washing facilities, only about a quarter of visitors used them. At more than 80 percent of the zoos, people carried food or beverages into the animal areas. About a third permitted children under 6 to have unsupervised contact with the animals, and 65 percent allowed feeding animals by hand.</p>
+        <p>At almost one-third of the exhibits, the animals had clear signs of illness, but all of them were available for petting. Observers saw people carrying baby bottles, pacifiers and toys in more than half of the animal areas.</p>
+        <p>The  Centers for Disease Control and Prevention publishes guidelines for petting zoos that include providing hand-washing stations; never allowing children to kiss animals or put their hands in their mouths while they are interacting with them; and banning food, drinks, toys and even pacifiers in animal areas.</p>
+        <p>''Over all, the risks of contracting a disease at a zoo were very low,'' said J. Scott Weese, the lead author and an associate professor of clinical studies at the Ontario Veterinary College of the University of Guelph, ''and basic common-sense procedures like washing your hands can do a great deal to further reduce the risk.''</p>
+        <p>VITAL SIGNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

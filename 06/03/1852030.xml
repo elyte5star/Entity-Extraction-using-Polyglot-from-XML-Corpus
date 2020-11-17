@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Envisioning Abolition Of the Death Penalty</title>
+    <meta content="l03jersey-3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852030"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Beddoe, Janet</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1DA1030F930A35755C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Envisioning Abolition Of the Death Penalty</hl1>
+      </hedline>
+      <abstract>
+        <p>Janet Beddoe letter on May 27 editorial on call to abolish death penalty</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Barbaric Relic'' (editorial, May 27): I left England in 1967 when the death penalty had been suspended prior to its final abolition and have followed with alternate hope and distress the evolution of public and government attitudes here, particularly in my state of New Jersey.</p>
+        <p>With the Senate Judiciary Committee vote, hope predominated. Since then there has been a development that had an uncanny parallel in England of the early '50s.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Barbaric Relic'' (editorial, May 27): I left England in 1967 when the death penalty had been suspended prior to its final abolition and have followed with alternate hope and distress the evolution of public and government attitudes here, particularly in my state of New Jersey.</p>
+        <p>With the Senate Judiciary Committee vote, hope predominated. Since then there has been a development that had an uncanny parallel in England of the early '50s.</p>
+        <p>Then, a young man with diminished mental capacity, Timothy Evans, was hanged for the murder of his child. Although he confessed to the killing, he subsequently implicated his neighbor, John Christie, a powerful witness against him at the trial. Some years later, of course, Christie was proved to be a mass murderer and ultimately Evans received a posthumous pardon.</p>
+        <p>Now in New Jersey we have Byron Halsey, a man with severe learning disabilities, who was released after serving 19 years in prison for the murder of two children in his care. Prosecutors say DNA evidence now points to another man as the killer -- a neighbor who testified against Halsey. Halsey too had confessed. Mercifully, Halsey was not executed, although the death penalty had been sought.</p>
+        <p>That terrible miscarriage of justice in England did much to change hearts and minds and finally the law. Possibly the Halsey case will do the same thing here. In the name of a fair society, let the full Senate decide.</p>
+        <p>Janet Beddoe  Cresskill</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

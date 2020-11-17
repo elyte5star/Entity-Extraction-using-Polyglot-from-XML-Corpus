@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="11choi-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853809"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DD173FF932A25755C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Paula Cole  ''Courage''  (Decca)</p>
+        <p>''Please forgive me all my seriousness/My so-called spirituality,'' Paula Cole sings on ''Courage,'' her first new album since 1999. ''I'm just a mess.''</p>
+      </block>
+      <block class="full_text">
+        <p>Paula Cole  ''Courage''  (Decca)</p>
+        <p>''Please forgive me all my seriousness/My so-called spirituality,'' Paula Cole sings on ''Courage,'' her first new album since 1999. ''I'm just a mess.''</p>
+        <p>Ms. Cole has always teetered between high-mindedness and insecurity, and that hasn't changed on ''Courage.'' Neither has her voice, rich and tremulous with more than a touch of Joni Mitchell. And neither has her fondness for plush pop. ''Lonely Town,'' with Herbie Hancock on piano, aims for the delicacy of a jazz standard. ''Love Light'' climbs like a Peter Gabriel song, with its anthem-tinged melody underpinned by a plucked Moroccan lute. Its lyrics begin with a bird thinking its reflection is its perfect mate; it dies crashing into a windowpane.</p>
+        <p>Ms. Cole made three albums in the 1990s and won the 1997 Grammy Award as best new artist after her plaintive hit ''Where Have All the Cowboys Gone?'' She completed an album after her 1999 release, ''Amen,'' but it was rejected by her label, and Ms. Cole largely dropped out of the music business, occasionally releasing songs on her Web site. She has been raising her daughter, Sky.</p>
+        <p>The songs on ''Courage'' trace a storyline from a bitter breakup -- ''I stop talking and fade to bleak/Feeling insignificant, atrophied and weak'' -- to a new start: ''I wanna stop the conversation/I wanna kiss you.'' While many of them were written with seasoned studio musicians, they sound heartfelt. But as the self-help bromides pile up and the arrangements thicken, all the seriousness gets mighty goopy. Ms. Cole performs tonight at the Allen Room of Jazz at Lincoln Center.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

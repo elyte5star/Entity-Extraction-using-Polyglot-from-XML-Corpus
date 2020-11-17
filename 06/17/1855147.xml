@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooke Pederson, Peter Lund</title>
+    <meta content="17pederson" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17pederson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855147"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Pederson, Brooke Elizabeth (Brooke Elizabeth Lund)</person>
+        <person class="indexing_service">Lund, Peter Bailey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DA153FF934A25755C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooke Pederson, Peter Lund</hl1>
+        <hl2 class="online_headline">Brooke Pederson, Peter Lund</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brooke Elizabeth Pederson, the daughter of Marcia and Timothy Pederson of Chesterfield, Mo., was married yesterday to Peter Bailey Lund, the son of Judith Bailey and Michael S. Lund of Washington. The Rev. Paul S. Hammer, a Presbyterian minister, officiated at Portage Point Inn in Onekama, Mich.</p>
+        <p>The bride, 23, and the bridegroom, 25, met at the University of Michigan, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Brooke Elizabeth Pederson, the daughter of Marcia and Timothy Pederson of Chesterfield, Mo., was married yesterday to Peter Bailey Lund, the son of Judith Bailey and Michael S. Lund of Washington. The Rev. Paul S. Hammer, a Presbyterian minister, officiated at Portage Point Inn in Onekama, Mich.</p>
+      </block>
+      <block class="full_text">
+        <p>Brooke Elizabeth Pederson, the daughter of Marcia and Timothy Pederson of Chesterfield, Mo., was married yesterday to Peter Bailey Lund, the son of Judith Bailey and Michael S. Lund of Washington. The Rev. Paul S. Hammer, a Presbyterian minister, officiated at Portage Point Inn in Onekama, Mich.</p>
+        <p>The bride, 23, and the bridegroom, 25, met at the University of Michigan, from which they graduated.</p>
+        <p>Mrs. Lund is a project coordinator at Maritz Research, the market research and polling firm in Fenton, Mo.</p>
+        <p>Her father, a civil engineer, is a senior vice president at the Murphy Company, a mechanical contractor in Olivette, Mo. Her mother is on the board of Spotlight Productions, a theater company in Chesterfield.</p>
+        <p>Mr. Lund is a pricing analyst at Silgan Plastics, a bottle manufacturer in Chesterfield.</p>
+        <p>His parents work in Washington. His mother is a staff lawyer at the House Energy and Commerce Committee, and until March was the deputy executive director of the Federal Trade Commission. His father is the senior specialist for conflict and peace building at Management Systems International, a government consultancy. He has written and edited several books, including ''Preventing Violent Conflicts: A Strategy for Preventive Diplomacy.''</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

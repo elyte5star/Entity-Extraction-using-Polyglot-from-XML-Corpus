@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children and AIDS</title>
+    <meta content="l10africa" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853296"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2DD163FF933A25755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children and AIDS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''New AIDS Cases in Africa Outpace Treatment Gains'' (news article, June 6) makes an excellent argument about the critical importance of prevention programs in responding to the AIDS crisis in Africa.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''New AIDS Cases in Africa Outpace Treatment Gains'' (news article, June 6) makes an excellent argument about the critical importance of prevention programs in responding to the AIDS crisis in Africa.</p>
+        <p>It misses a critical point, however, in addressing mother-to-child transmission. Prevention of H.I.V. in infants must be linked to ongoing treatment for mothers; babies whose mothers die are up to 10 times more likely to die themselves.</p>
+        <p>It is neither ethical nor practical to prevent a child from dying of AIDS, only to condemn that child to a likely death because he or she has been deprived of a mother's care and love. This is only postponing tragedy, not preventing it.</p>
+        <p>Ann M. Starrs  Executive Vice President  Family Care International  New York, June 6, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

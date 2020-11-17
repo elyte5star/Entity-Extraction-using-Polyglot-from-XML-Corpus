@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Any Limits on Board Terms?</title>
+    <meta content="03qa" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851832"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Q and A</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E5DA1530F930A35755C0A9619C8B63" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Any Limits on Board Terms?</hl1>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO
+&lt;br&gt;
+&lt;br&gt;Q. I have lived in the same co-op apartment for six years now, and each May I receive a packet including the building financials and a proxy ballot for the board of directors' election. My co-op is a complex of several large buildings, which makes the co-op board an anonymous bunch.
+&lt;p&gt;
+  For the last five years, I have skipped the annual meeting but dutifully checked the box on the proxy statement re-electing the man who is our current board president without really knowing anything about him.
+&lt;p&gt;</byline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>This year I did meet him in person, and he did not strike me as an intelligent man -- in fact, he acted quite irrationally.</p>
+        <p>Should the building give shareholders some background on the people who are up for election? And is it common to have a limit on the number of years an individual can serve on a board or as president?</p>
+        <p>A. ''Elections for the board of a cooperative are based on the rules specified in the bylaws and are subject to the Business Corporation Law, and there is no requirement in the law that candidates distribute information about themselves prior to the meeting.'' said Stuart M. Saft, a Manhattan lawyer who is the chairman of the Council of New York Cooperatives and Condominiums.</p>
+        <p>But Mr. Saft noted that in most cases, candidates do provide information about themselves before the election, even though they are not required to.</p>
+        <p>As for term limits on officers and directors, Mr. Saft said, there are some co-ops and condominiums that have them, but these are in a minority. ''The problem is that there is a finite number of people with both the expertise and desire to serve on a volunteer board, and term limits may result in incompetent people serving,'' he said.</p>
+        <p>Must a Co-op Provide a List Of All Its Shareholders?</p>
+        <p>Q. Are shareholders in co-ops entitled to receive a list of all the other shareholders and their addresses, phone numbers, etc.?</p>
+        <p>A. Dennis H. Greenstein, a Manhattan co-op lawyer, said that under New York's Business Corporation Law, all corporations, including housing co-ops, are required to maintain a list of the names and addresses of shareholders. In addition, Mr. Greenstein said, the law requires the corporation to make such names and addresses available to other shareholders who request them, upon five days' notice.</p>
+        <p>He said that the law does not require the co-op to provide an actual list of shareholders and their addresses but only to make the list available for examination by another shareholder. As a practical matter, that could mean that the shareholder who is seeking the information may have to copy it from the records provided.</p>
+        <p>Mr. Greenstein added that under the law, the corporation can require the shareholder to provide an affidavit that the information will not be used for commercial purposes. The law does not require a corporation to list shareholders' phone numbers.</p>
+        <p>JAY ROMANO</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

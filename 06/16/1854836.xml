@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RICH REWARD</title>
+    <meta content="16five-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854836"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Blackstone Group</org>
+        <person class="indexing_service">Schwarzman, Steve</person>
+        <person class="indexing_service">Peterson, Peter G</person>
+        <person class="indexing_service">Anderson, Jenny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEED7153FF935A25755C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RICH REWARD</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNY ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jenny</byline>
+      <abstract>
+        <p>Five Days column; Blackstone Group is getting ready to go public and its co-founders Steve Schwarzman and Peter Peterson are getting ready to cash in on company they founded 22 years ago with $400,000; Schwarzman get as much as $677.2 million, while his remaining 24 percent stake will be worth $7.5 billion if deal is priced at $30; Peterson will get $1.8 billion and will be left with 4 percent of company (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Blackstone Group, one of the world's largest private equity firms, is getting ready to go public and its co-founders, Steve Schwarzman and Peter Peterson, are getting ready to cash in on the company they founded 22 years ago with $400,000.</p>
+        <p>Mr. Schwarzman, 60, will take home as much as $677.2 million, while his remaining 24 percent stake will be worth $7.5 billion if the deal is priced at $30, the middle of the range set by underwriters. (If it goes higher, he will be worth even more.)</p>
+      </block>
+      <block class="full_text">
+        <p>The Blackstone Group, one of the world's largest private equity firms, is getting ready to go public and its co-founders, Steve Schwarzman and Peter Peterson, are getting ready to cash in on the company they founded 22 years ago with $400,000.</p>
+        <p>Mr. Schwarzman, 60, will take home as much as $677.2 million, while his remaining 24 percent stake will be worth $7.5 billion if the deal is priced at $30, the middle of the range set by underwriters. (If it goes higher, he will be worth even more.)</p>
+        <p>Mr. Peterson, 81, will get $1.9 billion, which he plans to put in a charitable trust, and will be left with 4 percent of the company.</p>
+        <p>Demand is expected to be high for shares in the deal, which could come to market in the next few weeks. But dark clouds are gathering for money-making machines like Blackstone. Two United States senators introduced legislation that could significantly increase taxes on publicly traded private equity firms and hedge funds.</p>
+        <p>JENNY ANDERSON</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

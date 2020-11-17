@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dow Jones, Murdoch and an Enticing 'Kiss'</title>
+    <meta content="03deal" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/business/yourmoney/03deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851924"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DEALBOOK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/DealBook</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+        <org class="online_producer">Wall Street Journal</org>
+        <person class="online_producer">Murdoch, Rupert</person>
+        <person class="online_producer">Bancroft Family</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EED81330F930A35755C0A9619C8B63" item-length="831" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dow Jones, Murdoch and an Enticing 'Kiss'</hl1>
+        <hl2 class="online_headline">Dow Jones, Murdoch and an Enticing ‘Kiss’</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR many people, especially shareholders, money often makes the bitterest of medicines easier to swallow. So too for the Bancroft family, it would seem.</p>
+        <p>Late last week the Bancrofts, who control Dow Jones &amp; Company, said they would consider selling the company to Rupert Murdoch's News Corporation. At $60 a share, Mr. Murdoch's bid is so generous that it apparently overwhelmed even family members who think of him as the Dr. Evil of journalism.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For many people, especially shareholders, money often makes the bitterest of medicines easier to swallow. So too for the Bancroft family, it would seem.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR many people, especially shareholders, money often makes the bitterest of medicines easier to swallow. So too for the Bancroft family, it would seem.</p>
+        <p>Late last week the Bancrofts, who control Dow Jones &amp; Company, said they would consider selling the company to Rupert Murdoch's News Corporation. At $60 a share, Mr. Murdoch's bid is so generous that it apparently overwhelmed even family members who think of him as the Dr. Evil of journalism.</p>
+        <p>''You may love your house, but if someone offers you twice what it's worth, you have to at least listen to the offer -- no matter how much you like or dislike the buyer,'' one family member told me, refusing to be identified because the family has agreed not to speak publicly.</p>
+        <p>The next hurdle in the negotiations, though, is going to have very little to do with money. The Bancroft family is planning to sit down with Mr. Murdoch and his family tomorrow to discuss how he plans to protect the editorial independence of The Wall Street Journal, according to people briefed on the meeting.</p>
+        <p>In the mergers-and-acquisitions game, this is what bankers like to call negotiating over ''social issues,'' which are often prove more pivotal in the late stages of a deal than mere dollars and cents.</p>
+        <p>So here's the playbook: Mr. Murdoch has already offered up the prospect of creating ''an independent, autonomous editorial board exactly along the lines of what was established at The Times of London'' -- ostensibly to protect The Journal from his penchant for meddling.</p>
+        <p>That sounds nice, but the Bancrofts are going to want a board that acts like a cop on the beat and is able to withstand any efforts by Mr. Murdoch to become a puppeteer. After all, as Harold Evans, the former editor of The Times of London, wrote in his book, ''Good Times, Bad Times,'' he once challenged Mr. Murdoch about violating his pledge of editorial autonomy. And what, according to Mr. Evans, was Mr. Murdoch's reply about that promise? ''They're not worth the paper they're written on."</p>
+        <p>The Bancrofts are expected to raise the possibility of structuring any sale so that it resembles Thomson's recent acquisition of Reuters, people close to the family said. In that transaction, Thomson will maintain a board of independent outside trustees. That board will oversee both the editorial integrity of its news products and play a role in business affairs (including having the ability to block a takeover and influence the company's corporate board.)</p>
+        <p>Advisers are toying with a possible mechanism that might keep Mr. Murdoch from getting too much ink on his fingers, according to people involved in the talks. He and his executives could pledge that they would have no interaction with the newsroom without being chaperoned by an ombudsman, who could also write in the pages of The Journal if Mr. Murdoch or anyone from the News Corporation tried to influence news coverage. It may sound silly and perhaps a bit overboard, but it would go a long way toward assuring the Bancrofts -- and maybe even the public -- about Mr. Murdoch's pledge to be truly hands-off.</p>
+        <p>Peter A. Chernin, the president of the News Corporation, said at a conference sponsored by The Journal on Wednesday that ''it's easy and glib and fun to sort of point to Page Six and say we want to Page Six-ify The Wall Street Journal.'' But, he said, ''the notion that we want to somehow buy it to change it is completely counterintuitive.'' Mr. Chenin contended that the reason the News Corporation is willing to pay such a high premium for Dow Jones is that it values the paper's editorial integrity.</p>
+        <p>MR. MURDOCH clearly wants Dow Jones, and he is likely to be willing to jump through any number of hoops to get it, a fact that the Bancrofts can leverage to their advantage. But the family can't impose so many conditions that it would be impossible for the News Corporation to run Dow Jones as it sees fit -- a prospect that could cause Mr. Murdoch to walk away.</p>
+        <p>If the family and Mr. Murdoch can resolve outstanding ''social issues,'' then negotiations will return to haggling over the price of the takeover. While the Bancrofts have said they are open to other bidders, and may want to ignite a bidding war, let's be honest: It is unlikely any economically rational company or individual can top Mr. Murdoch's offer.</p>
+        <p>That doesn't mean he won't have to raise his bid, however. ''You have to tip the waiter,'' is an old phrase among Wall Street bankers and lawyers, and a sweetened offer may be necessary to win over the family. Sometimes an 11th-hour increase in a bid is called a ''kiss.'' And it's now quite clear that the Bancrofts have moved away from spurning Mr. Murdoch's advances and may be wetting their lips.</p>
+        <p>DealBook also has a newsletter and a Web site, nytimes.com/dealbook, that is updated continuously when markets are open.</p>
+        <p>DEALBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

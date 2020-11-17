@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vice Chairman of Joint Chiefs Says He'll Retire in August</title>
+    <meta content="02admiral" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/washington/02admiral.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851454"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <org class="indexing_service">Joint Chiefs of Staff</org>
+        <person class="indexing_service">Shanker, Thom</person>
+        <person class="indexing_service">Giambastiani, Edmund P Jr (Adm)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <org class="online_producer">Joint Chiefs of Staff</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4D61330F931A35755C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vice Chairman of Joint Chiefs Says He'll Retire in August</hl1>
+        <hl2 class="online_headline">Vice Chairman of Joint Chiefs Says He’ll Retire in August</hl2>
+      </hedline>
+      <byline class="print_byline">By THOM SHANKER</byline>
+      <byline class="normalized_byline">Shanker, Thom</byline>
+      <dateline>WASHINGTON, June 1</dateline>
+      <abstract>
+        <p>Adm Edmund P Giambastiani Jr, vice chairman of Joint Chiefs of Staff, will retire from military in August (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Adm. Edmund P. Giambastiani Jr., who as vice chairman of the Joint Chiefs of Staff has guided Pentagon efforts to rewrite strategy and streamline budgeting and procurement, said Friday that he would retire from the military in August.</p>
+        <p>Admiral Giambastiani said that after 37 years of military service, he wanted to spend more time with his family and pursue other ventures.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Adm. Edmund P. Giambastiani Jr., who has guided Pentagon efforts to rewrite strategy and budgeting, will retire from the military.</p>
+      </block>
+      <block class="full_text">
+        <p>Adm. Edmund P. Giambastiani Jr., who as vice chairman of the Joint Chiefs of Staff has guided Pentagon efforts to rewrite strategy and streamline budgeting and procurement, said Friday that he would retire from the military in August.</p>
+        <p>Admiral Giambastiani said that after 37 years of military service, he wanted to spend more time with his family and pursue other ventures.</p>
+        <p>Known within the military as Admiral G., a nickname used even by President Bush, the four-star Navy officer served as NATO's first supreme allied commander for transformation and as chief of the Joint Forces Command before being made vice chairman, the armed services' second-highest-ranking officer, in August 2005. He also served previously as senior military assistant to Donald H. Rumsfeld, then the defense secretary.</p>
+        <p>But Admiral Giambastiani, now 59, spent most of his career in the Navy's submarine service, engaged in both conventional operations and some of the nation's most secret undersea intelligence-gathering missions. In his time with the fleet, he served as commander of the entire submarine force in the Atlantic and also in positions for developing new undersea technologies.</p>
+        <p>Of his tenure as vice chairman, he said in an interview that he had sought ''to transform the management process'' of the Pentagon -- ''the business of business.''</p>
+        <p>In that role, he introduced measures to accelerate how the Pentagon analyzes and acquires new weapons systems and was a leader of the process that produces the Quadrennial Defense Review, the central guidance on strategy and budgets that is required by Congress every four years.</p>
+        <p>''This is arcane stuff; it makes people's heads hurt when we talk about process,'' the admiral said. ''But we have produced new capabilities even while we were in combat like we are today. We have supported the troops as rapidly as possible.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

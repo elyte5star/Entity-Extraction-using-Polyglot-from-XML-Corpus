@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CAUTIONS ON MOSCOW</title>
+    <meta content="17trmail-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854984"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Minorities (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Hate Crimes</classifier>
+        <location class="indexing_service">Moscow (Russia)</location>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Perkins, Stuart</person>
+        <person class="indexing_service">Timofeev, Alexey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/Moscow</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hate Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E1DE143FF934A25755C0A9619C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CAUTIONS ON MOSCOW</hl1>
+      </hedline>
+      <abstract>
+        <p>Stuart Perkins letter on May 27 travel article on Moscow holds city is not safe for minorities; Russian Embassy official Alexey Timofeev responds</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''36 Hours: Moscow'' (May 27): I am an African-American male who has traveled frequently to Moscow. I am not sure why The Times would suggest the city as a travel destination. Moscow, if not all of Russia, is not a safe place for obvious members of minority groups.</p>
+        <p>On my last trip to Moscow I was assaulted by a group of neo-Nazi skinheads. I was kicked, punched and spit upon by this group of six delinquents. The attack occurred on a Saturday afternoon, in a public place, with dozens of witnesses. The only person who came to my aid was another American, who was traveling with me.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''36 Hours: Moscow'' (May 27): I am an African-American male who has traveled frequently to Moscow. I am not sure why The Times would suggest the city as a travel destination. Moscow, if not all of Russia, is not a safe place for obvious members of minority groups.</p>
+        <p>On my last trip to Moscow I was assaulted by a group of neo-Nazi skinheads. I was kicked, punched and spit upon by this group of six delinquents. The attack occurred on a Saturday afternoon, in a public place, with dozens of witnesses. The only person who came to my aid was another American, who was traveling with me.</p>
+        <p>My attack was one of hundreds that have taken place in Moscow against members of racial minority groups.</p>
+        <p>Could you please write at least one article concerning the difficulties that racial and sexual minorities may encounter traveling through Russia?</p>
+        <p>Stuart Perkins  Brooklyn, N.Y.</p>
+        <p>Alexey Timofeev of the Russian Embassy responds: We are sorry that this happened with this gentlemen. The problem of skinheads in the streets of Moscow and some other Russian cities can't be denied, but at the same time it is not quite right to overrate it. Law enforcement authorities do their best to eliminate it and to protect citizens and tourists as well. The best proof of their work is a constant increase of the number of foreign tourists visiting Russia. Unsafe places for even local citizens are in any big city (New York, for example), but it doesn't mean that the whole town or even the country is unsafe.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

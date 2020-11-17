@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Alison Brady</title>
+    <meta content="15gall-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854663"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFDC153FF936A25755C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Alison Brady</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sweet Affliction  Massimo Audiello  526 West 26th Street, Chelsea  Through June 23</p>
+        <p>Alison Brady's strange photographs, seen here in her first solo show, seem to pick up where the sweetly kinky setup images of Jimmy DeSana (1949-1990) left off: not a bad place to start. But where Mr. DeSana's exploration of the body as sexual, abject and sculptural emphasized androgyny, Ms. Brady's work deals rather explicitly and hilariously with the female predicament.</p>
+      </block>
+      <block class="full_text">
+        <p>Sweet Affliction  Massimo Audiello  526 West 26th Street, Chelsea  Through June 23</p>
+        <p>Alison Brady's strange photographs, seen here in her first solo show, seem to pick up where the sweetly kinky setup images of Jimmy DeSana (1949-1990) left off: not a bad place to start. But where Mr. DeSana's exploration of the body as sexual, abject and sculptural emphasized androgyny, Ms. Brady's work deals rather explicitly and hilariously with the female predicament.</p>
+        <p>Their common trait is a penchant for conjuring otherness out of the oddest things. In one of Ms. Brady's images a few eggs stuffed into her stockings turn her legs into startling hybrids of plant and animal -- part budding tree, part deer. In another, slices of cold cuts draped over her crossed legs as she sits on a shady lawn have a grotesque effect, evoking the excess of skin that can plague the formerly obese.</p>
+        <p>In a third image, Ms. Brady's legs, smeared with what appears to be chocolate, protrude from a washing machine seen from above. It takes a while to figure this out. For some reason, Ms. Brady's ability to turn her legs into alien limbs doesn't always extend to images involving her torso, although one in which she dots her chest with dabs of white glue and yellow food coloring shows her ability to get the most out of the least.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

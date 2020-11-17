@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: Germany: Anger Over U.S. Lawmaker's Remark On Schröder</title>
+    <meta content="14briefs-1" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854466"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Landler, Mark</person>
+        <person class="indexing_service">Lantos, Tom (Rep)</person>
+        <person class="indexing_service">Schroder, Gerhard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFD8143FF937A25755C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: Germany: Anger Over U.S. Lawmaker's Remark On Schröder</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK LANDLER</byline>
+      <byline class="normalized_byline">Landler, Mark</byline>
+      <abstract>
+        <p>German officials heatedly protest remarks made by Rep Tom Lantos, chairman of House Foreign Affairs Committee, in which he described former Chancellor Gerhard Schroder as 'political prostitute' for taking job with Russian state gas company (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>German officials heatedly protested remarks made by Representative Tom Lantos, a Democrat of California who is chairman of the House Foreign Affairs Committee, in which he described former Chancellor Gerhard Schröder as a ''political prostitute'' for taking a job with a Russian state gas company. The government spokesman, Ulrich Wilhelm, said the comment, made in a speech at the dedication ceremony for a victims of Communism memorial in Washington on Tuesday, was ''unseemly.'' The foreign minister, Frank-Walter Steinmeier, said it had breached the bounds of decorum and was a ''discredit'' to Mr. Lantos. Mr. Schröder has been criticized within Germany for his new job, overseeing a pipeline project.</p>
+        <p>MARK LANDLER</p>
+      </block>
+      <block class="full_text">
+        <p>German officials heatedly protested remarks made by Representative Tom Lantos, a Democrat of California who is chairman of the House Foreign Affairs Committee, in which he described former Chancellor Gerhard Schröder as a ''political prostitute'' for taking a job with a Russian state gas company. The government spokesman, Ulrich Wilhelm, said the comment, made in a speech at the dedication ceremony for a victims of Communism memorial in Washington on Tuesday, was ''unseemly.'' The foreign minister, Frank-Walter Steinmeier, said it had breached the bounds of decorum and was a ''discredit'' to Mr. Lantos. Mr. Schröder has been criticized within Germany for his new job, overseeing a pipeline project.</p>
+        <p>MARK LANDLER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

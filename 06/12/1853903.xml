@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dancing That Pulls Viewers Right Out of Their Seats</title>
+    <meta content="12ceda" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/arts/dance/12ceda.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853903"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Batsheva Dance Company</org>
+        <person class="online_producer">Naharin, Ohad</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE2DC173FF931A25755C0A9619C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dancing That Pulls Viewers Right Out of Their Seats</hl1>
+        <hl2 class="online_headline">Dancing That Pulls Viewers Right Out of Their Seats</hl2>
+      </hedline>
+      <byline class="print_byline">By ROSLYN SULCAS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At the start of Ohad Naharin's ''Decadance,'' performed by the Cedar Lake Contemporary Ballet on Saturday night, a line of dancers stands immobile in front of the audience. Then a body twitches and bursts into a buckling, convulsive dance, arms and legs lashing and flailing to the rhythms of Habib Alla Jamal's music. Each of the dancers is compelled into dance until they all join in a fist-shaking crouch, no longer individuals but part of a tribal crowd.</p>
+        <p>This sequence can be read in many ways, but its immediate visceral and kinetic impact mostly makes you want to jump onstage and dance, not analyze. Later in ''Decadance'' some audience members do get a chance to dance, in a beautifully choreographed sequence that magically combines formal structure for the dancers with space for the amateurs onstage to play. It could be corny or uncomfortable, but Mr. Naharin has a dry, unsentimental touch that leaves the actions feeling meaningful and poignant, the simplest way of asserting a common humanity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The immediate visceral and kinetic impact of Ohad Naharin’s “Decadance,” performed by the Cedar Lake Contemporary Ballet on Saturday, mostly makes you want to jump onstage and dance, not analyze.</p>
+      </block>
+      <block class="full_text">
+        <p>At the start of Ohad Naharin's ''Decadance,'' performed by the Cedar Lake Contemporary Ballet on Saturday night, a line of dancers stands immobile in front of the audience. Then a body twitches and bursts into a buckling, convulsive dance, arms and legs lashing and flailing to the rhythms of Habib Alla Jamal's music. Each of the dancers is compelled into dance until they all join in a fist-shaking crouch, no longer individuals but part of a tribal crowd.</p>
+        <p>This sequence can be read in many ways, but its immediate visceral and kinetic impact mostly makes you want to jump onstage and dance, not analyze. Later in ''Decadance'' some audience members do get a chance to dance, in a beautifully choreographed sequence that magically combines formal structure for the dancers with space for the amateurs onstage to play. It could be corny or uncomfortable, but Mr. Naharin has a dry, unsentimental touch that leaves the actions feeling meaningful and poignant, the simplest way of asserting a common humanity.</p>
+        <p>Mr. Naharin, the Israeli-born choreographer who became the artistic director of the Batsheva Dance Company in 1990, has an exhilaratingly physical, sharply delineated movement style that propels dancers into geometric angles and calligraphic curves as their torsos circle and their limbs lash through the air. ''Decadance,'' which consists of 16 excerpts from Mr. Naharin's works of the last 21 years, shows his consistent fascination with ritual, group activities and the way individuality bursts forth. (His own company has performed ''Decadance'' in changing configurations since 2000.)</p>
+        <p>These preoccupations unify the disparate pieces, which range from the scary antics of a scantily clad, heavily made-up woman on low stilts (like long point shoes) to the extraordinary group dance from ''Anaphaza,'' in which Mr. Naharin uses a Passover song, ''Echad Mi Yodea,'' set to a heavy rock beat, to layer phrase upon movement phrase to thrillingly cumulative effect.</p>
+        <p>This layering of phrase is a frequent motif; he uses it just as brilliantly in an extract from his 2006 ''George and Zalman,'' in which five women repeat and add on to individual sequences as a woman's voice flatly utters instructions. (''Ignore all possible concepts and possibilities''; ''Just make it, babe.'') At times they are suddenly doing the same thing; at the end of each repeated sequence they resume sculptural positions in varying compositions that seem as naturally beautiful as a handful of flowers.</p>
+        <p>Beauty and ugliness, refinement and vulgarity, tribal urgency and individual will, humor and sadness: all are present, sometimes simultaneously, in ''Decadance.'' It is to the credit of the 16 dancers -- all wonderful in their commitment, energy and precision -- that Mr. Naharin's weird and wonderful poetry of the body speaks so clearly.</p>
+        <p>''Decadance'' continues through July 1 at Cedar Lake Contemporary Ballet, 547 West 26th Street, Chelsea; (212) 868-4444; cedarlake.com.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

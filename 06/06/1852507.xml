@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fed Chief Dims Hopes for a Rate Cut</title>
+    <meta content="06fed" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/business/06fed-web.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852507"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE4DE1E30F935A35755C0A9619C8B63" item-length="636" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fed Chief Dims Hopes for a Rate Cut</hl1>
+        <hl2 class="online_headline">Stocks Drop on Fed Comment on Interest Rates</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market stumbled yesterday as Wall Street seemed to grasp that the Federal Reserve is in no hurry to lower interest rates.</p>
+        <p>The signs came early, starting with a speech before the markets opened by the Fed chairman, Ben S. Bernanke, that hinted that the central bank was comfortable in its current monetary policy groove of holding rates steady at 5.25 percent. Then, a survey of activity in the service sector released later in the morning showed improvement in May for the second month, suggesting that the economy is on the mend.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The market stumbled as Wall Street seemed to grasp that the Federal Reserve is in no hurry to lower interest rates.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market stumbled yesterday as Wall Street seemed to grasp that the Federal Reserve is in no hurry to lower interest rates.</p>
+        <p>The signs came early, starting with a speech before the markets opened by the Fed chairman, Ben S. Bernanke, that hinted that the central bank was comfortable in its current monetary policy groove of holding rates steady at 5.25 percent. Then, a survey of activity in the service sector released later in the morning showed improvement in May for the second month, suggesting that the economy is on the mend.</p>
+        <p>The sell-off began shortly after yields on the 10-year Treasury note, which is the benchmark for interest rates, inched toward 5 percent -- a level they have not breached since last summer. Yields on the two-year Treasury note also approached 5 percent yesterday.</p>
+        <p>''You put it all together, and I think reality kind of hit,'' said Ryan Detrick, a senior technical strategist at Schaeffer's Investment Research. ''It definitely looks like the economy is on stronger footing than what people thought a month or so ago. And there probably isn't going to be a rate cut until later this year -- if at all.''</p>
+        <p>Yesterday's market skid ended a record-breaking run for the Standard &amp; Poor's 500-stock index, which had pushed further into record territory since last Wednesday, when it first passed a high it reached seven years ago. The index declined 0.5 percent, to 1,530.95. [Page C11.]</p>
+        <p>The Dow Jones industrial average, meanwhile, fell more than 80 points, or 0.6 percent, to 13,595.46; it had fallen more than 120 points earlier in the trading session. The Nasdaq declined 0.3 percent to 2,611.23.</p>
+        <p>The climb in share prices recently has been fed in part by optimism that the Fed would cut interest rates before the end of the year. But Mr. Bernanke's remarks yesterday made it unambiguously clear that central bankers are not yet comfortable that inflation will settle down.</p>
+        <p>''Although core inflation seems likely to moderate gradually over time, the risks to this forecast remain to the upside,'' Mr. Bernanke said via satellite to a financial conference in Cape Town.</p>
+        <p>That comment was nearly identical to recent statements from the Fed and Mr. Bernanke himself, but it took on added significance for Wall Street in the context of the strong service sector survey.</p>
+        <p>The Institute for Supply Management said yesterday that its reading of business activity outside manufacturing -- like retailing, hospitality and finance -- rose in May at the fastest pace in more than a year, to 59.7. Anything above 50 indicates growth. The index fell in February and March.</p>
+        <p>Just a month ago, investors who bet on the direction of interest rates were widely expecting a rate cut before the end of the year. Now, investors give a rate cut this year almost no chance. And in recent days, a number of Wall Street economists have issued less optimistic interest rate forecasts.</p>
+        <p>''We are pulling the plug on our forecast of Fed easing in 2007,'' Jan Hatzius, chief United States economist for Goldman Sachs, said in a research note yesterday. The strong labor market, he added, ''implies less need for the Fed to take out insurance against a worse-than-expected slowdown than we had anticipated.''</p>
+        <p>Indeed, Mr. Bernanke said yesterday that the Fed expected the economy to pull out of its current funk and weather the slowdown in the housing market. In the first quarter, the gross domestic product grew just 0.6 percent, the slowest pace in more than four years.</p>
+        <p>''We expect the economy to advance at a moderate pace, close to or slightly below the economy's trend rate of expansion,'' he said.</p>
+        <p>The decline in stock prices yesterday was the first in a week. Shares declining on the New York Stock Exchange outnumbered those rising by almost 3 to 1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flipping and Flopping and Toning</title>
+    <meta content="03fitflops" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851844"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EED71530F930A35755C0A9619C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flipping and Flopping and Toning</hl1>
+      </hedline>
+      <byline class="print_byline">By Ellen Tien</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the heels of Masai Barefoot Technology-type sneakers comes FitFlops, the latest rage in what is promoted as muscle-sculpting footwear. Supposedly able to tone and trim legs, burn calories, absorb shock and improve posture with their patented ''microwobbleboard'' sole, FitFlops have flapped their way from England, where 18,000 pairs sold out within three days of their May release. (Two women actually got into a brawl over the last pair of size 7s at the London store Running Bare.) While a waiting list of 15,000 still exists in Britain, Americans can now buy FitFlops in red or black at bathandbodyworks.com for $39.95 -- no fisticuffs required.</p>
+      </block>
+      <block class="full_text">
+        <p>On the heels of Masai Barefoot Technology-type sneakers comes FitFlops, the latest rage in what is promoted as muscle-sculpting footwear. Supposedly able to tone and trim legs, burn calories, absorb shock and improve posture with their patented ''microwobbleboard'' sole, FitFlops have flapped their way from England, where 18,000 pairs sold out within three days of their May release. (Two women actually got into a brawl over the last pair of size 7s at the London store Running Bare.) While a waiting list of 15,000 still exists in Britain, Americans can now buy FitFlops in red or black at bathandbodyworks.com for $39.95 -- no fisticuffs required.  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

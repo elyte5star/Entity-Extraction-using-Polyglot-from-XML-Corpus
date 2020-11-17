@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Language Barrier</title>
+    <meta content="Letters.t-1-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854911"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DC163FF934A25755C0A9619C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Language Barrier</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Liz Harris Behling's point about the dangers of reviewing translations (Letters, May 20) is well taken. There is an inevitable dilettantism inherent in reviewing a translation of a language one may know poorly or not at all (and even one's reading knowledge of that language is likely to be far inferior to the translator's expertise). And the constraints of space rarely allow one to give proper credit to the translator. The translator certainly loses, and does not deserve to.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Liz Harris Behling's point about the dangers of reviewing translations (Letters, May 20) is well taken. There is an inevitable dilettantism inherent in reviewing a translation of a language one may know poorly or not at all (and even one's reading knowledge of that language is likely to be far inferior to the translator's expertise). And the constraints of space rarely allow one to give proper credit to the translator. The translator certainly loses, and does not deserve to.</p>
+        <p>But I find Behling's dogmatism a bit dismaying. There are countless examples of critics with little or no knowledge of the original language producing illuminating work on that language's authors -- Russian is the great example, with René Girard on Dostoyevsky and V. S. Pritchett on Turgenev (neither of whom had any Russian, to my knowledge); and Edmund Wilson (who had a good reading knowledge but a terrible accent, by all accounts, and who was easily bested by a native speaker like Nabokov).</p>
+        <p>Nor do I agree with her that the translator, despite his or her superb labors, is a greater craftsman than the original author. In the case of Roberto BolaÃ$(1$)o's ''By Night in Chile,'' a reading of Pages 87-8 of the original, ''Nocturno de Chile'' (Editorial Anagrama), shows Chris Andrews to be superbly faithful to the ''impeccable musical control'' I praised in BolaÃ$(1$)o. That fidelity, of course, redounds to BolaÃ$(1$)o's credit.</p>
+        <p>James Wood  Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

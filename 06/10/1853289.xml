@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bronx Restaurant With a Drug Problem</title>
+    <meta content="l10city-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853289"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Kentucky Fried Chicken</org>
+        <person class="indexing_service">Brady, Emily</person>
+        <person class="indexing_service">Newman, Tony</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE3DD163FF933A25755C0A9619C8B63" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bronx Restaurant With a Drug Problem</hl1>
+      </hedline>
+      <abstract>
+        <p>Drug Policy Alliance communications director Tony Newman letter on Emily Brady's June 3 article about drug dealing at Kentucky Fried Chicken in Bronx</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Emily Brady's Street Level column about the drug dealing at a Kennedy Fried Chicken in the Bronx (''A Corner Once Sunny, Made Dreary by Drugs,'' June 3) was disturbing and depressing. It is disturbing that the mother featured in the column is afraid for her children's safety while they eat their meal. It is depressing because the current strategies employed by our country to address the drug-dealing problems are destined to fail.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Emily Brady's Street Level column about the drug dealing at a Kennedy Fried Chicken in the Bronx (''A Corner Once Sunny, Made Dreary by Drugs,'' June 3) was disturbing and depressing. It is disturbing that the mother featured in the column is afraid for her children's safety while they eat their meal. It is depressing because the current strategies employed by our country to address the drug-dealing problems are destined to fail.</p>
+        <p>The conventional wisdom is to call for more police to crack down on the drug dealers and send them away to prison for many years. The problem is that we have tried this failing strategy for 30-plus years, starting with the Rockefeller drug laws. These draconian laws have not delivered on their promise to rid our streets of drugs or keep people from using them.</p>
+        <p>A more difficult but effective strategy would be to create decent paying jobs for those youth in the Bronx who are selling drugs, and to offer treatment instead of jail for those struggling with addiction. When half of the adult black males in New York don't have jobs and there are long waiting lists at treatment centers, we are destined to have ''once sunny'' corners turned into dangerous and ''dreary'' places.</p>
+        <p>Tony Newman  Midtown</p>
+        <p>The writer is communications director, Drug Policy Alliance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

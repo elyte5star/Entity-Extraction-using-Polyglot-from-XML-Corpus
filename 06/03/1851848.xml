@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suzanne Smalley, Seth Hanlon</title>
+    <meta content="03SMALLEY" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03SMALLEY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851848"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Smalley, Suzanne Marie</person>
+        <person class="indexing_service">Hanlon, Seth David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0DF1230F930A35755C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suzanne Smalley, Seth Hanlon</hl1>
+        <hl2 class="online_headline">Suzanne Smalley, Seth Hanlon</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Suzanne Marie Smalley and Seth David Hanlon were married last evening in Pelham Manor, N.Y. Ellen Gesmer, an acting State Supreme Court justice in the Bronx, officiated at the New York Athletic Club Travers Island Boathouse.</p>
+        <p>Ms. Smalley, 31, is keeping her name. She is a reporter at The Boston Globe, covering the city's police department and crime. She graduated from Georgetown and received a master's degree in journalism from Northwestern.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Suzanne Marie Smalley and Seth David Hanlon were married last evening in Pelham Manor, N.Y. Ellen Gesmer, an acting State Supreme Court justice in the Bronx, officiated at the New York Athletic Club Travers Island Boathouse.</p>
+      </block>
+      <block class="full_text">
+        <p>Suzanne Marie Smalley and Seth David Hanlon were married last evening in Pelham Manor, N.Y. Ellen Gesmer, an acting State Supreme Court justice in the Bronx, officiated at the New York Athletic Club Travers Island Boathouse.</p>
+        <p>Ms. Smalley, 31, is keeping her name. She is a reporter at The Boston Globe, covering the city's police department and crime. She graduated from Georgetown and received a master's degree in journalism from Northwestern.</p>
+        <p>She is the daughter of Anne M. Smalley of McLean, Va., and Robert A. Smalley of Paradise Valley, Ariz. Her father is the president of Cruise America, a recreational-vehicle sales and rental company in Mesa, Ariz., which has outlets nationwide. Her mother is a third-grade teacher at the Washington Episcopal School in Bethesda, Md. The bride is the stepdaughter of Paula Smalley.</p>
+        <p>Mr. Hanlon, 30, completed the second year of law school at Yale last month and is now a summer associate at Ropes &amp; Gray, the Boston law firm. He graduated from Harvard and was a legislative aide to Representative Harold E. Ford Jr., a Democrat from Tennessee, from 1999 to 2004, and Representative Martin T. Meehan, a Massachusetts Democrat, from 2004 to 2005.</p>
+        <p>The bridegroom is a son of Judith E. Hanlon and Martin D. Hanlon, both of Manhattan. His mother is a clinical psychologist in private practice. His father is a professor of urban studies at Queens College, in Flushing. The bridegroom is a stepson of Wayne L. Proudfoot.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

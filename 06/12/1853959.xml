@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Over an Open Mike, Young Voices Speak in Verse</title>
+    <meta content="12ink" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/nyregion/12ink.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853959"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Poetry and Poets</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poetry and Poets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFDB173FF931A25755C0A9619C8B63" item-length="435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Over an Open Mike, Young Voices Speak in Verse</hl1>
+        <hl2 class="online_headline">Over an Open Mike, Young Voices Speak in Verse</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID K. RANDALL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT was 30 minutes before the open microphone part of the show was to begin, and one poet was already nervous.</p>
+        <p>''I don't feel like doing it,'' he said, tugging at his shirt while eyeing the microphone.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Public School 321’s first open mike night included readings about the ocean, giant bugs and an older man named Tony who sits on the stoop smoking every night.</p>
+      </block>
+      <block class="full_text">
+        <p>IT was 30 minutes before the open microphone part of the show was to begin, and one poet was already nervous.</p>
+        <p>''I don't feel like doing it,'' he said, tugging at his shirt while eyeing the microphone.</p>
+        <p>''You don't have to do anything you don't want to do,'' his mother answered.</p>
+        <p>''O.K., I'll do it,'' he replied.</p>
+        <p>Last Friday night, about 50 pupils and their parents were tucked into a corner of a Barnes &amp; Noble store in Park Slope, Brooklyn, for Public School 321's first open mike night. The students were there to read their original poems as part of a three-day fund-raiser in which the bookstore donated some of its sales to the school.</p>
+        <p>In a neighborhood known for its concentration of writers and editors, poetry nights like this may be the urban equivalent of the neighborhood car wash.</p>
+        <p>John Ellrodt, an educational consultant whose children attend P.S. 321, served as the night's M.C. He briefed students on the protocols of poetry nights, and offered them a backward baseball cap or black beret to wear while they read.</p>
+        <p>''The Beats used to wear these hats,'' he said. ''As you get a little bit older, I encourage you to look them up.''</p>
+        <p>Mya Brady, a third grader, walked up to the microphone to read the night's first poem. She began:</p>
+        <p>The owl books are boring</p>
+        <p>Nothing's fun</p>
+        <p>Since Henry moved away</p>
+        <p>Nothing's fun to play.</p>
+        <p>Children came up one by one, reading poems about the ocean, giant bugs and an older man named Tony who sits on the stoop smoking every night.</p>
+        <p>A group of adults gathered around a table stacked with books on money management, and one parent asked another if she might be able to volunteer to work on the school's literary magazine.</p>
+        <p>''You don't happen to be a graphic designer, by any chance?'' she was asked.</p>
+        <p>''No, I'm an editor,'' she replied.</p>
+        <p>''That's good, too!''</p>
+        <p>After the children who wanted to come up had read their first poems, Mr. Ellrodt opened the floor to parents and teachers. Parents took turns walking to the microphone and reciting poems they memorized when they were their children's ages, and walked back expressing amazement at how they were able to recall rhythm and meter from long ago.</p>
+        <p>''You see, poetry helps set a rhythm for how you live,'' Mr. Ellrodt told the children on the floor at his feet. ''There's no doubt that the days you remember your poems beat the ones that you don't, because the poetry you love sets a nice pace when yours might need changing.''</p>
+        <p>INK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

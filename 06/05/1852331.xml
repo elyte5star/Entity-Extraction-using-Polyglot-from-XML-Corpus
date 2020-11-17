@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Police and Black Kids</title>
+    <meta content="l05herbert" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852331"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EEDA1130F936A35755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Police and Black Kids</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Poisonous Police Behavior'' (column, June 2): Bob Herbert was right; I had no idea that black kids were being abused by the police every day in our city.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Poisonous Police Behavior'' (column, June 2): Bob Herbert was right; I had no idea that black kids were being abused by the police every day in our city.</p>
+        <p>How is it possible that this disgusting, illegal, cruel behavior hasn't been addressed by the city's many leaders, especially those eager to demonstrate when it comes to single high-profile cases? That black kids can't walk down a street or a hallway in their school without having to fear the police, who exist to protect them, is unbelievable. That girls are being forced to lift their shirts and open their pants is just unbelievable. You can bet this doesn't happen to white kids in my nice neighborhood of Brooklyn Heights.</p>
+        <p>I see kids after school gathered in groups at Starbucks without a care in the world. New York City had better address this.</p>
+        <p>Debbie Plumer  Brooklyn, June 4, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

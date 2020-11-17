@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Guide to America's Cheese Trail</title>
+    <meta content="06book" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Dining and Wine; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/dining/06book.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852447"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Book Review"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Cheese</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cheese</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1D61130F935A35755C0A9619C8B63" item-length="403" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Guide to America's Cheese Trail</hl1>
+        <hl2 class="online_headline">A Guide to America’s Cheese Trail</hl2>
+      </hedline>
+      <byline class="print_byline">By MARIAN BURROS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A FEW years ago, I spent a week traveling the byways of New England in search of the best cheesemakers. As the rest of the world hurries on, remote farms are quietly turning milk into everything from charming little goat pyramids to big bold wheels of aged cows' milk cheese. Down many dirt roads there was marvelous cheese to taste from the animals grazing in the nearby fields.</p>
+        <p>It was one of the best road trips I have ever taken, especially since some of the cheese I sampled never makes it out of the neighborhood in which it is produced.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“The Atlas of American Artisan Cheese,” a new book by Jeffrey P. Roberts, is an indispensable reference and exciting travel guide on America’s best cheesemakers.</p>
+      </block>
+      <block class="full_text">
+        <p>A FEW years ago, I spent a week traveling the byways of New England in search of the best cheesemakers. As the rest of the world hurries on, remote farms are quietly turning milk into everything from charming little goat pyramids to big bold wheels of aged cows' milk cheese. Down many dirt roads there was marvelous cheese to taste from the animals grazing in the nearby fields.</p>
+        <p>It was one of the best road trips I have ever taken, especially since some of the cheese I sampled never makes it out of the neighborhood in which it is produced.</p>
+        <p>Now, thanks to a new book, you can have your own cheese trail adventure virtually anywhere in the United States. According to ''The Atlas of American Artisan Cheese'' (Chelsea Green, $35) by Jeffrey P. Roberts, 43 states have artisanal cheesemakers, including Hawaii and Alaska, where you can buy goat cheese at Cranberry Ridge Farm in Wasilla, 45 miles northeast of Anchorage.</p>
+        <p>Mr. Roberts, himself a walking encyclopedia of American cheeses, may have set out to provide restaurateurs, shops and cheese lovers with an indispensable reference, but in the process he created an exciting new kind of travel guide. His book is a perfect companion volume to books about winery visits, especially for California, Oregon and Washington.</p>
+        <p>For those interested in cheese without wine, New England is the place. Of the 84 cheesemakers in New England, 60 welcome visitors, some by appointment only, and most sell their cheeses on the farm.</p>
+        <p>In the northwest corner of Vermont, at Green Mountain Blue Cheese, you can buy Gore-Dawn-Zola, a superb, creamy, rich and sweet Gorgonzola-style cheese created by Dawn Boucher. She and her husband, Daniel, whose family has been farming for 12 generations, own the farm, located in Highgate Center.</p>
+        <p>Mr. Roberts, a founder of the Vermont Institute for Artisan Cheese at the University of Vermont, has ferreted out stories of about 350 of the 400 cheesemakers he has found in America so far.</p>
+        <p>Each profile is filled with all the useful information a cheese fiend would want to have. There are lots of photos: the cheeses look delicious and the farmers kindly while the lambs, cows and goats never look posed but always look winsome.</p>
+        <p>Even if you can't take a tour, the atlas provides a useful introductory course on artisanal cheeses and tells how to order many of the cheeses online.</p>
+        <p>Book Review</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

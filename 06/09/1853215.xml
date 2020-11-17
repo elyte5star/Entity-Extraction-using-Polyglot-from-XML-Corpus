@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vamps, Grooves and All Sorts of Ideas, Old and New</title>
+    <meta content="09payt" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/arts/music/09payt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853215"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Jazz</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Jazz Standard</org>
+        <person class="online_producer">Payton, Nicholas</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEED61F30F93AA35755C0A9619C8B63" item-length="424" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vamps, Grooves and All Sorts of Ideas, Old and New</hl1>
+        <hl2 class="online_headline">Vamps, Grooves and All Sorts of Ideas, Old and New</hl2>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Around the time he turned 30, in 2003, the trumpeter Nicholas Payton started loosening up his music, taking strides away from established form. Every good jazz bandleader has to work on his own technique on the one hand, and his ensemble concept on the other; a balance is desired. Perhaps because Mr. Payton started his career in the 1990s as such an imposing player, with a New Orleans pedigree and the ability to pull off early-jazz repertory concerts as well as post-bop, it's taken a while for him to bring his ideas about composition and bandleading into balance with his own playing.</p>
+        <p>Over the last few years he has been stunning, in my experience -- clear, inventive, dramatic -- on other people's stages. Meanwhile, within his own bandleading, he's still searching. His show on Thursday night at the Jazz Standard, full of vamps and grooves and collective improvising, was a semi-free-form dragnet for ideas that, at least for the first set of a four-day run, yielded fairly slim results.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nicholas Payton's show on Thursday at the Jazz Standard, full of vamps and grooves and collective improvising, was a semi-free-form dragnet for ideas that yielded fairly slim results.</p>
+      </block>
+      <block class="full_text">
+        <p>Around the time he turned 30, in 2003, the trumpeter Nicholas Payton started loosening up his music, taking strides away from established form. Every good jazz bandleader has to work on his own technique on the one hand, and his ensemble concept on the other; a balance is desired. Perhaps because Mr. Payton started his career in the 1990s as such an imposing player, with a New Orleans pedigree and the ability to pull off early-jazz repertory concerts as well as post-bop, it's taken a while for him to bring his ideas about composition and bandleading into balance with his own playing.</p>
+        <p>Over the last few years he has been stunning, in my experience -- clear, inventive, dramatic -- on other people's stages. Meanwhile, within his own bandleading, he's still searching. His show on Thursday night at the Jazz Standard, full of vamps and grooves and collective improvising, was a semi-free-form dragnet for ideas that, at least for the first set of a four-day run, yielded fairly slim results.</p>
+        <p>His new group is a quintet, with the pianist Kevin Hays, the bassist Vicente Archer, the drummer Marcus Gilmore and the percussionist Daniel Sadownick. The first tune -- the most promising part of the set -- started as a duet for trumpet and piano, with Mr. Payton playing beautiful, stout long tones, and Mr. Hays playing melancholy wide-harmony chords below middle C with the sustain pedal.</p>
+        <p>Somehow the mood changed, and the music became a gospel vamp tune, with Mr. Sadownick clapping the beat. It was the right way to start, and it forced the kind of mystified response that virtuosos in recognizable styles usually don't get: what was that?</p>
+        <p>Only one tune in the set could be identified as post-bop, but it came with a provocation. Mr. Hays's phrasing became wavelike, while Mr. Archer established a standard walking-bass pattern. Mr. Gilmore played typical jazz 4/4 triplets on the ride cymbal, except that they barely changed, and he did it really loudly.</p>
+        <p>Much of the rest of the set was music based on fairly simple one- or two-chord patterns, with Mr. Sadownick playing congas and cymbals in front of Mr. Gilmore. And in theory there's nothing wrong with that (even if it seems unnecessary to put any other percussionist in front of Mr. Gilmore, who generates a force field by himself). But it depends on a higher level of group chemistry than what was on display.</p>
+        <p>The Nicholas Payton Quintet continues through tomorrow at the Jazz Standard, 116 East 27th Street, Manhattan; (212) 576-2232.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

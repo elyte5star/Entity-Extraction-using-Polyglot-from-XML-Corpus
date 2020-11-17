@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Get With the Program</title>
+    <meta content="Donadio.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/books/review/Donadio-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853411"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Essay"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="descriptor">Word Processing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Word Processing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DD1530F933A25755C0A9619C8B63" item-length="1381" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Get With the Program</hl1>
+        <hl2 class="online_headline">Get With the Program</hl2>
+      </hedline>
+      <byline class="print_byline">By Rachel Donadio</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>From the fountain pen to the word processor, writers have always embraced technology to make their task less arduous. Mark Twain was an early enthusiast of the typewriter, and his ''Life on the Mississippi'' is believed to be the first typewritten literary manuscript. ''The machine has several virtues,'' he remarked of his Remington. ''I believe it will print faster than I can write.''</p>
+        <p>Today, most novelists don't venture beyond the word processor -- and many still write longhand. But others are finding that sophisticated software is invaluable to the literary enterprise. While Dickens and George Eliot had only notebooks and their wits to keep their Victorian triple-deckers in order, novelists like Richard Powers, Vikram Chandra and Marisha Pessl have used everything from Excel spreadsheets to logistics programs like Microsoft Project to organize their imaginative universes. To them, computer technology isn't a threat to literature but an essential tool. ''As life becomes increasingly complex, the kind of novel that tries to link the individual life with broad-canvas collective existence becomes more difficult to coordinate,'' Powers wrote in an e-mail message -- or rather, dictated, since he uses the voice recognition software built into the Tablet PC operating system to compose everything, including his novels. Computer programs allow novelists ''to build up dense and interconnected views of the world they are recreating,'' he added.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While Dickens had only his notebook and his wits, today’s novelists use software to keep track of their characters.</p>
+      </block>
+      <block class="full_text">
+        <p>From the fountain pen to the word processor, writers have always embraced technology to make their task less arduous. Mark Twain was an early enthusiast of the typewriter, and his ''Life on the Mississippi'' is believed to be the first typewritten literary manuscript. ''The machine has several virtues,'' he remarked of his Remington. ''I believe it will print faster than I can write.''</p>
+        <p>Today, most novelists don't venture beyond the word processor -- and many still write longhand. But others are finding that sophisticated software is invaluable to the literary enterprise. While Dickens and George Eliot had only notebooks and their wits to keep their Victorian triple-deckers in order, novelists like Richard Powers, Vikram Chandra and Marisha Pessl have used everything from Excel spreadsheets to logistics programs like Microsoft Project to organize their imaginative universes. To them, computer technology isn't a threat to literature but an essential tool. ''As life becomes increasingly complex, the kind of novel that tries to link the individual life with broad-canvas collective existence becomes more difficult to coordinate,'' Powers wrote in an e-mail message -- or rather, dictated, since he uses the voice recognition software built into the Tablet PC operating system to compose everything, including his novels. Computer programs allow novelists ''to build up dense and interconnected views of the world they are recreating,'' he added.</p>
+        <p>A former computer programmer, Powers sees technology as both an aide and a theme. His 1995 novel, ''Galatea 2.2,'' for example, was about a scientist who tries to build a computer capable of full human consciousness, including an ability to read -- and understand -- literature. For the past decade, Powers has turned to a program rather ominously called Mindjet MindManager, which creates vast, sprawling outlines resembling family trees. (Imagine a sports playoff bracket, but with sub-branches listing biographical data for each player, and ways to search by jersey color.)</p>
+        <p>For ''The Echo Maker,'' which won the National Book Award last year and is about a man who emerges from a coma without an emotional connection to his intimates, Powers created a visual outline for each character. It included material on his or her ''life history, personality traits, physical characteristics, verbal tics, professional and educational background, choices and actions, attitudes and relations to the other characters,'' he said. ''As the material grew, I created topical sub-branches and sub-sub-branches. ... After many months, at the very tips of these increasingly articulated branches, I sometimes ended up with sketches that plugged right into the draft.''</p>
+        <p>Powers also poured the background research into hyperlinked notebooks using Microsoft OneNote, a program more commonly used by businesses, which allows you to combine text documents, e-mail, images, spreadsheets and video and audio material into one searchable document. He then mapped out possible changing interactions between characters. ''These notebook sections gradually grew into the kernels of individual dramatic scenes, which I could then work up in parallel,'' Powers said. ''The combination of software programs (each of which links seamlessly into the other) allowed for simultaneous top-down and bottom-up composition.''</p>
+        <p>Vikram Chandra had similar results with Microsoft Project, which he used when writing ''Sacred Games,'' his sprawling new novel about the Mumbai criminal underworld. Employed more often by contractors managing personnel and supplies through complex building projects than by novelists structuring imaginative space, the program (which he says he first heard about from an Israeli crime novelist) helped Chandra keep track of the nearly three dozen characters across 900 pages -- ''not just people by themselves, but people in relation to time and place,'' he wrote in an e-mail message. Since the novel uses flashbacks to cut between different plot lines -- a narrative structure Chandra likens to a mandala, a series of concentric circles used as an Eastern meditation device -- ''it was really useful ... to be able to see the events arranged on a timeline.'' The program was ''overkill'' for his needs, however, and the interface uninviting. ''At some point,'' Chandra said, ''I'm going to hack together a homemade solution for myself that works the way I want it to.''</p>
+        <p>Indeed, Chandra moonlighted for years as a computer programmer and admits to being ''a bit obsessed with this stuff.'' (He is also a devotee of the Logitech io2 pen, which uploads handwritten notes from special paper and then converts them into searchable text.) Like Powers, he has an intellectual as well as a practical interest. He cites the literary critic Franco Moretti's 2005 book, ''Graphs, Maps, Trees: Abstract Models for a Literary History,'' as a major influence. By analyzing raw data and slicing it in different ways -- temporally, geographically -- you ''discover unexpected things,'' Chandra said. For instance, when he noticed that the lead detective's best friend was absent in the second half of his novel, Chandra decided to underscore the detective's isolation. Such methods apply ''in the real world as well, not just fiction,'' he added, citing the branch of computer science devoted to pattern recognition. ''One of the big themes in 'Sacred Games' is the human compulsion to discover patterns, and therefore meaning.''</p>
+        <p>Excel spreadsheets helped Marisha Pessl structure her novel ''Special Topics in Calamity Physics,'' published last year. She first discovered the program at her day job in finance -- and used it to appear hard at work while actually writing her book. But she soon found other applications. ''It seemed like a great way to organize the unorganizable,'' Pessl said in a telephone conversation. ''I still use it today, when I'm not in a cubicle.'' Pessl made spreadsheets for each chapter and character. ''Because I was plotting a mystery, I wanted to be very sure as to what clues I would plant.'' It also helped her see who was doing what when. ''With a first-person narrator it was really important,'' she said. The novel's protagonist, Blue, ''has such a blinkered view of the world, and as the author you have to have a godlike perspective.''</p>
+        <p>Some novelists even admit to using screenwriting software, which since the '80s has gone from simply helping format dialogue and stage directions to being increasingly interactive. For her novel ''Rattled,'' a satirical romp set in the New Jersey suburbs, Debra Galant turned to a screenwriting program called Dramatica Pro, which bears some resemblance to a Choose Your Own Adventure book. The program ''prompts you step by step to answer a lot of questions,'' Galant said in a telephone conversation. Those questions can be alarmingly reductive: What's your story called? Who are the main characters? Does the protagonist change over time or resist change? The program uses ''Star Wars,'' among other movies, as its pole star. In one set of questions, Galant said, the program asks, ''Do your character's efforts achieve the overall success, like killing the shark in 'Jaws,' or failure, like not opening the dinosaur theme park in 'Jurassic Park'?''</p>
+        <p>Galant said her publisher, St. Martin's, was horrified to learn she'd relied on software. But Galant is unapologetic. ''I don't feel like it's cheating,'' she said. After all, ''nobody is going to write the book for you.'' When she was uncertain she could write a book, the software ''kind of gave me the confidence to go ahead and try it.''</p>
+        <p>Indeed, software like this is part of the booming writer self-help business. Web sites like the Writers Store sell programs and books by self-appointed writing experts offering theories of all kinds. One screenwriting program, Power Structure, offers a ''gestalt view,'' allowing users to see the story as ''a unified whole and as its individual elements.'' Another guru, James Bonnet, offers books and $350 master classes that urge writers to tap into their collective unconscious. Many methods are derived from the ''story'' theory of Robert McKee, which preaches that ''story is supreme'' and ''structure is character.'' (McKee is the model for the bombastic screenwriting sage whose seminar Nicolas Cage's blocked character attends in the film ''Adaptation.'')</p>
+        <p>In the end, these computer programs may offer helpful frameworks, but they can't substitute for talent and imagination. Nor can they foster what Orhan Pamuk, in an interview with The Paris Review, called an essential tool of the trade: ''a commitment to being alone in a room.'' Which perhaps explains the market for another kind of computer program -- one that puts your Internet connection on a timer so you can actually get some writing done.</p>
+        <p>Essay Rachel Donadio is a writer and editor at the Book Review.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Rachel Donadio is a writer and editor at the Book Review.</tagline>
+    </body.end>
+  </body>
+</nitf>

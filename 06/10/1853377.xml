@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Legislation Would Penalize Unlicensed Contractors</title>
+    <meta content="10weekweWC-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853377"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Home Repairs and Improvements</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Search and Seizure</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Spano, Andrew J (County Exec)</person>
+        <person class="indexing_service">Charkes, Juli Steadman</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Search and Seizure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Repairs and Improvements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFD9163FF933A25755C0A9619C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Legislation Would Penalize Unlicensed Contractors</hl1>
+      </hedline>
+      <byline class="print_byline">By JULI S. CHARKES</byline>
+      <byline class="normalized_byline">Charkes, Juli Steadman</byline>
+      <abstract>
+        <p>County Executive Andrew Spano proposes legislation that would allow Westchester County authorities to impound vehicle, tools and home improvement equipment of unlicensed home contractors, pending payment of all fines and securing of license (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unlicensed home contractors would have their equipment seized under legislation proposed last week by the county executive, Andrew J. Spano.</p>
+        <p>The county's Consumer Protection Department received 1,500 complaints last year, of which 375 were related to home improvement, department officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>Unlicensed home contractors would have their equipment seized under legislation proposed last week by the county executive, Andrew J. Spano.</p>
+        <p>The county's Consumer Protection Department received 1,500 complaints last year, of which 375 were related to home improvement, department officials said.</p>
+        <p>''Home improvement has been the No. 1 complaint for several years and accounts for some of the worst complaints we receive,'' said Gary S. Brown, the department's director.</p>
+        <p>In an effort to curtail the number of grievances, Mr. Spano submitted a proposal last week to the county's Board of Legislators under which first-time offenders would be fined $1,000. Offenders would be subject to a fine of $5,000 for a second violation within five years and $10,000 for any subsequent violations within 10 years.</p>
+        <p>The bill would also allow county authorities to impound a contractor's vehicle, tools and home improvement equipment, pending the payment of all fines and the securing of a license.</p>
+        <p>Mr. Brown said the legislation was needed not only to boost consumer confidence, but also to recoup lost revenue.</p>
+        <p>Officials say the county forfeits approximately $180,000 a year because of the number of contractors who work without a license.</p>
+        <p>''This bill is not only pro-consumer, but also pro-business,'' Mr. Brown said.</p>
+        <p>He estimated that 15 percent of the 7,000 contractors operating in Westchester are doing so without a license, which he said hinders the ability of licensed contractors to work on a ''level playing field.''</p>
+        <p>Some people caution that a license, which costs $300 for two years, is no guarantee of expertise. The application procedure, while requiring a background check and proof of insurance, does not include a competency exam.</p>
+        <p>Edward G. O'Callaghan, 42, who has worked as a licensed contractor throughout the county for 17 years, said that a license was only one measure of a contractor's worth.</p>
+        <p>''I've seen nonlicensed contractors do great work and licensed workers do shoddy work,'' he said. ''You can be just as incompetent with a license as without one.''</p>
+        <p>JULI S. CHARKES</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

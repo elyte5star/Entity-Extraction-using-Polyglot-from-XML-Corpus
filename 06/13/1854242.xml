@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="13roundup-1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/theater/reviews/13rules.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854242"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Theater Review | 'The Rules of Charity'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Theater by the Blind</org>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Belluso, John</person>
+        <person class="indexing_service">Schambelan, Ike</person>
+        <person class="indexing_service">Hurt, Christopher</person>
+        <person class="indexing_service">Sabaugh, Pamela</person>
+        <person class="indexing_service">Bielawski, Brian</person>
+        <person class="indexing_service">Viselli, Nicholas</person>
+        <object.title class="indexing_service">Rules of Charity, The (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <object.title class="online_producer">Rules of Charity, The (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DE143FF930A25755C0A9619C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+        <hl2 class="online_headline">A Caregiver Not in a Giving Mood</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews Theater by the Blind production of John Belluso play The Rules of Charity, directed by Ike Schambelan; Christopher Hurt, Pamela Sabaugh, Brian Bielawski and Nicholas Viselli star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Rules of Charity  Lion Theater  410 West 42nd Street, Clinton  (212) 279-4200  Through June 24</p>
+        <p>Read that a play is about a woman who finds romance while caring for her disabled father, and your treacle meter is likely to start flashing an urgent warning: well-intentioned feel-good mush ahead. That plot description fits ''The Rules of Charity,'' but this dark, scalding play by John Belluso is not remotely what you're expecting.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This dark, scalding play by John Belluso is not remotely what you’re expecting.</p>
+      </block>
+      <block class="full_text">
+        <p>The Rules of Charity  Lion Theater  410 West 42nd Street, Clinton  (212) 279-4200  Through June 24</p>
+        <p>Read that a play is about a woman who finds romance while caring for her disabled father, and your treacle meter is likely to start flashing an urgent warning: well-intentioned feel-good mush ahead. That plot description fits ''The Rules of Charity,'' but this dark, scalding play by John Belluso is not remotely what you're expecting.</p>
+        <p>For one thing, it opens with the daughter, Loretta, smacking her father, who is crumpled on the floor, having fallen out of his wheelchair. ''Cruelty is a form of goodness,'' she's saying.</p>
+        <p>The play, being given a sharp New York premiere by Theater by the Blind at the Lion Theater, stirs together five memorable characters and, for the benefit of blind audience members, an unobtrusive narrator (Gregg Mozgala). By the time it's over, the relationship between caregiver and parent is only one of many subjects that have drawn Mr. Belluso's attention; homosexuality, conservative Christianity, exploitive documentary filmmaking, federal welfare rules and more come under his unforgiving microscope.</p>
+        <p>Mr. Belluso, who died last year at 36, had a rare bone disorder that required him to use a wheelchair, and he puts the father in this play, Monty (Christopher Hurt), in a wheelchair as well, with cerebral palsy. Monty's wife has died of cancer, leaving him in the care of Loretta (Pamela Sabaugh), who does the job but is no angel. She picks up a deadbeat, Horace (Brian Bielawski), and they give Dad some extra pills so he won't hear them having sex.</p>
+        <p>Monty's real angel is his apartment building's maintenance man, L. H. (Nicholas Viselli), but it turns out he's not perfect either. And Hollis Hamilton is wonderfully clueless as a documentary filmmaker who wants to tell Monty's story as part of a film about how charity works.</p>
+        <p>Theater by the Blind has actors and crew members with disabilities working alongside able-bodied colleagues. The director, Ike Schambelan, has everyone clicking here. Mr. Belluso may have crammed a few too many hot topics into one piece of theater, but his take on issues of isolation and dependence is memorable nonetheless.</p>
+        <p>NEIL GENZLINGER</p>
+        <p>Theater Review | 'The Rules of Charity'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

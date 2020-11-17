@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Survivors Complain of Delay in Release of Holocaust Files</title>
+    <meta content="09arts-1" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DD163FF93AA35755C0A9619C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Survivors Complain of Delay in Release of Holocaust Files</hl1>
+      </hedline>
+      <byline class="print_byline">By MARJORIE BACKMAN; Compiled by Peter Edidin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Even as a huge cache of Holocaust-era files was being presented publicly at the United States Holocaust Memorial Museum in Washington this week, a group of organizations representing survivors and their families complained that the announcement came too late for them to use the material in pursuing insurance claims. The existence of the archives, discovered in 2000 in a vacant Vienna apartment, became widely publicized only in recent weeks. Yet the International Commission for Holocaust Era Insurance Claims finished its work in March, while a settlement with the Italian insurer Generali was completed in February, with some exceptions. ''We believe the records may contain asset information of two-thirds of the Austrian Jewish community,'' said Sam Dubbin, a lawyer for the Miami-based Holocaust Survivors Foundation U.S.A. Ingo Zechner, director of the Holocaust Victims Information and Support Center in Vienna, said that the archives contained no insurance or bank records. Still, Mr. Dubbin said, survivors, who in any case wish to learn their families' fates, ''are skeptical, because to date every institution holding information about their past and their assets has concealed relevant information.''</p>
+        <p>MARJORIE BACKMAN</p>
+      </block>
+      <block class="full_text">
+        <p>Even as a huge cache of Holocaust-era files was being presented publicly at the United States Holocaust Memorial Museum in Washington this week, a group of organizations representing survivors and their families complained that the announcement came too late for them to use the material in pursuing insurance claims. The existence of the archives, discovered in 2000 in a vacant Vienna apartment, became widely publicized only in recent weeks. Yet the International Commission for Holocaust Era Insurance Claims finished its work in March, while a settlement with the Italian insurer Generali was completed in February, with some exceptions. ''We believe the records may contain asset information of two-thirds of the Austrian Jewish community,'' said Sam Dubbin, a lawyer for the Miami-based Holocaust Survivors Foundation U.S.A. Ingo Zechner, director of the Holocaust Victims Information and Support Center in Vienna, said that the archives contained no insurance or bank records. Still, Mr. Dubbin said, survivors, who in any case wish to learn their families' fates, ''are skeptical, because to date every institution holding information about their past and their assets has concealed relevant information.''</p>
+        <p>MARJORIE BACKMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

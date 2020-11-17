@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Allison Babb, Michael Christopher</title>
+    <meta content="03babb" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03babb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851863"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Babb, Allison White (Allison White Christopher)</person>
+        <person class="indexing_service">Christopher, Michael Scott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E3DE1230F930A35755C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Allison Babb, Michael Christopher</hl1>
+        <hl2 class="online_headline">Allison Babb, Michael Christopher</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Allison White Babb and Michael Scott Christopher were married yesterday in New Paltz, N.Y. The Rev. Howard B. Major III performed the ceremony at the New Paltz Reformed Church.</p>
+        <p>The bride, 31, is a vice president at Gerson Lehrman, an investment research firm in New York; she does research on businesses the firm's clients might potentially purchase. She graduated magna cum laude from William Smith College and received an M.B.A. from Cornell.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Allison White Babb and Michael Scott Christopher were married yesterday in New Paltz, N.Y. The Rev. Howard B. Major III performed the ceremony at the New Paltz Reformed Church.</p>
+      </block>
+      <block class="full_text">
+        <p>Allison White Babb and Michael Scott Christopher were married yesterday in New Paltz, N.Y. The Rev. Howard B. Major III performed the ceremony at the New Paltz Reformed Church.</p>
+        <p>The bride, 31, is a vice president at Gerson Lehrman, an investment research firm in New York; she does research on businesses the firm's clients might potentially purchase. She graduated magna cum laude from William Smith College and received an M.B.A. from Cornell.</p>
+        <p>She is the daughter of Linda M. Babb and John R. Babb of Scottsdale, Ariz. Her father, who is retired from I.B.M., developed software as a director in the marketing division, in White Plains. Her mother is on the executive board of the Samuel Dorsky Museum of Art at the State University of New York at New Paltz.</p>
+        <p>The bridegroom, 28, is a vice president who structures transactions at ArcLight Capital Partners, an investment firm in Boston. He graduated from the University of Virginia.</p>
+        <p>He is a son of Vicki Christopher and Robert L. Christopher of Havre de Grace, Md. His mother retired as a third-grade teacher at Abingdon Elementary School in Abingdon, Md. His father, also retired, was the supervisor of public schools in Harford County, in Maryland.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Songs About a Wanderlust That Always Leads Her Home</title>
+    <meta content="15part" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/arts/music/15part.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854614"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW | SARAH PARTRIDGE"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Jazz</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Algonquin Hotel</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFDD153FF936A25755C0A9619C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Songs About a Wanderlust That Always Leads Her Home</hl1>
+        <hl2 class="online_headline">Songs About a Wanderlust That Always Leads Her Home</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The jazz singer Sarah Partridge has a promising theme for her new show, ''I've Gotta Roam,'' at the Oak Room of the Algonquin Hotel: songs about wanderlust in which all roads eventually lead back home. From ''Gypsy in My Soul,'' her set takes a circuitous route with visits to Paris, Key Largo and ''Beyond the Sea'' before ending ''Back in Your Own Backyard.''</p>
+        <p>Solidly schooled in jazz, with an agreeable personality and a can-do attitude, Ms. Partridge has the foundations for a modest pop-jazz singing career. But the imagination and talent behind it all suggest that modest is the word. She has a voice that's steady but merely serviceable in range and variety of color.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Partridge has the foundations  personality and attitude  for a modest pop-jazz singing career, but her voice is merely serviceable in range and variety of color.</p>
+      </block>
+      <block class="full_text">
+        <p>The jazz singer Sarah Partridge has a promising theme for her new show, ''I've Gotta Roam,'' at the Oak Room of the Algonquin Hotel: songs about wanderlust in which all roads eventually lead back home. From ''Gypsy in My Soul,'' her set takes a circuitous route with visits to Paris, Key Largo and ''Beyond the Sea'' before ending ''Back in Your Own Backyard.''</p>
+        <p>Solidly schooled in jazz, with an agreeable personality and a can-do attitude, Ms. Partridge has the foundations for a modest pop-jazz singing career. But the imagination and talent behind it all suggest that modest is the word. She has a voice that's steady but merely serviceable in range and variety of color.</p>
+        <p>Songs plod along amiably enough, but her inner fire is a low flame. Although she swings reasonably well, there is still a sense of hesitation in her phrasing. She'll get where she has to go, but in her own time. Ms. Partridge conveys enjoyment but little excitement, and no danger. For her, jazz is less a vehicle for self-expression or musical adventure than a useful trade.</p>
+        <p>The surest indication of Ms. Partridge's limitations at Tuesday's opening night show was her scat singing, which was of ''Bobba-do, bobba-do'' variety. Who wants scat improvisation if it is easy, empty vocal filler? Her band -- Allen Farnham on piano, Tim Horner on drums and Bill Moring on bass -- provided reliable support that was as unflashy as the singer.</p>
+        <p>Ms. Partridge put the most energy into ''Every Day I Have the Blues,'' which rose only to a low simmer. Near the end of the show, she introduced a light pop-jazz version of Willie Nelson's ''On the Road Again'' by saying it was not in the great American Songbook. I suppose it wouldn't be if the cutoff date for inclusion is 1960. But how many other songs are as deeply embedded in the American psyche as Mr. Nelson's theme song? It's a standard for sure.</p>
+        <p>Sarah Partridge continues through June 23rd at the Oak Room of the Algonquin Hotel, 59 West 44th Street, Manhattan; (212) 419-9331.</p>
+        <p>MUSIC REVIEW | SARAH PARTRIDGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

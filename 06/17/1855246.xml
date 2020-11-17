@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Statistic Says Pitchers Need to Be Lucky and Good</title>
+    <meta content="17score" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/sports/baseball/17score.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070622T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1855246"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="KEEPING SCORE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Statistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Statistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <person class="online_producer">McCracken, Voros</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E6DF123FF934A25755C0A9619C8B63" item-length="902" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Statistic Says Pitchers Need to Be Lucky and Good</hl1>
+        <hl2 class="online_headline">New Statistic Says Pitchers Need to Be Lucky and Good</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN ROSENHECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1999, a young paralegal named Voros McCracken rocked the baseball analysis world with a revolutionary finding: pitchers, he said, had no control over the outcomes of balls hit against them into play.</p>
+        <p>According to McCracken, the only abilities separating good pitchers from bad ones were striking out batters, and preventing walks and home runs. Everything else -- the fate of every ball that is fielded for an out or that falls in for a single, double or triple -- was up to the defense and Lady Luck. When it came to inducing weak contact, like dribblers and pop-ups, Pedro Martínez was no better than Pedro Borbón.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>According to Voros McCracken, the only abilities separating good pitchers from bad ones were striking out batters, and preventing walks and home runs.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1999, a young paralegal named Voros McCracken rocked the baseball analysis world with a revolutionary finding: pitchers, he said, had no control over the outcomes of balls hit against them into play.</p>
+        <p>According to McCracken, the only abilities separating good pitchers from bad ones were striking out batters, and preventing walks and home runs. Everything else -- the fate of every ball that is fielded for an out or that falls in for a single, double or triple -- was up to the defense and Lady Luck. When it came to inducing weak contact, like dribblers and pop-ups, Pedro Martínez was no better than Pedro Borbón.</p>
+        <p>McCracken's research is not well known by the public, but it is perhaps the most controversial issue in baseball statistics today, because of its critical importance for understanding what happens on the field and because the evidence is so difficult to interpret.</p>
+        <p>To test the hypothesis, analysts have to separate the impact of pitching and fielding. If a pitcher allows few hits on balls in play, is that because opposing batters hit into a high number of routine plays, or because his fielders make spectacular catches behind him?</p>
+        <p>There is no way to resolve this quandary with traditional statistics. But in recent years, researchers studying fielding have developed a new type of measurement known as play-by-play statistics, which are compiled by paid observers who attend every major league game and record where each ball is hit and whether it is fielded. That data can be used to calculate the likelihood that balls hit at particular speeds to particular spots will become hits, which is then used as a baseline for evaluating fielders.</p>
+        <p>But it can also be applied to pitchers, to determine how many hits they would have given up if they had average fielders and a neutral ballpark, rather than the context they actually pitched in. This makes it possible to disentangle pitching from fielding, and thus to distinguish between luck and skill when it comes to allowing hits on balls in play.</p>
+        <p>One leading researcher in this field, the former St. Louis Cardinals consultant Mitchel Lichtman, has developed a statistic to measure this, Pitcher Zone Rating, and he agreed to share his data with The New York Times. Though the data is still in its nascent stages and pitching performance has a big variation from year to year, patterns are starting to emerge.</p>
+        <p>According to P.Z.R., over the last six years, pitchers have indeed had a substantial impact on the outcomes of balls in play, almost as big as that of fielders. Among starting pitchers, the undisputed king of inducing weak contact is the Red Sox' Tim Wakefield, the game's premier knuckleballer. Since 2001, Wakefield's ability to prevent hits on balls in play has saved him 85 runs, or lowered his earned run average by 0.62. In other words, he will be out of a job if he ever loses it. The runners-up are the left-handed curveball specialist Barry Zito and the sinkerball pitcher Derek Lowe.</p>
+        <p>Many statistically literate fans have dismissed Zito's success as a product of a friendly stadium and superb fielders. In fact, while his favorable environment did prevent 32 runs since 2001, good for 0.20 off his E.R.A., his own ability had an effect twice as large: 64 runs and 0.40 of E.R.A.</p>
+        <p>Lowe, for his part, actually allowed more singles than an average pitcher would have, given his balls in play. But his extreme ground-ball tendency enabled him to clamp down on extra-base hits, allowing 30 percent fewer doubles and triples than the average. That is worth a total savings of 59 runs, representing 0.40 off his E.R.A.</p>
+        <p>At the other extreme is the journeyman Glendon Rusch, whose ability to turn opposing hitters into batting champions is unparalleled. Over the last six years, Rusch has surrendered 50 runs more than average because of his inability to prevent hits on balls in play, inflating his E.R.A. by 0.50.</p>
+        <p>Rusch has most likely broken the heart of many statistically savvy fantasy baseball owners over the years, who have presumably sent him out for start after start waiting for his bad luck to end, only to see their hopes dashed by a parade of line drives. After a 10-year career, Rusch appears to have run out of employers to disappoint: he is not pitching in organized baseball in 2007.</p>
+        <p>A few patterns have emerged from the P.Z.R. data. Besides the occasional knuckleballer, the pitchers who dominate the leader board tend to be either extreme ground-ball pitchers, who do not give up extra-base hits (like Lowe), elite junkballers like Jamie Moyer, or simply great pitchers with moving fastballs, including Martínez, Johan Santana and Roger Clemens.</p>
+        <p>Those who give up more hard-hit balls than average either compensate with terrific strikeout and walk rates (like Ben Sheets), pitch in front of outstanding defenses (like Randy Wolf) or drop out of baseball (ahem, Rusch).</p>
+        <p>P.Z.R. will not put the debate over McCracken's theory to rest. Skeptics may note that we would expect to see at least some Zitos or Rusches by random chance and that strikeout, walk and home run rates still have a much larger impact on a pitcher's success than preventing hits on balls in play. But as the data continues to be compiled over the years, analysts will have more and more with which to tackle one of baseball's greatest mysteries.</p>
+        <p>KEEPING SCORE E-mail: keepingscore@nytimes.com</p>
+        <p>Correction:  June 22, 2007, Friday  The Keeping Score column on Sunday, The Keeping Score column on Sunday, about new baseball research into hitting and fielding trends that can help assess the impact of pitchers, referred incorrectly to the status of the journeyman Glendon Rusch. He is recovering from a blood-clot scare last season, and is not pitching now; he is not out of the game because he ''appears to have run out of employers to disappoint'' with his statistically below-average pitching.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 22, 2007, Friday</p>
+        <p>The Keeping Score column on Sunday, The Keeping Score column on Sunday, about new baseball research into hitting and fielding trends that can help assess the impact of pitchers, referred incorrectly to the status of the journeyman Glendon Rusch. He is recovering from a blood-clot scare last season, and is not pitching now; he is not out of the game because he ''appears to have run out of employers to disappoint'' with his statistically below-average pitching.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: keepingscore@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A High School On Governors Island</title>
+    <meta content="l03city-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851941"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <location class="indexing_service">Governors Island (NYC)</location>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Haimson, Leonie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E7DF1030F930A35755C0A9619C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A High School On Governors Island</hl1>
+      </hedline>
+      <abstract>
+        <p>Class Size Matters executive director Leonie Haimson letter on May 20 editorial holds Mayor Michael Bloomberg should stand by pledge to place major high school complex on Governors Island</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Parks for All New Yorkers'' (editorial, May 20):</p>
+        <p>Governors Island is a precious untapped resource, but not only for parks. In October 2001, when Mayor Bloomberg was first running for office, he pledged to place a major high school complex on the island.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Parks for All New Yorkers'' (editorial, May 20):</p>
+        <p>Governors Island is a precious untapped resource, but not only for parks. In October 2001, when Mayor Bloomberg was first running for office, he pledged to place a major high school complex on the island.</p>
+        <p>Almost six years later, nothing has been done to achieve this, despite the fact that almost 70 percent of our high school students still attend overcrowded schools. According to federal law, at least 20 acres of the island must be devoted to educational purposes. Numerous large buildings that once held classrooms are sitting vacant, with sports fields lying adjacent.</p>
+        <p>Moreover, Lower Manhattan is the fastest-growing residential area in the city and will grow substantially in size by 2030, to 80,000 residents. Where will all these people send their children to school? By ferry, the island is only seven minutes away from several major subway lines at the tip of Manhattan.</p>
+        <p>It is time to make good on the promise of Governors Island by siting a major high school complex on the island, for the sake of the our children and the future of this city.</p>
+        <p>Leonie Haimson  Exec. Dir., Class Size Matters  Greenwich Village</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

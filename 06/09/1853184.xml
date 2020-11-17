@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quantifying the Role of Old-School Ties in Investing</title>
+    <meta content="09fund" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/business/09fund.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853184"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Graduate Schools and Students</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Mutual Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Insider Trading</classifier>
+        <org class="indexing_service">National Bureau of Economic Research</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Frazzini, Andrea (Prof)</person>
+        <person class="indexing_service">Cohen, Lauren</person>
+        <person class="indexing_service">Malloy, Christopher</person>
+        <person class="indexing_service">Leonhardt, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDD163FF93AA35755C0A9619C8B63" item-length="1261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quantifying the Role of Old-School Ties in Investing</hl1>
+        <hl2 class="online_headline">Quantifying the Role of School Ties in Investing</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT; Donna Anderson contributed reporting.</byline>
+      <byline class="normalized_byline">Leonhardt, David</byline>
+      <abstract>
+        <p>New study being circulated through hedge funds and university campuses by National Bureau of Economic Research points to powerful role that old-school ties play in world of investing; study found that mutual fund managers invest more money in companies that are run by people with whom they went to college or graduate school than in companies where they have no such connections; investments involving school ties, on average, also do significantly better than other investments; authors of study offer two possible explanations: fund managers may simply know more about their old classmates, including which ones are likely to make good executives; alternative explanation is that those executives may be passing along inside information to fund managers; researchers do not take position about which explanation is more likely; Securities and Exchange Commission officials have asked authors to present their indings next month at one of regular seminars held within commission's Office of Economic Analysis; paper is latest example of approach that might be called investigative economics, in which researchers dig through enormous amounts of data to look for patterns; authors are Andrea Frazzini of University of Chicago, Lauren Cohen of Yale and Christopher Malloy of London Business School; chart (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new study  circulating through hedge funds and university campuses points to the powerful role that old-school ties play in the world of investing.</p>
+        <p>Mutual fund managers invest more money in companies that are run by people with whom they went to college or graduate school than in companies where they have no such connections, the study found. The investments involving school ties, on average, also do significantly better than other investments.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mutual fund managers invest more money in companies that are run by people they knew in school, a study says.</p>
+      </block>
+      <block class="full_text">
+        <p>A new study  circulating through hedge funds and university campuses points to the powerful role that old-school ties play in the world of investing.</p>
+        <p>Mutual fund managers invest more money in companies that are run by people with whom they went to college or graduate school than in companies where they have no such connections, the study found. The investments involving school ties, on average, also do significantly better than other investments.</p>
+        <p>The authors of the study offer two possible explanations -- one benign and one decidedly not. Fund managers may simply know more about their old classmates, including which ones are likely to make good executives. The alternate explanation is that those executives may be passing along inside information to the fund managers.</p>
+        <p>The researchers do not take a position about which explanation is more likely.</p>
+        <p>''Everything we have is consistent with both explanations,'' said Andrea Frazzini,  an assistant professor at the University of Chicago and one of the study's three authors. But he added, ''We have no evidence of wrongdoing by any of these fund managers.''</p>
+        <p>Officials from the Securities and Exchange Commission have asked the authors to present their findings next month at one of the regular seminars held within the commission's Office of Economic Analysis.</p>
+        <p>The paper is the latest example of an approach that might be called investigative economics, in which researchers dig through enormous amounts of data to look for patterns. In 2005, this kind of research helped uncover the widespread backdating of stock options, a scandal that has resulted in criminal complaints against some company executives and the resignations of a number of others. Other research led Eliot Spitzer, then New York's attorney general, to crack down on illegal after-hours trading by mutual funds.</p>
+        <p>It remains unclear whether the latest paper will have any similar impact or whether it has pointed to improper trading. But some other economists who have read the paper said they believed that it probably had, even if the extent of such trading might be relatively small.</p>
+        <p>''It's a very good paper,'' said Michael S. Weisbach,  a finance professor at the University of Illinois. ''It suggests that there is illegal activity going on, but it doesn't provide the S.E.C. a road map. You certainly can't prosecute someone for having a good return on a company by somebody they went to college with.''</p>
+        <p>The study is being distributed by the National Bureau of Economic Research,  a nonprofit group in Cambridge, Mass., that helps finance work by many of the country's top economists. The authors have submitted the paper to The Journal of Political Economy, where it is being reviewed.</p>
+        <p>The authors have also been presenting it at academic seminars, as well as to the hedge fund arm of Goldman Sachs and to AQR Capital Management, another hedge fund. Regardless of their cause, the patterns are of potential interest to other investors, who could track the investments of mutual fund managers and mimic those strategies that seemed to work especially well.</p>
+        <p>''Something about these social networks is allowing portfolio managers to better predict the future returns of companies within the network,'' said Lauren Cohen  of Yale, another author.</p>
+        <p>The study looked only at mutual funds, which are required to report their holdings and performance regularly. It did not examine hedge funds, which are investment pools for wealthy individuals and institutions; hedge funds do not have to disclose their holdings publicly.</p>
+        <p>Mr. Cohen, Mr. Frazzini and the third researcher, Christopher Malloy  of London Business School, are all in their late 20s or early 30s. They were inspired to do the study partly by how often they noticed people talking about their alma maters when they were introduced to each other in the business world, Mr. Cohen said. The economists wondered whether these social networks affected investment choices.</p>
+        <p>Their study, titled ''The Small World of Investing,'' examined 85 percent of the total assets under management from 1990 to 2006 and looked at different levels of university connections.</p>
+        <p>In the weakest kind of connection, a fund manager and one of a company's top three executives shared nothing more than an alma mater. They could have attended different schools within the university and have been on the campus decades apart.</p>
+        <p>In the strongest connection, a fund manager and one of the top three executives attended the same school at the same university, and their time on campus overlapped. The most common shared school in the study, by far, was Harvard Business School.</p>
+        <p>On average, investments in companies where there was no connection returned 11.7 percent a year before fees, according to the economists' estimates. Investments in companies with the closest level of connection -- when a fund manager attended school with an executive -- returned 20.1 percent a year.</p>
+        <p>As might be expected, investments with weaker connections had returns that fell somewhere in between, with returns of more than 11.7 percent and less than 20.1 percent.</p>
+        <p>The most benign explanation for the pattern is simply that fund managers who attended school with executives have an easier time learning about the companies where those executives work. They are more likely to travel in similar social circles and may even remember their old classmate's strengths and weaknesses.</p>
+        <p>''The results are much more consistent with the story that you went to college with Person X and know they're really smart,'' said Steven N. Kaplan,  a finance professor at the University of Chicago. ''My guess is that the whispering is going on, too, but the question is the relative amounts.''</p>
+        <p>Supporting Mr. Kaplan's view, the paper does not offer clear evidence that the investments by the fund managers did unusually well in the weeks and months immediately after a stock was purchased.</p>
+        <p>On the other hand, investing based on school ties seems to have become less popular recently, which could suggest that financial regulations passed after the demise of Enron cut down on the exchange of inside information.</p>
+        <p>Last year, 7.1 percent of fund managers invested in at least one company that had a top executive with whom they had gone to school, down from 15 percent in 2002. The average during the 1990s was 11 percent.</p>
+        <p>The paper did highlight one specific example -- to the displeasure of the company involved. Toward the beginning, the paper describes a mutual fund run by a graduate of Harvard Business School that did well by investing in Cummins Engine in the late 1990s. Two large purchases of Cummins stock happened in the months before it jumped in price, and the sale of those shares came in the months before it dropped.</p>
+        <p>(Mutual funds are required to disclose their holdings every quarter, meaning that the economists could not examine shorter time periods.)</p>
+        <p>A number of top officials at Cummins also attended Harvard Business School, though not at the same time as the fund manager.</p>
+        <p>The research paper does not identify the mutual fund, but public records make it clear that it is one run by Fidelity Investments.</p>
+        <p>Scott Beyerl, a Fidelity spokesman, said yesterday that he did not want to comment directly on the study. ''Our equity portfolio managers continue to select stocks for their funds the way they always have -- using a bottom-up approach focused on the relative attractiveness of company fundamentals and stock valuations,'' Mr. Beyerl added.</p>
+        <p>Jean Blackwell, the chief financial officer at Cummins, said she was unhappy that the paper had singled out the company. ''The linkages were weak,'' she said. ''It impugned our integrity without establishing that anything happened, and I take that really seriously.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Long-Drawn-Out and Ready to Eat: Fresh Pastas on Essex Street</title>
+    <meta content="06casa" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852462"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EED61130F935A35755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Long-Drawn-Out and Ready to Eat: Fresh Pastas on Essex Street</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vadim Ponorovsky, the owner of Paradou, a bistro in the meatpacking district, and Paradou Marché, a crepe and sandwich counter in the Essex Street Market, has opened Casa Tua in the market, specializing in freshly made ravioli and other pastas, and sauces. David Shemesh, the chef, may encourage you to try his beet and goat cheese ravioli -- he's making it at right -- or his seven-herb fettuccine. And in a spirit of adventure, you might consider his earthy sumac fettuccine, flavored Middle Eastern style, and toss it with olives, olive oil, lemon zest and chilies. Pasta with sauce at cafe tables is $8 to $10, from 11:30 a.m. until the market closes (at 6 p.m. Monday to Wednesday, and 7 p.m. Thursday to Saturday). Pasta for two, to take home, is $6.50 to $14, and sauces are $3.50: 120 Essex Street (Delancey Street), (212) 477-4177.</p>
+      </block>
+      <block class="full_text">
+        <p>Vadim Ponorovsky, the owner of Paradou, a bistro in the meatpacking district, and Paradou Marché, a crepe and sandwich counter in the Essex Street Market, has opened Casa Tua in the market, specializing in freshly made ravioli and other pastas, and sauces. David Shemesh, the chef, may encourage you to try his beet and goat cheese ravioli -- he's making it at right -- or his seven-herb fettuccine. And in a spirit of adventure, you might consider his earthy sumac fettuccine, flavored Middle Eastern style, and toss it with olives, olive oil, lemon zest and chilies. Pasta with sauce at cafe tables is $8 to $10, from 11:30 a.m. until the market closes (at 6 p.m. Monday to Wednesday, and 7 p.m. Thursday to Saturday). Pasta for two, to take home, is $6.50 to $14, and sauces are $3.50: 120 Essex Street (Delancey Street), (212) 477-4177.  FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

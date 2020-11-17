@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Constellation Of Tauruses</title>
+    <meta content="17BEAMS" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/automobiles/17BEAMS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855088"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="HIGH BEAMS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <org class="online_producer">Seattle Art Museum</org>
+        <person class="online_producer">Cai Guo-Qiang</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7DE153FF934A25755C0A9619C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Constellation Of Tauruses</hl1>
+        <hl2 class="online_headline">A Constellation of Tauruses</hl2>
+      </hedline>
+      <byline class="print_byline">By PHIL PATTON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NINE flying white Ford Tauruses, intertwined with ribbons of light and hovering inside a gallery space went on display recently at the Seattle Art Museum (seattleartmuseum.org). They are part of an art piece by Cai Guo-Qiang, the Chinese artist who lives in New York City, called ''Inopportune: Stage One.'' The same piece had been installed at the Massachusetts Museum of Contemporary Art.</p>
+        <p>There is an ambiguity to the piece: Is that nine separate white Tauruses or a representation of one Taurus captured time-lapse-photo style at nine different moments? (Nine lives? One cat?) There is a hint in the fact that these are second generation Tauruses from the 1990s, not the new Taurus, which used to be the Five Hundred. It recalls other artworks using full-size automobiles like Damián Ortega's exploded view of a VW Beetle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>HIGH BEAMS.</p>
+      </block>
+      <block class="full_text">
+        <p>NINE flying white Ford Tauruses, intertwined with ribbons of light and hovering inside a gallery space went on display recently at the Seattle Art Museum (seattleartmuseum.org). They are part of an art piece by Cai Guo-Qiang, the Chinese artist who lives in New York City, called ''Inopportune: Stage One.'' The same piece had been installed at the Massachusetts Museum of Contemporary Art.</p>
+        <p>There is an ambiguity to the piece: Is that nine separate white Tauruses or a representation of one Taurus captured time-lapse-photo style at nine different moments? (Nine lives? One cat?) There is a hint in the fact that these are second generation Tauruses from the 1990s, not the new Taurus, which used to be the Five Hundred. It recalls other artworks using full-size automobiles like Damián Ortega's exploded view of a VW Beetle.</p>
+        <p>Cars are in art shows elsewhere. At the recent show of the artist Martin Ramirez at the Museum of American Folk Art in Manhattan, one painting featured three Volkswagen vans (folkartmuseum.org/default.asp?id=1805).</p>
+        <p>And ''Summer of Love: Art of the Psychedelic Era'' at the Whitney Museum in Manhattan includes Janis Joplin's painted Porsche (whitney.org/www/exhibition/index.jsp).</p>
+        <p>PHIL PATTON</p>
+        <p>HIGH BEAMS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

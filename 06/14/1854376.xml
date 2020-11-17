@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let Doctors Act</title>
+    <meta content="l14medical" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854376"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0DA143FF937A25755C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let Doctors Act</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Daniel Carlat, in detailing how drug companies have co-opted medical education, says the solution is to revoke the accreditation of any continuing medical education financed by the drug industry (''Diagnosis: Conflict of Interest,'' Op-Ed, June 13).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Daniel Carlat, in detailing how drug companies have co-opted medical education, says the solution is to revoke the accreditation of any continuing medical education financed by the drug industry (''Diagnosis: Conflict of Interest,'' Op-Ed, June 13).</p>
+        <p>How about this? The practice would stop overnight if prominent physicians stopped accepting the exorbitant fees and emoluments the industry offers to participate in these programs. For years, the medical community has turned a blind eye to its complicity in this conflict of interest, comfortably sitting back and watching fingers being pointed at the pharmaceutical industry. Truly a case of ''physician, heal thyself.''</p>
+        <p>Cory Franklin, M.D.  Wilmette, Ill., June 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heather John, John Fogarty</title>
+    <meta content="03john" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">John, Heather Mary</person>
+        <person class="indexing_service">Fogarty, John Linehan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EFDF1230F930A35755C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heather John, John Fogarty</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Heather Mary John and John Linehan Fogarty were married yesterday at Meadowood Napa Valley, a resort and private club in St. Helena, Calif. The Rev. Gerald P. Caprio, a Benedictine monk, officiated.</p>
+        <p>The bride, 34, will continue to use her name professionally. She is the senior editor of Bon Appétit in Los Angeles. She graduated from the University of California, Davis, and has a certificate in French language from the University of Paris-Sorbonne.</p>
+      </block>
+      <block class="full_text">
+        <p>Heather Mary John and John Linehan Fogarty were married yesterday at Meadowood Napa Valley, a resort and private club in St. Helena, Calif. The Rev. Gerald P. Caprio, a Benedictine monk, officiated.</p>
+        <p>The bride, 34, will continue to use her name professionally. She is the senior editor of Bon Appétit in Los Angeles. She graduated from the University of California, Davis, and has a certificate in French language from the University of Paris-Sorbonne.</p>
+        <p>She is the daughter of Elaine and Donald L. John of Angwin, Calif. Her father retired as a professor of English literature at Pacific Union College there. Her mother is president of the St. Helena Hospital Foundation.</p>
+        <p>The bridegroom, also 34, is a vice president who oversees the sale of cellphone program services and business development for Napster in Los Angeles. He graduated from Harvard. His previous marriage ended in divorce.</p>
+        <p>He is a son of Elisabeth and John T. Fogarty of Gulf Stream, Fla. His father retired as an executive vice president and the group executive of the global private banking group of Chemical Bank in New York. The bridegroom's father was also the executive director of the United States Tennis Association from 1986 to 1988.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

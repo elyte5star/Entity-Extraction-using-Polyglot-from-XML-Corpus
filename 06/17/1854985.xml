@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MACHU PICCHU STILL A MARVEL</title>
+    <meta content="17trmail-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854985"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="indexing_service" type="descriptor">Incas</classifier>
+        <location class="indexing_service">Machu Picchu (Peru)</location>
+        <location class="indexing_service">Peru</location>
+        <person class="indexing_service">Maas, Nancy Neaher</person>
+        <person class="indexing_service">Todras-Whitehill, Ethan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Peru/Machu Picchu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Peru</classifier>
+        <classifier class="online_producer" type="general_descriptor">Incas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indians, American</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E1DE143FF934A25755C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MACHU PICCHU STILL A MARVEL</hl1>
+      </hedline>
+      <abstract>
+        <p>Nancy Neaher Maas letter on Ethan Todras-Whitehill's June 3 travel article on Machu Picchu, Peru</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I feel that ''The Other Machu Picchu'' (June 3), in which Ethan Todras-Whitehill dismisses the ruins there as overrun by tourists, doesn't tell the full story.</p>
+        <p>True, there are more visitors now than in the 1960's when I slept in a sleeping bag among the ruins. However, important sections had not yet been investigated and/or rescued from the wilderness.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I feel that ''The Other Machu Picchu'' (June 3), in which Ethan Todras-Whitehill dismisses the ruins there as overrun by tourists, doesn't tell the full story.</p>
+        <p>True, there are more visitors now than in the 1960's when I slept in a sleeping bag among the ruins. However, important sections had not yet been investigated and/or rescued from the wilderness.</p>
+        <p>After subsequent decades of archeological restoration, innumerable ''new'' elements have reappeared. One is the so-called Temple of the Condor, wherein natural rock is manipulated to suggest the great bird with wings outstretched. For me, there is no doubt that Incan ingenuity and artistry are now on display in ways that were not possible 40 years ago.</p>
+        <p>Yes, this will be a shared experience with many others, but by picking off-peak hours and hiking nearby trails, the full magnificence of Machu Picchu can still be easily absorbed.</p>
+        <p>Nancy Neaher Maas  Ithaca, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

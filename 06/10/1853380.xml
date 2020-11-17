@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arrests of Illegal Immigrants Doubled in the Last Year</title>
+    <meta content="10weeknjNJ-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853380"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Immigrants</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">Immigration and Customs Enforcement</org>
+        <person class="indexing_service">Schweber, Nate</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED9163FF933A25755C0A9619C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arrests of Illegal Immigrants Doubled in the Last Year</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE SCHWEBER</byline>
+      <byline class="normalized_byline">Schweber, Nate</byline>
+      <abstract>
+        <p>Immigration and Customs Enforcement officials say number of illegal immigrants arrested in New Jersey under Operation Return to Sender has more than doubled over last year, to 1,772 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The number of illegal immigrants arrested in New Jersey under Operation Return to Sender has more than doubled over the last year to more than 1,700, Immigration and Customs Enforcement officials said.</p>
+        <p>The operation, begun in May 2005, focuses on illegal immigrants with criminal records. A total of 800 illegal immigrants were arrested in New Jersey in the first year of the operation, and 1,772 were arrested in the second year, with 253 of them having criminal records, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>The number of illegal immigrants arrested in New Jersey under Operation Return to Sender has more than doubled over the last year to more than 1,700, Immigration and Customs Enforcement officials said.</p>
+        <p>The operation, begun in May 2005, focuses on illegal immigrants with criminal records. A total of 800 illegal immigrants were arrested in New Jersey in the first year of the operation, and 1,772 were arrested in the second year, with 253 of them having criminal records, officials said.</p>
+        <p>Whether the numbers reflect an increase in New Jersey in the number of illegal immigrants and those with criminal records or the effectiveness of law enforcement authorities is unclear, said Scott Weber, field office director for Immigration and Customs Enforcement detention and removal based in Newark. But the four fugitive operations teams that span the state keep improving over time at tracking down aliens, he said.</p>
+        <p>Mr. Weber said that the fugitive operations teams pursue suspects based on intelligence, including tips, and that the spike in arrests was not a result of random sweeps.</p>
+        <p>The convictions of those arrested include sexual assault, child abuse, weapons charges, identity theft and drug possession, officials said.</p>
+        <p>''This is a national priority that dissolved into our state,'' said Adam Puharic, a spokesman for Immigration and Customs Enforcement in Newark.</p>
+        <p>Morristown is awaiting word on its application to be part of an Immigration and Customs Enforcement effort to deputize local police officers to deal with immigration issues.</p>
+        <p>NATE SCHWEBER</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

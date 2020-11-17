@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Way We Live Now: The Ethicist; Smoked Out</title>
+    <meta content="17wwln--ethicist.t" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/magazine/17wwln-ethicist-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854924"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Ethicist"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/The Ethicist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DC173FF934A25755C0A9619C8B63" item-length="577" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Way We Live Now: The Ethicist; Smoked Out</hl1>
+        <hl2 class="online_headline">Smoked Out</hl2>
+      </hedline>
+      <byline class="print_byline">By Randy Cohen</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I am competing for a job at a firm that does work for a tobacco company on whose account I would have to work. This makes me deeply uncomfortable. Since I received my degree, my parents have been supporting me. If I took a stand on principle here, it would be at their expense. Should I take the job if it is offered?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Death dealing; death concealing.</p>
+      </block>
+      <block class="full_text">
+        <p>I am competing for a job at a firm that does work for a tobacco company on whose account I would have to work. This makes me deeply uncomfortable. Since I received my degree, my parents have been supporting me. If I took a stand on principle here, it would be at their expense. Should I take the job if it is offered?</p>
+        <p>Name Withheld, Texas</p>
+        <p>Here's another way to phrase the question: Should I take a job persuading people to use a toxic product? If that product were satanic trousers that occasionally came to life and strangled their wearer, I might encourage you to accept the offer, if only to add some excitement to my dull life. But if the job is promoting cigarettes, you must reject it. Cigarette smoking causes more than 400,000 deaths in the U.S. each year. You may not honorably work to augment this gruesome tally.</p>
+        <p>This is not to demand moral purity. Every task in a society is at least peripherally connected to activities we might find dubious. I used to write for ''Late Night With David Letterman,'' a program owned by NBC, a network owned by General Electric, a major manufacturer of weapons. When I wrote a bit for a performing monkey, was that tantamount to making nuclear weapons? I'd say not. He seemed quite a decent monkey. Similarly, I would not censure a janitor who waxes the floors at your would-be employer or even at R. J. Reynolds, but some connections are more direct than others. And while there are gray areas, a job that involves growing tobacco or manufacturing or marketing cigarettes isn't one, as your own discomfort suggests.</p>
+        <p>You do have obligations to your parents, but meeting those duties does not allow the abnegation of moral choice. After all, you wouldn't become a contract killer to repay your folks.</p>
+        <p>Update: The company ultimately gave the job to someone else.</p>
+        <p>Our mother committed suicide at home, and now we're selling her house. Potential buyers know that the owner died but do not know how. Under the law, we're not required to tell them about a death on the property. If asked directly, we would let them know, but do we have an ethical duty to volunteer this information?</p>
+        <p>Name Withheld, New York</p>
+        <p>In many states there is a legal obligation to disclose pertinent information about the house as a physical entity -- an unseen construction flaw, for example, or unusually high heating costs -- not to recount all that occurred within its walls or to delve into the spirit world.</p>
+        <p>Your ethical obligation is more nuanced and is affected by your motives. You need not sacrifice your privacy or your own emotional well-being by raising this intimate and painful matter with a stranger. If, however, your real concern is neither privacy nor grief but the selling price of the house, then you should volunteer this unsettling story.</p>
+        <p>A potential buyer may be put off by the suicide. The desire to have your home life unclouded by associations with grim death is not unreasonable; the fear of ghostly manifestations is goofy but not unknown. Your coping with your mother's loss supersedes a buyer's claim to this information; your pursuit of profit does not. In this latter case, you should strive for the transparency that underpins honest transactions.</p>
+        <p>Update: Without seeking the family's consent, the real estate agent disclosed the suicide to a bidder who, undeterred, bought the house.</p>
+        <p>The Ethicist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

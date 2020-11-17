@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ZETLIN, VALENTINE WOLF, M.D.</title>
+    <meta content="dn061307" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854096"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">ZETLIN, VALENTINE WOLF, M.D.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E1D8143AF930A25755C0A9619C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ZETLIN, VALENTINE WOLF, M.D.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ZETLIN -- Valentine Wolf, M.D., of Leonia, NJ, beloved husband, father, grandfather and great-grandfather, died June 9. Dr. Zetlin was born March 8, 1912 in Paris. His father was the Russian revolutionary, poet and editor Mikhail Zetlin, founder of The New Review, a New Yorkbased Russian-language literary journal published until 2007. Dr. Zetlin earned his medical degree at Oxford in 1944. He joined his parents and sister in New York in 1948, where he completed his training in psychiatry. He began his private practice in 1952, and became Medical Director at the Lincoln Institute for Psychotherapy in 1960, a position he held for the remainder of his career. Dr. Zetlin was a linguist who spoke English, French and Russian fluently, and some German, Spanish and Italian. He loved reading and writing poetry, and listening to music, especially opera. He is survived by his wife, Sylvia KordowerZetlin, his children, Linda Baker, Karen Reiter, Louis Borodinsky, and grandchildren Sean, Elizabeth and Jessica Baker; his daughter, Minda Zetlin; and in France, his nephew Dr. Alain Krivitzky, nieces Catherine Mann and Natalie Dominique, and their children.</p>
+      </block>
+      <block class="full_text">
+        <p>ZETLIN -- Valentine Wolf, M.D., of Leonia, NJ, beloved husband, father, grandfather and great-grandfather, died June 9. Dr. Zetlin was born March 8, 1912 in Paris. His father was the Russian revolutionary, poet and editor Mikhail Zetlin, founder of The New Review, a New Yorkbased Russian-language literary journal published until 2007. Dr. Zetlin earned his medical degree at Oxford in 1944. He joined his parents and sister in New York in 1948, where he completed his training in psychiatry. He began his private practice in 1952, and became Medical Director at the Lincoln Institute for Psychotherapy in 1960, a position he held for the remainder of his career. Dr. Zetlin was a linguist who spoke English, French and Russian fluently, and some German, Spanish and Italian. He loved reading and writing poetry, and listening to music, especially opera. He is survived by his wife, Sylvia KordowerZetlin, his children, Linda Baker, Karen Reiter, Louis Borodinsky, and grandchildren Sean, Elizabeth and Jessica Baker; his daughter, Minda Zetlin; and in France, his nephew Dr. Alain Krivitzky, nieces Catherine Mann and Natalie Dominique, and their children.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

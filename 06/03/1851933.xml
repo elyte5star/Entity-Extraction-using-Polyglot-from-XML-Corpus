@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CARDINAL CHANGES LINEUP</title>
+    <meta content="03suits-3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851933"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3D71330F930A35755C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CARDINAL CHANGES LINEUP</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cardinal Health, which provides drug delivery services for the health care industry, is continuing to shake up its executive tier. The company has appointed two officials to oversee its finances. It has also announced a $600 million reserve to settle a class-action suit, filed by investors, that focuses on its financial reporting and guidance.</p>
+        <p>The company, which is based in Dublin, Ohio, said last week that James F. Hinrichs, 39, would become controller and that Stuart G. Laws, 44, would serve as chief accounting officer.</p>
+      </block>
+      <block class="full_text">
+        <p>Cardinal Health, which provides drug delivery services for the health care industry, is continuing to shake up its executive tier. The company has appointed two officials to oversee its finances. It has also announced a $600 million reserve to settle a class-action suit, filed by investors, that focuses on its financial reporting and guidance.</p>
+        <p>The company, which is based in Dublin, Ohio, said last week that James F. Hinrichs, 39, would become controller and that Stuart G. Laws, 44, would serve as chief accounting officer.</p>
+        <p>Both already work for Cardinal in other jobs. They replace Eric R. Slusser, 47, who has held both jobs but who announced his resignation last month.</p>
+        <p>Mr. Slusser, who leaves on June 29, is departing for a publicly traded company that he has not identified because their negotiations are not yet final.</p>
+        <p>The settlement, which must be approved by the United States District Court for the Southern District of Ohio to be final, involves one of two lawsuits filed in July 2004 contending that the company violated federal securities laws by issuing false or misleading statements concerning its financial results.</p>
+        <p>The company has denied the accusations.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

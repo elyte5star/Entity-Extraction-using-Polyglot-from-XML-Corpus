@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Commuters Still Driving Alone</title>
+    <meta content="14drive" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/us/14drive.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854433"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Car Pools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Census Bureau</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E5D8143FF937A25755C0A9619C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Commuters Still Driving Alone</hl1>
+        <hl2 class="online_headline">Commuters Still Driving Alone</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite high gasoline prices, the share of commuters driving alone has increased slightly since 2000 while the proportion in car pools dropped and those using mass transit remained about the same, according to a Census Bureau analysis released yesterday.</p>
+        <p>Car poolers accounted for 15 percent or more of workers in just five cities; Phoenix and Mesa, Ariz.; Sacramento and Fresno, Calif.; and Honolulu. In Arizona and California, the higher numbers are attributable to immigrants going to work, census officials said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The share of commuters driving alone has increased slightly since 2000 while the proportion in car pools dropped, according to a Census Bureau analysis.</p>
+      </block>
+      <block class="full_text">
+        <p>Despite high gasoline prices, the share of commuters driving alone has increased slightly since 2000 while the proportion in car pools dropped and those using mass transit remained about the same, according to a Census Bureau analysis released yesterday.</p>
+        <p>Car poolers accounted for 15 percent or more of workers in just five cities; Phoenix and Mesa, Ariz.; Sacramento and Fresno, Calif.; and Honolulu. In Arizona and California, the higher numbers are attributable to immigrants going to work, census officials said.</p>
+        <p>Nationally, the share of people car pooling dipped, to 10.7 percent from 12.2 percent. Over all, people driving to work accounted for 88 percent of commuters. Those driving alone inched up to 77 percent, from 75.7 percent, with the highest proportions in the Midwest.</p>
+        <p>More than half of New York City commuters, nearly 55 percent, use mass transit, far more than in any other city. Washington ranked second, with 38 percent, followed by San Francisco, 33 percent; Boston, 32 percent; Philadelphia, 26 percent; and Chicago, 25 percent.</p>
+        <p>More people walk to work in Boston, 13 percent, than in any other big city. Portland, Ore., has the highest percentage of bicycle riders going to work, 3.5 percent.</p>
+        <p>After people who drive alone, car pool or use mass transit, the largest number of workers, 3.6 percent, do not commute at all. They work at home. San Francisco ranks first in that category, with 6.3 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

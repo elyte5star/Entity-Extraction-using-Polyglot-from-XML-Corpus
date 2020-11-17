@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PRIZES FOR ALL</title>
+    <meta content="10suits-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853311"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EFDD163FF933A25755C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PRIZES FOR ALL</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC DASH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bob Barker, the longtime host of ''The Price Is Right,'' recently taped his final episode of the game show. T. Paul Bulmahn, the chairman and president of ATP Oil and Gas, might make a fine candidate to replace him. Last year, Mr. Bulmahn had some practice giving away new cars, according to a recent proxy filing.</p>
+        <p>As part of what the filing called ''a unique incentive program,'' ATP's board agreed in December 2004 to give every employee -- that's 52 people, from receptionists to top managers -- a Volvo sedan if the company met certain long-term performance goals. When they hit their marks last April, everyone was handed car keys or $32,204, the value of the car. (Thirty-eight are now driving their bonus; the others took the cash.)</p>
+      </block>
+      <block class="full_text">
+        <p>Bob Barker, the longtime host of ''The Price Is Right,'' recently taped his final episode of the game show. T. Paul Bulmahn, the chairman and president of ATP Oil and Gas, might make a fine candidate to replace him. Last year, Mr. Bulmahn had some practice giving away new cars, according to a recent proxy filing.</p>
+        <p>As part of what the filing called ''a unique incentive program,'' ATP's board agreed in December 2004 to give every employee -- that's 52 people, from receptionists to top managers -- a Volvo sedan if the company met certain long-term performance goals. When they hit their marks last April, everyone was handed car keys or $32,204, the value of the car. (Thirty-eight are now driving their bonus; the others took the cash.)</p>
+        <p>There's more: ATP paid for all employees to take a three-day trip to Sweden to pick their prize up.</p>
+        <p>''My folks were just excited and this was something big to all of them,'' Mr. Bulmahn said.</p>
+        <p>ERIC DASH</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

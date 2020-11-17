@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Real Problem With Big Houses</title>
+    <meta content="l03conn-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852059"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Demolition</classifier>
+        <person class="indexing_service">Johnstone, Chauncey O</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Machinery and Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE7D91030F930A35755C0A9619C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Real Problem With Big Houses</hl1>
+      </hedline>
+      <abstract>
+        <p>Chauncey O Johnstone letter on May 20 article about tearing down older homes and replacing them with 'McMansions'</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Living Larger, and Drawing Fire'' (May 20):</p>
+        <p>I do not have a problem with people building larger homes on land that is of a sufficient size to tastefully accommodate them. But I do have a problem when an older house is torn down and a new ''mansion'' is built that takes advantage of the previously existing, and antiquated, property setbacks designed for the original smaller home.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Living Larger, and Drawing Fire'' (May 20):</p>
+        <p>I do not have a problem with people building larger homes on land that is of a sufficient size to tastefully accommodate them. But I do have a problem when an older house is torn down and a new ''mansion'' is built that takes advantage of the previously existing, and antiquated, property setbacks designed for the original smaller home.</p>
+        <p>In our case we are talking about one-acre lots, most of which have very attractive well-sited homes already on their properties. The size of these new ''mansions,'' however, not only eclipses the views in the neighborhoods, but also necessitates the tearing down of forest lands to allow for additional septic needs, and sometimes pools, further destroying the privacy and ambiance the surrounding neighbors bought for in the first place.</p>
+        <p>These new houses are in many cases five to six times the square footage of what was there before. To say nothing of the ''cubic footage.'' The towns had better step up and look at the angle of new roof lines to the setbacks, the destruction of screening woodland, the loss of neighborhood privacy and the need for property evaluations for those whose land and neighborhoods have been affected by these changes.</p>
+        <p>Chauncey O. Johnstone  Wilton</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deborah Swacker, Jeff Nussbaum</title>
+    <meta content="10swacker" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853627"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Swacker, Deborah Beth</person>
+        <person class="indexing_service">Nussbaum, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EED71F30F933A25755C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deborah Swacker, Jeff Nussbaum</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Deborah Beth Swacker, a lobbyist, and Jeff Nussbaum, a political speechwriter, are to be married today by Rabbi Joui Hessel at the Meridian House in Washington.</p>
+        <p>The bride, 30, graduated from the New School and is a vice president at the Downey McGrath Group, a government affairs and lobbying firm in Washington. From 2002 to 2004, she was a legislative aide in Washington for Senator Hillary Rodham Clinton.</p>
+      </block>
+      <block class="full_text">
+        <p>Deborah Beth Swacker, a lobbyist, and Jeff Nussbaum, a political speechwriter, are to be married today by Rabbi Joui Hessel at the Meridian House in Washington.</p>
+        <p>The bride, 30, graduated from the New School and is a vice president at the Downey McGrath Group, a government affairs and lobbying firm in Washington. From 2002 to 2004, she was a legislative aide in Washington for Senator Hillary Rodham Clinton.</p>
+        <p>She is a daughter of Sharon Swacker of Brooklyn and Robert B. Swacker of Manhattan. Her father is a history teacher at St. Ann's School in Brooklyn. Her mother is a librarian and a professor in the library department at New York City College of Technology in Brooklyn.</p>
+        <p>The bridegroom, 32, a graduate of Brown, is a principal in West Wing Writers, a speechwriting and strategy-consulting firm in Washington. He is a co-author of two books: ''Had Enough?'' (Simon &amp; Schuster, 2003), with James Carville, the political consultant, and ''Intelligence Matters'' (Random House, 2004), with Bob Graham, the Democrat who at the time was a senator from Florida.</p>
+        <p>He is the son of Rhoda K. Nussbaum and Dr. Samuel R. Nussbaum of Clayton, Mo. His mother is retiring this month as a supervisor of the speech pathology clinic at Fontbonne University in St. Louis. His father is an executive vice president and the chief medical officer at WellPoint, the health insurance firm in Indianapolis.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

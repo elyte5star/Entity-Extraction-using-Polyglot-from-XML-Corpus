@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="03corrections" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852027"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2DA1030F930A35755C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article today on Page 12 of the special Tony Awards section of Arts &amp; Leisure about indelible moments on Broadway omits, in some copies, several words in the first two paragraphs of an item on ''The Coast of Utopia.'' The passage should read:</p>
+        <p>As the second act opened of ''Voyage,'' the beginning of Tom Stoppard's trilogy, ''The Coast of Utopia,'' the season's most visually sublime moment came into full view. We were in Moscow now, in March of 1834, having left the idyll of Premukhino, the Bakunin family estate, a place of long meals, pastoral languor.</p>
+        <p>'' 'For happiness, apparently, something of the real world is necessary,' '' Ivan Turgenev had told us in the previous scene, quoting another character. And now indeed we were in the world, in a city full of bustle and fervor.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article today on Page 12 of the special Tony Awards section of Arts &amp; Leisure about indelible moments on Broadway omits, in some copies, several words in the first two paragraphs of an item on ''The Coast of Utopia.'' The passage should read:</p>
+        <p>As the second act opened of ''Voyage,'' the beginning of Tom Stoppard's trilogy, ''The Coast of Utopia,'' the season's most visually sublime moment came into full view. We were in Moscow now, in March of 1834, having left the idyll of Premukhino, the Bakunin family estate, a place of long meals, pastoral languor.</p>
+        <p>'' 'For happiness, apparently, something of the real world is necessary,' '' Ivan Turgenev had told us in the previous scene, quoting another character. And now indeed we were in the world, in a city full of bustle and fervor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

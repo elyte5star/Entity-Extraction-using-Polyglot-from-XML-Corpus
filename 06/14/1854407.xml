@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>N.B.A. Players To Combat Hunger</title>
+    <meta content="14players" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/sports/basketball/14players.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854407"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Kenya</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Kenya</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <location class="online_producer">Kenya</location>
+        <org class="online_producer">National Basketball Assn</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE1D9143FF937A25755C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>N.B.A. Players To Combat Hunger</hl1>
+        <hl2 class="online_headline">N.B.A. Players to Combat Hunger</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The National Basketball Players Association yesterday announced its initiative to feed one million people in Kenya, through its formal partnership with the organization Feed the Children.</p>
+        <p>The executive director of the players union, Billy Hunter, said at a news conference in Cleveland that members of the union would travel in July to distribute 11 million pounds of rice to drought-stricken communities and schools in Nairobi.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The National Basketball Players Association Wednesday announced its initiative to feed one million people in Kenya, through its formal partnership with the organization Feed the Children.</p>
+      </block>
+      <block class="full_text">
+        <p>The National Basketball Players Association yesterday announced its initiative to feed one million people in Kenya, through its formal partnership with the organization Feed the Children.</p>
+        <p>The executive director of the players union, Billy Hunter, said at a news conference in Cleveland that members of the union would travel in July to distribute 11 million pounds of rice to drought-stricken communities and schools in Nairobi.</p>
+        <p>''We feel that as our game continues to grow globally, that we have a responsibility to those communities, similar to the communities that we play and reside in now,'' said Derek Fisher, the president of the players union and a point guard for the Utah Jazz.</p>
+        <p>''When you think about the possibility of being able to feed a million people and the fact that a million people need to be fed is truly amazing. We feel great to be able to have a small part in hopefully changing their lives and having an impact on the world.''</p>
+        <p>PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

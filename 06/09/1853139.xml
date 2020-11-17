@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tapping Global Talent In Software</title>
+    <meta content="09interview" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/technology/09interview.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853139"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SATURDAY INTERVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <org class="indexing_service">Sap Ag</org>
+        <org class="indexing_service">Oracle Corp</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Salesforce.com</org>
+        <person class="indexing_service">Kagermann, Henning</person>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <location class="online_producer">Germany</location>
+        <org class="online_producer">SAP AG</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DE163FF93AA35755C0A9619C8B63" item-length="760" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tapping Global Talent In Software</hl1>
+        <hl2 class="online_headline">Tapping Global Talent in Software</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>Tapping Global TaA</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Henning Kagermann, 59, chief executive of SAP, the big German software company, is guiding two transformations. The first is the increasing globalization of the engineering work at the company, which traditionally handled technical development at its home in Walldorf. The second is the continuing opening up of SAP's technology itself in response to the rise of the Internet and the growing popularity of Web-based computing. Both trends are affecting all large technology companies today. Yet the shifts seem particularly notable at SAP.</p>
+        <p>The company is the world leader in the business applications software that corporations use to automate operations, including finance, manufacturing, human resources and managing customer relations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Globalization and technical transitions have not always gone smoothly for SAP, a big German software company.</p>
+      </block>
+      <block class="full_text">
+        <p>Henning Kagermann, 59, chief executive of SAP, the big German software company, is guiding two transformations. The first is the increasing globalization of the engineering work at the company, which traditionally handled technical development at its home in Walldorf. The second is the continuing opening up of SAP's technology itself in response to the rise of the Internet and the growing popularity of Web-based computing. Both trends are affecting all large technology companies today. Yet the shifts seem particularly notable at SAP.</p>
+        <p>The company is the world leader in the business applications software that corporations use to automate operations, including finance, manufacturing, human resources and managing customer relations.</p>
+        <p>In the past, SAP's software was its own self-contained environment, with programs written in a homegrown programming language. But in recent years, SAP has moved to adopt the open standards of Internet computing. It also faces increasing competition mainly from Oracle, but also from Microsoft and Web-based rivals like Salesforce.com. The globalization and technical transitions have not always gone smoothly.</p>
+        <p>Mr. Kagermann discussed these trends on a recent visit to New York. Following are excerpts:</p>
+        <p>Q. How much has your engineering work moved outside Germany, and where are you doing it?</p>
+        <p>A. A decade or so ago, we did nearly 100 percent in Germany. Now, it's two-thirds in Germany and one-third outside. Palo Alto was the first, and we now have about 1,400 engineers in Silicon Valley. Today, we have about 3,000 engineers in India, about 1,000 in China and 900 in Israel. There are other engineering centers around the world, but those are the big four.</p>
+        <p>Q. Why did you necessarily have to globalize your work?</p>
+        <p>A. There really is no alternative, for two reasons. It's foolish to believe today that the smartest people are in one nation. The second is sourcing, at least if you are a big company. If you are smaller, and have a team of 100 or 200 engineers you can stay in one country and try to attract the best guys. But if you are a big company, you need to tap into the global talent pool. In Germany, we now have this big public debate about there being a shortage of engineers in the country. Well, I don't care, or at least not as the chief executive of SAP.</p>
+        <p>Q. How does the global division of labor work? For example, what stays in Germany?</p>
+        <p>A. If it comes to deep application integration, we go to Germany. It's where we have many people with deep knowledge of finance, manufacturing, human relations -- those kinds of things, and knowledge of those functions in specific industries, the domain specific knowledge. That kind of deep knowledge is essential to platform work, designing the basic architecture of the core product.</p>
+        <p>Q. How about Silicon Valley?</p>
+        <p>A. In Palo Alto, we leverage the kind of innovation and creativity that is in Silicon Valley. It's a place where a lot of new companies and technologies pop up and you can more easily integrate those new things into your thinking and your products. A lot of the Internet work has been done there, the technologies that open our products to others.</p>
+        <p>Q. And India?</p>
+        <p>A. India is mixed. But we do a lot of implementation of the design work in India. Our intent was to go there for the large talent pool. But we've been in Bangalore for seven years and we've grown somewhat gradually there. You cannot go in and hire 2,000 in a year and believe they are going to be ready to develop high-quality integrated software applications.</p>
+        <p>Q. Shai Agassi, the head of product development who was based in Silicon Valley and who was seen as a front-runner to be the next chief executive, quit earlier this year. What are the chances that the next chief executive will not be a German?</p>
+        <p>A. Pretty high. The company's executive council -- the senior management team -- is about half and half. We have Americans and Europeans from outside Germany. What we don't have yet are Asians, and we have to work on that.</p>
+        <p>Q. What impact has Web-based technology had on your products and how your customers use them?</p>
+        <p>A. It gives companies real flexibility. It allows some pieces of software in a business to talk to other pieces of software, both inside a company and outside with a company's business partners. It's the technological part of these global business networks that are proliferating.</p>
+        <p>SATURDAY INTERVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

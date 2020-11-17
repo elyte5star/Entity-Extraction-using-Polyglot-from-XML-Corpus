@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Import British and Blue</title>
+    <meta content="02stew" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/arts/television/02stew.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851409"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">BBC America</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5D71330F931A35755C0A9619C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Import British and Blue</hl1>
+        <hl2 class="online_headline">An Import British and Blue</hl2>
+      </hedline>
+      <byline class="print_byline">By SUSAN STEWART</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If the recent departures of Don Imus and Rosie O'Donnell have you worried that the airwaves are no longer safe for rudeness, you'll be buoyed by ''The Graham Norton Show.'' This giggly British import, which makes its United States debut on BBC America tonight, is rude, blue, cruel and often hilarious.</p>
+        <p>In its first five minutes the host, Mr. Norton, makes a joke about Britney Spears's vagina -- and shows us a picture of it. The joke is funny, the picture all too familiar. (It was probably less familiar when this episode was originally broadcast, in Britain in February.) Now that it's open season on hard-living starlets, the gambit doesn't even seem unusually mean.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you're worried that the airwaves are no longer safe for rudeness, you’ll be buoyed by “The Graham Norton Show.”</p>
+      </block>
+      <block class="full_text">
+        <p>If the recent departures of Don Imus and Rosie O'Donnell have you worried that the airwaves are no longer safe for rudeness, you'll be buoyed by ''The Graham Norton Show.'' This giggly British import, which makes its United States debut on BBC America tonight, is rude, blue, cruel and often hilarious.</p>
+        <p>In its first five minutes the host, Mr. Norton, makes a joke about Britney Spears's vagina -- and shows us a picture of it. The joke is funny, the picture all too familiar. (It was probably less familiar when this episode was originally broadcast, in Britain in February.) Now that it's open season on hard-living starlets, the gambit doesn't even seem unusually mean.</p>
+        <p>Mr. Norton is a well-known comedian and television host in Britain, and a veteran of the classic chat-show formula: celebrity guests, musical acts and silly segments involving real people. He knows how to get every bit of mileage out of a topic without appearing to worry it to death. His first guest is Kim Cattrall, who once played Ms. Spears's mother in a movie, and has written two books about sex. Thus, Mr. Norton implies, she is doubly qualified to comment on Ms. Spears's ambivalence toward underwear.</p>
+        <p>''The no-knickers thing,'' Mr. Norton asks Ms. Cattrall, ''is that common? I mean, it's very common ''</p>
+        <p>Ms. Cattrall posits that it's about ''ventilation.''</p>
+        <p>Onto the next topic: the rumor that the actor Ralph Fiennes shared an intimate moment with a flight attendant at 35,000 feet.</p>
+        <p>Mr. Norton's other guest is Elijah Wood, who starred as the heroic hobbit in the ''Lord of the Rings'' trilogy.</p>
+        <p>The host asks Mr. Wood about ''hobbit sex,'' to which Mr. Wood replies, ''They're earthly folk.''</p>
+        <p>This works because Mr. Norton is funny. He's also Irish and openly gay, attributes that give him license to be provocative. As he gulps white wine and leans against a cluster of naked Barbie dolls (the décor here is as self-consciously naughty as the dialogue), mocking a young man for his kissing technique one minute, making fun of a donkey the next, you have to wonder: If Rosie O'Donnell had a different accent, would she still be on ''The View''?</p>
+        <p>The Graham Norton Show  BBC America, tonight at 10, Eastern and Pacific times; 9, Central Time.</p>
+        <p>A BBC America/So Television co-production.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

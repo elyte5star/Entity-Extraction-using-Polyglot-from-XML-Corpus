@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Competing As Software Goes to Web</title>
+    <meta content="05compute" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/05compute.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070606T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852388"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Software</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Apple Inc</org>
+        <org class="indexing_service">Google Inc</org>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Sinofsky, Steven</person>
+        <person class="indexing_service">Serlet, Bertrand</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Apple Inc</org>
+        <org class="online_producer">Microsoft Corp</org>
+        <person class="online_producer">Sinofsky, Steven</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E7D81130F936A35755C0A9619C8B63" item-length="1482" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Competing As Software Goes to Web</hl1>
+        <hl2 class="online_headline">Competing as Software Goes to Web</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF; Daniel D. Turner contributed reporting.</byline>
+      <dateline>SAN FRANCISCO, June 4</dateline>
+      <abstract>
+        <p>Technology experts contend that operating systems like Microsoft's Windows Vista and Apple's Max OS X Leopard will be replaced by collection of Web-based software services accessible by variety of devices; Google, Yahoo and and smaller start-up companies are expected to be at forefront of next wave of computing while products from traditional software companies increasingly reflect Internet's influence; software engineers Steven Sinofsky of Microsoft and Bertrand Serlet at Apple lead efforts; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Can two bitter rivals save the desktop operating system?</p>
+        <p>In the battle between Apple and Microsoft, Bertrand Serlet and Steven Sinofsky are the field generals in charge of competing efforts to ensure that the PC's basic software stays relevant in an increasingly Web-centered world.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the battle between Apple and Microsoft, two men are in charge of competing efforts to ensure that the PC’s basic software stays relevant in a Web-centered world.</p>
+      </block>
+      <block class="full_text">
+        <p>Can two bitter rivals save the desktop operating system?</p>
+        <p>In the battle between Apple and Microsoft, Bertrand Serlet and Steven Sinofsky are the field generals in charge of competing efforts to ensure that the PC's basic software stays relevant in an increasingly Web-centered world.</p>
+        <p>The two men are marshaling their software engineers for the next encounter, sometime in 2009, when a new generation of Macintosh and Windows operating systems is due. Their challenge will be to avoid refighting the last war -- and to prevent finding themselves outflanked by new competitors.</p>
+        <p>Many technologists contend that the increasingly ponderous PC-bound operating systems that currently power 750 million computers, products like Microsoft's Windows Vista and Apple's soon-to-be-released Mac OS X Leopard, will fade in importance.</p>
+        <p>In this view, software will be a modular collection of Web-based services -- accessible by an array of hand-held consumer devices and computers -- and will be designed by companies like Google and Yahoo and quick-moving start-ups.</p>
+        <p>''The center of gravity and the center of innovation has moved to the Web, where it used to be the PC desktop,'' said Nova Spivak, chief executive and founder of Radar Networks, which is developing a Web service for storing and organizing information.</p>
+        <p>Faced with that changing dynamic, Apple and Microsoft are expected to develop operating systems that will increasingly reflect the influence of the Web. And if their valuable turf can be preserved, it will largely reflect the work of Mr. Serlet and Mr. Sinofsky, veteran software engineers with similar challenges but contrasting management styles.</p>
+        <p>Their rivalry took a personal tone last summer when Mr. Serlet publicly poked fun at Windows Vista by highlighting features that seemed derivative of Apple's OS X.</p>
+        <p>''We hung in the hallways of the conference a big banner that said, 'Redmond, start your photocopiers,' '' he said, recalling an event the year before. ''It was all a joke, but they actually took us seriously.''</p>
+        <p>One software developer who has worked at both companies -- and asked not to be identified because he still consults for Microsoft -- compared the two men's approaches to the difference between martial marching band music and jazz.</p>
+        <p>Mr. Sinofsky's approach, he said, is meticulously planned out from the beginning, with a tight focus on meeting deadlines -- a crucial objective after the delay-plagued Vista project -- but with little room for flexibility. In contrast, the atmosphere inside Apple's software engineering ranks has been much more improvisational.</p>
+        <p>Mr. Serlet, a French computer scientist who was drawn to Silicon Valley two decades ago, has developed a loyal following among Apple's rank-and-file programmers. He has a quirky personality, according to several members of his team, and takes a certain amount of teasing inside the company.</p>
+        <p>''Bertrand Serlet likes the process to be a little chaotic,'' said one Apple programmer, who insisted he not be identified because of company restrictions on public statements by employees. ''There's a strong dependence on people making the right judgment calls the first time.''</p>
+        <p>Mr. Serlet and Mr. Sinofsky said they were too busy to give interviews.</p>
+        <p>Mr. Sinofsky, 41, who joined Microsoft in 1989, is the senior vice president for the Windows and Windows Live engineering group, a position he assumed a year ago after running the company's Office team of programmers. Mr. Serlet, 46, Apple's senior vice president for software engineering, left Xerox's fabled Palo Alto Research Center to join Steven P. Jobs at Next Software in the late 1980s and has headed software development at Apple since 2003.</p>
+        <p>Both men are the best of a technical elite. ''Bertrand is wicked smart,'' said Dan'l Lewin, a Microsoft corporate vice president who worked with Mr. Serlet at Next. ''He was one of the bright lights.''</p>
+        <p>Mr. Lewin now works with Mr. Sinofsky, who he said had brought needed discipline to the company's largest development project. ''His ability is in understanding the end-to-end process and architecture and knowing every nook -- it's amazing,'' Mr. Lewin said.</p>
+        <p>People who know both men say that their contrasting management styles play out in the organization of the armies of software developers that are necessary to design complex operating systems.</p>
+        <p>''Under Sinofsky, the culture is, you plan and stick to the plan,'' said Steven Capps, a former Apple and Microsoft programmer who has designed operating systems at both companies. ''At Apple you see what you've got.''</p>
+        <p>The potential risk in the Microsoft approach, he said, is that ''they're like the test pilots who won't pull up when they see the tarmac.''</p>
+        <p>As a technical assistant to Bill Gates, Microsoft's chairman, in 1994, Mr. Sinofsky was one of the Microsoft employees who alerted Mr. Gates to the Internet challenge, after seeing students using the Web at his alma mater, Cornell University.</p>
+        <p>Now in charge of the company's most important development project, Mr. Sinofsky has proved to be far more secretive than his predecessor, Jim Allchin, who retired from Microsoft this year. Shortly after the consumer release of Vista in January, the company took the unusual step of issuing a statement saying that it had nothing to say about its plans for future operating systems.</p>
+        <p>After struggling for more than half a decade with Vista, its most ambitious development project ever, Microsoft has begun work on a reportedly less ambitious successor under Mr. Sinofsky's leadership. The new operating system effort has in the past been referred to alternately as Vienna and Windows 7.</p>
+        <p>Microsoft is trying again to reconcile the PC operating system with the Internet. It calls the new strategy Windows Live, an effort to leverage its desktop monopoly onto the Web. That effort can be seen in Mr. Sinofsky's dual role. He is in charge of development for both the next version of the Windows operating system and the new Internet services.</p>
+        <p>The company has hinted recently that Mr. Sinofsky's team may be trying to keep the PC operating system relevant by redesigning it to take full advantage of next-generation processing chips from Intel and Advanced Micro Devices that will have dozens of internal processors.</p>
+        <p>The company's chief executive, Steven A. Ballmer, refers to the new approach as ''integrated innovation.'' But it is less clear yet whether Mr. Sinofsky will have the agility to respond to what is being called an era of ''loosely coupled innovation'' -- an agility that has been the hallmark of nimble Web services developers.</p>
+        <p>Small groups of programmers have been using the Internet to introduce services far quicker than the slow-moving operating systems projects have been able to respond.</p>
+        <p>''The challenge for Steve is to get Windows in that mode,'' said Michael A. Cusumano, a professor of management at the Sloan School of Management of the Massachusetts Institute of Technology. In the future, he added, Windows will most likely be broken into ''smaller pieces released more frequently or put up as a Web service.''</p>
+        <p>That will mean that the era of big software releases may have come to an end.</p>
+        <p>''I think that you won't think about big new releases in the future,'' said John Seely Brown, the former director of the Palo Alto Research Center. ''You really want to be able to make lots of incremental improvements in ways that things just get better and better.''</p>
+        <p>The rise of the Web presents similar challenges for Apple. While the company has been extremely successful with iTunes, its online audio and video service, efforts like .Mac, a suite of Web-based applications that was intended to be an integrated part of the Mac OS X operating system, have lain fallow for several years.</p>
+        <p>Now Mr. Serlet's programmers are planning to integrate Apple's consumer products and its personal computers more closely with the Internet, according to several people briefed on the company's plans. Indeed last week, at an industry conference, Mr. Jobs said that an infusion of Web services for Macintosh users was imminent.</p>
+        <p>Apple is expected to add a networking capability to its next-generation iPod music players. In addition, the software for its next big product, the iPhone, is based on the core of OS X, the operating system for the Macintosh. The approach further blurs the line between the computer and other devices -- as well the distinction between the device and the Internet as the place where programs and data reside.</p>
+        <p>That shift is likely to be the distinctive feature of both companies' operating- system efforts.</p>
+        <p>''It's a very important, longer-term trend of incremental innovation,'' said David B. Yoffie, a professor at the Harvard Business School. Software will be ''increasingly componentized and offered over the Web.''</p>
+        <p>Still, there are those in the industry who believe that the very nature of software will assure both Mr. Sinofsky and Mr. Serlet comfortable careers for the foreseeable future.</p>
+        <p>''Software is like the tax code,'' said Jean-Louis Gassée, a venture capitalist and a former Apple executive, who in the 1990s developed an operating system called Be. ''You add lines, but you never take anything away.''</p>
+        <p>Correction:  June 6, 2007, Wednesday  An article in Business Day yesterday about efforts by Microsoft and Apple to develop their next operating systems misspelled the surname of a technology executive who commented on the migration of computer functions to the Web. He is Nova Spivack, not Spivak.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 6, 2007, Wednesday</p>
+        <p>An article in Business Day yesterday about efforts by Microsoft and Apple to develop their next operating systems misspelled the surname of a technology executive who commented on the migration of computer functions to the Web. He is Nova Spivack, not Spivak.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

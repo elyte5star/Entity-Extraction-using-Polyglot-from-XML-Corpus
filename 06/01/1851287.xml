@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knowledgeable Furniture</title>
+    <meta content="01fri4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/opinion/01fri4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851287"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Virtual Reality (Computers)</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Virtual Reality (Computers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <location class="online_producer">Las Vegas (Nev)</location>
+        <org class="online_producer">Microsoft Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFD91530F932A35755C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knowledgeable Furniture</hl1>
+        <hl2 class="online_headline">Knowledgeable Furniture</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial discusses uncanny 'interactive virtual concierge' by Microsoft, 30-inch computer screen that will allow virtual objects on computer's surface to be manipulated as if they are actual objects</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When we try to picture Microsoft's new ''interactive virtual concierge'' what comes to mind is Sonny -- the robot-hero of the movie ''I, Robot.'' We can almost hear him saying, in a voice practically weeping with patience, that alas the stairway up the Statue of Liberty has been closed to visitors since 9/11 and will remain closed indefinitely. But the concierge Microsoft means is something less anthropomorphic than Sonny. It is, in essence, a 30-inch computer touch screen in coffee-table format -- called Surface -- and it is likely to be deployed first in Las Vegas casinos for visitors who already believe they can communicate with slot machines.</p>
+        <p>According to Microsoft's press release, surface computing means something more than a horizontal computer screen to be stared down at as if it were a Ouija board. It means being able to manipulate virtual objects on the computer's surface as if they were actual objects, without the use of a mouse or a keyboard and with a more imaginative interface than the touch screen at the A.T.M. Surface will be able, we are told, to recognize objects placed upon it, which could make this the first coffee table able to tell you to get a coaster for that drink.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The idea of a two-dimensional screen recognizing three-dimensional objects that come in contact with it is a little uncanny.</p>
+      </block>
+      <block class="full_text">
+        <p>When we try to picture Microsoft's new ''interactive virtual concierge'' what comes to mind is Sonny -- the robot-hero of the movie ''I, Robot.'' We can almost hear him saying, in a voice practically weeping with patience, that alas the stairway up the Statue of Liberty has been closed to visitors since 9/11 and will remain closed indefinitely. But the concierge Microsoft means is something less anthropomorphic than Sonny. It is, in essence, a 30-inch computer touch screen in coffee-table format -- called Surface -- and it is likely to be deployed first in Las Vegas casinos for visitors who already believe they can communicate with slot machines.</p>
+        <p>According to Microsoft's press release, surface computing means something more than a horizontal computer screen to be stared down at as if it were a Ouija board. It means being able to manipulate virtual objects on the computer's surface as if they were actual objects, without the use of a mouse or a keyboard and with a more imaginative interface than the touch screen at the A.T.M. Surface will be able, we are told, to recognize objects placed upon it, which could make this the first coffee table able to tell you to get a coaster for that drink.</p>
+        <p>There is nothing inherently strange or groundbreaking about flatness or horizontality or touch as an input device or even the illusion of actuality in the objects that appear on a computer screen. After all, we've been dragging and dropping for years, not to mention pretending that files are, well, files. What is a little uncanny is the idea of a two-dimensional screen recognizing three-dimensional objects that come in contact with it, though for the moment these are likely to be cellphones or P.D.A.'s, which seem themselves to be on the verge of becoming sentient. Perhaps only when Surface becomes widespread will it be clear what the keyboard and the mouse are really for: to keep your fingerprints off the screen.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

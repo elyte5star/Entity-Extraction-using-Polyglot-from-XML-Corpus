@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>First Chickens In Americas Were Brought From Polynesia</title>
+    <meta content="05chic" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/science/05chic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852248"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Poultry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poultry</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDC1130F936A35755C0A9619C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>First Chickens In Americas Were Brought From Polynesia</hl1>
+        <hl2 class="online_headline">First Chickens in Americas Were Brought From Polynesia</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Why did the chicken cross the Pacific Ocean? To get to the other side, in South America. How? By Polynesian canoes, which apparently arrived at least 100 years before Europeans settled the continent.</p>
+        <p>That is the conclusion of an international research team, which reported yesterday that it had found ''the first unequivocal evidence for a pre-European introduction of chickens to South America,'' or presumably anywhere in the New World.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests that chickens were brought to South America at least 100 years before Europeans settled the continent.</p>
+      </block>
+      <block class="full_text">
+        <p>Why did the chicken cross the Pacific Ocean? To get to the other side, in South America. How? By Polynesian canoes, which apparently arrived at least 100 years before Europeans settled the continent.</p>
+        <p>That is the conclusion of an international research team, which reported yesterday that it had found ''the first unequivocal evidence for a pre-European introduction of chickens to South America,'' or presumably anywhere in the New World.</p>
+        <p>The researchers said that bones buried on the South American coast were from chickens that lived between 1304 and 1424. Pottery at the site was from a similar or earlier time. A DNA analysis linked the bones, which were excavated at El Arenal on the Arauco Peninsula in south central Chile, to chickens from Polynesian islands.</p>
+        <p>The findings are being published in the Proceedings of the National Academy of Sciences. The lead author is Alice A. Storey, an anthropologist at the University of Auckland, New Zealand, and other team members are from American Samoa, Australia, Canada and the United States.</p>
+        <p>The research group and other anthropologists said the bones supported the idea that Polynesians in their far-ranging canoes had by then not only populated the Pacific as far east as Hawaii and Easter Island, but also had on occasion reached the Americas.</p>
+        <p>The presence of the South American sweet potato in pre-European sites in Polynesia indicated some prehistoric contact between America and the islands.</p>
+        <p>But Dr. Storey's group said that no firm ''archaeological evidence for Polynesian contact with the Americas has been reported before now.''</p>
+        <p>For more than 30 years, scholars have debated when and how chickens reached the Americas: whether in pre-Columbian times, possibly by Polynesian visitors, or when Portuguese and Spanish settlers arrived in South America after 1500. Most experts had favored the latter hypothesis.</p>
+        <p>Others thought this unlikely, noting that when the Spanish invaded Peru in 1532, they saw chickens being used in traditional ceremonies. It seemed hard to believe, some scholars pointed out, that chickens would have been so rapidly dispersed from the east coast to the west and already be incorporated in religious events.</p>
+        <p>From the DNA examination, Dr. Storey and colleagues concluded, the El Arenal bones had a close genetic relationship to chickens from prehistoric sites on several islands, Tonga and American Samoa in particular. Further analysis of prehistoric chicken samples from the islands is expected to discern the specific origin and timing of the Chilean chickens.</p>
+        <p>Scholars found it disappointing and puzzling that the Polynesians who landed at El Arenal left nothing more than chicken bones. Pottery at the site is in a local style. Perhaps the visitors ate and ran, but not without leaving behind some starter chickens for future plates of arroz con pollo.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

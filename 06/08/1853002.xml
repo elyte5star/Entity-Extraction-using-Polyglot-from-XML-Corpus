@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Zoe Strauss</title>
+    <meta content="08gall-4" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853002"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EFDA1F30F93BA35755C0A9619C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Zoe Strauss</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If You Reading This  Silverstein Photography  535 West 24th Street, Chelsea  Through June 23</p>
+        <p>The work of Zoe Strauss, a Philadelphia photographer, installation artist and community advocate, stood out in the last Whitney Biennial and is equally impressive in her first New York solo show. It includes nearly 50 color prints and the latest version of ''I-95,'' the continually changing slide show started in 2001 that was in the biennial.</p>
+      </block>
+      <block class="full_text">
+        <p>If You Reading This  Silverstein Photography  535 West 24th Street, Chelsea  Through June 23</p>
+        <p>The work of Zoe Strauss, a Philadelphia photographer, installation artist and community advocate, stood out in the last Whitney Biennial and is equally impressive in her first New York solo show. It includes nearly 50 color prints and the latest version of ''I-95,'' the continually changing slide show started in 2001 that was in the biennial.</p>
+        <p>Stylistically, her images of down-and-out people, many of them her neighbors, and derelict places suggest a gritty street photographer with a certain awareness of Nan Goldin's work. But Ms. Strauss, who is self-taught, veers more toward Helen Levitt in both her refusal to sentimentalize or exploit her subjects and in her instinctive grasp of the drama of the street.</p>
+        <p>A picture of a teenage boy caught mid-flip over a stack of discarded mattresses, in particular, echoes Ms. Levitt's reflex for antic action, if more viscerally. The boy seems to be plunging straight into the middle of the image from the top edge; you almost hope that someone is holding him by his ankles.</p>
+        <p>Slower, stiller images are more characteristic: a man sitting in a drab interior proffers a revolver; various women display bruises, tattoos or scars. A woman inhales crack; a transvestite squints into the sun and exhales smoke.</p>
+        <p>Ms. Strauss's images are not without tenderness, but their harsh, unblinking force is a bit like a punch in the face. They show us what most Americans don't want to see.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

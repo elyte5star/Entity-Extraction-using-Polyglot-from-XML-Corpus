@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paperback Row</title>
+    <meta content="PaperRow.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="56" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/books/review/0603bb-paperback.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851624"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EED61630F930A35755C0A9619C8B63" item-length="786" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paperback Row</hl1>
+        <hl2 class="online_headline">Paperback Row</hl2>
+      </hedline>
+      <byline class="print_byline">By Ihsan Taylor</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAYFLOWER: A Story of Courage, Community, and War, by Nathaniel Philbrick. (Penguin, $16.) This absorbing history recreates the Pilgrims' perilous 1620 voyage, the founding of the Plymouth Colony and its first contacts with the native inhabitants of Massachusetts. Philbrick, the author of the National Book Award-winning ''In the Heart of the Sea,'' finds striking parallels between past and present, particularly the way Plymouth's leaders, including Miles Standish, rejected diplomatic overtures toward the Indians and instead pursued a policy of violent aggression that led to the needless bloodshed of King Philip's War. The Book Review named ''Mayflower'' one of the 10 best books of 2006; our reviewer, Russell Shorto, called it a ''vivid and remarkably fresh retelling.''</p>
+        <p>DISTRICT AND CIRCLE, by Seamus Heaney. (Farrar, Straus &amp; Giroux, $13.) Heaney, the Irish poet and Nobel laureate, has a home, both geographical and literary. Time and again, these poems recall the fields and bogs of the Irish countryside, and they're rendered in a blunt, often remote vocabulary that borrows from both local dialect and Anglo-Saxon roots. '' 'District and Circle' brims with lovely evocations, reconstructions, restorations,'' Brad Leithauser wrote here.</p>
+        <p>ADVERBS, by Daniel Handler. (Ecco/Harper Perennial, $13.95.) Handler is best known to readers as Lemony Snicket, the author of the ''Series of Unfortunate Events'' line of Gothic children's books. His third book for grown-ups brings together offbeat, thematically linked tales about love, mostly unhappy. Each chapter is named for an adverb, from ''Immediately'' to ''Judgmentally.'' In the Book Review, James Poniewozik said, ''Handler's killer hook is his gymnastic prose, which makes the mundane surprising.''</p>
+        <p>CLEMENTE: The Passion and Grace of Baseball's Lost Hero, by David Maraniss. (Simon &amp; Schuster, $15.) By the time Roberto Clemente's DC-7 crashed on Dec. 31, 1972 -- the plane was carrying relief supplies to earthquake survivors in Nicaragua -- this Puerto Rico-born right fielder for the Pittsburgh Pirates had amassed exactly 3,000 hits and played in two World Series. Maraniss, a Pulitzer Prize winner whose previous subjects have included Vince Lombardi and Bill Clinton, charts Clemente's rise as baseball's first Latino superstar. ''In life,'' Maraniss writes, ''he was a work of art; in death he has become a cultural icon.'' THE BIG BAM: The Life and Times of Babe Ruth, by Leigh Montville. (Broadway, $15.95.) Montville, a former writer for Sports Illustrated and the author of a biography of Ted Williams, updates the endlessly fascinating story of baseball's first outsize personality (1895-1948), who was a great pitcher before he became a legendary slugger.</p>
+        <p>RISE AND SHINE, by Anna Quindlen. (Random House, $14.95.) Quindlen explores fame, shame and family dynamics in this nuanced story of two New York sisters -- Bridget, a social worker in the Bronx, and Meghan, the host of a popular morning television show. After an on-air gaffe drives Meghan into hiding, Bridget is left to pick up the pieces of her sister's abandoned life.</p>
+        <p>UNCOMMON CARRIERS, by John McPhee. (Farrar, Straus &amp; Giroux, $14.) These artfully reported stories feature on-the-job portraits of people who drive big transport machines. The book begins and ends with trucking as McPhee recalls a pair of journeys he took with a hazardous-materials hauler. ''If the human race survives another century or two,'' our reviewer, Adam Hochschild, wrote, ''McPhee's work will provide an invaluable record of how those primitive people ... treasured their bygone crafts.''</p>
+        <p>SPECIAL TOPICS IN CALAMITY PHYSICS, by Marisha Pessl. (Penguin, $15.) One of the Book Review's 10 best books last year, this shrewdly playful first novel tells the story of a precocious teenager, Blue van Meer, and a charismatic teacher whose mysterious death is announced on the first page. The motherless Blue spent most of her life with her father, an enigmatic itinerant professor, discussing everything from Homer to tell-all biographies of Louis B. Mayer and Howard Hughes. Each chapter is figuratively linked by its title to a well-known work of literature, from ''Othello'' to ''Deliverance,'' and the plot snakes toward a revelation capped by a clever ''final exam.'' Our reviewer, Liesl Schillinger, called ''Special Topics'' an ''exhilarating synthesis of the classic and the modern,'' and added, ''This skylarking book will leave readers salivating for more.''</p>
+        <p>THE PRINCE OF THE MARSHES: And Other Occupational Hazards of a Year in Iraq, by Rory Stewart. (Harvest/Harcourt, $15.) In 2003, Stewart, an adventurous 30-year-old Scot and former diplomat, was installed as chief administrator of the southern Iraqi province of Maysan. This is a rueful account of his yearlong effort to placate the various local factions and build a new civil society. (Stewart also wrote ''The Places in Between,'' a richly detailed travel book about the Afghan portion of his 20-month walk, in 2000, from Turkey to Bangladesh.)</p>
+        <p>Ihsan Taylor</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Paperback books of particular interest.</p>
+      </block>
+      <block class="full_text">
+        <p>MAYFLOWER: A Story of Courage, Community, and War, by Nathaniel Philbrick. (Penguin, $16.) This absorbing history recreates the Pilgrims' perilous 1620 voyage, the founding of the Plymouth Colony and its first contacts with the native inhabitants of Massachusetts. Philbrick, the author of the National Book Award-winning ''In the Heart of the Sea,'' finds striking parallels between past and present, particularly the way Plymouth's leaders, including Miles Standish, rejected diplomatic overtures toward the Indians and instead pursued a policy of violent aggression that led to the needless bloodshed of King Philip's War. The Book Review named ''Mayflower'' one of the 10 best books of 2006; our reviewer, Russell Shorto, called it a ''vivid and remarkably fresh retelling.''</p>
+        <p>DISTRICT AND CIRCLE, by Seamus Heaney. (Farrar, Straus &amp; Giroux, $13.) Heaney, the Irish poet and Nobel laureate, has a home, both geographical and literary. Time and again, these poems recall the fields and bogs of the Irish countryside, and they're rendered in a blunt, often remote vocabulary that borrows from both local dialect and Anglo-Saxon roots. '' 'District and Circle' brims with lovely evocations, reconstructions, restorations,'' Brad Leithauser wrote here.</p>
+        <p>ADVERBS, by Daniel Handler. (Ecco/Harper Perennial, $13.95.) Handler is best known to readers as Lemony Snicket, the author of the ''Series of Unfortunate Events'' line of Gothic children's books. His third book for grown-ups brings together offbeat, thematically linked tales about love, mostly unhappy. Each chapter is named for an adverb, from ''Immediately'' to ''Judgmentally.'' In the Book Review, James Poniewozik said, ''Handler's killer hook is his gymnastic prose, which makes the mundane surprising.''</p>
+        <p>CLEMENTE: The Passion and Grace of Baseball's Lost Hero, by David Maraniss. (Simon &amp; Schuster, $15.) By the time Roberto Clemente's DC-7 crashed on Dec. 31, 1972 -- the plane was carrying relief supplies to earthquake survivors in Nicaragua -- this Puerto Rico-born right fielder for the Pittsburgh Pirates had amassed exactly 3,000 hits and played in two World Series. Maraniss, a Pulitzer Prize winner whose previous subjects have included Vince Lombardi and Bill Clinton, charts Clemente's rise as baseball's first Latino superstar. ''In life,'' Maraniss writes, ''he was a work of art; in death he has become a cultural icon.'' THE BIG BAM: The Life and Times of Babe Ruth, by Leigh Montville. (Broadway, $15.95.) Montville, a former writer for Sports Illustrated and the author of a biography of Ted Williams, updates the endlessly fascinating story of baseball's first outsize personality (1895-1948), who was a great pitcher before he became a legendary slugger.</p>
+        <p>RISE AND SHINE, by Anna Quindlen. (Random House, $14.95.) Quindlen explores fame, shame and family dynamics in this nuanced story of two New York sisters -- Bridget, a social worker in the Bronx, and Meghan, the host of a popular morning television show. After an on-air gaffe drives Meghan into hiding, Bridget is left to pick up the pieces of her sister's abandoned life.</p>
+        <p>UNCOMMON CARRIERS, by John McPhee. (Farrar, Straus &amp; Giroux, $14.) These artfully reported stories feature on-the-job portraits of people who drive big transport machines. The book begins and ends with trucking as McPhee recalls a pair of journeys he took with a hazardous-materials hauler. ''If the human race survives another century or two,'' our reviewer, Adam Hochschild, wrote, ''McPhee's work will provide an invaluable record of how those primitive people ... treasured their bygone crafts.''</p>
+        <p>SPECIAL TOPICS IN CALAMITY PHYSICS, by Marisha Pessl. (Penguin, $15.) One of the Book Review's 10 best books last year, this shrewdly playful first novel tells the story of a precocious teenager, Blue van Meer, and a charismatic teacher whose mysterious death is announced on the first page. The motherless Blue spent most of her life with her father, an enigmatic itinerant professor, discussing everything from Homer to tell-all biographies of Louis B. Mayer and Howard Hughes. Each chapter is figuratively linked by its title to a well-known work of literature, from ''Othello'' to ''Deliverance,'' and the plot snakes toward a revelation capped by a clever ''final exam.'' Our reviewer, Liesl Schillinger, called ''Special Topics'' an ''exhilarating synthesis of the classic and the modern,'' and added, ''This skylarking book will leave readers salivating for more.''</p>
+        <p>THE PRINCE OF THE MARSHES: And Other Occupational Hazards of a Year in Iraq, by Rory Stewart. (Harvest/Harcourt, $15.) In 2003, Stewart, an adventurous 30-year-old Scot and former diplomat, was installed as chief administrator of the southern Iraqi province of Maysan. This is a rueful account of his yearlong effort to placate the various local factions and build a new civil society. (Stewart also wrote ''The Places in Between,'' a richly detailed travel book about the Afghan portion of his 20-month walk, in 2000, from Turkey to Bangladesh.)</p>
+        <p>Ihsan Taylor</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where Experts Go for Answers</title>
+    <meta content="17wine" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Books; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/thecity/17wine.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855162"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WINE UNDER $20"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <person class="indexing_service">Johnson, Frank E</person>
+        <object.title class="indexing_service">Professional Wine Reference (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DA153FF934A25755C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where Experts Go for Answers</hl1>
+        <hl2 class="online_headline">Where Experts Go for Answers</hl2>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>Howard Goldberg article on fifth edition of Frank E Johnson's Professional Wine Reference (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Since 1977, retailers and sommeliers have answered customers' questions authoritatively by consulting Frank E. Johnson's omnibus Professional Wine Reference. It is published by Beverage Media Group of New York.</p>
+        <p>The fifth edition of this alphabetized reference book, revised and updated, is a boon for novices and collectors. Its New York State entry adds a new region, Niagara Escarpment, a pinot noir zone.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Since 1977, retailers and sommeliers have answered customers’ questions authoritatively by consulting Frank E. Johnson’s omnibus Professional Wine Reference. It is published by Beverage Media Group of New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Since 1977, retailers and sommeliers have answered customers' questions authoritatively by consulting Frank E. Johnson's omnibus Professional Wine Reference. It is published by Beverage Media Group of New York.</p>
+        <p>The fifth edition of this alphabetized reference book, revised and updated, is a boon for novices and collectors. Its New York State entry adds a new region, Niagara Escarpment, a pinot noir zone.</p>
+        <p>The book, in soft cover (362 pages, $19.95), is sold on www.bevnetwork.com.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>WINE UNDER $20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

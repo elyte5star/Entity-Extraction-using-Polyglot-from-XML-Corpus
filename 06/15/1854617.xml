@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hepatitis Cases Linked to M.D.</title>
+    <meta content="15hepatitis" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/nyregion/15hepatitis.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854617"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hepatitis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Hepatitis</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hepatitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">Health and Mental Hygiene Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EFDD153FF936A25755C0A9619C8B63" item-length="408" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hepatitis Cases Linked to M.D.</hl1>
+        <hl2 class="online_headline">Hepatitis Cases Linked to M.D.</hl2>
+      </hedline>
+      <byline class="print_byline">By ANTHONY RAMIREZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The city's Health Department said late last night that it was urgently contacting 4,500 patients treated by a Manhattan doctor after the discovery that three of them were found to have hepatitis C, a virus that can damage or destroy the liver.</p>
+        <p>The doctor, an anesthesiologist whom health investigators did not identify, administered pain-deadening drugs by needle at 10 Manhattan outpatient centers, including clinics and doctors' offices, but not at hospitals. The patients were treated between Dec. 1, 2003, and May 1, 2007.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The city’s Health Department said that it was contacting 4,500 patients treated by a Manhattan doctor after three of them were found to have hepatitis C.</p>
+      </block>
+      <block class="full_text">
+        <p>The city's Health Department said late last night that it was urgently contacting 4,500 patients treated by a Manhattan doctor after the discovery that three of them were found to have hepatitis C, a virus that can damage or destroy the liver.</p>
+        <p>The doctor, an anesthesiologist whom health investigators did not identify, administered pain-deadening drugs by needle at 10 Manhattan outpatient centers, including clinics and doctors' offices, but not at hospitals. The patients were treated between Dec. 1, 2003, and May 1, 2007.</p>
+        <p>The three patients found to have hepatitis C were administered anesthesia at three different times, Dr. Marcelle Layton, assistant commissioner of the bureau of communicable diseases, said last night. ''The common risk factor is the doctor, not the medical procedure,'' she said.</p>
+        <p>Using medical records from the 10 treatment sites, the New York City Department of Health and Mental Hygiene has mailed letters to the doctor's patients urging them to be tested for the virus, which can have an incubation period of six months or more. There are several effective treatments for hepatitis C, including interferon and ribavirin.</p>
+        <p>Patients may have mild symptoms or none initially. Later symptoms can include redness on the palms of hands, dark urine and jaundice.</p>
+        <p>Officials declined to say whether the anesthesiologist has hepatitis C or to disclose his whereabouts, citing confidentiality statutes.</p>
+        <p>''I don't know where he is now, but he's not been practicing'' since May 1, Dr. Layton said. ''Both we and state health officials recommended that he not practice.''</p>
+        <p>The three patients with hepatitis C are all under medical care, Dr. Layton said.</p>
+        <p>The Health Department received notice of a patient with hepatitis C in March 2007 and discovered that the patient had received anesthesia from the doctor in question in August 2006. Two other patients were later found to have been treated by the same doctor. The patients did not have the typical risk factors of exposure to infected blood through tainted syringes.</p>
+        <p>Getting hepatitis C through a medical procedure is ''extremely rare,'' Dr. Layton said, because normal medical techniques involve strict infection control precautions. ''We don't want people to feel that it's unsafe to get medical procedures that require intravenous anesthesia.''</p>
+        <p>Asked why the authorities are saying so little about the anesthesiologist, Dr. Layton replied: ''It would be unfair to say something until we know for sure. And it would be unfair not to let people know that this was going on.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

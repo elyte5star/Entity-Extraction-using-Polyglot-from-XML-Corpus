@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NBC Studied Dow Jones Bid With Microsoft</title>
+    <meta content="11deal" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/media/11deal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853849"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">National Broadcasting Co</org>
+        <org class="online_producer">Wall Street Journal</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDD173FF932A25755C0A9619C8B63" item-length="368" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NBC Studied Dow Jones Bid With Microsoft</hl1>
+        <hl2 class="online_headline">NBC Studied Dow Jones Bid With Microsoft</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>General Electric's NBC unit and Microsoft explored making a joint bid for Dow Jones but decided against it a week ago, a person close to NBC and Microsoft said yesterday.</p>
+        <p>No rival has yet stepped up to compete with Rupert Murdoch's $5 billion bid for Dow Jones, the publisher of The Wall Street Journal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>General Electric’s NBC unit and Microsoft explored making a joint bid for Dow Jones but decided against it a week ago, a person close to NBC and Microsoft said.</p>
+      </block>
+      <block class="full_text">
+        <p>General Electric's NBC unit and Microsoft explored making a joint bid for Dow Jones but decided against it a week ago, a person close to NBC and Microsoft said yesterday.</p>
+        <p>No rival has yet stepped up to compete with Rupert Murdoch's $5 billion bid for Dow Jones, the publisher of The Wall Street Journal.</p>
+        <p>Microsoft and NBC were partners in forming the MSNBC cable television network.</p>
+        <p>Representatives from NBC and Microsoft talked to advisers to the Bancroft family, which controls Dow Jones. But after the preliminary discussions and a more detailed analysis by NBC and Microsoft executives, they decided against going further. ''Mainly, the economics just didn't make sense,'' said the person, who had not been authorized to speak for companies.</p>
+        <p>NBC initiated the overture after the Bancroft family announced on May 31 that it would meet with Mr. Murdoch and opened the door to counteroffers to the bid from Mr. Murdoch's News Corporation.</p>
+        <p>NBC decided to explore a bid after being contacted by investment bankers on behalf the Bancroft family. Both the Bancrofts and Dow Jones have hired investment bankers that have been pursuing potential bidders since the News Corporation offer to buy Dow Jones for $60 a share was disclosed in early May. NBC then contacted Microsoft about the possibility of a joint move.</p>
+        <p>But following a brief review, Microsoft rejected the idea of taking further steps, and NBC agreed, the person said.</p>
+        <p>For NBC, the News Corporation bid, if successful, raises competitive concerns. Its CNBC is the leading financial news channel on television, generating solid profits for NBC. Mr. Murdoch has said that one of the reasons he is willing to pay a premium price for Dow Jones is that he plans to start his own financial news channel and to tap the news gathering resources and staff of The Wall Street Journal. He hopes to challenge CNBC in financial news, just as his Fox News Channel has proved a formidable rival to CNN and MSNBC.</p>
+        <p>Another person close to the two companies said they abandoned their plans after they could not see a way to make a purchase of Dow Jones at a price equal to or higher than Mr. Murdoch's.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

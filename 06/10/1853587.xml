@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Congestion Pricing In Manhattan</title>
+    <meta content="l10jersey" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853587"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E5DD1F30F933A25755C0A9619C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Congestion Pricing In Manhattan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''The Road Best Not Taken'' (Op-Ed, May 20), Gabriel Roth implies that Mayor Michael Bloomberg's congestion-pricing proposal would not benefit auto users.</p>
+        <p>In fact, the funds would be dedicated to a proposed fund (called Smart, for Sustainable Mobility and Regional Transportation) whose purposes are to help bring local roads to a state of good repair, as well as pay for mass transit improvements.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''The Road Best Not Taken'' (Op-Ed, May 20), Gabriel Roth implies that Mayor Michael Bloomberg's congestion-pricing proposal would not benefit auto users.</p>
+        <p>In fact, the funds would be dedicated to a proposed fund (called Smart, for Sustainable Mobility and Regional Transportation) whose purposes are to help bring local roads to a state of good repair, as well as pay for mass transit improvements.</p>
+        <p>However, given the costs that highway traffic generates in congestion and pollution, it is perfectly appropriate -- and good public policy -- to require auto users to support mass transit.</p>
+        <p>Diana Fortuna  President  Citizens Budget Commission  New York</p>
+        <p>To the Editor:</p>
+        <p>Gabriel Roth argues that the congestion fee levied against drivers should go toward highway improvements in the tristate region. Instead, how about dedicating it to better integration with the regional transportation networks?</p>
+        <p>The New York subway was designed almost exclusively to bring riders from the outer boroughs into Manhattan. If the subway went from Queens to the Bronx, the need for interborough automobile travel could be reduced.</p>
+        <p>It's worth investigating how the other disparate transportation systems could be expanded to better integrate the city and the region. Hudson-Bergen Light Rail could be expanded into Manhattan to allow tens of thousands of New Jersey residents a one-seat ride.</p>
+        <p>Other good proposals have been mentioned over the decades, but not followed up. PATH should be brought to the East Side. AirTrain should be expanded to Manhattan and La Guardia Airport. The subway and Hudson-Bergen should be expanded to Staten Island.</p>
+        <p>The real challenge behind reducing congestion might be getting the city, the Metropolitan Transportation Authority, the Port Authority, and New Jersey Transit to work together.</p>
+        <p>Richard Fassett  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

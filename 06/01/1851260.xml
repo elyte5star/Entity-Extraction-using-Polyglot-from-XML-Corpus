@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mideast Meeting May Take Place In Palestinian Area</title>
+    <meta content="01mideast" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851260"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5D91530F932A35755C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mideast Meeting May Take Place In Palestinian Area</hl1>
+      </hedline>
+      <byline class="print_byline">By ISABEL KERSHNER</byline>
+      <byline class="normalized_byline">Kershner, Isabel</byline>
+      <dateline>JERUSALEM, May 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The meeting planned for next week between the Palestinian president, Mahmoud Abbas, and Prime Minister Ehud Olmert of Israel is expected to take place in the Palestinian territories for the first time, aides said Thursday.</p>
+        <p>Nabil Abu Rudeina, an aide to Mr. Abbas, said the meeting was expected to be next Thursday in the Palestinian territories, The Associated Press reported.</p>
+      </block>
+      <block class="full_text">
+        <p>The meeting planned for next week between the Palestinian president, Mahmoud Abbas, and Prime Minister Ehud Olmert of Israel is expected to take place in the Palestinian territories for the first time, aides said Thursday.</p>
+        <p>Nabil Abu Rudeina, an aide to Mr. Abbas, said the meeting was expected to be next Thursday in the Palestinian territories, The Associated Press reported.</p>
+        <p>Miri Eisin, a spokeswoman for Mr. Olmert, did not confirm a date or location, but said a meeting in Palestinian territory was ''a possibility'' that had been discussed the last time the two leaders met, on April 15.</p>
+        <p>Their previous sessions were in Jerusalem. Ms. Eisin said a meeting in Palestinian territory would be a ''gesture of honor'' from Israel and show that ''this is a partnership, not a patron-client relationship.''</p>
+        <p>In the past, officials from each side have spoken of Jericho as a likely venue. Jericho has had less violence than other West Bank cities and is considered to have a weak presence of Hamas, the militant group that leads the government.</p>
+        <p>The meeting next week will take place against the background of hostilities after the breakdown of a cease-fire that had been in place since November. Israel began military strikes in Gaza in May after Hamas announced it was ending a cease-fire it had largely honored but other groups had not. The result was intensified rocket fire against Israel.</p>
+        <p>Mr. Abu Rudeina said the two leaders would try to restore a Gaza cease-fire at the meeting, The Associated Press reported. Neither he nor other Palestinian spokesmen could be reached directly for comment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

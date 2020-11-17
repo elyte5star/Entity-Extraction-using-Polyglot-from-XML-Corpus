@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>House Panel Says Records Of E-Mail Are Missing</title>
+    <meta content="19email" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Technology; U.S.; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855564"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DF133FF93AA25755C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>House Panel Says Records Of E-Mail Are Missing</hl1>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+      <dateline>WASHINGTON, June 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>mail records are missing for 51 of the 88 White House officials who had electronic message accounts with the Republican National Committee, the House Oversight Committee said Monday.</p>
+        <p>The Bush administration may have committed ''extensive'' violations of a law requiring that certain records be preserved, the committee chairman, Representative Henry A. Waxman, Democrat of California, said.</p>
+      </block>
+      <block class="full_text">
+        <p>mail records are missing for 51 of the 88 White House officials who had electronic message accounts with the Republican National Committee, the House Oversight Committee said Monday.</p>
+        <p>The Bush administration may have committed ''extensive'' violations of a law requiring that certain records be preserved, the committee chairman, Representative Henry A. Waxman, Democrat of California, said.</p>
+        <p>An interim report from the panel said the number of White House officials who had accounts at the Republican group and the number of messages sent and received were more extensive than had been thought. The White House said about 50 officials had accounts in President Bush's tenure. The House panel found at least 88.</p>
+        <p>The Republican group has preserved messages by some of the heaviest users, including 140,216 sent or received by Karl Rove, the top political adviser in the White House.</p>
+        <p>The report said ''the R.N.C. has preserved no e-mails for 51 officials,'' including Ken Mehlman, a former White House political director who reportedly used his account frequently.</p>
+        <p>''Given the heavy reliance by White House officials on R.N.C. e-mail accounts, the high rank of the White House officials involved and the large quantity of missing e-mails,'' the report said, ''the potential violation of the Presidential Records Act may be extensive.''</p>
+        <p>The White House press secretary, Tony Snow, told reporters that he would not respond specifically to the findings but said the e-mail accounts ''were designed precisely to avoid Hatch Act violations that prohibit the use of government assets for certain political activities.''</p>
+        <p>''The R.N.C. has had an e-mail preservation policy for White House staffers,'' Mr. Snow said.</p>
+        <p>Congressional Democrats are investigating whether White House officials used their accounts to conduct overtly political and, perhaps, improper activities like planning which federal prosecutors to remove and preparing partisan briefings for federal employees.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newcomers, End to End</title>
+    <meta content="10rest" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/nyregion/thecity/10rest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853655"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOOD EATING/LAFAYETTE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">Greenwich Village (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5D61F30F933A25755C0A9619C8B63" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newcomers, End to End</hl1>
+        <hl2 class="online_headline">Newcomers, End to End</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by Kris Ensminger</byline>
+      <abstract>
+        <p>Excerpts from previously published reviews of restaurants on Lafayette Street in Greenwich Village (Good Eating column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Walk the length of Lafayette Street, from Foley Square downtown up to Ninth Street in Greenwich Village, and you'll find an ever-evolving lineup of restaurants. These all opened within the past year and a half.</p>
+        <p>CAFFE FALAI  (212) 274-8615; 265 Lafayette Street (Prince Street); $; $25 and Under: 3/7/07.  This is the latest venture of Iacopo Falai, who owns Falai and Falai Panetteria on Clinton Street. The menus, one for breakfast (until 5 p.m.) and another for lunch and dinner (from noon on), are less ''progressive'' than Falai, but they are slightly more expensive and ambitious than the offerings at the panetteria.</p>
+        <p>The pastas are worth a visit, including the almond pappardelle with mushrooms, especially when the kitchen adds a generous helping of buttery sauce.</p>
+        <p>CHINATOWN BRASSERIE *  [Rating: One Star]  (212) 533-7000; 380 Lafayette Street (Great Jones Street); $$$; Review: 8/9/06.  Chinatown Brasserie takes dim sum seriously. The executive chef Joe Ng's thoughtful, prolific output includes not only soup dumplings but also steamed dumplings filled with roasted duck or shrimp and snow pea leaf. There are pork pot stickers; green chili peppers stuffed with shrimp and encased in tempura batter; and Peking duck.</p>
+        <p>COLORS  (212) 777-8443; 417 Lafayette Street (Astor Place); $$$; Diner's Journal: 1/13/06.  This proud-looking restaurant is owned by its staff. Many worked at Windows on the World, the restaurant atop the World Trade Center. Business has slowed since an opening amid a rush of publicity, goodwill and sympathy in January 2006, and the managers have responded by lowering prices and doing away with white linen tablecloths.</p>
+        <p>The restaurant's name refers to the ethnic diversity of the workers, and to its culinary approach, which is steadfastly international. The current menu includes curried goat, rack of lamb with a pumpkinseed crust, and braised short ribs.</p>
+        <p>ED'S LOBSTER BAR  (212) 343-3236; 222 Lafayette Street (Spring Street); $$; Article: 3/14/07.  Ed McFarland, who was sous-chef at Pearl Oyster Bar for six years, has opened his own seafood shack. The white marble dining counter stretches 30 feet. The lobster rolls are classic affairs, and the rest of the menu combines raw bar with seafood shack fare, like clam chowder, steamed clams and mussels, fried oysters and clams.</p>
+        <p>PARIGOT  (212) 274-8859; 155 Grand Street (corner of Lafayette Street); $$; Article: 2/7/07.  Michel Pombet, a chef who was an owner of Jolie in Boerum Hill, Brooklyn, owns this intimate French bistro with his partner, Catherine Amsellem. The menu comforts with classics like oxtail terrine, onion soup, roasted duck à l'orange, steak tartare, pan-seared sea scallop Provençal and pot-au-feu.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The newest additions to the ever-evolving lineup of restaurants on Lafayette Street.</p>
+      </block>
+      <block class="full_text">
+        <p>Walk the length of Lafayette Street, from Foley Square downtown up to Ninth Street in Greenwich Village, and you'll find an ever-evolving lineup of restaurants. These all opened within the past year and a half.</p>
+        <p>CAFFE FALAI  (212) 274-8615; 265 Lafayette Street (Prince Street); $; $25 and Under: 3/7/07.  This is the latest venture of Iacopo Falai, who owns Falai and Falai Panetteria on Clinton Street. The menus, one for breakfast (until 5 p.m.) and another for lunch and dinner (from noon on), are less ''progressive'' than Falai, but they are slightly more expensive and ambitious than the offerings at the panetteria.</p>
+        <p>The pastas are worth a visit, including the almond pappardelle with mushrooms, especially when the kitchen adds a generous helping of buttery sauce.</p>
+        <p>CHINATOWN BRASSERIE *  [Rating: One Star]  (212) 533-7000; 380 Lafayette Street (Great Jones Street); $$$; Review: 8/9/06.  Chinatown Brasserie takes dim sum seriously. The executive chef Joe Ng's thoughtful, prolific output includes not only soup dumplings but also steamed dumplings filled with roasted duck or shrimp and snow pea leaf. There are pork pot stickers; green chili peppers stuffed with shrimp and encased in tempura batter; and Peking duck.</p>
+        <p>COLORS  (212) 777-8443; 417 Lafayette Street (Astor Place); $$$; Diner's Journal: 1/13/06.  This proud-looking restaurant is owned by its staff. Many worked at Windows on the World, the restaurant atop the World Trade Center. Business has slowed since an opening amid a rush of publicity, goodwill and sympathy in January 2006, and the managers have responded by lowering prices and doing away with white linen tablecloths.</p>
+        <p>The restaurant's name refers to the ethnic diversity of the workers, and to its culinary approach, which is steadfastly international. The current menu includes curried goat, rack of lamb with a pumpkinseed crust, and braised short ribs.</p>
+        <p>ED'S LOBSTER BAR  (212) 343-3236; 222 Lafayette Street (Spring Street); $$; Article: 3/14/07.  Ed McFarland, who was sous-chef at Pearl Oyster Bar for six years, has opened his own seafood shack. The white marble dining counter stretches 30 feet. The lobster rolls are classic affairs, and the rest of the menu combines raw bar with seafood shack fare, like clam chowder, steamed clams and mussels, fried oysters and clams.</p>
+        <p>PARIGOT  (212) 274-8859; 155 Grand Street (corner of Lafayette Street); $$; Article: 2/7/07.  Michel Pombet, a chef who was an owner of Jolie in Boerum Hill, Brooklyn, owns this intimate French bistro with his partner, Catherine Amsellem. The menu comforts with classics like oxtail terrine, onion soup, roasted duck à l'orange, steak tartare, pan-seared sea scallop Provençal and pot-au-feu.</p>
+        <p>GOOD EATING/LAFAYETTE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

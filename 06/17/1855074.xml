@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Whose Air-Conditioner Is It?</title>
+    <meta content="17qa" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855074"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Q and A</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0DF153FF934A25755C0A9619C8B63" item-length="481" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Whose Air-Conditioner Is It?</hl1>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I live in a rent-stabilized apartment, and last week I received a notice that all air-conditioners must have exterior brackets installed or the building won't be covered by its new insurance company. Shouldn't this be the responsibility of the landlord?</p>
+        <p>A. ''Unlike most commercial leases, most rent-stabilized leases say nothing about tenants' complying with the requirements of the landlord's insurer,'' said Adam Leitman Bailey, a Manhattan real estate lawyer. ''So, unless this is a very unusual lease, insurance has nothing to do with the answer.''</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I live in a rent-stabilized apartment, and last week I received a notice that all air-conditioners must have exterior brackets installed or the building won't be covered by its new insurance company. Shouldn't this be the responsibility of the landlord?</p>
+        <p>A. ''Unlike most commercial leases, most rent-stabilized leases say nothing about tenants' complying with the requirements of the landlord's insurer,'' said Adam Leitman Bailey, a Manhattan real estate lawyer. ''So, unless this is a very unusual lease, insurance has nothing to do with the answer.''</p>
+        <p>But Mr. Bailey added that the New York City Buildings Department requires that air-conditioners be mounted safely. ''The first thing that has to be determined is who provided the air-conditioner in the first place,'' he said. ''If the landlord provided it, its proper installation is the landlord's responsibility.'' If the tenant provided the air-conditioner, he said, then it's the tenant's responsibility.</p>
+        <p>Mr. Bailey said that normally a tenant would be prohibited from drilling into the exterior face of the building and probably would not be expected to do so by the landlord. But, he said, it is possible to install air-conditioner supports on the exterior of the building without drilling by using special brackets designed to be mounted without permanently fastening them to the building.</p>
+        <p>And unless the configuration of the building is unusual, it is probably possible to install the brackets by working through the window from inside the apartment.</p>
+        <p>Who Must Pay A Co-op Assessment?</p>
+        <p>Q. I recently bought a co-op from a sponsor who stated in writing at the closing that there were no known assessments. A few weeks later, I learned that there was, in fact, a $2,500 assessment levied a month before my closing. Since the seller is a board member, there is no way for him not to have known this. What is my recourse?</p>
+        <p>A. Dennis H. Greenstein, a Manhattan co-op lawyer and a former New York assistant attorney general, said that if the assessment is payable by the letter writer, he may have a basis to recover the amount from the seller. Mr. Greenstein noted that the standard form of contract of sale for a co-op provides a representation from the seller that there are no known assessments at the time of signing but is typically silent about assessments imposed between that time and the closing.</p>
+        <p>But he said that since the seller indicated in writing at the closing that there were no impending assessments, the letter writer may have grounds to sue.</p>
+        <p>In addition, Mr. Greenstein said, since the sponsor may have violated the Martin Act, which governs co-op and condo conversions, by falsely stating that there was no assessment, the letter writer can also file a complaint with the state attorney general's office, which could require him to refund the amount of the assessment.</p>
+        <p>JAY ROMANO</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

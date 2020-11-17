@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Matter; The Iceman Cometh</title>
+    <meta content="03Style--skull.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="58" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/magazine/03Style-skull-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851667"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Style"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Platinum</classifier>
+        <classifier class="indexing_service" type="descriptor">Diamonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Hirst, Damien</person>
+        <person class="indexing_service">Shaw, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Diamonds</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diamonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <person class="online_producer">Hirst, Damien</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3DC1430F930A35755C0A9619C8B63" item-length="446" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Matter; The Iceman Cometh</hl1>
+        <hl2 class="online_headline">The Iceman Cometh</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM SHAW</byline>
+      <byline class="normalized_byline">Shaw, William</byline>
+      <abstract>
+        <p>British artist Damien Hirst comments on his latest work, life-size platinum skull set with 8,601 high-quality diamonds, whose asking price, $100 million, would make it most expensive piece of contemporary art ever created; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's particularly fitting that the title of Damien Hirst's new headline-grabbing work came from an exasperated exclamation of his mother's: ''For the love of God, what are you going to do next?''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Damien Hirst sends a chill through the art world.</p>
+      </block>
+      <block class="full_text">
+        <p>It's particularly fitting that the title of Damien Hirst's new headline-grabbing work came from an exasperated exclamation of his mother's: ''For the love of God, what are you going to do next?''</p>
+        <p>The answer, pictured here, is a life-size platinum skull set with 8,601 high-quality diamonds. If, as expected, it sells for around $100 million this month, it will become the single most expensive piece of contemporary art ever created. Or the most outrageous piece of bling.</p>
+        <p>At home in Devon, Hirst insists it's absolutely the former. ''I was very worried for a while, because if it looked like bling -- tacky, garish and over the top -- we would have failed. But I'm very pleased with the end result. I think it's ethereal and timeless.''</p>
+        <p>For Hirst, famous pickler of sharks and bovine bisector, all his art is about death. This piece, which was cast from an 18th-century skull he bought in London, was influenced by Mexican skulls encrusted in turquoise. ''I remember thinking it would be great to do a diamond one -- but just prohibitively expensive,'' he recalls. ''Then I started to think -- maybe that's why it is a good thing to do. Death is such a heavy subject, it would be good to make something that laughed in the face of it.''</p>
+        <p>The dazzle of the diamonds might outshine any meaning Hirst attaches to it, and that could be a problem. Its value as jewelry alone is preposterous. Hirst, who financed the piece himself, watched for months as the price of international diamonds rose while the Bond Street gem dealer Bentley &amp; Skinner tried to corner the market for the artist's benefit. Given the ongoing controversy over blood diamonds from Africa, ''For the Love of God'' now has the potential to be about death in a more literal way.</p>
+        <p>''That's when you stop laughing,'' Hirst says. ''You might have created something that people might die because of. I guess I felt like Oppenheimer or something. What have I done? Because it's going to need high security all its life.''</p>
+        <p>The piece is not exactly the stuff of public art, but Hirst says he hopes that an institution like the British Museum might put it on display for a while before it disappears into a vault, never to be seen again. Whether the piece is seen or not, Hirst will likely go down in the Guinness Book of Records as the world's most extravagant artist.</p>
+        <p>''I hadn't thought about that!'' he suddenly snorts with laughter. ''I deal with that with all my work. The markup on paint and canvas is a hell of a lot more than on this diamond piece.''</p>
+        <p>WILLIAM SHAW</p>
+        <p>Style</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

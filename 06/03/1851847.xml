@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Colette Reiner, Gibson Verkuil</title>
+    <meta content="03Reiner" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851847"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Reiner, Colette A. (Colette A. Verku)</person>
+        <person class="indexing_service">Verku, John Gibson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DF1230F930A35755C0A9619C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Colette Reiner, Gibson Verkuil</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Colette A. Reiner, the daughter of Colleen A. Reiner of Ventura, Calif., and the late Robert C. Reiner, was married on Friday to John Gibson Verkuil, the son of Frances Gibson McGlothlin of Austin, Tex., and Paul R. Verkuil of Miami Beach.</p>
+        <p>Douglas L. Johnson, a Virginia marriage commissioner, officiated at the Wren Chapel of the College of William and Mary in Williamsburg, Va. Last evening, Timothy Dyk, a judge on the United States Court of Appeals for the Federal Circuit in Washington, led a celebration of the marriage, again in the Wren Chapel.</p>
+      </block>
+      <block class="full_text">
+        <p>Colette A. Reiner, the daughter of Colleen A. Reiner of Ventura, Calif., and the late Robert C. Reiner, was married on Friday to John Gibson Verkuil, the son of Frances Gibson McGlothlin of Austin, Tex., and Paul R. Verkuil of Miami Beach.</p>
+        <p>Douglas L. Johnson, a Virginia marriage commissioner, officiated at the Wren Chapel of the College of William and Mary in Williamsburg, Va. Last evening, Timothy Dyk, a judge on the United States Court of Appeals for the Federal Circuit in Washington, led a celebration of the marriage, again in the Wren Chapel.</p>
+        <p>Mrs. Verkuil, who graduated from the Massachusetts Institute of Technology, and Mr. Verkuil, a graduate of New York University, met at the Benjamin N. Cardozo School of Law at Yeshiva University.</p>
+        <p>The bride and the bridegroom, both 29, received law degrees from Cardozo, and now are associates at law firms in New York, she at Morrison &amp; Foerster and he at Boies, Schiller &amp; Flexner.</p>
+        <p>The bride's mother is a senior client services associate in the Newbury Park, Calif., office of Wellpoint, the health insurance provider.</p>
+        <p>The bride's father was the president of Reiner Planning Services, a marketing research company that was in New York and Greenwich, Conn.</p>
+        <p>The bridegroom's father is a professor of law at Cardozo, and was the law school's dean from 1997 to 2001; he was the president of William and Mary from 1985 to 1992.</p>
+        <p>The bridegroom's mother is on the board of the Virginia Museum of Fine Arts in Richmond. His stepmother, Judith Rodin, is the president of the Rockefeller Foundation and was from 1994 to 2004 the president of the University of Pennsylvania.</p>
+        <p>His stepfather, James McGlothlin, is the chairman of the United Company, a coal, oil and gas producer in Bristol, Va.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

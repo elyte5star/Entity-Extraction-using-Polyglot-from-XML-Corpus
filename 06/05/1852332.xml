@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affordable Housing</title>
+    <meta content="l05housing" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852332"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EEDA1130F936A35755C0A9619C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affordable Housing</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Will Gentrification Spoil the Birthplace of Hip-Hop?,'' by David Gonzalez (Citywide column, May 21):</p>
+        <p>The situation in the Mitchell-Lama developments state- and citywide is so dire that the governor and the Legislature should convene a task force led by the state's Housing Finance Agency to draft a comprehensive asset management strategy for preserving them.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Will Gentrification Spoil the Birthplace of Hip-Hop?,'' by David Gonzalez (Citywide column, May 21):</p>
+        <p>The situation in the Mitchell-Lama developments state- and citywide is so dire that the governor and the Legislature should convene a task force led by the state's Housing Finance Agency to draft a comprehensive asset management strategy for preserving them.</p>
+        <p>The task force should include city and state supervising agencies, affordable housing, and real estate industry professionals and advocates. It should complete its work within 90 days, with recommendations for action by the Legislature in a special session this fall.</p>
+        <p>Its goal should be a balanced strategy that sustains the physical and financial integrity of the developments; protects the rights of existing tenants; extends the years of affordability; respects the interests of responsible owners; and does not deter future affordable housing development.</p>
+        <p>Mitchell-Lama developments are one of New York's most valuable public assets. They should be managed, supervised and preserved to provide affordable housing.</p>
+        <p>David M. Muchnick  New York, May 21, 2007</p>
+        <p>The writer is the coordinator of Housing First!, an organization that advocates preserving and developing affordable housing for New Yorkers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

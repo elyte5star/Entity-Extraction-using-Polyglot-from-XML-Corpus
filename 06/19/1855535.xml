@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Travels With Charlie, From Kansas to the Moon</title>
+    <meta content="19brit" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/theater/reviews/19brit.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855535"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THEATER REVIEW | 'RADIO'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Brits Off Broadway Festival</classifier>
+        <person class="indexing_service">Genzlinger, Neil</person>
+        <person class="indexing_service">Smith, Al</person>
+        <person class="indexing_service">Ferguson, Tom</person>
+        <object.title class="indexing_service">Radio (Play)&gt;</object.title>
+        <object.title class="indexing_service">Radio (Play)&gt;</object.title>
+        <object.title class="indexing_service">Radio (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Brits Off Broadway Festival</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <object.title class="online_producer">Radio (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DF133FF93AA25755C0A9619C8B63" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Travels With Charlie, From Kansas to the Moon</hl1>
+        <hl2 class="online_headline">Travels With Charlie, From Kansas to the Moon</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+      <abstract>
+        <p>Neil Genzlinger reviews Al Smith one-man show Radio, starring Tom Ferguson; show is part of Brits Off Broadway festival; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kenneth Branagh, who is Irish, was sensational as one of the last century's most famous Americans, Franklin Delano Roosevelt, in the 2005 HBO film ''Warm Springs.'' Jonathan Rhys Meyers, who is Irish, was pretty good as another, Elvis Presley, in a CBS movie that same year. But foreigners who dare trifle with America's cultural reference points had better make sure that they leave every iota of the accent at home and that they are doing more than just recycling stock imagery.</p>
+        <p>Which brings us to ''Radio,'' a one-man play at the Brits Off Broadway festival written by Al Smith, a London playwright, and performed by Tom Ferguson, a Scottish actor. The main character is no Roosevelt or Presley, but he's famous after a fashion: he's a generic middle-American child of the baby boom, someone you have already heard from repeatedly in films and literature.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The main character in this one-man play is a generic middle-American child of the baby boom, someone you have already heard from repeatedly in films and literature.</p>
+      </block>
+      <block class="full_text">
+        <p>Kenneth Branagh, who is Irish, was sensational as one of the last century's most famous Americans, Franklin Delano Roosevelt, in the 2005 HBO film ''Warm Springs.'' Jonathan Rhys Meyers, who is Irish, was pretty good as another, Elvis Presley, in a CBS movie that same year. But foreigners who dare trifle with America's cultural reference points had better make sure that they leave every iota of the accent at home and that they are doing more than just recycling stock imagery.</p>
+        <p>Which brings us to ''Radio,'' a one-man play at the Brits Off Broadway festival written by Al Smith, a London playwright, and performed by Tom Ferguson, a Scottish actor. The main character is no Roosevelt or Presley, but he's famous after a fashion: he's a generic middle-American child of the baby boom, someone you have already heard from repeatedly in films and literature.</p>
+        <p>His name is Charlie, and his particular claim to fame is that he was born in the exact center of the country -- Lebanon, Kan. -- at the exact midpoint of the century. It's a promising premise, and there are amusing moments as he tells his family's story. (His father creates a business making flags to sell to the tourists who come to Lebanon.)</p>
+        <p>Unfortunately, also in Charlie's path are all those milestones that have long since become clichés, at least in the United States: the space race, the assassination of John F. Kennedy, the Vietnam War. Mr. Smith and James Yeatman, the director, have no new light to shed on these old war horses, and the words the playwright puts in his Kansan's mouth too often sound as if a Briton wrote them.</p>
+        <p>Mr. Ferguson, too, costs the piece credibility by never quite burying his real accent and never quite finding a middle-American one.</p>
+        <p>''Radio'' continues through July 1 at 59E59 Theaters, 59 East 59th Street, Manhattan; (212) 279-4200.</p>
+        <p>THEATER REVIEW | 'RADIO'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

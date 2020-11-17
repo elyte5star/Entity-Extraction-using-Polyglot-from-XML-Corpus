@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knicks Need Laimbeer</title>
+    <meta content="10inbox-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853405"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5D8163FF933A25755C0A9619C8B63" item-length="52" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knicks Need Laimbeer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>One had to love ''Aggressive, Infuriating and Successful'' (June 5) about Bill Laimbeer and the Detroit Shock. Isiah Thomas was probably right when he told Chuck Daly, ''I should have hired Laimbeer; he's so thick-skinned.'' I believe the Knicks would succeed with Laimbeer.</p>
+        <p>Steve Lurie  Tucson</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>One had to love ''Aggressive, Infuriating and Successful'' (June 5) about Bill Laimbeer and the Detroit Shock. Isiah Thomas was probably right when he told Chuck Daly, ''I should have hired Laimbeer; he's so thick-skinned.'' I believe the Knicks would succeed with Laimbeer.</p>
+        <p>Steve Lurie  Tucson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

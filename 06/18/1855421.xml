@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Death Toll Climbs to 6 After Stunt By Race Car</title>
+    <meta content="18selmer" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/us/18selmer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855421"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Tennessee</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee</classifier>
+        <classifier class="online_producer" type="descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Tennessee</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DC123FF93BA25755C0A9619C8B63" item-length="403" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Death Toll Climbs to 6 After Stunt By Race Car</hl1>
+        <hl2 class="online_headline">Death Toll Climbs to 6 After Stunt by Race Car</hl2>
+      </hedline>
+      <byline class="print_byline">By THEO EMERY</byline>
+      <byline class="normalized_byline">Emery, Theo</byline>
+      <dateline>NASHVILLE, June 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The death toll increased overnight to six after a race car spun out of control at a children's charity event in Selmer, Tenn., state highway officials said Sunday.</p>
+        <p>The car, a modified Corvette, was performing what is known as an exhibition burnout, in which the drivers rev the engine and spin the car's wheels to create smoke and noise before speeding down the track, according to the company that sanctioned the race event, AMS Pro Modified Series. The exhibition was part of a three-day event that included a parade. A blocked-off road functioned as the racetrack for Saturday night's event, held about 80 miles east of Memphis.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The death toll increased overnight to six after a race car lost traction and hit a utility pole before crashing into bystanders at a children’s charity event in Selmer, Tenn.</p>
+      </block>
+      <block class="full_text">
+        <p>The death toll increased overnight to six after a race car spun out of control at a children's charity event in Selmer, Tenn., state highway officials said Sunday.</p>
+        <p>The car, a modified Corvette, was performing what is known as an exhibition burnout, in which the drivers rev the engine and spin the car's wheels to create smoke and noise before speeding down the track, according to the company that sanctioned the race event, AMS Pro Modified Series. The exhibition was part of a three-day event that included a parade. A blocked-off road functioned as the racetrack for Saturday night's event, held about 80 miles east of Memphis.</p>
+        <p>The car lost traction and hit a utility pole before crashing into bystanders, a company statement said.</p>
+        <p>Amateur video footage shows the car catapulting down the road, trailing an enormous plume of white smoke, then losing control and skidding off the pavement. As thick smoke envelopes the scene, screaming can be heard and spectators begin to run toward the crash site.</p>
+        <p>Neal Burks, the Selmer police chief, told The Associated Press that ''bodies were flying into the air when it happened.''</p>
+        <p>The cause of the crash is under investigation, the highway patrol said. The highway patrol said there was no guardrail in the section of roadway where the car plunged into the crowd. The dead included three teenagers, Raven Griswell, of Finger, Tenn., and Scarlett Replogle, of Selmer, both 15 years old, and Kimberly A. Barfield, 17, of Adamsville, Tenn., the highway patrol said.</p>
+        <p>A total of 21 other people were sent to five hospitals, with injuries ranging from critical to minor. Mike Browning, a highway patrol spokesman, said the number of fatalities was expected to rise.</p>
+        <p>The car that went out of control was approved by the National Hot Rod Association. Its driver was Troy W. Critchley of Wylie, Tex., the highway patrol said. Mr. Critchley suffered minor injuries.</p>
+        <p>The charity holding the event, Cars for Kids, has raised money for injured and disabled children since the son of the founder, Larry Price, suffered a head injury 18 years ago. The organization's first fund-raiser was held in Selmer in 1990. The group accepts donations of used cars.</p>
+        <p>The group issued a statement expressing ''its deepest regrets and sympathy to all the victims and their families'' involved the accident.</p>
+        <p>''At this time the future of Cars for Kids is undecided,'' the group said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

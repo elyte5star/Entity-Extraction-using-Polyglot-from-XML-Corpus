@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Media Innovations, Leaping From Lab to Screen</title>
+    <meta content="10frame" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10frame.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853698"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="RE:FRAMING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EFD61F30F933A25755C0A9619C8B63" item-length="1327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Media Innovations, Leaping From Lab to Screen</hl1>
+        <hl2 class="online_headline">Media Innovations, Leaping From Lab to Screen</hl2>
+      </hedline>
+      <byline class="print_byline">By DENISE CARUSO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ONCE upon a time, before ''the convergence'' -- of computer power with telecommunications and media -- companies generally knew where their market stopped and someone else's began.</p>
+        <p>But the flood of technology has effectively washed away those boundaries.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Running a media or entertainment company in the 21st century is not for the faint of heart. The change is relentless and the learning curve sharp.</p>
+      </block>
+      <block class="full_text">
+        <p>ONCE upon a time, before ''the convergence'' -- of computer power with telecommunications and media -- companies generally knew where their market stopped and someone else's began.</p>
+        <p>But the flood of technology has effectively washed away those boundaries.</p>
+        <p>Today, I watch ''Lost'' on my laptop and ''Veronica Mars'' on my iPod, not on the TV for which they were first intended. I can browse the Web on TV or on a game console, instead of on my computer. I can Skype my friend in Sweden from my computer, and never touch my phone. Instead, I use it to listen to music, take pictures and read e-mail during meetings. And almost every day, there is new stuff vying for what is left of my attention -- new media, new devices, new functions on old devices -- that might inspire me to abandon whatever I was watching or using, yesterday.</p>
+        <p>As a result, running a media or entertainment company in the 21st century is not for the faint of heart. The change is relentless, the learning curve sharp, and the competition both fierce and seemingly infinite.</p>
+        <p>''Every day, there's another set of revelations about who is doing what to keep up -- how they're handling games or broadband video, what's their mobile strategy,'' said Nick DeMartino, the senior vice president for media and technology at the American Film Institute in Los Angeles.</p>
+        <p>Mr. DeMartino opened the institute's first computer lab in 1991 and has had a bird's-eye view of the industry changes ever since.</p>
+        <p>''It's fascinating as a spectator sport,'' he says. But for the players, the question is this: ''When it comes to innovation and new technologies, how do companies inform the decision-making process, so they can feel like they have some solid ground under their feet?''</p>
+        <p>While some go it alone, many of the best-known media brands turn to the institute's Digital Content Lab for help. For nearly 10 years, the lab (once called the Enhanced Television Workshop) has provided companies with an opportunity to participate in a powerful research and development process that uses their own creative assets.</p>
+        <p>To date, participants include Animal Planet, America Online, Bravo, the Cartoon Network, the Disney Channel, MTV, NBC, National Geographic, Nickelodeon, PBS, Showtime and Turner Broadcasting System, as well as several small interactive and independent media production companies.</p>
+        <p>To begin, a company picks one of its media properties and applies to the lab, describing a problem it would like to solve. If selected, that property becomes the focus of a six-month, intensive collaboration. The institute chooses a group of consultants from the most innovative design, technology and production firms in the digital media industry, and teams them with professionals from television, films and games.</p>
+        <p>At the end of the six months, each team delivers a working prototype to the media company, which owns it outright and can use it in any way it chooses.</p>
+        <p>In the most recent round of prototypes, completed in late 2006, Cartoon Network New Media walked away with a prototype based on ''Ben 10,'' one of its top three series.</p>
+        <p>The Cartoon Network was aiming to expand its library of more than 150 games -- which correspond to its TV cartoons -- beyond computers and into game consoles, without spending a fortune rewriting all its software, said Suzanne Stefanac, a journalist, and longtime A.F.I. mentor who was recently named director of the Digital Content Lab. (Ms. Stefanac and I once worked together at ZDTV.)</p>
+        <p>In response, its team delivered a technical feat: a ''build once, broadcast everywhere'' game engine that allows the same application to run on a PC or on a PlayStation 3 and that players can navigate with a mouse, a keyboard or a game controller.</p>
+        <p>The Ben 10 prototype, the first game to use the PlayStation 3's built-in browser, was such a hit that the network expects to commercialize the technology, which it calls a ''megaseries,'' for some yet-unnamed assets by year-end. ''We look at this as an amazing new content window for distribution,'' said Ross Cox, senior director for entertainment products at Cartoon Network New Media.</p>
+        <p>A New York documentary company, kontent real, presented its A.F.I. team with a very different problem. PBS had picked up its series on sustainable design, called ''design: e2.'' ''But because we don't have national distribution on PBS, the series airs at different times, on different dates and in different markets,'' said Midori Willoughby, strategic entertainment producer at kontent real. As word spread, a following began to evolve around the series that included ''a lot of people who became aware of 'e2' via different vehicles.''</p>
+        <p>Its video podcasts were quickly tagged as ''new and notable'' by iTunes, for example, and people began to find them on the Web as well. So kontent real asked its team to develop an interface and tools that would help these users manage and gain access to information across multiple devices.</p>
+        <p>The team took its suggestions even further, resulting in a sophisticated application that lets users upload and exchange information about ''green'' buildings and services, as well as events, by using the Web, TiVo, the G.P.S. functions and cameras of mobile phones and Blu-ray optical discs.</p>
+        <p>Ms. Stefanac said new teams are now working on the next cycle of projects. For example, Bravo has come to the table with its ''Top Chef'' series, looking for a technical solution to a problem that is plaguing the television and advertising industries: the fact that people with DVRs can speed past advertising. So far, viewers have strongly opposed any attempts by broadcasters to block this capability. ''They know they can't stop people from doing it, but they would like to figure out what the right solution is,'' Ms. Stefanac said.</p>
+        <p>One of the most promising projects under way does not involve working with an existing property but with a new media genre called ''machinima,'' a mash-up of ''machine cinema.'' Today, machinima is allowing people to cobble together crude movies using 3-D games and creating their own soundtracks. Making a machinima environment from scratch ''could save producers a lot of money, since you could repurpose them'' for different projects, Ms. Stefanac said.</p>
+        <p>Digital Content Lab's process to stimulate such creative problem solving has several noteworthy features. For one, the media owners do not pay to bring their properties into a project. A.F.I. is a nonprofit group, and all the work of the lab is sponsored by corporate donations.</p>
+        <p>And all consultants who work on the project, who are called ''mentors,'' donate their time. Sometimes the mentors and content owners are competitors in the outside world, but work together on project teams at the lab, an unusual détente in an industry where ideas are the coin of the realm and intellectual property is jealously guarded.</p>
+        <p>''The lab is a unique entity,'' Ms. Stefanac said. ''It's allowed to be a kind of Switzerland, where even competitors will come together on the same team to work toward a goal and really share their expertise.''</p>
+        <p>MS. STEFANAC says the system works because her team selects problems for which the solutions do not benefit one company alone. ''These projects are sponsored and the mentors donate their time because they are contributing to the greater good of the industry,'' she said. ''Our mentors come back year after year, project after project, because they get to address these larger issues.''</p>
+        <p>One such mentor is Dale Herigstad, chief creative officer at Schematic, a digital design firm based in Los Angeles. He has been steadily mentoring content owners at A.F.I. for several years.</p>
+        <p>''It's a small industry but the collaborative spirit at A.F.I. has given a certain spirit to the business over all,'' he said. ''I've always liked the phrase, 'Leave your guns at the door.' That's been the value, and one of the underlying directives of the lab. It's still a new business, and a new industry that's out there. And what A.F.I. has done has really affected that, and created a common sensibility for moving forward.''</p>
+        <p>RE:FRAMING Denise Caruso is executive director of the Hybrid Vigor Institute, which studies collaborative problem-solving. E-mail: dcaruso@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Denise Caruso is executive director of the Hybrid Vigor Institute, which studies collaborative problem-solving. E-mail: dcaruso@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

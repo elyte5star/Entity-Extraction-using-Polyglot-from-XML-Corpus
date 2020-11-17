@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Raina Dieterle, Christopher Trump-Retchin</title>
+    <meta content="10dieterle" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10dieterle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853651"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Dieterle, Raina Dawn (Raina Dawn Trump-Retchin)</person>
+        <person class="indexing_service">Trump-Retchin, Christopher Hollister</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6D61F30F933A25755C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Raina Dieterle, Christopher Trump-Retchin</hl1>
+        <hl2 class="online_headline">Raina Dieterle, Christopher Trump-Retchin</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Raina Dawn Dieterle, the daughter of Donna and Richard Dieterle of New City, N.Y., was married last evening to Christopher Hollister Trump-Retchin, the son of Blaine Trump of Manhattan and the late Peter Retchin, who lived in Phoenix. The Very Rev. Frederick B. Northup, the former dean of St. Mark's Episcopal Cathedral in Seattle, officiated at Marble House in Newport, R.I.</p>
+        <p>Mrs. Trump-Retchin, 29, is the photography editor at Quick &amp; Simple, a Hearst weekly magazine in Manhattan. She graduated from the University of Colorado.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Raina Dawn Dieterle, the daughter of Donna and Richard Dieterle of New City, N.Y., was married last evening to Christopher Hollister Trump-Retchin, the son of Blaine Trump of Manhattan and the late Peter Retchin, who lived in Phoenix. The Very Rev. Frederick B. Northup, the former dean of St. Mark’s Episcopal Cathedral in Seattle, officiated at Marble House in Newport, R.I.</p>
+      </block>
+      <block class="full_text">
+        <p>Raina Dawn Dieterle, the daughter of Donna and Richard Dieterle of New City, N.Y., was married last evening to Christopher Hollister Trump-Retchin, the son of Blaine Trump of Manhattan and the late Peter Retchin, who lived in Phoenix. The Very Rev. Frederick B. Northup, the former dean of St. Mark's Episcopal Cathedral in Seattle, officiated at Marble House in Newport, R.I.</p>
+        <p>Mrs. Trump-Retchin, 29, is the photography editor at Quick &amp; Simple, a Hearst weekly magazine in Manhattan. She graduated from the University of Colorado.</p>
+        <p>The bride's father works in Astoria, Queens, as the vice president and managing director of Spectrum on Broadway, an electrical sign and lighting maintenance company. Her mother, who is retired, worked in Manhattan as a senior vice president at Wachovia Bank, responsible for branch management in the New York City area. She is on the board of Eva's Village, a nonprofit social services agency in Paterson, N.J.</p>
+        <p>Mr. Trump-Retchin, also 29, is a client manager in Manhattan at Quinlan Private, a Dublin real estate investment firm, specializing in properties in Central and Eastern Europe. He is the stepson of Betsy Ross-Retchin and of Robert S. Trump.</p>
+        <p>The bridegroom's mother is a fund-raiser and vice chairwoman of God's Love We Deliver, a trustee of American Ballet Theater and a member of the sustaining board of the Society of Memorial Sloan-Kettering Cancer Center, all in Manhattan. His father was an owner of R&amp;R Property Management, a home associations management company in Phoenix, which he founded with Ms. Ross-Retchin, who is now its president.</p>
+        <p>The bridegroom's stepfather is the president of Trump Management in Brooklyn, a property management company. He was until 1991 the executive vice president of the Trump Organization, which is owned by Donald J. Trump, his brother.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

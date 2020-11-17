@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-Cisco Executive to Lead Joost, Internet TV Provider</title>
+    <meta content="05joost" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/05joost.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852375"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <org class="indexing_service">Joost (Co)</org>
+        <org class="indexing_service">Cisco Systems</org>
+        <person class="indexing_service">Volpi, Mike</person>
+        <person class="indexing_service">Stone, Brad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="descriptor">Wire and Cable</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wire and Cable</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Joost</org>
+        <org class="online_producer">Cisco Systems Inc</org>
+        <person class="online_producer">Volpi, Michelangelo</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE0D91130F936A35755C0A9619C8B63" item-length="1059" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-Cisco Executive to Lead Joost, Internet TV Provider</hl1>
+        <hl2 class="online_headline">Ex-Cisco Executive to Lead Joost, Internet TV Provider</hl2>
+      </hedline>
+      <byline class="print_byline">By BRAD STONE</byline>
+      <byline class="normalized_byline">Stone, Brad</byline>
+      <abstract>
+        <p>Joost plans to announce that it has hired former Cisco Systems executive Michelangelo Volpi as its chief executive; is building global television network that sends programming over Internet; aims to redefine entertainment as traditional television watching habits fade; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michelangelo Volpi spent 5 of his 13 years at Cisco Systems selling networking equipment to the companies like Comcast and Time Warner Cable that bring television into living rooms.</p>
+        <p>Now he is trying to do an end run around those same companies.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The high-profile Internet start-up Joost has hired Michelangelo Volpi, 40, as its new chief executive.</p>
+      </block>
+      <block class="full_text">
+        <p>Michelangelo Volpi spent 5 of his 13 years at Cisco Systems selling networking equipment to the companies like Comcast and Time Warner Cable that bring television into living rooms.</p>
+        <p>Now he is trying to do an end run around those same companies.</p>
+        <p>The high-profile Internet start-up Joost plans to announce today that it has hired Mr. Volpi, 40, as its new chief executive. Joost, which is based in London, is building a global television network of full-length TV shows and movies and sending it to viewers over the Internet.</p>
+        <p>Joost is still testing its technology with half a million viewers who can watch about 100 channels. The Joost player, which users must download to their PCs, now provides access to niche material like ''The Martial Arts Channel,'' as well as programs from better-known channels like CNN, MTV and the Cartoon Network that are properties of the media companies Time Warner and Viacom. Both were early investors in Joost.</p>
+        <p>The challenge for Mr. Volpi, who is known as Mike, will be to build the service into something that regular people will want to watch, and to make it available wherever they want to watch it -- meaning places other than their computer screens.</p>
+        <p>''Traditional television as we know it is gradually going to go away,'' Mr. Volpi said in his first interview as Joost's chief executive. ''We hope to capture the hearts and minds of users who have turned away from TV as a form of entertainment.''</p>
+        <p>Mr. Volpi said that Joost would ultimately be available in many places. ''Joost is a piece of software and it can reside on a variety of platforms,'' he said. ''It could be on a television set-top box. Or potentially it could be imbedded in a TV set with an Ethernet connection, or on a mobile phone, or in some alternative device that might come out in the future. The flexibility is really high.''</p>
+        <p>Joost was founded last year by Janus Friis and Niklas Zennstrom, creators of the Internet telephone company Skype. Five years ago, as an executive at Cisco, Mr. Volpi flew to London to meet the young founders and was intrigued by the way Skype circumvented traditional phone companies. He joined the Skype board in the fall of 2004 and left after the company was sold to eBay in 2005 for $2.6 billion.</p>
+        <p>Last year, citing the spread of speedy broadband Internet service and the opportunity to build a global TV network, the pair from Skype started Joost, originally known as the Venice Project.</p>
+        <p>In an interview, Mr. Friis said that Mr. Volpi was the only candidate they considered to head their new company. ''What you really want in these kinds of situations is someone you have had a good relationship with, who you've known for years, who you can trust and get along with,'' he said.</p>
+        <p>Quincy Smith, the president of CBS Interactive, which invested in Joost, said that Mr. Volpi is ''pound for pound one of the best operators in Silicon Valley.'' He added: ''It is a huge win for Joost and a great tribute to them that they landed him.''</p>
+        <p>Mr. Volpi was born in Milan and grew up in Japan. As head of Cisco's mergers and acquisitions team for seven years, he was responsible for the company's first 70 acquisitions. Before he left Cisco this year, he was frequently mentioned as a possible successor to the chief executive, John Chambers.</p>
+        <p>His border-crossing résumé is appropriate for Joost, a service that aspires to weave together programs from around the globe. Joost carries shows from incongruous sources like the Bollywood network Saavn; the Brazilian Music Channel; Fútbol de Nicaragua, and the National Hockey League, and it lets users personalize their channel listings.</p>
+        <p>''People in China might want to watch 'Survivor,' '' Mr. Volpi said ''People in Japan might be interested in the latest episodes of 'C.S.I.' We offer that capability in a much easier way than it has historically been offered,''.</p>
+        <p>Though his family is moving to London, Mr. Volpi said he would spend most of his time on a plane, shuttling among Joost's offices in Amsterdam, London and New York. One challenge: trying to forge closer ties among Joost's 100 employees, many of whom come from the disparate worlds of media and technology.</p>
+        <p>Another challenge Mr. Volpi will face is finding other major media companies to distribute their shows on Joost alongside those of Viacom and Time Warner.</p>
+        <p>''Eventually our hope is that other prime-time providers like NBC, Fox and Disney will come on board, because we are an attractive place given the numbers of users we have,'' Mr. Volpi said. ''Content owners don't care where content is distributed so long as it reaches a larger number of users who can be monetized.''</p>
+        <p>Mr. Volpi said he expected Joost to remain in test mode for the rest of this year, growing to around a million viewers, and then to open its doors more broadly next year.</p>
+        <p>One focus for the company will be advertising. The company has signed partnerships with companies like United Airlines, Microsoft and Sony Electronics. In addition to showing 15- or 30-second ads during programs (the commercials cannot be skipped ''for now,'' Mr. Volpi said), Joost will focus on tailoring ads to individual users based partly on the information they provide when they sign up for the service.</p>
+        <p>The company will also try some creative experiments. For example, after a 15-second commercial for toothpaste, a small graphic called an ''ad bug'' will float in the corner of the screen reminding users of the brand that was just advertised. If users click on the graphic, a new browser window will open to the Web site of the product.</p>
+        <p>''From an advertising point of view, this is a paradigm shift,'' Mr. Volpi said. ''It is not a banner ad or a text ad or a 15-second spot that used to be shown on television. It's a hybrid that allows you to target the ad to individual viewers and let them act on it.''</p>
+        <p>Mr. Volpi said he had other opportunities after leaving Cisco, but was drawn to the wide-open frontier of Internet television. ''Television is a massive market, and when you put it together with the Internet, and to be on the ground floor of that, there weren't many other opportunities to do something this big.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

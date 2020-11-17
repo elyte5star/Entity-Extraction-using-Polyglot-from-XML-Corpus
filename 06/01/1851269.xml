@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sweep at School Turns Up a Trove of Electronic Contraband</title>
+    <meta content="01school" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/nyregion/01school.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851269"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Education Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E3D91530F932A35755C0A9619C8B63" item-length="514" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sweep at School Turns Up a Trove of Electronic Contraband</hl1>
+        <hl2 class="online_headline">Sweep at School Turns Up a Trove of Electronic Contraband</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Olivia Lara-Gresty saw the metal detectors at the entrance of Middle School 54 on the Upper West Side, she turned around and ran home to ditch her contraband before joining her sixth-grade class.</p>
+        <p>The cellphone police had arrived.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The cellphone police went to Middle School 54 on the Upper West Side to collect contraband Thursday, infuriating students and parents.</p>
+      </block>
+      <block class="full_text">
+        <p>When Olivia Lara-Gresty saw the metal detectors at the entrance of Middle School 54 on the Upper West Side, she turned around and ran home to ditch her contraband before joining her sixth-grade class.</p>
+        <p>The cellphone police had arrived.</p>
+        <p>Not everyone was so savvy. The Police Department was there to carry out a random sweep for prohibited items, requiring all 900-plus students at the school to walk through metal detectors before entering.</p>
+        <p>Their total haul included 404 cellphones, 69 iPods, 23 other electronic devices, two knives and one imitation gun.</p>
+        <p>''People were crying,'' said Samantha Haber, 14, an eighth grader.</p>
+        <p>Officially, the X-ray scans are meant to catch dangerous items. But since the unannounced sweeps began in April 2006, they have mostly detected cellphones, infuriating parents who see them as lifelines and have loudly opposed the checks.</p>
+        <p>The Education Department first banned ''communication devices'' around 1988, when the electronic toy of choice was a beeper. But the rule was not strictly enforced until last year, when the Bloomberg administration took action to prohibit cellphones in schools.</p>
+        <p>The sweep yesterday was one of the biggest so far since the crackdown. An unannounced visit to a Queens school on Wednesday yielded only 40 cellphones, 16 iPods and 33 unspecified electronic devices. The police collected only 83 cellphones during a sweep at a Bronx school a week ago, but also took 37 items like headphones, batteries and can openers -- all forbidden.</p>
+        <p>According to rules set by Middle School 54's principal, Elana Elster, the items confiscated yesterday can be picked up only by parents, and no earlier than Tuesday.</p>
+        <p>Which left hundreds of students leaving school yesterday at a loss.</p>
+        <p>''I feel naked,'' said Krystal Corchado, 15, an eighth grader whose phone was seized. ''I feel like I lost something very important to me.''</p>
+        <p>Around the corner from the school, a group of six students who had managed to hold onto their phones discussed their narrow escapes.</p>
+        <p>Ian Newcomb pulled his blue Samsung phone from his pocket to demonstrate how it evaded capture. ''It's nearly all plastic, so the metal detectors didn't pick it up,'' he said. ''It was in my pocket the whole time.''</p>
+        <p>Maybe the metal detectors were not even turned on, suggested Axel McFarland, 11. ''They didn't even beep,'' he said.</p>
+        <p>One furious parent, Leslie Lyons, whose eighth-grade daughter had taken Ms. Lyons's cellphone to school, threatened to call the police after exchanging a few sharp words with an assistant principal. ''I haven't talked to our lawyer yet,'' Ms. Lyons said. ''I'm filing a criminal complaint that they stole my phone.''</p>
+        <p>Still, the high drama of the cellphone sweep appeared to provide a few teachable moments. In one humanities class, the children wrote strongly worded letters to Mr. Bloomberg, said David Garfinkel, 12. Other students taped homemade signs reading ''No Phones, No School'' to their backs in protest, said Athena Buckley, a sixth grader.</p>
+        <p>Ms. Elster, the principal, stood wearily on the front steps at 3:30 p.m., after the students had dispersed. ''I'm not going to talk,'' she said, shaking her head.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hostile Outlook May Affect Breathing, Research Shows</title>
+    <meta content="19risk" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/health/psychology/19risk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855614"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E5DE133FF93AA25755C0A9619C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hostile Outlook May Affect Breathing, Research Shows</hl1>
+        <hl2 class="online_headline">At Risk: Hostile Outlook May Affect Breathing, Research Shows</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Having a hostile attitude may affect your breathing, a new study reports.</p>
+        <p>Using a sample of 4,629 healthy adults ages 18 to 30, researchers determined hostility using a 50-item questionnaire and then administered breathing tests to record objective measures of breathing efficiency and lung capacity. The study appears in the May issue of Health Psychology.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>High scores on a hostility test were consistently associated with low scores on the measures of lung function for some groups in a recent study.</p>
+      </block>
+      <block class="full_text">
+        <p>Having a hostile attitude may affect your breathing, a new study reports.</p>
+        <p>Using a sample of 4,629 healthy adults ages 18 to 30, researchers determined hostility using a 50-item questionnaire and then administered breathing tests to record objective measures of breathing efficiency and lung capacity. The study appears in the May issue of Health Psychology.</p>
+        <p>After controlling for age, height, socioeconomic status, smoking and asthma, high scores on the hostility test were consistently associated with low scores on the measures of lung function in black men and women and in white women. The more hostile the person was, the more lung function declined. For each one-fifth increase in scores on the hostility questionnaire, there was a corresponding decrease in scores on the breathing tests. The association was not statistically significant in white men.</p>
+        <p>The reasons for the link are unclear. The researchers did not examine environmental influences on lung function other than smoking, so it may be that some unknown environmental factors lead to both poor lung function and increased hostility, or even that poor lung function causes hostility.</p>
+        <p>''This is suggestive,'' said Dr. Benita Jackson, the lead author and an assistant professor of psychology at Smith College, ''but we don't know for certain that hostility causes lung function decline. That's where more research is needed.</p>
+        <p>''The good news here is that unlike other exposures, like air pollution or genetic predisposition, hostility is something that can be changed.''</p>
+        <p>VITAL SIGNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Glamour to It</title>
+    <meta content="17stylett-4" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855222"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3D7153FF934A25755C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Glamour to It</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>For thousands of New Yorkers not in the ''social scene,'' drug abuse and its inherent problems are far from invisible. A visit to any number of treatment programs across the city will clear up any misconception about the coolness of cocaine or harmlessness of recreational drug abuse.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>For thousands of New Yorkers not in the ''social scene,'' drug abuse and its inherent problems are far from invisible. A visit to any number of treatment programs across the city will clear up any misconception about the coolness of cocaine or harmlessness of recreational drug abuse.</p>
+        <p>Just because drugs are no longer a front-page story doesn't mean addiction is not hurting millions of Americans. How many more ''parties'' will it take before trendsetters and their followers realize the true cost of cocaine abuse: family devastation, health impairment and economic failure?</p>
+        <p>Peter Provet, Ph.D.  New York</p>
+        <p>The writer is president of Odyssey House, a private nonprofit substance-abuse, mental-health treatment and housing agency based in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

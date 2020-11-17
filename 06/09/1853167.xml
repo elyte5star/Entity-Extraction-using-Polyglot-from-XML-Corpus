@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BROADCASTER VICTORY</title>
+    <meta content="09five-4" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853167"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="indexing_service" type="descriptor">Profanity</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <org class="indexing_service">Federal Communications Commission</org>
+        <org class="indexing_service">Abc Inc</org>
+        <org class="indexing_service">Cbs Corp</org>
+        <org class="indexing_service">Fox Entertainment Group</org>
+        <org class="indexing_service">Nbc Universal</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Labaton, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Profanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DD163FF93AA35755C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BROADCASTER VICTORY</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN LABATON</byline>
+      <byline class="normalized_byline">Labaton, Stephen</byline>
+      <abstract>
+        <p>Five Days column; Federal Communications Commission and Bush administration suffered sharp setback when federal appeals court struck down government policy of punishing networks and stations for broadcasting shows with fleeting obscenities (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Communications Commission and the Bush administration suffered a sharp setback when a federal appeals court struck down the government policy of punishing networks and stations for broadcasting shows with fleeting obscenities.</p>
+        <p>The commission, which recently has stepped up enforcement against broadcasters, is widely expected to appeal the decision either to the full federal appeals court in New York, or directly to the Supreme Court.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Communications Commission and the Bush administration suffered a sharp setback when a federal appeals court struck down the government policy of punishing networks and stations for broadcasting shows with fleeting obscenities.</p>
+        <p>The commission, which recently has stepped up enforcement against broadcasters, is widely expected to appeal the decision either to the full federal appeals court in New York, or directly to the Supreme Court.</p>
+        <p>In a separate case that will be heard before a federal appeals court in Philadelphia in September, the commission is preparing to defend its decision to punish CBS over the halftime show at the 2004 Super Bowl, when Janet Jackson briefly exposed a breast.</p>
+        <p>The legal challenges will ultimately determine how aggressively the commission can restrict language and content on the airwaves. In recent years, the agency has imposed a record-breaking amount of fines. Two years ago, Congress increased the potential maximum penalty for each infraction by tenfold, to $325,000.</p>
+        <p>STEPHEN LABATON</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

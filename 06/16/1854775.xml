@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Multinational Loaf</title>
+    <meta content="16schnf" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854775"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D8153FF935A25755C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Multinational Loaf</hl1>
+      </hedline>
+      <byline class="print_byline">By AMY SCHOENFELD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many American food products are a mix of global ingredients, as foreign supplies often offer a cheaper alternative to those made in the United States. While the source of ingredients is typically kept private by companies, Sara Lee revealed the supplying countries for its new whole grain white bread. Nearly a third of the list came from foreign sources, meaning Sara Lee, along with many large food companies, faces the increasing task of ensuring that foreign suppliers meet the best possible safety standards.</p>
+        <p>AMY SCHOENFELD</p>
+      </block>
+      <block class="full_text">
+        <p>Many American food products are a mix of global ingredients, as foreign supplies often offer a cheaper alternative to those made in the United States. While the source of ingredients is typically kept private by companies, Sara Lee revealed the supplying countries for its new whole grain white bread. Nearly a third of the list came from foreign sources, meaning Sara Lee, along with many large food companies, faces the increasing task of ensuring that foreign suppliers meet the best possible safety standards.</p>
+        <p>AMY SCHOENFELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

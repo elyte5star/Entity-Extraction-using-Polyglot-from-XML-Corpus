@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Justice Thomas's View</title>
+    <meta content="l11thomas" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853788"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DE173FF932A25755C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Justice Thomas's View</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Adam Cohen (Editorial Observer, June 3) disapproves of Justice Clarence Thomas's jurisprudence, because in Mr. Cohen's view it is indifferent to suffering and ''harsh,'' will make various institutions ''less civilized'' and ''less fair,'' and fails to respond to ''moral truth.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Adam Cohen (Editorial Observer, June 3) disapproves of Justice Clarence Thomas's jurisprudence, because in Mr. Cohen's view it is indifferent to suffering and ''harsh,'' will make various institutions ''less civilized'' and ''less fair,'' and fails to respond to ''moral truth.''</p>
+        <p>But a justice's job under our Constitution is not to decree what is civilized or fair or even what is moral truth; it is to follow the law. Justice Thomas believes that the way to follow the law is to follow the text of legal documents, like the Constitution adopted by We the People and the laws passed by the legislators we have elected.</p>
+        <p>I suspect that many of Justice Thomas's critics would be horrified if they thought that the Bush administration were ignoring the text of the Constitution or a federal law to advance what it viewed as a higher moral truth. Why do they think that another branch of government should do so?</p>
+        <p>Roger Clegg  President and General Counsel  Center for Equal Opportunity  Falls Church, Va., June 3, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

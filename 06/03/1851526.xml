@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BILOON, SANDRA</title>
+    <meta content="dn060307.2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851526"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BILOON, SANDRA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DE143AF930A35755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BILOON, SANDRA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BILOON--Sandra, of South Main St., West Hartford, Connecticut, died Friday, June 1, 2007. She was predeceased by her husband, Harold Biloon, and by her parents, Morris and Helen (Antler) Green. She received her Bachelor of Arts degree from Radcliffe College, Harvard University and a Master Of Arts degree from Trinity College, Hartford. She was Director of Personnel and Labor Relations for the State of Connecticut and served as president of the International Public Management Association for Human Resources as well as the National Association of State Personnel Executives. Sandra was an adjunct professor in the Master of Public Affairs program at the University of Connecticut and also served as a neutral labor arbitrator. Funeral services are private. Services entrusted to Weinstein Mortuary, Hartford, Connecticut.</p>
+      </block>
+      <block class="full_text">
+        <p>BILOON--Sandra, of South Main St., West Hartford, Connecticut, died Friday, June 1, 2007. She was predeceased by her husband, Harold Biloon, and by her parents, Morris and Helen (Antler) Green. She received her Bachelor of Arts degree from Radcliffe College, Harvard University and a Master Of Arts degree from Trinity College, Hartford. She was Director of Personnel and Labor Relations for the State of Connecticut and served as president of the International Public Management Association for Human Resources as well as the National Association of State Personnel Executives. Sandra was an adjunct professor in the Master of Public Affairs program at the University of Connecticut and also served as a neutral labor arbitrator. Funeral services are private. Services entrusted to Weinstein Mortuary, Hartford, Connecticut.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

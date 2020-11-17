@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Queens Man, Possibly Armed, Shot by Police</title>
+    <meta content="17shoot" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/17shoot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855303"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EEDE123FF934A25755C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Queens Man, Possibly Armed, Shot by Police</hl1>
+        <hl2 class="online_headline">Queens Man, Possibly Armed, Shot by Police</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Police officers shot and wounded a Queens man yesterday who had been threatening people with what appeared to be a handgun, but may have been a pellet gun, the police said.</p>
+        <p>The man, whose identity has not been released, was standing in front of his home in the Rosedale section about 9 p.m., waving what appeared to be a firearm, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Police officers shot and wounded a Queens man who had been threatening people with what appeared to be a handgun, but may have been a pellet gun, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>Police officers shot and wounded a Queens man yesterday who had been threatening people with what appeared to be a handgun, but may have been a pellet gun, the police said.</p>
+        <p>The man, whose identity has not been released, was standing in front of his home in the Rosedale section about 9 p.m., waving what appeared to be a firearm, the police said.</p>
+        <p>It is unclear what happened once officers arrived, but the police shot the man. He was taken to Jamaica Hospital Medical Center, where he was in critical condition last night, the police said</p>
+        <p>An officer involved in the shooting was taken to the hospital with a shoulder injury, though the nature of the injury was not immediately clear, the police said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

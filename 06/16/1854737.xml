@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leonard Pickell Jr., 53, Ex-Leader Who Stole From Beard Foundation</title>
+    <meta content="16pickell" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/nyregion/16pickell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854737"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Business and Finance</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Leonard F. Pickell Jr.</classifier>
+        <person class="indexing_service">Pickell, Leonard F Jr</person>
+        <person class="indexing_service">Fox, Nick</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <org class="online_producer">Beard, James, Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E5D9153FF935A25755C0A9619C8B63" item-length="249" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leonard Pickell Jr., 53, Ex-Leader Who Stole From Beard Foundation</hl1>
+        <hl2 class="online_headline">Leonard Pickell Jr., 53, Is Dead; Ex-Leader Who Stole From Beard Foundation</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK FOX</byline>
+      <byline class="normalized_byline">Fox, Nick</byline>
+      <abstract>
+        <p>Leonard F Pickell Jr, former president of James Beard Foundation who was imprisoned for stealing from it after years of promoting it as one of nation's top culinary institutions, dies at age 53 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Leonard F. Pickell Jr., the former president of the James Beard Foundation who was imprisoned for stealing from it after years of promoting it as one of the nation's top culinary institutions, died on Wednesday at his home in Howell, N.J. He was 53.</p>
+        <p>A private autopsy determined that the cause was embolisms in both lungs, said Jonathan C. Reiter, a lawyer representing Mr. Pickell and his family.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Leonard F. Pickell Jr. was imprisoned for stealing from the James Beard Foundation after promoting it as a top culinary institution.</p>
+      </block>
+      <block class="full_text">
+        <p>Leonard F. Pickell Jr., the former president of the James Beard Foundation who was imprisoned for stealing from it after years of promoting it as one of the nation's top culinary institutions, died on Wednesday at his home in Howell, N.J. He was 53.</p>
+        <p>A private autopsy determined that the cause was embolisms in both lungs, said Jonathan C. Reiter, a lawyer representing Mr. Pickell and his family.</p>
+        <p>Mr. Pickell became actively involved with the James Beard group in 1988, shortly after it was founded. He became president in 1995, and questions were soon raised about spending practices. Those questions were not answered until the organization's accountant refused to certify its books in 2004 and the state attorney general's office began investigating.</p>
+        <p>In January 2005, Mr. Pickell pleaded guilty to second-degree grand larceny. Prosecutors said he had stolen more than $1 million in cash and unauthorized expenses in his last three years in office. He was sentenced to one to three years in prison in June of that year and, Mr. Reiter said, was released last August. Mr. Reiter is representing the family in a lawsuit charging that the embolisms resulted from inadequate care in prison. Efforts to reach state correctional services officials by telephone for comment were unsuccessful.</p>
+        <p>Mr. Pickell is survived by his wife, Marlene; two daughters, Brittany and Margaux; his mother, Bette Pizzica Pickell of Blue Bell, Pa.; and two brothers, Kevin, also of Blue Bell, and Derek A., of Boynton Beach, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

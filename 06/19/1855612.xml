@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hospital Work-Hour Rules Seen as Better for Patients</title>
+    <meta content="19outc" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/health/19outc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855612"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5DE133FF93AA25755C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hospital Work-Hour Rules Seen as Better for Patients</hl1>
+        <hl2 class="online_headline">Outcomes: Hospital Work-Hour Rules Seen as Better for Patients</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rules limiting the number of hours hospital interns and residents can work were intended to improve patient care, but there were fears that signing cases over to a new team at a specified time would be harmful. Those fears have not been realized, according to a new study, and the work-hour rules have resulted in better care for patients.</p>
+        <p>Over two years, researchers at Yale-New Haven Hospital gathered data on length of stay, 30-day readmission rates and medication errors before and after the new rules were instituted -- both on teaching services, where the new work-hour rules apply, and, as a control, on nonteaching services where the rules did not change.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests that new work-hour rules for hospital interns and residents have resulted in better care for patients.</p>
+      </block>
+      <block class="full_text">
+        <p>Rules limiting the number of hours hospital interns and residents can work were intended to improve patient care, but there were fears that signing cases over to a new team at a specified time would be harmful. Those fears have not been realized, according to a new study, and the work-hour rules have resulted in better care for patients.</p>
+        <p>Over two years, researchers at Yale-New Haven Hospital gathered data on length of stay, 30-day readmission rates and medication errors before and after the new rules were instituted -- both on teaching services, where the new work-hour rules apply, and, as a control, on nonteaching services where the rules did not change.</p>
+        <p>The teaching services saw a decrease in transfers to the intensive care unit, a decrease in medication errors and an increase in discharges to home or rehabilitation. After adjusting for other variables, there was also a significant decrease in deaths. While drug interaction errors increased, they also increased on the nonteaching service, probably because of the addition of new interaction rules to the database.</p>
+        <p>The authors acknowledge that their study, published in the July 17 issue of The Annals of Internal Medicine, was not randomized, that it was limited to one hospital and that they depended on administrative data that might have contained inaccuracies or inconsistencies.</p>
+        <p>VITAL SIGNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

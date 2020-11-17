@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Loving Arizona, Even When It Sizzles</title>
+    <meta content="l19phoenix" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855637"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Phoenix</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Conditioning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3DE133FF93AA25755C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Loving Arizona, Even When It Sizzles</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The First Domed City,'' by Timothy Egan (column, June 16):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The First Domed City,'' by Timothy Egan (column, June 16):</p>
+        <p>As residents in the Valley of the Sun for 20 years, émigrés from the cold Eastern Seaboard, my husband and I have grown accustomed to the extreme high temperature during the summer months.</p>
+        <p>As one ages, the body experiences aches and pains, and for us, heat is a more comforting therapy than cold. Also, the dryness of the Arizona climate is far more tolerable than lower temperatures with heavy humidity.</p>
+        <p>I play a game as I open my car door with a pot holder after the vehicle has been sitting in the hot sun for a period of time. As I plunk down in the inferno of the car, I tell myself that I am at an expensive exclusive spa enjoying the healthful benefits of the sauna.</p>
+        <p>With magnificent views of the unique desert and mountains (Camelback up close), I luxuriate in the warmth with the hope that the sweat exiting my body is ridding me of poisonous toxins and extra calories.</p>
+        <p>How much better this is than shivering, scraping ice, bundling up from head to toe in my Eastern alma mater during the winter months.</p>
+        <p>Emily Small</p>
+        <p>Scottsdale, Ariz., June 16, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

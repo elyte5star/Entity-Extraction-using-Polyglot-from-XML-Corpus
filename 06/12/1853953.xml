@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Facebook Free-for-All</title>
+    <meta content="12pfacebook" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853953"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS: THE RACE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DB173FF931A25755C0A9619C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Facebook Free-for-All</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID D. KIRKPATRICK</byline>
+      <byline class="normalized_byline">Kirkpatrick, David</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the social networking Web site Facebook opened itself to third-party businesses two weeks ago, users found new features from a few dozen outside sites, including Microsoft, Amazon, and just one political campaign: Senator Barack Obama's.</p>
+        <p>The Obama campaign's inclusion in the much-publicized opening of Facebook set off immediate buzz in the online political world. The campaign got an early crack at the millions of Facebook users, and Mr. Obama gained some free publicity. Some argued that he was getting an in-kind campaign contribution. And the fact that a Facebook founder, Chris Hughes, is an adviser to Mr. Obama added fuel to the fire.</p>
+      </block>
+      <block class="full_text">
+        <p>When the social networking Web site Facebook opened itself to third-party businesses two weeks ago, users found new features from a few dozen outside sites, including Microsoft, Amazon, and just one political campaign: Senator Barack Obama's.</p>
+        <p>The Obama campaign's inclusion in the much-publicized opening of Facebook set off immediate buzz in the online political world. The campaign got an early crack at the millions of Facebook users, and Mr. Obama gained some free publicity. Some argued that he was getting an in-kind campaign contribution. And the fact that a Facebook founder, Chris Hughes, is an adviser to Mr. Obama added fuel to the fire.</p>
+        <p>''Did Facebook play favorites with Obama?'' asked the Web site TechPresident, which tracks the race.</p>
+        <p>Legally, it hardly matters, said Kenneth Gross, an election law expert. A 2002 ruling by the Federal Election Commission excludes Web sites from restrictions on giveaways of other forms of media. ''The Internet is essentially a free-for-all,'' Mr. Gross said. ''It is treated differently than any other method of communication.''</p>
+        <p>DAVID D. KIRKPATRICK</p>
+        <p>THE CAUCUS: THE RACE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

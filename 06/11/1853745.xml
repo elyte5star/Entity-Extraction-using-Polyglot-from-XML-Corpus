@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY IN BUSINESS</title>
+    <meta content="11biztoday" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1DF173FF932A25755C0A9619C8B63" item-length="558" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY IN BUSINESS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MOVING ON -- Daniel Menaker, the executive editor in chief of the Random House Publishing Group who was hired four years ago for his reputation in literary fiction, is leaving the company. [Page C1.]</p>
+        <p>A QUICK CHANGE -- The outsize robot adventure movie ''Transformers'' was born when the talent agency Creative Artists Agency connected Hasbro -- a client, and owner of the Transformers toy line -- with DreamWorks, Paramount and another longtime associate, Steven Spielberg, among others. But a month before the picture's release on July 4, Hasbro has jettisoned Creative Artists and jumped to the rival William Morris. [C1.]</p>
+        <p>FODDER FOR THE BLOGGERS -- When representatives of the news media asked that the letters in support of I. Lewis Libby Jr., left, be released, Mr. Libby's lawyers argued against it, saying it ''needlessly risks undermining the fair administration of justice.'' Then, alluding to the sometimes combative world of online media, they added there was ''the real possibility that these letters, once released, would be published on the Internet and their authors discussed, even mocked, by bloggers.'' They were right. [C6.]</p>
+        <p>NEWSPAPERS IN TURMOIL -- The McClatchy Company bought Knight Ridder and then sold pieces of it, the Tribune Company took itself private, and Rupert Murdoch has mounted a strong run at Dow Jones &amp; Company-- all in the last year. Struggling with shrinking margins and uncertain prospects, newspapers have seen their stock prices slump, making them takeover targets. But bankers and analysts are skeptical that the takeover bids will continue. [C3.]</p>
+        <p>ORGANIC BATTLE -- The latest battle over what can be called organic involves beer and gelatin, food colorings and casings for sausage. The Department of Agriculture is poised to approve a list of nonorganic ingredients that can be used in food stamped with its green-and-white organic seal. [C2.]</p>
+        <p>SONY GAMES -- Sony Online intends to announce a plan to retake leadership in online gaming by unveiling three games in development. More broadly, the new games represent an attempt to expand the demographic profile of its customers while moving into the console market. [C3.]</p>
+        <p>ALZHEIMER'S DISEASE -- A drug long used in Russia as an antihistamine, Dimebon, is showing what some scientists characterize as surprisingly strong results in treating Alzheimer's disease. Results of a midstage clinical trial are expected to be presented this week. [C2.]</p>
+        <p>AN ONLINE PUSH -- Retailers and manufacturers like Reebok, Adidas and 1-800Flowers.com are setting up shop in Second Life, hoping that users will steer avatars to these stores and buy goods from real stores. So far, retailers have low expectations for their efforts. Bob Tedeschi: E-Commerce Report. [C7.]</p>
+        <p>TO EXCERPT OR PUBLISH -- Although excerpts from high-profile books routinely appear in national magazines, some publishers have been having second thoughts about the strategy. Frequently, an excerpt can offer a lift to a book's sales, but there is always the risk that it might offer too much, thus stealing thunder (and revenue) from the book. Magazine editors are now routinely exploring their options, choosing instead to run a feature about the book or an interview with the author. [C6.]</p>
+        <p>HIGH SCHOOL MARKETING -- Decades after marketers began selling products by capitalizing on consumer interest in professional teams, then college teams, they are becoming big boosters of high school sports. Stuart Elliot: Advertising. [C1.]</p>
+      </block>
+      <block class="full_text">
+        <p>MOVING ON -- Daniel Menaker, the executive editor in chief of the Random House Publishing Group who was hired four years ago for his reputation in literary fiction, is leaving the company. [Page C1.]</p>
+        <p>A QUICK CHANGE -- The outsize robot adventure movie ''Transformers'' was born when the talent agency Creative Artists Agency connected Hasbro -- a client, and owner of the Transformers toy line -- with DreamWorks, Paramount and another longtime associate, Steven Spielberg, among others. But a month before the picture's release on July 4, Hasbro has jettisoned Creative Artists and jumped to the rival William Morris. [C1.]</p>
+        <p>FODDER FOR THE BLOGGERS -- When representatives of the news media asked that the letters in support of I. Lewis Libby Jr., left, be released, Mr. Libby's lawyers argued against it, saying it ''needlessly risks undermining the fair administration of justice.'' Then, alluding to the sometimes combative world of online media, they added there was ''the real possibility that these letters, once released, would be published on the Internet and their authors discussed, even mocked, by bloggers.'' They were right. [C6.]</p>
+        <p>NEWSPAPERS IN TURMOIL -- The McClatchy Company bought Knight Ridder and then sold pieces of it, the Tribune Company took itself private, and Rupert Murdoch has mounted a strong run at Dow Jones &amp; Company-- all in the last year. Struggling with shrinking margins and uncertain prospects, newspapers have seen their stock prices slump, making them takeover targets. But bankers and analysts are skeptical that the takeover bids will continue. [C3.]</p>
+        <p>ORGANIC BATTLE -- The latest battle over what can be called organic involves beer and gelatin, food colorings and casings for sausage. The Department of Agriculture is poised to approve a list of nonorganic ingredients that can be used in food stamped with its green-and-white organic seal. [C2.]</p>
+        <p>SONY GAMES -- Sony Online intends to announce a plan to retake leadership in online gaming by unveiling three games in development. More broadly, the new games represent an attempt to expand the demographic profile of its customers while moving into the console market. [C3.]</p>
+        <p>ALZHEIMER'S DISEASE -- A drug long used in Russia as an antihistamine, Dimebon, is showing what some scientists characterize as surprisingly strong results in treating Alzheimer's disease. Results of a midstage clinical trial are expected to be presented this week. [C2.]</p>
+        <p>AN ONLINE PUSH -- Retailers and manufacturers like Reebok, Adidas and 1-800Flowers.com are setting up shop in Second Life, hoping that users will steer avatars to these stores and buy goods from real stores. So far, retailers have low expectations for their efforts. Bob Tedeschi: E-Commerce Report. [C7.]</p>
+        <p>TO EXCERPT OR PUBLISH -- Although excerpts from high-profile books routinely appear in national magazines, some publishers have been having second thoughts about the strategy. Frequently, an excerpt can offer a lift to a book's sales, but there is always the risk that it might offer too much, thus stealing thunder (and revenue) from the book. Magazine editors are now routinely exploring their options, choosing instead to run a feature about the book or an interview with the author. [C6.]</p>
+        <p>HIGH SCHOOL MARKETING -- Decades after marketers began selling products by capitalizing on consumer interest in professional teams, then college teams, they are becoming big boosters of high school sports. Stuart Elliot: Advertising. [C1.]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

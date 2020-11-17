@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surrounded by Speed And Taking It Slow</title>
+    <meta content="10nascar" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/travel/10nascar.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853445"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PHOTO ESSAY | NASCAR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobile Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Lowe's Motor Speedway (Concord, Nc)</classifier>
+        <location class="indexing_service">Concord (Nc)</location>
+        <org class="indexing_service">Nascar</org>
+        <person class="indexing_service">Ramirez, Chris</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Recreational Vehicles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recreational Vehicles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <location class="online_producer">North Carolina</location>
+        <org class="online_producer">National Assn of Stock Car Auto Racing</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DB1130F933A25755C0A9619C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surrounded by Speed And Taking It Slow</hl1>
+        <hl2 class="online_headline">Surrounded by Speed and Taking It Slow</hl2>
+      </hedline>
+      <abstract>
+        <p>Photo essay by photographer Chris Ramirez of Nascar Nextel AllStar Challenge race at Lowe's Motor Speedway in Concord, NC (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Race weekend at Lowe's Motor Speedway in Concord, N.C., just outside Charlotte, is 2,000 acres of pure American spectacle. Thousands of Nascar fans, some in $49 tents bought at Wal-Mart and others in expensive RVs whose amenities rival that of luxury hotels, camp in the heart of the oval track, often arriving early in the day, and set up their temporary homes as they await the night's main event.</p>
+        <p>On the weekend of May 19, the photographer Chris Ramirez joined the crowd watching the Nascar Nextel All-Star Challenge race (won by Kevin Harvick in a close finish over last year's champion, Jimmie Johnson) and captured this uniquely American ritual in all its glory.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Race weekend at Lowe’s Motor Speedway in Concord, N.C., just outside Charlotte, is 2,000 acres of pure American spectacle.</p>
+      </block>
+      <block class="full_text">
+        <p>Race weekend at Lowe's Motor Speedway in Concord, N.C., just outside Charlotte, is 2,000 acres of pure American spectacle. Thousands of Nascar fans, some in $49 tents bought at Wal-Mart and others in expensive RVs whose amenities rival that of luxury hotels, camp in the heart of the oval track, often arriving early in the day, and set up their temporary homes as they await the night's main event.</p>
+        <p>On the weekend of May 19, the photographer Chris Ramirez joined the crowd watching the Nascar Nextel All-Star Challenge race (won by Kevin Harvick in a close finish over last year's champion, Jimmie Johnson) and captured this uniquely American ritual in all its glory.</p>
+        <p>Few of life's creature comforts were left behind at home, as fans stoked the fires in their elaborate portable barbecue pits or gathered in front of plasma televisions atop mobile homes, allowing them not only to see the race live but to experience it in high def as well.</p>
+        <p>PHOTO ESSAY | NASCAR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

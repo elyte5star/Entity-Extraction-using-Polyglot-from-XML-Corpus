@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BLACK-BOX WARNINGS</title>
+    <meta content="09five-2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853165"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Avandia (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Actos (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Labeling and Labels</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <org class="indexing_service">Glaxosmithkline</org>
+        <org class="indexing_service">Takeda Pharmaceutical</org>
+        <org class="indexing_service">Lilly, Eli, &amp; Co</org>
+        <person class="indexing_service">Harris, Gardiner</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labeling and Labels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E5DD163FF93AA35755C0A9619C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BLACK-BOX WARNINGS</hl1>
+      </hedline>
+      <byline class="print_byline">By GARDINER HARRIS</byline>
+      <byline class="normalized_byline">Harris, Gardiner</byline>
+      <abstract>
+        <p>Five Days column; Food and Drug Administration disclosed in Congressional hearing that it had asked GlaxoSmithKline, maker of diabetes drug Avandia, and Takeda Pharmaceuticals and Eli Lilly &amp; Co, makers of competing drug Actos, to carry so-called black box warning of heart risks because of 'despite existing warnings, these drugs were being prescribed to patients with significant heart failure'; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1962, the Food and Drug Administration reviewer who uncovered the dangers of thalidomide got a presidential medal. Yesterday, the F.D.A. safety supervisor who accurately warned about the heart dangers of the diabetes drug Avandia left the agency under a cloud.</p>
+        <p>Times have changed at the F.D.A.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1962, the Food and Drug Administration reviewer who uncovered the dangers of thalidomide got a presidential medal. Yesterday, the F.D.A. safety supervisor who accurately warned about the heart dangers of the diabetes drug Avandia left the agency under a cloud.</p>
+        <p>Times have changed at the F.D.A.</p>
+        <p>In recent years, F.D.A. reviewers who uncovered drug dangers have been investigated criminally, rebuked publicly and threatened with retaliation.</p>
+        <p>This week, the F.D.A. disclosed in a Congressional hearing that it had asked GlaxoSmithKline, maker of Avandia, and Takeda Pharmaceuticals and Eli Lilly &amp; Company, makers of a competing medicine, to carry the so-called black box warning of heart risks because ''despite existing warnings, these drugs were being prescribed to patients with significant heart failure.''</p>
+        <p>The drug makers say such a warning takes weeks or months to put in place. The F.D.A., meanwhile, is working to make the black-box warnings more prominent on packaging.</p>
+        <p>GARDINER HARRIS</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

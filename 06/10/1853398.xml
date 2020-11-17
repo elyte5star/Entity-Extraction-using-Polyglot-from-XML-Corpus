@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Rare Monkeys Born at Bridgeport Zoo</title>
+    <meta content="10weekctCN-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853398"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Monkeys and Apes</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <classifier class="indexing_service" type="descriptor">Beardsley Park Zoo (Bridgeport, Conn)</classifier>
+        <person class="indexing_service">Holtz, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE6D8163FF933A25755C0A9619C8B63" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Rare Monkeys Born at Bridgeport Zoo</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF HOLTZ</byline>
+      <byline class="normalized_byline">Holtz, Jeff</byline>
+      <abstract>
+        <p>Pair of rare Brazilian golden lion tamarin monkeys, for second time in less than year, are born at Beardsley Zoo in Bridgeport, Conn; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the second time in less than a year, a pair of rare Brazilian monkeys has been born at the Beardsley Zoo in Bridgeport.</p>
+        <p>The zoo announced last Monday that two female golden lion tamarin monkeys were born on May 5. A male and a female were born to the same 5-year-old parents last August.</p>
+      </block>
+      <block class="full_text">
+        <p>For the second time in less than a year, a pair of rare Brazilian monkeys has been born at the Beardsley Zoo in Bridgeport.</p>
+        <p>The zoo announced last Monday that two female golden lion tamarin monkeys were born on May 5. A male and a female were born to the same 5-year-old parents last August.</p>
+        <p>Gregg Dancho, the zoo's director, said golden lion tamarin monkeys are one of the most endangered species in the world. He said there were only about 1,500 living in the wild in the coastal rain forest in Brazil and approximately another 450 living in captivity as part of breeding and protection programs. There were fewer than 200 of the monkeys in the world in the early 1970s.</p>
+        <p>The monkeys had become endangered because extensive logging had divided the rapidly disappearing forest where they live into small, unconnected areas, Mr. Dancho said.</p>
+        <p>The monkeys in captivity are owned by the Brazilian government, which will eventually decide where they wind up. But Mr. Dancho said the four born in Bridgeport could someday be released into the wild.</p>
+        <p>Golden lion tamarins eat fruit, insects and small lizards in the wild. The zoo has been feeding them fruit, meal worms and crickets.</p>
+        <p>Mr. Dancho said golden lion tamarins normally lived for eight years in captivity. He said, however, that the infant mortality rate in the first year was 40 percent.</p>
+        <p>Golden lion tamarins are small, usually weighing a pound or less. They get their name from the long golden hair around their face that is similar to a lion's mane.</p>
+        <p>Steven L. Feldman, a spokesman for the Association of Zoos and Aquariums, which runs a program called the Species Survival Plan that arranges the breeding of the monkeys, said the new golden lion tamarins in Bridgeport were ''great additions.''</p>
+        <p>''They will help preserve golden lion tamarins for future generations,'' he said.</p>
+        <p>Mr. Dancho said they were fun for visitors at the zoo to watch.</p>
+        <p>''The babies are starting to make forays away from the parents,'' he said, ''but sometimes the adults are leaping around with the little ones riding piggyback and holding on tightly.''</p>
+        <p>JEFF HOLTZ</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

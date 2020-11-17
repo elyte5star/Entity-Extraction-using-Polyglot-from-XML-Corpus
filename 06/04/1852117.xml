@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No, Not Everyone Skips the Commercials</title>
+    <meta content="04drill" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/business/media/04drill.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852117"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DRILLING DOWN"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Digital Video Recorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Nielsen Media Research</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DF1130F937A35755C0A9619C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No, Not Everyone Skips the Commercials</hl1>
+        <hl2 class="online_headline">No, Not Everyone Skips the Commercials</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX MINDLIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last Thursday, Nielsen Media Research began releasing standardized information about viewership of commercials. The numbers came as a relief to television executives, showing that viewers who own DVRs do not fast-forward through the ads as much as had been feared.</p>
+        <p>Even if they did not confirm the industry's worst expectations, however, the numbers still showed that DVR ownership affected ad viewing. For example, among all 18- to 49-year-olds who watched the real-time broadcast of ''The Office'' on May 10, about 249,000 people did not tune into the commercials, a 6.2 percent drop-off in viewership.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Numbers from Nielsen Media Research showed that viewers who own DVRs do not fast-forward through ads as much as had been feared.</p>
+      </block>
+      <block class="full_text">
+        <p>Last Thursday, Nielsen Media Research began releasing standardized information about viewership of commercials. The numbers came as a relief to television executives, showing that viewers who own DVRs do not fast-forward through the ads as much as had been feared.</p>
+        <p>Even if they did not confirm the industry's worst expectations, however, the numbers still showed that DVR ownership affected ad viewing. For example, among all 18- to 49-year-olds who watched the real-time broadcast of ''The Office'' on May 10, about 249,000 people did not tune into the commercials, a 6.2 percent drop-off in viewership.</p>
+        <p>But in households that owned a DVR, commercials were skipped by 50.9 percent of those who watched the show, a figure that counts both live viewers and those who watched the show up to a week after its broadcast.</p>
+        <p>Over all, in the first week of May, the proportion of viewers who stuck around for TV commercials was 69.9 percent among 18- to 49-year-olds in households with DVRs, 24 percentage points lower than it was for real-time viewers that age in all households.</p>
+        <p>''I don't think people were shocked,'' said Brad Adgate, senior vice president for research at Horizon Media, an ad-buying agency. ''I think the industry was hanging its hat on 70 percent at some point,'' as the proportion of DVR viewers who watched commercials.</p>
+        <p>ALEX MINDLIN</p>
+        <p>DRILLING DOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

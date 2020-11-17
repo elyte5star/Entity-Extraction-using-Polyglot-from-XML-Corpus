@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smooth Lips For Men (Yes, Men!)</title>
+    <meta content="07balm" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/fashion/07balm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852648"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="descriptor">Men</classifier>
+        <classifier class="online_producer" type="descriptor">Cosmetics and Toiletries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EFDC1E30F934A35755C0A9619C8B63" item-length="399" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smooth Lips For Men (Yes, Men!)</hl1>
+        <hl2 class="online_headline">Smooth Lips for Men (Yes, Men!)</hl2>
+      </hedline>
+      <byline class="print_byline">By MARCELLE S. FISCHLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HE carries one in his pocket, said Landon Yeager, an auditor from Dallas. ''One in my gym bag, one in my briefcase, one in my desk and one in my car.''</p>
+        <p>And every morning after he brushes his teeth, Mr. Yeager, 27, puts some of it on.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As the men’s market for moisturizers and sun protection has grown, so has the market for lip balm.</p>
+      </block>
+      <block class="full_text">
+        <p>HE carries one in his pocket, said Landon Yeager, an auditor from Dallas. ''One in my gym bag, one in my briefcase, one in my desk and one in my car.''</p>
+        <p>And every morning after he brushes his teeth, Mr. Yeager, 27, puts some of it on.</p>
+        <p>Since he started using Jack Black Intense Lip Therapy Balm about five years ago to soothe lips frequently chapped from airline travel, Mr. Yeager said he has been hooked on the ''cool mint feeling.'' So hooked that for his wedding last year he included the balm in a cosmetic gift pack for his groomsmen.</p>
+        <p>As the men's market for moisturizers and sun protection has grown, so has the market for lip balm. Besides longstanding unisex standards like ChapStick, Blistex and Kiehl's, macho choices like Jack Black, a line that exclusively targets men, are proliferating.</p>
+        <p>According to a 2005 report by Packaged Facts, a publishing division of MarketResearch.com, lip care products ''are performance orientated, and chapped lips are a rugged sort of ailment that men can treat without feeling effete.''</p>
+        <p>Milicent Brooks, a spokeswoman for Wyeth Consumer Health Care, ChapStick's parent company, said, ''There is definitely a cult following for men and ChapStick,'' particularly the original lip balm in the black stick tube.</p>
+        <p>Grant Deady, a spokesman for Blistex, said about 40 percent of its customers are men.</p>
+        <p>At retailers like Sephora, lip balm is among the most popular skin care items for men, said Rene Shepherd, Sephora's grooming merchant. And Burt's Bees has been so inspired by its 20 percent increase in lip balm sales over the last two years that it plans to start its first complete line of men's personal grooming products in October, said Mike Indursky, chief marketing and strategic officer.</p>
+        <p>Some men, meanwhile, are beginning to go a bit more daring, aiming for not just moisture but shine.</p>
+        <p>''Gloss has an extra pampering feeling to it,'' said Eric Perino, 25, who switched from L'Occitane en Provence's Shea Butter to Clearly Kiehl's, a unisex lip gloss with a slight shine that was introduced in January.</p>
+        <p>Mr. Perino, who recently earned a master's in international finance policy at Columbia University, said the gloss gives him a bit more sophistication as he starts his new job in real estate finance. And, he said: ''It's not medicinal at all. You can pucker your lips and it tastes nice.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

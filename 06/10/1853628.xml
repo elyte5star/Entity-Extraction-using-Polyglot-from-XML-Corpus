@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Erica Atkinson, Benjamin Applestein</title>
+    <meta content="10ATKINSON" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10ATKINSON.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853628"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Atkinson, Erica Ren�e (Erica Ren�e Applestein)</person>
+        <person class="indexing_service">Applestein, Benjamin John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EED71F30F933A25755C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Erica Atkinson, Benjamin Applestein</hl1>
+        <hl2 class="online_headline">Erica Atkinson, Benjamin Applestein</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Erica Renée Atkinson, the daughter of Rhys Timm Atkinson and Craig Alan Atkinson of Bridgeport, Conn., was married yesterday in Fairfield, Conn., to Benjamin John Applestein, the son of Donna Marsicano Applestein and Dr. Jeffrey Mark Applestein of La Jolla, Calif. The Rev. Doran B. Morford, a Quaker minister, officiated at the Country Club of Fairfield.</p>
+        <p>The couple met at Duke, from which they graduated, she summa cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Erica Renée Atkinson, the daughter of Rhys Timm Atkinson and Craig Alan Atkinson of Bridgeport, Conn., was married yesterday in Fairfield, Conn., to Benjamin John Applestein, the son of Donna Marsicano Applestein and Dr. Jeffrey Mark Applestein of La Jolla, Calif. The Rev. Doran B. Morford, a Quaker minister, officiated at the Country Club of Fairfield.</p>
+      </block>
+      <block class="full_text">
+        <p>Erica Renée Atkinson, the daughter of Rhys Timm Atkinson and Craig Alan Atkinson of Bridgeport, Conn., was married yesterday in Fairfield, Conn., to Benjamin John Applestein, the son of Donna Marsicano Applestein and Dr. Jeffrey Mark Applestein of La Jolla, Calif. The Rev. Doran B. Morford, a Quaker minister, officiated at the Country Club of Fairfield.</p>
+        <p>The couple met at Duke, from which they graduated, she summa cum laude.</p>
+        <p>Mrs. Applestein, 30, teaches English literature in the upper school of the Castilleja School in Palo Alto, Calif. During summers, she has been studying for a master's degree in English literature at Middlebury.</p>
+        <p>Her father is a broker with Sterling Capital, a mortgage brokerage based in Stamford, Conn.</p>
+        <p>Mr. Applestein, also 30, is a tax associate with the law firm of Simpson, Thacher &amp; Bartlett in Palo Alto. He received a law degree from the University of California, and a master's of law degree in taxation law from New York University.</p>
+        <p>His mother is retired as the director of the Florence Riford Adult Center in La Jolla. His father, a former doctor to the San Diego Chargers football team, is a pulmonologist at Scripps Clinic in La Jolla.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

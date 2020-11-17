@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Night With a Turtle</title>
+    <meta content="15letter" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854523"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Turtles and Tortoises</classifier>
+        <classifier class="indexing_service" type="descriptor">Reproduction (Biological)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sea Turtles</classifier>
+        <location class="indexing_service">Boca Raton (Fla)</location>
+        <person class="indexing_service">Friedman, Linda K</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Boca Raton</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reptiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7DF153FF936A25755C0A9619C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Night With a Turtle</hl1>
+      </hedline>
+      <abstract>
+        <p>Linda K Friedman letter on June 8 article recalls watching sea turtle lay eggs at Gumbo Limbo Environmental Complex in Boca Raton, Fla</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: ''The Season for Sea Turtles'' (June 8) brought back the treasured memory of a rare experience I shared with my then 5-year-old son and my parents 17 years ago.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: ''The Season for Sea Turtles'' (June 8) brought back the treasured memory of a rare experience I shared with my then 5-year-old son and my parents 17 years ago.</p>
+        <p>One evening at the Gumbo Limbo Environmental Complex in Boca Raton, Fla., a group of us listened to an educational talk and then received the thrilling radio transmission from a scout on the beach that a turtle had been sighted. After arriving at the location, we formed a circle and watched in silence as she lumbered up the beach, dug a hole and began laying her eggs. The entire time tears poured out of her eyes. Back then we were allowed to take pictures once the egg laying began, and I treasure mine. After the last egg was laid, the turtle covered the nest with sand, made her way back to the ocean and disappeared into the vast black expanse.</p>
+        <p>Linda K. Friedman  Mendham, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

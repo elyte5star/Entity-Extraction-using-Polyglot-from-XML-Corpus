@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Michal Fromer, Harris Mufson</title>
+    <meta content="10fromer" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10fromer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853661"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Fromer, Michal Alexandra</person>
+        <person class="indexing_service">Mufson, Harris Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5D61F30F933A25755C0A9619C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Michal Fromer, Harris Mufson</hl1>
+        <hl2 class="online_headline">Michal Fromer, Harris Mufson</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michal Alexandra Fromer, a daughter of Ann and Robert L. Fromer of Kings Point, N.Y., is to be married today to Harris Michael Mufson, a son of Nina S. Saslove of Aspen, Colo., and the late Robert E. Mufson. Rabbi Howard Stecker is to officiate at the Pierre in New York, with Cantor Raphael Frieder taking part.</p>
+        <p>The bride, 25, is in the English literature graduate program at New York University. She graduated cum laude from George Washington.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Michal Alexandra Fromer, a daughter of Ann and Robert L. Fromer of Kings Point, N.Y., is to be married today to Harris Michael Mufson, a son of Nina S. Saslove of Aspen, Colo., and the late Robert E. Mufson. Rabbi Howard Stecker is to officiate at the Pierre in New York, with Cantor Raphael Frieder taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Michal Alexandra Fromer, a daughter of Ann and Robert L. Fromer of Kings Point, N.Y., is to be married today to Harris Michael Mufson, a son of Nina S. Saslove of Aspen, Colo., and the late Robert E. Mufson. Rabbi Howard Stecker is to officiate at the Pierre in New York, with Cantor Raphael Frieder taking part.</p>
+        <p>The bride, 25, is in the English literature graduate program at New York University. She graduated cum laude from George Washington.</p>
+        <p>Her father, who retired as the managing partner of Hartman &amp; Craven, a law firm in New York, is a trustee of North Shore-Long Island Jewish Health System in Great Neck, N.Y., and a vice president of the Nassau County Museum of Art in Roslyn, N.Y. The bride's mother is a trustee of the Washington Institute for Near East Policy, a research center.</p>
+        <p>Mr. Mufson, 26, is an associate at Proskauer Rose, the New York law firm. He graduated magna cum laude from the University of Pennsylvania and received his law degree there.</p>
+        <p>His mother is a founder of the Aspen chapter of Lion of Judah, an organization of women who raise money for Jewish Federation Community Campaign. His father was a housing developer in Boca Raton, Fla. The bridegroom is also a stepson of Joshua Saslove.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

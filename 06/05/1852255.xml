@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="05real" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852255"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DB1130F936A35755C0A9619C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM  Caffeine can increase the risk of miscarriage.</p>
+        <p>THE FACTS  With more than 80 percent of Americans consuming it in some form or another every day, caffeine is easily the nation's most popular drug, far ahead of nicotine and alcohol. So when studies first suggested decades ago that caffeine could increase the risk of miscarriage, it raised alarm. Why exactly it might pose such a risk remains unclear, but numerous studies in recent years have investigated the link.</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM  Caffeine can increase the risk of miscarriage.</p>
+        <p>THE FACTS  With more than 80 percent of Americans consuming it in some form or another every day, caffeine is easily the nation's most popular drug, far ahead of nicotine and alcohol. So when studies first suggested decades ago that caffeine could increase the risk of miscarriage, it raised alarm. Why exactly it might pose such a risk remains unclear, but numerous studies in recent years have investigated the link.</p>
+        <p>One of the more unnerving studies was published in The New England Journal of Medicine in 2000. It looked at more than 1,000 pregnant Swedish women and found that those who drank the equivalent of one to three cups of coffee a day had a 30 percent increased risk of miscarriage, while those who had the equivalent of at least five cups had more than double the risk.</p>
+        <p>But a majority of studies have suggested that any risk might apply only to high levels of caffeine intake. One study carried out by the National Institutes of Health in 1999 looked closely at the blood levels of caffeine in tens of thousands of pregnant women and found that those who consumed the equivalent of more than five cups of coffee a day did have an increased risk, while those who drank one or two cups did not. Other studies have had similar findings.</p>
+        <p>According to the Department of Health and Human Services, there is now general agreement that low caffeine intake during pregnancy -- about 150 milligrams a day, or roughly 1.5 cups of coffee -- is safe.</p>
+        <p>THE BOTTOM LINE  Low caffeine intake during pregnancy appears to be safe, while the risk of high intake is unclear.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>scitimes@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">scitimes@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

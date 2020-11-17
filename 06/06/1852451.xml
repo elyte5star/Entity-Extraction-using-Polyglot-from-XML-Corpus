@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Wounded Return Home, And Another Battle Begins</title>
+    <meta content="06genz" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/arts/television/06genz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852451"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">TLC</org>
+        <person class="online_producer">Woodruff, Bob</person>
+        <person class="online_producer">Genzlinger, Neil</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE1D61130F935A35755C0A9619C8B63" item-length="396" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Wounded Return Home, And Another Battle Begins</hl1>
+        <hl2 class="online_headline">The Wounded Return Home, and Another Battle Begins</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL GENZLINGER</byline>
+      <byline class="normalized_byline">Genzlinger, Neil</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The broadcast tonight of ''War Wounds: Home and Still Fighting'' on TLC is early enough that some people might tune it in while eating dinner. That would be a mistake.</p>
+        <p>No flipness is intended; one man profiled in the program, which chronicles the rehabilitation of several American soldiers severely wounded in Iraq, makes a similar observation himself.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The broadcast tonight of “War Wounds: Home and Still Fighting” on TLC is early enough that some people might tune it in while eating dinner. That would be a mistake.</p>
+      </block>
+      <block class="full_text">
+        <p>The broadcast tonight of ''War Wounds: Home and Still Fighting'' on TLC is early enough that some people might tune it in while eating dinner. That would be a mistake.</p>
+        <p>No flipness is intended; one man profiled in the program, which chronicles the rehabilitation of several American soldiers severely wounded in Iraq, makes a similar observation himself.</p>
+        <p>''How are people going to eat at the dinner table with my arm looking like this?'' the soldier, a marine named Matt Davis, jokes, looking ahead to family meals. His arm, sewn together from palm to elbow, is an indisputably gruesome sight, but it's not even close to being the hardest thing to look at in this unflinching documentary.</p>
+        <p>That distinction belongs to Sgt. First Class Jeffrey Mittman of Indianapolis, whose face was basically blown off by one of those ubiquitous ''improvised explosive devices,'' leaving him looking several degrees more grotesque than the ''Scream'' mask. That he survived such a wound is hard to imagine. That he somehow retained his good humor is an example for all of us, as is the support he gets from his wife, Christy.</p>
+        <p>Wounded soldiers have become something of a cause, especially since Bob Woodruff, the ABC newsman, used his own battlefield injuries to shine a spotlight on their plight in a television special in February.</p>
+        <p>The TLC program, though, is particularly graphic in its images and its details. Watch it and you'll learn how a man vomits when his jaw is wired shut. You'll learn the odd side effects when a chunk of skin from the scalp is used to reconstruct a nose.</p>
+        <p>The documentary completely ignores the elephant in the room: the war itself, and whether these men's sacrifices were justified. That leaves it feeling vaguely voyeuristic, like the latest entry in an escalating game of who can find the most hideously wounded soldier and get him to agree to go on camera.</p>
+        <p>But against that cynical view there's another: We're obliged to look long and hard at the ghastly injuries these men have sustained. Because, collectively if not individually, we're the ones who sent them over there.</p>
+        <p>War Wounds  Home and Still Fighting</p>
+        <p>TLC, tonight at 7, Eastern and Pacific times; 6, Central time.</p>
+        <p>Phil Fairclough, executive producer; Christina Bavetta, producer for Creative Differences; Bill Howard, executive producer for TLC. Produced by Creative Differences.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

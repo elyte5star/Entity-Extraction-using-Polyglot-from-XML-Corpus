@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mindy Feinberg, Stefan Gutow</title>
+    <meta content="03Feinberg" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851874"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Feinberg, Mindy Rebecca (Mindy Rebecca Gutow)</person>
+        <person class="indexing_service">Gutow, Stefan Harris</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6DA1230F930A35755C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mindy Feinberg, Stefan Gutow</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mindy Rebecca Feinberg and Dr. Stefan Harris Gutow were married yesterday evening at the American Visionary Art Museum in Baltimore. Rabbi William Kuhn officiated.</p>
+        <p>The bride, 35, is an assistant professor of psychology at Towson University in Maryland. She graduated from the University of Wisconsin and received a master's in developmental psychology from Columbia and a Ph.D. in school, clinical and community psychology from the University of Pennsylvania. She also directed an educational program for orphaned and homeless children in Guayaquil, Ecuador.</p>
+      </block>
+      <block class="full_text">
+        <p>Mindy Rebecca Feinberg and Dr. Stefan Harris Gutow were married yesterday evening at the American Visionary Art Museum in Baltimore. Rabbi William Kuhn officiated.</p>
+        <p>The bride, 35, is an assistant professor of psychology at Towson University in Maryland. She graduated from the University of Wisconsin and received a master's in developmental psychology from Columbia and a Ph.D. in school, clinical and community psychology from the University of Pennsylvania. She also directed an educational program for orphaned and homeless children in Guayaquil, Ecuador.</p>
+        <p>She is the daughter of Helen Feinberg of Mount Kisco, N.Y., and the late Jacob Feinberg, who lived in Bedford, N.Y. Her mother is a social worker on the staff of the University Hospital at Westchester Medical Center in Valhalla, N.Y. The bride's mother and father also were the founders of Northwind Kennels, a dog and cat boarding kennel in Bedford.</p>
+        <p>Dr. Gutow, 32, is a urologist with Chesapeake Urology Associates, a group practice in Baltimore. He graduated magna cum laude from Bowdoin College and received his medical degree from the University of Michigan.</p>
+        <p>He is the son of Dr. Gary Gutow of Nashville and the late Kathryn Gutow. His father is a retinal surgeon and the founder and the president of Retina-Vitreous Associates, a group practice in Nashville.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

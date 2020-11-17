@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DOCTOROW, ELEEN</title>
+    <meta content="dn061507" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854488"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DOCTOROW, ELEEN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E3D7143AF936A25755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DOCTOROW, ELEEN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOCTOROW--Eleen. Temple Israel of New Rochelle records with sorrow the passing of its longtime member and extends its sympathy to the family. Paul Warhit, President Evan Goodman, Rabbi</p>
+        <p>$(6$)DOCTOROW--Elly, passed away Wednesday June 13, 2007. Born April 20, 1930 the daughter of William and Bernice Miller. Devoted wife of Donald, loving mother of Jeffrey (Tracy), David (Crystal), Jonathan (Lisa) and grandmother of Siena, Sarah and Louis. Also survived by two sisters, Deborah and Esta, and her brother and sister-inlaws, E. L. Doctorow and his wife Helen. A noon service will be held Monday June 18th at Temple Israel, 1000 Pinebrook Blvd., New Rochelle, NY, with interment to follow in The Sharon Gardens Cemetery. Services by the George T. Davis Funeral Home (914) 632-0324.</p>
+      </block>
+      <block class="full_text">
+        <p>DOCTOROW--Eleen. Temple Israel of New Rochelle records with sorrow the passing of its longtime member and extends its sympathy to the family. Paul Warhit, President Evan Goodman, Rabbi</p>
+        <p>$(6$)DOCTOROW--Elly, passed away Wednesday June 13, 2007. Born April 20, 1930 the daughter of William and Bernice Miller. Devoted wife of Donald, loving mother of Jeffrey (Tracy), David (Crystal), Jonathan (Lisa) and grandmother of Siena, Sarah and Louis. Also survived by two sisters, Deborah and Esta, and her brother and sister-inlaws, E. L. Doctorow and his wife Helen. A noon service will be held Monday June 18th at Temple Israel, 1000 Pinebrook Blvd., New Rochelle, NY, with interment to follow in The Sharon Gardens Cemetery. Services by the George T. Davis Funeral Home (914) 632-0324.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

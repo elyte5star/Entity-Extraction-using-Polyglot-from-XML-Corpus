@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gathering</title>
+    <meta content="06lens" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852522"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LENS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Lens</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE0DE1E30F935A35755C0A9619C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gathering</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD PERRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What happened in the '60s tends not to stay in the '60s. Some of it has found its way to the Whitney Museum of American Art on Madison Avenue, for ''Summer of Love: Art of the Psychedelic Era.'' Verner Panton's ''Phantasy Landscape Visiona II'' (not quite of the '60s, actually; it's a 1970 work) invites visitors to experience art on a highly personal level. Just what, in those days, was the accepted term for ''user-friendly''?</p>
+      </block>
+      <block class="full_text">
+        <p>What happened in the '60s tends not to stay in the '60s. Some of it has found its way to the Whitney Museum of American Art on Madison Avenue, for ''Summer of Love: Art of the Psychedelic Era.'' Verner Panton's ''Phantasy Landscape Visiona II'' (not quite of the '60s, actually; it's a 1970 work) invites visitors to experience art on a highly personal level. Just what, in those days, was the accepted term for ''user-friendly''?  LENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

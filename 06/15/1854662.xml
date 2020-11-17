@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Peter Fischli and David Weiss</title>
+    <meta content="15gall-1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854662"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EFDC153FF936A25755C0A9619C8B63" item-length="585" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Peter Fischli and David Weiss</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Equilibres  Matthew Marks Gallery  523 West 24th Street, Chelsea  Through June 30</p>
+        <p>Books, Editions and the Like  Swiss Institute  495 Broadway, near Broome Street, SoHo  Through July 14</p>
+        <p>The Swiss team of Peter Fischli and David Weiss have been on the job for more than 30 years, making art, making jokes and above all making do with whatever comes their way or catches their interest. In love with the facts, laws and randomness of existence, they have shown that resolute pursuit of the Duchampian/Johnsian ideal of using anything and inventing nothing leaves art at least as wide open as life itself.</p>
+      </block>
+      <block class="full_text">
+        <p>Equilibres  Matthew Marks Gallery  523 West 24th Street, Chelsea  Through June 30</p>
+        <p>Books, Editions and the Like  Swiss Institute  495 Broadway, near Broome Street, SoHo  Through July 14</p>
+        <p>The Swiss team of Peter Fischli and David Weiss have been on the job for more than 30 years, making art, making jokes and above all making do with whatever comes their way or catches their interest. In love with the facts, laws and randomness of existence, they have shown that resolute pursuit of the Duchampian/Johnsian ideal of using anything and inventing nothing leaves art at least as wide open as life itself.</p>
+        <p>Their works include stubby little sculptures depicting major and minor events from the history of mankind and a videotape of a slightly hallucinatory journey through the Zurich sewers, made from footage shot by that city's water authority. They have made lush double views of gardens by each shooting a roll of film, trading cameras and then shooting over the rolls.</p>
+        <p>They have made meticulous trompe l'oeil copies of the scraps and tools lying around their studio and also orchestrated those scraps and tools, as well as vegetables, kitchen utensils and old furniture, into magical balancing acts that they have preserved in photographs called ''Equilibres.''</p>
+        <p>Their accumulated efforts looked great at the Tate Modern recently in a big show pairing sculptures and related photographs or videos that is now at the Kunsthaus Zürich. The concurrent shows now at the Matthew Marks Gallery and the Swiss Institute are narrower, but still manage to convey both the selective focus and fullness of the artists' work.</p>
+        <p>The ''Equilibres'' photographs are the main event at Marks. Made from 1984 to 1987, they capture sculptural feats of cantilevering, opposing weights and tension. Although they are hardly unknown, seeing them in quantity brings out the perseverance, seriousness and art-historical savvy behind their whimsy.</p>
+        <p>It also emphasizes the way objects reappear, and the range of sculptural suggestion. These temporary assemblages can be spare and linear like Man Ray photograms, busy as a Jean Tinguely machine, or rough and woody, like an early Mark di Suvero sculpture.</p>
+        <p>The same or similar arrangements can look quite different shot in black and white or color, with or without shadows. Titles acknowledge serendipitous resemblances: ''The Forgotten Constructivist,'' ''Mr. and Mrs. Pear and Their New Dog,'' ''The Roped Mountaineers.''</p>
+        <p>The notion of collapse implicit in the ''Equilibres'' inspired Mr. Fischli and Mr. Weiss to make their now classic 1987 film ''The Way Things Go,'' an extended chain reaction of falling, rolling or exploding objects abetted by chemicals, fuses and small fires.</p>
+        <p>The Marks show includes the New York debut of ''Making Things Go,'' based on videos shot during the endless processes of trial and error that went into ''The Way Things Go.'' Again the effort and skill of successful funniness comes out.</p>
+        <p>At the Tate ''Making Things Go'' was screened beside ''The Way Things Go,'' which was wonderful. Here ''The Way Things Go'' is on continual view at the Swiss Institute, and it makes sense to see it before seeing ''Making Things Go'' at Marks.</p>
+        <p>The Swiss Institute show encompasses much of the Fischli-Weiss achievement at one remove, through the artists' archive of posters, multiples and, best of all, their many books of photographs, several of which are displayed in mock-up and page-proof form here. Like ''Making Things Go,'' these displays show the artists using every possible byproduct of their art as a form of illumination and as more art.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

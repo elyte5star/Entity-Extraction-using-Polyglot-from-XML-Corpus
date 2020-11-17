@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Credit Card Officer Named</title>
+    <meta content="19card" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855539"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Morgan, J P, Chase &amp; Co</org>
+        <org class="indexing_service">American Express Co</org>
+        <person class="indexing_service">Smith, Gordon A</person>
+        <person class="indexing_service">Srednicki, Richard J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DF133FF93AA25755C0A9619C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Credit Card Officer Named</hl1>
+      </hedline>
+      <byline class="print_byline">By REUTERS</byline>
+      <abstract>
+        <p>J P Morgan Chase hires Gordon A Smith from American Express to head its credit card unit, succeeding Richard J Srednicki, who plans to retire next quarter (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JPMorgan Chase has hired Gordon A. Smith from American Express to head its credit card unit, succeeding Richard J. Srednicki, 59,  who plans to retire next quarter.</p>
+        <p>Mr. Smith, 48, has spent his entire career, more than 25 years, at American Express, including the last two as head of the global commercial card group. He led American Express's consumer card services group from 2001 to 2005. His appointment is effective immediately.</p>
+      </block>
+      <block class="full_text">
+        <p>JPMorgan Chase has hired Gordon A. Smith from American Express to head its credit card unit, succeeding Richard J. Srednicki, 59,  who plans to retire next quarter.</p>
+        <p>Mr. Smith, 48, has spent his entire career, more than 25 years, at American Express, including the last two as head of the global commercial card group. He led American Express's consumer card services group from 2001 to 2005. His appointment is effective immediately.</p>
+        <p>JPMorgan has issued more than 150 million cards and ranks among the three largest American card issuers, along with Bank of America and Citigroup.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Itineraries; MEMO PAD</title>
+    <meta content="12memo" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/business/12memo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853928"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Memo Pad"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Passports</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Flight Attendants</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Mexico</location>
+        <org class="indexing_service">State Department</org>
+        <org class="indexing_service">Continental Airlines</org>
+        <person class="indexing_service">Sharkey, Joe</person>
+        <person class="indexing_service">Heape, Norma</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="descriptor">Passports</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flight Attendants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Passports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Identification Devices</classifier>
+        <org class="online_producer">State Department</org>
+        <org class="online_producer">AAA</org>
+        <org class="online_producer">National Business Travel Assn</org>
+        <org class="online_producer">Continental Airlines Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5DB173FF931A25755C0A9619C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Itineraries; MEMO PAD</hl1>
+        <hl2 class="online_headline">Passport Pandemonium</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+      <abstract>
+        <p>Memo Pad column; Travel industry groups say confusion and delays in passport processing are warning to plan far ahead to renew or obtain passport; rush for passports has created long processing delays, partly because of confusion among some travelers, who mistakenly thought they needed passport to return to US from Canada or Mexico by car; that requirement will not take effect until next year; State Department has adjusted rules so that through Sept 30, those who can show proof they have applied for passport, even if they have not received it, are exempt; Continental Airlines says flight attendant Norma Heape, who will mark her 50th year of service on June 13, has flown more than 26 million miles (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PASSPORT PANDEMONIUM The confusion and delays in passport processing are a warning to plan far ahead to renew or obtain a passport, travel industry trade groups say. Since Jan 23, United States citizens as well as those from Canada, Mexico and the Caribbean have been required for the first time to present a valid passport when entering the United States by air. A rush for passports has created long processing delays, partly because of confusion among some travelers, who mistakenly thought they needed a passport to return to the United States from Canada or Mexico by car. That requirement will not take effect until next year. Maura Harty, the assistant secretary of state for consular affairs, said that the demand for passports was ''over and beyond even the enormous demand we had expected,'' leading to the delays. In response, the State Department adjusted the rules so that through Sept. 30, those who can show proof they have applied for a passport, even if they have not received it, are exempt. The required documents are a government-issued photo ID and a printout showing that they have applied for a passport, which can be downloaded from travel.state.gov.passport.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The confusion and delays in passport processing are a warning to plan far ahead to renew or obtain a passport.</p>
+      </block>
+      <block class="full_text">
+        <p>PASSPORT PANDEMONIUM The confusion and delays in passport processing are a warning to plan far ahead to renew or obtain a passport, travel industry trade groups say. Since Jan 23, United States citizens as well as those from Canada, Mexico and the Caribbean have been required for the first time to present a valid passport when entering the United States by air. A rush for passports has created long processing delays, partly because of confusion among some travelers, who mistakenly thought they needed a passport to return to the United States from Canada or Mexico by car. That requirement will not take effect until next year. Maura Harty, the assistant secretary of state for consular affairs, said that the demand for passports was ''over and beyond even the enormous demand we had expected,'' leading to the delays. In response, the State Department adjusted the rules so that through Sept. 30, those who can show proof they have applied for a passport, even if they have not received it, are exempt. The required documents are a government-issued photo ID and a printout showing that they have applied for a passport, which can be downloaded from travel.state.gov.passport.</p>
+        <p>Meanwhile, both the National Business Travel Association and AAA stress that travelers should anticipate that the delays will continue for some time, and keep in mind not just the changes in passport rules for Canada, Mexico and the Caribbean, but also whether your current passport might need to be renewed.</p>
+        <p>50 YEARS OF FREQUENT FLYING You think you've racked up a lot of miles? Consider Norma Heape, who ranks No. 1 on the flight attendant seniority list of Continental Airlines and who will mark her 50th year of service on a flight between Newark and Hong Kong tomorrow. Recruited from a modeling agency in 1957. Ms. Heape has flown more than 26 million miles, said Continental, which will hold a brief ceremony honoring her before the departure. Continental said Ms. Heape -- who has never called in sick for a scheduled flight -- will receive a ''specially designed'' necklace before boarding the plane and starting work.</p>
+        <p>JOE SHARKEY</p>
+        <p>Memo Pad</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

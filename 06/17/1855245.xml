@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="17outbox" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855245"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DF123FF934A25755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for June 9 to 15.</p>
+        <p>1. MILESTONE MARKS WHAT PHILLIES FANS ALREADY KNEW -- The Phillies have lost more games than any professional franchise in any sport. (Published June 12)</p>
+        <p>2. IN A STIRRING BELMONT, THE FILLY BEATS THE FELLAS -- Rags to Riches becomes the first filly to win the Belmont in 102 years. (June 10)</p>
+        <p>3. THERE ARE NO TIMEOUTS OR SUBSTITUTES IN GOLF -- On the eve of the United States Open, players talked about the mental stresses of their game. (June 12)</p>
+        <p>4. AT 44, WELLS IS THE ANTI-CLEMENS -- Roger Clemens is robust; David Wells is round. Clemens throws 90-m.p.h. fastballs; Wells lives off lollipop curves. (June 14)</p>
+        <p>5. A CHANCE OF YANKEE THUNDER AT FENWAY -- If the Yankees overtake the Red Sox, can you imagine the fireworks at Fenway Park? (June 12)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for June 9 to 15.</p>
+        <p>1. MILESTONE MARKS WHAT PHILLIES FANS ALREADY KNEW -- The Phillies have lost more games than any professional franchise in any sport. (Published June 12)</p>
+        <p>2. IN A STIRRING BELMONT, THE FILLY BEATS THE FELLAS -- Rags to Riches becomes the first filly to win the Belmont in 102 years. (June 10)</p>
+        <p>3. THERE ARE NO TIMEOUTS OR SUBSTITUTES IN GOLF -- On the eve of the United States Open, players talked about the mental stresses of their game. (June 12)</p>
+        <p>4. AT 44, WELLS IS THE ANTI-CLEMENS -- Roger Clemens is robust; David Wells is round. Clemens throws 90-m.p.h. fastballs; Wells lives off lollipop curves. (June 14)</p>
+        <p>5. A CHANCE OF YANKEE THUNDER AT FENWAY -- If the Yankees overtake the Red Sox, can you imagine the fireworks at Fenway Park? (June 12)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

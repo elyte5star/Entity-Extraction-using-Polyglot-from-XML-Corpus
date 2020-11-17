@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alternative Cancer Therapies Are Tested</title>
+    <meta content="03cancer" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/health/03cancer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851979"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Sharks</classifier>
+        <classifier class="indexing_service" type="descriptor">Cartilage</classifier>
+        <classifier class="indexing_service" type="descriptor">Lungs</classifier>
+        <classifier class="indexing_service" type="descriptor">Ginseng</classifier>
+        <classifier class="indexing_service" type="descriptor">Flaxseed Oil</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <org class="indexing_service">American Society for Clinical Oncology</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Foods</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Lung Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="descriptor">Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Health Foods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Foods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alternative and Complementary Medicine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFDD1030F930A35755C0A9619C8B63" item-length="850" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alternative Cancer Therapies Are Tested</hl1>
+        <hl2 class="online_headline">Shark Cartilage, Not a Cancer Therapy</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <dateline>CHICAGO, June 2</dateline>
+      <abstract>
+        <p>Researchers at annual meeting of American Society for Clinical Oncology say that shark cartilage extract, widely used alternative therapy for cancer, did not help patients with lung cancer live longer, but two other complementary therapies, ginseng and flaxseed, might have some benefit for cancer patients (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shark fin soup might taste good. But it won't do much for cancer.</p>
+        <p>Shark cartilage, a widely used alternative therapy for cancer, did not help patients with lung cancer live longer, according to the results of one of the first rigorous studies of the approach.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As cancer patients increasingly embrace alternative therapies, oncologists are calling for well-designed clinical trials to determine if they are helpful or harmful.</p>
+      </block>
+      <block class="full_text">
+        <p>Shark fin soup might taste good. But it won't do much for cancer.</p>
+        <p>Shark cartilage, a widely used alternative therapy for cancer, did not help patients with lung cancer live longer, according to the results of one of the first rigorous studies of the approach.</p>
+        <p>But two smaller studies showed some preliminary but encouraging evidence that two other complementary therapies, ginseng and flaxseed, might have some benefit for cancer patients.</p>
+        <p>The studies were presented on Saturday here at the annual meeting of the American Society for Clinical Oncology, where the nation's cancer doctors usually discuss the latest in chemotherapy and new biotechnology drugs.</p>
+        <p>It is relatively unusual for this meeting to highlight alternative therapies, but doctors here said that might be changing. They acknowledge that many of their patients are taking these supplements -- widely available in health food stores -- and asking them about them. So, they said, well-designed clinical trials are needed to determine whether these approaches are helpful or harmful.</p>
+        <p>''One of the most common questions patients ask me is about these things they have snookered away in their purses and pocketbooks,'' said Dr. Bruce Cheson, a hematologist at Georgetown University, who moderated a news conference on the studies of the therapies.</p>
+        <p>The shark cartilage clinical trial was mandated by Congress and was sponsored by the National Cancer Institute. It tested a shark cartilage extract being developed as a drug by Aeterna Zentaris, a Canadian company.</p>
+        <p>Dr. Charles Lu of the M.D. Anderson Cancer Center in Houston, the trial's lead investigator, said there was reason to believe the cartilage might work. Cartilage has been found to contain factors that can impede the formation of blood vessels. And cutting off the blood supply to tumors has already been proven effective with other drugs.</p>
+        <p>But in the trial, those who received the shark cartilage extract lived a median of 14.4 months, meaning that half the patients had died by that point. Those who got a placebo had a median survival of 15.6 months.</p>
+        <p>The trial involved 384 patients in the United States and Canada with advanced non-small cell lung cancer. The shark cartilage extract was given as a liquid which the patients drank twice a day.</p>
+        <p>Results were somewhat more promising, though far less definitive, for flaxseed.</p>
+        <p>That study, led by scientists at Duke University Medical Center, involved 161 men with prostate cancer who were scheduled to have their prostates removed. After the glands were removed about a month later, the tumors were studied. It was found that the tumors of the men who had taken the flaxseed had been growing about 30 percent to 40 percent more slowly than for those who did not.</p>
+        <p>The ginseng study suggested that the herb might help fight fatigue, which is common in people with cancer. The study involved 282 patients with various types of cancer.</p>
+        <p>About one quarter of the patients who took one of the two higher doses of powdered extract of ginseng root, either 1,000 or 2,000 milligrams a day, reported that their fatigue had become ''moderately better'' or ''much better.'' That contrasted with only one 10th of those who took either a smaller amount of ginseng or a placebo.</p>
+        <p>Doctors said that it was too early to recommend that patients take flaxseed or ginseng, though they said the supplements were not harmful.</p>
+        <p>Debra L. Barton, an associate professor of oncology at the Mayo Clinic and the lead investigator of the ginseng study, cautioned that many ginseng supplements do not use the Wisconsin ginseng used in the study. And the quality and quantity of active ingredients in the ginseng supplements can vary.</p>
+        <p>The investigators said the mechanisms of action of the flaxseed and the ginseng were not well understood. Dr. Barton reverted to the Chinese philosophy of yin and yang in trying to explain ginseng. ''The theory is ginseng would help the body moderate the negative things going on,'' she said.</p>
+        <p>In a more conventional study presented here, researchers in Europe found that preventive radiation therapy to the head reduces the risk that tumors will spread to the brain in patients with small cell lung cancer. The treatment also helped patients live longer.</p>
+        <p>Small cell lung cancer accounts for 15 percent to 20 percent of all lung cancer cases, but it is an aggressive type. Previous studies had shown the benefit of preventive radiation therapy to the head for patients whose tumors were concentrated in a small area. But the new study showed the technique was helpful for patients whose tumor had spread further into the lung or elsewhere in the body.</p>
+        <p>Only 14.6 percent of those who got the head radiation had symptoms from a spread of cancer to the brain a year later. That compared with 40.4 percent in a control group. Some 27.1 percent of the treated patients were alive a year later, twice as many as the 13.3 percent of the control group.</p>
+        <p>Dr. Roy Herbst, a lung cancer specialist at the M.D. Anderson Cancer Center who was not involved in the study, said the findings would ''change the standard of care almost immediately.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

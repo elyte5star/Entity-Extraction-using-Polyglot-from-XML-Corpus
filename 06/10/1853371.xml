@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High Bridge Memories</title>
+    <meta content="10relett-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853371"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFD9163FF933A25755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High Bridge Memories</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Living in High Bridge,'' May 20: I was 12 and growing up just north of High Bridge, at 176th Street and Davidson Avenue, back on Jan. 7, 1963, when the ''Bronx, New York'' post office designation was officially adopted. It was regarded back then as a source of great pride -- a recognition that we were no longer a mere satellite of ''New York, N.Y.,'' despite the fact that the Bronx street numbering system was an extension of Manhattan's.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Living in High Bridge,'' May 20: I was 12 and growing up just north of High Bridge, at 176th Street and Davidson Avenue, back on Jan. 7, 1963, when the ''Bronx, New York'' post office designation was officially adopted. It was regarded back then as a source of great pride -- a recognition that we were no longer a mere satellite of ''New York, N.Y.,'' despite the fact that the Bronx street numbering system was an extension of Manhattan's.</p>
+        <p>You'll know High Bridge and surrounding neighborhoods have made the big time when local pressure builds to return to ''New York, N.Y. 10452'' and abandon the associations that the word ''Bronx'' has with crime and urban decay.</p>
+        <p>Howard Hirsch  Dayton, Nev.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

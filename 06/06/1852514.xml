@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NBC Universal Signs Head of Studio to a Five-Year Agreement</title>
+    <meta content="06studio" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/business/media/06studio.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852514"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <org class="online_producer">National Broadcasting Co</org>
+        <person class="online_producer">Meyer, Ron</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E1DE1E30F935A35755C0A9619C8B63" item-length="391" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NBC Universal Signs Head of Studio to a Five-Year Agreement</hl1>
+        <hl2 class="online_headline">NBC Universal Signs Head of Studio to a Five-Year Agreement</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HALBFINGER</byline>
+      <byline class="normalized_byline">Halbfinger, David M</byline>
+      <dateline>LOS ANGELES, June 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A week after a messy shake-up of the management of its television unit, NBC Universal has signed Ron Meyer, the president and chief operating officer of Universal Studios, to a new five-year contract. He will oversee movie production, theme parks and studio operations ''through at least 2012,'' the company said.</p>
+        <p>The self-effacing Mr. Meyer, 62, one of Hollywood's best-liked and longest-serving studio bosses, has survived three changes in ownership since taking the job in 1995, after 20 years as a founder and leader of the Creative Artists Agency. He had three years remaining on his last five-year deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ron Meyer will oversee movie production, theme parks and studio operations “through at least 2012,” the company said.</p>
+      </block>
+      <block class="full_text">
+        <p>A week after a messy shake-up of the management of its television unit, NBC Universal has signed Ron Meyer, the president and chief operating officer of Universal Studios, to a new five-year contract. He will oversee movie production, theme parks and studio operations ''through at least 2012,'' the company said.</p>
+        <p>The self-effacing Mr. Meyer, 62, one of Hollywood's best-liked and longest-serving studio bosses, has survived three changes in ownership since taking the job in 1995, after 20 years as a founder and leader of the Creative Artists Agency. He had three years remaining on his last five-year deal.</p>
+        <p>The new contract was announced by Jeff Zucker, the chief executive of NBC Universal, who last week replaced Kevin Reilly at the top of NBC's entertainment operations with Ben Silverman and Marc Graboff.</p>
+        <p>Mr. Meyer led the company's successful pitch to Warner Brothers and the author J. K. Rowling to license a theme park based on the ''Harry Potter'' juggernaut. Last week the two studios jointly announced a $230 million-plus deal for a 20-acre attraction at Universal's Islands of Adventure in Orlando, Fla. It is expected to open in late 2009 and provide a significant lift to sagging attendance there, where Universal has long trailed Walt Disney World.</p>
+        <p>Early last year, Mr. Meyer had to replace Stacey Snider, the longtime chairwoman of Universal Pictures, when she left to run DreamWorks. The film studio, now led by Marc Shmuger, a marketing executive, and David Linde, who formerly ran its art-house division, had an off year, finishing last in market share among the Hollywood majors, with disappointments like ''Miami Vice.''</p>
+        <p>In an interview, Mr. Meyer said that the year was profitable nonetheless. ''I think we were not as good as we could have been,'' he said, before typically taking full responsibility. ''My style is to be a somewhat empowering partner for the people that work here. If I give them the freedom to run their businesses, then, when they do it right, they deserve complete credit for it, and when they do it wrong, it's my mistake for giving them that leeway.''</p>
+        <p>For 2007, Universal has put together a strong summer slate, including last weekend's hit release ''Knocked Up,'' as well as the comedies ''Evan Almighty'' and ''I Now Pronounce You Chuck and Larry'' and the action sequel ''The Bourne Ultimatum.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

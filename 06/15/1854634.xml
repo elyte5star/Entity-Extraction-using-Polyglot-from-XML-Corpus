@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; And Then Came Love</title>
+    <meta content="15roun-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854634"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Holden, Stephen</person>
+        <person class="indexing_service">Schenkman, Richard</person>
+        <person class="indexing_service">Williams, Vanessa</person>
+        <person class="indexing_service">Kitt, Eartha</person>
+        <person class="indexing_service">Vereen, Ben</person>
+        <person class="indexing_service">Spinella, Stephen</person>
+        <object.title class="indexing_service">And Then Came Love (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews/By Stephen Holden</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4DC153FF936A25755C0A9619C8B63" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; And Then Came Love</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+      <abstract>
+        <p>Stephen Holden reviews film And Then Came Love, directed by Richard Schenkman; Vanessa Williams, Eartha Kitt, Ben Vereen and Stephen Spinella star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Richard Schenkman  Not rated; 99 minutes</p>
+        <p>There is an in-joke smothered under the wooden dialogue of ''And Then Came Love,'' an inept romantic comedy that for reasons known only to God drew Vanessa Williams, Eartha Kitt, Ben Vereen and Stephen Spinella into its swamp of clichés. Ms. Kitt's character, Mona, is a scowling termagant as fearsomely strait-laced as Lady Bracknell in ''The Importance of Being Earnest'' -- a play that figures prominently (and ludicrously) in the story. It's a hoot to watch Ms. Kitt, pop music's original vamp, look down her nose and pester her daughter, Julie (Ms. Williams), a single mother and successful magazine reporter, to marry and be respectable.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Richard Schenkman  Not rated; 99 minutes</p>
+        <p>There is an in-joke smothered under the wooden dialogue of ''And Then Came Love,'' an inept romantic comedy that for reasons known only to God drew Vanessa Williams, Eartha Kitt, Ben Vereen and Stephen Spinella into its swamp of clichés. Ms. Kitt's character, Mona, is a scowling termagant as fearsomely strait-laced as Lady Bracknell in ''The Importance of Being Earnest'' -- a play that figures prominently (and ludicrously) in the story. It's a hoot to watch Ms. Kitt, pop music's original vamp, look down her nose and pester her daughter, Julie (Ms. Williams), a single mother and successful magazine reporter, to marry and be respectable.</p>
+        <p>Julie's son, Jake (Jeremy Gumbs), is an irritating 6-year-old fathered by a sperm donor. When the boy starts acting up in school, Julie worries that the daddy's genes might not be all they were cracked up to be (he was advertised as Ivy League educated) and hires a private detective to find him; then she tracks him down in New Jersey. The donor, Paul Cooper (Kevin Daniels), turns out to be a hunky but unemployed actor in rebellion against his father, a snobbish corporate lawyer (Mr. Vereen).</p>
+        <p>Although Julie conceals the purpose of her visit, Paul likes her enough to look her up in Manhattan, where he and his son meet cute and bond. You know the rest. But first Julie must divest herself of Ted (Michael Boatman), a successful photojournalist proffering emeralds, who is desperate to marry her. Worse, she must venture from Manhattan to Weehawken, N.J., to see Paul perform in what may be the crummiest production of ''The Importance of Being Earnest'' ever mounted. Julie's best friend, Stuart (Mr. Spinella), a sour drama critic, would disagree. His verdict: ''Very fine work.''</p>
+        <p>STEPHEN HOLDEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

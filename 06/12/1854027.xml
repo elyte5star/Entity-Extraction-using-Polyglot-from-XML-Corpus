@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shuttle Mission Extended To Fix Insulation Blanket</title>
+    <meta content="12shuttle" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/science/space/12shuttle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854027"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Atlantis (Space Shuttle)</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Shuttles</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Schwartz, John</person>
+        <person class="indexing_service">Reilly, James F II (Astronaut)</person>
+        <person class="indexing_service">Olivas, John D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3D9173FF931A25755C0A9619C8B63" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shuttle Mission Extended To Fix Insulation Blanket</hl1>
+        <hl2 class="online_headline">Shuttle Mission Extended to Fix Insulation Blanket</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <abstract>
+        <p>NASA managers say they will extend mission of space shuttle Atlantis for spacewalk to repair problem that could cause heating damage during re-entry; announcement comes as astronauts James F Reilly II and John D Olivas wrap up complex spacewalk of more than six hours (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NASA managers said Monday night that they would extend the mission of the space shuttle Atlantis for a spacewalk to repair a problem that could cause heating damage during re-entry.</p>
+        <p>The announcement came during a briefing for reporters as astronauts James F. Reilly II and John D. Olivas were wrapping up a complex spacewalk of more than six hours.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NASA managers said that they would extend the mission of the space shuttle Atlantis for a spacewalk to repair a problem that could cause damage during re-entry.</p>
+      </block>
+      <block class="full_text">
+        <p>NASA managers said Monday night that they would extend the mission of the space shuttle Atlantis for a spacewalk to repair a problem that could cause heating damage during re-entry.</p>
+        <p>The announcement came during a briefing for reporters as astronauts James F. Reilly II and John D. Olivas were wrapping up a complex spacewalk of more than six hours.</p>
+        <p>The two men connected the power lines to a new structural truss and solar arrays on the starboard side of the International Space Station. The shuttle brought the 17.5-ton truss up in its payload bay, and the shuttle pilot, Col. Lee Joseph Archambault of the Air Force, connected the truss to the station using the station's robot arm before the spacewalkers stepped outside to do their electrical work.</p>
+        <p>The spacewalk, the first of this mission, was delayed by about an hour because of problems with the gyroscopes that keep the station's attitude stable on orbit.</p>
+        <p>Extending the mission to 13 days from 11 is likely to involve adding a fourth spacewalk to reseat an insulating blanket that pulled away from the maneuvering rocket pod cover during ascent. Blankets are used on the top of the shuttle instead of the more heat-resistant tiles that cover the bottom of the craft because the heat during re-entry is much higher on the bottom of the shuttle than on the top.</p>
+        <p>Analysts said the blanket pulled up because of wind forces and not because of any impact with launch debris. It exposed a 4-inch-by-6-inch area of the graphite epoxy honeycomb underneath.</p>
+        <p>Initially, NASA experts all but dismissed the pulled-up blanket as a minor problem best addressed by leaving the blanket alone. Many shuttles have returned to Earth with more serious damage to the same area.</p>
+        <p>But John Shannon, the chairman of the mission management team, said Monday night that the analysis led his team to take a cautious approach.</p>
+        <p>The honeycomb, Mr. Shannon said, degrades at a lower temperature than the 1,000 degrees that can be expected during the 15-minute period of peak heating during entry. ''How long it would take to completely erode is very questionable; no one could give me that answer,'' he said.</p>
+        <p>''So the right answer here, the better part of valor, was to go and put it down and secure it,'' Mr. Shannon said. Analysts are still trying to determine the best way to fix the problem, he said, but it might come down to something as simple as folding the blanket back into place.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

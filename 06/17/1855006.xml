@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Four More Days</title>
+    <meta content="NYalbany" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/nyregionopinions/NYalbany.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855006"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The City | Long Island | Westchester"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bruno, Joseph</person>
+        <person class="online_producer">Bloomberg, Michael R</person>
+        <person class="online_producer">Silver, Sheldon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EEDB143FF934A25755C0A9619C8B63" item-length="524" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Four More Days</hl1>
+        <hl2 class="online_headline">Four More Days</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial lists what should be possible for New York State Legislature to do or undo before this year's legislative session ends</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Albany is now at the final four -- the final four days, that is, before this year's legislative session is scheduled to end. A lot can be done, undone or done badly in that time. Here is our list of what should be possible:</p>
+        <p>Number one is still campaign finance reform. The bill now being considered is less than the good citizens of this state deserve, but it is far better than what we have now. Unfortunately, Senate Leader Joseph Bruno and his Republican majority are stalling. The Senate Republicans apparently don't want to give up the easy money, especially from limited liability corporations that are now the favored loophole for well-heeled contributors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Here is our list of what should be possible in the final four days before the end of this year’s legislative session.</p>
+      </block>
+      <block class="full_text">
+        <p>Albany is now at the final four -- the final four days, that is, before this year's legislative session is scheduled to end. A lot can be done, undone or done badly in that time. Here is our list of what should be possible:</p>
+        <p>Number one is still campaign finance reform. The bill now being considered is less than the good citizens of this state deserve, but it is far better than what we have now. Unfortunately, Senate Leader Joseph Bruno and his Republican majority are stalling. The Senate Republicans apparently don't want to give up the easy money, especially from limited liability corporations that are now the favored loophole for well-heeled contributors.</p>
+        <p>The same Senate that is bucking campaign reform is wisely affirming Mayor Michael Bloomberg's promising congestion-pricing proposal. And it is Assembly Speaker Sheldon Silver who is hedging on this one. Mr. Silver, who robbed the city of the commuter tax to help a Democratic candidate who lost anyway, should give the go-ahead. It could earn the city $500 million in federal transportation funds. His foot-dragging might also force the Legislature into another special session next month to beat an August deadline for getting the federal money.</p>
+        <p>Come on, guys. If Mr. Bruno's Republicans would agree to reform campaign financing and Mr. Silver's Democrats would agree to congestion pricing, we could have a decent finale.</p>
+        <p>Healthier food in schools -- which means saying no to the lobbyists for fast unhealthy foods, soft drinks, sports drinks and high-fat dairy products during school hours.</p>
+        <p>Cameras in courtrooms -- when the judges allow it. The Senate has approved them. The governor is on board. Mr. Silver and his crowd are the problem. Cameras would allow a more public trial, enhancing a right protected by the Constitution.</p>
+        <p>A bill that would expand DNA testing and provide for the release of DNA data holds promise for people wrongly accused and wrongly imprisoned. It could also provide better management of the state's DNA database. The real test, of course, is whether the data can be used fairly -- whether the accused can get timely access to exculpatory data and whether those not convicted or whose convictions are overturned will actually have their biological data destroyed.</p>
+        <p>A modest bill allowing family leave in emergencies should make it easier for those who are forced to choose between a week's pay and a sick child. The proposal winding through the Legislature would provide $170 a week for 12 weeks, exempt small businesses and allow companies to pass along the cost to employees at a rate of 45 cents a week.</p>
+        <p>The real Bigger Better Bottle Bill -- not the phonies pushed by industry -- deserves support from legislators who care about the environment. The bill would expand the kinds of bottles that could be redeemed and would thus further reduce litter. It would also reroute much of the $90 million or so that bottlers and distributors get now to environmental programs.</p>
+        <p>Pro-environment lawmakers should also back legislation that would speed the cleanup of brownfields across the state. And Mr. Spitzer's bill to permit the construction of new and less-polluting power plants should be allowed to move forward.</p>
+        <p>The City | Long Island | Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

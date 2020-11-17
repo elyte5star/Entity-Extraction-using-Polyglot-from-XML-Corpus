@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CBS Bringing 'Jericho' Back After Protests From Fans</title>
+    <meta content="07cbs" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/arts/07cbs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852725"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">CBS Corp</org>
+        <object.title class="online_producer">Jericho (TV Program)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E2D81E30F934A35755C0A9619C8B63" item-length="550" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CBS Bringing 'Jericho' Back After Protests From Fans</hl1>
+        <hl2 class="online_headline">CBS Bringing ‘Jericho’ Back After Protests From Fans</hl2>
+      </hedline>
+      <byline class="print_byline">By EDWARD WYATT</byline>
+      <byline class="normalized_byline">Wyatt, Edward</byline>
+      <dateline>LOS ANGELES, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three weeks after CBS's cancellation of the apocalyptic drama ''Jericho'' set off a sustained and creative protest by fans of the first-season series, the network reversed course and announced on Wednesday that it had ordered seven new episodes for broadcast late this year or early in 2008.</p>
+        <p>In a letter to ''Jericho'' fans that opened with ''Wow!,'' the president of CBS Entertainment, Nina Tassler, praised the ''impressive and probably unprecedented display of passion'' evident in the effort to save the series. Ms. Tassler added that the series could be extended further if fans help recruit more viewers. The letter is posted on the message board at CBS's Jericho Web site.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The network reversed course and announced that it had ordered seven new episodes for broadcast late this year or early in 2008.</p>
+      </block>
+      <block class="full_text">
+        <p>Three weeks after CBS's cancellation of the apocalyptic drama ''Jericho'' set off a sustained and creative protest by fans of the first-season series, the network reversed course and announced on Wednesday that it had ordered seven new episodes for broadcast late this year or early in 2008.</p>
+        <p>In a letter to ''Jericho'' fans that opened with ''Wow!,'' the president of CBS Entertainment, Nina Tassler, praised the ''impressive and probably unprecedented display of passion'' evident in the effort to save the series. Ms. Tassler added that the series could be extended further if fans help recruit more viewers. The letter is posted on the message board at CBS's Jericho Web site.</p>
+        <p>The reversal and Ms. Tassler's reaction were in response to a campaign that led to thousands of pounds of roasted nuts being sent to CBS executives by viewers of the show. The nuts were a reference to the first-season finale, in which Jake Green, the character played by Skeet Ulrich, uses a somewhat outdated expression to refuse his enemy's suggestion that he surrender.</p>
+        <p>The expression led to a ''Say 'nuts' to CBS'' campaign that Ms. Tassler called ''creative, sustained and very thoughtful and respectful in tone.''</p>
+        <p>While thanking fans for their passion, Ms. Tassler also had a few words of warning. ''For there to be more 'Jericho,' we will need more viewers,'' she wrote.</p>
+        <p>She added, ''We will count on you to rally around the show, to recruit new viewers with the same grass-roots energy, intensity and volume you have displayed in recent weeks.''</p>
+        <p>CBS has yet to set a date for the show's return, which will probably depend on how new series on the network's fall schedule fare. In the meantime, CBS will rebroadcast some of the first season's 22 episodes this summer. CBS Paramount Network Television, which produces the series, will release the first-season DVD on Sept. 25.</p>
+        <p>The president of CBS Paramount, David Stapf, said in an interview that the sets for the show were still in place in a studio in Van Nuys, Calif., making it relatively easy to restart production. Because the show was close to being renewed until only recently, many members of the show's cast and production crew are still available to return.</p>
+        <p>When CBS was considering whether to renew ''Jericho'' for a second season, the studio and the show's producers sketched out ''a fairly specific plan'' of the character arcs and storylines for a second season, Mr. Stapf said. That plan will be the basis of the seven-episode season.</p>
+        <p>''Jericho'' was shown on Wednesdays at 8 p.m., a spot that next season will be occupied by ''Kid Nation,'' a reality show featuring a group of children who form their own society in a town without adults.</p>
+        <p>Last fall, ''Jericho'' regularly ranked first or second in that time period. In its initial weeks, it drew an estimated 11 million viewers each Wednesday, according to Nielsen Media Research, second to the ''Dancing With the Stars'' results show on ABC.</p>
+        <p>But ''Jericho'' was far weaker after it returned from a hiatus that lasted from late November to mid-February. In its first few weeks, it went head-to-head against the ''American Idol'' results show, drawing only about eight million viewers. And in March and April, it was handily beaten by the Fox drama ''Bones.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

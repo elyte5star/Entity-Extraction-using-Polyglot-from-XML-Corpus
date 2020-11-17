@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'The Sopranos' Goes Out With a Ratings Bang</title>
+    <meta content="13arts-2" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854241"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E7DE143FF930A25755C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'The Sopranos' Goes Out With a Ratings Bang</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The series finale of ''The Sopranos'' on Sunday did not break any ratings records for premium-channel HBO, but its final audience tally eclipsed much of network television's for last week. According to Nielsen Media Research, 11.9 million viewers tuned in to watch the 9 p.m. conclusion of ''The Sopranos,'' making it the most watched episode since the 2004 debut of Season 5 (12.1 million). Only NBC's Tuesday premiere of ''America's Got Talent'' drew more viewers (13 million) last week. The ambiguous ending of the ''Sopranos'' story, however, left some viewers searching for answers on the Internet. According to Yahoo! Buzz, ''The Sopranos'' was the No. 1 searched person or thing online on Sunday and Monday. Nielsen estimated that CBS and Fox shared the lead on Monday. CBS finished first in total viewers, aided by repeats of ''Two and a Half Men'' at 9 (9.3 million) and ''CSI: Miami'' at 10 (9.2 million). Fox posted a lead among adults 18 to 49, as the second installment of ''Hell's Kitchen'' at 9 outperformed its week-ago premiere. The episode attracted 8.8 million total viewers and the night's highest numbers in the 18-to-49 demographic.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>The series finale of ''The Sopranos'' on Sunday did not break any ratings records for premium-channel HBO, but its final audience tally eclipsed much of network television's for last week. According to Nielsen Media Research, 11.9 million viewers tuned in to watch the 9 p.m. conclusion of ''The Sopranos,'' making it the most watched episode since the 2004 debut of Season 5 (12.1 million). Only NBC's Tuesday premiere of ''America's Got Talent'' drew more viewers (13 million) last week. The ambiguous ending of the ''Sopranos'' story, however, left some viewers searching for answers on the Internet. According to Yahoo! Buzz, ''The Sopranos'' was the No. 1 searched person or thing online on Sunday and Monday. Nielsen estimated that CBS and Fox shared the lead on Monday. CBS finished first in total viewers, aided by repeats of ''Two and a Half Men'' at 9 (9.3 million) and ''CSI: Miami'' at 10 (9.2 million). Fox posted a lead among adults 18 to 49, as the second installment of ''Hell's Kitchen'' at 9 outperformed its week-ago premiere. The episode attracted 8.8 million total viewers and the night's highest numbers in the 18-to-49 demographic.</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

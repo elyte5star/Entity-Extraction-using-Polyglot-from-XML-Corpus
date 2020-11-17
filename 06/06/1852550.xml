@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Health Care As if Costs Didn't Matter</title>
+    <meta content="06leonhardt" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/business/06leonhardt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852550"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ECONOMIX"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Medicare</org>
+        <person class="indexing_service">Leonhardt, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE3DD1E30F935A35755C0A9619C8B63" item-length="1123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Health Care As if Costs Didn't Matter</hl1>
+        <hl2 class="online_headline">Health Care as if Costs Didn’t Matter</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID LEONHARDT</byline>
+      <byline class="normalized_byline">Leonhardt, David</byline>
+      <abstract>
+        <p>David Leonhardt Economix column discusses universal health care debate in United States; holds that system could work only if smart decisions are made on which kinds of medical care actually work and which do not; praises proposals to set up national institute to research procedures, offering Medicare and private insurers tools to make educated determinations on coverage; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a saner world, the place where you live wouldn't have much effect on how doctors treated your back problems. In our world, it can make all the difference.</p>
+        <p>In Idaho Falls, Idaho, anyone suffering from the sort of lower back pain that may conceivably be helped by the fusing of two vertebrae is quite likely to have the surgery. It's known as lumbar fusion, and the rate at which it is performed in Idaho Falls is almost five times the national average. The rate in Idaho Falls is 20 times that in Bangor, Me., where lumbar fusion is less common than anywhere else.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A big reason for the high cost of health insurance is the explosion of expensive, medically questionable care.</p>
+      </block>
+      <block class="full_text">
+        <p>In a saner world, the place where you live wouldn't have much effect on how doctors treated your back problems. In our world, it can make all the difference.</p>
+        <p>In Idaho Falls, Idaho, anyone suffering from the sort of lower back pain that may conceivably be helped by the fusing of two vertebrae is quite likely to have the surgery. It's known as lumbar fusion, and the rate at which it is performed in Idaho Falls is almost five times the national average. The rate in Idaho Falls is 20 times that in Bangor, Me., where lumbar fusion is less common than anywhere else.</p>
+        <p>These numbers  come from the wonderful Dartmouth Atlas of Health Care.  The Dartmouth researchers adjust the numbers to take into account age, race and sex, which is another way of saying that there is no good explanation for the huge variations they find. Doctors in the Idaho Falls area are probably just being more aggressive than doctors elsewhere.</p>
+        <p>But it's not clear that their patients are any better off. The evidence for lumbar fusion is incredibly mixed.  It seems to help people with certain kinds of pain, but many others recover just as well without the surgery. Of course, doctors are almost always better off if the surgery is done: The typical hospital bill for lumbar fusion is roughly $50,000.</p>
+        <p>This is about as good an example as you can find of the health care mess. The number of lumbar fusions performed in this country has more than tripled since the early 1990s, and Medicare now spends more than $600 million a year on the procedure. It's one reason your health insurance bill has gone up.</p>
+        <p>Now stop and ask yourself a quick question about the lumbar fusion story: Does it have anything to do with the fact that almost 50 million people in this country don't have health insurance? Clearly, it does not. And that's precisely the problem with the current debate over health care reform.</p>
+        <p>After more than a decade in the wilderness, health care has returned to the center of the political discussion. But the only topic getting any serious attention is universal health insurance. It's the entire point of the ambitious new program in Massachusetts and a similar proposal in California. Universal coverage has dominated both the news media's coverage of the Democratic presidential candidates' reform ideas and the candidates' own jockeying over those ideas.</p>
+        <p>In a debate  in New Hampshire on Sunday night, John Edwards needled Barack Obama for offering a plan that wasn't ''completely universal.'' (A fair criticism.) Mr. Obama's aides like to counter that Mr. Edwards is underestimating the cost and logistical difficulties of covering every last person. (That's probably fair, too.) People in both campaigns are fond of pointing out that Hillary Clinton still hasn't come up with her own plan for universal coverage. In the 2008 campaign, expanded health insurance is apparently the new ''middle class'': there's an arms race to see who can be most in favor of it.</p>
+        <p>Let me add my name to the list of fans before the e-mail starts pouring in. Universal coverage is a great idea. The unlikely crew of Democratic state legislators, Republican  governors  and Democratic presidential candidates who have forced the issue onto the agenda deserve enormous credit. A world where everyone could afford health insurance -- where no one had to choose between fixing a cavity and paying the rent -- would be a much better place.</p>
+        <p>But if we are really at the start of a once-in-a-generation push to fix health care, we need to be clear about the true problem. The main reason so many people lack health insurance is because of its cost. And a big reason for that cost is the explosion of expensive, medically questionable care, be it knee replacement, preventive angioplasty or lumbar fusion. The route to an affordable health insurance solution runs straight through this thicket.</p>
+        <p>Along these lines, the three leading Democratic candidates have quietly come up with nearly identical ideas. Deep inside their health care plans, Mrs. Clinton, Mr. Edwards  and Mr. Obama  have each called for the creation of a national institute to figure out which kinds of medical care actually work. This institute would sort through the scientific research on, say, spinal fusion and help people understand when it may make sense and when it's likely to be just another big medical expense that doesn't solve anything.</p>
+        <p>Medicare and private insurers could then use the research findings to determine when a procedure or a drug would be covered. There would be room for exceptions, based on a doctor's judgment. In general, though, a doctor and a patient could proceed with dubious treatment only if they didn't stick the rest of us with the bill.</p>
+        <p>So far, the candidates have been careful to describe the institute as a place that would merely collect and distribute information, not one with the power to block wasteful spending. To pay for expanded health insurance, they are instead focusing on unobjectionable (and unproven) ways to save money, like computerized medical records. ''None of the candidates have offered a specific plan to seriously rein in the growth of health care costs,'' says Jonathan Skinner, an economist at Dartmouth who works on the Atlas of Health Care.</p>
+        <p>But campaign advisers acknowledge that any institute will ultimately help set insurance payments, and they are not the only ones pushing the idea. Peter Orszag, the head of the Congressional Budget Office, has mentioned it when talking about the fiscal disaster that awaits if Medicare spending isn't slowed.</p>
+        <p>A number of Republican health care experts also favor some sort of cost-effectiveness institute. It's another way to cut wasteful government spending.</p>
+        <p>Still, we shouldn't be naïve: a lot of people would lose if medical care came to be based more on what actually worked. Right now, drug companies and medical device makers can go to the Food and Drug Administration and get approval for an expensive new product so long as they show that it's as effective as its predecessor. They can then turn around and suggest to doctors that the new product is more effective than its predecessor. The doctors often profit, too. And many patients demand the latest, most expensive procedure, regardless of the evidence.</p>
+        <p>So reforming the system will require a fight -- not just over the meaning of the word ''universal'' but also over finding tough, sensible ways to save money. As David Cutler, one of the Obama campaign's health care advisers, said, ''These things are really hard, so they ought to be in the foreground.''</p>
+        <p>The simple truth is that medical spending can't continue to rise at its current rate. Somehow, we need to make choices.</p>
+        <p>ECONOMIX E-mail: Leonhardt@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Leonhardt@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Samantha Bishopp, Ryan Mollett</title>
+    <meta content="03BISHOPP" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03BISHOPP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851868"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Bishopp, Samantha Noelle (Samantha Noelle Mollett)</person>
+        <person class="indexing_service">Mollett, Ryan DeForest</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DA1230F930A35755C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Samantha Bishopp, Ryan Mollett</hl1>
+        <hl2 class="online_headline">Samantha Bishopp, Ryan Mollett</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Samantha Noelle Bishopp, a daughter of Claudia Reynaud Bishopp and Malcolm F. Bishopp, both of New York, was married yesterday to Ryan DeForest Mollett, a son of Dorothy Mollett and Richard C. Mollett of Taneytown, Md. The Rev. Dr. William F. R. Gilroy, a Lutheran minister, officiated at Antrim 1844, a Taneytown inn that is owned by the bridegroom's parents.</p>
+        <p>Mrs. Mollett, 28, works in New York as an editor in the fashion department at Glamour magazine. She graduated from Vanderbilt. Her father is a managing director at Allianz Global Investors in New York. Her mother is an interpreter at the United Nations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Samantha Noelle Bishopp, a daughter of Claudia Reynaud Bishopp and Malcolm F. Bishopp, both of New York, was married yesterday to Ryan DeForest Mollett, a son of Dorothy Mollett and Richard C. Mollett of Taneytown, Md. The Rev. Dr. William F. R. Gilroy, a Lutheran minister, officiated at Antrim 1844, a Taneytown inn that is owned by the bridegroom’s parents.</p>
+      </block>
+      <block class="full_text">
+        <p>Samantha Noelle Bishopp, a daughter of Claudia Reynaud Bishopp and Malcolm F. Bishopp, both of New York, was married yesterday to Ryan DeForest Mollett, a son of Dorothy Mollett and Richard C. Mollett of Taneytown, Md. The Rev. Dr. William F. R. Gilroy, a Lutheran minister, officiated at Antrim 1844, a Taneytown inn that is owned by the bridegroom's parents.</p>
+        <p>Mrs. Mollett, 28, works in New York as an editor in the fashion department at Glamour magazine. She graduated from Vanderbilt. Her father is a managing director at Allianz Global Investors in New York. Her mother is an interpreter at the United Nations.</p>
+        <p>Mr. Mollett, also 28, received an M.B.A. degree from Yale last week and this month is to become an associate at BlackRock, the investment firm in New York. He graduated from Princeton, where he was a captain of the 2001 lacrosse team, which won the national championship. He is now a defenseman for the New Jersey Pride, a professional lacrosse team in New Brunswick.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

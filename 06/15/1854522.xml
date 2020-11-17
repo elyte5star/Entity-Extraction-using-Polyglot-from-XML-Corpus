@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BREAKING GROUND</title>
+    <meta content="15break1" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Escapes" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="http://www.nytimes.com/2007/06/15/realestate/greathomes/15break2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854522"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Breaking Ground"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Costa Rica</location>
+        <location class="indexing_service">Vero Beach (Fla)</location>
+        <person class="indexing_service">Kaye, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Escapes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Great Homes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Luxury and Vacations/Vacation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Costa Rica</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Florida</location>
+        <location class="online_producer">Costa Rica</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED6143FF936A25755C0A9619C8B63" item-length="472" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BREAKING GROUND</hl1>
+        <hl2 class="online_headline">Vero Beach Hotel &amp; Club and Pacifico</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK KAYE</byline>
+      <byline class="normalized_byline">Kaye, Nick</byline>
+      <abstract>
+        <p>Breaking Ground column describes Pacifico, residential resort development in Guanacaste Province, Costa Rica, and Vero Beach Hotel &amp; Club, oceanfront condominium hotel in Vero Beach, Fla; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pacifico</p>
+        <p>WHAT -- Residential resort development.</p>
+        <p>WHERE -- Guanacaste province, Costa Rica</p>
+        <p>AMENITIES -- A beach club and swimming pools, among others.</p>
+        <p>PRICES -- Homesites from $145,000; condominiums from about $180,000; town houses from about $420,000; houses from about $615,000.</p>
+        <p>STATUS -- The first residences are expected to be completed in August.</p>
+        <p>DEVELOPER -- The Jack Parker Corporation.</p>
+        <p>CONTACT -- (877) 444-1222 or www.pacifico-costarica.com.</p>
+        <p>DETAILS -- In Playas del Coco on the northwestern Pacific coast of Costa Rica, this 175-acre gated project will consist of at least 232 condominiums, 40 town houses, 22 houses and 126 homesites. Construction began in 2006, and the first 46 two-to-three-bedroom condominiums and 10 four-bedroom town houses are expected to be ready this summer. All the residences will be Mediterranean style with clay-tiled roofs; some will have balconies or terraces. Owners will be able to enter their residences in a rental program. The development's beach club, which offers water sports activities, swimming pools and a restaurant, opened recently. Its spa, in a separate building with a fitness center, should open next year. At the entrance to the development will be an area that will include boutiques, an art gallery, a grocery store, a tour company and an interior design studio. The international airport in Liberia is only about 20 minutes away; flights arrive there from American cities including Newark, Miami, Atlanta and Houston.</p>
+        <p>Vero Beach Hotel &amp; Club</p>
+        <p>WHAT -- Oceanfront condominium hotel.</p>
+        <p>WHERE -- Vero Beach, Fla.</p>
+        <p>AMENITIES -- A spa and a restaurant, among others.</p>
+        <p>PRICES -- Condominiums starting at $795,000.</p>
+        <p>STATUS -- The first phase of residences and amenities opened in February; the second is scheduled to be completed this fall.</p>
+        <p>DEVELOPER -- Heaton Companies.</p>
+        <p>CONTACT -- (772) 231-5666 or www.verobeachhotelandclub.com.</p>
+        <p>DETAILS -- Vero Beach, on Florida's east coast about 150 miles north of Miami, is split by the Indian River, part of the Intracoastal Waterway, into mainland and island sections. This project, on the island fronting the Atlantic, consists of a four-story, 83-suite condominium hotel. The one-to-three-bedroom units, which owners may place in a rental program to serve as hotel rooms, will be sold furnished and will range from 565 to 2,000 square feet. Details include mahogany furniture, Jerusalem stone floors and balconies or terraces. The restaurant and the spa will open with the second phase of construction; the first phase had a beach club, a swimming pool and a poolside bar and grill. Residents will have access to a nearby private golf club. The Dodgers Major League Baseball team has held its spring training in Vero Beach since 1948. For air service, the Palm Beach, Orlando and Melbourne airports are within an hour and a half of the development.</p>
+        <p>NICK KAYE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An oceanfront condominium hotel in Vero Beach, Fla., and a residential resort development in Guanacaste province, Costa Rica.</p>
+      </block>
+      <block class="full_text">
+        <p>Pacifico</p>
+        <p>WHAT -- Residential resort development.</p>
+        <p>WHERE -- Guanacaste province, Costa Rica</p>
+        <p>AMENITIES -- A beach club and swimming pools, among others.</p>
+        <p>PRICES -- Homesites from $145,000; condominiums from about $180,000; town houses from about $420,000; houses from about $615,000.</p>
+        <p>STATUS -- The first residences are expected to be completed in August.</p>
+        <p>DEVELOPER -- The Jack Parker Corporation.</p>
+        <p>CONTACT -- (877) 444-1222 or www.pacifico-costarica.com.</p>
+        <p>DETAILS -- In Playas del Coco on the northwestern Pacific coast of Costa Rica, this 175-acre gated project will consist of at least 232 condominiums, 40 town houses, 22 houses and 126 homesites. Construction began in 2006, and the first 46 two-to-three-bedroom condominiums and 10 four-bedroom town houses are expected to be ready this summer. All the residences will be Mediterranean style with clay-tiled roofs; some will have balconies or terraces. Owners will be able to enter their residences in a rental program. The development's beach club, which offers water sports activities, swimming pools and a restaurant, opened recently. Its spa, in a separate building with a fitness center, should open next year. At the entrance to the development will be an area that will include boutiques, an art gallery, a grocery store, a tour company and an interior design studio. The international airport in Liberia is only about 20 minutes away; flights arrive there from American cities including Newark, Miami, Atlanta and Houston.</p>
+        <p>Vero Beach Hotel &amp; Club</p>
+        <p>WHAT -- Oceanfront condominium hotel.</p>
+        <p>WHERE -- Vero Beach, Fla.</p>
+        <p>AMENITIES -- A spa and a restaurant, among others.</p>
+        <p>PRICES -- Condominiums starting at $795,000.</p>
+        <p>STATUS -- The first phase of residences and amenities opened in February; the second is scheduled to be completed this fall.</p>
+        <p>DEVELOPER -- Heaton Companies.</p>
+        <p>CONTACT -- (772) 231-5666 or www.verobeachhotelandclub.com.</p>
+        <p>DETAILS -- Vero Beach, on Florida's east coast about 150 miles north of Miami, is split by the Indian River, part of the Intracoastal Waterway, into mainland and island sections. This project, on the island fronting the Atlantic, consists of a four-story, 83-suite condominium hotel. The one-to-three-bedroom units, which owners may place in a rental program to serve as hotel rooms, will be sold furnished and will range from 565 to 2,000 square feet. Details include mahogany furniture, Jerusalem stone floors and balconies or terraces. The restaurant and the spa will open with the second phase of construction; the first phase had a beach club, a swimming pool and a poolside bar and grill. Residents will have access to a nearby private golf club. The Dodgers Major League Baseball team has held its spring training in Vero Beach since 1948. For air service, the Palm Beach, Orlando and Melbourne airports are within an hour and a half of the development.</p>
+        <p>NICK KAYE  Breaking Ground</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homeless in New York</title>
+    <meta content="l16shelter" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854791"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Camp Laguardia (Chester, NY)</org>
+        <person class="indexing_service">Cohen, Arnold S</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E2D8153FF935A25755C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homeless in New York</hl1>
+      </hedline>
+      <abstract>
+        <p>Partnership for the Homeless pres Arnold S Cohen letter supports Mayor Michael R Bloomberg's decision to close Camp La Guardia homeless shelter</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Shelter Closes, Residents Move On and Fortunes Diverge'' (news article, June 12):</p>
+        <p>Camp La Guardia was always a sad symbol of our city's failed strategy to deal with the systemic problems of homelessness. Its closing couldn't happen soon enough. And while shelter still remains a critical safety net, it's certainly no substitute for real, long-term solutions that address root causes.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Shelter Closes, Residents Move On and Fortunes Diverge'' (news article, June 12):</p>
+        <p>Camp La Guardia was always a sad symbol of our city's failed strategy to deal with the systemic problems of homelessness. Its closing couldn't happen soon enough. And while shelter still remains a critical safety net, it's certainly no substitute for real, long-term solutions that address root causes.</p>
+        <p>So we congratulate Mayor Michael R. Bloomberg for finally shutting down this facility, which simply warehoused more than 1,000 men on any given night, seemingly punishing them for being down on their luck or for struggling with the challenges of mental health or other disabilities.</p>
+        <p>But let's make certain that the closing of this shelter is truly a signal of change. For a mayor who rightly seeks to understand the metrics of his strategies to assess their efficacy, success here should be measured when we're able to show that for each shelter bed eliminated we've taken that savings and created units of low-income affordable housing.</p>
+        <p>Arnold S. Cohen  President &amp; C.E.O.  The Partnership for the Homeless  New York, June 14, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

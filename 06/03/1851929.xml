@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DataBank; Dow and S.&amp; P. End the Week at Record Highs</title>
+    <meta content="03data" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851929"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E7D71330F930A35755C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DataBank; Dow and S.&amp; P. End the Week at Record Highs</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF SOMMER</byline>
+      <byline class="normalized_byline">Sommer, Jeff</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was a short but glorious week for the stock market, with both the Dow Jones industrial average and the Standard &amp; Poor's 500-stock index closing on Friday at record highs.</p>
+        <p>On Friday, a government report showed a surge in job creation in May. And an inflation gauge favored by the Federal Reserve -- the core personal consumption expenditure deflator -- rose in April at the relatively modest annualized rate of 2 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>It was a short but glorious week for the stock market, with both the Dow Jones industrial average and the Standard &amp; Poor's 500-stock index closing on Friday at record highs.</p>
+        <p>On Friday, a government report showed a surge in job creation in May. And an inflation gauge favored by the Federal Reserve -- the core personal consumption expenditure deflator -- rose in April at the relatively modest annualized rate of 2 percent.</p>
+        <p>Wal-Mart Stores gained 6.1 percent for the week, the best performance among the Dow industrials. The company said it would repurchase $15 billion of its shares.</p>
+        <p>Archstone-Smith, the real estate investment trust, rose 20.4 percent, the best weekly performance in the S.&amp; P. 500. Archstone-Smith is being acquired for $22.2 billion by Tishman-Speyer and Lehman Brothers.</p>
+        <p>The market was closed on Monday for Memorial Day. For the week, the Dow rose 160.83 points, or 1.2 percent, to close at 13,668.11. The S.&amp; P. 500 gained 20.61 points, or 1.4 percent, to close at 1,536.34. The Nasdaq composite index climbed 56.73 points, or 2.2 percent, to close at 2,613.92. The yield on the 10-year Treasury note rose to 4.95 percent from 4.86 percent the previous week.</p>
+        <p>JEFF SOMMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

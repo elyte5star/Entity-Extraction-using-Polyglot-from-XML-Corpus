@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Albany: Lawmaker To Head State Authority</title>
+    <meta content="19mbrfs-authority" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19mbrfs-authority.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855583"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEW YORK"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <org class="online_producer">New York State Energy Research and Development Authority</org>
+        <person class="online_producer">Tonko, Paul D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EEDF133FF93AA25755C0A9619C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Albany: Lawmaker To Head State Authority</hl1>
+        <hl2 class="online_headline">Albany: Lawmaker to Head State Authority</hl2>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The board of the New York State Energy Research and Development Authority elected a veteran state assemblyman yesterday as its president and chief executive. The legislator, Paul D. Tonko, 58, left, of Amsterdam, was first elected to the Assembly in 1983 and has served as the chairman of its Energy Committee since 1992. The authority, with an annual budget of $409 million, finances energy research projects and energy efficiency programs through a surcharge on utility bills. It will be up to Gov. Eliot Spitzer to call a special election to fill the remainder of Mr. Tonko's two-year Assembly term; he was re-elected easily last November.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The board of the New York State Energy Research and Development Authority elected a veteran state assemblyman yesterday as its president and chief executive. The legislator, Paul D. Tonko, 58, left, of Amsterdam, was first elected to the Assembly in 1983 and has served as the chairman of its Energy Committee since 1992. The authority, with an annual budget of $409 million, finances energy research projects and energy efficiency programs through a surcharge on utility bills. It will be up to Gov. Eliot Spitzer to call a special election to fill the remainder of Mr. Tonko’s two-year Assembly term; he was re-elected easily last November.</p>
+      </block>
+      <block class="full_text">
+        <p>The board of the New York State Energy Research and Development Authority elected a veteran state assemblyman yesterday as its president and chief executive. The legislator, Paul D. Tonko, 58, left, of Amsterdam, was first elected to the Assembly in 1983 and has served as the chairman of its Energy Committee since 1992. The authority, with an annual budget of $409 million, finances energy research projects and energy efficiency programs through a surcharge on utility bills. It will be up to Gov. Eliot Spitzer to call a special election to fill the remainder of Mr. Tonko's two-year Assembly term; he was re-elected easily last November.</p>
+        <p>NEW YORK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

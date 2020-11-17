@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>News Summary</title>
+    <meta content="17summary" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855268"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DE123FF934A25755C0A9619C8B63" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>News Summary</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INTERNATIONAL 3-12</p>
+        <p>1996 Poisoning Case Unheeded  The same regulatory failings that led a Chinese-made poisonous drug ingredient, exported as pharmaceutical-grade glycerin, to kill at least 100 people in Panama last year allowed another drug ingredient from China to kill dozens of Haitian children a decade ago, memorandums show.</p>
+        <p>1</p>
+        <p>U.S. Push on Al Qaeda in Iraq  With the influx of tens of thousands of additional combat troops into Iraq complete, American forces have begun a major new offensive against Al Qaeda insurgents based on the outskirts of Baghdad, the top American commander in Iraq said.</p>
+        <p>1</p>
+        <p>Hooded gunmen blew up a second Sunni mosque in the southern city of Basra in two days, after ordering police at the mosque to flee and despite a curfew imposed by Iraq's central government, witnesses and security officials said.</p>
+        <p>8</p>
+        <p>Fatah Control in West Bank  The Fatah Palestinian faction, crushed in Gaza, moved to consolidate control over the West Bank, seizing public buildings and preparing to swear in a new government that did not include its rival, Hamas.</p>
+        <p>4</p>
+        <p>Israeli Prime Minister Ehud Olmert said Israel would cooperate fully with a Fatah government.</p>
+        <p>4</p>
+        <p>Kabul Suicide Blast Kills 5  A suicide bomber driving a taxi set off his explosives near a convoy of United States civilian contractors and accompanying soldiers, killing himself and four bystanders, the Kabul police said.  10</p>
+        <p>NATIONAL 14-21</p>
+        <p>Regretting That Tattoo  Tattoo removal stores are part of a growing industry catering to people who may not have thought about the implications of ''forever'' the first time around.</p>
+        <p>1</p>
+        <p>Charity's Homes Faulted  Some owners of homes built by Habitat for Humanity in Jacksonville, Fla., are having problems with their houses and say they fear that the blitz construction was shoddy and that their land, adjacent to two former town dumps, is unstable or contaminated.</p>
+        <p>14</p>
+        <p>Major Renewal in Baltimore  Four hundred families are awaiting relocation in Baltimore as workers clear part of a 100-acre site for the largest planned urban renewal in the country.</p>
+        <p>16</p>
+        <p>Land Battle in Kentucky  Families in Kentucky say they have been cheated out of an agreement to buy back land that the government told them to vacate during World War II and denied a stake in a government windfall: the discovery of enormous deposits of gas and oil.</p>
+        <p>16</p>
+        <p>NEW YORK/REGION 25-30</p>
+        <p>Giuliani and the Firefighters  While it might seem easy to assume that after Sept. 11 Rudolph W. Giuliani could count on the support of the 11,000 men and women of the New York City Fire Department in his quest for the presidency, interviews with more than 50 city firefighters and officers show a mix of admiration and disdain for the former mayor.  1</p>
+        <p>Chess 30  Weather 20</p>
+      </block>
+      <block class="full_text">
+        <p>INTERNATIONAL 3-12</p>
+        <p>1996 Poisoning Case Unheeded  The same regulatory failings that led a Chinese-made poisonous drug ingredient, exported as pharmaceutical-grade glycerin, to kill at least 100 people in Panama last year allowed another drug ingredient from China to kill dozens of Haitian children a decade ago, memorandums show.</p>
+        <p>1</p>
+        <p>U.S. Push on Al Qaeda in Iraq  With the influx of tens of thousands of additional combat troops into Iraq complete, American forces have begun a major new offensive against Al Qaeda insurgents based on the outskirts of Baghdad, the top American commander in Iraq said.</p>
+        <p>1</p>
+        <p>Hooded gunmen blew up a second Sunni mosque in the southern city of Basra in two days, after ordering police at the mosque to flee and despite a curfew imposed by Iraq's central government, witnesses and security officials said.</p>
+        <p>8</p>
+        <p>Fatah Control in West Bank  The Fatah Palestinian faction, crushed in Gaza, moved to consolidate control over the West Bank, seizing public buildings and preparing to swear in a new government that did not include its rival, Hamas.</p>
+        <p>4</p>
+        <p>Israeli Prime Minister Ehud Olmert said Israel would cooperate fully with a Fatah government.</p>
+        <p>4</p>
+        <p>Kabul Suicide Blast Kills 5  A suicide bomber driving a taxi set off his explosives near a convoy of United States civilian contractors and accompanying soldiers, killing himself and four bystanders, the Kabul police said.  10</p>
+        <p>NATIONAL 14-21</p>
+        <p>Regretting That Tattoo  Tattoo removal stores are part of a growing industry catering to people who may not have thought about the implications of ''forever'' the first time around.</p>
+        <p>1</p>
+        <p>Charity's Homes Faulted  Some owners of homes built by Habitat for Humanity in Jacksonville, Fla., are having problems with their houses and say they fear that the blitz construction was shoddy and that their land, adjacent to two former town dumps, is unstable or contaminated.</p>
+        <p>14</p>
+        <p>Major Renewal in Baltimore  Four hundred families are awaiting relocation in Baltimore as workers clear part of a 100-acre site for the largest planned urban renewal in the country.</p>
+        <p>16</p>
+        <p>Land Battle in Kentucky  Families in Kentucky say they have been cheated out of an agreement to buy back land that the government told them to vacate during World War II and denied a stake in a government windfall: the discovery of enormous deposits of gas and oil.</p>
+        <p>16</p>
+        <p>NEW YORK/REGION 25-30</p>
+        <p>Giuliani and the Firefighters  While it might seem easy to assume that after Sept. 11 Rudolph W. Giuliani could count on the support of the 11,000 men and women of the New York City Fire Department in his quest for the presidency, interviews with more than 50 city firefighters and officers show a mix of admiration and disdain for the former mayor.  1</p>
+        <p>Chess 30  Weather 20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

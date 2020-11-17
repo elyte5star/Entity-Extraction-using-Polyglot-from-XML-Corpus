@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tara Lowenberg, Scott Lonker</title>
+    <meta content="17LOWENBERG" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17LOWENBERG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855100"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lowenberg, Tara Alexis</person>
+        <person class="indexing_service">Lonker, Scott Isaac</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E0DB153FF934A25755C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tara Lowenberg, Scott Lonker</hl1>
+        <hl2 class="online_headline">Tara Lowenberg, Scott Lonker</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tara Alexis Lowenberg, the daughter of Dr. Marc Lowenberg of New York and the late Sandra Ross Lowenberg, was married last evening to Scott Isaac Lonker, the son of Lyn Lipschutz of Lambertville, N.J., and Michael Lonker of Los Angeles. Rabbi Jay Henry Moses officiated at the home of the bride's father in Water Mill, N.Y.</p>
+        <p>The bride, 32, will continue to use her name professionally. She is the president of TLCommunications, a public relations firm in Manhattan, and is a Columbia graduate.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tara Alexis Lowenberg, the daughter of Dr. Marc Lowenberg of New York and the late Sandra Ross Lowenberg, was married last evening to Scott Isaac Lonker, the son of Lyn Lipschutz of Lambertville, N.J., and Michael Lonker of Los Angeles. Rabbi Jay Henry Moses officiated at the home of the bride’s father in Water Mill, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Tara Alexis Lowenberg, the daughter of Dr. Marc Lowenberg of New York and the late Sandra Ross Lowenberg, was married last evening to Scott Isaac Lonker, the son of Lyn Lipschutz of Lambertville, N.J., and Michael Lonker of Los Angeles. Rabbi Jay Henry Moses officiated at the home of the bride's father in Water Mill, N.Y.</p>
+        <p>The bride, 32, will continue to use her name professionally. She is the president of TLCommunications, a public relations firm in Manhattan, and is a Columbia graduate.</p>
+        <p>The bridegroom, also 32, is an entertainment agent at the William Morris Agency in New York. He graduated from Rutgers.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

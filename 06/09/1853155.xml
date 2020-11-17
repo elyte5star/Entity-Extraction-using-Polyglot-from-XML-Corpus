@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; A German Literary Lion</title>
+    <meta content="09arts-2" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853155"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7DD163FF93AA35755C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; A German Literary Lion</hl1>
+      </hedline>
+      <byline class="print_byline">By SARAH PLASS; Compiled by Peter Edidin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Georg Büchner Prize, Germany's most prestigious literary award, will be given this year to Martin Mosebach, the German Academy for Language and Literature said yesterday. In its announcement the academy described Mr. Mosebach, 56, as ''a writer who combines stylistic splendor with original storytelling.'' Mr. Mosebach's latest novel, ''The Moon and the Girl'' (''Der Mond und das Mädchen''), is due in August. The Büchner prize, named after the 19th-century author, is worth 40,000 euro (almost $54,000) and has been awarded since 1923. Mr. Mosebach is to receive the prize on Oct. 27 in Darmstadt.</p>
+        <p>SARAH PLASS</p>
+      </block>
+      <block class="full_text">
+        <p>The Georg Büchner Prize, Germany's most prestigious literary award, will be given this year to Martin Mosebach, the German Academy for Language and Literature said yesterday. In its announcement the academy described Mr. Mosebach, 56, as ''a writer who combines stylistic splendor with original storytelling.'' Mr. Mosebach's latest novel, ''The Moon and the Girl'' (''Der Mond und das Mädchen''), is due in August. The Büchner prize, named after the 19th-century author, is worth 40,000 euro (almost $54,000) and has been awarded since 1923. Mr. Mosebach is to receive the prize on Oct. 27 in Darmstadt.</p>
+        <p>SARAH PLASS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

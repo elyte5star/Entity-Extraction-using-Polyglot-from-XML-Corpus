@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Steven Gilliard Jr., 42, Founder of Liberal Political Blog</title>
+    <meta content="06gilliard" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/us/06gilliard.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852482"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">News and News Media</classifier>
+        <classifier class="indexing_service" type="names">Steven Gilliard Jr.</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Daily Kos</org>
+        <person class="online_producer">Zuniga, Markos Moulitsas</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DF1E30F935A35755C0A9619C8B63" item-length="357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Steven Gilliard Jr., 42, Founder of Liberal Political Blog</hl1>
+        <hl2 class="online_headline">Steven Gilliard Jr., 42, Dies; Founder of Liberal Political Blog</hl2>
+      </hedline>
+      <byline class="print_byline">By NOAM COHEN</byline>
+      <byline class="normalized_byline">Cohen, Noam</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Steven Gilliard Jr., a political journalist who found his calling as a combative and influential blogger on the left, died on Saturday in Manhattan. He was 42.</p>
+        <p>He died after having been hospitalized at Lenox Hill Hospital since February because of heart and kidney failure, said his cousin Francine Smith, a spokeswoman for the family.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>From The News Blog, whose advertisements and donations paid for his modest living expenses, Mr. Gilliard offered a blunt and passionate take on the events of the day.</p>
+      </block>
+      <block class="full_text">
+        <p>Steven Gilliard Jr., a political journalist who found his calling as a combative and influential blogger on the left, died on Saturday in Manhattan. He was 42.</p>
+        <p>He died after having been hospitalized at Lenox Hill Hospital since February because of heart and kidney failure, said his cousin Francine Smith, a spokeswoman for the family.</p>
+        <p>From his perch at The News Blog, whose advertisements and donations paid for his modest living expenses, Mr. Gilliard offered his powerful readership a blunt and passionate take on the events of the day. He was one of fewer than a dozen liberal political bloggers to make a living from his blog, said Markos Moulitsas Zúniga, the founder of the Daily Kos Web site, to which Mr. Gilliard had been an early contributor.</p>
+        <p>Mr. Gilliard was born in Harlem and attended Hunter College Elementary School and Hunter College High School before graduating with a degree in journalism from New York University.</p>
+        <p>After working in print journalism, Mr. Gilliard migrated online, working for a Web site, Net Slaves, that chronicled the lot of the tech worker during the dot-com boom. His involvement in online political writing received a critical boost when Mr. Moulitsas chose Mr. Gilliard to help create material for the Daily Kos site at a time when it had 4,000 visitors a day; it now has 500,000 a day.</p>
+        <p>Mr. Gilliard eventually left Daily Kos to create The News Blog.</p>
+        <p>Mr. Gilliard's survivors include his parents, Steven Gilliard Sr. and Evelyn Lillian Gilliard of Manhattan, and two sisters, Valerie Gilliard and Roberta Smalls, both of Massachusetts.</p>
+        <p>In what is a now-familiar story among Internet collaborators, many of the thousands who posted online reactions to Mr. Gilliard's death wrote that they had known little about him, even the fact that he was black. Others, though, mourned the loss of an African-American voice in the liberal blogging world. Those closest to him offline similarly knew next to nothing about his life as blogger.</p>
+        <p>''Most of the family didn't know what he was doing on the Web site,'' said his cousin, Ms. Smith, who said his parents did not own computers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

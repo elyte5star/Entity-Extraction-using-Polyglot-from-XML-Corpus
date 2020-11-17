@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Executive Choices</title>
+    <meta content="03PICKS" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="12" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Automobiles; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/automobiles/03PICKS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851818"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E3DB1530F930A35755C0A9619C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Executive Choices</hl1>
+        <hl2 class="online_headline">Executive Choices</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here is a short list of essentials from some of the most influential men and women in auto design, manufacturing, racing and sales:</p>
+        <p>Robert A. Lutz, vice chairman of General Motors:</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A short list of essential reading from some of the most influential men and women in auto design, manufacturing, racing and sales.</p>
+      </block>
+      <block class="full_text">
+        <p>Here is a short list of essentials from some of the most influential men and women in auto design, manufacturing, racing and sales:</p>
+        <p>Robert A. Lutz, vice chairman of General Motors:</p>
+        <p>Automobil Revue magazine's annual catalog, published in German and French, with illustrations and complete technical data for every make, model and version produced. It's the world's best reference book for a car guy.</p>
+        <p>Janet Guthrie, the first woman to compete in the Indianapolis 500, in 1977:</p>
+        <p>Two issues of Automobile Quarterly: the career of Camille du Gast, a remarkable French racing driver of 1901-3, is described in Vol. XIV, No. 4, and the career of Elisabeth Junek, a Czech driver of 1924-28, in Vol. VII, No. 3. The accomplishments of these women ought not be forgotten.</p>
+        <p>Alan R. Mulally, president and chief executive of the Ford Motor Company:</p>
+        <p>''The Machine That Changed the World'' by James P. Womack, Daniel T. Jones and Daniel Roos (Rawson Associates, 1990).</p>
+        <p>Annette Sykora, vice chairman of the National Automobile Dealers Association.</p>
+        <p>A book I have found helpful for customers, employees and even my daughters is ''The Greaseless Guide to Car Care Confidence'' by Mary Jackson (John Muir Publications, 1989). This puts technical terms in easy-to-understand language.</p>
+        <p>Ralph Gilles, vice president for design at the Chrysler Group:</p>
+        <p>My recommendation would be two magazines: Car Styling and Auto &amp; Design.</p>
+        <p>Jimmie Johnson, reigning Nascar Nextel Cup champion:</p>
+        <p>In today's world there may be some good books out there. There was one guy by the name of Duke Southard that had a booklet on stock-car racing. He also had some VHS tapes that taught me the basics of short-track cars.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

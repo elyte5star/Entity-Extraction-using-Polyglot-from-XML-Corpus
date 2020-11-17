@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Drug Extends Lives of Liver Cancer Patients, Doctors Say</title>
+    <meta content="04liver" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/health/04liver.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070615T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852158"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Transplants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Liver Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="descriptor">Liver</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Liver</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DE1130F937A35755C0A9619C8B63" item-length="725" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Drug Extends Lives of Liver Cancer Patients, Doctors Say</hl1>
+        <hl2 class="online_headline">New Liver Cancer Drug Is Promising, Doctors Say</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <dateline>CHICAGO, June 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new drug looks poised to become the first effective treatment for liver cancer, one of the most common and deadliest cancers in the world and one whose incidence has been rising in the United States, doctors said here Sunday.</p>
+        <p>In a large clinical trial, the drug, called Nexavar, extended the lives of patients by almost three months, or 44 percent. While that is far from a cure, experts say it represents a breakthrough after years of efforts to find a drug that works.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The new drug could become the first effective treatment for liver cancer, one of the deadliest forms of cancer.</p>
+      </block>
+      <block class="full_text">
+        <p>A new drug looks poised to become the first effective treatment for liver cancer, one of the most common and deadliest cancers in the world and one whose incidence has been rising in the United States, doctors said here Sunday.</p>
+        <p>In a large clinical trial, the drug, called Nexavar, extended the lives of patients by almost three months, or 44 percent. While that is far from a cure, experts say it represents a breakthrough after years of efforts to find a drug that works.</p>
+        <p>''We did not have anything for these patients,'' said Dr. Josep M. Llovet, one of the principal investigators in the trial. ''Now we have an effective drug that prolongs survival.''</p>
+        <p>Dr. Llovet, who has appointments at the Mount Sinai School of Medicine and the University of Barcelona, said there had been 100 unsuccessful trials of drugs for liver cancer in the last 30 years.</p>
+        <p>Nexavar, also known as sorafenib, was developed by Onyx Pharmaceuticals, a California biotechnology company, and Bayer, the German pharmaceutical company. The companies said they would apply this summer for regulatory approval to sell Nexavar as a treatment for liver cancer.</p>
+        <p>The drug is already approved as a treatment for kidney cancer, which means that doctors are allowed to prescribe it ''off label'' for patients with liver cancer.</p>
+        <p>In the trial, patients who received Nexavar lived a median of 10.7 months, compared with 7.9 months for those who received a placebo. The main side effects were diarrhea and a painful syndrome in the hands and feet.</p>
+        <p>The results are scheduled to be presented here on Monday at the annual meeting of the American Society of Clinical Oncology.</p>
+        <p>The trial involved 602 patients with hepatocellular carcinoma, the most common form of liver cancer by far. Experts said the results would not apply to other forms of liver cancer or to cancers that originated elsewhere, such as in the lung or breast, and then spread to the liver.</p>
+        <p>An improvement of survival of 2.8 months is considered significant for cancer drugs, given the difficulty of treating the disease. However, there has been rising concern among doctors, patients and insurers about the cost of adding a few months to life. Nexavar, like many other new cancer drugs, is expensive, costing $4,500 a month.</p>
+        <p>Most cases of liver cancer occur in people who already have cirrhosis of the liver, a scarring of the organ that in turn can be caused by hepatitis B or C, alcohol abuse, or obesity. Liver cancer has been fairly uncommon in the United States, with about 19,000 new cases expected this year, with nearly 17,000 deaths.</p>
+        <p>But the number of cases has been rising because of an increasing incidence of hepatitis C. And worldwide, there are about 600,000 new cases a year, making liver cancer one of the most common cancers and cancer deaths globally. That is mainly because of the large number of people in the Far East with hepatitis B and C.</p>
+        <p>If liver cancer is diagnosed when the tumor is confined to a small area of the liver, it can often be treated by surgically removing part of the liver. Liver transplants can cure the disease, though there is a shortage of donor organs. There are also some other localized treatments, like one that involves inserting particles into the liver artery to cut off the flow of blood to the tumor.</p>
+        <p>For about half of all patients in the United States and Europe, however, the disease is not diagnosed until it is too late for any of those techniques to be useful, said Dr. Llovet, who is a consultant to Bayer. And many patients who are treated through surgery or another technique suffer a recurrence of cancer.</p>
+        <p>Nexavar is one of a new generation of biotech drugs that has started to transform cancer treatment. Taken as four pills a day, the drug blocks both the blood supply to the tumor and also proteins in cancer cells that spur tumor growth.</p>
+        <p>Outside experts said the drug represented a promising advance, but some cautioned that the patients in the trial had fairly healthy livers.</p>
+        <p>''We don't know yet whether this treatment will be as safe and effective in patients with more profoundly impaired liver function,'' said Dr. Louis M. Weiner, a specialist in gastrointestinal tumors at the Fox Chase Cancer Center in Philadelphia.</p>
+        <p>Correction:  June 15, 2007, Friday  An article on June 4 about a new drug for liver cancer misstated the improvement in survival for patients who took the drug, compared with patients who took a placebo. The drug extended the lives of patients by about 35 percent, not 44 percent.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 15, 2007, Friday</p>
+        <p>An article on June 4 about a new drug for liver cancer misstated the improvement in survival for patients who took the drug, compared with patients who took a placebo. The drug extended the lives of patients by about 35 percent, not 44 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

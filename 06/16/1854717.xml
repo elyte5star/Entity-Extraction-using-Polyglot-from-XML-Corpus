@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hoofers in Search of Heroes</title>
+    <meta content="16danc" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/arts/dance/16danc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854717"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Cabaret</classifier>
+        <classifier class="online_producer" type="descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nightclubs and Cabarets</classifier>
+        <org class="online_producer">Joe's Pub</org>
+        <person class="online_producer">Petronio, Stephen</person>
+        <person class="online_producer">Wood, Ellis</person>
+        <person class="online_producer">Williams, Todd</person>
+        <person class="online_producer">Nelson, Jeremy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1DA153FF935A25755C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hoofers in Search of Heroes</hl1>
+        <hl2 class="online_headline">Hoofers in Search of Heroes</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The DancemOpolitan dance cabaret series at Joe's Pub at the Public Theater are essentially gatherings of the downtown dance clan, performers and their friends.</p>
+        <p>''Villains and Heroes,'' presented on Thursday night, featured work by an actual clan of sorts, when eight former and current dancers with Stephen Petronio turned up to perform in their own work, with Mr. Petronio as host.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The DancemOpolitan dance cabaret series at Joe’s Pub at the Public Theater are essentially gatherings of the downtown dance clan, performers and their friends.</p>
+      </block>
+      <block class="full_text">
+        <p>The DancemOpolitan dance cabaret series at Joe's Pub at the Public Theater are essentially gatherings of the downtown dance clan, performers and their friends.</p>
+        <p>''Villains and Heroes,'' presented on Thursday night, featured work by an actual clan of sorts, when eight former and current dancers with Stephen Petronio turned up to perform in their own work, with Mr. Petronio as host.</p>
+        <p>As he said in post-show comments, it's fun to drink while you watch dance. But the stage is tiny and ringed closely with audience members and agile waiters, so Joe's Pub is a better place to drink than to see dance.</p>
+        <p>For the record, several villains and heroes did emerge, though only fitfully, from Mr. Petronio's assignment to the dancers to create pieces on that theme. No clue as to who his villain or hero was in an added, impromptu solo he created and performed.</p>
+        <p>The heroes included Ashleigh Leite's pudgy Wonder Woman, boisterous and meditative in turn, in ''It's No Wonder,'' and a chorus of vamping Valkyries in Ellis Wood's ''Maculate Conception.''</p>
+        <p>Ori Flomin's ''Awakening'' began promisingly with an encounter between a mid-nightmare Alice in Wonderland and a dark, slithering figment of her dream.</p>
+        <p>Todd Williams's ''Stand Beside Her'' got off to a hilarious start with a duet for a robotic Barbie doll and a manic, mysterious figure in a burka, but the piece dribbled into an inept attempt at political satire.</p>
+        <p>The program was completed by three limp pieces, heavy on irony, by Jeremy Nelson, Gerald Casel and Jimena Paz. It may be time for the enterprising Dancenow/NYC, which produces the series with Joe's Pub, to get to work on a gong show.</p>
+        <p>The DancemOpolitan series resumes Sept. 14 to 16 at Joe's Pub, the Public Theater, 425 Lafayette Street, at Astor Place, East Village, (212) 967-7555 or dancenownyc.org.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

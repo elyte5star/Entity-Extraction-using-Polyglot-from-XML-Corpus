@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Spitzer Reconsidering Medical Marijuana</title>
+    <meta content="13mbrfs-1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854263"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DE143FF930A25755C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Spitzer Reconsidering Medical Marijuana</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer said yesterday that he was open to making the medical use of marijuana legal in New York, reversing a position he took during the campaign. It was unclear, however, whether the Legislature would pass such a bill. ''There was a moment during a debate last summer, I think, where I spoke more negatively of it based upon what I understood the medical considerations to be,'' the governor said. ''I've taken a hard look at it over the past number of months, and I'm open to signing a bill if it's properly structured.'' The Democrat-led Assembly is expected to pass a bill before the session ends next week, but it is unclear whether it will be taken up in the Republican-led Senate. ''It's a bill that is under review, but it's not right now on our radar,'' said John McArdle, a spokesman for Joseph L. Bruno, the Senate majority leader.</p>
+        <p>DANNY HAKIM</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer said yesterday that he was open to making the medical use of marijuana legal in New York, reversing a position he took during the campaign. It was unclear, however, whether the Legislature would pass such a bill. ''There was a moment during a debate last summer, I think, where I spoke more negatively of it based upon what I understood the medical considerations to be,'' the governor said. ''I've taken a hard look at it over the past number of months, and I'm open to signing a bill if it's properly structured.'' The Democrat-led Assembly is expected to pass a bill before the session ends next week, but it is unclear whether it will be taken up in the Republican-led Senate. ''It's a bill that is under review, but it's not right now on our radar,'' said John McArdle, a spokesman for Joseph L. Bruno, the Senate majority leader.</p>
+        <p>DANNY HAKIM</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

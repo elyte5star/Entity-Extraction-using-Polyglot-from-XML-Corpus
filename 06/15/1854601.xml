@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time With a Patient</title>
+    <meta content="l15cancer" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854601"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E1DD153FF936A25755C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time With a Patient</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Stubborn Case of Spending on Cancer Care'' (Business Day, June 12):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Stubborn Case of Spending on Cancer Care'' (Business Day, June 12):</p>
+        <p>Despite recognition of the problem, the fact remains that our current system of health care reimbursement values procedures and volume over time spent with patients.</p>
+        <p>The time spent talking with patients and families is an investment that pays for itself many times over. Carefully eliciting a history, reviewing records and communicating with other health providers, assessing patients' values and weighing them into decisions regarding complex treatment options cannot be done in 10 minutes, but it can provide better and more humane outcomes.</p>
+        <p>Technologically advanced and costly treatments save lives, but their allocation needs to be made sensibly and not to the detriment of old-fashioned talking and listening between doctor and patient.</p>
+        <p>Patients want and deserve this time-intensive care, and although it can often be ultimately cost-saving, it will not be the norm until the financial incentives reverse themselves.</p>
+        <p>Susan C. Kalish, M.D.  Boston, June 12, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

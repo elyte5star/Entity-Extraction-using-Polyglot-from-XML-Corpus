@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Happening Upon a Look At an Optimistic Lincoln</title>
+    <meta content="08lincoln" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/us/08lincoln.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852928"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/History</classifier>
+        <classifier class="online_producer" type="descriptor">Archives and Records</classifier>
+        <classifier class="online_producer" type="descriptor">Civil War (US) (1861-65)</classifier>
+        <classifier class="online_producer" type="descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archives and Records</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War (US) (1861-65)</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <org class="online_producer">National Archives and Records Administration</org>
+        <person class="online_producer">Lincoln, Abraham</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE7DB1F30F93BA35755C0A9619C8B63" item-length="474" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Happening Upon a Look At an Optimistic Lincoln</hl1>
+        <hl2 class="online_headline">Happening Upon a Look at an Optimistic Lincoln</hl2>
+      </hedline>
+      <byline class="print_byline">By SARAH ABRUZZESE</byline>
+      <byline class="normalized_byline">Abruzzese, Sarah</byline>
+      <dateline>WASHINGTON, June 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was a historian's dream: alone in dimly lighted stacks, leafing through hundreds of yellowed papers and stumbling across a document that clarifies a pivotal moment in United States history.</p>
+        <p>''It was kind of a shock,'' said Trevor Plante, an archivist at the National Archives, about finding a letter written by Abraham Lincoln after the Union victory at Gettysburg.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An archivist at the National Archives found a letter written by Abraham Lincoln after the Union victory at Gettysburg.</p>
+      </block>
+      <block class="full_text">
+        <p>It was a historian's dream: alone in dimly lighted stacks, leafing through hundreds of yellowed papers and stumbling across a document that clarifies a pivotal moment in United States history.</p>
+        <p>''It was kind of a shock,'' said Trevor Plante, an archivist at the National Archives, about finding a letter written by Abraham Lincoln after the Union victory at Gettysburg.</p>
+        <p>The note was dated July 7, 1863, just a few days after two Union victories that followed a string of humbling defeats. Lincoln wrote the note to Maj. Gen. Henry W. Halleck, the Union general in chief, pushing him to urge Maj. Gen. George G. Meade to capitalize on the Gettysburg victory and pursue retreating Confederate forces led by Gen. Robert E. Lee.</p>
+        <p>''We have certain information that Vicksburg surrendered to General Grant on the 4th of July,'' the letter says. ''Now, if Gen. Meade can complete his work so gloriously prosecuted thus far, by the litteral or substantial destruction of Lee's army, the rebellion will be over.''</p>
+        <p>Halleck forwarded the two sentences via telegram on July 7 from Washington to Meade at Gettysburg.</p>
+        <p>The one-paragraph note has been quoted for years but until now it was not clear that the quotations were verbatim. The whereabouts of the original document was also a mystery. It turns out that it had been in the archives since 1938, merely one page among billions chronicling the nation's history.</p>
+        <p>The letter is a primary document, the holy grail of sources for researchers, and puts to rest any thought that Halleck might have edited the letter, the archivists said.</p>
+        <p>The letter shows Lincoln's short-lived optimism. He saw the possibility of an early end to the war disappear on July 14, 1863, as Lee's army escaped into Virginia.</p>
+        <p>The discovery of the letter was made on May 14 as Mr. Plante prepared for the arrival of a film crew working on a Discovery Channel documentary about Gettysburg. Searching in a collection of Halleck's papers, Mr. Plante spotted the familiar signature.</p>
+        <p>''I was looking for something else,'' said Mr. Plante, who specializes in military history. ''Frankly, where I found it was in an obscure place,'' he said, adding, ''I was seeing everyday stuff and turned the page, and there was a Lincoln document.''</p>
+        <p>The document was among papers, many of which were donated to the War Department, that have been accessible to the public since they were transferred to the archives from a Department of the Interior garage in 1938. For safekeeping, it will be photographed and stored in a vault.</p>
+        <p>This is the most significant finding within the archival system since diaries of President Harry S. Truman were found in 2003, said the United States archivist, Allen Weinstein.</p>
+        <p>''These discoveries remind us that history is a dynamic thing, new information will always come to light,'' Mr. Weinstein said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

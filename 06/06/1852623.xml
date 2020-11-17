@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Newark: County Must Change Jail Health Contract</title>
+    <meta content="06mbrfs-8" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852623"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E0DC1E30F935A35755C0A9619C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Newark: County Must Change Jail Health Contract</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A State Superior Court judge yesterday ordered Essex County to reject the winning bidder for the health contract at the county jail and give it to a company that challenged the award, county officials said. The award, made in December to Correctional Health Services, which has held the contract for 15 years, was challenged by a rival company, CFG Health Systems, said Joyce Wilson Harley, the county administrator. Judge Rachel Davidson found that the county had improperly awarded the contract and ordered that CFG be declared the winner. Lori E. Grifa, a lawyer for Correctional Health Services, said it had filed for a stay of the judge's order.</p>
+      </block>
+      <block class="full_text">
+        <p>A State Superior Court judge yesterday ordered Essex County to reject the winning bidder for the health contract at the county jail and give it to a company that challenged the award, county officials said. The award, made in December to Correctional Health Services, which has held the contract for 15 years, was challenged by a rival company, CFG Health Systems, said Joyce Wilson Harley, the county administrator. Judge Rachel Davidson found that the county had improperly awarded the contract and ordered that CFG be declared the winner. Lori E. Grifa, a lawyer for Correctional Health Services, said it had filed for a stay of the judge's order.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

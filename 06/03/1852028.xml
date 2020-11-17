@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prom Night During Wartime</title>
+    <meta content="l03jersey-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852028"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <person class="indexing_service">Mchale, Susan</person>
+        <person class="indexing_service">Lombardi, Kate Stone</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DA1030F930A35755C0A9619C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prom Night During Wartime</hl1>
+      </hedline>
+      <abstract>
+        <p>Susan McHale letter on Kate Stone Lombardi's May 27 Generations essay on prom nights</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Not Your Mom's Prom?,'' by Kate Stone Lombardi (Generations, May 27): I was dismayed on Memorial Day weekend to read that only in the 1970s, during and after the Vietnam War, did high school students feel a certain sadness about the war and trim down their prom excesses. Wow! That is really sending the wrong message.</p>
+        <p>Even in the most privileged of communities -- my hometown, Greenwich, Conn. -- prom night is a more laid-back affair. There are only a few limos, and many private schools have bans on such grandiose extras. Parties before and after are discouraged, in order to discourage drinking and driving.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Not Your Mom's Prom?,'' by Kate Stone Lombardi (Generations, May 27): I was dismayed on Memorial Day weekend to read that only in the 1970s, during and after the Vietnam War, did high school students feel a certain sadness about the war and trim down their prom excesses. Wow! That is really sending the wrong message.</p>
+        <p>Even in the most privileged of communities -- my hometown, Greenwich, Conn. -- prom night is a more laid-back affair. There are only a few limos, and many private schools have bans on such grandiose extras. Parties before and after are discouraged, in order to discourage drinking and driving.</p>
+        <p>I hope that the parent-driven prom extravagances can be slimmed down to honor our soldiers fighting in Iraq and Afghanistan. The lavish preparations described in Ms. Lombardi's article are, to say the least, very disheartening.</p>
+        <p>Susan McHale  Greenwich, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

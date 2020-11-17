@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Silence = Despotism</title>
+    <meta content="06toledo" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/opinion/06toledo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852510"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of the Press</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <location class="indexing_service">Venezuela</location>
+        <location class="indexing_service">Peru</location>
+        <location class="indexing_service">Latin America</location>
+        <org class="indexing_service">Radio Caracas Television</org>
+        <org class="indexing_service">Organization of American States</org>
+        <person class="indexing_service">Toledo, Alejandro</person>
+        <person class="indexing_service">Chavez, Hugo (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Peru</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Venezuela</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Peru</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Venezuela</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of the Press</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <location class="online_producer">Venezuela</location>
+        <location class="online_producer">Peru</location>
+        <person class="online_producer">Chavez, Hugo</person>
+        <person class="online_producer">Toledo, Alejandro</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E3DE1E30F935A35755C0A9619C8B63" item-length="751" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Silence = Despotism</hl1>
+        <hl2 class="online_headline">Silence = Despotism</hl2>
+      </hedline>
+      <byline class="print_byline">By Alejandro Toledo</byline>
+      <byline class="normalized_byline">Toledo, Alejandro</byline>
+      <dateline>STANFORD, CALIF.</dateline>
+      <abstract>
+        <p>Op-Ed article by Alejandro Toledo, former president of Peru, calls on Latin American leaders to stand up in solidarity against Venezuelan Pres Hugo Chavez's crackdown on free speech and his refusal to renew license of RCTV, prominent outlet for Chavez critics; holds that if freedom of speech is restricted in one Latin American country, silence could spread to other nations whose leaders wish to ignore criticism; expresses disappointment that this is not on agenda of upcoming meeting of Organization of American States and holds this is perfect opportunity to discuss issue; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>POLITICAL democracy will take root in Latin America only when it is accompanied by economic and social democracy. Likewise, Latin Americans will be able to achieve sustained economic growth and eliminate extreme poverty only when our political systems are free and fair for all.</p>
+        <p>The ability of our citizens -- all of them -- to be heard is an integral part of this process. If freedom of speech is restricted in one of our countries, silence could spread to other nations, especially those with leaders who wish to be permanently flattered.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Latin America cannot remain indifferent to President Hugo Chávez’s threats to close media outlets in Venezuela.</p>
+      </block>
+      <block class="full_text">
+        <p>POLITICAL democracy will take root in Latin America only when it is accompanied by economic and social democracy. Likewise, Latin Americans will be able to achieve sustained economic growth and eliminate extreme poverty only when our political systems are free and fair for all.</p>
+        <p>The ability of our citizens -- all of them -- to be heard is an integral part of this process. If freedom of speech is restricted in one of our countries, silence could spread to other nations, especially those with leaders who wish to be permanently flattered.</p>
+        <p>Today, the people of one of our sister nations, Venezuela, are in the streets confronting repression. Courageous students raise flags of freedom, refusing to mortgage their future by remaining silent in the present. The situation began on May 28, when President Hugo Chávez refused to renew the license of Radio Caracas Televisión, or RCTV, thereby suppressing the most prominent outlet for critics of his leadership.</p>
+        <p>This is about more than one TV station. President Chávez has become a destabilizing figure throughout the hemisphere because he feels he can silence anyone with opposing thoughts. He wishes to hear only his own voice, to see his own face replicated a thousand times on the television channels that he controls. He ignores the fact that the true revolution of our era consists of listening to others rather than silencing them through repression or government decrees.</p>
+        <p>The rest of Latin America's leaders cannot remain indifferent to the closing of RCTV or to Mr. Chávez's threats to close other media outlets that give time to opposing opinions. Those of us who confronted authoritarianism in the past must again stand up for continent-wide solidarity.</p>
+        <p>This should be a perfect moment: this week the Organization of American States holds its annual general assembly in Panama. Unfortunately, the RCTV issue was not on the official agenda of the plenary session.</p>
+        <p>This is a shame -- it falls well within the confines of the organization's charter, which holds that ''when situations arise in a member state that may affect the development of its democratic political institutional process or the legitimate exercise of power,'' the O.A.S. ''will undertake a collective assessment of the situation and, where necessary, may adopt decisions for the preservation of the democratic system and its strengthening.''</p>
+        <p>The stakes here go well beyond Venezuela and Mr. Chávez. I know this from experience. Before my presidency, Peru was submerged in severe authoritarianism. Much of the news media had entered into serious collusion with the authoritarian government of President Alberto Fujimori in the 1990s. After my election, some of those TV stations and newspapers voiced strident opposition to my democratic administration and challenged my authority and legitimacy.</p>
+        <p>Yet it never occurred to me to silence these media outlets or to nationalize them -- though it would have been easy to fall prey to populist temptations. I recognize how difficult it is to govern democratically. This is a challenge that faces all the leaders of our region. Presidents may be elected democratically, but it is more important to govern democratically, even with an opposing press that reports different opinions.</p>
+        <p>When one voice is silenced, we all become mute. When one thought is eliminated, we all lose some awareness. And when a space for the expression of ideas becomes closed, we all become trapped in the dungeons of dictatorship. The authoritarian populism of Venezuela strives to convert all of the people of Latin America into silent citizens, and we cannot permit this.</p>
+        <p>Latin America's common enemies are poverty, inequality and exclusion -- not dissident thought. Hunger is not fought by silencing critics. Unemployment does not disappear by exiling those who think differently. We cannot have bread without liberty. We cannot have nations without democracy.</p>
+        <p>In sharing my convictions about democracy and social justice, I do not mean to single out one nation or leader. I am simply exercising my democratic right as a Latin American citizen, a right for which countless people from all our nations have been imprisoned, tortured and killed in recent decades.</p>
+        <p>One of the greatest lessons I learned in my political career was to always be respectful of opinions that differ from my own. Yet I will never agree with those who prefer silence instead of dissonant voices. Those of us who embrace liberty and democracy must stand ready to work in solidarity with the Venezuelan people.</p>
+        <p>I hope that the legitimate governments of Latin America, and their representatives to the Organization of American States, will stand with me.</p>
+        <p>Op-Ed Contributor Alejandro Toledo, the president of Peru from 2001 to 2006, is a fellow at the Center for Advanced Study in the Behavioral Sciences at Stanford University and the president of the Center for Democracy and Development in Latin America in Lima, Peru.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Alejandro Toledo, the president of Peru from 2001 to 2006, is a fellow at the Center for Advanced Study in the Behavioral Sciences at Stanford University and the president of the Center for Democracy and Development in Latin America in Lima, Peru.</tagline>
+    </body.end>
+  </body>
+</nitf>

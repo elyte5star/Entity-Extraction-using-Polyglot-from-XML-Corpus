@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Jersey Court Voids Death Penalty Conviction</title>
+    <meta content="06murder" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/nyregion/06murder.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852499"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <location class="online_producer">New Jersey</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EEDF1E30F935A35755C0A9619C8B63" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Jersey Court Voids Death Penalty Conviction</hl1>
+        <hl2 class="online_headline">New Jersey Court Voids Death Penalty Conviction</hl2>
+      </hedline>
+      <byline class="print_byline">By RONALD SMOTHERS</byline>
+      <dateline>TRENTON, June 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New Jersey Supreme Court on Tuesday vacated the murder conviction and death sentence of a Pennsylvania man imprisoned since 1994. The court ruled that the trial judge and two lawyers who represented the man had failed to pursue the potential bias of a juror.</p>
+        <p>Despite what it said was ''overwhelming evidence of guilt'' in the case of the man, Donald Loftin, the court said this failure by the judge and the lawyers so tainted the conviction that it ordered a new trial.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The court ruled that the trial judge and two lawyers who represented the man had failed to pursue the potential bias of a juror.</p>
+      </block>
+      <block class="full_text">
+        <p>The New Jersey Supreme Court on Tuesday vacated the murder conviction and death sentence of a Pennsylvania man imprisoned since 1994. The court ruled that the trial judge and two lawyers who represented the man had failed to pursue the potential bias of a juror.</p>
+        <p>Despite what it said was ''overwhelming evidence of guilt'' in the case of the man, Donald Loftin, the court said this failure by the judge and the lawyers so tainted the conviction that it ordered a new trial.</p>
+        <p>Mr. Loftin, 41, who is black, was found guilty in the 1992 murder of Gary Marsh, a Lawrenceville, N.J., gas station attendant. He was sentenced to death and has been on death row ever since.</p>
+        <p>''Denying an accused the right to an impartial jury is to deprive him of the very essence of a fair trial and therefore is not susceptible to a harmless error analysis,'' Associate Justice Barry T. Albin wrote.</p>
+        <p>The events that gave rise to the ruling center on a white juror, a postal worker who told two black co-workers that he was ready to ''go to the hardware store and buy a rope to hang this man with.''</p>
+        <p>The workers reported the conversation to the presiding judge, Paulette Sapp-Peterson. When the judge met privately with the juror and the lawyers, the juror admitted making the comment, but said it was a joke aimed at his colleagues, who he said considered him biased, according to the ruling.</p>
+        <p>Judge Sapp-Peterson, over the defense lawyer's objections, returned the juror to the jury box, and when deliberations began the judge made him an alternate.</p>
+        <p>The Supreme Court ruled that the juror should have immediately been disqualified because of the comments and because of the possibility of his sharing his views with other jurors. The court faulted Mr. Loftin's lawyers for not raising the issue in two previous unsuccessful appeals.</p>
+        <p>Whether the case will be tried a second time remained a question. Joseph L. Bocchini Jr., the Mercer County prosecutor, described the ruling as ''upsetting to put it mildly.'' He said his office would ask the court to reconsider its ruling on unspecified grounds. At least four justices, however, would have to agree to reconsider the case. The ruling was 6-1.</p>
+        <p>David B. Glazer, Mr. Loftin's lawyer in the successful appeal, said that although he was ''gratified'' by the ruling, it would not have a significant effect on his client, who is also serving time for the murder of an Atlantic City hotel chambermaid. Mr. Glazer said, ''But for this conviction he would not have been on death row all this time.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

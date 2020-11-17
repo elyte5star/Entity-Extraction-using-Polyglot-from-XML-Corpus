@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I'm Reed Fish</title>
+    <meta content="01roun-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851329"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Adler, Zackary</person>
+        <person class="indexing_service">Baruchel, Jay</person>
+        <person class="indexing_service">Bledel, Alexis</person>
+        <person class="indexing_service">Fisk, Schuyler</person>
+        <object.title class="indexing_service">I'm Reed Fish (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E7D71530F932A35755C0A9619C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I'm Reed Fish</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film I'm Reed Fish, directed by Zackary Adler; Jay Baruchel, Alexis Bledel and Schuyler Fisk star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Zackary Adler  93 minutes</p>
+        <p>Sweetness and whimsy fill the screen to capacity in ''I'm Reed Fish,'' a rural coming-of-age tale that's so laid-back that its cast is almost horizontal. Set in the fictional town of Mud Meadows -- a cross between Stars Hollow and Lake Wobegon -- this movie is about a guy who makes a movie about his life. Moreover, it was written by the real Mr. Fish, drawing from events in his own life. Try to stay with me now.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Zackary Adler  93 minutes</p>
+        <p>Sweetness and whimsy fill the screen to capacity in ''I'm Reed Fish,'' a rural coming-of-age tale that's so laid-back that its cast is almost horizontal. Set in the fictional town of Mud Meadows -- a cross between Stars Hollow and Lake Wobegon -- this movie is about a guy who makes a movie about his life. Moreover, it was written by the real Mr. Fish, drawing from events in his own life. Try to stay with me now.</p>
+        <p>Our small-town hero (played by Jay Baruchel) is a gangly young man at that difficult stage between about-to-be-married and calling-it-off. Shuffling back and forth between his serene fiancée (Alexis Bledel) and a sunny singer-songwriter (Schuyler Fisk), Reed can barely concentrate on his daily radio show. Meanwhile his folksy listeners are irritated by his escalating distraction. Who will help them with their shrubbery regulations?</p>
+        <p>Filled with painfully awkward men with painfully bad haircuts, ''I'm Reed Fish'' is directed by Zackary Adler, exhibiting less energy than a sloth on Seconal. As the young man fearful of living an old man's life, Mr. Baruchel recalls John Turturro in his Barton Fink incarnation: all bones and aching eyes. Yet not even Mr. Fink would dither so gracelessly between the girl in the hand and the one he can't get out of his head.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''I'm Reed Fish'' is rated PG (Parental guidance suggested). It has some mild language and the bizarre offspring of a zebra and a horse.</p>
+        <p>FILM IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Night We Watched as Tony Went</title>
+    <meta content="l13sopranos" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854199"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DF143FF930A25755C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Night We Watched as Tony Went</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''One Last Family Gathering: You Eat, You Talk, It's Over,'' by Alessandra Stanley (The TV Watch, front page, June 11):</p>
+        <p>I'm not mad at David Chase, creator of ''The Sopranos,'' for leaving Tony in a diner at the end, alive, and eating onion rings with Carmela and the kids (let's believe that Meadow makes it to her seat).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''One Last Family Gathering: You Eat, You Talk, It's Over,'' by Alessandra Stanley (The TV Watch, front page, June 11):</p>
+        <p>I'm not mad at David Chase, creator of ''The Sopranos,'' for leaving Tony in a diner at the end, alive, and eating onion rings with Carmela and the kids (let's believe that Meadow makes it to her seat).</p>
+        <p>Where else could the story have closed more compassionately than at a small Formica table?</p>
+        <p>Even more chilling than the series' gruesome violence was the vast, sparkling loneliness of the Sopranos' huge dining table and kitchen, one of the saddest backdrops I've ever seen on stage or screen.</p>
+        <p>Olivia Lehman  Narberth, Pa., June 11, 2007</p>
+        <p>To the Editor:</p>
+        <p>The last episode of ''The Sopranos'' is neither a prank nor a joke.</p>
+        <p>I believe that David Chase's brilliant ending is in the mind of Tony Soprano, whose world goes dark at that moment.</p>
+        <p>Elizabeth Seydel Morgan  Richmond, Va., June 11, 2007</p>
+        <p>To the Editor:</p>
+        <p>Re ''TV Writers Were Also Watching 'Sopranos' '' (Arts pages, June 12):</p>
+        <p>Now we know how ''The Sopranos'' ends -- the author goes into witness protection in France.</p>
+        <p>Anne Rudeen  South Salem, N.Y.  June 12, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

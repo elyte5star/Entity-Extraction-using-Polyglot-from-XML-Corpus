@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Man Sought In Hotel Robberies</title>
+    <meta content="06mbrfs-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852616"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1DC1E30F935A35755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Man Sought In Hotel Robberies</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The police said yesterday that they were seeking a man who recently robbed guests at two hotels in Manhattan. In the first robbery, on April 13 at the Millenium Hilton downtown, the man followed a couple and a 9-year-old girl to their room, held them at gunpoint, then bound and robbed them of cash, jewelry and electronics, the police said. In the second robbery, on Thursday night at the Roosevelt Hotel on East 45th Street, the man forced himself into a woman's room as she was entering, assaulted her and took her handbag, the police said. The robber is described as a white man, about 5 foot 7 and about 25 years old, with a stocky build, wearing a blue baseball cap and a black pea coat. Anyone with information should call 1-800-577-TIPS, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>The police said yesterday that they were seeking a man who recently robbed guests at two hotels in Manhattan. In the first robbery, on April 13 at the Millenium Hilton downtown, the man followed a couple and a 9-year-old girl to their room, held them at gunpoint, then bound and robbed them of cash, jewelry and electronics, the police said. In the second robbery, on Thursday night at the Roosevelt Hotel on East 45th Street, the man forced himself into a woman's room as she was entering, assaulted her and took her handbag, the police said. The robber is described as a white man, about 5 foot 7 and about 25 years old, with a stocky build, wearing a blue baseball cap and a black pea coat. Anyone with information should call 1-800-577-TIPS, the police said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

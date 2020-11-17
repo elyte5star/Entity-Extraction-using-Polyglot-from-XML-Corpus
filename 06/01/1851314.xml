@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Google Photos Stir a Debate Over Privacy</title>
+    <meta content="01private" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/technology/01private.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851314"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Google Inc</org>
+        <person class="indexing_service">Kalin-Casey, Mary</person>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Maps</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0D81530F932A35755C0A9619C8B63" item-length="858" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Google Photos Stir a Debate Over Privacy</hl1>
+        <hl2 class="online_headline">Google Zooms In Too Close for Some</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>OAKLAND, Calif., May 31</dateline>
+      <abstract>
+        <p>Street View, new feature of Google's map service, becomes focus of privacy concerns in online communities after Mary Kalin-Casey reports that its photo of her street in Oakland, Calif, shows her cat perched on living room window of her second-floor apartment; she says next step might be to reveal books on her shelf; Google says it takes privacy seriously and considered privacy implication of service before introducing it on May 29; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For Mary Kalin-Casey, it was never about her cat.</p>
+        <p>Ms. Kalin-Casey, who manages an apartment building here with her husband, John Casey, was a bit shaken when she tried a new feature in Google's map service called Street View. She typed in her address and the screen showed a street-level view of her building. As she zoomed in, she could see Monty, her cat, sitting on a perch in the living room window of her second-floor apartment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new online feature of Google Maps called Street View is stirring up a debate over privacy concerns on the Web.</p>
+      </block>
+      <block class="full_text">
+        <p>For Mary Kalin-Casey, it was never about her cat.</p>
+        <p>Ms. Kalin-Casey, who manages an apartment building here with her husband, John Casey, was a bit shaken when she tried a new feature in Google's map service called Street View. She typed in her address and the screen showed a street-level view of her building. As she zoomed in, she could see Monty, her cat, sitting on a perch in the living room window of her second-floor apartment.</p>
+        <p>''The issue that I have ultimately is about where you draw the line between taking public photos and zooming in on people's lives,'' Ms. Kalin-Casey said in an interview Thursday on the front steps of the building. ''The next step might be seeing books on my shelf. If the government was doing this, people would be outraged.''</p>
+        <p>Her husband quickly added, ''It's like peeping.''</p>
+        <p>Ms. Kalin-Casey first shared her concerns about the service in an e-mail message to the blog Boing Boing on Wednesday. Since then, the Web has been buzzing about the privacy implications of Street View -- with varying degrees of seriousness. Several sites have been asking users to submit interesting images captured by the Google service, which offers panoramic views of miles of streets around San Francisco, New York, Las Vegas, Miami and Denver.</p>
+        <p>On a Wired magazine blog, for instance, readers can vote on the ''Best Urban Images'' that others find in Street View. On Thursday afternoon, a picture of two young women sunbathing in their bikinis on the Stanford campus in Palo Alto, Calif., ranked near the top. Another showed a man scaling the front gate of an apartment building in San Francisco. The caption read, ''Is he breaking in or has he just locked himself out?''</p>
+        <p>Google said in a statement that it takes privacy seriously and considered the privacy implications of its service before it was introduced on Tuesday. ''Street View only features imagery taken on public property,'' the company said. ''This imagery is no different from what any person can readily capture or see walking down the street.''</p>
+        <p>Google said that it had consulted with public service organizations and considered their feedback in developing the service, which allows users to request that a photo be removed for privacy reasons. A Google spokeswoman said the company had received few such requests.</p>
+        <p>For instance, Google worked with the Safety Net Project at the National Network to End Domestic Violence, which represents shelters for victims of domestic violence nationwide, to remove pictures of those shelters. ''They reached out in advance to us so we could reach out to our network,'' said Cindy Southworth, founder and director of the organization.</p>
+        <p>Not everyone believes the service raises serious privacy concerns.</p>
+        <p>''You don't have a right to 'privacy' over what can be seen while driving the speed limit past your house,'' wrote a Boing Boing reader, identified as Rich Gibson, in response to Ms. Kalin-Casey's complaint. Others dismissed her as a crazy cat lady.</p>
+        <p>Edward A. Jurkevics, a principal at Chesapeake Analytics, a consulting firm specializing in mapping and imagery, said that courts have consistently ruled that people in public spaces can be photographed. ''In terms of privacy, I doubt if there is much of a problem,'' Mr. Jurkevics said.</p>
+        <p>Still, the issues raised by the service, thorny or merely funny, were perfect blog fodder. The hunt was on for quirky or potentially embarrassing images that could be found by wandering the virtual streets of the service.</p>
+        <p>There was the picture of a clearly identifiable man standing in front of an establishment offering lap dances and other entertainment in San Francisco. The site LaudonTech.com showed an image of a man entering a pornographic bookstore in Oakland, but his face was not visible.</p>
+        <p>Others pointed to pictures of cars whose license plates were clearly readable. One pointed to images captured inside the Brooklyn Battery Tunnel, a controversial location for photography in this high-security era. On Lombard Street in San Francisco, various tourists who had come to photograph the famously curvy street were photographed themselves.</p>
+        <p>Google said that the images had been captured by vehicles equipped with special cameras. The company took some of the photographs itself and purchased others from Immersive Media, a data provider.</p>
+        <p>''I think that this product illustrates a tension between our First Amendment right to document public spaces around us, and the privacy interests people have as they go about their day,'' said Kevin Bankston, a staff lawyer at the Electronic Frontier Foundation, a digital rights group. Mr. Bankston said Google could have avoided privacy concerns by blurring people's faces.</p>
+        <p>Back at her apartment, Ms. Kalin-Casey acknowledged that plenty of information about her -- that she manages an apartment complex, that she was an editor at the film site Reel.com -- is already easily accessible through Google and other search engines.</p>
+        <p>''People's jobs are pretty public,'' she said. ''But that doesn't mean they want a shot of their sofa on Google.'' She has asked Google to remove the image of her building, which was still online as of Thursday evening.</p>
+        <p>When a reporter first arrived to interview her, Monty the cat was visible in the window.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

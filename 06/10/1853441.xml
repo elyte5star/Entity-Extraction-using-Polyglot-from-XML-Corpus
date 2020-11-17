@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="10qna.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1853441"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7DB1130F933A25755C0A9619C8B63" item-length="384" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By ROGER COLLIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>My husband and I are planning to celebrate our 10th anniversary exploring New Zealand. Since this isn't until 2010, do you have any suggestions for ways to earn points while we wait that would enable us to upgrade to first class for the long flight? We aren't frequent fliers, but we do have credit cards. -- Nancy Timper, Prescott, Ariz.</p>
+        <p>Air New Zealand and Qantas are the only carriers to offer nonstop flights between the United States and New Zealand, both from Los Angeles to Auckland (Air New Zealand also has nonstop service from San Francisco). Qantas offers a Qantas American Express card.</p>
+      </block>
+      <block class="full_text">
+        <p>My husband and I are planning to celebrate our 10th anniversary exploring New Zealand. Since this isn't until 2010, do you have any suggestions for ways to earn points while we wait that would enable us to upgrade to first class for the long flight? We aren't frequent fliers, but we do have credit cards. -- Nancy Timper, Prescott, Ariz.</p>
+        <p>Air New Zealand and Qantas are the only carriers to offer nonstop flights between the United States and New Zealand, both from Los Angeles to Auckland (Air New Zealand also has nonstop service from San Francisco). Qantas offers a Qantas American Express card.</p>
+        <p>Air New Zealand does not have a credit card partner in the United States. But Diners Club is partnered with Thai Airways, Air Canada, SAS and South African Airways; American Express is also partnered with Air Canada; and Visa has cobranded cards with United Airlines and US Airways. All these carriers are Star Alliance members, so one option would be to transfer your card points to one of them, then use the miles to claim an award on Air New Zealand, a Star Alliance partner.</p>
+        <p>Space-available upgrades can be requested on Air New Zealand; see www.airnewzealand.co.nz/airpoints (click on Spending Airpoints Dollars).</p>
+        <p>Another reader has questions about award travel. Andrea Spurling, from New York, writes: ''I have over 160,000 frequent flier miles on Delta and 100,000 miles on American Airlines. And yet over the last two years, I have not found a way to use the miles, unless I double them. For two people traveling to Europe, it used to cost 25,000 miles each way. So we could have made the round trip for 100,000 miles. Now the price has doubled to 200,000 miles. Is there any way to combine Delta and American miles for award travel on a partner airline?''</p>
+        <p>The short answer is no, though you may not need as many miles as you think. However, you can redeem Delta Air Lines SkyMiles on any of the 10 SkyTeam alliance partners, which include Air France, KLM, Alitalia, Continental Airlines and Northwest Airlines; and you can redeem American AAdvantage miles on any of the 10 Oneworld alliance carriers, including British Airways (though not on trans-Atlantic routes to London), Cathay Pacific, Finnair, Iberia, Japan Airlines and Qantas.</p>
+        <p>ROGER COLLIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

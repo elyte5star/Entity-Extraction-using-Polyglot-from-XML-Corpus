@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SHAPIRO, ARNOLD.</title>
+    <meta content="dn061907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855485"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SHAPIRO, ARNOLD.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2DF153AF93AA25755C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SHAPIRO, ARNOLD.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SHAPIRO--Arnold. The officers, Board of Directors, and staff of UJA-Federation of New York mourn the passing of Arnold Shapiro, beloved husband and father. The family's contributions have strengthened our ability to serve the Jewish community. We extend our deepest sympathies to the entire family. Morris W. Offit, President Susan K. Stern, Chair of the Board John S. Ruskay, Exec. V.P. &amp; C.E.O.</p>
+      </block>
+      <block class="full_text">
+        <p>SHAPIRO--Arnold. The officers, Board of Directors, and staff of UJA-Federation of New York mourn the passing of Arnold Shapiro, beloved husband and father. The family's contributions have strengthened our ability to serve the Jewish community. We extend our deepest sympathies to the entire family. Morris W. Offit, President Susan K. Stern, Chair of the Board John S. Ruskay, Exec. V.P. &amp; C.E.O.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Rivers, Pursuit of a Different Triple Crown</title>
+    <meta content="03curry" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/sports/othersports/03curry.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851969"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Preakness Stakes</classifier>
+        <classifier class="online_producer" type="descriptor">Street Sense (Race Horse)</classifier>
+        <classifier class="online_producer" type="descriptor">Belmont Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Belmont Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Preakness Stakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <person class="online_producer">Cordero, Angel Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EEDE1030F930A35755C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Rivers, Pursuit of a Different Triple Crown</hl1>
+        <hl2 class="online_headline">For Rivers, Pursuit of a Different Triple Crown</hl2>
+      </hedline>
+      <byline class="print_byline">By JACK CURRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mickey Rivers was too young to enter Tropical Park racetrack in Miami about 50 years ago, so he watched the horses from behind a fence. Rivers spoke to everyone about the horses. Before a race, his mother would go to him for some advice and for his contribution to a $2 bet.</p>
+        <p>''I gave her 50 cents, we won and I got back $3,'' Rivers said. ''That felt pretty good to me.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Former Yankee Mickey Rivers picked Street Sense to win the Kentucky Derby and Curlin to take the Preakness, meaning he is going for a personal Triple Crown in the Belmont Stakes.</p>
+      </block>
+      <block class="full_text">
+        <p>Mickey Rivers was too young to enter Tropical Park racetrack in Miami about 50 years ago, so he watched the horses from behind a fence. Rivers spoke to everyone about the horses. Before a race, his mother would go to him for some advice and for his contribution to a $2 bet.</p>
+        <p>''I gave her 50 cents, we won and I got back $3,'' Rivers said. ''That felt pretty good to me.''</p>
+        <p>Rivers, the former foot-shuffling leadoff batter for the Yankees and two other major league teams, says his passion for horses has remained strong.</p>
+        <p>In fact, Rivers coolly reported that he had picked Street Sense to win the Kentucky Derby and Curlin to take the Preakness Stakes, meaning he is going for a personal Triple Crown in the Belmont Stakes on Saturday.</p>
+        <p>''I know a couple of trainers,'' Rivers said. ''They tell me who's going to run a good race. You back up your bets. You have to be smart about it.''</p>
+        <p>The fast-talking Rivers says that he has been friends with the Hall of Fame jockeys Angel Cordero Jr. and Jorge Velasquez over the years and that he has known dozens of trainers and grooms.</p>
+        <p>Rivers, 58, who recalled how he used to visit different tracks with his Yankees teammates Lou Piniella and Roy White, was coy about which horse he planned to select in the Belmont.</p>
+        <p>''They'll let me know in a couple of days,'' Rivers said.</p>
+        <p>He would not identify who was going to let him know. Still, Rivers must have narrowed it down to a few horses. Could he share his thoughts? Not a chance.</p>
+        <p>''I'm pretty sure I'm not going to leave that one horse out there,'' Rivers said. ''I'll tell you later.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

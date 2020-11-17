@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Observatory</title>
+    <meta content="05obse1" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/science/05obse1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852249"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Observatory"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Observatory</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="descriptor">Birds</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFDC1130F936A35755C0A9619C8B63" item-length="831" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Observatory</hl1>
+        <hl2 class="online_headline">For Wood Ants, Bits of Resin Each Day Keep the Doctor Away</hl2>
+      </hedline>
+      <byline class="print_byline">By Henry Fountain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For Wood Ants, Bits of Resin Each Day Keep the Doctor Away</p>
+        <p>When packing blankets or sweaters away in the attic, the wise homemaker will scatter mothballs in with them. Chemicals from the mothballs permeate the storage container and kill off any bugs.</p>
+        <p>A species of wood ant does something similar, gathering small bits of spruce-tree resin and scattering them about the nest. Researchers in Switzerland have discovered that the resin, which contains volatile compounds, protects the ants themselves against pathogens, year-round.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>How wood ants stave off parasites, the quality of magpies’ duets and female cheetahs that play the field.</p>
+      </block>
+      <block class="full_text">
+        <p>For Wood Ants, Bits of Resin Each Day Keep the Doctor Away</p>
+        <p>When packing blankets or sweaters away in the attic, the wise homemaker will scatter mothballs in with them. Chemicals from the mothballs permeate the storage container and kill off any bugs.</p>
+        <p>A species of wood ant does something similar, gathering small bits of spruce-tree resin and scattering them about the nest. Researchers in Switzerland have discovered that the resin, which contains volatile compounds, protects the ants themselves against pathogens, year-round.</p>
+        <p>Michel Chapuisat of the University of Lausanne said the ants, Formica paralugubris, produce spectacular mounded nests up to six feet high that can include tens of pounds of resin. He and a co-researcher, Philippe Christe, ''thought this might play a role against parasites,'' he said.</p>
+        <p>They tested the effect of resin on adult and larval ants that were infected with a common bacterium and a common fungus found in nests. As reported in The Proceedings of the Royal Society B: Biological Sciences, they found that adults and larvae with the bacterial infection survived better with resin present than without.</p>
+        <p>They had similar results with larvae infected with the fungus, but adults with a fungal infection showed no greater survivability. That might be because the ants were tested alone and had no fellow ants to groom them and pick fungal spores off their skin. At any rate, Dr. Chapuisat said, ''I don't expect resin to be effective against all pathogens.''</p>
+        <p>Dr. Chapuisat said the resin contained a complex mixture of terpenes, chemicals that have known antifungal and antibacterial properties. He said the ants might pick up the chemicals by bumping into bits of resin, but it was more likely that the chemicals permeated the nest, acting like a fumigant.</p>
+        <p>The ants gather other bits of trees -- twigs and pine needles -- to build their nests, so resin was probably originally collected as part of the same process. But over time, Dr. Chapuisat said, ants that had a genetic preference for resin had greater survivability, passing on that preference until it became widespread. ''It's really an evolutionary process,'' he said.</p>
+        <p>The Quality of the Duet By Magpie-Larks Speaks Volumes</p>
+        <p>For years in country music, when it came to duets, George Jones and Tammy Wynette ruled the roost. Their performances were so musically and emotionally strong they blew the competition out of the water.</p>
+        <p>Australian magpie-larks, it seems, have their Joneses and Wynettes. Researchers report in the journal Current Biology that male-female pairs that sing the most tightly coordinated duets are perceived as a greater threat by other magpie-larks.</p>
+        <p>Michelle Hall and Robert D. Magrath of the Australian National University studied the birds' singing, recording duets from pairs that had been together for varying periods. Pairs produce an alternating antiphonal song that, if the coordination is precise enough, sounds like a single bird singing. (Hear them at nytimes.com/science.)</p>
+        <p>The researchers discovered that pairs that had been together longer produced more coordinated songs. Younger couples were generally sloppier, with inconsistent gaps between the notes.</p>
+        <p>The researchers played coordinated and sloppy duets over other magpie-larks' territories and found that single males responded more aggressively when they heard the tight singing. The researchers suggest that the coordinated singing is an indication to potential competitors that the couple forms a strong partnership and that if they are good at singing together, they might be good at other coordinated activity as well -- like defending their territory.</p>
+        <p>Among Cheetahs, It's the Females That Play the Field</p>
+        <p>When it comes to relations between the sexes, the cheetah is not your typical wild carnivore. Among many other animals, it's the males that have larger territories, often encompassing the territories of several females, and it's the males that mate with multiple partners.</p>
+        <p>But among cheetahs in Serengeti National Park in Tanzania, it's the females that have much larger territories and, a new study shows, it's the females that are promiscuous.</p>
+        <p>Dada Gotelli of the Zoological Society of London, Sarah M. Durant of the Wildlife Conservation Society and others performed genetic and statistical analyses involving more than 170 fecal samples from cheetahs in the park over nine years to establish paternity patterns. The findings are published in The Proceedings of the Royal Society B: Biological Sciences.</p>
+        <p>The researchers found that in 43 percent of litters with two or more cubs, there was more than one father. Females mated with more than one male during a given reproductive cycle, and did not appear to remain faithful to particular mates from year to year. And the results suggested that the more mobile females found mates over a wide territory.</p>
+        <p>This behavior is costly, from an energy standpoint, and risky, from the standpoints of health and exposure to predators. But the advantage for the female is that she produces genetically diverse offspring, with a greater likelihood that some will survive.</p>
+        <p>The researchers say their findings should help conservationists in their efforts to better help maintain genetic diversity among cheetah populations.</p>
+        <p>Observatory</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

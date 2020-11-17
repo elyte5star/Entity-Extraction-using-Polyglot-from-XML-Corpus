@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Putting a Premium on Disaster</title>
+    <meta content="10CIdinallo" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/nyregionopinions/10CIdinallo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Building (Construction)</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Dinallo, Eric R</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1D61F30F933A25755C0A9619C8B63" item-length="707" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Putting a Premium on Disaster</hl1>
+        <hl2 class="online_headline">Putting a Premium on Disaster</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Dinallo</byline>
+      <byline class="normalized_byline">Dinallo, Eric R</byline>
+      <abstract>
+        <p>Op-Ed article by New York State Insurance Department superintendent Eric Dinallo says there is need for immediate extension and improvement of federal Terrorism Risk Insurance Act; holds construction in places like New York City would slow or come to standstill if legislation is allowed to expire (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALTHOUGH the insurance industry just agreed to pay $2 billion to help rebuild the World Trade Center site -- bringing the total paid to $4.55 billion, the biggest insurance settlement ever -- that doesn't mean that the private sector alone can handle terrorism insurance.</p>
+        <p>Instead, it demonstrates the need for an immediate extension and improvement of the federal Terrorism Risk Insurance Act. And with the arrest last weekend of four men accused of plotting to attack Kennedy International Airport, this can't happen too soon.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Washington must help insure against terror.</p>
+      </block>
+      <block class="full_text">
+        <p>ALTHOUGH the insurance industry just agreed to pay $2 billion to help rebuild the World Trade Center site -- bringing the total paid to $4.55 billion, the biggest insurance settlement ever -- that doesn't mean that the private sector alone can handle terrorism insurance.</p>
+        <p>Instead, it demonstrates the need for an immediate extension and improvement of the federal Terrorism Risk Insurance Act. And with the arrest last weekend of four men accused of plotting to attack Kennedy International Airport, this can't happen too soon.</p>
+        <p>After Sept. 11, 2001, insurance companies started excluding acts of terrorism from the policies they offered. Congress responded by enacting legislation in 2002 that provided a federal backstop limiting, but not eliminating, private insurance companies' exposure in a terrorist attack. After losses reach a catastrophic amount set by a formula based on the cost of a specific attack, the federal government steps in. That legislation, which expires this year, allowed insurance companies to offer terrorism insurance coverage, though with some gaps.</p>
+        <p>What would happen if it expires? Construction in places like New York City, which is perceived as a likely target for terrorist attacks, would slow or come to a standstill. Development requires borrowing, and lenders won't lend money without terrorism insurance to protect the building that provides security for the loan. This is especially true with the World Trade Center, which will cost much more than the $4.55 billion that is coming from insurance policies, and therefore requires private financing.</p>
+        <p>Opponents of the Terrorism Risk Insurance Act say that the federal subsidy is unnecessary and crowds out the private sector. They say that the insurance industry has never been stronger. Industry earnings were $63.7 billion in 2006, the highest since 1986. Total industry surplus is also at a record high.</p>
+        <p>People are rightly suspicious of government subsidies that encourage decisions ignoring the true cost of an activity. But without the Terrorism Risk Insurance Act, the full cost of terrorism insurance would fall on places like New York City and Washington, pushing businesses and people to leave those cities.</p>
+        <p>That's why the legislation should not just be extended, it should also be improved. The more accidents, the more your auto insurance costs. But if we allowed that to happen with terrorism insurance, we would punish the victims by making insurance too expensive or unavailable. Indeed, Congress should adopt a ''reset'' provision based on a 2005 proposal by House Republicans ensuring that the insurance remains available and affordable.</p>
+        <p>Arguing that the Terrorism Risk Insurance Act crowds out private-sector insurers assumes that without the backstop terrorism insurance can be profitable, which is unrealistic. Insurers make money by setting their prices high enough to cover any claims they will have to pay. They determine those prices by estimating future claims based on past experience. But it's impossible to accurately predict the cost and frequency of future attacks. And if insurers cannot accurately set prices, then companies will not offer coverage or they will make the price of insurance unaffordable.</p>
+        <p>By limiting how much insurers will have to pay in the worst cases, the Terrorism Risk Insurance Act gives companies the ability to set prices without worrying that they are putting their existence at stake. The legislation doesn't replace the private sector; it makes private-sector involvement possible.</p>
+        <p>I would argue that the government is hurting the private sector by debating whether to extend the legislation every two years. Large construction projects take years to design, plan, get approvals and then build. To obtain financing, terrorism insurance must be in place. The uncertainty caused by debating the legislation every two years causes serious problems for builders and those who finance them. The program should be extended for at least 15 years or made permanent.</p>
+        <p>The federal government has often stepped in when the markets cannot handle a risk. It has insured nuclear accidents, overseas political risk, urban riots and crop failures. We don't expect the private sector to cover floods, and it's unrealistic to expect it to handle the total cost of insuring against terrorism.</p>
+        <p>Congress should waste no time in extending and improving the Terrorism Risk Insurance Act, because as we saw last weekend, the possibility of attacks on this country is still with us.</p>
+        <p>Op-Ed Contributor Eric Dinallo is the superintendent of the New York State Insurance Department.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Eric Dinallo is the superintendent of the New York State Insurance Department.</tagline>
+    </body.end>
+  </body>
+</nitf>

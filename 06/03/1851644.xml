@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="03qna.1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070610T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1851644"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E0DF1730F930A35755C0A9619C8B63" item-length="449" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID G. ALLAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With overseas travel agencies offering more prepaid tours, is there any insurance policy or credit card coverage for refunds in the event you show up and find the travel agency is no longer in business or unable to provide the promised itinerary? -- Hy Katz, Great Neck, N.Y.</p>
+        <p>There are two potential scenarios here. The first is the situation where you book a tour only to find the company has gone out of business by the time you get there. In the second, let's say you booked an elephant safari through the jungle only to find a two-hour donkey ride through a petting zoo. The recourse you have is different in each case.</p>
+      </block>
+      <block class="full_text">
+        <p>With overseas travel agencies offering more prepaid tours, is there any insurance policy or credit card coverage for refunds in the event you show up and find the travel agency is no longer in business or unable to provide the promised itinerary? -- Hy Katz, Great Neck, N.Y.</p>
+        <p>There are two potential scenarios here. The first is the situation where you book a tour only to find the company has gone out of business by the time you get there. In the second, let's say you booked an elephant safari through the jungle only to find a two-hour donkey ride through a petting zoo. The recourse you have is different in each case.</p>
+        <p>Many trip insurance policies cover you in the case of service bankruptcy. Vikki Corliss, a spokeswoman at InsureMyTrip.com, a travel insurance comparison site that offers plans from 18 providers, explained that it's best to buy your coverage before, or within 7 to 12 days (varies by plans) after, you've made your first deposit on the tour. If you pay for your trip and get nervous about the company three weeks later, you might have trouble buying insurance.</p>
+        <p>Travelinsured.com goes one step further than bankruptcy coverage under their Comprehensive Protection Plan by covering general default as well. They define default as ''no longer providing that service.''</p>
+        <p>The cost of all trip insurance plans depends on the traveler's age and the length and the cost of the trip.</p>
+        <p>Even though travel insurers cover unforeseen calamities like trip interruption (a relative back home becomes ill) and emergency cancellation (you become sick and can't go on your trip), it won't cover a bait-and-switch scheme. But that's where credit card protection comes into play.</p>
+        <p>The claims departments of American Express and MasterCard (Visa claims are made through the banks that issue the cards) each said that the case you describe -- the service provided does not match the service purchased -- is a legitimate claim that they would investigate and, if the company was found at fault, you would be reimbursed for your costs.</p>
+        <p>The other option is litigation. It's not fun, but it may be worth it if you are out thousands of dollars. In fact, companies themselves can buy insurance to cover these sorts of claims. One, recommended by a reader of our Q&amp;A Travel blog, TravelSafe.com, provides coverage for ''claims against you, your agency or its employees that may involve either actual or perceived errors.''</p>
+        <p>So, to really protect yourself, get trip insurance when you buy the tour, pay with a credit card like American Express or MasterCard and document everything in case you need to sue. And hope for the best.</p>
+        <p>DAVID G. ALLAN</p>
+        <p>Correction:  June 10, 2007, Sunday  The Q&amp;A column on June 3 about reimbursement options when a tour falls through misstated a recommendation about when to buy insurance policies that cover full refunds. Vikki Corliss, a spokeswoman at InsureMyTrip.com, a travel insurance comparison site, said that it is best to buy coverage before or within 7 to 21 days (varies by plan) after you have made your first deposit on the tour; she did not say within 7 to 12 days.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 10, 2007, Sunday</p>
+        <p>The Q&amp;A column on June 3 about reimbursement options when a tour falls through misstated a recommendation about when to buy insurance policies that cover full refunds. Vikki Corliss, a spokeswoman at InsureMyTrip.com, a travel insurance comparison site, said that it is best to buy coverage before or within 7 to 21 days (varies by plan) after you have made your first deposit on the tour; she did not say within 7 to 12 days.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

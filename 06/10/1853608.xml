@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finding Out What the Neighbors Paid</title>
+    <meta content="10qa" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853608"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Q and A</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E3DC1F30F933A25755C0A9619C8B63" item-length="844" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finding Out What the Neighbors Paid</hl1>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Are condo sale prices public information? I found a Web site that is charging a fee for providing sale prices, but I wonder if there is a free New York City Web site where the same information can be found? How about co-op sales?</p>
+        <p>A. Eric P. Gonchar, a Manhattan real estate lawyer, said that it is possible to find the most recent sale price for most real property, including condos, in New York City by searching the city's Automated City Register Information System, known as Acris. (Information on most Staten Island transactions are not included.)</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Are condo sale prices public information? I found a Web site that is charging a fee for providing sale prices, but I wonder if there is a free New York City Web site where the same information can be found? How about co-op sales?</p>
+        <p>A. Eric P. Gonchar, a Manhattan real estate lawyer, said that it is possible to find the most recent sale price for most real property, including condos, in New York City by searching the city's Automated City Register Information System, known as Acris. (Information on most Staten Island transactions are not included.)</p>
+        <p>The Web site can be found by going to nyc.gov and then searching for Acris. Once on the site, click on ''Find Addresses and Parcels'' to use the address of the property to determine its block and lot number. Then go back to the main page, click on ''Search Property Records,'' enter either the block and lot or the name of the seller, and the search should produce a page indicating the date and time a deed was recorded and the amount of the sale.</p>
+        <p>The sale price for a co-op apartment sold after January 2004 can be found in the same manner. But since the lot number for a co-op is for the entire building, you will need to know the name of the buyer or seller.</p>
+        <p>Buildingwide Cable Service: Must All Co-op Owners Pay?</p>
+        <p>Q. The board of the co-op where I live is having the building wired for cable. The only way the cable company will do this is if everyone signs up for a three-year commitment. The board intends to include the cable bill with the maintenance each month. If I don't want the cable service, must I pay for it anyway?</p>
+        <p>A. Todd Soloway, a Manhattan co-op lawyer, said that the letter writer will probably have to pay the cable portion of the maintenance charge even if he does not want the service.</p>
+        <p>Mr. Soloway said that while the letter writer seems to be saying that each shareholder must enter into a three-year contract with the cable company before the company will wire the building, that probably is not what is happening here.</p>
+        <p>Instead, he said, since the fee for the cable service is being billed to the co-op and then passed along to shareholders, it is more likely that the co-op itself was required by the cable company to agree to a three-year commitment for cable service for each apartment.</p>
+        <p>The co-op board has the power to make such an agreement, he said, and to pass along the cost to shareholders, whether or not they choose to use the service.</p>
+        <p>Can a Subtenant Collect an Overcharge?</p>
+        <p>Q. I am subletting a rent-stabilized apartment. I recently found out that the original tenant is charging me about $400 more than his rent and that in our contract he states that I am his roommate rather than subtenant. Can I get back what he has overcharged?</p>
+        <p>A. David Ng, a Manhattan lawyer who represents tenants, said that in order to be considered roommates, the named tenant and the letter writer must be living in the apartment at the same time. Even then, he said, the tenant can charge a roommate no more than his or her proportionate share of the legal rent.</p>
+        <p>To recover the overcharge, ''the letter writer has three options,'' Mr. Ng said. One would be to withhold rent and then, in any nonpayment proceeding brought by the named tenant, counterclaim for damages equal to triple the amount of the actual overcharge, plus lawyer's fees and interest on the overcharge at 9 percent a year.</p>
+        <p>Another option would be to sue the named tenant for the same amount of damages, interest and fees.</p>
+        <p>The third option would be to file a rent overcharge complaint with the state's Division of Housing and Community Renewal.</p>
+        <p>Mr. Ng noted, however, that if this is an illegal sublet -- as it appears to be -- the landlord could bring a proceeding to evict both tenants. The subtenant would probably find out about it because the papers are served at the apartment, either by hand or by being posted on the door.</p>
+        <p>The subtenant could then appear in court and take the position that she should have a right to remain in the apartment and pay the legal rent to the landlord. The result would depend on the circumstances, particularly upon the length of the subtenancy and whether the landlord knew or should have known about it.</p>
+        <p>In any case, Mr. Ng said, the first thing the letter writer should do is file a Freedom of Information Law request with the Division of Housing and Community Renewal to determine the legal regulated rent.</p>
+        <p>That can be accomplished by e-mail; details can be found at the division's Web site, www.dhcr.state.ny.us. Once the legal rent is known, the letter writer can immediately reduce the rent payment to that amount and then decide on what other option to pursue.</p>
+        <p>JAY ROMANO</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

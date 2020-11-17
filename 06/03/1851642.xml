@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUENOS AIRES: COWHIDE RUGS</title>
+    <meta content="03foraging" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/travel/03foraging.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851642"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FORAGING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Carpets and Rugs</classifier>
+        <location class="indexing_service">Buenos Aires (Argentina)</location>
+        <person class="indexing_service">Mount, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Foraging</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Argentina/Buenos Aires</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Argentina</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carpets and Rugs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Buenos Aires (Argentina)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E0DF1730F930A35755C0A9619C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUENOS AIRES: COWHIDE RUGS</hl1>
+        <hl2 class="online_headline">Buenos Aires: Cowhide Rugs</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN MOUNT</byline>
+      <byline class="normalized_byline">Mount, Ian</byline>
+      <abstract>
+        <p>Foraging column on shopping for cowhide rugs in Buenos Aires, Argentina; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Argentines love their steak, but it is hard to fully fathom the country's fascination with cows until you walk down Avenida Boedo in the working-class Boedo neighborhood of Buenos Aires. This is where you'll find the wholesale leather district, the prime place to pick up that most Argentine of home accessories -- a cowhide for use as a rug -- for less than $150.</p>
+        <p>Inside the door of Isaac Benyakar's shop sits a pile of black, white, brown and tan cow skins, some marked with the brands of their rancher owners. The showroom is a half-block deep, with ceiling-high cubbies holding bolts of leather in innumerable variations of color, size and smoothness.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Avenida Boedo is where you’ll find the wholesale leatherdistrict, the prime place to pick up that most Argentine of home accessories  a cowhide for use as a rug  for less than $150.</p>
+      </block>
+      <block class="full_text">
+        <p>Argentines love their steak, but it is hard to fully fathom the country's fascination with cows until you walk down Avenida Boedo in the working-class Boedo neighborhood of Buenos Aires. This is where you'll find the wholesale leather district, the prime place to pick up that most Argentine of home accessories -- a cowhide for use as a rug -- for less than $150.</p>
+        <p>Inside the door of Isaac Benyakar's shop sits a pile of black, white, brown and tan cow skins, some marked with the brands of their rancher owners. The showroom is a half-block deep, with ceiling-high cubbies holding bolts of leather in innumerable variations of color, size and smoothness.</p>
+        <p>In a classic wood-paneled office out of a 1940s film noir, Mr. Benyakar, who goes by the nickname Quique, smokes a cigarette as he unfolds the neighborhood history. Starting around 1925, when his grandfather opened the store -- the first leather store in the district, he says -- immigrants from Turkey (like Mr. Benyakar's grandfather) and Armenia began to transform the area into a neighborhood of wholesale clothing suppliers.</p>
+        <p>Mr. Benyakar sells his cowhides for 380 to 400 pesos (about $123 to $130 at 3 pesos to the dollar). Hides from Boedo stores are often resold on tourist-jammed Florida and Murillo Streets, or in the Palermo neighborhood, where boutiques charge between 690 and 990 pesos.</p>
+        <p>A block away, in Nueva Casa Antonio, another store founder's grandson, Gabriel Orsi, flips through his stock of 200 skins, at 275 pesos each. There are skins from Holandos, the black-and-white cows made famous by cartoons and milk cartons; Herefords with brown spots instead of black; and the rest -- a mix of beige, brown, brindle and black. Some are dyed (above). ''What the people want the most is the Holando,'' said Mr. Orsi. ''It's what is most identified with 'cow'.''</p>
+        <p>At La Albertina, yet another grandson of a store founder, Oscar Báez Coluccio, says that choosing a rug is easy. A designer who plans to turn a hide into purses might worry about small imperfections, but if you're buying one to walk on, ''It's really just what you like,'' he said. Mr. Coluccio's cowhides start at 330 pesos.</p>
+        <p>Quique Benyakar, Avenida Boedo 1347; (54-11) 4922-1054.</p>
+        <p>Nueva Casa Antonio, Avenida Boedo 1411; (54-11) 4921-7951.</p>
+        <p>La Albertina, Avenida Boedo 1289; (54-11) 4956-1912.</p>
+        <p>IAN MOUNT</p>
+        <p>FORAGING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

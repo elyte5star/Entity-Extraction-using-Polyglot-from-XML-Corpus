@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fire at Motel In Georgia Kills 5 People And Injures 6</title>
+    <meta content="08motel" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/us/08motel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Atlanta</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Landscaping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">Atlanta (Ga)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DB1F30F93BA35755C0A9619C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fire at Motel In Georgia Kills 5 People And Injures 6</hl1>
+        <hl2 class="online_headline">Fire at Motel in Georgia Kills 5 People and Injures 6</hl2>
+      </hedline>
+      <byline class="print_byline">By BRENDA GOODMAN</byline>
+      <byline class="normalized_byline">Goodman, Brenda</byline>
+      <dateline>ATLANTA, June 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Five people died and six were injured after a fast-moving fire engulfed a motel in Riverdale, Ga., on Thursday morning.</p>
+        <p>Firefighters found five badly burned bodies in and around a bathtub in a room on the second floor, the area investigators suspect was the origin of the blaze, said John W. Oxendine, the state insurance and fire safety commissioner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Firefighters found five badly burned bodies in and around a bathtub in a room on the second floor.</p>
+      </block>
+      <block class="full_text">
+        <p>Five people died and six were injured after a fast-moving fire engulfed a motel in Riverdale, Ga., on Thursday morning.</p>
+        <p>Firefighters found five badly burned bodies in and around a bathtub in a room on the second floor, the area investigators suspect was the origin of the blaze, said John W. Oxendine, the state insurance and fire safety commissioner.</p>
+        <p>''The entire roof is gone,'' Mr. Oxendine said. ''The front porch has collapsed. The building was totally charred.''</p>
+        <p>The dead could not be identified immediately because of the severity of their burns, Mr. Oxendine said, adding that they appeared to be a man, a woman and three children.</p>
+        <p>Witnesses said they believed the victims were members of a family that had been staying in the motel until they could move into a nearby home, Mr. Oxendine said.</p>
+        <p>Three people, including a woman who was gravely injured, were taken to the burn unit at Grady Memorial Hospital in Atlanta, about 13 miles north of Riverdale.</p>
+        <p>Three firefighters were treated for heat exhaustion and burns to their hands.</p>
+        <p>Investigators had no leads on the cause of the fire by Thursday afternoon but said it appeared to have spread from the second floor to an attic space, which allowed it to spread quickly through the two-story, 40-unit motel.</p>
+        <p>The fire was reported at 7:38 a.m. by an off-duty police officer who spotted the flames.</p>
+        <p>Because of its age, the motel was not required to have a sprinkler system and did not have one, Mr. Oxendine said.</p>
+        <p>Mr. Oxendine said investigators would try to determine whether the smoke detectors worked. He said they worked last year during the motel's most recent inspection.</p>
+        <p>''I've got teams out there digging with shovels,'' he said. ''We have dogs working the area. There's still a lot of work to do.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

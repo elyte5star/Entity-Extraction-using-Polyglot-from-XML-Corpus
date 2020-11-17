@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: DNA Evidence In Bouncer's Murder Case</title>
+    <meta content="08mbrfs-3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853043"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFD91F30F93BA35755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: DNA Evidence In Bouncer's Murder Case</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL BRICK; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prosecutors have disclosed DNA evidence in a triple-murder case against a bar bouncer connected to the Sweet Cherry strip parlor in Sunset Park. Months after the killings, the defendant, Stephen Sakai, was arrested carrying a washcloth with what appeared to be a bloodstain, his lawyer, Kleon C. Andreadis, said yesterday after a pretrial hearing in State Supreme Court. The Brooklyn district attorney's office is expected to try to link the DNA to Mr. Sakai. Mr. Sakai and two of the victims in the case, both of whom were killed in 2005, worked or spent time at the Sweet Cherry, which the authorities finally shut down last year after nearly a decade of trying. In a separate case in Manhattan, Mr. Sakai is charged with shooting four patrons outside a dance club in Chelsea in May 2006, killing one.</p>
+        <p>MICHAEL BRICK</p>
+      </block>
+      <block class="full_text">
+        <p>Prosecutors have disclosed DNA evidence in a triple-murder case against a bar bouncer connected to the Sweet Cherry strip parlor in Sunset Park. Months after the killings, the defendant, Stephen Sakai, was arrested carrying a washcloth with what appeared to be a bloodstain, his lawyer, Kleon C. Andreadis, said yesterday after a pretrial hearing in State Supreme Court. The Brooklyn district attorney's office is expected to try to link the DNA to Mr. Sakai. Mr. Sakai and two of the victims in the case, both of whom were killed in 2005, worked or spent time at the Sweet Cherry, which the authorities finally shut down last year after nearly a decade of trying. In a separate case in Manhattan, Mr. Sakai is charged with shooting four patrons outside a dance club in Chelsea in May 2006, killing one.</p>
+        <p>MICHAEL BRICK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

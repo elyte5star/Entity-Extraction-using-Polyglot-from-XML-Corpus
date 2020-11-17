@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DANGEROUS NUTS?</title>
+    <meta content="05qna" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852247"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q + A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EFDC1130F936A35755C0A9619C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DANGEROUS NUTS?</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is eating nuts and seeds really dangerous for those with diverticulosis but no symptoms?</p>
+        <p>A. Perhaps surprisingly, considering how widespread the recommendation has been to avoid nuts and seeds when the intestinal pouches of diverticulosis are present, the answer is not definitively known. Doctors now advise those without symptoms to proceed with caution if they crave strawberries, raspberries, tomatoes or nuts.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is eating nuts and seeds really dangerous for those with diverticulosis but no symptoms?</p>
+        <p>A. Perhaps surprisingly, considering how widespread the recommendation has been to avoid nuts and seeds when the intestinal pouches of diverticulosis are present, the answer is not definitively known. Doctors now advise those without symptoms to proceed with caution if they crave strawberries, raspberries, tomatoes or nuts.</p>
+        <p>The presumption was that tiny seeds or partly chewed nuts might lodge in the pouches in the outer wall of the colon, called diverticuli, leading to irritation, inflammation and infection, called diverticulitis. But it has not been studied whether the seeds will actually cause diverticulosis to progress to an attack of diverticulitis.</p>
+        <p>According to an article last year in The Journal of Family Practice by researchers at the University of Wisconsin at Madison, a diet high in fiber and low in fat and red meat might help to decrease the risk of symptomatic diverticular disease, and for those who already have it, a high-fiber diet might decrease the risk of complications. But no studies have evaluated the effects of avoiding nuts and seeds, the authors said.</p>
+        <p>People who have had a painful attack of diverticulitis are still well advised to avoid such potential irritants, and even in those without symptoms, it does not hurt to chew seeds and nuts thoroughly.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q + A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

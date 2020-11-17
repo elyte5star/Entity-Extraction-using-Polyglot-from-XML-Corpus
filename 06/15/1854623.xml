@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Driver Not Included in This Performance Test</title>
+    <meta content="15robot" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/technology/15robot.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854623"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Military Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <org class="indexing_service">Stanford University</org>
+        <org class="indexing_service">Defense Advanced Research Projects Agency</org>
+        <org class="indexing_service">Volkswagen Ag</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Vehicles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <org class="online_producer">Stanford University</org>
+        <org class="online_producer">Volkswagen AG</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDD153FF936A25755C0A9619C8B63" item-length="566" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Driver Not Included in This Performance Test</hl1>
+        <hl2 class="online_headline">Driver Not Included in This Performance Test</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>MOUNTAIN VIEW, Calif., June 14</dateline>
+      <abstract>
+        <p>Team of Stanford University engineers that won $2 million in Pentagon-sponsored robot car contest in 2005 unveils its next-generation vehicle that will maneuver in traffic without human driver; computer-packed Volkswagen Passat station wagon will compete this fall in 60-mile timed race that is intended to challenge robot vehicle's ability not only to follow course and perform simulated military missions, but to do it in urban traffic; results of auto's test on artificial course noted; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The team of Stanford University engineers that won $2 million in a Pentagon-sponsored robot car contest in 2005 unveiled its next-generation vehicle that will maneuver in traffic without a human driver.</p>
+        <p>The computer-packed Volkswagen Passat station wagon will compete this fall in a 60-mile timed race that is intended to challenge a robot vehicle's ability, not only to follow a course and perform simulated military missions but to do it in urban traffic.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A team of Stanford University engineers unveiled its next-generation vehicle that will maneuver in traffic without a human driver.</p>
+      </block>
+      <block class="full_text">
+        <p>The team of Stanford University engineers that won $2 million in a Pentagon-sponsored robot car contest in 2005 unveiled its next-generation vehicle that will maneuver in traffic without a human driver.</p>
+        <p>The computer-packed Volkswagen Passat station wagon will compete this fall in a 60-mile timed race that is intended to challenge a robot vehicle's ability, not only to follow a course and perform simulated military missions but to do it in urban traffic.</p>
+        <p>The Defense Advanced Research Projects Agency, or Darpa, has invited 53 teams to participate in the event, to be called ''Urban Challenge.'' The military has set a goal of the next decade to deploy a driverless fleet of logistics vehicles on the battlefield.</p>
+        <p>Thursday's test was on an artificial course about the size of a small city block, and included a simulation of a four-way intersection. The robot car, which the Stanford team calls Junior, was limited to a speed of no more than 15 miles an hour by agency officials. It was required to pass four tests, including stopping at an intersection and waiting for other vehicles before proceeding.</p>
+        <p>Junior stumbled once, when a misplaced traffic cone forced the vehicle to stop and wait for its human controllers. After completing all of the required tests, the vehicle, which bristled with eight laser range finders, was able to ace the failed test of passing a stationary car immediately after an intersection.</p>
+        <p>Robot technologies are being commercialized by the automotive industry. Automakers have begun offering cars that can automatically drive in stop-and-go traffic, avoid collisions and parallel park.</p>
+        <p>But the scientists at Stanford said a new generation of technologies is on the horizon that will increasingly assist human drivers in operating their vehicles. ''Why are we doing this? We all know automobiles are unsafe and inefficient,'' said Sebastian Thrun, a Stanford faculty member who was one of the designers of the Volkswagen Touareg autonomous vehicle, named Stanley, that won the contest in 2005. ''The idea of a self-driving car is a really big idea that will have a big impact on society.''</p>
+        <p>Since the first contest in 2004, rapid technical progress has been made in the field. During the first Darpa robot driving contest none of the vehicles completed more than seven miles of a rugged desert course. In 2005, however, five vehicles successfully finished a demanding course set along the rugged terrain of the Nevada-California border.</p>
+        <p>While the Touareg entered by the Stanford team in 2005 had seven computers, the current vehicle has just two quad-core microprocessors and is built out of off-the-shelf computer components stashed in the trunk. One of the computers handles the perception and planning tasks needed to make driving decisions while avoiding traffic, while the other system manages various controls including brakes, steering and acceleration.</p>
+        <p>In addition to Intel and Volkswagen, sponsors of the Stanford team include Google; Applanix, a navigation software company; Mohr Davidow, a venture capital company; NXP, a chipmaker; and Red Bull, the energy drink company.</p>
+        <p>Google is also sponsoring a competing team from Carnegie Mellon University.</p>
+        <p>A representative of Google said that technology developed by the Stanford engineering team had played a role in the development of the company's Street View  service recently introduced as part of Google Maps. The service makes it possible to see a 360-degree view from any point in a picture of a streetscape linked to a map.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

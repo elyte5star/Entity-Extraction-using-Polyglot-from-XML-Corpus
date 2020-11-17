@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nigeria's Flawed Election</title>
+    <meta content="l03nigeria" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851957"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DF1030F930A35755C0A9619C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nigeria's Flawed Election</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A First in Nigeria: A Peaceful Succession of Power'' (news article, May 30):</p>
+        <p>Let's remember that international and domestic observers called the Nigerian elections fraudulent and the European Parliament issued a robust condemnation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A First in Nigeria: A Peaceful Succession of Power'' (news article, May 30):</p>
+        <p>Let's remember that international and domestic observers called the Nigerian elections fraudulent and the European Parliament issued a robust condemnation.</p>
+        <p>In addition, the Elie Wiesel Foundation for Humanity, where I am executive director, organized an appeal by 49 Nobel laureates expressing serious concern about the legitimacy of Umaru Yar'Adua's new government, proposing a national conference to address Nigeria's political crisis, and calling for early elections within 18 months.</p>
+        <p>For sure, the end of brutal military rule represents progress. But Nigerians deserve better than rigged elections that preserve the power and patronage of an entrenched elite. Bogus elections do not a democracy make.</p>
+        <p>David L. Phillips  New York, May 30, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

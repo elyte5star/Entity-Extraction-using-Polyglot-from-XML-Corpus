@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>N.B.A. Finals Have Lowest Viewership</title>
+    <meta content="16ratings" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854776"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5D8153FF935A25755C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>N.B.A. Finals Have Lowest Viewership</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The San Antonio Spurs' sweep of the Cleveland Cavaliers produced the N.B.A.'s least-viewed championship, with an average of 9.2 million viewers, as measured by Nielsen Media Research. The previous low, almost 9.9 million, was in 2003 when the Spurs defeated the Nets.</p>
+        <p>Game 4 on Thursday night, won by the Spurs, 83-82, attracted 9.8 million viewers, the most for the series. But that was down 16 percent from the comparable game in the Dallas-Miami series last year. The Spurs-Cavaliers attracted less than half the highest-average viewership for the finals this decade -- the 18.9 million who tuned in to see the Los Angeles Lakers beat Philadelphia in five games in 2001.</p>
+      </block>
+      <block class="full_text">
+        <p>The San Antonio Spurs' sweep of the Cleveland Cavaliers produced the N.B.A.'s least-viewed championship, with an average of 9.2 million viewers, as measured by Nielsen Media Research. The previous low, almost 9.9 million, was in 2003 when the Spurs defeated the Nets.</p>
+        <p>Game 4 on Thursday night, won by the Spurs, 83-82, attracted 9.8 million viewers, the most for the series. But that was down 16 percent from the comparable game in the Dallas-Miami series last year. The Spurs-Cavaliers attracted less than half the highest-average viewership for the finals this decade -- the 18.9 million who tuned in to see the Los Angeles Lakers beat Philadelphia in five games in 2001.</p>
+        <p>Although two of the Spurs' finals were seen by fewer than 10 million viewers, their series victory against the Detroit Pistons in 2005 generated 12.5 million viewers, and their triumph against the Knicks in 1999 attracted 16 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

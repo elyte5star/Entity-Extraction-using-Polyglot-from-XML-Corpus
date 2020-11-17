@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Profit Climbs 27% at Lehman Brothers, Led by Big Jump in Equity Trading</title>
+    <meta content="13wall" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/business/13wall.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854201"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Lehman Brothers</org>
+        <person class="indexing_service">De La Merced, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Lehman Brothers Holdings Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6DF143FF930A25755C0A9619C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Profit Climbs 27% at Lehman Brothers, Led by Big Jump in Equity Trading</hl1>
+        <hl2 class="online_headline">Lehman Brothers Profit Climbs 27%</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">De La Merced, Michael J</byline>
+      <abstract>
+        <p>Lehman Brothers reports its profit in second quarter ended May 31 rose record 27 percent; net income was $1.3 billion compared with $1 billion year ago; net revenue was $5.5 billion; equities trading rose 94 percent, to $1.7 billion (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lehman Brothers, the investment bank, reported yesterday that its profit in the second quarter rose 27 percent, a record for the firm and potentially auguring a good week for Wall Street earning reports.</p>
+        <p>Lehman reported net income of $1.3 billion, or $2.21 a share, for the three months that ended May 31, topping the $1 billion it earned in the period a year ago. Net revenue was $5.5 billion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The second-quarter report, a record for the firm, potentially augurs a good week for Wall Street earnings reports.</p>
+      </block>
+      <block class="full_text">
+        <p>Lehman Brothers, the investment bank, reported yesterday that its profit in the second quarter rose 27 percent, a record for the firm and potentially auguring a good week for Wall Street earning reports.</p>
+        <p>Lehman reported net income of $1.3 billion, or $2.21 a share, for the three months that ended May 31, topping the $1 billion it earned in the period a year ago. Net revenue was $5.5 billion.</p>
+        <p>''Our record results for the second quarter and the first half reflect our ongoing commitment to achieving diversified growth,'' the chief executive, Richard S. Fuld Jr., said in a statement.</p>
+        <p>Buoyed by a prolonged run of deal making and the profit from trading in their own accounts, Wall Street firms like Lehman have enjoyed a string of strong quarters.</p>
+        <p>Nearly all of Lehman's various businesses reported growth with equities trading showing the biggest jump, rising 94 percent, to $1.7 billion.</p>
+        <p>Bolstered by continued growth in mergers and acquisitions, especially in the red-hot private equity sector, Lehman reported investment banking revenue of $1.2 billion, a 55 percent jump.</p>
+        <p>Revenue from investment management grew to $768 million, up 30 percent from last year.</p>
+        <p>The only dark spot was fixed-income trading, which declined to $1.9 billion, down 14 percent from the period a year ago. Much of that unit's weakness came from the subprime market, where Lehman has traditionally benefited by packaging and selling mortgage-backed securities.</p>
+        <p>In a conference call, the chief financial officer, Christopher O'Meara, acknowledged that the subprime mortgage implosion had been a drag on performance. But he said the firm did not anticipate those troubles seeping into the wider credit markets.</p>
+        <p>''We continue to believe the subprime mortgage challenges are and will continue to be contained to this asset class,'' he said, adding that the worst of the difficulties in the market may have passed.</p>
+        <p>The firm has bolstered its operations outside of the United States: about 48 percent of its net revenue for the quarter came from nondomestic sources, up 37 percent from the same time last year.</p>
+        <p>Lehman's report may bode well for other Wall Street firms. Goldman Sachs and Bear Stearns will release their results on Thursday, while Morgan Stanley will report next week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

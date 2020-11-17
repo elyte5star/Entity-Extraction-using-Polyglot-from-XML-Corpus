@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="06fed-refer" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852544"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E5DD1E30F935A35755C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stocks Fall on Fed Comment  Stocks fell after the Fed chairman, Ben S. Bernanke, hinted that policy makers were in no hurry to lower interest rates.</p>
+        <p>BUSINESS DAY, PAGE C3</p>
+        <p>Basques End Cease-Fire  A Basque separatist group called off a cease-fire and vowed to resume its battle against Spain.</p>
+        <p>PAGE A6</p>
+        <p>Not Like Mama Made  The meatball is now the star of some menus, made with fine ingredients and techniques.</p>
+        <p>DINING, PAGE F1</p>
+        <p>A Virtual Dollhouse  New interactive sites, like Stardoll.com, are aimed at young users, especially girls.</p>
+        <p>PAGE C1</p>
+        <p>Shuffle at HBO  HBO shuffled its management in the wake of the departure of its chief executive, Chris Albrecht.</p>
+        <p>BUSINESS DAY, PAGE C3</p>
+      </block>
+      <block class="full_text">
+        <p>Stocks Fall on Fed Comment  Stocks fell after the Fed chairman, Ben S. Bernanke, hinted that policy makers were in no hurry to lower interest rates.</p>
+        <p>BUSINESS DAY, PAGE C3</p>
+        <p>Basques End Cease-Fire  A Basque separatist group called off a cease-fire and vowed to resume its battle against Spain.</p>
+        <p>PAGE A6</p>
+        <p>Not Like Mama Made  The meatball is now the star of some menus, made with fine ingredients and techniques.</p>
+        <p>DINING, PAGE F1</p>
+        <p>A Virtual Dollhouse  New interactive sites, like Stardoll.com, are aimed at young users, especially girls.</p>
+        <p>PAGE C1</p>
+        <p>Shuffle at HBO  HBO shuffled its management in the wake of the departure of its chief executive, Chris Albrecht.</p>
+        <p>BUSINESS DAY, PAGE C3</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

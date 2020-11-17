@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  VORDER BRUEGGE, CARL M.</title>
+    <meta content="dn061107" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853723"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">VORDER BRUEGGE, CARL M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4D9143AF932A25755C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  VORDER BRUEGGE, CARL M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VORDER BRUEGGE--Carl M., 77, of Riverside, CT, died on May 31. Youngest of John and Agnes Vorder Bruegge's six children, born in Memphis, TN on November 12, 1929. B.A., University of TN, Knoxville. M.B.A., Wharton School of Business, University of PA. 1st Lt. awarded Purple Heart and Bronze Star during the Korean War. Married Sarah E. Whitley on June 21, 1955. After Sales/Management positions with IBM and Leasco, from 1971-1986, he was Vice President of Sales and Marketing for MCI. Lecturer, Business School, University of Bridgeport, CT 1985-1993. Worshipped at St. Catherine of Siena Church. Member, Greenwich Country Club, 1968-2007. Predeceased by parents and siblings: Catherine, John, Howard, Vincent and Mark. Survived by his loving wife of 51 years, Sarah, four children, eight grandchildren. In lieu flowers, donations may be made to: Bennett Cancer Center, 34 Shelburne St. Stamford, CT 06902 or St. Catherine of Siena Church, 4 Riverside Ave., Riverside, CT 06878.</p>
+      </block>
+      <block class="full_text">
+        <p>VORDER BRUEGGE--Carl M., 77, of Riverside, CT, died on May 31. Youngest of John and Agnes Vorder Bruegge's six children, born in Memphis, TN on November 12, 1929. B.A., University of TN, Knoxville. M.B.A., Wharton School of Business, University of PA. 1st Lt. awarded Purple Heart and Bronze Star during the Korean War. Married Sarah E. Whitley on June 21, 1955. After Sales/Management positions with IBM and Leasco, from 1971-1986, he was Vice President of Sales and Marketing for MCI. Lecturer, Business School, University of Bridgeport, CT 1985-1993. Worshipped at St. Catherine of Siena Church. Member, Greenwich Country Club, 1968-2007. Predeceased by parents and siblings: Catherine, John, Howard, Vincent and Mark. Survived by his loving wife of 51 years, Sarah, four children, eight grandchildren. In lieu flowers, donations may be made to: Bennett Cancer Center, 34 Shelburne St. Stamford, CT 06902 or St. Catherine of Siena Church, 4 Riverside Ave., Riverside, CT 06878.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

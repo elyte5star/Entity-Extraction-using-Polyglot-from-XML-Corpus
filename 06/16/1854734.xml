@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Discovering New Truths In Themes Of Long Ago</title>
+    <meta content="16quar" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/arts/music/16quar.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854734"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6D9153FF935A25755C0A9619C8B63" item-length="572" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Discovering New Truths In Themes Of Long Ago</hl1>
+        <hl2 class="online_headline">Discovering New Truths in Themes Developed Long Ago</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In its Beethoven Quartets in Context concerts at Carnegie Hall, the Emerson String Quartet has raised the bar for ensembles interested in thematic programming by taking a commonplace idea -- presenting the Beethoven quartets with works by other composers -- and turning it into a revelatory series. To say that the other composers influenced Beethoven or were influenced by him isn't saying much when the earlier composers are Bach, Mozart and Haydn, and the successors are anyone who composed after him. But the Emerson has thought deeply about its juxtapositions.</p>
+        <p>The programs have consistently pointed up connections, both formal and emotional, and have offered surprising insights and fresh ways to hear all this music. Compare this series with the New York Philharmonic's recent traversal of the Brahms symphonic works, or its own Beethoven cycle a few seasons ago, and you see the difference between an exciting, inspiring musical event and a bunch of indifferently compiled programs with a meaningless title slapped on.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In its Beethoven Quartets in Context concerts at Carnegie Hall, the Emerson String Quartet has raised the bar for ensembles interested in thematic programming.</p>
+      </block>
+      <block class="full_text">
+        <p>In its Beethoven Quartets in Context concerts at Carnegie Hall, the Emerson String Quartet has raised the bar for ensembles interested in thematic programming by taking a commonplace idea -- presenting the Beethoven quartets with works by other composers -- and turning it into a revelatory series. To say that the other composers influenced Beethoven or were influenced by him isn't saying much when the earlier composers are Bach, Mozart and Haydn, and the successors are anyone who composed after him. But the Emerson has thought deeply about its juxtapositions.</p>
+        <p>The programs have consistently pointed up connections, both formal and emotional, and have offered surprising insights and fresh ways to hear all this music. Compare this series with the New York Philharmonic's recent traversal of the Brahms symphonic works, or its own Beethoven cycle a few seasons ago, and you see the difference between an exciting, inspiring musical event and a bunch of indifferently compiled programs with a meaningless title slapped on.</p>
+        <p>This week's installments, on Tuesday and Thursday, moved into the exalted realm of Beethoven's final quartets, works that are almost symphonic in power and heft, and that reach toward some great mystical truth that music can touch more easily than language.</p>
+        <p>But a central point the Emerson has made in this series is that however elevated the late works are, they are built in much the same way as the early ones, through the intricate development of motives that, in their rawest form, are often modest and unpromising.</p>
+        <p>In the Quartets in E flat (Op. 127) and A minor (Op. 132), performed on Tuesday, chordal passages provide the materials for rich counterpoint and, in the case of the central ''Heiliger Dankgesang'' movement of Opus 132, writing of great emotional intensity. And the spiky theme of the ''Grosse Fuge'' (Op. 133), which closed the Thursday program, barely suggests the vast web that Beethoven makes of it, familiar and emblematic as it is.</p>
+        <p>That work was part of a program that took fugal writing as one of its themes and included a handful of Bach's, from ''The Art of Fugue,'' and Shostakovich's Quartet No. 15 in E flat (Op. 144), which begins with a fugue on a theme so insistently tuneless and dour that even Shostakovich's typically acrid style sounds cheerful by comparison.</p>
+        <p>This last of Shostakovich's quartets is a meditation on death, which was closing in on the composer. Several of his friends had just died, as he did a year after it was written. And that, as the Emerson presented it, links it to Bach: the quartet had just concluded its ''Art of Fugue'' selection with the Contrapunctus XVIII, which ends in midthought, where Bach left it when he died.</p>
+        <p>The Tuesday program included Wolfgang Rihm's Quartet No. 4, an involving 1981 work that begins with a theme that sounds as if it were cribbed from a Beethoven sketchbook. Mr. Rihm leans heavily on Beethoven's motivic development techniques, but the piece's salient quality is its quirky dance between neo-Romantic lushness and dark, modern angularity.</p>
+        <p>It almost goes without saying that the Emerson's performances were the picture of textural clarity and enlivening energy. Mostly, they were finely polished, although the Emerson isn't afraid to play with a gritty, gruff edge when the music (the ''Grosse Fuge,'' for example) demands it.</p>
+        <p>The final concert in the Emerson String Quartet's series is tomorrow at Carnegie Hall, (212) 247-7800 or carnegiehall.org.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

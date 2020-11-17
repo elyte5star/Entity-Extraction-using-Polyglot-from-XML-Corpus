@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Europe Backs Abbas in Fight For Control Of West Bank</title>
+    <meta content="16eu" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854771"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Aid</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Gaza Strip</location>
+        <org class="indexing_service">Hamas</org>
+        <org class="indexing_service">Fatah</org>
+        <person class="indexing_service">Bilefsky, Dan</person>
+        <person class="indexing_service">Abbas, Mahmoud</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E7D8153FF935A25755C0A9619C8B63" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Europe Backs Abbas in Fight For Control Of West Bank</hl1>
+      </hedline>
+      <byline class="print_byline">By DAN BILEFSKY</byline>
+      <byline class="normalized_byline">Bilefsky, Dan</byline>
+      <dateline>BRUSSELS, June 15</dateline>
+      <abstract>
+        <p>Europe Union supports Palestinian pres Mahmoud Abbas, and says it will continue humanitarian and financial aid in Palestinian territories despite Hamas's seizure of control in Gaza (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The European Union extended firm support to the Palestinian president, Mahmoud Abbas, on Friday and said it would continue humanitarian and financial aid in the Palestinian territories despite Hamas's seizure of control in Gaza.</p>
+        <p>Calling Mr. Abbas ''the legitimate president of all Palestinians,'' the union's external relations commissioner, Benita Ferrero-Waldner, condemned the violence and called for national unity and reconciliation.</p>
+      </block>
+      <block class="full_text">
+        <p>The European Union extended firm support to the Palestinian president, Mahmoud Abbas, on Friday and said it would continue humanitarian and financial aid in the Palestinian territories despite Hamas's seizure of control in Gaza.</p>
+        <p>Calling Mr. Abbas ''the legitimate president of all Palestinians,'' the union's external relations commissioner, Benita Ferrero-Waldner, condemned the violence and called for national unity and reconciliation.</p>
+        <p>She said the European Union and its 27 member governments, which subsidize one million people in the West Bank and Gaza, would continue to provide basic necessities like food, water and medicine. The union will also continue financial aid to Palestinians that bypasses the Palestinian Authority and Hamas.</p>
+        <p>''I remain extremely concerned, especially about the situation in Gaza,'' Ms. Ferrero-Waldner said. ''The violence has to stop.''</p>
+        <p>She added: ''I urge all parties to restrain from violence and to spare civilians. And as we said in the past, we will not let the Palestinians down.''</p>
+        <p>Christiane Hohmann, the European Commission's external affairs spokeswoman, said the union's relief workers were withdrawn on Wednesday, when fighting between the rival factions Fatah and Hamas escalated. She said that Hamas fighters appeared to be easing access in Gaza for the workers, but that it remained unclear whether it was safe for them to return. Food and water for Gaza would last two weeks, she added, but first-aid supplies and medication were desperately needed.</p>
+        <p>The European Union has established a temporary mechanism to pay partial salaries to nonsecurity employees of the Palestinian Authority. According to its officials, the union and its member states contributed $916 million to Palestinians in 2006, not including contributions through United Nations agencies, compared with $711 million in 2005. The increase is despite an international embargo on aid to the Palestinian Authority after Hamas won parliamentary elections last year.</p>
+        <p>Ms. Hohmann said that the temporary financing mechanism had been extended to September and that the union had no intention of backtracking. She added, however, that the union's foreign ministers, who will meet Monday in Luxembourg, were likely to re-evaluate plans to finance large infrastructure projects, like hospitals and housing.</p>
+        <p>Germany, which holds the European Union's rotating presidency, said it ''condemns in the strongest possible terms'' the seizure of power by Hamas in Gaza and the killing of civilians and members of the security forces. It said it completely supported Mr. Abbas's decision to dismiss the unity government formed in March by Fatah and Hamas, and to appoint a caretaker administration.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

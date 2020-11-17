@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Trenton: Republicans Demand Corzine's E-Mail</title>
+    <meta content="01mbrfs-10" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851377"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFD71530F932A35755C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Trenton: Republicans Demand Corzine's E-Mail</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID KOCIENIEWSKI; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey Republicans yesterday filed a lawsuit in State Superior Court charging that the Democratic governor, Jon S. Corzine, was violating the state's Open Records Act by refusing to release e-mail messages he exchanged with his former companion, the president of a state employees union, during recent contract negotiations. Lawyers for the governor say that the e-mail messages between Mr. Corzine and Carla Katz, president of the Communications Workers of America Local 1034, are protected by gubernatorial privilege. Mr. Corzine's lawyers also point out that a state ethics panel has reviewed the messages and concluded that the governor acted appropriately. But Mark Sheridan, a lawyer for the Republican State Committee, said the law required Mr. Corzine to disclose any correspondence that discusses the contract negotiations because they involve state business.</p>
+        <p>DAVID KOCIENIEWSKI</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey Republicans yesterday filed a lawsuit in State Superior Court charging that the Democratic governor, Jon S. Corzine, was violating the state's Open Records Act by refusing to release e-mail messages he exchanged with his former companion, the president of a state employees union, during recent contract negotiations. Lawyers for the governor say that the e-mail messages between Mr. Corzine and Carla Katz, president of the Communications Workers of America Local 1034, are protected by gubernatorial privilege. Mr. Corzine's lawyers also point out that a state ethics panel has reviewed the messages and concluded that the governor acted appropriately. But Mark Sheridan, a lawyer for the Republican State Committee, said the law required Mr. Corzine to disclose any correspondence that discusses the contract negotiations because they involve state business.</p>
+        <p>DAVID KOCIENIEWSKI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

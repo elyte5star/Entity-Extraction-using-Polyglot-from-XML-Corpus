@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debating the Benefits Of Wind Power</title>
+    <meta content="l17island" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855007"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Wind</classifier>
+        <classifier class="indexing_service" type="descriptor">Turbines</classifier>
+        <person class="indexing_service">Murphy, Carol</person>
+        <person class="indexing_service">Moore, Richard</person>
+        <person class="indexing_service">Cooper, Henry S F Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEEDB143FF934A25755C0A9619C8B63" item-length="412" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debating the Benefits Of Wind Power</hl1>
+      </hedline>
+      <abstract>
+        <p>Alliance for Clean Energy executive director Carol Murphy and Richard Moore letters on Henry S F Cooper Jr's June 3 Op-Ed article that dismissed benefits of wind power technology</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>At a time when we as a state and nation need to be aggressively pursuing clean energy alternatives, Henry S. F. Cooper Jr. promotes coal and nuclear power plants in New York and dismisses the many benefits of wind power technology (''Idiot Wind,'' Op-Ed, June 3).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>At a time when we as a state and nation need to be aggressively pursuing clean energy alternatives, Henry S. F. Cooper Jr. promotes coal and nuclear power plants in New York and dismisses the many benefits of wind power technology (''Idiot Wind,'' Op-Ed, June 3).</p>
+        <p>The proposed Jordanville Wind Power Project will create enough clean, homegrown electricity to provide the annual power needs for more than 50,000 New York homes. That's 50,000 homes that will be powered without negatively affecting the environment; relying on foreign sources of oil; or putting even more strain on our existing power supply.</p>
+        <p>And contrary to Mr. Cooper's assertion that wind farms decrease property values, a recent study by Lawrence Berkeley National Laboratory found absolutely no impact on property values from wind farms.</p>
+        <p>It's no secret that New York State will need significant additional power in coming years. But New Yorkers must make a choice between clean energy -- the right answer for our economy, for our environment, for our safety, and for New York -- and business as usual.</p>
+        <p>Carol Murphy  Executive Director, Alliance  for Clean Energy New York  Albany</p>
+        <p>To the Editor:</p>
+        <p>In ''Idiot Wind,'' Henry S. F. Cooper Jr. discusses the many negative effects wind farms will have on upstate New York. Almost all of his observations are apropos much closer to home with the planned Long Island Offshore Wind Park.</p>
+        <p>This ''farm'' will contain 40 huge turbines 3.5 miles off the coast of Jones Beach and Robert Moses State Park. The flicker effect, the noise (turbine whine and foghorns), the flashing lights, the bird and bat kills and the plummeting real estate values mentioned in the article are all just around the corner for Long Island if this project is put in place.</p>
+        <p>Long Islanders have an additional concern in that it has been concluded by many that the Long Island Power Authority rates will increase to help pay for this $600 million ''farm.'' How much will they increase? LIPA refuses to say.</p>
+        <p>Probably the most disheartening aspect of the wind farm is that it will desecrate the parks that are the icons of Long Island, loved and enjoyed by so many people.</p>
+        <p>Mr. Cooper asks, ''Why then are we destroying large tracts of upstate New York in the name of an uncertain energy source?'' I ask the same question about the South Shore of Long Island.</p>
+        <p>Richard Moore  West Gilgo</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

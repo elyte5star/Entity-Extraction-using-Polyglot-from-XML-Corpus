@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DOMUSH, FRANCES REBECCA (NEE SMULIAN)</title>
+    <meta content="dn060207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851381"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DOMUSH, FRANCES REBECCA (NEE SMULIAN)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFDF143AF931A35755C0A9619C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DOMUSH, FRANCES REBECCA (NEE SMULIAN)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOMUSH--Frances Rebecca (nee Smulian). Devoted wife of the late Dr. Herman Domush. Loving mother of Joanne Rubin and Dr. Robert Domush (Ruth). Cherished grandmother of the late Suzanne, Meredith (Joey), Deborah (Rich), Christopher and Hilary. Beloved great-grandmother of Joseph, Samantha, Michael, Zoie and Zachary. Services Sunday 12 noon at ''Gutterman's'' 8000 Jericho Turnpike. Woodbury Long Island. Visitation Saturday evening 6pm -8pm.</p>
+      </block>
+      <block class="full_text">
+        <p>DOMUSH--Frances Rebecca (nee Smulian). Devoted wife of the late Dr. Herman Domush. Loving mother of Joanne Rubin and Dr. Robert Domush (Ruth). Cherished grandmother of the late Suzanne, Meredith (Joey), Deborah (Rich), Christopher and Hilary. Beloved great-grandmother of Joseph, Samantha, Michael, Zoie and Zachary. Services Sunday 12 noon at ''Gutterman's'' 8000 Jericho Turnpike. Woodbury Long Island. Visitation Saturday evening 6pm -8pm.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

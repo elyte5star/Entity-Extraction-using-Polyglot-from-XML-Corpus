@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nancy Maloney, Jacob Underhill III</title>
+    <meta content="10maloney" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10maloney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853625"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Maloney, Nancy McDonnell</person>
+        <person class="indexing_service">III, Jacob Berry Underhill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EED71F30F933A25755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nancy Maloney, Jacob Underhill III</hl1>
+        <hl2 class="online_headline">Nancy Maloney, Jacob Underhill III</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nancy McDonnell Maloney, a retired lawyer, and Jacob Berry Underhill III, a retired insurance executive, were married on Tuesday. Beverly S. Cohen, a retired New York State Supreme Court justice, officiated at her office in New York.</p>
+        <p>The bride, 57, will keep her name. She retired as a senior staff lawyer at the Florida Department of Children and Families. She was an assistant public defender in Brevard County, Fla., and the division chief for juveniles of the 18th Judicial Circuit there. She graduated from New York University and received a master's in administration of higher and adult education from Columbia and a law degree from Rutgers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nancy McDonnell Maloney, a retired lawyer, and Jacob Berry Underhill III, a retired insurance executive, were married on Tuesday. Beverly S. Cohen, a retired New York State Supreme Court justice, officiated at her office in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Nancy McDonnell Maloney, a retired lawyer, and Jacob Berry Underhill III, a retired insurance executive, were married on Tuesday. Beverly S. Cohen, a retired New York State Supreme Court justice, officiated at her office in New York.</p>
+        <p>The bride, 57, will keep her name. She retired as a senior staff lawyer at the Florida Department of Children and Families. She was an assistant public defender in Brevard County, Fla., and the division chief for juveniles of the 18th Judicial Circuit there. She graduated from New York University and received a master's in administration of higher and adult education from Columbia and a law degree from Rutgers.</p>
+        <p>She is a daughter of Edna McDonnell Maloney of Cocoa Beach, Fla., and the late Edward Joseph Maloney.</p>
+        <p>The bridegroom, 80, retired as the president of New York Life Insurance Company, a post he held from 1981 to 1986. He was first deputy superintendent of insurance of New York State and the chairman of Manhattan Eye, Ear and Throat Hospital. He graduated from Princeton.</p>
+        <p>He is a son of Dorothy Quinn Major, who lived in Palm Beach, Fla., and J. Berry Underhill Jr., who lived in New York.</p>
+        <p>The bride's two previous marriages and the bridegroom's three previous marriages ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

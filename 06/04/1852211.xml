@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tribute to a Senate Role Model</title>
+    <meta content="04empire-4" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852211"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DD1130F937A35755C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tribute to a Senate Role Model</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Warren M. Anderson, who served as Senate majority leader from 1973 to 1988, died last week at age 91.</p>
+        <p>Former Gov. George E. Pataki called him ''a tremendous gentleman.'' Back when Mr. Pataki was a young Senate staffer -- ''it was the 1890s,'' he said -- Mr. Anderson was not above talking to the hired help. And like many others, Mr. Pataki recalled the garish jackets Mr. Anderson wore at the end of each legislative session.</p>
+      </block>
+      <block class="full_text">
+        <p>Warren M. Anderson, who served as Senate majority leader from 1973 to 1988, died last week at age 91.</p>
+        <p>Former Gov. George E. Pataki called him ''a tremendous gentleman.'' Back when Mr. Pataki was a young Senate staffer -- ''it was the 1890s,'' he said -- Mr. Anderson was not above talking to the hired help. And like many others, Mr. Pataki recalled the garish jackets Mr. Anderson wore at the end of each legislative session.</p>
+        <p>''Warren would break out that coat and it would be a tremendous morale booster,'' he said. ''It was time to not just enjoy the fact that you were going to get to go home, but now was the time to get anything you had left to do accomplished. It was one small symbolic way of how he was an enormously effective leader.''</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

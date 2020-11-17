@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some Lenders Are Setting Rates College by College</title>
+    <meta content="19loans" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/us/19loans.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855598"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Student Loans</classifier>
+        <classifier class="indexing_service" type="descriptor">Defaulting</classifier>
+        <org class="indexing_service">University of Phoenix</org>
+        <org class="indexing_service">Duke University</org>
+        <person class="indexing_service">Arenson, Karen W</person>
+        <person class="indexing_service">Cuomo, Andrew M (Atty Gen)</person>
+        <person class="indexing_service">Miller, George (Rep)</person>
+        <person class="indexing_service">Dodd, Christopher J (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Student Loans</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <person class="online_producer">Cuomo, Andrew M</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E7DE133FF93AA25755C0A9619C8B63" item-length="473" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some Lenders Are Setting Rates College by College</hl1>
+        <hl2 class="online_headline">Some Lenders Are Setting Rates College by College</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON</byline>
+      <byline class="normalized_byline">Arenson, Karen W</byline>
+      <abstract>
+        <p>Atty Gen Andrew M Cuomo of New York says in letter to Congress that his investigation of student loan business found many lenders determine eligibility for private loans and set interests rates based on colleges students attend rather than borrowers' credit-worthiness; likens it to practice known as redlining in mortgage industry; his letter provides illustration of practice of large lender that divides colleges into groups based on how their alumni repaid federally subsidized loans, standard measurement of default; says result is that student with good financial record could pay 8 percent for private loan at Duke University but 11 percent at University of Phoenix; Rep George Miller and Sen Christopher J Dodd, who are studying student loan business, voice concern about possible unfairness of college-by-college approach (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andrew M. Cuomo, attorney general of New York, said yesterday in a letter to Congress that his investigation of the student loan business had found ''a significant number of lenders'' that determine eligibility for private loans and set interest rates based in large part on the colleges the students attend rather than the borrowers' credit-worthiness.</p>
+        <p>''Just as lenders in the mortgage industry once made judgments about credit lending in entire neighborhoods as a whole,'' Mr. Cuomo wrote, referring to a practice known as redlining, ''so too are lenders making generalized judgments about student and parent risk based on a student's school neighborhood.'' He did not name any lenders that engaged in these practices.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The practice is compared to redlining in the mortgage industry, but some bankers defend it as a way to assess young borrowers with little credit history.</p>
+      </block>
+      <block class="full_text">
+        <p>Andrew M. Cuomo, attorney general of New York, said yesterday in a letter to Congress that his investigation of the student loan business had found ''a significant number of lenders'' that determine eligibility for private loans and set interest rates based in large part on the colleges the students attend rather than the borrowers' credit-worthiness.</p>
+        <p>''Just as lenders in the mortgage industry once made judgments about credit lending in entire neighborhoods as a whole,'' Mr. Cuomo wrote, referring to a practice known as redlining, ''so too are lenders making generalized judgments about student and parent risk based on a student's school neighborhood.'' He did not name any lenders that engaged in these practices.</p>
+        <p>He sent the letter to Senator Christopher J. Dodd, Democrat of Connecticut and chairman of the Senate banking committee, and Representative George Miller, Democrat of California and chairman of the House Committee on Education and Labor. Both committees have been studying the student loan business.</p>
+        <p>The letter provided an illustration of the practice of a large lender that divided colleges into groups based on how their alumni repaid federally subsidized loans, the standard measurement of default.</p>
+        <p>Students at colleges with default rates of 3 percent or less, the letter said, were eligible for private loan interest rates of 8 percent to 9.25 percent. At schools with default rates of 3 percent to 5 percent, students could obtain loans at interest rates of 9 percent to 12 percent. And at colleges with default rates of 5 percent to 10 percent, students paid interest rates of 11 percent to 14 percent.</p>
+        <p>Rates on private loans, which are usually more costly than those on federally subsidized loans, varied within those ranges depending on the student's credit record.</p>
+        <p>The result, Mr. Cuomo said, was that a student with a good financial record at Duke University paid 8 percent for a private loan, for example, while a student with the same credit record who attended the University of Phoenix paid 11 percent.</p>
+        <p>''Simply because of the school the student has chosen to attend, he is paying a 3 percent higher interest rate on what are often massive student loans,'' Mr. Cuomo wrote.</p>
+        <p>Several bankers said that it was not unreasonable to consider whether students would be able to repay loans based on factors like graduation rates at the colleges they attended and what they studied.</p>
+        <p>Taige P. Thornton, president of NorthStar Education Finance Inc., a nonprofit lender in St. Paul, said: ''It's really an issue of being prudent and being able to secure debt. Words like good and bad, right and wrong, really don't come into this.'' In assessing credit risk, NorthStar considered several factors, ''including school, discipline and historical data,'' he said.</p>
+        <p>Representative Miller and Senator Dodd said  that they were concerned about the possible unfairness of a college-by-college approach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

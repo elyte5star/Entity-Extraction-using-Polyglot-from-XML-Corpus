@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Two Killed In Crashes</title>
+    <meta content="18mbrfs-3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855466"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DB123FF93BA25755C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Two Killed In Crashes</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two men died and a third man was seriously injured in two motor vehicle accidents Saturday night and early yesterday, the police said. A 58-year-old man was killed when he drove a Mercedes-Benz through a fence and into a parked car at 3:45 a.m. yesterday at Pennsylvania Avenue near the Belt Parkway. In the other accident, a 27-year-old man was killed and his passenger, also a man in his 20s, suffered head and neck injuries when the motorcycle they were riding collided with a 1999 Ford Taurus at 10 p.m. Saturday at Rockaway Parkway and Church Avenue in Brownsville. The injured man was listed in stable condition at Brookdale University Hospital and Medical Center, the police said. No charges were expected.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+      <block class="full_text">
+        <p>Two men died and a third man was seriously injured in two motor vehicle accidents Saturday night and early yesterday, the police said. A 58-year-old man was killed when he drove a Mercedes-Benz through a fence and into a parked car at 3:45 a.m. yesterday at Pennsylvania Avenue near the Belt Parkway. In the other accident, a 27-year-old man was killed and his passenger, also a man in his 20s, suffered head and neck injuries when the motorcycle they were riding collided with a 1999 Ford Taurus at 10 p.m. Saturday at Rockaway Parkway and Church Avenue in Brownsville. The injured man was listed in stable condition at Brookdale University Hospital and Medical Center, the police said. No charges were expected.</p>
+        <p>THOMAS J. LUECK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

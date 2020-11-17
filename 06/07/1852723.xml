@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Easier Connections for the Networked Family</title>
+    <meta content="07hub" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/technology/07hub.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852723"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3D81E30F934A35755C0A9619C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Easier Connections for the Networked Family</hl1>
+        <hl2 class="online_headline">Easier Connections for the Networked Family</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Connecting printers and hard drives for use over a network has been a daunting task for even the most knowledgeable. With the Belkin Network U.S.B. Hub, all that is needed is to put a plug into a socket.</p>
+        <p>The hub looks like a standard U.S.B. hub and is designed to accept five inputs from hard drives, scanners and printers. Special PC software -- a Mac version should be available in September -- finds the hub on a network and treats those peripherals as if they were plugged right into the computer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Belkin Network U.S.B. Hub is designed to accept five inputs from hard drives, scanners and printers.</p>
+      </block>
+      <block class="full_text">
+        <p>Connecting printers and hard drives for use over a network has been a daunting task for even the most knowledgeable. With the Belkin Network U.S.B. Hub, all that is needed is to put a plug into a socket.</p>
+        <p>The hub looks like a standard U.S.B. hub and is designed to accept five inputs from hard drives, scanners and printers. Special PC software -- a Mac version should be available in September -- finds the hub on a network and treats those peripherals as if they were plugged right into the computer.</p>
+        <p>The shiny black hub allows one computer to use one of the devices at a time, with up to five people using one of the connected peripherals each. For example, Mom in the den can connect to a hard drive while Dad in the bedroom connects to a printer, but Mom and Dad cannot use the printer at the same time. There are two U.S.B. ports on the front of the device and three on the back, along with an Ethernet port for connecting to a wired or wireless router.</p>
+        <p>Available later this month, this $129 hub could save on buying multiple peripherals for multiple PCs around the house. The family just needs to learn how to share.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

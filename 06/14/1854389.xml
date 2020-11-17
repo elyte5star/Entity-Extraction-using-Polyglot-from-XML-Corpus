@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Upfront TV Market Starts With NBC Universal Deal</title>
+    <meta content="14addes" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854389"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Nbc Universal</org>
+        <org class="indexing_service">Wpp Group</org>
+        <org class="indexing_service">Telemundo</org>
+        <org class="indexing_service">Bravo (Cable Channel)</org>
+        <org class="indexing_service">Sci-Fi Channel</org>
+        <org class="indexing_service">Usa Network</org>
+        <person class="indexing_service">Bunkley, Nick</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E6D9143FF937A25755C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Upfront TV Market Starts With NBC Universal Deal</hl1>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY</byline>
+      <byline class="normalized_byline">Bunkley, Nick</byline>
+      <abstract>
+        <p>Upfront market for 2007-8 television season is getting under way with large deal between NBC Universal division of General Electric and media agencies owned by WPP Group; agreement is valued at $800 million to $900 million in commercial time and includes NBC and Telemundo broadcast TV networks as well as cable networks like Bravo, Sci-Fi and USA (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The upfront market for the 2007-8 television season is getting under way with a large deal between the NBC Universal division of the General Electric Company and the media agencies owned by the WPP Group.</p>
+        <p>The agreement, disclosed yesterday, is valued at $800 million to $900 million in commercial time and includes the NBC and Telemundo broadcast TV networks as well as cable networks like Bravo, Sci-Fi and USA.</p>
+      </block>
+      <block class="full_text">
+        <p>The upfront market for the 2007-8 television season is getting under way with a large deal between the NBC Universal division of the General Electric Company and the media agencies owned by the WPP Group.</p>
+        <p>The agreement, disclosed yesterday, is valued at $800 million to $900 million in commercial time and includes the NBC and Telemundo broadcast TV networks as well as cable networks like Bravo, Sci-Fi and USA.</p>
+        <p>They become the first networks to make deals in this year's upfront market, which gets its name from the agreements reached before the start of the fall TV season.</p>
+        <p>The agreement is also the first to ever be made in the United States based on commercial ratings, which Nielsen Media Services began providing last month to agencies and networks.</p>
+        <p>Previously, upfront deals were made based on ratings for programs as viewers watched them live. Now, to accommodate the growing popularity of digital video recorders, the upfront negotiations are being made on commercial ratings that are ''live plus three'' -- counting live viewership along with three days' worth of playback of recorded programs.</p>
+        <p>The agreement is much broader in scope than a typical upfront deal. It includes all parts of the television schedule like daytime, late-night and news programs, in addition to prime time. The deal also includes digital operations like nbc.com as well as branded entertainment elements that will integrate products into the plots of shows.</p>
+        <p>The GroupM division of WPP, an umbrella unit over all the WPP media agencies, coordinated the agreement with NBC Universal. Individual GroupM agencies like MediaCom, Mediaedge:cia and MindShare negotiated on behalf of clients like I.B.M., Nokia, Sprint Nextel, Unilever and Volkswagen of America.</p>
+        <p>During last spring's upfront market, advertisers agreed to buy an estimated $9 billion in commercial time on broadcast networks and an estimated $6.5 billion on cable networks.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

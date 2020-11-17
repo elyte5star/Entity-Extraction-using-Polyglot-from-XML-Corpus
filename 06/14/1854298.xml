@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Those Who Missed The 60s Or Just Can't Remember</title>
+    <meta content="14POINTS" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/fashion/14POINTS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854298"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FINE POINTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="descriptor">Hippies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hippies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDE143FF937A25755C0A9619C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Those Who Missed The 60s Or Just Can't Remember</hl1>
+        <hl2 class="online_headline">For Those Who Missed the ’60s or Just Can’t Remember</hl2>
+      </hedline>
+      <byline class="print_byline">By KRISTINA DECHTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FASHION, depending on which designer you ask, is currently about futurism, romanticism, athleticism or the revival of 1980s-ism. Funny how no one ever mentions hippies.</p>
+        <p>Looking back at spring's free-floating dresses, or the mysterious emergence of beaded headbands chez Miuccia Prada, or the countless amoebic prints (and paisleys!) coming from Dries van Noten for fall, it seems odd that the hippie undercurrent has gone largely unnoticed, even as we approach the 40th anniversary of the Summer of Love. Stefano Pilati of Yves Saint Laurent practically banged the message over editors' heads with a spring runway strewn with violets and a man's jacket printed with a crowd photograph of Woodstock. Mellow!</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s the Summer of Love (if you love soulful little hippie bracelets, that is).</p>
+      </block>
+      <block class="full_text">
+        <p>FASHION, depending on which designer you ask, is currently about futurism, romanticism, athleticism or the revival of 1980s-ism. Funny how no one ever mentions hippies.</p>
+        <p>Looking back at spring's free-floating dresses, or the mysterious emergence of beaded headbands chez Miuccia Prada, or the countless amoebic prints (and paisleys!) coming from Dries van Noten for fall, it seems odd that the hippie undercurrent has gone largely unnoticed, even as we approach the 40th anniversary of the Summer of Love. Stefano Pilati of Yves Saint Laurent practically banged the message over editors' heads with a spring runway strewn with violets and a man's jacket printed with a crowd photograph of Woodstock. Mellow!</p>
+        <p>Nostalgia for hippie fashion can be seen more obviously this summer with the emergence of fun little bracelets made of braided leather and beads. They can be seen as a sweet ode to summers past, recalling friendship bracelets and vacation souvenirs. And when liberally piled on, they evoke a studiously messy hippie spirit.</p>
+        <p>Anne Slowey, the fashion news director of Elle, says the naturally bare looks of summer allow more liberties with accessories. ''As your arms are exposed, bracelets make more sense and can be a little sloppy,'' she said. ''And this trinket jewelry is so personal. You look down at your arms, and it reminds you of your own soulfulness.''</p>
+        <p>The summer bracelets here, hanging as casually on the wrist as girls on Strawberry Fields, look organic, synergistic, carefree -- or whatever term a hippie may prefer. And while you may not find a peace march or macramé circle to join any time soon, the difficult-to-navigate buttonhole closures of many of the bracelets may mean you'll have to get by with a little help from your friends.</p>
+        <p>FINE POINTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

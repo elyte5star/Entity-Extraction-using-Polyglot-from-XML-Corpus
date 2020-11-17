@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drug Companies and Doctors' Education</title>
+    <meta content="l18doctors" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855429"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0DC123FF93BA25755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drug Companies and Doctors' Education</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Daniel Carlat (''Diagnosis: Conflict of Interest,'' Op-Ed, June 13) is simply wrong when he questions the educational value of continuing medical education programs supported by America's pharmaceutical research companies.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Daniel Carlat (''Diagnosis: Conflict of Interest,'' Op-Ed, June 13) is simply wrong when he questions the educational value of continuing medical education programs supported by America's pharmaceutical research companies.</p>
+        <p>Our voluntary marketing code for members states explicitly that when pharmaceutical research companies provide financial support for medical conferences, control over selection of content, faculty, educational methods, materials and venue belongs to accredited conference organizers and not the companies.</p>
+        <p>The Code on Interactions with Health Care Professionals helps to ensure that pharmaceutical companies can help health care providers receive valuable information about available medicines -- with no strings attached.</p>
+        <p>And there is no reason to believe that independent program organizers are jeopardizing their reputations or compromising their medical judgments because pharmaceutical companies have provided financing for continuing medical education seminars.</p>
+        <p>Ken Johnson  Senior V.P., Pharmaceutical  Research and Manufacturers  of America  Washington, June 14, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

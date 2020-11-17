@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Disease That's Difficult to Cure</title>
+    <meta content="01tbox" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/us/01tbox.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851301"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Tuberculosis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Epidemics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Antibiotics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Antibiotics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuberculosis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Epidemics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antibiotics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E5D81530F932A35755C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Disease That's Difficult to Cure</hl1>
+        <hl2 class="online_headline">A Disease That’s Difficult to Cure</hl2>
+      </hedline>
+      <byline class="print_byline">By DENISE GRADY</byline>
+      <byline class="normalized_byline">Grady, Denise</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andrew Speaker's extensively drug-resistant tuberculosis, or XDR TB, is a rare form of the disease caused by bacteria that are resistant to nearly all the antibiotics normally used for TB.</p>
+        <p>Researchers do not theorize XDR is more virulent or contagious than more common forms of TB, but it is considered extremely serious because it is difficult or impossible to cure. About 30 percent of cases have been cured, according to an Internet fact sheet posted in April by the Centers for Disease Control and Prevention (www.cdc.gov/tb).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Andrew Speaker’s extensively drug-resistant tuberculosis, or XDR TB, is a rare form of the disease caused by bacteria that are resistant to nearly all the antibiotics normally used for TB.</p>
+      </block>
+      <block class="full_text">
+        <p>Andrew Speaker's extensively drug-resistant tuberculosis, or XDR TB, is a rare form of the disease caused by bacteria that are resistant to nearly all the antibiotics normally used for TB.</p>
+        <p>Researchers do not theorize XDR is more virulent or contagious than more common forms of TB, but it is considered extremely serious because it is difficult or impossible to cure. About 30 percent of cases have been cured, according to an Internet fact sheet posted in April by the Centers for Disease Control and Prevention (www.cdc.gov/tb).</p>
+        <p>A spokesman for the agency said he did not know whether the remaining patients died or remained ill. In people with H.I.V., AIDS or other diseases that weaken the immune system, this TB can be rapidly fatal.</p>
+        <p>From 1993 to 2006, 49 cases of XDR TB were reported in the United States, the disease agency says. Other countries have many more cases. South Africa has had 600 new cases a year or more, and at least 28 other countries have also had cases, mostly from China, India and Russia.</p>
+        <p>Medical experts theorize that XDR developed from more common TB forms that became drug resistant because antibiotics were improperly used. The incorrect use occurs because even relatively ordinary TB is hard to treat, requiring taking several drugs for six months or more, even after symptoms disappear.</p>
+        <p>The drugs can have side effects like nausea that make people want to quit as soon as possible. But failing to finish the whole course is a recipe for breeding drug-resistant bacteria.</p>
+        <p>Healthy people can often fight off TB. Even among people who have close contact with a patient, 20 percent become infected. Of those, 5 percent to 10 percent develop active cases. In the rest, the immune system fights the bacteria, and the infection becomes dormant.</p>
+        <p>TB spreads when the bacteria become airborne, which can occur when someone with an active case coughs or sneezes or even speaks or sings. The bacteria can float in the air for hours, and people who inhale them can become infected.</p>
+        <p>Contrary to what many people think, according to the disease centers, TB is not spread by kissing or sharing toothbrushes or food or drink.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

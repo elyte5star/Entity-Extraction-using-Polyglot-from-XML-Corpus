@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarkozy's Party Heads Toward Huge Legislative Majority in France</title>
+    <meta content="11france" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">France</location>
+        <person class="indexing_service">Sarkozy, Nicolas (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7DE173FF932A25755C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarkozy's Party Heads Toward Huge Legislative Majority in France</hl1>
+      </hedline>
+      <dateline>PARIS, Monday, June 11</dateline>
+      <abstract>
+        <p>French Pres Nicolas Sarkozy's center-right party is expected to win overwhelming parliamentary majority after first round of legislative elections June 10; this will cement his power to enact changes that he says are needed to rescue France from economic and social malaise (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Nicolas Sarkozy's center-right party was on course to win an overwhelming parliamentary majority after the first round of French legislative elections on Sunday, cementing his power to enact changes that he says are needed to rescue France from economic and social malaise.</p>
+        <p>Mr. Sarkozy's party, the Union for a Popular Movement won 39.54 percent of the vote, according to a final tally by the Interior Ministry. That could give the party and its allies as many as 501 seats in the 577-seat National Assembly after the second-round vote on June 17, pollsters said.</p>
+      </block>
+      <block class="full_text">
+        <p>President Nicolas Sarkozy's center-right party was on course to win an overwhelming parliamentary majority after the first round of French legislative elections on Sunday, cementing his power to enact changes that he says are needed to rescue France from economic and social malaise.</p>
+        <p>Mr. Sarkozy's party, the Union for a Popular Movement won 39.54 percent of the vote, according to a final tally by the Interior Ministry. That could give the party and its allies as many as 501 seats in the 577-seat National Assembly after the second-round vote on June 17, pollsters said.</p>
+        <p>The main opposition, the Socialist Party, received 24.73 percent, meaning that it could lose more than half of its 149 seats, pollsters projected. The result reinforced the disarray on the left since its presidential candidate, Ségolène Royal, lost to Mr. Sarkozy last month.</p>
+        <p>Mr. Sarkozy says he plans to cut taxes, tighten punishment for repeat lawbreakers and make it easier for employers to hire and fire workers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

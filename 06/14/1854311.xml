@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Landlocked Goldfish, Worth Their Weight in 24-Karat</title>
+    <meta content="14surf" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854311"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: DÉCOR"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDC143FF937A25755C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Landlocked Goldfish, Worth Their Weight in 24-Karat</hl1>
+      </hedline>
+      <byline class="print_byline">By RIMA SUQI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dirk Westphal has elevated the status of the goldfish from pet to creature worthy of worship by putting its photo on, of all things, surfboards. Mr. Westphal, above left, a photographer and an avid surfer, makes the fully functional surfboards by hand in his Chinatown studio, where he photographs goldfish in tanks customized for that purpose.</p>
+        <p>Most buyers treat the boards as decorative objects, Mr. Westphal said, hanging them on walls, as at right, or using them as room dividers. While they can be used for surfing, he doesn't recommend it. Considering the price -- $5,000 to $10,000 each -- and the damage that inevitably occurs during surfing, he said, ''you'd have to be insane to use one.''</p>
+      </block>
+      <block class="full_text">
+        <p>Dirk Westphal has elevated the status of the goldfish from pet to creature worthy of worship by putting its photo on, of all things, surfboards. Mr. Westphal, above left, a photographer and an avid surfer, makes the fully functional surfboards by hand in his Chinatown studio, where he photographs goldfish in tanks customized for that purpose.</p>
+        <p>Most buyers treat the boards as decorative objects, Mr. Westphal said, hanging them on walls, as at right, or using them as room dividers. While they can be used for surfing, he doesn't recommend it. Considering the price -- $5,000 to $10,000 each -- and the damage that inevitably occurs during surfing, he said, ''you'd have to be insane to use one.''</p>
+        <p>A collection of Mr. Westphal's six-foot short boards and nine-foot long boards is on display through June 29 in an exhibition called ''This Is All Part of God's Plan'' at Blood, a gallery at 33 Crosby Street (Broome Street), (646) 964-5223. Information on Mr. Westphal's boards is available through Mixed Greens, 531 West 26th Street, (212) 331-8888, and at dirkwestphal.com.</p>
+        <p>RIMA SUQI</p>
+        <p>CURRENTS: DÉCOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

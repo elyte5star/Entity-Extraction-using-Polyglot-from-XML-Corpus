@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>While Lyrical Moments Abound, Tension Sometimes Simmers</title>
+    <meta content="17schw" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854968"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Concert D'Astree (Music Group)</org>
+        <person class="indexing_service">Schweitzer, Vivien</person>
+        <person class="indexing_service">Handel, George Frederick (1685-1759)</person>
+        <person class="indexing_service">Haim, Emmanuelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D7173FF934A25755C0A9619C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>While Lyrical Moments Abound, Tension Sometimes Simmers</hl1>
+      </hedline>
+      <byline class="print_byline">By VIVIEN SCHWEITZER</byline>
+      <byline class="normalized_byline">Schweitzer, Vivien</byline>
+      <abstract>
+        <p>Vivien Schweitzer reviews new two-CD recording of Handel's Il Trionfo del Tempo a del Disinganno played by Le Concert d'Astree, Emmanuelle Haim director; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Handel: 'Il Trionfo del Tempo e del Disinganno'  Le Concert d'Astrée, directed by Emmanuelle Haïm. Virgin Classics 3 63428 2; two CDs.</p>
+        <p>TIME and Enlightenment may win the upper hand in ''Il Trionfo del Tempo e del Disinganno,'' Handel's allegorical oratorio, but beauty and pleasure are certainly the triumphant features of Emmanuelle Haïm's enchanting new recording.</p>
+      </block>
+      <block class="full_text">
+        <p>Handel: 'Il Trionfo del Tempo e del Disinganno'  Le Concert d'Astrée, directed by Emmanuelle Haïm. Virgin Classics 3 63428 2; two CDs.</p>
+        <p>TIME and Enlightenment may win the upper hand in ''Il Trionfo del Tempo e del Disinganno,'' Handel's allegorical oratorio, but beauty and pleasure are certainly the triumphant features of Emmanuelle Haïm's enchanting new recording.</p>
+        <p>Handel wrote the work, ''The Triumph of Time and Enlightenment,'' in 1707 in Rome when he was 22, to a libretto by his patron, Cardinal Benedetto Pamphili. The Italian text consists of a dialogue among four allegorical characters. Pleasure (Piacere) tempts Beauty (Bellezza), but Time (Tempo) and his spoilsport sidekick, Enlightenment (Disinganno), remind her that frivolity leads to doom.</p>
+        <p>Opera was forbidden at the time in Rome by a papal ban, but Handel's sensual score, with its colorful violin and woodwind writing, is plenty operatic. The score also includes the first known sonata for organ and orchestra. Handel's imagination was partly fueled by other composers, whose music he borrowed and adapted. He then recycled parts of ''Il Trionfo'' into his own later works. ''Lascia la Spina,'' for example, became ''Lascia ch'io Pianga'' in his opera ''Rinaldo.''</p>
+        <p>Ms. Haïm directs the superb Baroque orchestra Le Concert d'Astrée (in which she also plays organ and harpsichord here) in a fleet, immaculate performance that dances among airy, profound and sensuous moods.</p>
+        <p>The excellent quartet of singers is led by the radiant, bright voice of the soprano Natalie Dessay, whose rapturous Bellezza traverses innocence, defiance and penitence by way of some impressively agile coloratura. ''Tu del Ciel Ministro Eletto,'' her spare, haunting final aria with plaintive violin accompaniment, is glorious.</p>
+        <p>As Piacere, the mezzo-soprano Ann Hallenberg woos Bellezza with a warm, seductive voice. Sonia Prina, a rich, soulful alto as Disinganno, and Pavol Breslik, an earnest, tempestuous tenor as Tempo, complete the cast, which unites for the fiery quartet ''Voglio Tempo.''</p>
+        <p>VIVIEN SCHWEITZER</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

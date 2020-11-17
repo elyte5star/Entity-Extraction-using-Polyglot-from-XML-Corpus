@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Four Queens'</title>
+    <meta content="Letters.t-3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851662"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0DB1730F930A35755C0A9619C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Four Queens'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In her review of my book ''Four Queens'' (May 27), Megan Marshall repeatedly takes me to task for overemphasizing the political roles of the four daughters of Raymond Berenger V, the Count of Provence. What disturbs me most about Marshall's criticism, beyond the obvious, is the implication that she is sufficiently authoritative on the subject to make such a judgment. In fact, Marshall consistently reveals herself to know little or nothing of the period. No further proof is needed than her constant reference to the daughters of the Count of Provence as the ''Berenger sisters,'' a jaw-dropping whopper of an error that no historian even remotely acquainted with the Middle Ages would make. Raymond Berenger was a single appellation, akin to Jean-Louis. Jean-Louis's daughters wouldn't be called the ''Louis sisters.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In her review of my book ''Four Queens'' (May 27), Megan Marshall repeatedly takes me to task for overemphasizing the political roles of the four daughters of Raymond Berenger V, the Count of Provence. What disturbs me most about Marshall's criticism, beyond the obvious, is the implication that she is sufficiently authoritative on the subject to make such a judgment. In fact, Marshall consistently reveals herself to know little or nothing of the period. No further proof is needed than her constant reference to the daughters of the Count of Provence as the ''Berenger sisters,'' a jaw-dropping whopper of an error that no historian even remotely acquainted with the Middle Ages would make. Raymond Berenger was a single appellation, akin to Jean-Louis. Jean-Louis's daughters wouldn't be called the ''Louis sisters.''</p>
+        <p>In her rush to make her own point, Marshall neglected to mention that Marguerite, the eldest daughter, salvaged her husband's crusade in Egypt; Eleanor, the next in line, started a civil war in England; and Beatrice, the youngest, led an army across an Alpine pass to help take Sicily. The four daughters of the Count of Provence might not have been as important as the Peabody sisters, but they were far more influential than the ''women of privilege'' Marshall dismissively made them out to be in her review.</p>
+        <p>This review is rife with distortions. For example, Marshall states that Provence was important because it had ''vineyards and chateaus,'' as though that was unusual in the Middle Ages. And the significance of the castles being pledged for the dowry, as she well knows having read the book, is that the Count of Provence had so few resources that he was forced to pledge the same castles over and over again.</p>
+        <p>I have been writing for a long time and am no stranger to bad notices. But to receive such a smug and misinformed review, and one that is so utterly out of keeping with other reviews of the book -- including some by genuine medievalists -- is distressing.</p>
+        <p>Nancy Goldstone  Westport, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

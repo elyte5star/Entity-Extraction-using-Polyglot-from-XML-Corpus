@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aronian-Carlsen Was Liveliest Of the Candidates Matches</title>
+    <meta content="17chess.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/crosswords/17chess-1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855251"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Chess"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="descriptor">Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DF123FF934A25755C0A9619C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aronian-Carlsen Was Liveliest Of the Candidates Matches</hl1>
+        <hl2 class="online_headline">Aronian-Carlsen Was Liveliest of the Candidates Matches</hl2>
+      </hedline>
+      <byline class="print_byline">By Dylan Loeb McClain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There were no real surprises at the candidates matches, held May 27 to June 13 in Elista, Kalmykia, a Russian republic, to select four qualifiers for the World Championship Tournament in Mexico City in September and October.</p>
+        <p>The four winners were Levon Aronian of Armenia, Peter Leko of Hungary, Boris Gelfand of Israel and Alexander Grischuk of Russia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There were no real surprises at the candidates matches to select qualifiers for the World Championship Tournament. The match between Levon Aronian and Magnus Carlsen was the only one that required six tiebreak games.</p>
+      </block>
+      <block class="full_text">
+        <p>There were no real surprises at the candidates matches, held May 27 to June 13 in Elista, Kalmykia, a Russian republic, to select four qualifiers for the World Championship Tournament in Mexico City in September and October.</p>
+        <p>The four winners were Levon Aronian of Armenia, Peter Leko of Hungary, Boris Gelfand of Israel and Alexander Grischuk of Russia.</p>
+        <p>Going into the matches, Aronian and Leko were the two highest-ranked players; Gelfand was No. 4, and Grischuk was tied for No. 6.</p>
+        <p>The most competitive and entertaining contest was the Round 1 matchup between Aronian and Magnus Carlsen of Norway, the 16-year-old who has electrified the chess world. The match was the only one that required six tiebreak games. In the fifth, Aronian pulled away by outplaying Carlsen in the middle game to win a pawn.</p>
+        <p>Through 11  0-0, the game followed two that Carlsen had played before, both times as White. In those games, Carlsen had tried 12 Qd2 and 12 Nb5. Aronian's 12 Bd6 was a more direct approach to try to take advantage of the hole at d6. Carlsen should not have sought to simplify with 12  Na5; it left his queenside pawns badly compromised. Instead, 12  Ne8 would have made more sense.</p>
+        <p>Although Carlsen was able to exchange his lead a-pawn through a tactical finesse, he was unable to defend the second pawn on the file.</p>
+        <p>Aronian's greatest strength is his accuracy in maneuvering his pieces, and that was on display once he got the advantage. His 33 Nf5 slowed the approach of Carlsen's king toward the center. Then with 38 h5, he locked down Carlsen's kingside pawns, preventing simplifying exchanges.</p>
+        <p>The rest was a clinic, and Carlsen resigned in a hopeless position.</p>
+        <p>The lineup for Mexico City looks as if it will be even stronger than that of the championship tournament in San Luis, Argentina, in 2005. The roster includes Vladimir Kramnik of Russia, the world champion; Viswanathan Anand of India, No. 1 in the world; Alexander Morozevich of Russia, No. 4; and Peter Svidler of Russia, No. 9.</p>
+        <p>The most notable omission, as of now, will be Veselin Topalov of Bulgaria, tied for No. 2 with Kramnik. Topalov is excluded under the terms of the championship match he played against Kramnik last year.</p>
+        <p>The Bulgarian Chess Federation has petitioned the World Chess Federation to consider including Topalov, and even Kramnik, Topalov's bitter rival, has called it strange that Topalov is not playing.</p>
+        <p>Chess</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

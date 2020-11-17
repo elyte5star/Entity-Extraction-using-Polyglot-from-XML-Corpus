@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accreditation Restored At Nassau Medical Center</title>
+    <meta content="03weekliLI-3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852049"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Accreditation</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <location class="indexing_service">East Meadow (NY)</location>
+        <org class="indexing_service">Joint Commission on Accreditation of Healthcare Organizations</org>
+        <org class="indexing_service">Nassau University Medical Center</org>
+        <person class="indexing_service">Saslow, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accreditation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDA1030F930A35755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accreditation Restored At Nassau Medical Center</hl1>
+      </hedline>
+      <byline class="print_byline">By LINDA SASLOW</byline>
+      <byline class="normalized_byline">Saslow, Linda</byline>
+      <abstract>
+        <p>Joint Commission on Accreditation of Health Care Organizations, after two-day follow-up exam, returns Nassau University Medical Center in East Meadow, NY, to full accreditation; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a recent two-day follow-up examination, the Nassau University Medical Center in East Meadow has regained full accreditation.</p>
+        <p>Arthur A. Gianelli, the president and chief executive of the Nassau Health Care Corporation, which runs the center, announced on May 24 that it had been removed from conditional accreditation by the Joint Commission on the Accreditation of Health Care Organizations.</p>
+      </block>
+      <block class="full_text">
+        <p>After a recent two-day follow-up examination, the Nassau University Medical Center in East Meadow has regained full accreditation.</p>
+        <p>Arthur A. Gianelli, the president and chief executive of the Nassau Health Care Corporation, which runs the center, announced on May 24 that it had been removed from conditional accreditation by the Joint Commission on the Accreditation of Health Care Organizations.</p>
+        <p>The accreditation ensures the medical center's eligibility for millions of dollars from Medicare and Medicaid reimbursements.</p>
+        <p>Last May the commission listed 15 general requirements for improvement at the medical center and three at the A. Holly Patterson Extended Care Center, a nursing home, which also had conditional accreditation. Specific issues that needed to be addressed included unlocked medication carts, inadequate recording of the temperature of refrigerators storing medications, improper abbreviations on patient charts, and jagged edges on equipment on the hospital's psychiatric floor.</p>
+        <p>Corrective actions included weekly meetings to evaluate areas that needed improvement, teams created to address specific problems, building repairs, a new system of record keeping, and surprise surveys on different floors to simulate those of the accrediting commission.</p>
+        <p>After a surprise two-day visit in April by the commission, the medical center and nursing center were returned to full accreditation.</p>
+        <p>The commission, a private organization created in 1951 to improve health care through voluntary accreditation, evaluates 80 percent of the nation's hospitals. A commission survey, which is typically held every three years, is paid for by the hospital. The survey at Nassau University Medical Center cost $30,000.</p>
+        <p>Dr. Steven J. Walerstein, the medical center's medical director, said: ''Our job was not to prepare for the next visit of the commission, but to bring up the level of care. We have let our staff know that we have new expectations and standards.''</p>
+        <p>The Nassau Health Care Corporation consists of the medical center, a Level I trauma center and teaching hospital, the A. Holly Patterson nursing home and seven community health centers.</p>
+        <p>LINDA SASLOW</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

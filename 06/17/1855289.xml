@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Friday Night Out, a Bloody Bar Fight, and the Death of a Brother</title>
+    <meta content="17stab" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/17stab.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855289"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DE123FF934A25755C0A9619C8B63" item-length="497" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Friday Night Out, a Bloody Bar Fight, and the Death of a Brother</hl1>
+        <hl2 class="online_headline">A Friday Night Out, a Bloody Bar Fight, and the Death of a Brother</hl2>
+      </hedline>
+      <byline class="print_byline">By CARA BUCKLEY and ANNIE CORREAL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nothing seemed out of the ordinary when Carlos Tenemaza ambled to the men's room in a Bronx tavern late Friday, feeling a slight glow from the night's first beer. He was with his brother, Jose, and a friend, and they were standing by the pool table, bantering with a group of men.</p>
+        <p>But after Carlos stepped out of the men's room, everything went wrong, fast. For reasons that Carlos cannot or will not explain, two men grabbed him by the neck and slammed him against a wall. Then Jose intervened, waving a pool cue and telling the men to leave his little brother alone.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A man was fatally stabbed and his brother was wounded during a fight in a Bronx bar, the Tavern of Sugar, early Saturday.</p>
+      </block>
+      <block class="full_text">
+        <p>Nothing seemed out of the ordinary when Carlos Tenemaza ambled to the men's room in a Bronx tavern late Friday, feeling a slight glow from the night's first beer. He was with his brother, Jose, and a friend, and they were standing by the pool table, bantering with a group of men.</p>
+        <p>But after Carlos stepped out of the men's room, everything went wrong, fast. For reasons that Carlos cannot or will not explain, two men grabbed him by the neck and slammed him against a wall. Then Jose intervened, waving a pool cue and telling the men to leave his little brother alone.</p>
+        <p>One of Carlos's attackers lunged at the pool cue, snapping it in half. Then, Carlos said, a bottle or half of the pool cue -- he is not sure which -- came smashing across his head. He struggled free of the men who were holding him and, squinting through the blood, fled the bar, the Taverna de Izucar, at Rosedale Avenue and East 172nd Street.</p>
+        <p>He found his brother lying on a sidewalk outside, moaning softly, as a dark stain spread across his shirt.</p>
+        <p>''I feel too tired to breathe,'' Jose whispered. Two ambulances arrived, their sirens screaming, and separately rushed the brothers to Jacobi Medical Center. Jose Tenemaza, 39, who had been stabbed in the chest, was declared dead about three hours later, just after 3 a.m.</p>
+        <p>The police are still searching for the attackers, and said the motive remained unclear. Carlos Tenemaza, 28, who said he received 20 to 40 stitches to his head, was released from the hospital at 9 a.m. yesterday. He returned to the apartment on Noble Avenue that he and his brother shared with their sister, Julia Tenemaza, 30, and her toddler daughter. It is just four blocks from Taverna de Izucar, but Carlos said he and his brother rarely went there.</p>
+        <p>By midafternoon yesterday, Mr. Tenemaza said he had not yet called his mother or his brother's wife and five children, who live in Cuenca, Ecuador, with the news of Jose's death.</p>
+        <p>''I don't know what to tell them,'' he said. He had no money, he added, to send Jose's body to Ecuador.</p>
+        <p>The brothers worked in construction and had been sending money to family members in Ecuador since moving to New York five years ago, Mr. Tenemaza said. Neither had any enemies, and ''everything about him was good,'' he said of his brother.</p>
+        <p>A friend invited the Tenemaza brothers to spend Friday night at Taverna de Izucar, where strippers dance in the basement and a tattered Mexican flag hangs out front.</p>
+        <p>Inside, the three ordered Coronas, and Mr. Tenemaza said a group of Mexican men demanded that the brother's friend, whose full name Mr. Tenemaza said he did not know, buy them beers. The friend obliged. A little later, the demand was made again. Mr. Tenemaza thought nothing of it, and moments later headed toward the bathroom and closed the door.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

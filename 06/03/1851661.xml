@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Uncle Sam Wants You</title>
+    <meta content="Letters.t-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851661"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DB1730F930A35755C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Uncle Sam Wants You</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Cullen Murphy's ''Are We Rome?'' (May 13), Walter Isaacson notes that Murphy worries that ''members of the educated elite no longer feel it their duty to serve in the military. He reports that 450 of the 750 graduates in the Princeton class of 1956 served, whereas only eight of the 1,100 in the class of 2004 did.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Cullen Murphy's ''Are We Rome?'' (May 13), Walter Isaacson notes that Murphy worries that ''members of the educated elite no longer feel it their duty to serve in the military. He reports that 450 of the 750 graduates in the Princeton class of 1956 served, whereas only eight of the 1,100 in the class of 2004 did.''</p>
+        <p>All male graduates in the 1950s had two choices: volunteer for military service or be drafted. I was drafted.</p>
+        <p>Arthur Siegel  New Hartford, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

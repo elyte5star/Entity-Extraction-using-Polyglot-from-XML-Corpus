@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Orchestra Society</title>
+    <meta content="05roun-2" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852407"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC AND DANCE IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4D81130F936A35755C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Orchestra Society</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carnegie Hall</p>
+        <p>The concert by the Children's Orchestra Society's Young Symphonic Ensemble at Carnegie Hall on Friday night was as much about the young people onstage as the large audience listening to them. Popular music -- its instruments and its culture -- has had an overwhelming influence on how children hear and perform music, but evenings like this one, and an afternoon like it from the New York Youth Orchestra a week ago, show that serious students of orchestral instruments are arriving in numbers and in talent.</p>
+      </block>
+      <block class="full_text">
+        <p>Carnegie Hall</p>
+        <p>The concert by the Children's Orchestra Society's Young Symphonic Ensemble at Carnegie Hall on Friday night was as much about the young people onstage as the large audience listening to them. Popular music -- its instruments and its culture -- has had an overwhelming influence on how children hear and perform music, but evenings like this one, and an afternoon like it from the New York Youth Orchestra a week ago, show that serious students of orchestral instruments are arriving in numbers and in talent.</p>
+        <p>If the second group represents the elite in this little meritocracy of young orchestras, the Young Symphonic Ensemble occupies its upper-middle class. Turned loose on the straightforward emotionalism of Rachmaninoff's First Symphony after intermission, the players made appealing music. Entrances throughout the night were erratic and intonation sagged at moments, but those problems seemed unimportant next to the fact that teenagers were involving themselves in music they seemed to believe in while making their audience happy in the process.</p>
+        <p>Michael Dadap conducted an odd assortment of pieces, and Jaime Laredo and Sharon Robinson were the earnest soloists in Brahms's Double Concerto for Violin and Cello.Chen Yi's big, noisy ''Celebration for Orchestra,'' with its martial statements and string glissandos, did not make its case clearly, a failing that may have had more to with the piece than the people playing it.</p>
+        <p>Sara Aomori's smoothly delivered flute solos were featured in Georges Hüe's ''Fantasy for Flute and Orchestra,'' an exercise in gentle hedonism cast in the images of Debussy's quiet pedal points and wandering, modally colored harmonic progressions. Hüe, a Frenchman born in 1858, lived through the Impressionist era and survived past World War II. The young orchestra played his music with relative delicacy and then attacked the Brahms with enthusiasm.</p>
+        <p>BERNARD HOLLAND</p>
+        <p>MUSIC AND DANCE IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

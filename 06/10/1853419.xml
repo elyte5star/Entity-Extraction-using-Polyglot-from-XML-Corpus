@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Raw</title>
+    <meta content="McInerney.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/books/review/McInerney-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853419"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Sushi</classifier>
+        <classifier class="online_producer" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sushi</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Corson, Trevor</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DD1530F933A25755C0A9619C8B63" item-length="1766" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Raw</hl1>
+        <hl2 class="online_headline">Raw</hl2>
+      </hedline>
+      <byline class="print_byline">By JAY McINERNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE ZEN OF FISH</p>
+        <p>The Story of Sushi, From</p>
+        <p>Samurai to Supermarket.</p>
+        <p>By Trevor Corson.</p>
+        <p>372 pp. HarperCollins Publishers. $24.95.</p>
+        <p>THE SUSHI ECONOMY</p>
+        <p>Globalization and the Making</p>
+        <p>of a Modern Delicacy.</p>
+        <p>By Sasha Issenberg.</p>
+        <p>323 pp. Gotham Books. $26.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two histories trace the evolution of sushi, from fermented goo to fresh global delicacy.</p>
+      </block>
+      <block class="full_text">
+        <p>THE ZEN OF FISH</p>
+        <p>The Story of Sushi, From</p>
+        <p>Samurai to Supermarket.</p>
+        <p>By Trevor Corson.</p>
+        <p>372 pp. HarperCollins Publishers. $24.95.</p>
+        <p>THE SUSHI ECONOMY</p>
+        <p>Globalization and the Making</p>
+        <p>of a Modern Delicacy.</p>
+        <p>By Sasha Issenberg.</p>
+        <p>323 pp. Gotham Books. $26.</p>
+        <p>When I first tried sushi in Tokyo in the fall of 1977, I thought of myself as an intrepid culinary adventurer who, if he survived the experience, would return to America to tell the incredible, unbelievable tale of the day he ate raw fish on rice balls. Someday, perhaps, I would tell my children. By the time I returned to the States two years later, I found sushi bars in Midtown Manhattan; within a few years, nigiri sushi became the signature forage of the Young Urban Professional. As for my children, they eat sushi three or four times a week. They developed a taste for it when they were living in Nashville, Tenn., which, though it lacks any convincing French or Italian restaurants, has several fine sushi bars. From very different perspectives, ''The Zen of Fish,'' by Trevor Corson, and ''The Sushi Economy,'' by Sasha Issenberg, attempt to account for the transformation of sushi from a provincial street snack to the international luxury cuisine of the 21st century.</p>
+        <p>Although raw fish is generally the first thing we think of when we think of sushi, it didn't start out that way. ''The Japanese tradition of eating fresh raw fish has nothing to do with sushi,'' Corson tells us. ''Sushi began as a way of preserving old fish.'' Rice farmers in Southeast Asia would pack fish in jars with cooked rice to preserve it. The fermented result tasted more like stinky cheese than like fresh hamachi; the Japanese, in adopting the strategy, gradually shortened the fermentation time, developing a fresher style of sushi that still relied on fermented rice for its distinctive sour taste. This fish, usually carp, was salted and pressed in rice under a stone. Sashimi, in the form of raw fish, was something else again, an aristocratic delicacy little known to the urban masses.</p>
+        <p>The eureka moment when fresh fish was first squished onto a ball of vinegared rice and eaten on the spot is lost to us, but it happened somewhere in Edo (soon to be Tokyo) during the 19th century. Some hungry soul got tired of waiting for his sushi to ferment. What we now think of as sushi -- Edo-mae nigiri -- was invented as fast food for laborers, served by outdoor vendors from small carts. Soy sauce was offered, probably to mimic the fermented fish taste of the earlier style. The Tokyo earthquake of 1923 leveled the city and dispersed many of the city's sushi chefs, who took Tokyo-style nigiri sushi to other parts of the country.</p>
+        <p>In the mid-1960s a restaurant called Tokyo Kaikan opened one of the first sushi bars in Los Angeles. There, a chef named Ichiro Mashita, unable to find any fresh toro, started substituting creamy avocado for the fatty tuna belly, eventually coming up with the California roll, winning the eternal gratitude of my son Barrett and millions of other gaijin. Los Angeles was the beachhead for the sushi invasion, attracting many Japanese chefs eager to make their fortunes and to circumvent the grueling 10-year apprenticeship required in their homeland. Others followed Japan's corporate envoys to New York during the boom years of the Japanese economy. In 1983, the New York Times restaurant critic, Mimi Sheraton, awarded four stars to Hatsuhana, a Midtown sushi den -- the official imprimatur for the new cuisine.</p>
+        <p>Trevor Corson's ''Zen of Fish'' bounces between Los Angeles and Japan, as he follows the trials of a recent class of the California Sushi Academy, founded in 1998 to train would-be American sushi chefs. It's a clever narrative strategy -- the reader learns the practice and history of sushi alongside the students. On the other hand, his decision to focus on the least promising student -- a young woman who is squeamish about touching fish and is afraid of sharp knives -- makes for a sometimes frustrating and pedestrian journey. Given Corson's apparent mastery of Japanese and of original source material, one can only assume the samurai and Zen clichés result from the student's limited point of view. (''Kate liked Toshi immediately. He was cheerful and stern at the same time, like a monk who was also a kung-fu warrior.'') The monk/warrior head of the academy, Toshi Sugiura, comes across as a colorful if enigmatic character, a profligate party boy and self-appointed guardian of sushi traditions. On the other hand, Corson's portrait of the American students, as opposed to the glimpses we catch of the single Japanese acolyte, could be used to buttress the view that gaijin in general, and women in particular, don't have the stuff to make it behind the sushi bar. But hey, somebody's got to man the counter at all those sushi bars springing up in Oklahoma and Nebraska.</p>
+        <p>Fortunately, the classroom scenes are intercut with authoritative, often amusing, chapters on sushi history, marine biology and the physiognomy of taste. While the students hack away at mackerel, Corson serves up bite-size explanations of the invention of soy sauce, the sex life of red algae and the importance of umami, that mysterious fifth taste that underlies so much of Eastern cuisine. His chapter on rice, a subject that Americans take for granted, is itself worth the price of the book.</p>
+        <p>Corson's chapter on the bluefin tuna is surprisingly brief. Sasha Issenberg, on the other hand, devotes most of ''The Sushi Economy'' to the bluefin, which he considers the totem animal of the global economy. ''In few places,'' Issenberg writes, ''are the complex dynamics of globalization revealed as visibly as in the tuna's journey from the sea to the sushi bar.''</p>
+        <p>Issenberg posits the bluefin tuna market and the sushi economy in general as an instance of good globalization, a theoretical counterpoint to the Slow Food movement, founded in 1986 to protest the opening of a McDonald's in Rome; the resulting coalition promotes the virtues of regional cuisine and ingredients and ''amounts to what some have labeled the culinary wing of the antiglobalization movement,'' he writes. But the global sushi trade, as Issenberg portrays it, is a curiously old-fashioned market subject to the vagaries of nature and a complex network of personal relationships. ''It is one of the last areas in which human beings remain hunter-gatherers.'' Issenberg takes this argument pretty far. ''Through sushi, we see that ... integrity does not need to come only from defending the tribal honor of terroir, but is to be uncovered in movement, as well. Conquering distance, geographical and cultural, can be a triumph of the liberal values of mobility and interdependence, empowering local communities instead of threatening them.'' Environmentalists might take exception to this sunny characterization; wild bluefin stocks are not likely to survive our appetite for maguro, and the jets that transport their carcasses from Boston to Tokyo aren't doing the ozone any good. Still, he's got a good story to tell.</p>
+        <p>In 19th-century Tokyo, tuna was regarded as an inferior fish; the Japanese craving for the red flesh of bluefin and bigeye didn't really develop until after the war. The growing appetite for bluefin, the most prized of the tuna, mirrored the growth of the Japanese economy, depleting wild stocks in the waters around Japan. Meantime, a Japan Airlines employee named Akira Okazaki was trying to find a way to fill the empty cargo holds of returning JAL flights, planes that had flown to North America full of Japanese manufactured and electronic goods. Not long after visiting Japan's famous Tsukiji fish market and observing the high price paid for bluefin tuna, Okazaki learned that the fish were abundant in the Eastern Atlantic, where they were considered worthless. After convincing reluctant fishermen on Prince Edward Island to seek out bluefin, and after much trial and error with refrigeration, the first important auction of Canadian bluefin was held at Tsukiji on Aug. 14, 1972. By summer of 1974, 91 percent of outgoing cargo on JAL flights from Canada was bluefin bound for Tokyo.</p>
+        <p>''Sushi had started as a form of preservation,'' Issenberg says, ''but it was becoming precisely the opposite: a way of using the infrastructure of modernity to chaperone a delicate dish around the world.'' Over the course of two decades, he writes, ''the average price for bluefin tuna paid to Atlantic fisherman rose by 10,000 percent.'' By the mid-'70s, according to Issenberg, a bluefin caught in the Atlantic on Sunday could be eaten for lunch in Tokyo on Wednesday. Which, conveniently enough, is about the exact amount of time it takes bluefin to develop optimal flavor and texture. ''The Japanese have a nickname for bluefin -- shibi,'' Corson writes. ''It means 'four days.' In the age before refrigeration, when someone caught a bluefin, he buried it in the ground for four days before eating it.''</p>
+        <p>Issenberg follows the tuna backward from the Tsukiji market to its sources in the North Atlantic, the Mediterranean and the South Pacific, stopping along the way at Gloucester, Mass., where the Rev. Sun Myung Moon entered the market; at Port Lincoln in South Australia, home of the Tunarama Festival and a thriving bluefin ranching industry; and at Japan's Kinki University, a center of tuna breeding research. Often entertaining, his journey is at times painfully detailed and deliberate; it takes him two pages to describe the unloading of a single tuna from boat to dock, a passage that feels longer than the flight to Japan.</p>
+        <p>He recounts the journey of Nobu Matsuhisa, the world's most famous sushi purveyor, from Japan to New York and London by way of Peru, Alaska and Los Angeles. And, more ominously he follows the sushi mogul Takamasa Ueno's journeys from Hokkaido to Dalian, China. If the consumption of sushi is, as Issenberg proposes, a key indicator of modernization, a signifier of participation in the globalized economy, then it's only a matter of time before China and India become major markets for bluefin tuna. ''To eat sushi,'' he writes, ''is to display an access to advanced trade networks, of full engagement in world commerce.'' The ''Iron Chef'' star Masaharu Morimoto is opening a place in Mumbai. When people start eating toro in Calcutta, Issenberg says, ''India will make a successful claim to a Western ideal of modernity that no number of outsourced call centers can.'' Whether the tuna breeding and ranching industries will be able to keep pace with the demand for the new international luxury cuisine after the inevitable collapse of the wild fishery is another story.</p>
+        <p>Jay McInerney's most recent books are ''The Good Life,'' a novel, and ''A Hedonist in the Cellar: Adventures in Wine.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jay McInerney's most recent books are ''The Good Life,'' a novel, and ''A Hedonist in the Cellar: Adventures in Wine.''</tagline>
+    </body.end>
+  </body>
+</nitf>

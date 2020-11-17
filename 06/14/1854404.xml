@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>S.E.C. Ends Decades-Old Price Limits on Short Selling</title>
+    <meta content="14sec" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/business/14sec.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854404"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Short Selling</classifier>
+        <classifier class="indexing_service" type="descriptor">Great Depression (1930's)</classifier>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Cox, Christopher (Chmn)</person>
+        <person class="indexing_service">Norris, Floyd</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Great Depression (1930's)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2D9143FF937A25755C0A9619C8B63" item-length="518" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>S.E.C. Ends Decades-Old Price Limits on Short Selling</hl1>
+        <hl2 class="online_headline">S.E.C. Ends Decades-Old Price Limits on Short Selling</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+      <abstract>
+        <p>Securities and Exchange Commission votes to end price restrictions on short selling, meaning that investors seeking to sell share that they do not own will no longer be barred from doing so because price of stock is falling; vote, ending rule that has been in place since 1938, when short sellers were blamed by some critics for having caused 1929 market crash and Depression that followed, comes as commission also votes to make it harder to engage in naked shorting, practice of selling shares that have not been purchased or borrowed; SEC chairman Christopher Cox calls naked short selling 'fraud that the commission is bound to prevent and to punish'; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Securities and Exchange Commission voted yesterday to end price restrictions on short selling, meaning that investors seeking to sell a share that they do not own will no longer be barred from doing so because the price of the stock is falling.</p>
+        <p>The 5-to-0 vote, ending a rule that had been in place since 1938, when short sellers were blamed by some critics for having caused the 1929 market crash and the Depression that followed, came as the commission also voted to make it harder to engage in naked shorting, the practice of selling shares that have not been purchased or borrowed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Investors seeking to sell a share that they do not own will no longer be barred from doing so because the price of the stock is falling.</p>
+      </block>
+      <block class="full_text">
+        <p>The Securities and Exchange Commission voted yesterday to end price restrictions on short selling, meaning that investors seeking to sell a share that they do not own will no longer be barred from doing so because the price of the stock is falling.</p>
+        <p>The 5-to-0 vote, ending a rule that had been in place since 1938, when short sellers were blamed by some critics for having caused the 1929 market crash and the Depression that followed, came as the commission also voted to make it harder to engage in naked shorting, the practice of selling shares that have not been purchased or borrowed.</p>
+        <p>Christopher Cox, the S.E.C. chairman, called naked short selling ''a fraud that the commission is bound to prevent and to punish.''</p>
+        <p>When a naked short sale is made, it leads to a failure to deliver the stock when the trade settles three business days later. There are many other reasons for fails, but such sales are believed to be the primary one for many stocks.</p>
+        <p>The S.E.C. adopted a rule, known as Regulation SHO, in 2004 that was intended to reduce naked short selling by requiring the publication each day of a list of securities with heavy fails. Brokers are required to cure the fails within 13 days. But fails existing before the stock went on the list were grandfathered.</p>
+        <p>Yesterday's vote will remove the grandfather provision, and the commission said it was also considering removing an exemption from the rule for options market makers who need to sell short to hedge an options position.</p>
+        <p>The new rule will take effect 60 days after it is published in the Federal Register, and traders will have 35 days after that to clear up fails that had been grandfathered.</p>
+        <p>The commission says naked short selling has been reduced by Regulation SHO, but some stocks have remained on the Regulation SHO list for many months. The leader in that regard is Overstock.com, which has appeared for 538 consecutive trading days. It has also been the leader in condemning such sales and has sued many Wall Street firms for facilitating such trades.</p>
+        <p>The commission does not regularly release the exact number of fails in stocks on the list, although figures can be obtained on a delayed basis through the Freedom of Information Act.</p>
+        <p>James A. Brigagliano, an associate director of the commission's division of market regulation, said that the S.E.C. would release such numbers on a quarterly basis, with a delay, as soon as details were worked out.</p>
+        <p>The ban on selling short while a share price was declining, called the tick test since it barred selling unless the last change in price was an uptick, had come to seem irrelevant. A test that repealed the rule for many stocks seemed to make little difference in their trading, and that part of the rule change was adopted with little controversy.</p>
+        <p>The commission said that it was proposing for comment a rule to eliminate the exemption to Regulation SHO for options market makers, but it would also ask for comments on possible ways to narrow the exemption.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>7 Nights of Bright Eyes (in as Many Colors) Andrew Kuo</title>
+    <meta content="10boyk" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/arts/music/10boyk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853490"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Kuo, Andrew</person>
+        <person class="indexing_service">Oberst, Conor (Bright Eyes) (Singer)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Bright Eyes</org>
+        <person class="online_producer">Oberst, Conor</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3DF1E30F933A25755C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>7 Nights of Bright Eyes (in as Many Colors) Andrew Kuo</hl1>
+        <hl2 class="online_headline">7 Nights of Bright Eyes (in as Many Colors)</hl2>
+      </hedline>
+      <abstract>
+        <p>Article on blogger Andrew Kuo, who humorously uses complex, brightly colored graphics to convey his reactions to indie rock and hip-hop recordings and shows; article presents graphics inspired by attending seven recent performances by folkie singer-songwriter Bright Eyes (Conor Oberst); photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BY nature rock bloggers are an obsessive bunch, but few take their fixations as far as the artist Andrew Kuo. On the blog earlboykins .blogspot .com Mr. Kuo meticulously dissects indie rock and hip-hop records and shows and then transforms the data into complicated, brightly colored charts and diagrams. The joke is, the more banal the information or sweeping the generalization, the more complex the graphics. ''It's a comment on fans' short attention spans,'' he said. ''You think you can glance at a pie chart and decide whether or not to buy a record, but then you're forced to work to figure it out.''</p>
+        <p>Mr. Kuo, 29, is a fan of the sensitive, folkie singer-songwriter Bright Eyes, a k a Conor Oberst, at left. To test his devotion, The New York Times sent him (alone!) to see all seven recent Bright Eyes shows at Town Hall in Manhattan, where Mr. Oberst performed with a mini-orchestra. There was plenty of spectacle to digest, from an elaborate video backdrop to two drummers to the band's white outfits to a surprise special guest every night (Lou Reed, Norah Jones, etc).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The artist Andrew Kuo meticulously dissects indie rock and hip-hop records and shows and then transforms the data into complicated, brightly colored charts and diagrams.</p>
+      </block>
+      <block class="full_text">
+        <p>BY nature rock bloggers are an obsessive bunch, but few take their fixations as far as the artist Andrew Kuo. On the blog earlboykins .blogspot .com Mr. Kuo meticulously dissects indie rock and hip-hop records and shows and then transforms the data into complicated, brightly colored charts and diagrams. The joke is, the more banal the information or sweeping the generalization, the more complex the graphics. ''It's a comment on fans' short attention spans,'' he said. ''You think you can glance at a pie chart and decide whether or not to buy a record, but then you're forced to work to figure it out.''</p>
+        <p>Mr. Kuo, 29, is a fan of the sensitive, folkie singer-songwriter Bright Eyes, a k a Conor Oberst, at left. To test his devotion, The New York Times sent him (alone!) to see all seven recent Bright Eyes shows at Town Hall in Manhattan, where Mr. Oberst performed with a mini-orchestra. There was plenty of spectacle to digest, from an elaborate video backdrop to two drummers to the band's white outfits to a surprise special guest every night (Lou Reed, Norah Jones, etc).</p>
+        <p>Not only did Mr. Kuo pass the endurance test, he said he also came to look forward to each night as a ''strange, romantic ritual.'' A few days later he was spinning Bright Eyes songs at an East Village bar. ''I'm listening to Bright Eyes more than ever now,'' he confessed. ''I know it's crazy.''</p>
+        <p>MUSIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

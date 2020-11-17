@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Subpoena Vote Is Set In Wiretap Inquiry</title>
+    <meta content="13nsa" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854170"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E4D6173FF930A25755C0A9619C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Subpoena Vote Is Set In Wiretap Inquiry</hl1>
+      </hedline>
+      <dateline>WASHINGTON, June 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Senate Judiciary Committee is set to vote Thursday on whether to authorize subpoenas to gain access to Justice Department documents related to the National Security Agency's domestic wiretapping program, including a series of secret legal opinions.</p>
+        <p>The vote comes a week after Democratic leaders on a House Judiciary subcommittee threatened to issue subpoenas for the same documents.</p>
+      </block>
+      <block class="full_text">
+        <p>The Senate Judiciary Committee is set to vote Thursday on whether to authorize subpoenas to gain access to Justice Department documents related to the National Security Agency's domestic wiretapping program, including a series of secret legal opinions.</p>
+        <p>The vote comes a week after Democratic leaders on a House Judiciary subcommittee threatened to issue subpoenas for the same documents.</p>
+        <p>The chairman of the Senate committee, Patrick J. Leahy, Democrat of Vermont, and its ranking Republican, Arlen Specter of Pennsylvania, wrote to Attorney General Alberto R. Gonzales on May 21 seeking access to the documents and asked for a response by June 5. The panel will vote on whether to authorize Mr. Leahy to issue subpoenas for the documents He could decide to subpoena the documents or to use that power as leverage with the Justice Department.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

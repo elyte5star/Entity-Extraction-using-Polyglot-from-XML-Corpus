@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting the Curse Of Poor Penmanship</title>
+    <meta content="l03west-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852039"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Handwriting</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Private and Sectarian Schools</classifier>
+        <org class="indexing_service">St Pius V School (Melville, NY)</org>
+        <org class="indexing_service">Zaner-Bloser (Publisher)</org>
+        <person class="indexing_service">Lin, Angie</person>
+        <person class="indexing_service">Winerip, Michael</person>
+        <person class="indexing_service">Gahan, John Patrick Kearns</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handwriting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DA1030F930A35755C0A9619C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting the Curse Of Poor Penmanship</hl1>
+      </hedline>
+      <abstract>
+        <p>Angie Lin letter on Michael Winerip's May 27 Parenting column on seventh-grade handwriting champion</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Grooming a Handwriting Champion,'' by Michael Winerip (Parenting, May 27):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Grooming a Handwriting Champion,'' by Michael Winerip (Parenting, May 27):</p>
+        <p>My son would benefit greatly if there were penmanship classes offered in public school. Every year I complain to my son's teacher that his handwriting is awful. The usual response is ''It doesn't matter, he can type on the computer'' or ''It's fine, I've seen worse.''</p>
+        <p>I receive a similar answer when I bemoan his appalling spelling: ''There is spell check.'' Apparently reading illegible handwriting and deciphering horrible spelling are just part of teacher training.</p>
+        <p>With this same line of reasoning, why do children have to spend an enormous time learning advanced math concepts when during our day to day life all we ever need to calculate is easily handled with a calculator? When was the last time you were asked to solve a quadratic equation?</p>
+        <p>When was the last time you received a thank you note with misspelled words and that was impossible to read?</p>
+        <p>Angie Lin  Chappaqua</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

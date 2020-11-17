@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q.&amp;A.</title>
+    <meta content="07qna" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/garden/07qna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852664"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E7D91E30F934A35755C0A9619C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q.&amp;A.</hl1>
+        <hl2 class="online_headline">Garden Q.&amp;A.</hl2>
+      </hedline>
+      <byline class="print_byline">By Leslie Land</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Droopy Dahlias</p>
+        <p>Q. My dahlias have been in the ground for four years. I usually dig them up, divide them and replant before growth starts in spring, but this year shoots were growing before I got around to it. Now the shoots are drooping. Will they recover, or must one divide dahlias before they start to grow?</p>
+        <p>A. That depends on what you mean by grow, because dahlia tubers are food storage organs. They can support shoots for quite a while without being planted, watered or given other help.</p>
+        <p>Because each tuber feeds only the growth that sprouts from it, tubers that have no roots can safely be separated at any time. The process will not cause shoots to wilt unless the shoots themselves are damaged.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Q. My dahlias have been in the ground for four years. Now the shoots are drooping. Will they recover, or must one divide dahlias before they start to grow?</p>
+      </block>
+      <block class="full_text">
+        <p>Droopy Dahlias</p>
+        <p>Q. My dahlias have been in the ground for four years. I usually dig them up, divide them and replant before growth starts in spring, but this year shoots were growing before I got around to it. Now the shoots are drooping. Will they recover, or must one divide dahlias before they start to grow?</p>
+        <p>A. That depends on what you mean by grow, because dahlia tubers are food storage organs. They can support shoots for quite a while without being planted, watered or given other help.</p>
+        <p>Because each tuber feeds only the growth that sprouts from it, tubers that have no roots can safely be separated at any time. The process will not cause shoots to wilt unless the shoots themselves are damaged.</p>
+        <p>But if the tubers are in the ground and already well rooted, digging and dividing them will lead to wilting of the foliage, just as it would with any plant similarly disturbed.</p>
+        <p>That said, plants divided in spring almost always recover. The same should hold for your dahlias as long as you keep them moist but not wet and withhold fertilizer until they have resumed fast growth.</p>
+        <p>Pussy Willow in a Pot</p>
+        <p>Q. The six pussy willow branches I bought in March were rooted in water, then planted in pots. I want to grow them in large planters until I move into a house, but do not yet know when or where that will be. How should I proceed?</p>
+        <p>A. Unless you have a sentimental attachment to the plants, you should proceed to give them to someone who has a place for them.</p>
+        <p>The pussy willows (Salix discolor and S. caprea) are not handsome enough for containers. When the early spring display is over, they are simply big straggly bushes with uninteresting leaves.</p>
+        <p>And as you have learned, willows are easy to root. You can create more when you find your house. But if that house has a small yard the landscape will be like a giant container, and you might prefer one of the many willows that look good all season long. Sources include Plant and Gnome, (304) 345-1282 or plantandgnome.com, and Forestfarm, (541) 846-7269 or forestfarm.com.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

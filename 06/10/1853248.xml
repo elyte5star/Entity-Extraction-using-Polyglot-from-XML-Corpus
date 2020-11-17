@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  MOSZKOWSKI, ENRIQUE, M.D., FACS</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853248"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MOSZKOWSKI, ENRIQUE, M.D., FACS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E2DA143AF933A25755C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  MOSZKOWSKI, ENRIQUE, M.D., FACS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MOSZKOWSKI--Enrique, M.D., FACS, of Buenos Aires, Argentina and New York, NY; died June 4, 2007, in New York, after a long illness. Dr. Moszkowski was born in Buenos Aires, Argentina on October 29, 1928, and graduated from the University of Buenos Aires School of Medicine in 1952. He came to the US with his wife, Dr. Erica Friedmann Moszkowski, in 1954 for further medical training, including a fellowship in his specialty, general surgery, at Boston's Lahey Clinic, and after a brief return to Argentina, settled permanently in Baltimore in the early 1960s. There they raised their family and conducted successful private medical practices. He became a Fellow of the American College of Surgeons in 1975. Widowed in 1984, Dr. Moszkowski lived in Paris for a time, later settling again in Buenos Aires while keeping a home in New York. He is survived by his son Guy and his wife, Sandra Pinnavaia; his son Neal and his wife Amanda Moszkowski; and loving grandchildren Erica, Jacob, Anastasia, Ethan, and Grey; all of New York. He is also survived by his longtime faithful companion, Maria Elena Demaria Massey. We all miss him terribly, and will remember him with love.</p>
+      </block>
+      <block class="full_text">
+        <p>MOSZKOWSKI--Enrique, M.D., FACS, of Buenos Aires, Argentina and New York, NY; died June 4, 2007, in New York, after a long illness. Dr. Moszkowski was born in Buenos Aires, Argentina on October 29, 1928, and graduated from the University of Buenos Aires School of Medicine in 1952. He came to the US with his wife, Dr. Erica Friedmann Moszkowski, in 1954 for further medical training, including a fellowship in his specialty, general surgery, at Boston's Lahey Clinic, and after a brief return to Argentina, settled permanently in Baltimore in the early 1960s. There they raised their family and conducted successful private medical practices. He became a Fellow of the American College of Surgeons in 1975. Widowed in 1984, Dr. Moszkowski lived in Paris for a time, later settling again in Buenos Aires while keeping a home in New York. He is survived by his son Guy and his wife, Sandra Pinnavaia; his son Neal and his wife Amanda Moszkowski; and loving grandchildren Erica, Jacob, Anastasia, Ethan, and Grey; all of New York. He is also survived by his longtime faithful companion, Maria Elena Demaria Massey. We all miss him terribly, and will remember him with love.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

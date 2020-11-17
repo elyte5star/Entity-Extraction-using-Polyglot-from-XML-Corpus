@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chawey Wu, Justin Burchett</title>
+    <meta content="10wu" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10wu.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853648"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Wu, Chawey</person>
+        <person class="indexing_service">Burchett, Justin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E6D61F30F933A25755C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chawey Wu, Justin Burchett</hl1>
+        <hl2 class="online_headline">Chawey Wu, Justin Burchett</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chawey Wu and Justin Burchett were married yesterday in New York. The Rev. Dr. Arnold Thomas, a minister of the United Church of Christ, performed the ceremony at the Riverside Church.</p>
+        <p>Ms. Wu, 33, is keeping her name. Until last month she was a vice president and security analyst at Marathon Asset Management, an investment advisory firm in New York. She graduated from Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Chawey Wu and Justin Burchett were married yesterday in New York. The Rev. Dr. Arnold Thomas, a minister of the United Church of Christ, performed the ceremony at the Riverside Church.</p>
+      </block>
+      <block class="full_text">
+        <p>Chawey Wu and Justin Burchett were married yesterday in New York. The Rev. Dr. Arnold Thomas, a minister of the United Church of Christ, performed the ceremony at the Riverside Church.</p>
+        <p>Ms. Wu, 33, is keeping her name. Until last month she was a vice president and security analyst at Marathon Asset Management, an investment advisory firm in New York. She graduated from Columbia.</p>
+        <p>She is the daughter of Ginger and Thomas Wu of Franklin Square, N.Y. Her father is a mechanical engineer at Fab-Con Machinery Development Corporation, a manufacturer of equipment for the textile industry in Port Washington, N.Y.</p>
+        <p>Mr. Burchett, 34, is a founding partner in New York of Structured Credit Holdings, a financial company based in Dublin that invests in derivatives and asset-backed securities. He graduated from Pomona College and received two graduate degrees from Stanford, a master's in economics and a doctorate in political science.</p>
+        <p>He is a son of Janet and John Burchett of Westfield, N.J. His father is the chief executive of Hanover Capital Mortgage Holdings, a real estate investment trust in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

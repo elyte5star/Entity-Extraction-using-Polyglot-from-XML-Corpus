@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>British Contractor Paid Saudi, Reports Say</title>
+    <meta content="08britain" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/world/europe/08britain.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852919"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Arms Sales Abroad</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <location class="indexing_service">Saudi Arabia</location>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">Bae Systems (Co)</org>
+        <org class="indexing_service">Bbc Worldwide</org>
+        <org class="indexing_service">Guardian (British Newspaper)</org>
+        <org class="indexing_service">Organization for Economic Cooperation and Development</org>
+        <person class="indexing_service">Cowell, Alan</person>
+        <person class="indexing_service">Bandar Bin Sultan (Prince)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arms Sales Abroad</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Great Britain</location>
+        <location class="online_producer">Saudi Arabia</location>
+        <person class="online_producer">Bin Sultan, Bandar</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDC1F30F93BA35755C0A9619C8B63" item-length="775" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>British Contractor Paid Saudi, Reports Say</hl1>
+        <hl2 class="online_headline">British Contractor Paid Saudi, Reports Say</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN COWELL</byline>
+      <byline class="normalized_byline">Cowell, Alan</byline>
+      <dateline>LONDON, June 7</dateline>
+      <abstract>
+        <p>Major British arms contractor BAE reportedly paid more than $2 billion clandestinely into bank accounts in Washington controlled by Prince Bandar bin Sultan of Saudi Arabia; BBC and The Guardian newspaper claim alleged payments were tied to major arms deal negotiated in 1985 and then worth 43 billion pounds; long-running controversy over arms deal is so sensitive and potentially disruptive to British-Saudi relations that British government canceled official inquiry last Dec into claims of corruption that have swirled around transaction; Prince Bandar, former ambassador to US and currently secretary general of Saudi National Security Council, issues statement 'categorically denying' receiving 'improper secret commissions' over arms deal; US is keeping close watch on developments in BAE case, concerned that cancellation of government inquiry contradicts antibribery convention overseen by Orgn for Economic Cooperation and Development; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A major British arms contractor paid more than $2 billion clandestinely into bank accounts in Washington controlled by Prince Bandar bin Sultan of Saudi Arabia, two British news organizations reported Thursday. Prince Bandar denied accepting ''improper secret commissions.''</p>
+        <p>The alleged payments by the contractor, BAE, were tied to a major arms deal negotiated in 1985 and then worth £43 billion, the BBC and the newspaper The Guardian said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An arms contractor paid more than $2 billion clandestinely into bank accounts controlled by Prince Bandar bin Sultan, British news organizations reported.</p>
+      </block>
+      <block class="full_text">
+        <p>A major British arms contractor paid more than $2 billion clandestinely into bank accounts in Washington controlled by Prince Bandar bin Sultan of Saudi Arabia, two British news organizations reported Thursday. Prince Bandar denied accepting ''improper secret commissions.''</p>
+        <p>The alleged payments by the contractor, BAE, were tied to a major arms deal negotiated in 1985 and then worth £43 billion, the BBC and the newspaper The Guardian said.</p>
+        <p>A long-running controversy over the arms deal has proved to be so sensitive and potentially disruptive to British-Saudi relations that the government canceled an official inquiry last December into the claims of corruption that have swirled around the transaction.</p>
+        <p>BAE denied acting illegally and said it acted with the approval of the authorities. ''The Al Yamamah program is a government-to-government agreement, and all such payments made under those agreements were made with the express approval of both the Saudi and U.K. governments,'' BAE said in a statement. ''We deny all allegations of wrongdoing in relation to this important and strategic program, and we will abide by the duty of confidentiality imposed on us by the government.''</p>
+        <p>The BBC and The Guardian said payments of up to £120 million (about $240 million) a year were made by BAE to Prince Bandar, the former ambassador to the United States, through two accounts for over a decade. The BBC said that its investigative ''Panorama'' program ''has established that these accounts were actually a conduit to Prince Bandar.''</p>
+        <p>''The purpose of one of the accounts was to pay the expenses of the prince's private Airbus,'' the BBC said.</p>
+        <p>Prince Bandar, currently the secretary general of the Saudi National Security Council, issued a statement on Thursday ''categorically denying'' receiving any ''improper secret commissions or backhanders'' over the Yamamah arms deal, Britain's Press Association reported. In December, Britain's Serious Fraud Office abruptly canceled an inquiry into alleged corruption in the Yamamah deal after government pressure. At that time, Prime Minister Tony Blair said the inquiry would prejudice Britain's diplomatic and intelligence ties with Saudi Arabia.</p>
+        <p>Speaking Thursday at the Group of 8 meeting in northern Germany, Mr. Blair said that if the investigation had gone ahead, it ''would have involved the most serious allegations in investigations being made into the Saudi royal family, and my job is to give advice as to whether that is a sensible thing in circumstances where I don't believe the investigation incidentally would have led anywhere, except to the complete wreckage of a vital strategic relationship for our country.''</p>
+        <p>Additionally, Mr. Blair said, ''We would have lost thousands, thousands of British jobs.''</p>
+        <p>The news reports about the arms deal revived calls among some lawmakers for the investigation to be restarted. ''These matters need to be properly investigated,'' said Roger Berry, the chairman of a parliamentary oversight committee. ''It's bad for British business, apart from anything else, if allegations of bribery popping around aren't investigated.''</p>
+        <p>The Ministry of Defense, said in news media reports to have been aware of the alleged payments to Prince Bandar, said it was ''unable to comment on these allegations since to do so would involve disclosing confidential information about Al Yamamah and that would cause the damage that ending the investigation was designed to prevent.''</p>
+        <p>Prince Bandar was long seen as influential in Washington, with more access to President Bush, his family and his administration than any other diplomat. His 22-year term as Saudi ambassador ended in 2005, but he still seemed to wield influence. But recently, Bush administration officials were puzzled over moves by King Abdullah of Saudi Arabia, Prince Bandar's uncle, seeming to contradict messages from the prince. In February, King Abdullah scuttled an Israeli-Palestinian summit meeting after assurances of Saudi support from Prince Bandar, and in April King Abdullah condemned the American role in Iraq as ''an illegal foreign occupation.''</p>
+        <p>The United States has kept a close watch on developments in the BAE case, concerned, according to American officials, that cancellation of the Serious Fraud Office's inquiry contradicts an antibribery convention overseen by the Paris-based Organization for Economic Cooperation and Development.</p>
+        <p>Jaclyn Lesch, a Justice Department spokeswoman, would neither confirm nor deny whether the department had opened its own investigation. The Justice Department would become involved if it were determined there was a possible violation of the Foreign Corrupt Practices Act, which forbids companies from making payments to foreign officials to win contracts.</p>
+        <p>''There would have to be some kind of U.S. nexus for us to bring charges,'' Ms. Lesch said. BAE is a British company but has an American subsidiary. David Foley, a State Department spokesman on Middle East issues, referred all questions to the British government.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

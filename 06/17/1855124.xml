@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lisa Koulish, Matthias Holdhoff</title>
+    <meta content="17koulish" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17koulish.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855124"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Koulish, Dr. Lisa Michelle (Dr. Lisa Michelle Holdhoff)</person>
+        <person class="indexing_service">Holdhoff, Dr. Matthias</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EEDB153FF934A25755C0A9619C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lisa Koulish, Matthias Holdhoff</hl1>
+        <hl2 class="online_headline">Lisa Koulish, Matthias Holdhoff</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Lisa Michelle Koulish, the daughter of Laura and Steven M. Koulish of Manhattan, was married yesterday to Dr. Matthias Holdhoff, the son of Dr. Ursel Holdhoff and Rainer Holdhoff of Hamburg, Germany. Rabbi Peter Schweitzer officiated at the Glen Island Harbour Club in New Rochelle, N.Y.</p>
+        <p>The bride, 28, recently completed the second year of a pediatrics residency at Children's National Medical Center in Washington. She graduated from Brown and received her medical degree from the Albert Einstein College of Medicine. Her father is a senior counsel in the Bronx for the New York City Law Department. Her mother is the music teacher at Public School 333, the Museum School, in the Bronx.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Lisa Michelle Koulish, the daughter of Laura and Steven M. Koulish of Manhattan, was married yesterday to Dr. Matthias Holdhoff, the son of Dr. Ursel Holdhoff and Rainer Holdhoff of Hamburg, Germany. Rabbi Peter Schweitzer officiated at the Glen Island Harbour Club in New Rochelle, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Lisa Michelle Koulish, the daughter of Laura and Steven M. Koulish of Manhattan, was married yesterday to Dr. Matthias Holdhoff, the son of Dr. Ursel Holdhoff and Rainer Holdhoff of Hamburg, Germany. Rabbi Peter Schweitzer officiated at the Glen Island Harbour Club in New Rochelle, N.Y.</p>
+        <p>The bride, 28, recently completed the second year of a pediatrics residency at Children's National Medical Center in Washington. She graduated from Brown and received her medical degree from the Albert Einstein College of Medicine. Her father is a senior counsel in the Bronx for the New York City Law Department. Her mother is the music teacher at Public School 333, the Museum School, in the Bronx.</p>
+        <p>The bridegroom, 32, is to begin an oncology fellowship at Johns Hopkins School of Medicine in July. He graduated from the Berlin University of the Arts and received his medical degree from the Free University of Berlin and a doctoral degree in medicine from Charité-University Medicine Berlin. His mother is a pediatrician in Hamburg. His father retired as a music and English teacher at Gymnasium Bramfeld, a high school in Hamburg.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yankees Weigh Their Options And Draft a Pitcher With Two</title>
+    <meta content="12pitcher" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/sports/baseball/12pitcher.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854012"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Venditte, Pat</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6D9173FF931A25755C0A9619C8B63" item-length="429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yankees Weigh Their Options And Draft a Pitcher With Two</hl1>
+        <hl2 class="online_headline">Yankees Weigh Their Options and Draft a Pitcher With Two</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN SCHWARZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the only ambidextrous pitcher in college baseball, Pat Venditte can choose which arm he throws with. But when it comes to professional baseball, he has only one immediate choice: the Yankees.</p>
+        <p>Venditte, who turned from curiosity to prospect in his eye-opening junior season at Creighton, was taken by the Yankees on Friday in the 45th round of Major League Baseball's first-year player draft.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The only ambidextrous pitcher in college baseball, Pat Venditte, was taken by the Yankees on Friday in the 45th round of Major League Baseball’s first-year player draft.</p>
+      </block>
+      <block class="full_text">
+        <p>As the only ambidextrous pitcher in college baseball, Pat Venditte can choose which arm he throws with. But when it comes to professional baseball, he has only one immediate choice: the Yankees.</p>
+        <p>Venditte, who turned from curiosity to prospect in his eye-opening junior season at Creighton, was taken by the Yankees on Friday in the 45th round of Major League Baseball's first-year player draft.</p>
+        <p>''You try to find people who are unique and special, like a left-handed-hitting catcher or a switch-hitting third baseman,'' the Yankees' scouting director, Damon Oppenheimer, said. ''When you've got somebody who's a switch-pitcher who can get people out, that's as unique as it can get. Let's take a shot.''</p>
+        <p>Venditte, a reliever, threw 43 2/3 consecutive scoreless innings during one stretch this spring. He went 8-2 over all and set a team record with a 1.88 earned run average, and he struck out 99 batters in 95 2/3 innings.</p>
+        <p>Throwing from 88 to 91 miles an hour as a right-hander and relying on a slower, sidearm slider as a left-hander, Venditte pitched with both arms in 30 of his 38 games this year. He recorded strikeouts from each side in 10 of them.</p>
+        <p>Only one pitcher has thrown with both arms in the major leagues since the 19th century. Greg Harris, a right-handed reliever for 15 seasons, threw left-handed and right-handed in an inning for the Montreal Expos on Sept. 28, 1995, right before he retired. Montreal allowed him to do it as a novelty. But Venditte is considered legitimately effective from both sides.</p>
+        <p>Venditte, 21, told teams before the draft that he preferred to return to Creighton for his senior season, so he dropped about 20 rounds from where his unique talent might have otherwise placed him, according to scouts. Oppenheimer said that rather than make a contract offer now to change his mind, the Yankees would evaluate how Venditte pitched this summer in the Northwoods League, a college-level league that uses wooden bats and can offer a clearer gauge of his professional potential.</p>
+        <p>The Yankees have until Aug. 15 to sign Venditte. Their scout responsible for evaluating Venditte, Steve Lemke, said that he would probably not rate him as a prospect from either side, but the two arms together made him too intriguing to pass up.</p>
+        <p>''When you combine the two, it's something we don't ever see,'' Lemke said. ''In the middle innings, you don't have to make a switch for someone to come in for a left-hander -- he can do it. He can really save a bullpen on a certain day.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Erase a Hard Drive: A Hammer Seems to Work</title>
+    <meta content="10computersnjNJ" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/nyregion/nyregionspecial2/10computersnj.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853575"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COMPUTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <location class="indexing_service">Willingboro (NJ)</location>
+        <location class="indexing_service">Ewing (NJ)</location>
+        <person class="indexing_service">Sartor, Doug</person>
+        <person class="indexing_service">Zegart, Dan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E7DD1F30F933A25755C0A9619C8B63" item-length="562" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Erase a Hard Drive: A Hammer Seems to Work</hl1>
+        <hl2 class="online_headline">How to Erase a Hard Drive: A Hammer Seems to Work</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN ZEGART</byline>
+      <byline class="normalized_byline">Zegart, Dan</byline>
+      <abstract>
+        <p>Doug Sartor, director of information technology for Willingboro, NJ, after learning that nearby Ewing Township auctioned off municipal computers with incompletely erased hard drives, says he smashes town's old computers with hammer; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER learning that nearby Ewing Township had been embarrassed by confidential information found on auctioned-off municipal computers with incompletely erased hard drives, Doug Sartor chuckled.</p>
+        <p>''How do I clean a hard drive?'' said Mr. Sartor, the director of information technology for Willingboro. ''I take it out to our parking lot and smash it. It's the only sure way I know of.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>AFTER learning that nearby Ewing Township had been embarrassed by confidential information found on auctioned-off municipal computers with incompletely erased hard drives, Doug Sartor chuckled.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER learning that nearby Ewing Township had been embarrassed by confidential information found on auctioned-off municipal computers with incompletely erased hard drives, Doug Sartor chuckled.</p>
+        <p>''How do I clean a hard drive?'' said Mr. Sartor, the director of information technology for Willingboro. ''I take it out to our parking lot and smash it. It's the only sure way I know of.''</p>
+        <p>Mr. Sartor said his erasure method of choice involved a wooden-handled hammer because he does not trust reformatting or erasure protocols. Even hard drives that have supposedly been thoroughly cleaned can still be reconstructed, he said.</p>
+        <p>That is what happened in Ewing, where a computer consultant hired by the township apparently thought he had deleted all memory from eight machines sold at a 2003 auction.</p>
+        <p>However, information -- including police investigative files and internal memos from elsewhere in government -- was retrieved from them by a computer expert, Steve Sredinski, and former state Senator Richard J. LaRossa and posted on a Web site in late May. Mr. LaRossa said he wanted to draw attention to the township's failure to dispose of the hard drives properly and to the police department's lack of a policy on Internet use.</p>
+        <p>The Web site has since been shut down, and the computers were returned Wednesday.</p>
+        <p>Because state law requires surplus municipal equipment to be donated to charity or sold at auction, any one of the state's 537 localities could face Ewing's predicament and the ensuing cascade of bad publicity.</p>
+        <p>Denise Rose, president of the New Jersey Municipal Management Association, said she was not aware of other cases similar to Ewing's in which municipal data was inadvertently disclosed. Some towns and cities try to erase data from their old hard drives, she said.</p>
+        <p>Yet despite the potential for dangerous breaches of confidentiality -- the names of police informants and rape victims are commonly on law enforcement hard drives -- the state provides no guidance on how to get rid of old municipal computers.</p>
+        <p>Chris Donnelly, a spokesman for the State Department of Community Affairs, called this a local decision. ''We do not have any regulations on this issue,'' he said in an e-mail message. ''Prudence and sound computer management principles should guide local officials in terms of disposal.''</p>
+        <p>Many municipalities cannot afford to hire a full-time information technology person, and, like Ewing, turn to private consultants, according to Jay Sklarow, executive vice president of United Computer in Cherry Hill, which provides computer services to about 100 municipalities in New Jersey and Pennsylvania.</p>
+        <p>Mr. Sklarow disagreed that a hard drive must be destroyed to ensure that its data cannot be retrieved. He said his company subjects computer memory to a ''Department of Defense wipe,'' named after the agency that endorses the technique, which involves reformatting the hard drive seven consecutive times, an expensive process.</p>
+        <p>The other favored method is to melt the drive or pass it through a special shredder, Mr. Sklarow said.</p>
+        <p>Mayor Jack Ball of Ewing, who noted that he was not in office at the time of what he called the infamous computer auction, said a fresh batch of old machines were auctioned off in March -- minus the hard drives.</p>
+        <p>He said the low-tech solution had won out over reformatting in the future. ''From now on we're going to physically destroy them,'' Mr. Ball said. ''And I would suppose that would be with a hammer.''</p>
+        <p>COMPUTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

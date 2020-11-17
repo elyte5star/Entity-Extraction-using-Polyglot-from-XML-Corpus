@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>You Hear Those People? They're Animals!</title>
+    <meta content="04crea" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/arts/television/04crea.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852115"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">CBS Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E4DF1130F937A35755C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>You Hear Those People? They're Animals!</hl1>
+        <hl2 class="online_headline">You Hear Those People? They’re Animals!</hl2>
+      </hedline>
+      <byline class="print_byline">By GINIA BELLAFANTE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Creature Comforts,'' a new stop-motion animation series on CBS, is from the British outfit that has given us the characters of Wallace and Gromit and the clever film ''Chicken Run.'' In the new show, clay animals with human voices make various observations about attraction, doctors -- life. It may seem an odd thing to say, but ''Creature Comforts'' reminds me in some tiny way of ''The Sopranos'' because just as it is always unfailingly funny when mob men and their coterie speak of ''Moby-Dick'' and the ''human condition,'' it makes you laugh when a fake pig, speaking as a middle-aged woman, talks about losing weight.</p>
+        <p>Based on a British show, ''Creature Comforts'' is a feat of audio editing. Its lines are taken from man-on-the-street interviews with hundreds of Americans. A British brain trust. Man-on-the-street-interviews. Ostensibly ordinary Americans. You know where this is going don't you?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“Creature Comforts” is an unusually snooty show for CBS even as it pretends to be something else.</p>
+      </block>
+      <block class="full_text">
+        <p>''Creature Comforts,'' a new stop-motion animation series on CBS, is from the British outfit that has given us the characters of Wallace and Gromit and the clever film ''Chicken Run.'' In the new show, clay animals with human voices make various observations about attraction, doctors -- life. It may seem an odd thing to say, but ''Creature Comforts'' reminds me in some tiny way of ''The Sopranos'' because just as it is always unfailingly funny when mob men and their coterie speak of ''Moby-Dick'' and the ''human condition,'' it makes you laugh when a fake pig, speaking as a middle-aged woman, talks about losing weight.</p>
+        <p>Based on a British show, ''Creature Comforts'' is a feat of audio editing. Its lines are taken from man-on-the-street interviews with hundreds of Americans. A British brain trust. Man-on-the-street-interviews. Ostensibly ordinary Americans. You know where this is going don't you?</p>
+        <p>The British continue to view us not with the greatest munificence. Though it displays far less aggression, ''Creature Comforts'' exists as a sort of affectionate ''Borat,'' making fun of unsophisticated Americans, as it leaves you feeling not quite as complicit in the exploitation. The animation spares you from all that; you're not looking at actual people saying silly things, after all. The voices are detached. What you are looking at is a hippopotamus hooked up to an I.V. device and complaining about medical care. (''It's always skinny girl who is going to weigh you in,'' the hippo says in a woman's voice. ''For sure. It's going to be some Ally McBeal looking girl who is going to weigh you.'')</p>
+        <p>''Creature Comforts,'' which makes its debut tonight, is an unusually snooty show for CBS even as it pretends to be something else. It plays to the knowing and deviously tries to keep you from believing you're a snob.</p>
+        <p>Creature Comforts  CBS, tonight at 8, Eastern and Pacific times; 7, Central time.</p>
+        <p>Kit Boss, Miles Bullough, Ellen Goldsmith-Vein, Nick Park, David Sproxton and Peter Lord, executive producers; Richard Goleszowski, supervising director. Produced by Aardman Animations Ltd.</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

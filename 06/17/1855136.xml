@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The N.B.A. Star</title>
+    <meta content="17wiwn" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855136"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE: WHAT I'M WEARING NOW"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DA153FF934A25755C0A9619C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The N.B.A. Star</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER TUNG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To friends and fans, Carmelo Anthony, a forward for the Denver Nuggets, is known as Melo.</p>
+        <p>''I do consider myself mellow,'' said Mr. Anthony, 23. ''But on the court, I'm not too laid-back.'' Hardly. In 2003, Mr. Anthony led Syracuse University to a National Collegiate Athletic Association title, joined the Nuggets after the National Basketball Association draft and became one of the league's top scorers. This year, he secured spots on the United States Olympic Team and the N.B.A. All-Star Team.</p>
+      </block>
+      <block class="full_text">
+        <p>To friends and fans, Carmelo Anthony, a forward for the Denver Nuggets, is known as Melo.</p>
+        <p>''I do consider myself mellow,'' said Mr. Anthony, 23. ''But on the court, I'm not too laid-back.'' Hardly. In 2003, Mr. Anthony led Syracuse University to a National Collegiate Athletic Association title, joined the Nuggets after the National Basketball Association draft and became one of the league's top scorers. This year, he secured spots on the United States Olympic Team and the N.B.A. All-Star Team.</p>
+        <p>At his Denver house, which has the sprawl of a brand-new college campus, Mr. Anthony plays a gentler position: father to his 3-month-old son, Kiyan, and fiancé to the MTV V.J. LaLa Vazquez.</p>
+        <p>''Fatherhood is more than I expected,'' he said. ''In the morning, I always have something to look forward to.''</p>
+        <p>Now that his season is over and he can spend time with Kiyan, Mr. Anthony has shelved his formal clothes (Louis Vuitton shirts, bespoke suits for his 6-foot-8 frame) for casual outfits like this: a Michael Jordan track jacket, Air Jordan sneakers, Red Monkey jeans, a baseball cap he bought at Shoe Gallery in Miami and a custom-made ''M'' pendant.</p>
+        <p>Mr. Anthony is in talks with Brand Jordan to design a line of urban clothing (he already has a sneaker, the Air Jordan Melo M3). ''I know what people want because I know what I'd want,'' he said. Does he want Kiyan to follow in his footsteps? ''I don't know,'' he said with a laugh. ''I joked to someone that I'll put a baseball, basketball and football in front of him and see which one he reaches for.''</p>
+        <p>JENNIFER TUNG</p>
+        <p>PULSE: WHAT I'M WEARING NOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

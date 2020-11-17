@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treat Cocaine for What It Is</title>
+    <meta content="17stylett-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855220"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3D7153FF934A25755C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treat Cocaine for What It Is</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Cocaine, Hidden in Plain Sight'' by Melena Ryzik (June 10):</p>
+        <p>The writer, as well as the clinical experts and club denizens she quotes, all miss a glaring truth about cocaine abuse. The legal system turns a blind eye to casual cocaine use because the users are part of an upscale, largely white, largely young population of social climbers. Crack users are perceived to be a largely poor, largely minority population with no social mobility.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Cocaine, Hidden in Plain Sight'' by Melena Ryzik (June 10):</p>
+        <p>The writer, as well as the clinical experts and club denizens she quotes, all miss a glaring truth about cocaine abuse. The legal system turns a blind eye to casual cocaine use because the users are part of an upscale, largely white, largely young population of social climbers. Crack users are perceived to be a largely poor, largely minority population with no social mobility.</p>
+        <p>Crack and cocaine are both identically pernicious drugs, and the legal system needs to either come down on both equally or decriminalize both equally, unless we want to continue to live in this corner of ''Two Americas.''</p>
+        <p>Steven Kolpan  West Hurley, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

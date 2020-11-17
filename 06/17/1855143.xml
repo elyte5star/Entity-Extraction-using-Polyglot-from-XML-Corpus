@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elain Calmon, Barry Waldman</title>
+    <meta content="17calmon" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17calmon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855143"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Calmon, Elain Nancy (Elain Nancy Waldman)</person>
+        <person class="indexing_service">Waldman, Barry Gene</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6DA153FF934A25755C0A9619C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elain Calmon, Barry Waldman</hl1>
+        <hl2 class="online_headline">Elain Calmon, Barry Waldman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elain Nancy Calmon and Barry Gene Waldman are to be married this evening by Rabbi Marcelo Bronstein at Water's Edge, a restaurant in Long Island City, Queens.</p>
+        <p>The bride, 32, is a marketing director at NBC Universal, in Manhattan. She graduated from the University of North Carolina.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elain Nancy Calmon and Barry Gene Waldman are to be married this evening by Rabbi Marcelo Bronstein at Water’s Edge, a restaurant in Long Island City, Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>Elain Nancy Calmon and Barry Gene Waldman are to be married this evening by Rabbi Marcelo Bronstein at Water's Edge, a restaurant in Long Island City, Queens.</p>
+        <p>The bride, 32, is a marketing director at NBC Universal, in Manhattan. She graduated from the University of North Carolina.</p>
+        <p>She is a daughter of Claudia and Leslie Calmon of Clearwater, Fla. Her parents work in Clearwater, where her father is a wood-veneer consultant for furniture manufacturers and veneer dealers, and her mother makes jewelry.</p>
+        <p>The bridegroom, 36, is a vice president for direct and interactive marketing strategy at a division of McCann Worldgroup, an advertising and communications unit of the Interpublic Group of Companies in Manhattan.</p>
+        <p>He is a son of Harriet and Benjamin Waldman of Livingston, N.J. His mother, who is retired, taught French at James Caldwell High School in West Caldwell, N.J. His father, also retired, was a mechanical engineer at Picatinny Arsenal, an Army weapons research and development center in New Jersey.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

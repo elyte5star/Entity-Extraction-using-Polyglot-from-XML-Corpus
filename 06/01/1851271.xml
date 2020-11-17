@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>City Considers Bigger Tax Cuts As Property Assessments Soar</title>
+    <meta content="01taxes" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/nyregion/01taxes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851271"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3D91530F932A35755C0A9619C8B63" item-length="478" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>City Considers Bigger Tax Cuts As Property Assessments Soar</hl1>
+        <hl2 class="online_headline">City Considers Bigger Tax Cuts as Property Assessments Soar</hl2>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA; Diane Cardwell contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Michael R. Bloomberg and City Council leaders are considering expanding property tax cuts that the mayor proposed in January to help property owners stave off the effects of soaring assessments, an administration official said yesterday.</p>
+        <p>The increase in tax relief of as much as 3.5 percentage points would come on top of a 5 percent cut the mayor proposed in his $59 billion budget plan. Some council members have called for broader cuts in light of the city's estimated $4.4 billion budget surplus.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The tax relief would come on top of a 5 percent cut Mayor Michael R. Bloomberg proposed in his $59 billion budget plan.</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Michael R. Bloomberg and City Council leaders are considering expanding property tax cuts that the mayor proposed in January to help property owners stave off the effects of soaring assessments, an administration official said yesterday.</p>
+        <p>The increase in tax relief of as much as 3.5 percentage points would come on top of a 5 percent cut the mayor proposed in his $59 billion budget plan. Some council members have called for broader cuts in light of the city's estimated $4.4 billion budget surplus.</p>
+        <p>The mayor had resisted those calls in favor of setting aside money to cover future budget gaps. But The New York Post reported yesterday that the mayor is considering increasing the tax cut to as much as 8.5 percent. The mayor declined to discuss the report yesterday, but an official, speaking on the condition of anonymity because formal budget negotiations with the City Council have yet to begin, confirmed that such a cut ''is in the mix.''</p>
+        <p>Asked about the proposal yesterday, Mr. Bloomberg said it was premature to discuss the issue because negotiations with the Council had not begun. ''We obviously would like to have no taxes, but that's not the real world,'' he said.</p>
+        <p>Adding a note of caution, Mr. Bloomberg said he did not want to leave his successor with the task of closing budget gaps that could lead to service reductions. ''We're going to act prudently,'' he said.</p>
+        <p>Council Speaker Christine C. Quinn and David I. Weprin, chairman of the Council's Finance Committee, declined to discuss the issue yesterday, citing the coming budget negotiations. But Mr. Weprin, a Democrat from Queens who has been a leading supporter of a deeper tax cut, told The Post that his goal was a tax cut large enough to offset rising assessments.</p>
+        <p>Mr. Bloomberg's budget calls for setting aside $750 million for the property tax cut in the fiscal year that begins in July. The average yearly tax bill for a condominium owner is $6,449, so a 5 percent cut would translate to $322 annually. The average tax bill on a house is $3,098, and a 5 percent cut would save $155.</p>
+        <p>Those cuts would increase to $548 for the condominium owner and to $263 for the homeowner if the tax cut were increased to 8.5 percent.</p>
+        <p>The Council's intention is said to be to soften the impact of rising property values, which will lead to higher tax bills for many property owners. According to the city's estimates, market values grew by 19 percent in 2006, double the increase of the previous year.</p>
+        <p>In addition to pushing for a larger tax cut, the Council wants to reduce the limit on how high assessments can increase in a year, officials said. Currently assessments cannot go up more than 6 percent a year for one-, two- and three-family homes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

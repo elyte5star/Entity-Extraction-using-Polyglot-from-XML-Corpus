@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Four Lane Highway</title>
+    <meta content="01roun-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851330"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">McCormick, Dylan</person>
+        <person class="indexing_service">Weller, Frederick</person>
+        <person class="indexing_service">Rogers, Reg</person>
+        <person class="indexing_service">Goodman, Greer</person>
+        <person class="indexing_service">Rodriguez, Elizabeth</person>
+        <object.title class="indexing_service">Four Lane Highway (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7D71530F932A35755C0A9619C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Four Lane Highway</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews film Four Lane Highway, directed by Dylan McCormick; Frederick Weller, Reg Rogers, Greer Goodman and Elizabeth Rodriguez star (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Dylan McCormick  Not rated; 100 minutes</p>
+        <p>The affable but dull ''Four Lane Highway'' stars Frederick Weller as Sean, a famous (dead) writer's son who became a writer himself but has been blocked for some time. He lives rent-free in his dad's spacious home, drinks to excess, picks up young women at the college where Dad used to teach and bops around town with his best friend, Lyle (Reg Rogers), a full-blown alcoholic.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Dylan McCormick  Not rated; 100 minutes</p>
+        <p>The affable but dull ''Four Lane Highway'' stars Frederick Weller as Sean, a famous (dead) writer's son who became a writer himself but has been blocked for some time. He lives rent-free in his dad's spacious home, drinks to excess, picks up young women at the college where Dad used to teach and bops around town with his best friend, Lyle (Reg Rogers), a full-blown alcoholic.</p>
+        <p>In a desperate bid to escape his rut, Sean drives to New York with Reg to win back a lost love, Molly (Greer Goodman), a painter. The film awkwardly switches between past and present, juxtaposing Sean and Molly's past relationship with Sean's attempts to rekindle it.</p>
+        <p>The title promises a four-character drama, the fourth being Molly's actress roommate, Sasha (Elizabeth Rodriguez). But the writer-director, Dylan McCormick, unwisely fixates on Sean, whose depressive inertia is both unexciting and psychologically pat.</p>
+        <p>The movie criminally neglects its liveliest characters, Reg and Sasha, whose foretold-by-the-stars hookup is delayed until the last possible second to make room for more scenes of Sean and Molly being blandly sensitive and morose. Ms. Rodriguez's and Mr. Rogers's hammy performances seem to be occurring in a different and much livelier movie.</p>
+        <p>MATT ZOLLER SEITZ</p>
+        <p>FILM IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

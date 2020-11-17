@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eve Herzog, Jack Robbins</title>
+    <meta content="17Herzog" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17Herzog.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855116"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Herzog, Eve Elana (Eve Elana Robbins)</person>
+        <person class="indexing_service">Robbins, John Lloyd</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEFDB153FF934A25755C0A9619C8B63" item-length="454" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eve Herzog, Jack Robbins</hl1>
+        <hl2 class="online_headline">Eve Herzog, Jack Robbins</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eve Elana Herzog and John Lloyd Robbins were married last evening at the Peter White Studios, a photo and film studio that is also an events space. Cantor Daniel Neiden officiated.</p>
+        <p>The couple graduated from Harvard, both magna cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Eve Elana Herzog and John Lloyd Robbins were married last evening at the Peter White Studios, a photo and film studio that is also an events space. Cantor Daniel Neiden officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Eve Elana Herzog and John Lloyd Robbins were married last evening at the Peter White Studios, a photo and film studio that is also an events space. Cantor Daniel Neiden officiated.</p>
+        <p>The couple graduated from Harvard, both magna cum laude.</p>
+        <p>The bride, 36, is a freelance writer and editor; she was an associate features editor at Harper's Bazaar from 2003 to 2005. She has three degrees in English literature from Columbia: a Master of Arts, a Master of Philosophy and a Ph.D.</p>
+        <p>She is the daughter of Eleanor W. Herzog and Dr. James M. Herzog of Brookline, Mass. Her father is a psychiatrist and psychoanalyst in private practice there and the senior scholar in child psychiatry at Children's Hospital Boston and Beth Israel Deaconess Medical Center, both teaching hospitals of Harvard Medical School. Her mother is a developmental psychologist and psychoanalyst in private practice in Brookline.</p>
+        <p>The bridegroom, 38, was until last week an associate at Robert A. M. Stern Architects in New York, where he managed a design team. Next month he is to become a studio director overseeing architectural projects in the New York office of SMWM, a San Francisco design firm. He has a master's degree in architecture from Yale.</p>
+        <p>He is a son of Dr. Anthony Robbins of Boston and the late Jennifer Lauterbach Robbins. His father is a professor of public health at Tufts University School of Medicine. His mother was the principal state attorney for the Maryland Department of Health and Mental Hygiene in Baltimore.</p>
+        <p>The couple traveled through Harvard on parallel paths, but they did not meet until both were long out of college.</p>
+        <p>''We had the exact same dorm room at Adams House, but we never lived there at the same time,'' the bride said, explaining that she had been a freshman when he was a senior.</p>
+        <p>But they had so many friends in common that when Mr. Robbins was about to celebrate his birthday in 2004, three different people asked her, ''Will I see you at Jack Robbins's birthday party this weekend?''</p>
+        <p>''By the third one,'' she said, ''I figured I was almost invited.'' So she crashed the party.</p>
+        <p>''When I came in, I said to one of those friends, 'Can you point Jack out to me?' I introduced myself to him and immediately trotted out my credentials listing all the people who could vouch for me. We ended up talking for half an hour, until his then-girlfriend came over to reclaim him.''</p>
+        <p>By the next year, Mr. Robbins no longer had the girlfriend, and he decided to track down Ms. Herzog. A year later they were engaged. But, she said, ''I did keep a pretty close eye on him at his next birthday party.''</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

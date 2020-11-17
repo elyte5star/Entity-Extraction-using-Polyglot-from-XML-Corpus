@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AstraZeneca's Finance Chief Is Leaving</title>
+    <meta content="07astrazeneca" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852717"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INTERNATIONAL BUSINESS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E3D81E30F934A35755C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AstraZeneca's Finance Chief Is Leaving</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIA WERDIGIER</byline>
+      <dateline>LONDON, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AstraZeneca, Britain's second-largest drug maker after GlaxoSmithKline, said on Wednesday that its chief financial officer was leaving to join to Goldman Sachs just months after it paid $15.2 billion to buy MedImmune.</p>
+        <p>Jon Symonds, who joined Zeneca from KPMG in 1997 and was instrumental to the $30 billion merger with Astra of Sweden a year later, will step down at the end of July and join Goldman Sachs, one of AstraZeneca's corporate brokers, as a managing director in London in September.</p>
+      </block>
+      <block class="full_text">
+        <p>AstraZeneca, Britain's second-largest drug maker after GlaxoSmithKline, said on Wednesday that its chief financial officer was leaving to join to Goldman Sachs just months after it paid $15.2 billion to buy MedImmune.</p>
+        <p>Jon Symonds, who joined Zeneca from KPMG in 1997 and was instrumental to the $30 billion merger with Astra of Sweden a year later, will step down at the end of July and join Goldman Sachs, one of AstraZeneca's corporate brokers, as a managing director in London in September.</p>
+        <p>Mr. Symonds was passed over more than a year ago in a race for chief executive at AstraZeneca, which appointed David Brennan, head of the American unit, to the post instead. His departure nevertheless surprised analysts, some of whom said that whoever succeeds Mr. Symonds would face the challenge of adding products through acquisitions to help the company's pipeline while avoiding spending too much.</p>
+        <p>''Investors weren't happy with what they paid for MedImmune, but they need to bring more products on board,'' said Tim Race, a pharmaceutical analyst at ING Markets in London.</p>
+        <p>The departure of Mr. Symonds comes as AstraZeneca is trying to regain the confidence of investors after some setbacks with experimental medicines and a drop in its stock price. Shares fell because of a debt rating cut in April by Fitch Ratings, related to the debt used to pay for MedImmune.</p>
+        <p>Goldman Sachs, which advised MedImmune on the sale to AstraZeneca, has counted AstraZeneca among its clients for years.</p>
+        <p>Mr. Symonds will join other prominent figures who have been hired by Goldman. Robert B. Zoellick, the former United States deputy secretary of state who has been nominated as the next president of the World Bank, joined in June 2006 as chairman of its international advisers group. Peter Sutherland, chairman of BP, and Mario Monti, the former European Union antitrust commissioner, are among Goldman's senior advisers.</p>
+        <p>INTERNATIONAL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taxes a Pleasure? Check the Brain Scan</title>
+    <meta content="19tier" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/science/19tier.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855632"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FINDINGS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Findings</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="descriptor">Brain</classifier>
+        <classifier class="online_producer" type="descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DE133FF93AA25755C0A9619C8B63" item-length="1116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taxes a Pleasure? Check the Brain Scan</hl1>
+        <hl2 class="online_headline">Taxes a Pleasure? Check the Brain Scan</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The University of Oregon announced a new piece of research last week with a startling headline: ''Paying taxes, according to the brain, can bring satisfaction.''</p>
+        <p>Could this be true? The research is in the new issue of Science, so it's got the right pedigree, but still. How could politicians have gotten it so wrong? Even the most liberal Democratic candidates never imagined a lot of voters whistling as they merrily write out checks to the I.R.S.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some economists have argued that there is no such thing as “pure altruism,” but a new study has spotted it in the brains of students.</p>
+      </block>
+      <block class="full_text">
+        <p>The University of Oregon announced a new piece of research last week with a startling headline: ''Paying taxes, according to the brain, can bring satisfaction.''</p>
+        <p>Could this be true? The research is in the new issue of Science, so it's got the right pedigree, but still. How could politicians have gotten it so wrong? Even the most liberal Democratic candidates never imagined a lot of voters whistling as they merrily write out checks to the I.R.S.</p>
+        <p>Before any campaign strategists start poring over brain-scan data in the paper, let me temper the happy news. First, this study did not exactly involve a nationally representative sample of taxpayers. The sample consisted of 19 female students at the University of Oregon. And they were not exactly paying taxes as the T-word is understood on the campaign trail.</p>
+        <p>It is a fascinating bit of research,  not so much for its political implications but for what it reveals about humans' compulsion to be nice.  We preach altruism to our children and occasionally even practice it ourselves. Viewers of ''American Idol'' weren't surprised to see even Simon Cowell sounding like Albert Schweitzer when he visited sick children in Africa; we expect at least a show of altruism from everyone.</p>
+        <p>We are so convinced of our goodness that we recoil at the philosophers and social scientists who have come up with less uplifting explanations for our behavior. (What is it with these nasty academics?)</p>
+        <p>Kant considered acts motivated by sympathy as not praiseworthy,  because they make the do-gooder feel better. Psychologists have similarly argued that ''empathy altruism'' is ultimately selfish, because of the emotional benefits it provides to the giver.</p>
+        <p>The sociobiologist Robert Trivers worked out the mathematics of ''reciprocal altruism,''  whereby our urge  to be nice  ultimately serves  to propagate our genes by inducing others to cooperate with us. If you know that even Simon Cowell cannot help being altruistic, you are more inclined to give him help when he desperately needs it.</p>
+        <p>Some economists have attributed altruism to the ''warm glow'' effect -- the pleasurable feeling of  playing Lady Bountiful and basking in public admiration.  They've  argued that there is no such thing as ''pure altruism.'' But now the pure variety has been spotted in the brains of students, at least according to the new paper by a psychologist, Ulrich Mayr, and two economists, William T. Harbaugh and Daniel R. Burghart, all at the University of Oregon.</p>
+        <p>Their experiment was drawn up to remove some of the usual incentives for being charitable like the fear of looking stingy or the prestige of being named in the program of a charity dinner. Each student was given $100 and told that nobody would know how much of it she chose to keep or give away, not even the researchers who enlisted her in the experiment and scanned her brain. Payoffs were recorded on a portable memory drive that the students took to a lab assistant, who then paid the students in cash and mailed donations to charity without knowing who had given what.</p>
+        <p>The brain responses were measured by a functional M.R.I. machine as a series of transactions occurred. Sometimes  the student had to choose whether  to donate some of her cash to a local food bank. Sometimes a tax was levied that sent her money to the food bank without her approval. Sometimes she received extra money, and sometimes the food bank received money without any of it coming from her.</p>
+        <p>Sure enough, when the typical student chose to donate to the food bank, she was rewarded with that warm glow:  increased activity in the same ancient areas of the brain  -- the caudate, nucleus accumbens and insula  -- that respond when you eat a sweet dessert or receive money. But these pleasure centers were also activated, albeit not as much, when she was forced to pay a tax to the food bank.</p>
+        <p>This doesn't mean that the student, or anyone else, would necessarily enjoy writing a check to the Internal Revenue Service that would be spent on plenty of programs less appealing than a food bank. It is more like the tax collected by a state lottery that dedicates its profits to schools.  (And you can see why the lotteries work so well on the brain -- they are stimulating greed and altruism at the same time.)</p>
+        <p>But the results do bolster the case for ''pure altruism,'' because the student paying the tax could not take personal credit for  deciding to feed the hungry. In real life, she might get a warm glow  by voting for a candidate who promised higher taxes to help the needy, but in this experiment she did not make any choice at all.</p>
+        <p>''The most surprising result is that these basic pleasure centers in the brain don't respond only to what's good for yourself,'' said Dr. Mayr,</p>
+        <p>the psychologist. ''They also  seem to be tracking what's good for other people, and this occurs  even when the subjects don't have a say in what happens.''</p>
+        <p>Dr. Harbaugh, one of the economists, said the results did not resolve the debate over whether to help the needy with public programs or private charity. ''There's something for both sides here,'' he said. ''We're showing that paying taxes does produce a neural reward. But we're showing that the neural reward is even higher when you have voluntary giving.''</p>
+        <p>Of course, not everyone receives the same neural rewards from giving. The researchers divided their subjects into ''egoists'' and ''altruists,'' according to whether their brains registered more pleasure receiving money themselves or more pleasure watching money go to the charity.</p>
+        <p>There were almost equal numbers of egoists and altruists, and their brain scans correlated with their altruistic behavior. The altruists chose to donate $20 on average,  while the egoists gave just $11. Unfortunately, the researchers did not ask the students in either group for their political preferences, so we cannot even begin to speculate who is stingier, Democrats or Republicans.</p>
+        <p>The most intriguing results were the ones from two of the experimental subjects,  students whose brain scans made them definite egoists yet who were also among the most generous in donating.  You could dismiss them as statistical outliers, but I like to think we have finally spotted  the creature dismissed by so many scholars as myth.</p>
+        <p>These two women enjoyed no neural reward from charity -- their brains didn't get enough of a warm glow to compensate for the pain of parting with their money -- yet they made anonymous donations anyway. Diogenes, we may not have found an honest man, but we do seem to have located a couple of true altruists. Either that or two determined masochists.</p>
+        <p>FINDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

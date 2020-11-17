@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Little Bit Country, A Little Bit Jersey</title>
+    <meta content="07RUNWAY" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/fashion/07RUNWAY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852646"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Life as a Runway"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFDC1E30F934A35755C0A9619C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Little Bit Country, A Little Bit Jersey</hl1>
+        <hl2 class="online_headline">A Little Bit Country, a Little Bit Jersey</hl2>
+      </hedline>
+      <byline class="print_byline">By RUTH LA FERLA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE prospect of rocking to Li'l Anne and Hot Cayenne and savoring boiled crayfish and grilled alligator sausage sent visitors in streams last week to Michael Arnone's Crawfish Festival, where they peeled off their shirts -- and their citified ways. The crowd at the Sussex County Fairgrounds in Augusta, N.J., swapped a buttoned-down style for one best described as country-festive, showing off straw hats, riotously colorful bandanas and meadow-sweeping patchwork skirts.</p>
+        <p>The unseasonably sultry day prompted men to strip to their dungarees, their air-cooled look accented with beads, snap-brim, and baroque tattoos -- or, in the case of Jayde Gouveia-Hernandez (below), a set of dreds lovingly tended with beeswax.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What do city folk wear to eat alligator sausage?</p>
+      </block>
+      <block class="full_text">
+        <p>THE prospect of rocking to Li'l Anne and Hot Cayenne and savoring boiled crayfish and grilled alligator sausage sent visitors in streams last week to Michael Arnone's Crawfish Festival, where they peeled off their shirts -- and their citified ways. The crowd at the Sussex County Fairgrounds in Augusta, N.J., swapped a buttoned-down style for one best described as country-festive, showing off straw hats, riotously colorful bandanas and meadow-sweeping patchwork skirts.</p>
+        <p>The unseasonably sultry day prompted men to strip to their dungarees, their air-cooled look accented with beads, snap-brim, and baroque tattoos -- or, in the case of Jayde Gouveia-Hernandez (below), a set of dreds lovingly tended with beeswax.</p>
+        <p>Women complemented tank tops and swirling skirts with ruby pumps and visor caps. Autumn and Alison Davidson (below right), bought caps at the fairgrounds, flipping them sideways because, as Alison, right, explained, ''that's gangsta style.''</p>
+        <p>Life as a Runway</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

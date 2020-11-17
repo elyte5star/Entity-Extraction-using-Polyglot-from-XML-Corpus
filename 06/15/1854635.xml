@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Czech Dream</title>
+    <meta content="15roun-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854635"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Holden, Stephen</person>
+        <person class="indexing_service">Klusak, Vit</person>
+        <person class="indexing_service">Remunda, Filip</person>
+        <object.title class="indexing_service">Czech Dream (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews/By Stephen Holden</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4DC153FF936A25755C0A9619C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Czech Dream</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+      <abstract>
+        <p>Stephen Holden reviews Vit Klusak and Filip Remunda documentary film Czech Dream (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Vit Klusak and Filip Remunda  In Czech, with English subtitles  Not rated; 87 minutes</p>
+        <p>Maybe you have to have been brought up in a formerly Communist country to recognize and fully appreciate what might be called capitalist propaganda. What does it mean? It entails promoting a starry-eyed shop-till-you-drop ethos in a population accustomed to deprivation. How easy that appetite is to stimulate is demonstrated in the cheeky documentary ''Czech Dream,'' whose creators, Vit Klusak and Filip Remunda, two students at the Prague Film Academy, used state money to stage an elaborate hoax.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Vit Klusak and Filip Remunda  In Czech, with English subtitles  Not rated; 87 minutes</p>
+        <p>Maybe you have to have been brought up in a formerly Communist country to recognize and fully appreciate what might be called capitalist propaganda. What does it mean? It entails promoting a starry-eyed shop-till-you-drop ethos in a population accustomed to deprivation. How easy that appetite is to stimulate is demonstrated in the cheeky documentary ''Czech Dream,'' whose creators, Vit Klusak and Filip Remunda, two students at the Prague Film Academy, used state money to stage an elaborate hoax.</p>
+        <p>They mounted an expensive advertising campaign trumpeting the 2003 grand opening in Prague of a fictitious new hypermarket (a kind of Wal-Mart plus). Called the Czech Dream, it promised all the usual wonders: unbelievably low prices, free gifts for the first customers and the fantasy of finding everything you ever wanted in one place. They went so far as to erect a 100-foot store facade in front of scaffolding at the far end of a large meadow.</p>
+        <p>Consumers invited to submit names for the store came up with Amore, Harmony, Easy Life, Oneness and Cornucopia. A soggy, incessantly heard ''We Are the World''-style theme song declared, ''The world is yours, so take it.'' The filmmakers were groomed to look like executives. A cynical young Czech compares the concept of the Czech Dream to the ceiling of the Sistine Chapel, which he calls ''a paid advertisement, a mega-billboard stating that God is great.'' The most ingenious part of the campaign was to whet consumer appetites by daring people not to come.</p>
+        <p>But come they do: a herd of 2,000 charging across the meadow to purchase a piece of the dream. When they discover they've been made fools of, they accept this performance event with surprising equanimity. There is a lot of grumbling but no riot. They get the joke.</p>
+        <p>STEPHEN HOLDEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

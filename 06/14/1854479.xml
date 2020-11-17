@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | Connecticut: New Haven: Yale Buying Research Site</title>
+    <meta content="14mbrfs-8" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14mbrfs-bayer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854479"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <org class="online_producer">Yale University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7D7143FF937A25755C0A9619C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | Connecticut: New Haven: Yale Buying Research Site</hl1>
+        <hl2 class="online_headline">New Haven: Yale Buying Research Site</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yale University said yesterday that it was acquiring the Bayer HealthCare complex in West Haven and Orange, about seven miles from its main campus in New Haven. Bayer announced in November that it was leaving the 136-acre site, where it conducted research and had its headquarters. When efforts to find another pharmaceutical company to take over the property failed, it was put up for auction. Yale was the winner, but declined to disclose the price. Richard C. Levin, Yale's president, said the acquisition would enable the university to accelerate its science research program.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Yale University said that it was acquiring the Bayer HealthCare complex in West Haven and Orange, about seven miles from its main campus in New Haven.</p>
+      </block>
+      <block class="full_text">
+        <p>Yale University said yesterday that it was acquiring the Bayer HealthCare complex in West Haven and Orange, about seven miles from its main campus in New Haven. Bayer announced in November that it was leaving the 136-acre site, where it conducted research and had its headquarters. When efforts to find another pharmaceutical company to take over the property failed, it was put up for auction. Yale was the winner, but declined to disclose the price. Richard C. Levin, Yale's president, said the acquisition would enable the university to accelerate its science research program.</p>
+        <p>KAREN W. ARENSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

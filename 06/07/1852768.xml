@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prudential Financial to Close Research Unit</title>
+    <meta content="07prudential" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/business/07prudential.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852768"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reform and Reorganization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">Prudential Financial Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFD71E30F934A35755C0A9619C8B63" item-length="431" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prudential Financial to Close Research Unit</hl1>
+        <hl2 class="online_headline">Prudential Financial to Close Research Unit</hl2>
+      </hedline>
+      <byline class="print_byline">By ANGEL JENNINGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prudential Financial has been trying for years to figure out what to do with its small, struggling equity research and sales business. Yesterday, the company said it had decided to shut the operation.</p>
+        <p>About 420 people will be laid off, with most of the cuts coming in New York. Offices will also be closing in Zurich, Paris and Tokyo as well as several in the United States.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>About 420 people will be laid off, with most of the cuts coming in New York. International offices will also close.</p>
+      </block>
+      <block class="full_text">
+        <p>Prudential Financial has been trying for years to figure out what to do with its small, struggling equity research and sales business. Yesterday, the company said it had decided to shut the operation.</p>
+        <p>About 420 people will be laid off, with most of the cuts coming in New York. Offices will also be closing in Zurich, Paris and Tokyo as well as several in the United States.</p>
+        <p>The unit, the Prudential Equity Group, sold research reports about stocks, the economy and politics and offered securities trading to domestic and international institutional customers.</p>
+        <p>The company, based in Newark, had been downsizing and restructuring the division for years, dabbling in investment banking and the retail brokerage sector, which could support the research and trading operations. But the division never found its niche, and the company exited investment banking and retail brokerage, leaving research and sales as a corporate orphan.</p>
+        <p>Last year, it had $260 million in revenue, a small chunk of the $32.49 billion the company had in overall sales.</p>
+        <p>''We were not able to reach the scale we wanted to in the long term,'' said Theresa Miller, a Prudential spokeswoman. ''The company couldn't get as large as we wanted, and we didn't see significant growth in the future.''</p>
+        <p>Prudential estimates that closing the division will cost $110 million, including $75 million in severance packages and other employee-related costs. The company said it would record the costs in this quarter.</p>
+        <p>Shares of Prudential fell $1.11, or 1.1 percent, to $99.46.</p>
+        <p>Prudential joined the securities business in 1981 when it purchased Bache Halsey Stuart Shields, which it renamed Prudential-Bache Securities and later just Prudential Securities. The company shut its investment banking operation in 2000, and the division adopted its current name after it sold a majority of its retail brokerage business to Wachovia Securities in 2003.</p>
+        <p>Speculation had emerged recently that Prudential was seeking a buyer for Prudential Equity.</p>
+        <p>The unit struggled to compete with larger companies like Goldman Sachs and Merrill Lynch as the equity research business became more competitive and less profitable. Large overhead expenses, costs it once shared with the profitable brokerage business, weighed down the relatively small division's profit, said Jeffrey Schuman, an analyst at Keefe, Bruyette &amp; Woods.</p>
+        <p>''Prudential Equity Group only brought in 1 percent of the company's revenue,'' he said. ''It was not a core part of their business, so it was pretty logical to get out.''</p>
+        <p>Last year, Prudential agreed to pay $600 million in fines and reimbursement after the Securities and Exchange Commission accused the brokerage division of inappropriate mutual fund trading.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

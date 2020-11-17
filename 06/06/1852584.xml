@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>20 Taliban Reported Drowned as NATO Sinks Boat</title>
+    <meta content="06afghan" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/world/asia/06afghan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852584"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <location class="indexing_service">Helmand River (Afghanistan)</location>
+        <location class="indexing_service">Kandahar Province (Afghanistan)</location>
+        <org class="indexing_service">North Atlantic Treaty Organization</org>
+        <org class="indexing_service">Taliban (Afghan Group)</org>
+        <person class="indexing_service">Wafa, Abdul Waheed</person>
+        <person class="indexing_service">Dadullah (Mullah)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <org class="online_producer">Taliban</org>
+        <org class="online_producer">North Atlantic Treaty Organization</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6DC1E30F935A35755C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>20 Taliban Reported Drowned as NATO Sinks Boat</hl1>
+        <hl2 class="online_headline">30 Taliban Reported Drowned as NATO Sinks Boat</hl2>
+      </hedline>
+      <byline class="print_byline">By ABDUL WAHEED WAFA</byline>
+      <byline class="normalized_byline">Wafa, Abdul Waheed</byline>
+      <dateline>KABUL, Afghanistan, June 5</dateline>
+      <abstract>
+        <p>Afghan Defense Ministry reports that NATO helicopter fired on boat full of fleeing Taliban fighters after receiving fire from gunmen on vessel; says boat sank and between 20 and 30 guerrillas drowned in Helmand River; heavy fighting is reported elsewhere, with Afghan troops ambushed in Kandahar Province; member of Taliban says one of five Afghan health workers kidnapped two months ago was beheaded because Afghan officials refused to hand over body of Taliban commander Mullah Dadullah, who was killed last month (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Afghan Defense Ministry said Tuesday that a boat full of fleeing Taliban fighters had been fired upon by NATO helicopters and sunk in the Helmand River, in southern Afghanistan. All on board, between 20 and 30 guerrillas, drowned, said Gen. Zaher Azimi, a ministry spokesman.</p>
+        <p>It was the second sinking on the river reported in recent days. Another boat, carrying about 60 people, sank Saturday in the same area, although there were conflicting reports as to whether those aboard had been civilians or Taliban fighters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Afghan Defense Ministry said that a boat full of fleeing Taliban fighters had been fired upon by NATO helicopters and sunk in the Helmand River.</p>
+      </block>
+      <block class="full_text">
+        <p>The Afghan Defense Ministry said Tuesday that a boat full of fleeing Taliban fighters had been fired upon by NATO helicopters and sunk in the Helmand River, in southern Afghanistan. All on board, between 20 and 30 guerrillas, drowned, said Gen. Zaher Azimi, a ministry spokesman.</p>
+        <p>It was the second sinking on the river reported in recent days. Another boat, carrying about 60 people, sank Saturday in the same area, although there were conflicting reports as to whether those aboard had been civilians or Taliban fighters.</p>
+        <p>General Azimi said that in Tuesday's episode, NATO helicopters had fired on the boat after receiving fire from gunmen on the vessel.</p>
+        <p>He also reported heavy fighting elsewhere. Afghan troops were ambushed in Kandahar Province, also in southern Afghanistan. The soldiers called in airstrikes that killed an estimated 20 to 40 of the Taliban, General Azimi said. Two Afghan soldiers were killed and three others wounded over 24 hours, he added.</p>
+        <p>A member of the Taliban said one of five Afghan health workers kidnapped two months ago had been beheaded because Afghan officials refused to hand over the body of the Taliban commander Mullah Dadullah, who was killed last month. His body was shown to journalists in Kandahar and he was then buried in a secret location in the city, said Asadullah Khaled, the provincial governor.</p>
+        <p>Afghan officials said that they could not confirm the report of the beheading, but that they were ready to hand over Mullah Dadullah's body to his relatives without any conditions.</p>
+        <p>Two roadside bombs exploded on the outskirts of the city of Kandahar on Tuesday evening. One bomb was apparently aimed at a passing vehicle of the National Security Directorate, the other at a vehicle from the Iranian Consulate in Kandahar. Both bombs missed their mark, said Muhammad Ebrahim, a police officer, and no casualties were reported.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

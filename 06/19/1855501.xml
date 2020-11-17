@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Visual Side of Science</title>
+    <meta content="19lett-1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855501"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4D8123FF93AA25755C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Visual Side of Science</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''She Calls It 'Phenomena.' Everyone Else Calls It Art,'' (June 12): Scientific visualization may indeed clarify ideas that are otherwise difficult to explain. For researchers working at the frontiers of science, this has yielded key insights and important advances in molecular biology, computational fluid mechanics, and industrial design.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''She Calls It 'Phenomena.' Everyone Else Calls It Art,'' (June 12): Scientific visualization may indeed clarify ideas that are otherwise difficult to explain. For researchers working at the frontiers of science, this has yielded key insights and important advances in molecular biology, computational fluid mechanics, and industrial design.</p>
+        <p>But the rush to visual thinking has not penetrated well to basic science, where aspiring chemists, physicists and engineers wrestle with equally difficult concepts but must often use the learning tools of the past. Designers of visualization methods are more attracted to the glamour and profit of research than to the classical academic classroom, so that the benefits of vision-based understanding accrue to very few.</p>
+        <p>At a time when science generally is clamoring to attract and retain students, this is a disturbing imbalance. Educators should ''seize the moment,'' as so beautifully shown by Felice Frankel's work, and demand teaching tools that encourage visual thought. The old cliché still applies, as expressed cleverly by Cornell graphics pioneer Donald Greenberg: ''A picture is worth 1,024 words.''</p>
+        <p>Kenneth R. Jolls</p>
+        <p>Ames, Iowa</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

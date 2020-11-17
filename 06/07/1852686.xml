@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Deranged' Man Hurls Himself at Pope, Who Seems Unfazed</title>
+    <meta content="07pope" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/world/europe/07pope.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852686"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <person class="indexing_service">Benedict Xvi (Pope)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Rome</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Popes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Popes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <location class="online_producer">Rome (Italy)</location>
+        <person class="online_producer">Benedict XVI</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0D91E30F934A35755C0A9619C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Deranged' Man Hurls Himself at Pope, Who Seems Unfazed</hl1>
+        <hl2 class="online_headline">‘Deranged’ Man Hurls Himself at Pope, Who Seems Unfazed</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <dateline>ROME, June 6</dateline>
+      <abstract>
+        <p>Unidentified man springs over barricade and lunges toward uncovered popemobile carrying Pope Benedict XVI; security guards quickly subdue man, who is questioned by Vatican police and taken to psychiatric institution for evaluation; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man the Vatican described as ''clearly deranged'' sprang over a barricade on Wednesday and landed a yard or so behind a waving Pope Benedict XVI as he rode in an uncovered popemobile through crowds at St. Peter's Square.</p>
+        <p>The 80-year-old pope did not seem to notice as his security guards quickly subdued the man, a 27-year-old German who appeared to hold briefly onto the rear of the white vehicle. The Rev. Federico Lombardi, the pope's spokesman, said the man, wearing shorts, sunglasses and a baseball cap, was not armed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The man, who was not identified, was questioned by the Vatican police and taken to a psychiatric institution for evaluation.</p>
+      </block>
+      <block class="full_text">
+        <p>A man the Vatican described as ''clearly deranged'' sprang over a barricade on Wednesday and landed a yard or so behind a waving Pope Benedict XVI as he rode in an uncovered popemobile through crowds at St. Peter's Square.</p>
+        <p>The 80-year-old pope did not seem to notice as his security guards quickly subdued the man, a 27-year-old German who appeared to hold briefly onto the rear of the white vehicle. The Rev. Federico Lombardi, the pope's spokesman, said the man, wearing shorts, sunglasses and a baseball cap, was not armed.</p>
+        <p>''He was clearly deranged but did not want to kill or harm the pope,'' Father Lombardi told reporters. ''He only wanted to draw attention to himself.''</p>
+        <p>The man, who was not identified, was questioned by the Vatican police and taken to a psychiatric institution for evaluation, Father Lombardi said.</p>
+        <p>It was the first security episode involving Benedict, who was elected two years ago, and it happened on the same square where Pope John Paul II was shot and seriously wounded in 1981 by a Turkish gunman, Mehmet Ali Agca.</p>
+        <p>Security for Benedict was tightened after a flood of death threats following a speech he gave in Germany last year that many Muslims said had insulted Islam.</p>
+        <p>Still, the pope regularly makes a tour of St. Peter's Square in his car when he holds his weekly public audience outside. On trips outside the Vatican, he normally travels behind bulletproof glass.</p>
+        <p>On Wednesday the square held at least 30,000 people, waving and cheering as the pope passed, standing beside his seated secretary, Msgr. Georg Gänswein.</p>
+        <p>The German man leapt over a wooden barrier slightly behind Benedict, and neither the pope nor the driver appeared to notice as the tour of the crowd continued normally.</p>
+        <p>Guests at the Wednesday audience must pass police checkpoints, and some are scanned with metal detectors. Tickets are nominally required, but most visitors to the popular public audiences are permitted inside the cordoned square.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

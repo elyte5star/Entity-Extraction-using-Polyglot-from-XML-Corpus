@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jennifer Reid, Luis Andrade</title>
+    <meta content="03reid" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03reid.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851866"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Reid, Jennifer Jermond</person>
+        <person class="indexing_service">Marquez, Luis Bolivar Andrade</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3DE1230F930A35755C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jennifer Reid, Luis Andrade</hl1>
+        <hl2 class="online_headline">Jennifer Reid, Luis Andrade</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jennifer Jermond Reid and Luis Bolivar Andrade Marquez were married last evening at Preservation Park in Oakland, Calif. Samuel A. Dexter, a friend of the couple who was appointed as a deputy marriage commissioner by Alameda County, officiated.</p>
+        <p>Ms. Reid, 37, is keeping her name. She is beginning study this month for a master's degree in education at the University of California, Berkeley. Until last month, she was the office manager, in Concord, Calif., for the Taubman Company, a real estate investment trust based in Bloomfield Hills, Mich. She graduated from Brown.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jennifer Jermond Reid and Luis Bolivar Andrade Marquez were married last evening at Preservation Park in Oakland, Calif. Samuel A. Dexter, a friend of the couple who was appointed as a deputy marriage commissioner by Alameda County, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Jennifer Jermond Reid and Luis Bolivar Andrade Marquez were married last evening at Preservation Park in Oakland, Calif. Samuel A. Dexter, a friend of the couple who was appointed as a deputy marriage commissioner by Alameda County, officiated.</p>
+        <p>Ms. Reid, 37, is keeping her name. She is beginning study this month for a master's degree in education at the University of California, Berkeley. Until last month, she was the office manager, in Concord, Calif., for the Taubman Company, a real estate investment trust based in Bloomfield Hills, Mich. She graduated from Brown.</p>
+        <p>The bride is a daughter of Danielle E. Reid of Sea Bright, N.J., and Thomas H. Reid of Rumson, N.J. Her father, who is retired, worked in New York as the director of property management at LCOR, a real estate development firm based in Berwyn, Pa. Her mother is a vice president and a trust officer at the Provident Bank in Morristown, N.J.</p>
+        <p>Mr. Andrade, 39, is in charge of product licensing in the South San Francisco, Calif., office of Acronis, a software company in Burlington, Mass. He graduated from Columbia.</p>
+        <p>The bridegroom is a son of Feliciana R. Andrade of Massapequa, N.Y., and the late Guillermo B. Andrade. His father was a cabinet maker in Guayaquil, Ecuador.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

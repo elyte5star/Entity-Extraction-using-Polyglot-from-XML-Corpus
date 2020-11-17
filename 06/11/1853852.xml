@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Truth About Corn</title>
+    <meta content="11empire-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853852"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DC173FF932A25755C0A9619C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Truth About Corn</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS CONFESSORE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lawmakers waded into the treacherous terrain of botany last week.</p>
+        <p>Earlier this year, Senator Michael F. Nozzolio, an upstate Republican, introduced legislation that would make sweet corn the state vegetable. (The bill originated as a class project by students at the Dana L. West High School in Port Byron, N.Y.)</p>
+      </block>
+      <block class="full_text">
+        <p>Lawmakers waded into the treacherous terrain of botany last week.</p>
+        <p>Earlier this year, Senator Michael F. Nozzolio, an upstate Republican, introduced legislation that would make sweet corn the state vegetable. (The bill originated as a class project by students at the Dana L. West High School in Port Byron, N.Y.)</p>
+        <p>But when the bill came up for debate in the Senate on Tuesday, it quickly earned the disapproval of Senator Martin Connor, a Brooklyn Democrat.</p>
+        <p>''As everyone knows, corn is a grain,'' he said. ''And I would propose that we make sweet corn the New York State official grain.''</p>
+        <p>Mr. Connor added that, having once been to the Sauerkraut Festival in Phelps, N.Y. -- ''the sauerkraut capital of the United States,'' by his reckoning -- ''I would propose we make the cabbage the state vegetable.''</p>
+        <p>Technically, Mr. Connor is correct, said Marvin P. Pritts, chairman of the department of horticulture at Cornell University.</p>
+        <p>''The criteria is whether it comes from the reproductive part of a plant or the vegetative part of the plant,'' Dr. Pritts said. ''If it comes from the reproductive part of the plant, it's a fruit. If it comes from the vegetative part of the plant, it's a vegetable.''</p>
+        <p>Botanically speaking, corn is a caryopsis, or dry fruit -- popularly known as a grain.</p>
+        <p>Dr. Pritts allowed that corn, like a tomato, is eaten like a vegetable, ''so to a normal, everyday person, it's a vegetable.''</p>
+        <p>Mr. Connor's horticultural knowledge swayed a few of his colleagues, but not enough. The bill passed, 46 votes to 14, and was sent to the Assembly.</p>
+        <p>NICHOLAS CONFESSORE</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

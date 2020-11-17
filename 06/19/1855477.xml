@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DEYLIN, JUDY,</title>
+    <meta content="dn061907" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DEYLIN, JUDY,</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E3DF153AF93AA25755C0A9619C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DEYLIN, JUDY,</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DEYLIN--Judy, also known as Judith Secon and Judith Yedlin, died Sunday, June 17, 2007, at age 72. Judith was a graduate of Barnard College and a member of Actors' Equity and the Dramatists Guild of America. She will be remembered by her friends for her dedication to the art of the Drama and Song, her passion for social justice, her style, and her magnificent spirit. Donations in Judy's name may be made to The Actors' Fund.</p>
+      </block>
+      <block class="full_text">
+        <p>DEYLIN--Judy, also known as Judith Secon and Judith Yedlin, died Sunday, June 17, 2007, at age 72. Judith was a graduate of Barnard College and a member of Actors' Equity and the Dramatists Guild of America. She will be remembered by her friends for her dedication to the art of the Drama and Song, her passion for social justice, her style, and her magnificent spirit. Donations in Judy's name may be made to The Actors' Fund.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

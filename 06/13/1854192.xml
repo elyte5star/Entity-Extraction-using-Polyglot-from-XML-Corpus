@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Different Sudan</title>
+    <meta content="13wed4" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/opinion/13wed4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854192"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Animals</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <location class="indexing_service">Sudan</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Sudan</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <location class="online_producer">Darfur (Sudan)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7DF143FF930A25755C0A9619C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Different Sudan</hl1>
+        <hl2 class="online_headline">A Different Sudan</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that discovery of vast numbers of migrating animals in southern Sudan is important because it records unexpected well-being of such animals and because it creates possibility of ecotourism for war-ravaged country; urges international community to help Sudan protect this wildlife</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To many of us, Sudan means one thing -- the ongoing disaster called Darfur. But scientists flying over Southern Sudan -- the site of a separate civil war that finally ended in 2005 -- have discovered vast numbers of migrating animals: herds of antelope and gazelle that may rival the scale of the great migration in Serengeti.</p>
+        <p>Until this recent survey, the fear was that 20 years of fighting had created a collapse of the kind seen in the Central African Republic, where you can fly low over the landscape all day long and see scarcely a single animal. But what they found instead was a river of animals moving through a river of grass, including some species that were thought to be extinct.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The discovery of vast numbers of migrating animals in Darfur is important because it creates the possibility of ecotourism, and a source of employment and wealth to help balance the oil rush in the region.</p>
+      </block>
+      <block class="full_text">
+        <p>To many of us, Sudan means one thing -- the ongoing disaster called Darfur. But scientists flying over Southern Sudan -- the site of a separate civil war that finally ended in 2005 -- have discovered vast numbers of migrating animals: herds of antelope and gazelle that may rival the scale of the great migration in Serengeti.</p>
+        <p>Until this recent survey, the fear was that 20 years of fighting had created a collapse of the kind seen in the Central African Republic, where you can fly low over the landscape all day long and see scarcely a single animal. But what they found instead was a river of animals moving through a river of grass, including some species that were thought to be extinct.</p>
+        <p>This discovery is important, first of all, because it records the unexpected well-being of such vast numbers of animals and of an ecosystem as a whole. But it is also important because it creates the possibility of ecotourism, and a source of employment and wealth to help balance the oil rush that is growing day by day there.</p>
+        <p>Authorities in Southern Sudan have committed to protecting this wildlife. That will take some doing and international help. In a sense, the migratory herds have protected themselves simply by being migratory while more sedentary animals, like buffalo, have nearly vanished. The very absence of people throughout the south -- an artifact of the civil war -- also helped protect the animals. But now those people are returning in large numbers, as are foreign oil companies.</p>
+        <p>The task is to find ways to create, within a devastated country, the tools and the education to value and protect these wild herds and their ecosystem. It is not a choice between saving people and saving wild animals. It is a matter of protecting the natural resources that allow humans and animals to thrive.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

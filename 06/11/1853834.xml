@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="11tonys--refer" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853834"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1DD173FF932A25755C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Spring' and 'Coast' Star at Tony Awards  ''Spring Awakening,'' above, dominated the Tony Awards for musicals last night, winning in eight categories. Below, the playwright Tom Stoppard, left, whose ''Coast of Utopia'' was the big winner among the plays, and Frank Langella, named best actor in a play for ''Frost/Nixon.''</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>A Shift on Immigration Bill  Senate Democrats opened the door to reviving the stalled immigration measure, calling on Republicans to resolve their divisions and produce an agreement on how to move the legislation forward.</p>
+        <p>PAGE A12</p>
+        <p>Lauder to Head Jewish Group  Ronald S. Lauder, the cosmetics magnate, was elected president of the World Jewish Congress, the nonprofit group that fought to win billions for Holocaust victims.</p>
+        <p>PAGE A17</p>
+        <p>Two Studied Dow Jones Bid  NBC and Microsoft considered making a bid for Dow Jones, the publisher of The Wall Street Journal, but decided against it, a source close to the two companies said.</p>
+        <p>PAGE A15</p>
+        <p>Spurs Look Strong Again  The San Antonio Spurs took a 2-0 lead in the N.B.A. finals with an 103-92 victory against the Cleveland Cavaliers.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+        <p>Richard Rorty Dies  The philosopher whose inventive work made him one of the world's most influential contemporary thinkers was 75.</p>
+        <p>PAGE B7</p>
+        <p>SPECIAL TODAY</p>
+        <p>Business of Health  Improving the efficiency of the health care system may be good for society, but there's a debate over who should pay for it.</p>
+        <p>SECTION H</p>
+      </block>
+      <block class="full_text">
+        <p>'Spring' and 'Coast' Star at Tony Awards  ''Spring Awakening,'' above, dominated the Tony Awards for musicals last night, winning in eight categories. Below, the playwright Tom Stoppard, left, whose ''Coast of Utopia'' was the big winner among the plays, and Frank Langella, named best actor in a play for ''Frost/Nixon.''</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>A Shift on Immigration Bill  Senate Democrats opened the door to reviving the stalled immigration measure, calling on Republicans to resolve their divisions and produce an agreement on how to move the legislation forward.</p>
+        <p>PAGE A12</p>
+        <p>Lauder to Head Jewish Group  Ronald S. Lauder, the cosmetics magnate, was elected president of the World Jewish Congress, the nonprofit group that fought to win billions for Holocaust victims.</p>
+        <p>PAGE A17</p>
+        <p>Two Studied Dow Jones Bid  NBC and Microsoft considered making a bid for Dow Jones, the publisher of The Wall Street Journal, but decided against it, a source close to the two companies said.</p>
+        <p>PAGE A15</p>
+        <p>Spurs Look Strong Again  The San Antonio Spurs took a 2-0 lead in the N.B.A. finals with an 103-92 victory against the Cleveland Cavaliers.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+        <p>Richard Rorty Dies  The philosopher whose inventive work made him one of the world's most influential contemporary thinkers was 75.</p>
+        <p>PAGE B7</p>
+        <p>SPECIAL TODAY</p>
+        <p>Business of Health  Improving the efficiency of the health care system may be good for society, but there's a debate over who should pay for it.</p>
+        <p>SECTION H</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

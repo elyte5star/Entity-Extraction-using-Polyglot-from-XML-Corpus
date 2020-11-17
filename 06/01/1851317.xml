@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Back To Basics</title>
+    <meta content="01brooks" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/opinion/01brooks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851317"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <person class="indexing_service">Brooks, David</person>
+        <person class="indexing_service">Thompson, Fred</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/David Brooks</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Republican Party</org>
+        <person class="online_producer">Thompson, Fred Dalton</person>
+        <person class="online_producer">Gingrich, Newt</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0D81530F932A35755C0A9619C8B63" item-length="730" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Back To Basics</hl1>
+        <hl2 class="online_headline">Back to Basics</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID BROOKS</byline>
+      <byline class="normalized_byline">Brooks, David</byline>
+      <abstract>
+        <p>David Brooks Op-Ed column discusses Fred Thompson's long history of opposing concentrated political power amid speculation that Thompson may enter 2008 presidential race; holds that Thompson is campaigning to restore America to decentralized federalism of nation's founders; says Thompson's challenge if he enters race will be to build concrete agenda on his anti-Washington message (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This week Fred Thompson gave a speech in Connecticut during which two words did not cross his lips: George Bush. But that's all right. Thompson recently gave speeches in Virginia and California during which he scarcely mentioned Bush either. In the world Thompson described, the current Washington players are most notable for being trapped in that undifferentiated swamp we call Washington politics.</p>
+        <p>That's because the divide that engages Thompson most is not the ideological one between liberals and conservatives or between this or that brand of conservatism. It's the divide between concentrated power and decentralized power.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Perhaps what the G.O.P. needs is Newt Gingrich’s brain lodged in Fred Thompson’s temperament.</p>
+      </block>
+      <block class="full_text">
+        <p>This week Fred Thompson gave a speech in Connecticut during which two words did not cross his lips: George Bush. But that's all right. Thompson recently gave speeches in Virginia and California during which he scarcely mentioned Bush either. In the world Thompson described, the current Washington players are most notable for being trapped in that undifferentiated swamp we call Washington politics.</p>
+        <p>That's because the divide that engages Thompson most is not the ideological one between liberals and conservatives or between this or that brand of conservatism. It's the divide between concentrated power and decentralized power.</p>
+        <p>Thompson's core theme is that there is a disconnect between the American people and their rulers. He campaigns against concentrated Republican power almost as much as he does against concentrated Democratic power. Though a Republican, he's able to launch a reasonably nonpartisan attack on the way government has worked over the last 19 years.</p>
+        <p>This suspicion of concentrated power in general and Washington in particular is not some election-year conversion for Thompson. It stretches back his whole life. He began his career, remember, investigating the Nixon White House. As Stephen Hayes reminded us in The Weekly Standard, as a young staffer on the Senate Watergate committee, Thompson asked the question that revealed the existence of the White House tapes.</p>
+        <p>He went home to Tennessee and became a protégé of Howard Baker, whose party apparatus has always had a folksy, country vs. capital ethos.</p>
+        <p>As a senator, Thompson investigated the Clinton campaign finance scandals (poorly), and established a reputation on one issue above all others: federalism. He was the only senator who voted against something called the Good Samaritan law because he thought it centralized power in the national government. He was that rarest of creatures -- someone who not only preached federalism to get to Washington, but practiced it after he arrived.</p>
+        <p>Today on the stump he talks about discovering Barry Goldwater's ''Conscience of a Conservative'' while in law school. He campaigns against the immigration bill because he doesn't think Washington can be counted on to keep its promises. His main complaint with the war on terror is that Al Qaeda has a 100-year plan while most Washington politicians ''have a plan until the next election.''</p>
+        <p>He tells party strategists that there is a tide in the country against the way Washington does business, which he is best positioned to ride. He says the 2006 election was not primarily about Iraq, it was about corruption and pork-barrel spending.</p>
+        <p>What Thompson's campaign represents, then, is a return to basics. It's not primarily engaged in the issues that have dominated recent G.O.P. politics. Thompson is campaigning to restore America's constitutional soul. He's going back to Madison and Jefferson and the decentralized federalism of the founders, at least as channeled through Goldwater. As Thompson himself said while running for Senate, ''America's government is bringing America down, and the only thing that can change that is a return to the basics.''</p>
+        <p>Thompson thus becomes one pole in the debate now roiling the G.O.P. Nobody is running as the continuation of Bush. The big question now is: should the party go back to the basics or should it jump forward and transform itself into something new? Thompson articulates the back-to-basics view in its purest form. Newt Gingrich articulates the transformational view in its purest form. The other candidates are a mishmash in between.</p>
+        <p>If I were a political consultant I would tell my candidate to play up Thompson's back-to-basics theme. This is a traumatized party, not in the mood for anything risky and new. But over the long run, back to basics is no solution because it doesn't produce a positive agenda for today's problems.</p>
+        <p>Fred Thompson's political skills are as good as anybody now running, but his challenge is going to be building a concrete agenda on his anti-Washington message. It will be translating his Goldwater risorgimento philosophy into policies on energy, health care reform, Islamic extremism and education. For if there is one thing the last 30 years have taught us, it is that campaigns that are strictly anti-Washington do not command 50 percent of the vote because they don't address the decentralized global challenges that now face us.</p>
+        <p>Perhaps, as my friend Daniel Casse notes, what the G.O.P. needs is Newt Gingrich's brain lodged in Fred Thompson's temperament.</p>
+        <p>Paul Krugman is on vacation.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

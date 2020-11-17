@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knee Injury May Slow Beltrán</title>
+    <meta content="01giants" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851347"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E4D71530F932A35755C0A9619C8B63" item-length="461" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knee Injury May Slow Beltrán</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID PICKER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At the start of the season the Mets' outfield looked like this: Moises Alou in left field, Carlos Beltrán in center and Shawn Green in right.</p>
+        <p>When the Mets begin a three-game series against the Arizona Diamondbacks tonight at Shea Stadium, their outfield might look like this: a backup in left field, a backup in center and a backup in right.</p>
+      </block>
+      <block class="full_text">
+        <p>At the start of the season the Mets' outfield looked like this: Moises Alou in left field, Carlos Beltrán in center and Shawn Green in right.</p>
+        <p>When the Mets begin a three-game series against the Arizona Diamondbacks tonight at Shea Stadium, their outfield might look like this: a backup in left field, a backup in center and a backup in right.</p>
+        <p>Alou has been on the 15-day disabled list with a strained left calf since May 17, and Green went on the 15-day disabled list for the first time in his career Tuesday after fracturing a bone in his right foot. Beltrán had avoided the injury bug until last night, when he sustained a right knee contusion after colliding with Rich Aurilia, the San Francisco Giants' first baseman, during the first inning of the Mets' 4-2 victory at Shea Stadium.</p>
+        <p>Beltrán remained in the game and scored on David Wright's double. But when the second inning began, Beltrán was replaced by the rookie Carlos Gómez. Beltrán's knee was sore and swollen after the game. He was scheduled to have a magnetic resonance imaging exam today.</p>
+        <p>''I don't know,'' Beltrán said when asked about the possibility of missing games. ''This is something that can take, I don't know, one day, two days, three days. Who knows?''</p>
+        <p>Beltrán was trying to leg out a grounder to the second baseman. As he approached first base, he threw out his left hand to avoid contact with Aurilia, who appeared to lean into the basepath. The contact broke Beltrán's stride, and he injured the knee after reaching first base.</p>
+        <p>''After I passed the bag, when I landed, all my weight went into my right knee and I felt like I hyperextended it and at the same time jammed my knee,'' Beltrán said. ''I've been playing with a little bit of tendinits. So after that happened, I just felt a lot of pain in my right knee.''</p>
+        <p>Beltrán thought he was well enough to continue, but he felt pain while running the bases. A team doctor found no ligament damage, Beltrán said.</p>
+        <p>Manager Willie Randolph would not speculate about what his outfield would look like if Beltrán were unable to play tonight. He might put Ben Johnson in left, Endy Chávez in center and Gómez in right. Chávez has played the most among the three this season, having replaced Alou in left field and played in left and right field since Green's injury. The Mets started Johnson last night, in left field, for the first time this season. Chávez started in right field.</p>
+        <p>Randolph did not seem worried about the Mets' dearth of healthy outfielders. ''Easley can play the outfield; we still got Gotay,'' Randolph said, referring to infielders Damion Easley and Ruben Gotay.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

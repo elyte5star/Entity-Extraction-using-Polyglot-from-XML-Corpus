@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Major Claims Are Settled in 2005 Collapse</title>
+    <meta content="06castle" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/nyregion/06castle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852552"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2DD1E30F935A35755C0A9619C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Major Claims Are Settled in 2005 Collapse</hl1>
+        <hl2 class="online_headline">Major Claims Are Settled in 2005 Collapse</hl2>
+      </hedline>
+      <byline class="print_byline">By ANTHONY RAMIREZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shortly after 3 p.m., on May 12, 2005, a 150-foot section of a nearly century-old retaining wall high above the Henry Hudson Parkway in Manhattan gave way in a thundering and frightening avalanche.</p>
+        <p>As in the collapse of a retaining wall on Staten Island on Monday night, no one was hurt. But parked cars were buried and traffic on the parkway was disrupted for hours.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Shortly after 3 p.m., on May 12, 2005, a 150-foot section of a nearly century-old retaining wall high above the Henry Hudson Parkway in Manhattan gave way in a thundering and frightening avalanche.</p>
+      </block>
+      <block class="full_text">
+        <p>Shortly after 3 p.m., on May 12, 2005, a 150-foot section of a nearly century-old retaining wall high above the Henry Hudson Parkway in Manhattan gave way in a thundering and frightening avalanche.</p>
+        <p>As in the collapse of a retaining wall on Staten Island on Monday night, no one was hurt. But parked cars were buried and traffic on the parkway was disrupted for hours.</p>
+        <p>Two years later, major claims against the wall's owner, Castle Village, a five-building co-op atop the cliff, have been settled. But an April 2007 report by the city's Department of Buildings found that engineers hired by Castle Village, in Washington Heights, should have known ''that the wall was at risk of imminent failure.''</p>
+        <p>In December 2006, the city settled its claim against Castle Village for the cost of removing debris from the collapse, according to a spokeswoman for the city's Law Department. It spent more than $1 million for removal and settled for $1.25 million. Mark Canizio, a lawyer for Castle Village, said in a telephone interview yesterday that no one was hurt in the collapse and that claims for damage to the buried cars were paid by Castle Village's insurance company, Greater New York Mutual.</p>
+        <p>It is unclear whether the co-op has resolved all the claims from the collapse or whether the Department of Buildings report will prompt others.</p>
+        <p>In its 40-page report, the Buildings Department said that a gradual buildup of groundwater was ''the most likely cause of the collapse of the retaining wall.'' Moreover, it said repairs in 1985 and 2004 were insufficient to shore up the wall.</p>
+        <p>''When sinkholes and voids reappeared behind the wall in early 2005,'' the Buildings Department report said, ''and Castle Village learned the new drainage system installed the previous summer had not arrested the wall's decline, the cooperative failed to take effective action.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

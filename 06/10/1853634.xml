@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Janet King, Bryan Sekino</title>
+    <meta content="10king" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10king.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853634"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">King, Janet Chi-Ying (Janet Chi-Ying King-Sekno)</person>
+        <person class="indexing_service">Sekino, Bryan Takashi</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEED71F30F933A25755C0A9619C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Janet King, Bryan Sekino</hl1>
+        <hl2 class="online_headline">Janet King and Bryan Sekino</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Janet Chi-Ying King, a daughter of Dr. Nelly T. Loo and James V. King of Englewood Cliffs, N.J., was married last evening to Bryan Takashi Sekino, the son of Lucia and Warren T. Sekino of Holmdel, N.J. The Rev. Edmondo Sombilon performed the ceremony at St. Francis Xavier Roman Catholic Church in New York.</p>
+        <p>Ms. King-Sekino, 27, is a vice president for consumer stocks at Weiss Multi-Strategy Advisers, a hedge fund in New York. She graduated from Rutgers and is a chartered financial analyst.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married on Saturday at St. Francis Xavier Roman Catholic Church in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Janet Chi-Ying King, a daughter of Dr. Nelly T. Loo and James V. King of Englewood Cliffs, N.J., was married last evening to Bryan Takashi Sekino, the son of Lucia and Warren T. Sekino of Holmdel, N.J. The Rev. Edmondo Sombilon performed the ceremony at St. Francis Xavier Roman Catholic Church in New York.</p>
+        <p>Ms. King-Sekino, 27, is a vice president for consumer stocks at Weiss Multi-Strategy Advisers, a hedge fund in New York. She graduated from Rutgers and is a chartered financial analyst.</p>
+        <p>Her father is a manager of business development in Houston at Stone &amp; Webster, the engineering and construction company. Her mother is an endocrinologist in New York and a clinical assistant professor of medicine at New York Medical College in Valhalla, N.Y.</p>
+        <p>Mr. Sekino, 29 is a graduate of the University of Michigan. He received an M.B.A. last month from Columbia and is to become an associate at Lehman Brothers, the New York investment bank, next month.</p>
+        <p>His mother retired as a director of research and development in Holmdel at Lucent Technologies/Bell Laboratories. His father, also retired, worked in Middletown, N.J., as a technical manager in software development at AT&amp;T. They are both software development consultants.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

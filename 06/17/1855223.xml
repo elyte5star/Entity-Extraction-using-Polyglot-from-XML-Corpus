@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Same Old Story</title>
+    <meta content="17stylett-5" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855223"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2D7153FF934A25755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Same Old Story</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''On Abortion, Hollywood Is No-Choice (June 10) by Mireya Navarro:</p>
+        <p>Interested producers, and viewers, would do well to rent and watch ''The Best of Everything,'' the 1959 movie starring Hope Lange, Joan Crawford, Stephen Boyd, Suzy Parker and others.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''On Abortion, Hollywood Is No-Choice (June 10) by Mireya Navarro:</p>
+        <p>Interested producers, and viewers, would do well to rent and watch ''The Best of Everything,'' the 1959 movie starring Hope Lange, Joan Crawford, Stephen Boyd, Suzy Parker and others.</p>
+        <p>The additional-features commentary on my DVD by Rona Jaffe, the author of the original novel, and the film historian Sylvia Stoddard is a disturbing reminder that the more things change, the more they remain the same.</p>
+        <p>Just as in the movies you cite almost a half-century later, the woman who is impregnated by a cad decides to keep the baby. But she miscarries after an accident, and winds up with the emergency room doctor to boot.</p>
+        <p>Brigid Manning-Hamilton  Zionsville, Ind.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

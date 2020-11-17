@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arguments Over Removal of Schoolbook on Cuba</title>
+    <meta content="07book" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; U.S.; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/us/07book.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Cuba</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <location class="online_producer">Cuba</location>
+        <org class="online_producer">American Civil Liberties Union</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD91E30F934A35755C0A9619C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arguments Over Removal of Schoolbook on Cuba</hl1>
+        <hl2 class="online_headline">Arguments Over Removal of Schoolbook on Cuba</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY AGUAYO</byline>
+      <dateline>MIAMI, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A three-judge panel heard arguments on Wednesday over the Miami-Dade County school board's decision to remove a children's book about Cuba from elementary school libraries. Board members said the book painted too rosy a picture of life in Cuba.</p>
+        <p>''The books are rife with factual omissions, misrepresentations and inaccuracies that render them educationally unsuitable,'' Richard Ovelmen, a lawyer for the board, told the judges in the Federal Court of Appeals for the 11th Circuit. ''The basic fact that there is a dictatorship, that there is a regime of 48 years is not mentioned.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Miami-Dade County school board said the book painted too rosy a picture of life in Cuba and removed it from elementary school libraries.</p>
+      </block>
+      <block class="full_text">
+        <p>A three-judge panel heard arguments on Wednesday over the Miami-Dade County school board's decision to remove a children's book about Cuba from elementary school libraries. Board members said the book painted too rosy a picture of life in Cuba.</p>
+        <p>''The books are rife with factual omissions, misrepresentations and inaccuracies that render them educationally unsuitable,'' Richard Ovelmen, a lawyer for the board, told the judges in the Federal Court of Appeals for the 11th Circuit. ''The basic fact that there is a dictatorship, that there is a regime of 48 years is not mentioned.''</p>
+        <p>But a lawyer for the American Civil Liberties Union, JoNel Newman, argued, ''The school board can't pull a book because of a political viewpoint.''</p>
+        <p>The board initially took the 32-page book, ''Vamos a Cuba,'' and its English version, ''A Visit to Cuba,'' off school library shelves in June 2006 after a parent objected to its contents.</p>
+        <p>The book, written by Alta Schreier and published in 2001, is part of a 24-book series for children in kindergarten through second grade that discusses travel around the world and different cultures. Its cover shows smiling schoolchildren dressed in the uniform of the Pioneers, the Communist youth group to which every Cuban student must belong.</p>
+        <p>Just days after the board's decision to remove the book, the A.C.L.U. and the Miami-Dade County Student Government Association filed a lawsuit in federal court, arguing the removal violated students' constitutional right to access of information.</p>
+        <p>In July, a federal judge ordered the 49 copies of the book owned by the board back on the shelves. The board then filed an appeal.</p>
+        <p>During Wednesday's arguments, Senior Judge Donald Walter asked Ms. Newman whether a book about Adolf Hitler that did not mention the Holocaust would be removed from school libraries.</p>
+        <p>In response, Ms. Newman said that the book on Cuba was not about politics and that it was a simply a geography book.</p>
+        <p>''The government's political and economic system is not what this book is about,'' she said. ''The school board can't require a book to carry a political message.''</p>
+        <p>Judge Charles Wilson asked Mr. Ovelmen if a book had to be required reading material to qualify for removal. Mr. Ovelmen responded it could be removed regardless of whether it is required or optional if the book was deemed ''educationally unsuitable.''</p>
+        <p>The third judge, Ed Carnes, questioned a page in the book that states that the Cuban people ''eat, work and go to school like you do.''</p>
+        <p>''That's simply not true,'' Judge Carnes said.</p>
+        <p>The judges are expected to take several weeks before issuing a ruling.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

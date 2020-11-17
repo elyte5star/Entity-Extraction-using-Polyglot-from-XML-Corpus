@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making the Minimum Sound Like More</title>
+    <meta content="02ciel" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/arts/music/02ciel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851403"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Mayer, Michael</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7D71330F931A35755C0A9619C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making the Minimum Sound Like More</hl1>
+        <hl2 class="online_headline">Making the Minimum Sound Like More</hl2>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most performers are pleased when people in the crowd stop what they're doing to watch and applaud. But for a D.J. that kind of tribute might inspire mixed emotions. If a dance party ends up feeling more like a concert, is that success or failure?</p>
+        <p>Not that anyone seemed too worried on Thursday night at Cielo, a nightclub in the meatpacking district. The two headliners were Michael Mayer, the veteran German producer and D.J., and Gui Boratto, a Brazilian who released his debut album, ''Chromophobia'' (Kompakt), earlier this year. The night was mainly devoted to stripped-down dance tracks. You can call this stuff minimalist, but you can't call it severe -- not anymore.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If a dance party ends up feeling more like a concert, is that success or failure?</p>
+      </block>
+      <block class="full_text">
+        <p>Most performers are pleased when people in the crowd stop what they're doing to watch and applaud. But for a D.J. that kind of tribute might inspire mixed emotions. If a dance party ends up feeling more like a concert, is that success or failure?</p>
+        <p>Not that anyone seemed too worried on Thursday night at Cielo, a nightclub in the meatpacking district. The two headliners were Michael Mayer, the veteran German producer and D.J., and Gui Boratto, a Brazilian who released his debut album, ''Chromophobia'' (Kompakt), earlier this year. The night was mainly devoted to stripped-down dance tracks. You can call this stuff minimalist, but you can't call it severe -- not anymore.</p>
+        <p>In earlier years, minimalist German techno provided a stern rebuke to the kitchen-sink populism of mainstream dance music. (In Europe, ''mainstream dance music'' isn't a contradiction in terms.) Kompakt, the Cologne-based label partly owned by Mr. Mayer, nurtured a warmer strain of minimalism; Mr. Mayer's excellent and influential 2002 mix CD, ''Immer'' (Kompakt), felt like a grayscale dream.</p>
+        <p>Since then, Mr. Mayer has proved himself a resourceful and versatile D.J., equally capable of assembling a furious techno barrage or a woozy electronic reverie or a crowd-pleasing house set. No matter what, he makes small gestures sound big, and on Thursday night the revelers applauded each one-note bassline, each slow buildup, each rubbery thwack. For this crowd, Mr. Mayer is a superstar D.J., and that's how he was treated.</p>
+        <p>Mr. Mayer's set ended around 1:30 on Friday morning, and he began again an hour later. In between came a live -- that is, computer-generated -- set from Mr. Boratto, who started with the basics: a simple kick-drum pulse. But it wasn't long before some shimmering synthesizers arrived, and there was a cheer as people realized they were hearing ''Scene One,'' the sublime opening track from ''Chromophobia.''</p>
+        <p>Recently, lots of D.J.s and producers have been trying to find ways to reclaim some of what the minimalists discarded; Mr. Boratto does it with sleek electronic tracks that sound deceptively simple, sometimes even sentimental. If Mr. Mayer's approach is counterintuitive (he uses clicks and hisses to evoke lush worlds), Mr. Boratto's is counter-counterintuitive. He knows that sometimes there is no substitute for a good tune.</p>
+        <p>When he dialed up ''Terminal,'' one of the best tracks from ''Chromophobia,'' the four-note bassline added a sugary shot of melody; this was a friendly gesture, and an unpretentious one. And finally, at the end of his set, came his underground hit, ''Beautiful Life,'' which is even more songlike. There are lyrics (though not many), and there is a memorable music video, available on YouTube. As the refrain -- ''What a beautiful life, what a beautiful life, what a beautiful world'' -- cycled around and around, revelers whooped and danced, relearning the power of a catchy chorus.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

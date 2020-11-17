@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Night in the Home of the Master</title>
+    <meta content="14wright" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854313"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: PRESERVATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EFDC143FF937A25755C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Night in the Home of the Master</hl1>
+      </hedline>
+      <byline class="print_byline">By EVE M. KAHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a close brush with demolition and an arduous move from a Chicago suburb to a Pennsylvania forest, a 1957 house designed by Frank Lloyd Wright opens today for tours and overnight stays. Three years ago, Danic Homes, an Illinois developer, agreed to donate the house, below, to the Frank Lloyd Wright Building Conservancy, a nonprofit group that arranged for it to be dismantled. Then all the pieces -- including mahogany siding and paneling, 1950s kitchen appliances and Danish teak furniture -- were packed into trailers. ''It was a major jigsaw puzzle,'' said Thomas Papinchak, a builder who said he spent ''close to seven figures'' buying and reassembling the components at Polymath Park, a 125-acre resort he owns in Acme, Pa., near Pittsburgh, which was already home to two 1960s houses designed by Peter Berndtson, a Wright apprentice. The Duncan House, named after its original owners, sleeps six and costs $385 per night for three people, then $50 per night for each additional person. For information: www.polymathpark.com.</p>
+        <p>EVE M. KAHN</p>
+      </block>
+      <block class="full_text">
+        <p>After a close brush with demolition and an arduous move from a Chicago suburb to a Pennsylvania forest, a 1957 house designed by Frank Lloyd Wright opens today for tours and overnight stays. Three years ago, Danic Homes, an Illinois developer, agreed to donate the house, below, to the Frank Lloyd Wright Building Conservancy, a nonprofit group that arranged for it to be dismantled. Then all the pieces -- including mahogany siding and paneling, 1950s kitchen appliances and Danish teak furniture -- were packed into trailers. ''It was a major jigsaw puzzle,'' said Thomas Papinchak, a builder who said he spent ''close to seven figures'' buying and reassembling the components at Polymath Park, a 125-acre resort he owns in Acme, Pa., near Pittsburgh, which was already home to two 1960s houses designed by Peter Berndtson, a Wright apprentice. The Duncan House, named after its original owners, sleeps six and costs $385 per night for three people, then $50 per night for each additional person. For information: www.polymathpark.com.</p>
+        <p>EVE M. KAHN  CURRENTS: PRESERVATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

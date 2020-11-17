@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ladies Who Read</title>
+    <meta content="Mendelson.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/books/review/Mendelson-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851632"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Wolitzer, Hilma</person>
+        <object.title class="online_producer">Summer Reading (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E7DF1730F930A35755C0A9619C8B63" item-length="498" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ladies Who Read</hl1>
+        <hl2 class="online_headline">Ladies Who Read</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE MENDELSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SUMMER READING</p>
+        <p>By Hilma Wolitzer.</p>
+        <p>272 pp. Ballantine Books. $24.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hilma Wolitzer’s new novel centers on a book club in the Hamptons that transforms the lives of three women.</p>
+      </block>
+      <block class="full_text">
+        <p>SUMMER READING</p>
+        <p>By Hilma Wolitzer.</p>
+        <p>272 pp. Ballantine Books. $24.95.</p>
+        <p>No country house murder or cockpit cliffhanger can get a cast of characters more efficiently assembled and down to business than a fictional book-discussion group. Karen Joy Fowler brought this device some sparkling exposure a few years ago with ''The Jane Austen Book Club.'' In more pastel-shaded mode, Hilma Wolitzer's latest novel uses it to frame a gentle summer triptych of interlinked lives, complete with three happy endings.</p>
+        <p>Wolitzer's reading group is the Page Turners, a sorority of Hamptons trophy wives who have signed up for painless intellectual sun-lamp sessions by way of Trollope, GarcÃa MÃ¡rquez et al. It's no wonder Wolitzer's publisher is alertly pitching ''Summer Reading'' to summer readers. (The lawn chair on the dust jacket is really quite inviting.)</p>
+        <p>The group's meetings bring together three women with barely the dimmest curiosity about one another's lives. Lissy, the club's hostess, is a borderline dyslexic inevitably put to sleep by the effort of reading. Michelle, her truculent housekeeper, hands round iced tea and more elaborate ''themed'' refreshments (like empanadas for the GarcÃa MÃ¡rquez session) before going home to domestic dissatisfactions more like her employer's than either of them realizes. Sixtyish Angela, retired from a dreary academic career to the marginally better occupation of leading book-discussion groups, keeps mentally revisiting an agonizing decades-old rupture with deeply treasured friends.</p>
+        <p>These three women -- the young society matron, the aging bisexual and the sullen representative of the Long Island labor force -- have no idea that they share an intense emotional investment in some sort of past or present surrogate kin.</p>
+        <p>The clank of narrative machinery being hauled into place is rather too audible at the outset, before the three dovetailing plots take on a graceful momentum of their own. As readers, the Page Turners don't rise to any sustained perceptions or transformative epiphanies, but unexpected nudges from books do help set each of the three heroines on inner-sleuthing missions reminiscent of the more somber one in Wolitzer's last novel, ''The Doctor's Daughter.''</p>
+        <p>Everyone does some belated growing up. Painfully forced to stop telling herself wishful stories about the past, Angela finds lasting reward in the here and now. A club member's misplaced copy of ''Mrs. Bridge'' gives Michelle the courage to break with a seemingly dead-end relationship and get something more than moral vindication. Lissy, who never makes it through any of the assigned books, nonetheless wrestles with Angela's claims about art as life lesson and ends up with a stronger lease on marriage and stepmotherhood as well as miraculous recompense for a never-healed childhood loss.</p>
+        <p>Maintaining three perspectives throughout a comparatively short book without labored or slick effect is no mean feat. But once she gets things up and running, Wolitzer accomplishes it with unforced smoothness. The breezy grace of the narrative is inches from mere coasting; the benign warmth with which she surveys assorted Suffolk County denizens is inches from sappiness. But what soundly judged inches!</p>
+        <p>Anne Mendelson is a freelance writer and editor.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Anne Mendelson is a freelance writer and editor.</tagline>
+    </body.end>
+  </body>
+</nitf>

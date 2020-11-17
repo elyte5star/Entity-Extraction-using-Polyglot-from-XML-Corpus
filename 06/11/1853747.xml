@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Antihistamine Shows Promise in Treating Alzheimer's</title>
+    <meta content="11drug" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/11drug.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853747"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alzheimer's</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Russia</location>
+        <org class="online_producer">Alzheimer's Assn</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0DF173FF932A25755C0A9619C8B63" item-length="458" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Antihistamine Shows Promise in Treating Alzheimer's</hl1>
+        <hl2 class="online_headline">Antihistamine Shows Promise in Treating Alzheimer’s</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A drug long used as an antihistamine in Russia is showing what some scientists characterize as surprisingly strong results in treating Alzheimer's disease.</p>
+        <p>Results of a midstage clinical trial are expected to be presented this week that will show that patients treated with the drug, Dimebon, did better than those receiving a placebo on all five measures of cognition and behavior.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dimebon, a drug long used as an antihistamine in Russia, is showing what some say are surprisingly strong results in treating Alzheimer’s disease.</p>
+      </block>
+      <block class="full_text">
+        <p>A drug long used as an antihistamine in Russia is showing what some scientists characterize as surprisingly strong results in treating Alzheimer's disease.</p>
+        <p>Results of a midstage clinical trial are expected to be presented this week that will show that patients treated with the drug, Dimebon, did better than those receiving a placebo on all five measures of cognition and behavior.</p>
+        <p>''These are the best data that a Phase 2 Alzheimer's study has ever shown,'' Dr. Rachelle S. Doody of Baylor College of Medicine, the lead author of the study, said in an interview. Dr. Doody is a paid adviser to the drug's developer, Medivation.</p>
+        <p>The results are scheduled to be presented tomorrow at the Alzheimer's Association International Conference on Prevention of Dementia in Washington. Medivation is expected to announce them this morning.</p>
+        <p>Experts cautioned that Dimebon is not a cure. And like existing drugs, it appears to treat mainly the symptoms, not the underlying disease.</p>
+        <p>They cautioned that it is risky to compare one drug with another unless they are tested in the same clinical trial. Moreover, the Dimebon trial involved only 183 patients with mild or moderate Alzheimer's and was conducted in Russia, which might raise questions about the reliability of the data. Even if the drug works in larger trials, it will be several years before it wins approval.</p>
+        <p>Dimebon was approved as an antihistamine in Russia in 1983, but a scientist there then found it might work for Alzheimer's. Dr. David T. Hung, an entrepreneur in San Francisco, heard about this and started Medivation in 2003. The company's stock more than quadrupled after the results from the first six months of the trial were reported in September.</p>
+        <p>The new results are from a six-month extension of the trial. They show that the difference between drug and placebo at 12 months was either wider than at 6 months or the same, depending on the measure. The patients on the drug were also better or the same at 12 months as at the start of the trial, suggesting the drug improves functionality, not merely slows its decline.</p>
+        <p>Dr. Jeffrey L. Cummings, director of the Alzheimer's disease center at the University of California, Los Angeles, said some experts were skeptical because the drug ''came out of left field.'' But he said the effect of Dimebon was ''larger than what we're seeing with any of the existing medications and it persists longer.'' Dimebon's effect might last for 12 months while existing drugs begin to fade at 6 to 9 months, he said.</p>
+        <p>Dr. Cummings, who said he had no relationship with Medivation, was not involved in the study but was shown the data by the company and agreed to be quoted in a news release.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

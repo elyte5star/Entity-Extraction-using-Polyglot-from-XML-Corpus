@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="06trsale" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070608T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852487"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0DF1E30F935A35755C0A9619C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSALIE R. RADOMSKY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Recent Sale  $12 million  1177 Flushing Avenue  Brooklyn  The owner of Jovani, a women's fashion company, plans to turn this single-story 83,000-square-foot warehouse in East Williamsburg into a showroom and to add another floor with a rooftop parking area.  Buyer: Saul Maslavi  Seller: Noel Levin  Brokers: Neil Dolgin and Linda Wong, Kalmon Dolgin Affiliates</p>
+        <p>Recent Lease  $36/sq. ft.  approximate annual rent $180,000  15-17 West 18th Street (between Fifth and Avenue of the Americas)  Manhattan  A new media company has signed a 10-year lease for the entire 5,000-square-foot top floor of this 10-story 1903 building in the Flatiron district.  Tenant: Expo Communications  Tenant broker: Ted Rotante, GVA Williams  Landlord: First Flatiron  Landlord brokers: Rob and Joan Fields, Synergy Realty</p>
+        <p>For Sale  $8.9 million  9 Christopher Street  (between Greenwich Avenue and Waverly Place)  Manhattan  This five-story 1886 Queen Anne style walk-up in the Greenwich Village Historic District has 13 apartments and two retail spaces.  Owner: DP23  Brokers: James Nelson, Brendan Gotch and Billy Simons, Massey Knakal Realty Services</p>
+        <p>ROSALIE R. RADOMSKY</p>
+      </block>
+      <block class="full_text">
+        <p>Recent Sale  $12 million  1177 Flushing Avenue  Brooklyn  The owner of Jovani, a women's fashion company, plans to turn this single-story 83,000-square-foot warehouse in East Williamsburg into a showroom and to add another floor with a rooftop parking area.  Buyer: Saul Maslavi  Seller: Noel Levin  Brokers: Neil Dolgin and Linda Wong, Kalmon Dolgin Affiliates</p>
+        <p>Recent Lease  $36/sq. ft.  approximate annual rent $180,000  15-17 West 18th Street (between Fifth and Avenue of the Americas)  Manhattan  A new media company has signed a 10-year lease for the entire 5,000-square-foot top floor of this 10-story 1903 building in the Flatiron district.  Tenant: Expo Communications  Tenant broker: Ted Rotante, GVA Williams  Landlord: First Flatiron  Landlord brokers: Rob and Joan Fields, Synergy Realty</p>
+        <p>For Sale  $8.9 million  9 Christopher Street  (between Greenwich Avenue and Waverly Place)  Manhattan  This five-story 1886 Queen Anne style walk-up in the Greenwich Village Historic District has 13 apartments and two retail spaces.  Owner: DP23  Brokers: James Nelson, Brendan Gotch and Billy Simons, Massey Knakal Realty Services</p>
+        <p>ROSALIE R. RADOMSKY  e-mail: realprop@nytimes.com</p>
+        <p>Correction:  June 8, 2007, Friday  An entry in the Transactions column in the Square Feet pages of Business Day on Wednesday about a recent lease at 15-17 West 18th Street in Manhattan misstated the term of the lease. It is for five years, not 10 years.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 8, 2007, Friday</p>
+        <p>An entry in the Transactions column in the Square Feet pages of Business Day on Wednesday about a recent lease at 15-17 West 18th Street in Manhattan misstated the term of the lease. It is for five years, not 10 years.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">e-mail: realprop@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

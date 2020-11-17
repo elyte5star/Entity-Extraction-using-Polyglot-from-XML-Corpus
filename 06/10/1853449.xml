@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ancient Road, Timeless Trip</title>
+    <meta content="10silk" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853449"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <location class="indexing_service">Kyrgyzstan</location>
+        <location class="indexing_service">Bishkek (Kyrgyzstan)</location>
+        <location class="indexing_service">Dushanbe (Tajikistan)</location>
+        <location class="indexing_service">Tajikistan</location>
+        <person class="indexing_service">Nga, Jehad</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kyrgyzstan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E5DB1130F933A25755C0A9619C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ancient Road, Timeless Trip</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo essay by photographer Jehad Nga on trip along Silk Road from Bishkek, Kyrgyzstan, to Dushanbe, Tajikistan (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Silk Road is the popular name for a system of caravan trade routes that dates back more than 2,000 years, an important economic artery that stretched roughly 7,000 miles, from the Mediterranean to China's Yellow River Valley. Earlier this year, the photographer Jehad Nga, on assignment for the Travel section, spent three weeks retracing part of the historic route in central Asia, driving from Bishkek, Kyrgyzstan, to Dushanbe, Tajikistan.</p>
+        <p>Conditions were at times onerous, ranging from oppressive desertlike heat in Uzbekistan to a blizzard in Tajikistan that made that country's already treacherous roads nearly impossible to navigate. But it was also a journey of discovery: of encountering Kyrgyz sheepherders living in bare-existence yurts set in the vast wilderness; of witnessing an Uzbek bride's joyful preparation for her wedding; of shopping in the historic central bazaar of Samarkand, Uzbekistan.</p>
+      </block>
+      <block class="full_text">
+        <p>The Silk Road is the popular name for a system of caravan trade routes that dates back more than 2,000 years, an important economic artery that stretched roughly 7,000 miles, from the Mediterranean to China's Yellow River Valley. Earlier this year, the photographer Jehad Nga, on assignment for the Travel section, spent three weeks retracing part of the historic route in central Asia, driving from Bishkek, Kyrgyzstan, to Dushanbe, Tajikistan.</p>
+        <p>Conditions were at times onerous, ranging from oppressive desertlike heat in Uzbekistan to a blizzard in Tajikistan that made that country's already treacherous roads nearly impossible to navigate. But it was also a journey of discovery: of encountering Kyrgyz sheepherders living in bare-existence yurts set in the vast wilderness; of witnessing an Uzbek bride's joyful preparation for her wedding; of shopping in the historic central bazaar of Samarkand, Uzbekistan.</p>
+        <p>''There were moments when I felt further from the rest of the world than I ever have before,'' Mr. Nga recalls. ''It was a feeling of only more nothingness beyond each horizon.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

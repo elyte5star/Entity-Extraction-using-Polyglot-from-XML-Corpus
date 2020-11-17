@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>With Rise in Radiation Exposure, Experts Urge Caution on Tests</title>
+    <meta content="19cons" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/health/19cons.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855556"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CONSUMER"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Breast Cancer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mammography</classifier>
+        <classifier class="online_producer" type="descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="descriptor">X-Rays</classifier>
+        <classifier class="online_producer" type="descriptor">Mammography</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">X-Rays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mammography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E1DF133FF93AA25755C0A9619C8B63" item-length="1123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>With Rise in Radiation Exposure, Experts Urge Caution on Tests</hl1>
+        <hl2 class="online_headline">With Rise in Radiation Exposure, Experts Urge Caution on Tests</hl2>
+      </hedline>
+      <byline class="print_byline">By RONI CARYN RABIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Advances in radiology have radically transformed medical practice, with CT scans and nuclear medicine exams providing physicians with the ability to quickly pinpoint internal bleeding, diagnose kidney stones or confirm appendicitis, assess thyroid function and identify and open blockages in the blood vessels to the heart.</p>
+        <p>The downside is that Americans are being exposed to record amounts of ionizing radiation, the most energetic and potentially hazardous form of radiation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>CT scans and X-rays are revolutionary, but they carry risks, too, a new study suggests.</p>
+      </block>
+      <block class="full_text">
+        <p>Advances in radiology have radically transformed medical practice, with CT scans and nuclear medicine exams providing physicians with the ability to quickly pinpoint internal bleeding, diagnose kidney stones or confirm appendicitis, assess thyroid function and identify and open blockages in the blood vessels to the heart.</p>
+        <p>The downside is that Americans are being exposed to record amounts of ionizing radiation, the most energetic and potentially hazardous form of radiation.</p>
+        <p>According to a new study, the per-capita dose of ionizing radiation from clinical imaging exams in the United States increased almost 600 percent from 1980 to 2006.  In the past, natural background radiation was the leading source of human exposure; that has been displaced by diagnostic imaging procedures, the authors said.</p>
+        <p>''This is an absolutely sentinel event, a wake-up call,'' said Dr. Fred A. Mettler Jr., principal investigator for the study, by the National Council on Radiation Protection. ''Medical exposure now dwarfs that of all other sources.''</p>
+        <p>The study, financed by the federal government, is to be published by early next year. It found a particularly sharp rise in  the number of CT scans  -- to 62 million in 2006, from 3 million in 1980. Though CTs make up only 12 percent of all medical radiation procedures, they deliver almost half of the estimated collective dose of radiation exposure in the United States. A CT scan exposes patients to far more radiation than a standard X-ray, and multislice CT scanners deliver higher doses of radiation than single-slice scanners.</p>
+        <p>Nuclear medicine exams increased to 18.1 million in 2006, from 6.4 million in 1980. They represent almost a quarter of the estimated collective radiation dose, with cardiac studies making up most of the dose.</p>
+        <p>X-rays have been classified as carcinogens by the World Health Organization, the Centers for Disease Control and Prevention and the National Institute of Environmental Health Sciences, because studies have shown that exposure causes leukemia and cancers of the thyroid, breast and lung.</p>
+        <p>Yet with the exception of mammography, scans remain largely unregulated. (The Food and Drug Administration regulates manufacturers of equipment but does not inspect facilities, which are licensed by states. Radiation doses for mammography are limited by federal law.) Radiation doses for the same procedure can vary drastically, as different machines in the hands of different practitioners deliver doses that vary by as much as a factor of 10, experts say.</p>
+        <p>Radiologists say they do not want to scare people away from having scans and exams when necessary, but they want patients -- as well as physicians -- to carefully evaluate the benefits and risks of each scan or exam, make sure the procedure is appropriate and keep track of cumulative exposure levels. Full-body CT scans should be avoided unless there is a good medical reason.</p>
+        <p>''We're not saying you shouldn't have X-rays or CT scans -- they're wonderful, they've totally revolutionized the practice of medicine,'' said Dr. E. Stephen Amis Jr., a former president of the American College of Radiology who is chairman of radiology at Albert Einstein College of Medicine and Montefiore Medical Center in New York. ''But if you go into the emergency room with recurrent pain and get a CT scan every time you show up, that's not good. Use a little common sense.''</p>
+        <p>Studies of atomic bomb survivors in Japan found a statistically significant increase in cancer at high levels of exposure --  50 millisieverts, or mSv, about 16 times the current annual average for Americans from medical exams. But that figure is controversial; it is not clear that lower levels of radiation exposure are safe. Nor would it be unusual for a patient to exceed this level, according to a recent paper from the American College of Radiology.</p>
+        <p>''It is worth noting that many CT scans and nuclear medicine studies have effective dose estimates in the range of 10 to 25 mSv for a single study, and some patients have multiple studies; thus it would not be uncommon for a patient's estimated exposure to exceed 50 mSv,'' the paper said, adding that ''the International Commission on Radiological Protections has reported that CT doses can indeed approach or exceed levels that have been shown to result in an increase in cancer.''</p>
+        <p>A single CT scan of the abdomen, body or spine can expose a patient to 10 mSv, according to the American College of Radiology patient information Web site (www.radiologyinfo.org, see Safety). Mammography, on the other hand, delivers only 0.7 mSv, and a bone-density scan is only 0.01 mSv.</p>
+        <p>There are several steps patients can take to protect themselves, and they should not be shy about asking questions, doctors and other experts say.</p>
+        <p>''They can always inquire of the referring physician, 'Is this test necessary?' '' said Richard Morin, chairman of the  radiology college's quality and safety committee, adding that ''exams are often done for reasons that are not quite appropriate.''</p>
+        <p>Doctors should be familiar with the radiology college index of appropriateness criteria, which rates the imaging procedures for some 200 medical conditions. Dr. Morin suggests asking the doctor ordering the test about its rating for a given condition.</p>
+        <p>Scores range from 1 to 9, he said, and  ''if the number turns out to be 1 or 2, you should look for some other exam.''</p>
+        <p>When undergoing a scan or exam, patients should try to use a facility accredited by the American College of Radiology. The accreditation, which is voluntary, means the machines are surveyed and calibrated to use the correct level of radiation and the technologists are certified. It also means the images are likely to be of higher quality, reducing the likelihood of having to repeat a procedure and suffer additional exposure.</p>
+        <p>Research studies closely regulate and monitor radiation doses, so participating in a research study may provide some protection, Dr. Morin said. Hospitalized patients are also often scanned routinely once a day when they are very ill, he said, and ''it's not unreasonable for someone to ask, 'Do I really need this exam every day?' '' Patients may also want to ask the radiologists or technicians whether the machines are routinely inspected by a medical physicist.</p>
+        <p>Women should tell the doctor or technician if they might be pregnant; generally, women, children and young people should try to avoid scans.</p>
+        <p>If patients are given a CD of their scan, along with the interpretation, they should hold onto it, to avoid having to repeat a procedure. People who are undergoing multiple studies may want to keep a record tracking all the radiological procedures they have had, and inform their physicians of their history, said Dr. Amis, of Albert Einstein.</p>
+        <p>''Patients should have a questioning demeanor when going in for any kind of health care,'' he said. ''Unfortunately, the majority do not.''</p>
+        <p>THE CONSUMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

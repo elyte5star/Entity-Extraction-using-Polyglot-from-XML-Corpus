@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vignettes That Wind Lusciously In and Out of the Music</title>
+    <meta content="06mcin" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/arts/dance/06mcin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852457"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <person class="online_producer">Dara, Olu</person>
+        <person class="online_producer">McIntyre, Dianne</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFD61130F935A35755C0A9619C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vignettes That Wind Lusciously In and Out of the Music</hl1>
+        <hl2 class="online_headline">Vignettes That Wind Lusciously in and Out of the Music</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Olu Dara and Dianne McIntyre seldom perform together anymore, and that is a great pity. Their sensibilities fit hand in glove; their complementary sly humor and sweetness create vignettes of everyday people who somehow manage to rise above simply getting along in life.</p>
+        <p>Their joint program ''Pieces of Pieces,'' a suite of music and dance works from 1984 through this year, had audience members laughing and un-self-consciously bonding with the performers and one another, onstage and off, on Sunday night at the Schomburg Center for Research in Black Culture.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Olu Dara and Dianne McIntyre's sensibilities fit hand in glove; their complementary sly humor and sweetness create vignettes of everyday people who somehow manage to rise above simply getting along in life.</p>
+      </block>
+      <block class="full_text">
+        <p>Olu Dara and Dianne McIntyre seldom perform together anymore, and that is a great pity. Their sensibilities fit hand in glove; their complementary sly humor and sweetness create vignettes of everyday people who somehow manage to rise above simply getting along in life.</p>
+        <p>Their joint program ''Pieces of Pieces,'' a suite of music and dance works from 1984 through this year, had audience members laughing and un-self-consciously bonding with the performers and one another, onstage and off, on Sunday night at the Schomburg Center for Research in Black Culture.</p>
+        <p>The program featured music by Mr. Dara, the Mississippi-born jazz trumpeter, guitarist and singer, performing with Alonzo Gardner on bass, Larry Johnson on drums, Kwatei Jones-Quartey on guitar and Coster Massamba on percussion. The dancers slipped in and out of the music, winding lusciously and for the most part improvisationally through bluesy and comical sounds accented by Mr. Dara's drawling banter.</p>
+        <p>One of the program's virtues was its demonstration of how vibrant skilled improvisation can be. Laceine Wedderburn and Shireen Dickson have previously worked with Ms. McIntyre, a modern-dance choreographer who has specialized in collaborations with jazz musicians over her long career. The genial Terence Greene fit right into the relaxed but challenging come-and-go of Ms. McIntyre's art.</p>
+        <p>But the best came later, when Ms. McIntyre materialized onstage for a McIntyre-Dara classic, playing a wife determined not to let her husband watch a Cleveland Indians baseball game on television. How could he wear that baseball hat, with its demeaning picture of an American Indian, she nagged, when he was married to a Seminole?</p>
+        <p>He reminded her that she had snagged him by saying that she was West Indian. She retaliated by moving into a loud, chanting American Indian ritual in the kitchen behind him. He gave up on the game -- and the cap, eventually -- in a performance by both that had an exhilarating feel of inspired improvisation.</p>
+        <p>Ms. McIntyre later took off in a little solo, clinging to the arm of a slightly surprised Mr. Dara. There is no one like these two. May they soon return.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

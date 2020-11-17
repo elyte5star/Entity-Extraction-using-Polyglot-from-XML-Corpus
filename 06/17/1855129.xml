@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time Travel</title>
+    <meta content="17street" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/17street.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7DA153FF934A25755C0A9619C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time Travel</hl1>
+        <hl2 class="online_headline">Time Travel</hl2>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Great Gatsby afternoon dance and picnic on June 9 opened the series of free summer weekends on the 150 acres of the historic section of Governors Island, a six-minute ferry ride from the southern tip of Manhattan. Many of the guests dressed in period clothes to dance under the shade trees to Michael Arenella and His Dreamland Orchestra.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Great Gatsby afternoon dance and picnic on June 9 opened the series of free summer weekends on Governors Island.</p>
+      </block>
+      <block class="full_text">
+        <p>A Great Gatsby afternoon dance and picnic on June 9 opened the series of free summer weekends on the 150 acres of the historic section of Governors Island, a six-minute ferry ride from the southern tip of Manhattan. Many of the guests dressed in period clothes to dance under the shade trees to Michael Arenella and His Dreamland Orchestra.  ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE WEEK AHEAD: June 17 - 23; ART</title>
+    <meta content="17weekart" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854956"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E5D7173FF934A25755C0A9619C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE WEEK AHEAD: June 17 - 23; ART</hl1>
+      </hedline>
+      <byline class="print_byline">By Roberta Smith</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The big openings of the international shows in Europe end this weekend, which means that in the United States all is still quiet on both the Eastern and Western museum fronts. But the middle of the country is delivering in three exhibitions that become more unusual as you move from South to North.</p>
+        <p>THE KIMBELL ART MUSEUM in Fort Worth is playing it relatively safe with ''The Mirror and the Mask: Portraiture in the Age of Picasso, opening Sunday. What it lacks in daring it should make up for in important works by heavy hitters and, one assumes, interesting juxtapositions. The artists start with Picasso and Matisse and include Miró, Beckmann, Bacon and Dubuffet.</p>
+        <p>Meanwhile, another city, another era. On Sunday the ST. LOUIS ART MUSEUM unveils ''Symbols of Power: Napoleon and the Art of the Empire Style, 1800-1815,'' a show of 140 decorative objects that will examine the way Napoleon and his designers countered the frivolities of the last royal style (Rococo) with a Neo-Classical revival. Simplicity was increasingly augmented with emblems of authority borrowed from Greek, Rome and of course Egypt, where Napoleon had his first foretaste of Waterloo, in the military sense, but triumphed archeologically. The exhibition has been organized with the Musée des Arts Décoratifs in Paris; many of its works have never been exhibited outside France.</p>
+        <p>On Saturday THE MUSEUM OF CONTEMPORARY ART in Chicago will take a highly focused look at some of the contemporary art coming out of Mexico. ''Escultura Social: A New Generation of Art from Mexico City'' takes its title from ''social sculpture,'' Joseph Beuys's encapsulation of his ambition to work in three dimensions -- with objects, video, installation and performance -- in ways that transform society. For nearly 20 years the artists in and around Mexico City have followed his cue with unusual alacrity. Including 18 artists, a collective, an architect and way too few women, this show will take a look at the efforts of the newest recruits.</p>
+      </block>
+      <block class="full_text">
+        <p>The big openings of the international shows in Europe end this weekend, which means that in the United States all is still quiet on both the Eastern and Western museum fronts. But the middle of the country is delivering in three exhibitions that become more unusual as you move from South to North.</p>
+        <p>THE KIMBELL ART MUSEUM in Fort Worth is playing it relatively safe with ''The Mirror and the Mask: Portraiture in the Age of Picasso, opening Sunday. What it lacks in daring it should make up for in important works by heavy hitters and, one assumes, interesting juxtapositions. The artists start with Picasso and Matisse and include Miró, Beckmann, Bacon and Dubuffet.</p>
+        <p>Meanwhile, another city, another era. On Sunday the ST. LOUIS ART MUSEUM unveils ''Symbols of Power: Napoleon and the Art of the Empire Style, 1800-1815,'' a show of 140 decorative objects that will examine the way Napoleon and his designers countered the frivolities of the last royal style (Rococo) with a Neo-Classical revival. Simplicity was increasingly augmented with emblems of authority borrowed from Greek, Rome and of course Egypt, where Napoleon had his first foretaste of Waterloo, in the military sense, but triumphed archeologically. The exhibition has been organized with the Musée des Arts Décoratifs in Paris; many of its works have never been exhibited outside France.</p>
+        <p>On Saturday THE MUSEUM OF CONTEMPORARY ART in Chicago will take a highly focused look at some of the contemporary art coming out of Mexico. ''Escultura Social: A New Generation of Art from Mexico City'' takes its title from ''social sculpture,'' Joseph Beuys's encapsulation of his ambition to work in three dimensions -- with objects, video, installation and performance -- in ways that transform society. For nearly 20 years the artists in and around Mexico City have followed his cue with unusual alacrity. Including 18 artists, a collective, an architect and way too few women, this show will take a look at the efforts of the newest recruits.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

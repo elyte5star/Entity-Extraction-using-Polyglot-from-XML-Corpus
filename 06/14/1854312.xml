@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Chance to Honor The Tulips of Modernism</title>
+    <meta content="14whoo" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854312"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: FURNITURE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EFDC143FF937A25755C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Chance to Honor The Tulips of Modernism</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIANNE ROHRLICH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fashion trends are usually a year or two ahead of those in home furnishings, but this year is different: metallics are big, and to mark the 50th anniversary of Eero Saarinen's Tulip collection of furniture -- the classic pedestal chairs and tables -- Knoll is offering them in platinum.</p>
+        <p>All Tulip furniture ordered between now and Aug. 1, 2008, in any color (white, black or platinum) will have a commemorative medallion on the underside.</p>
+      </block>
+      <block class="full_text">
+        <p>Fashion trends are usually a year or two ahead of those in home furnishings, but this year is different: metallics are big, and to mark the 50th anniversary of Eero Saarinen's Tulip collection of furniture -- the classic pedestal chairs and tables -- Knoll is offering them in platinum.</p>
+        <p>All Tulip furniture ordered between now and Aug. 1, 2008, in any color (white, black or platinum) will have a commemorative medallion on the underside.</p>
+        <p>The Tulip armchair, above, is $1,093; the side chair is $989. A dining table with a 47-inch-round laminate top is $1,536, and a 20-inch-round side table with a laminate top is $463. For locations: (866) 945-6655 or knoll.com.</p>
+        <p>MARIANNE ROHRLICH</p>
+        <p>CURRENTS: FURNITURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Note to Inventors: Please Curb Your Enthusiasm</title>
+    <meta content="10count" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853695"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <org class="online_producer">Patent and Trademark Office</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EFD61F30F933A25755C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Note to Inventors: Please Curb Your Enthusiasm</hl1>
+        <hl2 class="online_headline">Note to Inventors: Please Curb Your Enthusiasm</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The American spirit of inventiveness didn't die with Thomas Edison and Alexander Graham Bell. In fact, it is stronger than ever, if you look at the number of applications flooding into the United States Patent Office.</p>
+        <p>Now the office is looking at a backlog of 700,000 applications, and an average review time of 31 months, and it is saying to the inventors of America: ''Could you tone it down a little?'' Last week, the agency proposed new rules that would require more information from inventors and allow greater public review of applications.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The American spirit of inventiveness is stronger than ever, if you look at the number of applications flooding into the United States Patent Office.</p>
+      </block>
+      <block class="full_text">
+        <p>The American spirit of inventiveness didn't die with Thomas Edison and Alexander Graham Bell. In fact, it is stronger than ever, if you look at the number of applications flooding into the United States Patent Office.</p>
+        <p>Now the office is looking at a backlog of 700,000 applications, and an average review time of 31 months, and it is saying to the inventors of America: ''Could you tone it down a little?'' Last week, the agency proposed new rules that would require more information from inventors and allow greater public review of applications.</p>
+        <p>The office is also approving a smaller share of applications: around 50 percent so far this year, down from 72 percent in 2000.</p>
+        <p>To improve the odds of your invention being approved for a patent, make sure that it is both new and useful, and that a description of it is understandable in writing.</p>
+        <p>And please don't waste the patent office's time with an idea that is obvious. If you do, it is sure to be rejected (perhaps with a big roll of the eyes) because it didn't pass the ''duh'' test.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

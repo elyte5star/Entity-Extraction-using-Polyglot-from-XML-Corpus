@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carolyn Petersen, Christopher Perera</title>
+    <meta content="10petersen" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853664"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Petersen, Carolyn Elizabeth (Carolyn Elizabeth Perera)</person>
+        <person class="indexing_service">Perera, Christopher Davis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E4D61F30F933A25755C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carolyn Petersen, Christopher Perera</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carolyn Elizabeth Petersen and Christopher Davis Perera were married last evening by the Rev. Paul Thompson at St. Andrews by the Sea Episcopal Church in Hyannis Port, Mass.</p>
+        <p>Mrs. Perera, 37, is the general manager of the Michael Kors shop in New York. She graduated from Bucknell.</p>
+      </block>
+      <block class="full_text">
+        <p>Carolyn Elizabeth Petersen and Christopher Davis Perera were married last evening by the Rev. Paul Thompson at St. Andrews by the Sea Episcopal Church in Hyannis Port, Mass.</p>
+        <p>Mrs. Perera, 37, is the general manager of the Michael Kors shop in New York. She graduated from Bucknell.</p>
+        <p>She is the daughter of Lynn and Ronald Petersen of Wendover, England. Her father is a partner in Longbow Capital, a venture capital firm in London. Her mother is the director of sales, marketing and fund-raising at the British division of Outward Bound.</p>
+        <p>Mr. Perera, 38, runs the creative development department in New York of the American subsidiary of Leopard Films, a British television and film production company. He graduated from St. Lawrence University.</p>
+        <p>He is the son of Frederica P. D. Perera of New York and the late Phillips Perera. His mother is a professor of environmental health sciences at Columbia. His father was the founder and president of Interfin, a New York financial services company for international food businesses.</p>
+        <p>The bridegroom is the stepson of Frederick A. O. Schwarz Jr., who is the senior counsel at the Brennan Center for Justice, an advocacy organization in New York, and a great-grandson of the founder of the toy store.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

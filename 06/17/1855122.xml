@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Evita Torre, Christopher Walsh</title>
+    <meta content="17TORRE" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17TORRE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855122"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Torre, Evita Nancy Sison</person>
+        <person class="indexing_service">Walsh, Christopher Edward</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EEDB153FF934A25755C0A9619C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Evita Torre, Christopher Walsh</hl1>
+        <hl2 class="online_headline">Evita Torre, Christopher Walsh</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Evita Nancy Sison Torre, the daughter of Dr. Evita Q. Sison-Torre and Dr. Pablo L. Torre Jr. of Manhattan, was married yesterday to Christopher Edward Walsh, a son of Maureen Walsh and Gerard J. Walsh of Rockaway Park, Queens. The Rev. Alfredo Balinong, a Roman Catholic priest, performed the ceremony at the University Parish, Church of St. Joseph in Manhattan.</p>
+        <p>Ms. Torre, 25, is keeping her name. She is to become a first-year student in August at New York Law School in Manhattan. Until this month she was the associate director of admissions at Dominican Academy, a high school for girls in Manhattan from which she graduated. She also is a freelance writer on family topics for Ladies' Home Journal and Seventeen. She received her bachelor's degree, cum laude, from New York University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Evita Nancy Sison Torre, the daughter of Dr. Evita Q. Sison-Torre and Dr. Pablo L. Torre Jr. of Manhattan, was married yesterday to Christopher Edward Walsh, a son of Maureen Walsh and Gerard J. Walsh of Rockaway Park, Queens. The Rev. Alfredo Balinong, a Roman Catholic priest, performed the ceremony at the University Parish, Church of St. Joseph in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Evita Nancy Sison Torre, the daughter of Dr. Evita Q. Sison-Torre and Dr. Pablo L. Torre Jr. of Manhattan, was married yesterday to Christopher Edward Walsh, a son of Maureen Walsh and Gerard J. Walsh of Rockaway Park, Queens. The Rev. Alfredo Balinong, a Roman Catholic priest, performed the ceremony at the University Parish, Church of St. Joseph in Manhattan.</p>
+        <p>Ms. Torre, 25, is keeping her name. She is to become a first-year student in August at New York Law School in Manhattan. Until this month she was the associate director of admissions at Dominican Academy, a high school for girls in Manhattan from which she graduated. She also is a freelance writer on family topics for Ladies' Home Journal and Seventeen. She received her bachelor's degree, cum laude, from New York University.</p>
+        <p>Her father is the chief of urology at the Veteran's Affairs hospital in Manhattan and is an assistant clinical professor of urology at New York University School of Medicine, also in Manhattan. Her mother is a dermatologist in practice in Manhattan.</p>
+        <p>Mr. Walsh, 26, is a computer software developer at the Depository Trust and Clearing Corporation, a Manhattan company that verifies securities trades. He graduated from Fordham.</p>
+        <p>His mother is the owner of Walsh Properties, a residential real estate agency in Rockaway Park. His father is the director of patient financial services at New York Downtown Hospital in Manhattan.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

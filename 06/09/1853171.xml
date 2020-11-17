@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Today in Business | Norilsk's Profit Doubles</title>
+    <meta content="09biztoday-8" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853171"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Norilsk Nickel</org>
+        <person class="indexing_service">Kramer, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DD163FF93AA35755C0A9619C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Today in Business | Norilsk's Profit Doubles</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW KRAMER</byline>
+      <byline class="normalized_byline">Kramer, Andrew</byline>
+      <abstract>
+        <p>Norilsk Nickel says profit more than doubled in 2006, as result of soaring metals prices; net profit was $5.99 billion, up from $2.36 billion in 2005; revenue was $11.55 billion, up from $7.17 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Norilsk Nickel, the Russian nickel and palladium producer, said its profit more than doubled in 2006, as a result of soaring metals prices. Norilsk reported net profit of $5.99 billion, up from $2.36 billion in 2005, mostly because of a run-up over the period in the price of nickel. Analysts said growth in demand for steel in China was driving the increase. Revenue was $11.55 billion, up from $7.17 billion. Anticipating the jump in profits, two investment banks in Moscow issued reports last week identifying Norilsk's stock as undervalued. Still, the company is in the midst of a potentially destabilizing change in ownership as the two principal Russian shareholders are unwinding a decade-long partnership. Norilsk produces a fifth of all nickel and half of all palladium in the world at its mine above the Arctic Circle in Siberia.</p>
+        <p>ANDREW KRAMER</p>
+      </block>
+      <block class="full_text">
+        <p>Norilsk Nickel, the Russian nickel and palladium producer, said its profit more than doubled in 2006, as a result of soaring metals prices. Norilsk reported net profit of $5.99 billion, up from $2.36 billion in 2005, mostly because of a run-up over the period in the price of nickel. Analysts said growth in demand for steel in China was driving the increase. Revenue was $11.55 billion, up from $7.17 billion. Anticipating the jump in profits, two investment banks in Moscow issued reports last week identifying Norilsk's stock as undervalued. Still, the company is in the midst of a potentially destabilizing change in ownership as the two principal Russian shareholders are unwinding a decade-long partnership. Norilsk produces a fifth of all nickel and half of all palladium in the world at its mine above the Arctic Circle in Siberia.</p>
+        <p>ANDREW KRAMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

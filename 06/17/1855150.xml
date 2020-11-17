@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Christine Whelan, Peter Moyers</title>
+    <meta content="17whelan" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17whelan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855150"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Whelan, Christine B.</person>
+        <person class="indexing_service">Moyers, Peter Rowe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5DA153FF934A25755C0A9619C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Christine Whelan, Peter Moyers</hl1>
+        <hl2 class="online_headline">Christine Whelan, Peter Moyers</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Christine B. Whelan, the daughter of Elizabeth M. Whelan and Stephen T. Whelan of New York, and Peter Rowe Moyers, the son of Katherine M. Moyers and John R. Moyers of Iowa City, were married yesterday at St. Patrick's Cathedral in New York. Msgr. Robert B. O'Connor, a Roman Catholic priest, performed the ceremony.</p>
+        <p>The bride, 29, will be keeping her name professionally. She is the author of ''Why Smart Men Marry Smart Women'' (Simon &amp; Schuster, 2006). In August, she will become a visiting assistant professor of sociology at the University of Iowa. She graduated magna cum laude from Princeton. She received a master's degree and a Ph.D., both in economic and social history, from Oxford.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Christine B. Whelan, the daughter of Elizabeth M. Whelan and Stephen T. Whelan of New York, and Peter Rowe Moyers, the son of Katherine M. Moyers and John R. Moyers of Iowa City, were married yesterday at St. Patrick’s Cathedral in New York. Msgr. Robert B. O’Connor, a Roman Catholic priest, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Christine B. Whelan, the daughter of Elizabeth M. Whelan and Stephen T. Whelan of New York, and Peter Rowe Moyers, the son of Katherine M. Moyers and John R. Moyers of Iowa City, were married yesterday at St. Patrick's Cathedral in New York. Msgr. Robert B. O'Connor, a Roman Catholic priest, performed the ceremony.</p>
+        <p>The bride, 29, will be keeping her name professionally. She is the author of ''Why Smart Men Marry Smart Women'' (Simon &amp; Schuster, 2006). In August, she will become a visiting assistant professor of sociology at the University of Iowa. She graduated magna cum laude from Princeton. She received a master's degree and a Ph.D., both in economic and social history, from Oxford.</p>
+        <p>Her father is a partner in the New York City law firm Thacher Proffitt &amp; Wood, and a visiting lecturer on constitutional law at Princeton. Her mother, a public health specialist, is the president and a founder of the American Council on Science and Health, a nonprofit public health education organization in New York.</p>
+        <p>The bridegroom, also 29, is a law clerk to Linda R. Reade, chief judge for the United States District Court for the Northern District of Iowa. He was until January an associate in the corporate reorganization group at the New York law firm Hughes Hubbard &amp; Reed. He also graduated magna cum laude from Princeton. He received a law degree from Harvard.</p>
+        <p>His mother is a chairwoman of the primary fund-raising campaign for the Iowa City Community School District Foundation. His father is a professor of anesthesia at the Roy J. and Lucille A. Carver College of Medicine at the University of Iowa, and an anesthesiologist at the University of Iowa Hospitals and Clinics.</p>
+        <p>The bride, who met the bridegroom during the time she was researching her book, continues a family tradition by marrying at St. Patrick's. Her parents were married there in 1971; her grandparents Marion Barrett and Joseph Murphy, in 1942, and her great grandparents Catherine Murphy and Thomas Barrett, in 1913.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marguerite Zorach -- A Life in Art</title>
+    <meta content="01gall-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851356"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E2D71530F932A35755C0A9619C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marguerite Zorach -- A Life in Art</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gerald Peters Gallery  24 East 78th Street, Manhattan  Through June 8</p>
+        <p>The art of Marguerite Zorach (1878-1968), painter, textile artist and wife of the sculptor William Zorach, is usually visible one or two works at a time in gallery and museum shows devoted to early American Modernism. This exhibition of about three dozen canvases ranging in dates from 1910 to the mid-1960s is the first in recent memory devoted solely to her work. It is not quite as top-notch as previous glimpses had led me to hope, but it is a moving and informative homage to a woman who was something of a pioneer of European Modernism in the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>Gerald Peters Gallery  24 East 78th Street, Manhattan  Through June 8</p>
+        <p>The art of Marguerite Zorach (1878-1968), painter, textile artist and wife of the sculptor William Zorach, is usually visible one or two works at a time in gallery and museum shows devoted to early American Modernism. This exhibition of about three dozen canvases ranging in dates from 1910 to the mid-1960s is the first in recent memory devoted solely to her work. It is not quite as top-notch as previous glimpses had led me to hope, but it is a moving and informative homage to a woman who was something of a pioneer of European Modernism in the United States.</p>
+        <p>The earliest and boldest works reflect the impact of four years of study in Paris (1908-12), where Zorach saw the work of the Fauves and began to paint landscapes in strong, flat colors, often outlined in black. In ''Skiff in Waves,'' from 1914, she makes a foray into Cubo-Futurism. With ''New England Farm,'' from around 1918, she gets some helpful hints from folk art, and with ''Prohibition,'' of 1920, which features a nude and two dressed men, she seems to be looking at Matisse and Chagall.</p>
+        <p>Zorach tackled all the usual subjects -- portraits, group portraits, still life, allegory, genre scenes and cityscapes -- but always with a sense of a flattened, somewhat chiseled Modernist infrastructure. A slightly awkward touch animates the paintings throughout, but it keeps a few too many of them slightly on edge and unresolved. The landscapes from her last 20 years or so -- especially ''Evening Star'' and ''Brook in Snow'' -- have a visionary strength applied to Modernist bones.</p>
+        <p>Zorach also worked in watercolor and drawing and from 1917 to the early '30s devoted most of her energies to needlepoint pieces that she considered paintings in wool and that were hailed as such by critics. Collected by Abby Aldrich Rockefeller, among others, they helped keep food on her family's table.</p>
+        <p>As Valerie Ann Leeds states in the show's catalog, William Zorach ''is known to have praised his wife as the better artist'' -- an opinion that I suspect others shared. A more thorough consideration of her work in all mediums would help determine how much better. This show is nonetheless a generous start.</p>
+        <p>ROBERTA SMITH</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

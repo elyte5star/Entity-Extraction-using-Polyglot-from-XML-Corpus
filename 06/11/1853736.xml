@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fewer Journalists Seeking Fellowships</title>
+    <meta content="11fellowships" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/media/11fellowships.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853736"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">Scholarships and Fellowships</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">New York Times</org>
+        <org class="online_producer">Chicago Tribune</org>
+        <org class="online_producer">University of Michigan</org>
+        <org class="online_producer">University of Maryland</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2DF173FF932A25755C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fewer Journalists Seeking Fellowships</hl1>
+        <hl2 class="online_headline">Fewer Journalists Seeking Fellowships</hl2>
+      </hedline>
+      <byline class="print_byline">By ANGEL JENNINGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Journalism fellowship programs are feeling the fallout of the media industry's turmoil.</p>
+        <p>Some prominent universities have noticed a drop in applications from American journalists. Stanford, M.I.T. and Harvard report a decline in journalists seeking to specialize in business, science or other disciplines. But foreign applications are pouring in at a record pace.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Journalism fellowship programs are feeling the fallout of the media industry’s turmoil.</p>
+      </block>
+      <block class="full_text">
+        <p>Journalism fellowship programs are feeling the fallout of the media industry's turmoil.</p>
+        <p>Some prominent universities have noticed a drop in applications from American journalists. Stanford, M.I.T. and Harvard report a decline in journalists seeking to specialize in business, science or other disciplines. But foreign applications are pouring in at a record pace.</p>
+        <p>The decline comes as many newsrooms are scaling back through buyouts and job cuts in response to declines in revenue as many readers turn to the Internet. Some in academia wonder if journalists are staying put to avoid losing their jobs.</p>
+        <p>This year, 83 Americans applied to the John S. Knight Fellowships Program at Stanford, down from 101 in 2006.</p>
+        <p>''We suspect the general turmoil in the news business is contributing to the decrease,'' the director of the program, James Bettinger, said.</p>
+        <p>Stanford did not receive any applications from employees at The New York Times, The Chicago Tribune, The Los Angeles Times and some other large newspapers.</p>
+        <p>''Journalists are afraid for their jobs,'' said Alex S. Jones, the director of the Joan Shorenstein Center on the Press, Politics and Public Policy at Harvard. ''They are afraid that if the newspaper can go on without them for a year, their job might be in jeopardy.''</p>
+        <p>Some programs, however, are faring well. Applications for programs at the University of Michigan and University of Maryland have held steady, the directors of the programs said.</p>
+        <p>Still, Boyce Rensberger, head of the Knight Science Journalism Fellowships at M.I.T., commented: ''I feel a little queasy encouraging young people into journalism. It's such a precarious industry right now.''</p>
+        <p>ANGEL JENNINGS</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

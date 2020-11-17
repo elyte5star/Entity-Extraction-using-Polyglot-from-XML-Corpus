@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dick Cheney Rules</title>
+    <meta content="03sun2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/03sun2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851951"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Vice Presidents and Vice Presidency (US)</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vice Presidents and Vice Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Halliburton Co</org>
+        <person class="online_producer">Cheney, Dick</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0DF1030F930A35755C0A9619C8B63" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dick Cheney Rules</hl1>
+        <hl2 class="online_headline">Dick Cheney Rules</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Americans are accustomed to Vice President Dick Cheney's waiting out a terrorist threat in a ''secure undisclosed location.'' Now it seems that Mr. Cheney wears the cloak of invisibility in secure disclosed locations.</p>
+        <p>The Associated Press reported that Mr. Cheney's office ordered the Secret Service last September to destroy all records of visitors to the official vice presidential mansion -- right after The Washington Post sued for access to the logs. That move was made in secret, naturally. It came out only because of another lawsuit, filed by a private group, Citizens for Responsibility and Ethics in Washington, seeking the names of conservative religious figures who visited the vice president's residence.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Cheney has privatized the job of vice president of the United States with his secrecy, impatience with government regulations, backroom dealings, and disdain for accountability.</p>
+      </block>
+      <block class="full_text">
+        <p>Americans are accustomed to Vice President Dick Cheney's waiting out a terrorist threat in a ''secure undisclosed location.'' Now it seems that Mr. Cheney wears the cloak of invisibility in secure disclosed locations.</p>
+        <p>The Associated Press reported that Mr. Cheney's office ordered the Secret Service last September to destroy all records of visitors to the official vice presidential mansion -- right after The Washington Post sued for access to the logs. That move was made in secret, naturally. It came out only because of another lawsuit, filed by a private group, Citizens for Responsibility and Ethics in Washington, seeking the names of conservative religious figures who visited the vice president's residence.</p>
+        <p>This disdain for accountability is distressing, but not surprising. Mr. Cheney has had it on display from his first days in office, when he refused to name the energy-industry executives who met with him behind closed doors to draft an energy policy.</p>
+        <p>In a similar way, Mr. Cheney seems unconcerned about little things like checks and balances and traditional American notions of judicial process. At one point, he gave himself the power to selectively declassify documents and selectively leak them to reporters. In a recent commencement address, he declaimed against prisoners who had the gall to ''demand the protections of the Geneva Convention and the Constitution of the United States.''</p>
+        <p>Mr. Cheney is the driving force behind the Bush administration's theory of the ''unitary executive,'' which holds that no one, including Congress and the courts, has the power to supervise or regulate the actions of the president. Just as he pays little attention to old-fangled notions of the separation of powers, Mr. Cheney does not overly bother himself about the bright line that should exist between his last job as chief of the energy giant Halliburton and his current one on the public payroll.</p>
+        <p>From 2001 to 2005, Mr. Cheney received ''deferred salary payments'' from Halliburton that far exceeded what taxpayers gave him. Mr. Cheney still holds hundreds of thousands of stock options that have ballooned by millions of dollars as Halliburton profited handsomely from the war in Iraq.</p>
+        <p>Reviewing this record -- secrecy, impatience with government regulations, backroom dealings, handsome paydays -- it dawned on us that Mr. Cheney is in step with the times. He has privatized the job of vice president of the United States.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

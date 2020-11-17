@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Women Who Drink a Little May Lower Heart-Attack Risk</title>
+    <meta content="05hear" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/health/05hear.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852257"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: HEART HEALTH"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="online_producer" type="descriptor">Heart</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5DB1130F936A35755C0A9619C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Women Who Drink a Little May Lower Heart-Attack Risk</hl1>
+        <hl2 class="online_headline">Heart Health: Women Who Drink a Little May Lower Heart-Attack Risk</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Women who drink moderate amounts of alcohol may reduce their risk for nonfatal heart attack, provided that they do not become drunk, according to a recent study.</p>
+        <p>Researchers studied 320 women ages 35 to 69 who had had heart attacks, comparing them with 1,565 healthy women matched for age. The scientists also recorded information on smoking, diet, physical activity and other health-related factors. The study  was published in the May issue of the journal Addiction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Women who drink moderate amounts of alcohol may reduce their risk for nonfatal heart attack, a recent study suggests.</p>
+      </block>
+      <block class="full_text">
+        <p>Women who drink moderate amounts of alcohol may reduce their risk for nonfatal heart attack, provided that they do not become drunk, according to a recent study.</p>
+        <p>Researchers studied 320 women ages 35 to 69 who had had heart attacks, comparing them with 1,565 healthy women matched for age. The scientists also recorded information on smoking, diet, physical activity and other health-related factors. The study  was published in the May issue of the journal Addiction.</p>
+        <p>After adjusting for age, race, education, smoking and body mass index, women who had a daily alcoholic drink had a 31 percent reduced risk of a nonfatal heart attack compared with those who drink less than one drink a day. But among those who drank at all, becoming drunk even once a month -- and by that the researchers mean drinking enough to cause slurred speech or unsteady gait -- led to an almost sixfold increase in the likelihood of a heart attack.</p>
+        <p>The authors acknowledge that the participation rate was not optimal, that the information was based on self-reports that could be subject to error and that there might be unknown variables affecting the results. Also, few women in the study were heavy drinkers, limiting the ability to draw conclusions about that group.</p>
+        <p>''The findings have important implications,'' said Joan M. Dorn, the lead author and an associate professor of social and preventive medicine at the State University of New York at Buffalo. ''But I wouldn't interpret these findings as a reason to begin drinking alcohol. The message is that a small amount is O.K., and drinking to intoxication can be harmful.''</p>
+        <p>VITAL SIGNS: HEART HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

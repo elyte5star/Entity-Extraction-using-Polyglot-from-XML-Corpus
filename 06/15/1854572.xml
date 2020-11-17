@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Justice Dept. Expands Inquiry of Gonzales</title>
+    <meta content="15attorney" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/washington/15attorney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854572"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Justice Department</org>
+        <person class="online_producer">Gonzales, Alberto R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDE153FF936A25755C0A9619C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Justice Dept. Expands Inquiry of Gonzales</hl1>
+        <hl2 class="online_headline">Justice Dept. Expands Inquiry of Gonzales</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID JOHNSTON</byline>
+      <dateline>WASHINGTON, June 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Justice Department internal inquiry will examine whether Attorney General Alberto R. Gonzales improperly tried to influence the testimony of a senior adviser in a private meeting in March in which the two discussed the dismissal of federal prosecutors, department officials said on Thursday.</p>
+        <p>In a letter to the Senate Judiciary Committee, the two Justice Department officials conducting the investigation said their inquiry would broaden to explore accusations made about Mr. Gonzales by the former adviser, Monica M. Goodling, in her testimony before the House Judiciary Committee on May 23.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Justice Department internal inquiry will examine whether Attorney General Alberto R. Gonzales improperly tried to influence the testimony of a senior adviser.</p>
+      </block>
+      <block class="full_text">
+        <p>A Justice Department internal inquiry will examine whether Attorney General Alberto R. Gonzales improperly tried to influence the testimony of a senior adviser in a private meeting in March in which the two discussed the dismissal of federal prosecutors, department officials said on Thursday.</p>
+        <p>In a letter to the Senate Judiciary Committee, the two Justice Department officials conducting the investigation said their inquiry would broaden to explore accusations made about Mr. Gonzales by the former adviser, Monica M. Goodling, in her testimony before the House Judiciary Committee on May 23.</p>
+        <p>''This is to confirm that the scope of our investigation does include this matter,'' said the letter signed by the two officials, Glenn A. Fine, the department's inspector general, and H. Marshall Jarrett, counsel for the department's Office of Professional Responsibility.</p>
+        <p>Brian Roehrkasse, a department spokesman, said in a statement, ''We've previously stated that the attorney general has never attempted to influence or shape the testimony or public statements of any witness in this matter, including Ms. Goodling, and that the statements made by the attorney general during this meeting were intended only to comfort her in a very difficult period of her life.''</p>
+        <p>But Mr. Gonzales has also said in Congressional testimony that he has avoided discussions about the dismissals with subordinates in an effort to avoid compromising any investigation.</p>
+        <p>The continuing inquiry has been focused on two subjects: whether Justice Department officials engaged in misconduct in the ouster of the federal prosecutors, and whether the officials improperly considered political affiliations in the hiring of lower-level, nonpolitical employees and nonpartisan immigration judges.</p>
+        <p>In her testimony last month, Ms. Goodling said that her conversation at the meeting with Mr. Gonzales left her feeling ''uncomfortable'' because he said at one point that all the prosecutors had been fired for performance reasons when at least one, H. E. Cummins, was removed in Arkansas to create a vacancy for Timothy Griffin, a White House favorite.</p>
+        <p>In her testimony, Ms. Goodling described meeting alone with Mr. Gonzales shortly before she resigned from the department. She said Mr. Gonzales offered his recollection of the events surrounding the dismissals, including his assertion that Mr. Cummins had been fired for performance reasons, and then asked whether she had ''any reaction to his iteration.''</p>
+        <p>Ms. Goodling said that because there were already inquiries into the firings: ''I didn't know that it was maybe appropriate for us to talk about that at that point, and so I just didn't. As far as I can remember, I just didn't respond.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

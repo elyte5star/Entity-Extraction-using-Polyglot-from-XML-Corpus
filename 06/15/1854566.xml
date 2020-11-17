@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Indian Tycoon Considers Buying Airline Stake</title>
+    <meta content="15jet" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/business/worldbusiness/15jet.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854566"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">SpiceJet</org>
+        <org class="indexing_service">Ub Group</org>
+        <org class="indexing_service">Goldman Sachs Group</org>
+        <org class="indexing_service">Hsbc Holdings</org>
+        <org class="indexing_service">Kingfisher Plc</org>
+        <org class="indexing_service">Jet Airways</org>
+        <person class="indexing_service">Mallya, Vijay</person>
+        <person class="indexing_service">Timmons, Heather</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <person class="online_producer">Mallya, Vijay</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E0DE153FF936A25755C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Indian Tycoon Considers Buying Airline Stake</hl1>
+        <hl2 class="online_headline">Indian Tycoon Considers Buying Airline Stake</hl2>
+      </hedline>
+      <byline class="print_byline">By HEATHER TIMMONS</byline>
+      <byline class="normalized_byline">Timmons, Heather</byline>
+      <dateline>MUMBAI, India, June 14</dateline>
+      <abstract>
+        <p>Indian tycoon Vijay Mallya, chairman of UB Group, is in talks to acquire stake in SpiceJet, publicly traded Indian airline backed by Dubai investment fund and group of investment banks including Goldman Sachs and HSBC; any combination would increase advantages of scale that Mallya's Kingfisher Airlines has over its nearest rival Jet Airways (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Indian tycoon, Vijay Mallya, is pursuing another takeover deal, soon after buying a stake in a rival airline, as well as a Scottish liquor company.</p>
+        <p>Mr. Mallya, chairman of the UB Group, an airline and liquor conglomerate, is in talks to acquire a stake in SpiceJet, a publicly traded Indian airline backed by a Dubai investment fund and a group of investment banks including Goldman Sachs and HSBC. Any combination would increase the advantages of scale that Mr. Mallya's Kingfisher Airlines has over its nearest rival, Jet Airways, and speed consolidation in the money-losing Indian airline business.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Vijay Mallya is pursuing another takeover deal, soon after buying a stake in a rival airline, as well as a Scottish liquor company.</p>
+      </block>
+      <block class="full_text">
+        <p>An Indian tycoon, Vijay Mallya, is pursuing another takeover deal, soon after buying a stake in a rival airline, as well as a Scottish liquor company.</p>
+        <p>Mr. Mallya, chairman of the UB Group, an airline and liquor conglomerate, is in talks to acquire a stake in SpiceJet, a publicly traded Indian airline backed by a Dubai investment fund and a group of investment banks including Goldman Sachs and HSBC. Any combination would increase the advantages of scale that Mr. Mallya's Kingfisher Airlines has over its nearest rival, Jet Airways, and speed consolidation in the money-losing Indian airline business.</p>
+        <p>SpiceJet, with 11 planes, started in 2005 with the pledge to be a ''low-fare airline that will not treat passengers as sheep.'' The company trades on the Bombay Stock Exchange and plans to have 25 aircraft by 2008.</p>
+        <p>Mr. Mallya said in an interview Thursday that he was considering a deal, confirming market speculation. ''Am I interested?'' he said during the interview here. ''The answer is 'yes,' '' he said. Am I going to get it? The answer is, 'I don't know.' ''</p>
+        <p>Jet Airways is also interested in buying part of SpiceJet, according to a television report. Jet Airways and SpiceJet officials were not available to comment late Thursday.</p>
+        <p>Three deals in a row are not too many, Mr. Mallya insisted. ''I completed the Whyte &amp; Mackay acquisition weeks ago,'' he said, speaking of the Scottish liquor deal. As he was ''breathing a sign of relief'' after that deal closed, management from a rival, Air Deccan, said they were interested in a deal, he said.</p>
+        <p>Air Deccan's corporate entity, Deccan Aviation, and Kingfisher agreed on a transaction in 72 hours, he noted. Kingfisher now owns 26 percent of Air Deccan, making his company the largest stakeholder.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Accused Of Slashing Wife's Throat</title>
+    <meta content="10slay" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/nyregion/10slay.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853355"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E3D9163FF933A25755C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Accused Of Slashing Wife's Throat</hl1>
+        <hl2 class="online_headline">Man Accused of Slashing Wife’s Throat</hl2>
+      </hedline>
+      <byline class="print_byline">By CARA BUCKLEY; Mathew R. Warren contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Bronx man killed his common-law wife by slashing her throat early yesterday and then slit his own neck, the police said.</p>
+        <p>The police had not charged the man, Will Vega, 30, who was in critical condition at Lincoln Medical and Mental Health Center.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Bronx man killed his common-law wife by slashing her throat early yesterday and then slit his own neck, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A Bronx man killed his common-law wife by slashing her throat early yesterday and then slit his own neck, the police said.</p>
+        <p>The police had not charged the man, Will Vega, 30, who was in critical condition at Lincoln Medical and Mental Health Center.</p>
+        <p>When officers arrived at the couple's apartment at 1304 Grand Concourse about 5 a.m. yesterday, the attack had already taken place, the police said. Mr. Vega and his wife, Yesmin Reyes, 30, were taken to Lincoln medical center, where Ms. Reyes was declared dead at 5:50 a.m. A bloodied knife was later found in the apartment.</p>
+        <p>Mr. Vega and Ms. Reyes shared the apartment with their teenage twin daughters and 1-year-old son, who were at home when the attack took place, the police said.</p>
+        <p>Mohammed Ismail, 30, who had been a neighbor of the couple for five years, said they fought often.</p>
+        <p>Mr. Ismail said he frequently heard shouts over music coming from the apartment. He said that he and his wife had tried to talk to Ms. Reyes about the fighting, but ''she always kept quiet.''</p>
+        <p>Mr. Vega had prior arrests for selling drugs, according to the police.</p>
+        <p>Neighbors said Ms. Reyes, whose parents were from El Salvador, had lived in the building her whole life. She worked as a secretary in Manhattan and sold Avon products in the Bronx, they said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

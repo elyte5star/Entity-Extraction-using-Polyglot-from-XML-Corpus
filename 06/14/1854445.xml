@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Health Care, Cost Isn't Proof Of High Quality</title>
+    <meta content="14insure" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/health/14insure.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854445"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicare</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Surgery and Surgeons</classifier>
+        <location class="indexing_service">Pennsylvania</location>
+        <org class="indexing_service">Pennsylvania Health Care Cost Containment Council</org>
+        <person class="indexing_service">Abelson, Reed</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3D8143FF937A25755C0A9619C8B63" item-length="1068" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Health Care, Cost Isn't Proof Of High Quality</hl1>
+        <hl2 class="online_headline">In Health Care, Cost Isn’t Proof of High Quality</hl2>
+      </hedline>
+      <byline class="print_byline">By REED ABELSON</byline>
+      <byline class="normalized_byline">Abelson, Reed</byline>
+      <abstract>
+        <p>Pennsylvania study of 60 hospitals that perform heart bypass surgery finds that higher cost hospitals do not necessarily provide higher quality patient care; finds that heart bypass patients at highest-paid hospitals have comparable lengths of stay and death rates with patients at lowest-paid hospitals; findings support growing national belief that there is no connection between quality and cost of medical care; report, by Pennsylvania Health Care Cost Containment Council, finds great disparity in costs paid by commercial insurers, which must negotiate their rates hospital by hospital; Medicare pays essentially flat fee, regardless of outcome, which rewards hospitals for providing more care, not better care; hospitals say small number of very expensive cases can push up their averages, but this does not fully explain discrepancy; chart of hospitals' heart bypass data and costs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stark evidence that high medical payments do not necessarily buy high-quality patient care is presented in a hospital study set for release today.</p>
+        <p>In a Pennsylvania government survey of the state's 60 hospitals that perform heart bypass surgery, the best-paid hospital received nearly $100,000, on average, for the operation while the least-paid got less than $20,000. At both, patients had comparable lengths of stay and death rates.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study presents stark evidence that high medical payments do not buy high-quality patient care.</p>
+      </block>
+      <block class="full_text">
+        <p>Stark evidence that high medical payments do not necessarily buy high-quality patient care is presented in a hospital study set for release today.</p>
+        <p>In a Pennsylvania government survey of the state's 60 hospitals that perform heart bypass surgery, the best-paid hospital received nearly $100,000, on average, for the operation while the least-paid got less than $20,000. At both, patients had comparable lengths of stay and death rates.</p>
+        <p>And among the 20 hospitals serving metropolitan Philadelphia, two of the highest paid actually had higher-than-expected death rates, the survey found.</p>
+        <p>Hospitals say there are numerous reasons for some of the high payments, including the fact that a single very expensive case can push up the averages.</p>
+        <p>Still, the Pennsylvania findings support a growing national consensus that as consumers, insurers and employers pay more for care, they are not necessarily getting better care. Expensive medicine may, in fact, be poor medicine.</p>
+        <p>''For most consumers, the fact that there is no connection between quality and cost is one of the dirty secrets of medicine,'' said Peter V. Lee, the chief executive of the Pacific Business Group on Health, a California group of employers that provide health care coverage for workers.</p>
+        <p>Some Pennsylvania employers said the state's findings, based on data from 2005, might put more pressure on insurance carriers and hospitals to start demonstrating the value of care. ''It now provides us a tool to have a serious dialogue with our carriers,'' said Mark Dever, a benefits consultant for Duquesne Light, a regional utility in Pittsburgh.</p>
+        <p>''We have to question,'' he said. ''There's a big difference in price -- why?''</p>
+        <p>The report by the Pennsylvania Health Care Cost Containment Council, a state agency, provides a rare public glimpse of detailed information about hospital payments and patient outcomes. And the seemingly random nature of the payments is striking.</p>
+        <p>Although federal Medicare payments are largely fixed, they varied somewhat among the Pennsylvania hospitals surveyed. The far greater disparity involved commercial insurers, which must negotiate their rates hospital by hospital.</p>
+        <p>And the survey found that good care can go unrewarded. One Philadelphia area hospital, Main Line Health's Lankenau center, which performs a large number of bypass surgeries and has a high success rate, according to the survey, was paid an average of $33,549 by private insurers. That was less than half the nearly $80,000 in average payments received by the other hospitals, with poorer track records.</p>
+        <p>''It doesn't make sense,'' said Marc P. Volavka, the executive director of the Pennsylvania Health Care Cost Containment Council. ''Certain payers are paying an awful lot for poor quality.''</p>
+        <p>He points to some of the experiments to change how hospitals are paid, like Geisinger Health System in central Pennsylvania, which is trying to demonstrate its commitment to high-quality care by offering a 30-day warranty on its cardiac surgery.</p>
+        <p>''The current reimbursement paradigm is fundamentally broken,'' said Dr. Ronald Paulus, an executive with Geisinger, who says there is no current financial incentive for a hospital to provide the kind of care that leads to better outcomes and lower payments.</p>
+        <p>Pennsylvania is the first state to make such information, normally closely guarded by the hospitals and the insurers, available to everyone -- including patients who may never see their hospital bills or be aware of how their hospitals compare with others in the state.</p>
+        <p>The council collected the payment data from the insurers and calculated averages of the payments to each hospital. So each hospital's average includes small numbers of extraordinarily high-cost cases, where patients may have developed complications and had lengthy hospital stays.</p>
+        <p>As a result, a hospital with a relatively low number of surgeries but a high number of costly cases, could wind up with a high average payment. In the Philadelphia area, for example, Lower Bucks Hospital says its average of nearly $100,000 paid by commercial insurers for a bypass patient was skewed by a single very expensive case. Without that case, its average would be closer to $40,000, the hospital said.</p>
+        <p>But fully explaining the discrepancies in payments and quality of care is difficult.</p>
+        <p>In Philadelphia, heart patients have a choice among several academic medical centers. Two, Albert Einstein and Hahnemann University, were paid nearly $80,000, on average, for treating a bypass patient. The hospitals at the University of Pennsylvania and Thomas Jefferson University, whose patients did as well or better, were paid much less.</p>
+        <p>Both Albert Einstein and Hahnemann disputed the survey's findings, saying payments they receive are lower than the state is reporting.</p>
+        <p>Hahnemann says its calculations show the average to be significantly lower -- $23, 420 -- rather than the $78,312 reported in the survey.</p>
+        <p>The council conceded that the pool of Hahnemann patients it used for its calculations was different from the patients the hospital might count. The council defended its conclusions, saying it used the same methodology for all the hospitals surveyed.</p>
+        <p>As for the quality measures, Hahnemann says its higher-than-expected mortality rates might reflect the hospital's own poor record-keeping, which it says did not give the state an accurate picture of how sick some of its patients were before their surgeries. As eye-opening as the Pennsylvania report may be to the public, insurers have already been aware that their payment practices do not necessarily encourage hospitals to provide better care. Medicare, for example, pays essentially a flat fee, which varies depending on location and type of hospital, for the same surgery, regardless of outcome. Complications tend to simply mean additional payments. And many insurers follow the government's lead.</p>
+        <p>And so hospitals are rewarded for providing more care, not better care.</p>
+        <p>''The Medicare program pays for services,'' said Leslie Norwalk, the acting administrator for the federal program, who says hospitals are reimbursed even if the care they are providing is a result of a mistake or avoidable hospital infection.</p>
+        <p>Independence Blue Cross, which is Philadelphia's largest private insurer, says the difficulty lies in finding the right measures to use to pay for quality care.</p>
+        <p>''Philosophically, you're not going to get an argument from us,'' said Dr. Richard Snyder, a senior executive at Independence. ''We believe we should pay more for high quality than poor quality.''</p>
+        <p>He says hospitals that are poor performers do risk being excluded from its network, as happened in one case with a hospital -- which he would not identify -- that was not allowed to deliver cardiac care to the plan's members for a year until the hospital improved its performance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

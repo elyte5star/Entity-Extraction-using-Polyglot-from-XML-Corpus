@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="10transaxe" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853332"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFDC163FF933A25755C0A9619C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>LEAGUE--Suspended Chicago White Sox C A.J. Pierzynski one game and fined him an undisclosed amount for inappropriate actions during a June 7 game against the Yankees.</p>
+        <p>American League  BOSTON RED SOX--Activated RHP Mike Timlin from the 15-day DL. Designated LHP J.C. Romero for assignment.  YANKEES--Optioned RHP Chris Britton to Scranton/Wilkes-Barre (IL). Purchased the contract of RHP Roger Clemens from Scranton. Transferred RHP Phil Hughes from the 15- to the 60-day DL.  OAKLAND ATHLETICS--Traded C Adam Melhuse to Texas for cash.  TEXAS RANGERS--Placed 1B Mark Teixeira on the 15-day DL. Recalled INF Travis Metcalf from Frisco (Texas). Activated OF Brad Wilkerson from the 15-day DL. Optioned RHP Kameron Loe to Oklahoma (PCL).</p>
+        <p>National League  ATLANTA BRAVES--Placed RHP Lance Cormier on the 15-day DL. Recalled RHP Buddy Carlyle from Richmond (IL).  CHICAGO CUBS--Placed OF Cliff Floyd on the bereavement list. Purchased the contract of RHP Mike Fontenot from Iowa (PCL).  PHILADELPHIA PHILLIES--Placed RHP Freddy Garcia on the 15-day DL. Signed RHP Jose Mesa.  PITTSBURGH PIRATES--Placed RHP Salomon Torres on the 15-day DL. Purchased the contract of RHP Masumi Kuwata from Indianapolis (IL).</p>
+        <p>N.F.L.</p>
+        <p>CAROLINA PANTHERS--Signed TE Dante Rosario.</p>
+      </block>
+      <block class="full_text">
+        <p>MAJOR LEAGUE BASEBALL</p>
+        <p>LEAGUE--Suspended Chicago White Sox C A.J. Pierzynski one game and fined him an undisclosed amount for inappropriate actions during a June 7 game against the Yankees.</p>
+        <p>American League  BOSTON RED SOX--Activated RHP Mike Timlin from the 15-day DL. Designated LHP J.C. Romero for assignment.  YANKEES--Optioned RHP Chris Britton to Scranton/Wilkes-Barre (IL). Purchased the contract of RHP Roger Clemens from Scranton. Transferred RHP Phil Hughes from the 15- to the 60-day DL.  OAKLAND ATHLETICS--Traded C Adam Melhuse to Texas for cash.  TEXAS RANGERS--Placed 1B Mark Teixeira on the 15-day DL. Recalled INF Travis Metcalf from Frisco (Texas). Activated OF Brad Wilkerson from the 15-day DL. Optioned RHP Kameron Loe to Oklahoma (PCL).</p>
+        <p>National League  ATLANTA BRAVES--Placed RHP Lance Cormier on the 15-day DL. Recalled RHP Buddy Carlyle from Richmond (IL).  CHICAGO CUBS--Placed OF Cliff Floyd on the bereavement list. Purchased the contract of RHP Mike Fontenot from Iowa (PCL).  PHILADELPHIA PHILLIES--Placed RHP Freddy Garcia on the 15-day DL. Signed RHP Jose Mesa.  PITTSBURGH PIRATES--Placed RHP Salomon Torres on the 15-day DL. Purchased the contract of RHP Masumi Kuwata from Indianapolis (IL).</p>
+        <p>N.F.L.</p>
+        <p>CAROLINA PANTHERS--Signed TE Dante Rosario.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

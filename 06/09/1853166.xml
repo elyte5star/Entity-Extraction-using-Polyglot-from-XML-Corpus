@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHINA PUSHES SAFETY</title>
+    <meta content="09five-3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853166"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E5DD163FF93AA35755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHINA PUSHES SAFETY</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID BARBOZA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China said late Tuesday that it was overhauling its food and drug safety regulations and would introduce nationwide inspections.</p>
+        <p>Beijing is moving to crack down on the sale of dangerous food and medicine and trying to calm fears that some of its exports pose health problems.</p>
+      </block>
+      <block class="full_text">
+        <p>China said late Tuesday that it was overhauling its food and drug safety regulations and would introduce nationwide inspections.</p>
+        <p>Beijing is moving to crack down on the sale of dangerous food and medicine and trying to calm fears that some of its exports pose health problems.</p>
+        <p>The announcement follows a series of embarrassing episodes this year involving China's export of tainted pet food ingredients and toothpaste. While China has strongly defended the quality and safety of its food and drug exports, and even denied that the toothpaste it exported was unsafe, it is pushing for a more forceful response to the situation.</p>
+        <p>By 2010, China plans to place new controls on food and drug imports and exports and to step up random testing on medicines. It also said that it would have information on inspections of 90 percent of all food products.</p>
+        <p>DAVID BARBOZA</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

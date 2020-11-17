@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Arbitration For Sotheby's</title>
+    <meta content="01mbrfs-6" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851374"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0D71530F932A35755C0A9619C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Arbitration For Sotheby's</hl1>
+      </hedline>
+      <byline class="print_byline">By CHARLES V. BAGLI; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A State Supreme Court judge has granted Sotheby's auction house a temporary restraining order that blocks its landlord from selling its longtime home on York Avenue while the two sides wrestle over the property. The developer Aby Rosen bought the 10-story building from Sotheby's in 2002 for $175 million and leased it back to the company. The two sides had a falling out earlier this year when Mr. Rosen put the building up for sale. Sotheby's contends that it has the right under the terms of its lease to buy the building for a fraction of the $465 million Mr. Rose has demanded. The injunction, granted on Wednesday, allows the two to proceed with what is known as baseball arbitration, in which an arbitrator declares one side or the other the winner.</p>
+        <p>CHARLES V. BAGLI</p>
+      </block>
+      <block class="full_text">
+        <p>A State Supreme Court judge has granted Sotheby's auction house a temporary restraining order that blocks its landlord from selling its longtime home on York Avenue while the two sides wrestle over the property. The developer Aby Rosen bought the 10-story building from Sotheby's in 2002 for $175 million and leased it back to the company. The two sides had a falling out earlier this year when Mr. Rosen put the building up for sale. Sotheby's contends that it has the right under the terms of its lease to buy the building for a fraction of the $465 million Mr. Rose has demanded. The injunction, granted on Wednesday, allows the two to proceed with what is known as baseball arbitration, in which an arbitrator declares one side or the other the winner.</p>
+        <p>CHARLES V. BAGLI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

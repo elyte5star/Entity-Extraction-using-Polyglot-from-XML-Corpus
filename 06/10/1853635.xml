@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tatiana Rosak, Craig Birkelund</title>
+    <meta content="10rosak" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853635"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Rosak, Tatiana Lara (Tatiana Lara Birkelund)</person>
+        <person class="indexing_service">Birkelund, Craig Nils</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E7D61F30F933A25755C0A9619C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tatiana Rosak, Craig Birkelund</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tatiana Lara Rosak, a daughter of Ellen and Charles J. Rosak of Sparta, N.J., was married yesterday to Craig Nils Birkelund, the son of Brit and Helmer B. Birkelund of Baldwin, N.Y. The Rev. Edward Barnett officiated at Holy Trinity Lutheran Church in Manhattan, with the Rev. Robert A. Rimbo taking part.</p>
+        <p>Mrs. Birkelund, 36, is a vice president for sportswear merchandising at Polo Ralph Lauren in Manhattan. She graduated from Cornell and received an M.B.A. there. Her father retired as a captain at Delta Airlines, based at La Guardia Airport.</p>
+      </block>
+      <block class="full_text">
+        <p>Tatiana Lara Rosak, a daughter of Ellen and Charles J. Rosak of Sparta, N.J., was married yesterday to Craig Nils Birkelund, the son of Brit and Helmer B. Birkelund of Baldwin, N.Y. The Rev. Edward Barnett officiated at Holy Trinity Lutheran Church in Manhattan, with the Rev. Robert A. Rimbo taking part.</p>
+        <p>Mrs. Birkelund, 36, is a vice president for sportswear merchandising at Polo Ralph Lauren in Manhattan. She graduated from Cornell and received an M.B.A. there. Her father retired as a captain at Delta Airlines, based at La Guardia Airport.</p>
+        <p>Mr. Birkelund, 40, works with banking and financial services clients in the Manhattan office of Infosys Technologies, an information technology and consulting business in India. He graduated from Skidmore and received an M.B.A. from the London Business School. His mother is a manager in the cargo division of Air China at John F. Kennedy Airport, and his father retired as a carpenter at Queens Hospital Center in Jamaica.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

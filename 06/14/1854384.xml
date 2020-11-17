@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wall Street to Get Guidelines on E-Mail</title>
+    <meta content="14devices" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14devices.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854384"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Nyse Group</org>
+        <org class="indexing_service">Nasd</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">De La Merced, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Wall Street (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE7D9143FF937A25755C0A9619C8B63" item-length="649" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wall Street to Get Guidelines on E-Mail</hl1>
+        <hl2 class="online_headline">Wall Street to Get Guidelines on E-Mail</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+      <byline class="normalized_byline">De La Merced, Michael J</byline>
+      <abstract>
+        <p>NYSE Regulation and NASD are expected to release proposed guidelines for regulation of written electronic communications, including internal and external exchanges; guidelines represent nearly two years of work by committee of NYSE Regulation and NASD, Wall Street firms and lawyers, as well as contributions by Securities and Exchange Commission; guidelines suggest that brokers should limit use of their personal cellphones and that companies should not allow use of instant messaging or pin messaging if they cannot monitor it properly (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Try to imagine Wall Street getting through one day without cellphones, BlackBerrys or sending messages through Bloomberg terminals. No, really.</p>
+        <p>Every day, potentially millions of dollars are at stake as electronic communications whiz through the air. Yet that ever-expanding number of ways to communicate -- like hand-held BlackBerrys, text messages and instant messaging -- have raised concerns about the spread of confidential information through unsecure devices.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The ever-expanding number of ways to communicate has raised concerns about the spread of confidential information through unsecure devices.</p>
+      </block>
+      <block class="full_text">
+        <p>Try to imagine Wall Street getting through one day without cellphones, BlackBerrys or sending messages through Bloomberg terminals. No, really.</p>
+        <p>Every day, potentially millions of dollars are at stake as electronic communications whiz through the air. Yet that ever-expanding number of ways to communicate -- like hand-held BlackBerrys, text messages and instant messaging -- have raised concerns about the spread of confidential information through unsecure devices.</p>
+        <p>In response, the industry's two self-policing groups, N.Y.S.E. Regulation and NASD, are expected today to release proposed guidelines for the regulation of written electronic communications, including internal and external exchanges.</p>
+        <p>The guidelines represent nearly two years of work by a committee of N.Y.S.E. Regulation and NASD, Wall Street firms and lawyers, as well as contributions by the Securities and Exchange Commission.</p>
+        <p>They are intended to clarify how forms of communication unimaginable when the rules were last revised, in 1998, fit into existing regulations, said Grace Vogel, the executive vice president of N.Y.S.E. Regulation who led the committee.</p>
+        <p>But some outside the committee said that regulation and enforcement would undoubtedly follow.</p>
+        <p>''I expect that the codification of these best practices has little practical effect other than in bringing regulatory actions against their members,'' Ron S. Geffner, a lawyer at Sadis &amp; Goldberg who previous worked at the S.E.C., said.</p>
+        <p>James D. Cox, a professor of corporate and securities law at Duke, said the new proposal was a small but important step.</p>
+        <p>''It won't be the last whack at the problem,'' Professor Cox said. ''But it's a modest beginning.''</p>
+        <p>Though Wall Street has learned the consequences of paying too little attention to messages zipping through its corporate pipelines -- ask Merrill Lynch about Henry Blodget -- other ways of communicating have cropped up faster than regulators have been able to address them.</p>
+        <p>What has emerged in the latest revision is a series of recommendations on how to monitor text-based communications from these firms. The overarching principle: if firms cannot supervise or review the messages, or if the sender cannot be identified, they should consider blocking them from the workplace.</p>
+        <p>The goal was not to deprive bankers, traders and brokers of their BlackBerrys or market terminals, said Ben A. Indek, a partner at Morgan, Lewis &amp; Bockius and a committee member, but to offer companies guidance on how to monitor their use.</p>
+        <p>While many firms have already addressed some of these concerns -- like blocking sites for personal e-mail messages -- Ms. Vogel said that many Wall Street executives felt that regulators needed to address the issue more broadly.</p>
+        <p>In addition, the guidelines suggest that brokers should limit the use of their personal cellphones and that companies should not allow the use of instant messaging or pin messaging if they cannot monitor it properly.</p>
+        <p>Among the discussions at the inaugural meeting was defining ''electronic communications.'' The task took three hours, Ms. Vogel said.</p>
+        <p>One of the ground rules the committee worked under was that any proposals would emerge as principles rather than rules.</p>
+        <p>The decision, members said, underscored concerns about cost, as smaller firms worried that they could not institute the types of systems used at larger companies. Instead, the proposal urges firms to consider what is appropriate for their size and business models.</p>
+        <p>''We didn't necessarily want mechanistic guidance, that you must look at X number of e-mails,'' Marc Menchel, executive vice president and general counsel at NASD, said.</p>
+        <p>Another reason was a recognition that a list of guidelines could more easily accommodate the rapid evolution of technology. Rather than a list that prohibited means of communication, the guidelines lay the groundwork for a wider scope, not limiting regulators from addressing the BlackBerrys of tomorrow.</p>
+        <p>Gaining consensus within the committee was challenging, especially on the inclusion of internal e-mail communications, an item flagged by NASD and the S.E.C. Several firms pointed out that certain kinds of messages, like those between bankers and analysts, are prohibited.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

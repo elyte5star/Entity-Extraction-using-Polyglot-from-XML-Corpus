@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Giambi Will Be Out Several Weeks With a Foot Injury</title>
+    <meta content="01giambi" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/sports/baseball/01giambi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851283"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Giambi, Jason</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0D91530F932A35755C0A9619C8B63" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Giambi Will Be Out Several Weeks With a Foot Injury</hl1>
+        <hl2 class="online_headline">Giambi Will Be Out Several Weeks With a Foot Injury</hl2>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER; Jack Curry contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jason Giambi tore the plantar fascia in his left foot while trotting around second base after hitting a home run on Tuesday in Toronto. He had already been hobbled by the injury, and when he felt a pop during his trot, he feared the worst.</p>
+        <p>But Giambi did not admit much after the game, saying only that his foot was sore. He played again on Wednesday and batted five times as the designated hitter, driving in three runs to help the Yankees stop a five-game losing streak.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jason Giambi tore the plantar fascia in his left foot while trotting around second base after hitting a home run on Tuesday in Toronto.</p>
+      </block>
+      <block class="full_text">
+        <p>Jason Giambi tore the plantar fascia in his left foot while trotting around second base after hitting a home run on Tuesday in Toronto. He had already been hobbled by the injury, and when he felt a pop during his trot, he feared the worst.</p>
+        <p>But Giambi did not admit much after the game, saying only that his foot was sore. He played again on Wednesday and batted five times as the designated hitter, driving in three runs to help the Yankees stop a five-game losing streak.</p>
+        <p>That will be his last game for several weeks. An examination in New York yesterday revealed the torn plantar fascia -- the tissue connecting the heel to the area near the toes -- and Giambi will wear a walking boot for three weeks to immobilize the foot.</p>
+        <p>''It's hard to get a better idea about the time frame,'' Yankees General Manager Brian Cashman said. ''I'm not in a position of saying how long. I think we'll have a better idea after he's reevaluated in three weeks.''</p>
+        <p>Giambi was placed on the disabled list, with outfielder Kevin Thompson joining the Yankees today in Boston. The Yankees will also recall a reliever, Chris Britton, and will return Matt DeSalvo or Tyler Clippard to Class AAA Scranton/Wilkes-Barre.</p>
+        <p>Since Commissioner Bud Selig is expected to decide soon whether to discipline Giambi for his tacit admission of steroid use, there is a chance that Giambi could receive a suspension and miss even more time than the stint on the D.L. If Selig did try to suspend Giambi, Giambi would then decide if he wants the players union to file a grievance on his behalf.</p>
+        <p>With Giambi out, Melky Cabrera will assume a regular role in the outfield and the Yankees will have more chances to use Johnny Damon and Hideki Matsui as the designated hitter. Damon has battled leg problems all season, and Matsui missed two weeks in April with a strained hamstring.</p>
+        <p>Giambi is batting .262 with 7 home runs and 23 runs batted in. He was bothered by a bone spur in his left heel in early May and had custom orthotics made for his shoes in the middle of the month.</p>
+        <p>But Giambi still felt limited at the plate, finding it impossible to load the full force of his weight on the troublesome back foot. That made it hard to drive the ball to right field; his homer on Tuesday went the opposite way.</p>
+        <p>Giambi heard from the former Angels outfielder Tim Salmon about plantar fasciitis, which Salmon dealt with in 1998 and compared to stepping on a nail with every stride. As Salmon discovered then, Giambi learned that the only thing to do was to play through the pain and hope the plantar fascia did not snap.</p>
+        <p>Now that it has, Giambi will try to heal at a time when the Yankees, at seven games under .500, could use his power.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

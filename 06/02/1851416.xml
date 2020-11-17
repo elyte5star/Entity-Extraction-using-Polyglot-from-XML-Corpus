@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Memorial Unit At Ground Zero Lists Donors</title>
+    <meta content="02foundation" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851416"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E3D71330F931A35755C0A9619C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Memorial Unit At Ground Zero Lists Donors</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN COLLINS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The World Trade Center Memorial Foundation announced a partial list of its major donors yesterday, showing a wide range of contributions from well-known figures and companies.</p>
+        <p>Leading the roster, with a $25 million gift, was the Starr Foundation, and closely behind at $15 million were Mayor Michael R. Bloomberg, who took over as chairman of the fund-raising effort last year; Deutsche Bank, the memorial's neighbor in Lower Manhattan; and David Rockefeller.</p>
+      </block>
+      <block class="full_text">
+        <p>The World Trade Center Memorial Foundation announced a partial list of its major donors yesterday, showing a wide range of contributions from well-known figures and companies.</p>
+        <p>Leading the roster, with a $25 million gift, was the Starr Foundation, and closely behind at $15 million were Mayor Michael R. Bloomberg, who took over as chairman of the fund-raising effort last year; Deutsche Bank, the memorial's neighbor in Lower Manhattan; and David Rockefeller.</p>
+        <p>Gov. Jon S. Corzine of New Jersey gave $2 million.</p>
+        <p>The lowest announced donation tier, the level of $10,000 to $99,000, included gifts from former Mayor Rudolph W. Giuliani and his wife, Judith, and former Gov. George E. Pataki of New York.</p>
+        <p>As of April 17, there were 32,762 contributions to the World Trade Center Memorial Foundation, a nonprofit organization, from 50 states and 23 foreign countries, the foundation announced.</p>
+        <p>Mayor Bloomberg said in April that the foundation had raised more than $300 million toward its $350 million goal.</p>
+        <p>More than $165 million has been received since he became chairman in October.</p>
+        <p>The money will be used to pay capital and planning costs and to pay for an endowment to operate the $600 million memorial, museum and aboveground pavilion.</p>
+        <p>Five million visitors a year are expected.</p>
+        <p>Among those who donated $5 million were the ground zero developer Larry A. Silverstein, his wife, Klara, and their family and Forest City Ratner Companies and the Related Companies. Brookfield Properties, which owns the World Financial Center across West Street from ground zero, gave $3 million.</p>
+        <p>Vornado Realty Trust and Tishman Construction Corporation donated $2 million, while Tishman Speyer was listed at the level of $1 million to $1.9 million.</p>
+        <p>The total ''has outpaced our expectations,'' said Joseph C. Daniels, the foundation's president. ''The pace of fund-raising won't slow down'' on the way to the remaining $50 million, he added.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

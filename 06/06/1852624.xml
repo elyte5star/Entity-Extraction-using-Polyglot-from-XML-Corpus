@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Asbury Park: Sewage Spill Closes Beaches</title>
+    <meta content="06mbrfs-9" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852624"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0DC1E30F935A35755C0A9619C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Asbury Park: Sewage Spill Closes Beaches</hl1>
+      </hedline>
+      <byline class="print_byline">By TINA KELLEY; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>About two miles of beaches, from Deal south to Bradley Beach, were closed yesterday after a pipe broke at the Asbury Park sewage treatment plant, Monmouth County officials said. Beaches in Allenhurst, Loch Arbour, Asbury Park and Ocean Grove were also closed. The pipe, which has since been repaired, released about half a million gallons of partly treated sewage into the Atlantic Ocean between 3:30 a.m. and 9:30 a.m. yesterday, said William Simmons, the county's environmental health coordinator. Results from water quality tests, expected this afternoon, will determine whether the beaches can reopen.</p>
+        <p>TINA KELLEY</p>
+      </block>
+      <block class="full_text">
+        <p>About two miles of beaches, from Deal south to Bradley Beach, were closed yesterday after a pipe broke at the Asbury Park sewage treatment plant, Monmouth County officials said. Beaches in Allenhurst, Loch Arbour, Asbury Park and Ocean Grove were also closed. The pipe, which has since been repaired, released about half a million gallons of partly treated sewage into the Atlantic Ocean between 3:30 a.m. and 9:30 a.m. yesterday, said William Simmons, the county's environmental health coordinator. Results from water quality tests, expected this afternoon, will determine whether the beaches can reopen.</p>
+        <p>TINA KELLEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Donald Johanos, 79, a Conductor of Symphony Orchestras</title>
+    <meta content="06johanos" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/arts/06johanos.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852483"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Music</classifier>
+        <classifier class="indexing_service" type="names">Donald Johanos</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE1DF1E30F935A35755C0A9619C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Donald Johanos, 79, a Conductor of Symphony Orchestras</hl1>
+        <hl2 class="online_headline">Donald Johanos, 79, a Conductor of Symphony Orchestras, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By DANIEL J. WAKIN</byline>
+      <byline class="normalized_byline">Wakin, Daniel J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Donald Johanos, a former music director of the Dallas and Honolulu Symphonies and a prominent member of the generation of American conductors who emerged after World War II, died in Naples, Fla., on May 29. He was 79.</p>
+        <p>He died at home after a long illness, said his son-in-law DJ McDonald.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Donald Johanos was a former music director of the Dallas and Honolulu Symphonies and a prominent member of the generation of American conductors who emerged after World War II.</p>
+      </block>
+      <block class="full_text">
+        <p>Donald Johanos, a former music director of the Dallas and Honolulu Symphonies and a prominent member of the generation of American conductors who emerged after World War II, died in Naples, Fla., on May 29. He was 79.</p>
+        <p>He died at home after a long illness, said his son-in-law DJ McDonald.</p>
+        <p>Mr. Johanos, known for his ebullience and his sweeping melodic lines, led the Dallas Symphony for most of the 1960s and was associate conductor of the Pittsburgh Symphony through the next decade. He was music director in Honolulu from 1979 until 1995, when he retired from conducting. He was also a guest conductor internationally.</p>
+        <p>Early in his career, Mr. Johanos was praised as a bright new light on the American conducting scene, at a time when there was a widespread perception that the best conductors were European.</p>
+        <p>''Mr. Johanos conducted these scores with a quite personal blend of warmth and elegance,'' Raymond Ericson, a critic for The New York Times, wrote in 1955. ''At heart, one suspects he is a romanticist. He was never afraid to take his time, to linger over a phrase, to gentle the music if it seemed apt.''</p>
+        <p>Mr. Johanos, the son of a Greek immigrant father, was born in Cedar Rapids, Iowa, and studied the violin. He played with the Cedar Rapids Symphony in high school and spent two summers at the Interlochen Center for the Arts in Interlochen, Mich., working his way up to concertmaster. He attended the Eastman School of Music in Rochester, working part time as a subway conductor. He received degrees in violin and music theory and a certificate in conducting.</p>
+        <p>He started his career with orchestras in Altoona and Johnstown, Pa. In 1958, he won an international conducting competition sponsored by the Netherlands Radio Union and became associate conductor of the Dallas Symphony. He later succeeded Georg Solti as music director.</p>
+        <p>Mr. Johanos made important recordings with Dallas of works by Ives, Copland, Rachmaninoff and Scriabin and brought the orchestra to Carnegie Hall for the first time. During his tenure, in 1968, the orchestra appointed Paul Freeman associate conductor, a rare appointment for an African-American in the Southwest at the time.</p>
+        <p>In Honolulu, Mr. Johanos was credited with raising the orchestra's quality significantly and building up its season.</p>
+        <p>Mr. Johanos is survived by his third wife, Jane, of Naples. His first marriage, to Thelma Trimble, ended in divorce; he is also survived by their four children: Jennifer Johanos of New York, Thea Johanos-Kam of Honolulu, Andrew Johanos of Louisville, Colo., and Eva Johanos of Maui. His second wife, Corinne Rutledge, died in 2001. He is also survived by the children of Ms. Rutledge by her previous marriage: Linda Delbridge of Incline Village, Nev.; Leslie Brown, of Winter Park, Fla; and Thomas Rutledge of Atlanta.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

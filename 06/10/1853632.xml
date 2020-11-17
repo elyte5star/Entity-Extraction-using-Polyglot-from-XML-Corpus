@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Andres Freyre, Morton Ballen</title>
+    <meta content="10freyre" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10freyre.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853632"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Freyre, Andres</person>
+        <person class="indexing_service">Ballen, Morton A.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EED71F30F933A25755C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Andres Freyre, Morton Ballen</hl1>
+        <hl2 class="online_headline">Andres Freyre, Morton Ballen</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andres Freyre and Morton A. Ballen affirmed their partnership yesterday at Frankies Spuntino, a restaurant in Brooklyn, with a commitment ceremony led by two friends, Kerry Herlihy and Stephen McGroarty.</p>
+        <p>Mr. Freyre (above, left) is 39 and a manager of financial systems at A&amp;E Television Networks in New York. He graduated from the State University of New York College at Old Westbury. He is a son of Maria Ines Ronconi of Buenos Aires and Marcos Alberto Freyre of East Islip, N.Y. His father is a quality assurance inspector at Air Industries Machining Corporation in Bay Shore, N.Y.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Andres Freyre and Morton A. Ballen affirmed their partnership yesterday at Frankies Spuntino, a restaurant in Brooklyn, with a commitment ceremony led by two friends, Kerry Herlihy and Stephen McGroarty.</p>
+      </block>
+      <block class="full_text">
+        <p>Andres Freyre and Morton A. Ballen affirmed their partnership yesterday at Frankies Spuntino, a restaurant in Brooklyn, with a commitment ceremony led by two friends, Kerry Herlihy and Stephen McGroarty.</p>
+        <p>Mr. Freyre (above, left) is 39 and a manager of financial systems at A&amp;E Television Networks in New York. He graduated from the State University of New York College at Old Westbury. He is a son of Maria Ines Ronconi of Buenos Aires and Marcos Alberto Freyre of East Islip, N.Y. His father is a quality assurance inspector at Air Industries Machining Corporation in Bay Shore, N.Y.</p>
+        <p>Mr. Ballen, 37, is the founder and executive director of the Explore Charter School in Brooklyn. He graduated from Franklin &amp; Marshall College. He has a master's degree in educational administration from Columbia and a New York principal's certificate. He is the son of Rhoda and Harvey Ballen of Huntingdon, Pa. His mother, also retired, worked in Glenside, Pa., as the volunteer coordinator for the eastern Montgomery County office of RSVP, the Retired and Senior Volunteer Program. His father retired as the owner of Terry's Delicatessen in Havertown, Pa.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

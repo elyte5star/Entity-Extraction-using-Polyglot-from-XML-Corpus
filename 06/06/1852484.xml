@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Charles Maynes, 68, Statesman</title>
+    <meta content="06maynes" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S.; Washington; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/us/06maynes.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852484"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">News and News Media</classifier>
+        <classifier class="indexing_service" type="names">Charles William Maynes</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Foreign Policy</org>
+        <org class="online_producer">Carnegie Endowment for International Peace</org>
+        <org class="online_producer">United Nations</org>
+        <person class="online_producer">Maynes, Charles William</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DF1E30F935A35755C0A9619C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Charles Maynes, 68, Statesman</hl1>
+        <hl2 class="online_headline">Charles Maynes, 68, Statesman, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By MARGALIT FOX</byline>
+      <byline class="normalized_byline">Fox, Margalit</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Charles William Maynes, a longtime editor of Foreign Policy magazine who was also a former assistant secretary of state, died on Saturday at his home in Chevy Chase, Md. He was 68.</p>
+        <p>The cause was cancer, said his wife, Gretchen Maynes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The longtime editor of Foreign Policy magazine was also a former assistant secretary of state.</p>
+      </block>
+      <block class="full_text">
+        <p>Charles William Maynes, a longtime editor of Foreign Policy magazine who was also a former assistant secretary of state, died on Saturday at his home in Chevy Chase, Md. He was 68.</p>
+        <p>The cause was cancer, said his wife, Gretchen Maynes.</p>
+        <p>Published by the Carnegie Endowment for International Peace, Foreign Policy is considered an influential voice in the coverage of international relations, with a circulation of more than 100,000. Mr. Maynes was its editor from 1980 to 1997; from 1973 to 1976, he was secretary of the Carnegie Endowment.</p>
+        <p>From 1977 to 1980, Mr. Maynes was assistant secretary of state for International Organization Affairs, overseeing United States policy toward the United Nations and most other international organizations. At his death, he was president emeritus of the Eurasia Foundation, which aids countries of the former Soviet Union. Mr. Maynes was the foundation's president from 1997 until his retirement last year.</p>
+        <p>Charles William Maynes Jr., known as Bill, was born in Huron, S.D., on Dec. 9, 1938. He earned a bachelor's degree in history from Harvard in 1960 and a master's degree in politics, philosophy and economics from Oxford in 1962, which he attended as a Rhodes scholar.</p>
+        <p>Mr. Maynes then spent nine years in the foreign service, with postings in Laos and the Soviet Union. In 1972, he joined the issues staff of R. Sargent Shriver's vice-presidential campaign. Mr. Maynes also served on the transition teams for the Carter-Mondale administration from 1976 to 1977, and the Clinton-Gore administration from 1992 to 1993.</p>
+        <p>Besides his wife, the former Gretchen Schiele, whom he married in 1965, Mr. Maynes is survived by their children, Charles William Maynes III of Moscow and Stacy Kathryn Wade of Fairfax, Va.; two sisters, Julia Kilgrow of Boise, Idaho, and Mary Benowitz of Salt Lake City; and two grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Patent Lie</title>
+    <meta content="09lee" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/opinion/09lee.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853087"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Verizon Communications Inc</org>
+        <org class="indexing_service">Vonage Holdings Corp</org>
+        <person class="indexing_service">Lee, Timothy B</person>
+        <person class="indexing_service">Gates, Bill (William H)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Microsoft Corp</org>
+        <org class="online_producer">Verizon Communications</org>
+        <org class="online_producer">Vonage Holdings Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E4DF163FF93AA35755C0A9619C8B63" item-length="622" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Patent Lie</hl1>
+        <hl2 class="online_headline">A Patent Lie</hl2>
+      </hedline>
+      <byline class="print_byline">By Timothy B. Lee</byline>
+      <byline class="normalized_byline">Lee, Timothy B</byline>
+      <dateline>ST. LOUIS</dateline>
+      <abstract>
+        <p>Timothy B Lee Op-Ed article holds that patents are bad for software industry; says nothing illustrates that better than conflict between Verizon and Vonage; notes that in 1991, Bill Gates predicted that large company would 'patent some obvious thing,' and that is exactly what Verizon has done; says two of its patents cover concept of translating phone numbers into Internet addresses; contends that it is virtually impossible to create consumer-friendly Internet telephone product without doing that; maintains that if Verizon prevails on appeal, it will probably be able to drive Vonage out of business (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT a difference 16 years makes. Last month, the technology world was abuzz over an interview in Fortune magazine in which Bradford Smith, Microsoft's general counsel, accused users and developers of various free software products of patent infringement and demanded royalties. Indeed, in recent years, Mr. Smith has argued that patents are essential to technological breakthroughs in software.</p>
+        <p>Microsoft sang a very different tune in 1991. In a memo to his senior executives, Bill Gates wrote, ''If people had understood how patents would be granted when most of today's ideas were invented, and had taken out patents, the industry would be at a complete standstill today.'' Mr. Gates worried that ''some large company will patent some obvious thing'' and use the patent to ''take as much of our profits as they want.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nothing illustrates the way patents harm the software industry better than the conflict between Verizon and Vonage.</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT a difference 16 years makes. Last month, the technology world was abuzz over an interview in Fortune magazine in which Bradford Smith, Microsoft's general counsel, accused users and developers of various free software products of patent infringement and demanded royalties. Indeed, in recent years, Mr. Smith has argued that patents are essential to technological breakthroughs in software.</p>
+        <p>Microsoft sang a very different tune in 1991. In a memo to his senior executives, Bill Gates wrote, ''If people had understood how patents would be granted when most of today's ideas were invented, and had taken out patents, the industry would be at a complete standstill today.'' Mr. Gates worried that ''some large company will patent some obvious thing'' and use the patent to ''take as much of our profits as they want.''</p>
+        <p>Mr. Gates wrote his 1991 memo shortly after the courts began allowing patents on software in the 1980s. At the time Microsoft was a growing company challenging entrenched incumbents like I.B.M. and Novell. It had only eight patents to its name. Recognizing the threat to his company, Mr. Gates initiated an aggressive patenting program. Today Microsoft holds more than 6,000 patents.</p>
+        <p>It's not surprising that Microsoft -- now an entrenched incumbent -- has had a change of heart. But Mr. Gates was right in 1991: patents are bad for the software industry. Nothing illustrates that better than the conflict between Verizon and Vonage.</p>
+        <p>Vonage developed one of the first Internet telephone services and has attracted more than two million customers. But last year, Verizon -- one of Vonage's biggest competitors -- sued for patent infringement and won a verdict in its favor in March.</p>
+        <p>The Gates memo predicted that a large company would ''patent some obvious thing,'' and that's exactly what Verizon has done. Two of its patents cover the concept of translating phone numbers into Internet addresses. It is virtually impossible to create a consumer-friendly Internet telephone product without doing that. So if Verizon prevails on appeal, it will probably be able to drive Vonage out of business. Consumers will suffer from fewer choices and higher prices, and future competitors will be reluctant to enter markets dominated by patents.</p>
+        <p>But don't software companies need patent protection? In fact, companies, especially those that are focused on innovation, don't: software is already protected by copyright law, and there's no reason any industry needs both types of protection. The rules of copyright are simpler and protection is available to everyone at very low cost. In contrast, the patent system is cumbersome and expensive. Applying for patents and conducting patent searches can cost tens of thousands of dollars. That is not a huge burden for large companies like Microsoft, but it can be a serious burden for the small start-up firms that produce some of the most important software innovations.</p>
+        <p>Yet, as the Vonage case demonstrates, participating in the patent system is not optional. Independent invention is not a defense to patent infringement, and large software companies now hold so many patents that it is almost impossible to create useful software without infringing some of them. Therefore, the only means of self-defense is the one Mr. Gates identified 16 years ago: stockpile patents to use as bargaining chips in litigation. Vonage didn't do that, and it's now paying a very high price.</p>
+        <p>Only patent lawyers benefit from this kind of arms race. And Microsoft's own history contradicts Mr. Smith's claim that patents are essential for technological breakthroughs: Microsoft produced lots of innovative software before it received its first software patent in 1988. As more and more lawsuits rock the industry, we should ask if software patents are stifling innovation. Bill Gates certainly thought so in 1991, even if he won't admit it today.</p>
+        <p>Op-Ed Contributor Timothy B. Lee is an adjunct scholar at the Cato Institute.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Timothy B. Lee is an adjunct scholar at the Cato Institute.</tagline>
+    </body.end>
+  </body>
+</nitf>

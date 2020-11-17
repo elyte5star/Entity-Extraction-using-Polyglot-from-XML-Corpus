@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Police Request Denied In Surveillance Case</title>
+    <meta content="07mbrfs-1" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852828"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EED61E30F934A35755C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Police Request Denied In Surveillance Case</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lawyers representing protesters who have sued the city, claiming they were improperly arrested during the 2004 Republican National Convention, do not have to reveal whether they provided confidential information about the case to the news media, a federal judge has ruled. On Tuesday, Magistrate Judge James C. Francis IV of Federal District Court denied a motion by the Police Department to compel statements from the protesters' lawyers, saying that the police first had to establish that the information, reported in The New York Times, did not come from sources within the department. The judge said that the information -- documents that detail police intelligence gathering -- were nonconfidential. Lawyers for the city said yesterday that they were reviewing the decision.</p>
+      </block>
+      <block class="full_text">
+        <p>Lawyers representing protesters who have sued the city, claiming they were improperly arrested during the 2004 Republican National Convention, do not have to reveal whether they provided confidential information about the case to the news media, a federal judge has ruled. On Tuesday, Magistrate Judge James C. Francis IV of Federal District Court denied a motion by the Police Department to compel statements from the protesters' lawyers, saying that the police first had to establish that the information, reported in The New York Times, did not come from sources within the department. The judge said that the information -- documents that detail police intelligence gathering -- were nonconfidential. Lawyers for the city said yesterday that they were reviewing the decision.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

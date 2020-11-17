@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Auctions Scheduled for This Week</title>
+    <meta content="04bonds" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852125"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DF1130F937A35755C0A9619C8B63" item-length="409" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Auctions Scheduled for This Week</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 4.78 percent. The rate on the six-month issue was 4.97 percent, and the rate on the four-week issue was 4.79 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes today's regular weekly auction of new three- and six-month bills and an auction of four-week bills tomorrow.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 4.78 percent. The rate on the six-month issue was 4.97 percent, and the rate on the four-week issue was 4.79 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX-EXEMPT</p>
+        <p>TOMORROW</p>
+        <p>Prince George's County, Md., $245.2 million of general obligation bonds. Competitive.</p>
+        <p>WEDNESDAY</p>
+        <p>Las Vegas Valley Water District, Nev., $82.5 million of general obligation bonds. Competitive.</p>
+        <p>New Jersey Educational Facilities Authority, $325 million of revenue bonds. Competitive.</p>
+        <p>San Jose, Calif., $93.5 million of general obligation bonds. Competitive.</p>
+        <p>State of Virginia, $146.7 million of general obligation bonds. Competitive.</p>
+        <p>State of Wisconsin, $150 million of general obligation bonds. Competitive.</p>
+        <p>THURSDAY</p>
+        <p>New Jersey Environment Infrastructure, $114.2 million of debt securities. Competitive.</p>
+        <p>TAX-EXEMPT  ONE DAY DURING THE WEEK</p>
+        <p>Albemarle, N.C., Hospital Authority, $68 million of debt securities. Citigroup Global Markets.</p>
+        <p>Baltimore Water and Wastewater Projects, $151 million of debt securities. Citigroup Global Markets.</p>
+        <p>California Educational Facilities Authority, $188 million of debt securities for Stanford University. Morgan Stanley.</p>
+        <p>City of Phoenix, $188.8 million of senior revenue and taxable bonds for civic improvement. RBC Capital Markets.</p>
+        <p>Clarke County, Ga., School District, $50 million of general obligation bonds. A. G. Edwards &amp; Sons.</p>
+        <p>California Department of Veterans Affairs, $207 million of home purchase revenue bonds. Merrill Lynch.</p>
+        <p>Fillmore, Calif., Wastewater Treatment, $73 million of debt securities. Bear Stearns.</p>
+        <p>Fort Bend County, Tex., $130 million of limited tax bonds. Siebert Brandford Shank.</p>
+        <p>Massachusetts Health and Education Facilities Authority, $300 million of revenue bonds for Partners HealthCare System. JPMorgan Securities.</p>
+        <p>Massachusetts Housing, $50 million of single-family mortgage revenue bonds. UBS Securities.</p>
+        <p>Modesto, Calif., Irrigation District Finance Authority, $90 million of debt securities. Bear Stearns.</p>
+        <p>New Mexico Mortgage Finance Authority, $50 million of debt securities. George K. Baum.</p>
+        <p>New York City Transitional Finance Authority, $370 million of future tax secured subordinate bonds. Ramirez &amp; Company.</p>
+        <p>New York State Thruway Authority, $354 million of debt securities. Merrill Lynch.</p>
+        <p>Orlando-Orange County, Fla., Expressway, $425 million of debt securities. Citigroup Global Markets.</p>
+        <p>State of Illinois, $270 million of general obligation bonds. Loop Capital Markets.</p>
+        <p>State of Illinois, $150 million of general obligation bonds. Popular Securities.</p>
+        <p>Texas Transportation Commission, $1.6 billion of general obligation mobility funds. Morgan Stanley.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

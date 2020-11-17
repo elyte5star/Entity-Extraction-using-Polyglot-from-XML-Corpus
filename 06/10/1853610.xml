@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Expediting the Paperwork</title>
+    <meta content="10mort" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853610"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2DC1F30F933A25755C0A9619C8B63" item-length="630" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Expediting the Paperwork</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EACH time the market forces a lender to shut down or to tighten its lending policies, the effect on one subset of consumers -- those in the midst of closing loans with those lenders -- can be earthshaking.</p>
+        <p>Lenders who cannot complete a loan they had promised to finance will often help secure financing elsewhere on short notice. But there are exceptions, and industry executives say that consumers can decrease their chances of being stranded if they monitor the progress of their loans in the early stages, among other important steps.</p>
+      </block>
+      <block class="full_text">
+        <p>EACH time the market forces a lender to shut down or to tighten its lending policies, the effect on one subset of consumers -- those in the midst of closing loans with those lenders -- can be earthshaking.</p>
+        <p>Lenders who cannot complete a loan they had promised to finance will often help secure financing elsewhere on short notice. But there are exceptions, and industry executives say that consumers can decrease their chances of being stranded if they monitor the progress of their loans in the early stages, among other important steps.</p>
+        <p>John V. Neves, the president of the Connecticut Association of Mortgage Brokers, said that borrowers have faced more problems of this kind lately. ''I had one lender send me an e-mail saying that as of today, they weren't funding any more 100 percent loans,'' Mr. Neves said, referring to mortgages with no down payment, ''not even the ones already in the pipeline.''</p>
+        <p>Another lender, Mr. Neves said, changed its policies within a week of the closing date and told the borrowers that they no longer qualified for the loan terms on which they had agreed. Fortunately for the borrowers, Mr. Neves said, he was able to find them another loan with a better rate, and the second lender agreed to expedite the paperwork.</p>
+        <p>Industry executives said that banks are generally willing to rush a loan through at the last minute and will not charge borrowers a premium for doing so.</p>
+        <p>Stephanie Christie, a senior vice president at Wells Fargo Home Mortgage, said that it could ''conceivably close a loan within three days.''</p>
+        <p>''Some extreme cases are probably even faster than that,'' she said.</p>
+        <p>Ms. Christie said that Wells Fargo had recently received calls from subprime lenders who were trying to help clients obtain loans after they were no longer willing or able to finance them. Wells Fargo was able to help many of those borrowers, she said, at no additional charge for the rush service.</p>
+        <p>But other charges could await borrowers who need 11th-hour service. If their original appraisal came from a company not approved by the new lender, another appraisal must be ordered.</p>
+        <p>Jonathan Miller, the chief executive of Miller Samuel Inc., a Manhattan real estate appraiser, said that clients pay a premium for rush service -- he would not specify how much -- if, indeed, the company can accommodate them at all. ''We'd only accept the assignment from someone we have a relationship with,'' Mr. Miller said.</p>
+        <p>Neil Garfinkel, who oversees the real estate division of Abrams Garfinkel Margolis Bergson, a Manhattan law firm, said that last-minute snags in mortgage financing were a recent phenomenon. ''I've been doing closings since 1990,'' he said, ''and until recently, I've never seen this happen.''</p>
+        <p>Mr. Garfinkel said borrowers had little or no recourse against lenders who go out of business or change their underwriting terms. Nor, he said, can many buyers legally compel sellers to return the deposits they made, sometimes in the tens of thousands of dollars, unless they have put a so-called ''mortgage contingency'' into the purchase contract. In recent years, buyers have waived such contingencies to compete more effectively against other buyers. Mr. Garfinkel and others said they might be wise to reinstate them.</p>
+        <p>Mr. Neves of the Connecticut Association of Mortgage Brokers said that early vigilance on the part of the borrower helps keep a mortgage on track. Borrowers should know if their broker is not quickly obtaining documents needed to process the loan, like insurance and title details.</p>
+        <p>If a loan falls through at the last minute and the broker still has not obtained such paperwork, the chances of getting a new loan quickly are low. ''The more the borrowers keep themselves in the loop,'' Mr. Neves said, ''the more they can hold the broker accountable.''</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

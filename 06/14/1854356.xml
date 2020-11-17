@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>House Votes to Bolster Database on Gun Buyers</title>
+    <meta content="14guns" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/washington/14guns.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854356"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Virginia Polytechnic Institute and State University</org>
+        <org class="online_producer">National Rifle Association</org>
+        <person class="online_producer">Cho, Seung-Hui</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DA143FF937A25755C0A9619C8B63" item-length="993" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>House Votes to Bolster Database on Gun Buyers</hl1>
+        <hl2 class="online_headline">House Votes to Bolster Database on Gun Buyers</hl2>
+      </hedline>
+      <byline class="print_byline">By JACQUELINE PALANK and IAN URBINA; Sheryl Gay Stolberg contributed reporting.</byline>
+      <byline class="normalized_byline">Palank, Jacqueline; Urbina, Ian</byline>
+      <dateline>WASHINGTON, June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The House voted Wednesday to close a loophole in gun control laws that allowed the Virginia Tech gunman to buy firearms even though he had been committed to a mental hospital. The Senate is likely to follow suit, marking the first time since 1996 that Congress has approved a measure strengthening gun control.</p>
+        <p>The bill's approval, on a voice vote, came on the same day as the release of a report President Bush ordered after the shootings in April at Virginia Tech, in which a student killed 32 people and himself. The cabinet agencies that wrote the report found that schools, doctors and the police were not fully aware of what information could legally be shared in a web of confusing and overlapping privacy laws.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The bill would close the loophole in gun control laws that allowed the Virginia Tech gunman to buy firearms.</p>
+      </block>
+      <block class="full_text">
+        <p>The House voted Wednesday to close a loophole in gun control laws that allowed the Virginia Tech gunman to buy firearms even though he had been committed to a mental hospital. The Senate is likely to follow suit, marking the first time since 1996 that Congress has approved a measure strengthening gun control.</p>
+        <p>The bill's approval, on a voice vote, came on the same day as the release of a report President Bush ordered after the shootings in April at Virginia Tech, in which a student killed 32 people and himself. The cabinet agencies that wrote the report found that schools, doctors and the police were not fully aware of what information could legally be shared in a web of confusing and overlapping privacy laws.</p>
+        <p>The House bill, a compromise between gun rights supporters and gun control advocates on both sides of the aisle, would provide grant money for states to update the national database that gun dealers use for background checks on prospective buyers. The update would add more criminal records and mental health information to the database.</p>
+        <p>One of the sponsors of the bill was Representative Carolyn McCarthy, a New York Democrat who has led other efforts to tighten gun control laws and whose husband was killed by a gunman on the Long Island Rail Road in 1993. Ms. McCarthy called the bill a ''good policy that will save lives.''</p>
+        <p>Two co-sponsors were her ideological opposites: Representative Lamar Smith, a Texas Republican who supports gun rights, and Representative John D. Dingell, a Michigan Democrat who served on the board of the National Rifle Association. Both the N.R.A. and the Brady Campaign to Prevent Gun Violence supported the measure.</p>
+        <p>''This act will ensure that the background check system really is instant and accurate,'' Mr. Smith said.</p>
+        <p>Another gun rights group, Gun Owners of America, opposed the measure. Erich Pratt, the organization's communications director, said it forces ''honest, law-abiding people to have to prove their innocence to a bureaucrat before they exercise their constitutional rights.''</p>
+        <p>Senator Charles E. Schumer, Democrat of New York, said that he hoped to introduce the bill in the Senate without amendments ''very soon'' and that passage was likely.</p>
+        <p>''When the N.R.A. and I agree on legislation, you know that it's going to get through, become law and do some good,'' Mr. Schumer said.</p>
+        <p>Passing an unchanged bill in the Senate is paramount, said Wayne LaPierre, the executive vice president of the N.R.A..</p>
+        <p>''If this were to turn into a gun-control wish list on the Senate side, we would withdraw our support and go back looking for another way to pass the bill,'' Mr. LaPierre said.</p>
+        <p>President Bush is ''broadly supportive'' of the measure and is inclined to sign it, said Tony Fratto, the deputy White House press secretary, although Mr. Fratto said the White House still had questions about how the program would be financed. ''We're supportive of the substance of the bill, the policy,'' he said.</p>
+        <p>The bill provides a right of appeal to those who believe they are unfairly included in the database, which is maintained by the Federal Bureau of Investigation. That provision was a particular concern of the rifle association.</p>
+        <p>Since the Brady gun control act was passed in 1993, states have been required to submit information to a national database on people who are not allowed to buy firearms under federal law. Those prohibited from gun ownership include convicted criminals, those involuntarily committed to mental health facilities, and those whom courts have deemed ''a mental defective,'' meaning they are a danger to themselves or to others.</p>
+        <p>The last gun-control measure passed by Congress, in 1996, prohibited those convicted of a misdemeanor domestic violence offense from buying or owning firearms.</p>
+        <p>The report to the president found that complicated laws protecting privacy have confused education, health care and law enforcement officials about the types of information they can legally share concerning dangerous and mentally ill people, limiting the ability of these officials to prevent the kind of violence that occurred at Virginia Tech.</p>
+        <p>The report, prepared by the Departments of Health and Human Services, Justice and Education, also found that many states and communities had not done enough to enact emergency preparedness and violence prevention plans in schools.</p>
+        <p>Additional federal guidelines should be written to clarify how information can be shared legally under federal privacy laws, the report said, and the Department of Homeland Security should offer grant programs for joint training exercises for state, local and campus law enforcement.</p>
+        <p>The federal report comes two days after the state office charged with scrutinizing Virginia's mental health agencies highlighted other problems in tracking and treating potentially dangerous mental health patients. That report described mental health services in Virginia as being underfinanced and ill-equipped to evaluate whether people are a danger to themselves or others.</p>
+        <p>Both reports were partly a response to questions raised about the handling by state, local and university staff members of the Virginia Tech gunman, Seung-Hui Cho, and his mental health problems, which were demonstrated long before the shootings.</p>
+        <p>After Mr. Cho made suicidal comments in December 2005, a judge ordered him to have outpatient treatment on campus. But it appears that his condition was not tracked and that he did not receive the treatment when he returned to campus.</p>
+        <p>The state's mental health report concluded that it often takes more than a month for someone to receive court-ordered or voluntary counseling for a mental illness, a lag based in part on a lack of financing.</p>
+        <p>More than half of community mental health providers say they have less capacity today than they did a decade ago, according to the report, which recommended that Virginia officials consider giving health care professionals more time and resources for initial screenings of the mentally ill. The report also suggested that local mental health agencies better monitor and follow up with people receiving counseling in the community.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

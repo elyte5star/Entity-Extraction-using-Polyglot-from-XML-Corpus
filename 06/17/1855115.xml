@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Darlàn Harris, Frank Monterisi Jr.</title>
+    <meta content="17HARRIS" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17HARRIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855115"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Harris, Darl�n Rose (Darl�n Rose Monterisi)</person>
+        <person class="indexing_service">Jr., Monterisi Frank John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EFDB153FF934A25755C0A9619C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Darlàn Harris, Frank Monterisi Jr.</hl1>
+        <hl2 class="online_headline">Darlàn Harris, Frank Monterisi Jr.</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Darlàn Rose Harris and Frank John Monterisi Jr., former Marines, were married yesterday at the Water's Edge, a restaurant in Long Island City, Queens. The Rev. Mark W. Hummell, an Episcopal priest, officiated.</p>
+        <p>Mrs. Monterisi, 28, served as a public affairs officer for the Marine Corps from 2001 until 2005, becoming a first lieutenant. From February until July 2004, she was a senior media officer and official spokeswoman for the First Marine Expeditionary Force, in Iraq.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Darlàn Rose Harris and Frank John Monterisi Jr., former Marines, were married yesterday at the Water’s Edge, a restaurant in Long Island City, Queens. The Rev. Mark W. Hummell, an Episcopal priest, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Darlàn Rose Harris and Frank John Monterisi Jr., former Marines, were married yesterday at the Water's Edge, a restaurant in Long Island City, Queens. The Rev. Mark W. Hummell, an Episcopal priest, officiated.</p>
+        <p>Mrs. Monterisi, 28, served as a public affairs officer for the Marine Corps from 2001 until 2005, becoming a first lieutenant. From February until July 2004, she was a senior media officer and official spokeswoman for the First Marine Expeditionary Force, in Iraq.</p>
+        <p>Mr. Monterisi, 29, served from May 1999 until December 2004, achieving the rank of captain. He served in Afghanistan in 2004, leading a mission of planning teams for the 22d Marine Expeditionary Unit during Operation Enduring Freedom.</p>
+        <p>The bride now works in Manhattan as a public relations account director for Mullen, an advertising agency based in Wenham, Mass. She graduated from the University of Chicago.</p>
+        <p>She is the daughter of Mary Iseman Harris of Manhattan and Thomas Weller Harris of Akron, Ohio. Her father is a preschool teacher with the Head Start Program in Akron. Her mother is a hair stylist at Miwa Alex, a hair salon in Manhattan.</p>
+        <p>The bridegroom is to become an associate next month at the Related Companies, the real estate development company in Manhattan. He graduated with distinction from the United States Naval Academy and received an M.B.A. from Harvard.</p>
+        <p>He is a son of Isa Monterisi and Frank Monterisi Sr. of Whitestone, Queens. His father is the general manager of All County Open MRI, an outpatient radiology center in Elmont, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baby Dies in East New York Fire</title>
+    <meta content="08fire" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/nyregion/08fire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853038"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1D91F30F93BA35755C0A9619C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baby Dies in East New York Fire</hl1>
+        <hl2 class="online_headline">Baby Dies in East New York Fire</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER 8. LEE and DARYL KHAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An infant girl was killed in a Brooklyn fire last night when her mother left three children at home by themselves to get Chinese food, the police and neighbors said. Two neighbors who dashed into the apartment to save one of the older children were initially unaware of the baby, who was in a stroller in a bedroom.</p>
+        <p>One of the neighbors, Tommy Campbell, lives on the first floor of 182 Atkins Avenue in East New York, where the fire broke out. He was watching the N.B.A. finals on television shortly before 10 p.m. when he suddenly heard screaming from a 5-year-old girl who had run downstairs. ''I went upstairs to see what was going on, and I noticed lots of smoke,'' he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An infant girl was killed in a Brooklyn fire last night when her mother left three children at home by themselves to get Chinese food, the police and neighbors said. Two neighbors who dashed into the apartment to save one of the older children were initially unaware of the baby, who was in a stroller in a bedroom.</p>
+      </block>
+      <block class="full_text">
+        <p>An infant girl was killed in a Brooklyn fire last night when her mother left three children at home by themselves to get Chinese food, the police and neighbors said. Two neighbors who dashed into the apartment to save one of the older children were initially unaware of the baby, who was in a stroller in a bedroom.</p>
+        <p>One of the neighbors, Tommy Campbell, lives on the first floor of 182 Atkins Avenue in East New York, where the fire broke out. He was watching the N.B.A. finals on television shortly before 10 p.m. when he suddenly heard screaming from a 5-year-old girl who had run downstairs. ''I went upstairs to see what was going on, and I noticed lots of smoke,'' he said.</p>
+        <p>Mr. Campbell, 43, and his cousin Reggie Westbrook, 36, found a 2-year-old boy in a crib. Mr. Westbrook grabbed him and ran out. ''The fire was moving so fast. There was so much smoke, I didn't know who was in there,'' Mr. Westbrook said.</p>
+        <p>When the men got downstairs, the 5-year-old girl yelled through a coughing fit that her sister was still in the apartment.</p>
+        <p>Mr. Campbell said, ''When I realized that there was another one up there, I had to go upstairs.'' There was too much smoke, though, so he grabbed a wet towel and wrapped it around his face.</p>
+        <p>He tried to reach the baby in the stroller, but couldn't. ''She was only 10 feet away,'' he said. ''My eyes were burning. My nose was burning. I was getting dizzy. It was too much. The smoke was overwhelming.''</p>
+        <p>Even though the fire took less than 20 minutes to get under control, the baby girl died. ''I've got to live with this for the rest of my life now,'' Mr. Campbell said. ''I got to live with that little girl now.''</p>
+        <p>Residents said the mother had left the three children alone to get Chinese food. The fire appeared to have broken out in the kitchen, Mr. Campbell said.</p>
+        <p>Fire officials, who did not release the children's names, said the fire did not look suspicious. The mother was taken to a hospital to be treated for shock, and the two surviving children were treated for smoke inhalation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

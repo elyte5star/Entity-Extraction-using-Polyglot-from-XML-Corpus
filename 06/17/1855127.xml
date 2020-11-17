@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alice Stagg, Thor Mann</title>
+    <meta content="17stagg" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17stagg.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855127"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Stagg, Alice Miriam (Alice Miriam Mann)</person>
+        <person class="indexing_service">Mann, Thor Tembeya</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEEDB153FF934A25755C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alice Stagg, Thor Mann</hl1>
+        <hl2 class="online_headline">Alice Stagg, Thor Mann</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alice Miriam Stagg and Thor Tembeya Mann, management consultants, were married yesterday by Rabbi Dennis Shulman at the Grounds for Sculpture, a museum and park in Hamilton, N.J.</p>
+        <p>The bride, 36, and bridegroom, 31, graduated from Reed College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alice Miriam Stagg and Thor Tembeya Mann, management consultants, were married yesterday by Rabbi Dennis Shulman at the Grounds for Sculpture, a museum and park in Hamilton, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Alice Miriam Stagg and Thor Tembeya Mann, management consultants, were married yesterday by Rabbi Dennis Shulman at the Grounds for Sculpture, a museum and park in Hamilton, N.J.</p>
+        <p>The bride, 36, and bridegroom, 31, graduated from Reed College.</p>
+        <p>Mrs. Mann does freelance work in New York helping companies organize their internal structure. She is to begin studying in September for a doctorate in organizational psychology at Columbia, where she also received a master's degree. She also received a certificate in organizational dynamics from the William Alanson White Institute, a psychoanalytic training institute in New York.</p>
+        <p>She is a daughter of Barbara L. Stagg of Cotati, Calif., and David C. Stagg III of Santa Rosa, Calif.</p>
+        <p>Mr. Mann works in New York as an executive coach for RHR International, an Illinois consulting firm. He received master's and doctorate degrees in organizational psychology at Rutgers.</p>
+        <p>He is the son of Anna L. Mann of Frillesas, Sweden, and Roger E. Mann of Naples, Fla.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

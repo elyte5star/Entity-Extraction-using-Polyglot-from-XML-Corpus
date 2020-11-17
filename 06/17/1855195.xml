@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>$5 MILLION, TIMES TWO</title>
+    <meta content="17suits-3" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Education; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855195"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Fairfield University</org>
+        <org class="indexing_service">Fordham University</org>
+        <person class="indexing_service">Corrigan, E Gerald</person>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4D9153FF934A25755C0A9619C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>$5 MILLION, TIMES TWO</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <abstract>
+        <p>E Gerald Corrigan, former chief executive of Federal Reserve Bank of New York, gives $5 million to his college Fairfield University in Connecticut; he also gave same amount to Fordham University in March, where he earned his master's degree and doctorate in economics (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When it comes to his alma maters, E. Gerald Corrigan, former chief executive of the Federal Reserve Bank of New York, is a generous man. This month, he gave $5 million to his college, Fairfield University, the Jesuit institution in Connecticut where he got his undergraduate degree, majoring in economics, in 1963. Mr. Corrigan, 66, now a managing director at Goldman Sachs, serves on Fairfield's board of trustees.</p>
+      </block>
+      <block class="full_text">
+        <p>When it comes to his alma maters, E. Gerald Corrigan, former chief executive of the Federal Reserve Bank of New York, is a generous man. This month, he gave $5 million to his college, Fairfield University, the Jesuit institution in Connecticut where he got his undergraduate degree, majoring in economics, in 1963. Mr. Corrigan, 66, now a managing director at Goldman Sachs, serves on Fairfield's board of trustees.</p>
+        <p>In March, he also gave the same amount to Fordham, another Jesuit university, where he earned his master's degree and doctorate in economics.</p>
+        <p>ELIZABETH OLSON</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

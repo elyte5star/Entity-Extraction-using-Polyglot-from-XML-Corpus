@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Europe's Central Bank Raises Interest Rates</title>
+    <meta content="07euro" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/business/worldbusiness/07euro.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852718"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="INTERNATIONAL BUSINESS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Europe</location>
+        <org class="online_producer">European Central Bank</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E3D81E30F934A35755C0A9619C8B63" item-length="542" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Europe's Central Bank Raises Interest Rates</hl1>
+        <hl2 class="online_headline">Europe’s Central Bank Raises Interest Rates</hl2>
+      </hedline>
+      <byline class="print_byline">By CARTER DOUGHERTY</byline>
+      <dateline>FRANKFURT, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The European Central Bank on Wednesday raised borrowing costs to their highest level in nearly six years, pointing to a humming economy that, while welcome, raised the risk of higher inflation. It also hinted at additional increases, prompting a slide in European stock markets.</p>
+        <p>The bank lifted its benchmark interest rate for the 13 countries that use the euro by a quarter percentage point, to 4 percent. That was the eighth increase since December 2005, when the bank began increasing the cost of credit in advance of an economic recovery. Europe is now growing faster than the United States.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Borrowing costs were increased to their highest level in nearly six years, signaling an economy that raised the risk of higher inflation.</p>
+      </block>
+      <block class="full_text">
+        <p>The European Central Bank on Wednesday raised borrowing costs to their highest level in nearly six years, pointing to a humming economy that, while welcome, raised the risk of higher inflation. It also hinted at additional increases, prompting a slide in European stock markets.</p>
+        <p>The bank lifted its benchmark interest rate for the 13 countries that use the euro by a quarter percentage point, to 4 percent. That was the eighth increase since December 2005, when the bank began increasing the cost of credit in advance of an economic recovery. Europe is now growing faster than the United States.</p>
+        <p>The bank's president, Jean-Claude Trichet, while declining to commit to a timetable, left little doubt that the bank saw the need for higher interest rates to ward off the threat of inflation.</p>
+        <p>The central bank's strategy has focused on getting ahead of what it sees as inflationary threats from energy prices, increasing bottlenecks in European production -- which allow companies to raise prices more quickly -- and rising wages, which can feed into higher consumer prices. It has also sought to curb explosive bank lending brought on by low interest rates around the world.</p>
+        <p>For now, the bank has kept inflation under firm control. On a monthly rate, it is now running at less than 2 percent, almost precisely within the bank's target.</p>
+        <p>''What we have been doing since December 2005 has served us very well,'' Mr. Trichet said. ''We have been fully vindicated.''</p>
+        <p>The central bank has wagered that a strong global economy would continue to stoke economic growth in Europe by buying its exports and that business conditions in the United States would pick up as the year progressed, as the Federal Reserve has predicted.</p>
+        <p>In the statement issued after its regular monthly meeting, the bank slightly modified the language that it used to describe interest rates, hinting at future increases. It said that rates were ''still'' accommodating European economic growth, a formulation that Mr. Trichet highlighted as an oblique way of indicating that the bank would not stop at 4 percent.</p>
+        <p>That prospect weighed on European stock indexes, which closed down more than 1 percent.</p>
+        <p>Economists and financial analysts were divided as to when the bank might take its next step.</p>
+        <p>Until Wednesday, many investors had been betting on a September rate increase, but that likelihood faded as Mr. Trichet declined to disclose anything resembling a timetable.</p>
+        <p>''We know rates are going higher, but the E.C.B. is showing quite a bit of flexibility about when they raise them again,'' said Ken Wattret, chief euro zone economist for BNP Paribas in London.</p>
+        <p>Still, Mr. Trichet gave some limited signals that the end was near for the tightening cycle.</p>
+        <p>In its statement last month, the bank described interest rates as ''moderate,'' but on Wednesday it abandoned that formulation. By the end of the year, the bank is likely to pause to assess the effects of what will have been two years of slow, steady tightening, bank analysts believe.</p>
+        <p>''The E.C.B. is signaling to us that there is going to be a point where they really don't know where they are going to go next,'' Julian Callow, chief Europe economist at Barclays Capital, said. ''We're not there yet, but we're pretty close.''</p>
+        <p>INTERNATIONAL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

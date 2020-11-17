@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hillary's War</title>
+    <meta content="17letters.t-5" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854951"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E6D8173FF934A25755C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hillary's War</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Americans have to be outraged that any senator would vote to send the nation to war without reading the most relevant document: the 90-page 2002 National Intelligence Estimate. This report, available to all 100 senators, contained enough information to cause Bob Graham to doubt the threat to the United States posed by Iraq. He was one of only six senators to read the report. Clinton was not among those six; she opted for ''briefings'' instead. She voted, as did many others, for a disastrous foreign policy blunder based on the CliffsNotes version of a national intelligence report. Not very smart for one of the ''brainiest'' people in the Senate.</p>
+      </block>
+      <block class="full_text">
+        <p>Americans have to be outraged that any senator would vote to send the nation to war without reading the most relevant document: the 90-page 2002 National Intelligence Estimate. This report, available to all 100 senators, contained enough information to cause Bob Graham to doubt the threat to the United States posed by Iraq. He was one of only six senators to read the report. Clinton was not among those six; she opted for ''briefings'' instead. She voted, as did many others, for a disastrous foreign policy blunder based on the CliffsNotes version of a national intelligence report. Not very smart for one of the ''brainiest'' people in the Senate.</p>
+        <p>Charles Hamlin</p>
+        <p>Little Compton, R.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

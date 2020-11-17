@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VIEWS OF ST. PETERSBURG</title>
+    <meta content="03letters-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851723"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">St Petersburg (Russia)</location>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Rowland, Elaine</person>
+        <person class="indexing_service">Gowen, George W</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/St. Petersburg</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFD81430F930A35755C0A9619C8B63" item-length="384" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VIEWS OF ST. PETERSBURG</hl1>
+      </hedline>
+      <abstract>
+        <p>Elaine Rowland and George W Gowen letters comment on May 13 travel article on St Petersburg, Russia</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: ''36 Hours; St. Petersburg, Russia'' (May 13) makes travel with children to St. Petersburg, Russia, sound as easy as a trip to St. Petersburg, Fla. Is there more than one Russia? This Russia sounds very much like Western Europe. The Russia I visited is very far away -- a miserable distance to fly with children -- and I can't believe the author recommended using Aeroflot, with its terrible reputation.</p>
+        <p>I didn't read anywhere in the article that the State Department and most Russians will tell you not to drink -- or even brush your teeth with -- the local tap water. Nor did the story include State Department warnings to get updated tetanus and diphtheria immunizations (and preferably immunized against hepatitis A, too) prior to the trip.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: ''36 Hours; St. Petersburg, Russia'' (May 13) makes travel with children to St. Petersburg, Russia, sound as easy as a trip to St. Petersburg, Fla. Is there more than one Russia? This Russia sounds very much like Western Europe. The Russia I visited is very far away -- a miserable distance to fly with children -- and I can't believe the author recommended using Aeroflot, with its terrible reputation.</p>
+        <p>I didn't read anywhere in the article that the State Department and most Russians will tell you not to drink -- or even brush your teeth with -- the local tap water. Nor did the story include State Department warnings to get updated tetanus and diphtheria immunizations (and preferably immunized against hepatitis A, too) prior to the trip.</p>
+        <p>St. Petersburg also has a problem with beggars, pickpockets and muggers, not generally considered kid-friendly. And last but not least, the author minimized language barriers: the Russian alphabet is not the English one. Once I was off the beaten track, few people I encountered could communicate in English.</p>
+        <p>Elaine Rowland  San Jose, Calif.</p>
+        <p>To the Editor: Having visited St. Petersburg in February 1994, I found the recent article on the city a testament to how much has changed in the now-tourist-and-free-enterprise-friendly town. 15 years ago, there were few cars, no limousines, few restaurants and somber citizens.</p>
+        <p>The winter when I visited was cold, damp and snowy, not flakes but little pellets of ice. It was also the 50th anniversary of the end of the siege of Leningrad. I couldn't help thinking of those 900 days immortalized by Harrison Salisbury of The New York Times, and I wonder how any travel writer today could take pen to paper without words honoring the citizens and history of that ravished city.</p>
+        <p>When we were there, my wife and I made a pilgrimage to the cemetery on the edge of town. Its row after row of somber rectangular memorials melted into the earth and the gray-white snow. No words were needed: the silence spoke of Mother Russia.</p>
+        <p>There was an amphitheater of sorts upon which was a gold and black wreath -- a tribute from the German Republic. We carried a small American flag and placed it on the cold stone.</p>
+        <p>George W. Gowen  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

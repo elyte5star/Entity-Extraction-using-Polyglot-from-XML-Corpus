@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Makeover At Ask.com: A New Look And More</title>
+    <meta content="05ask" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/05ask.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852317"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Ask.com</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DA1130F936A35755C0A9619C8B63" item-length="574" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Makeover At Ask.com: A New Look And More</hl1>
+        <hl2 class="online_headline">A Makeover at Ask.com: A New Look and More</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jim Lanzone, the chief executive of Ask.com, the fourth-most-used Internet search engine in the United States, believes that it is time to move beyond the 10 blue links -- the standard way to display Web search results.</p>
+        <p>Starting today, Ask.com, which plans to spend close to $100 million this year to promote its service, will present answers to queries in a three-panel screen that includes standard links to search results but also lists of related searches and results from blogs, as well as video, photo, news and shopping sites.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ask.com will present answers to queries in a three-panel screen that includes standard links but also lists related searches and results from blogs.</p>
+      </block>
+      <block class="full_text">
+        <p>Jim Lanzone, the chief executive of Ask.com, the fourth-most-used Internet search engine in the United States, believes that it is time to move beyond the 10 blue links -- the standard way to display Web search results.</p>
+        <p>Starting today, Ask.com, which plans to spend close to $100 million this year to promote its service, will present answers to queries in a three-panel screen that includes standard links to search results but also lists of related searches and results from blogs, as well as video, photo, news and shopping sites.</p>
+        <p>The service, which the company calls Ask3D, is being described as a radical change to the presentation of answers by a major search engine. It is aimed at making it easier for users to find what they are looking for and comes amid a race by search engines to integrate new forms of online content into search results in an attempt to attract more users.</p>
+        <p>''There are a lot more types of content online than there were a few years ago,'' Mr. Lanzone said. ''But the search experience still looks like it did in 1996.''</p>
+        <p>In recent years, all major search engines, including those of Google, Yahoo and Microsoft, have tried to bring new types of content into search results. Last month, for instance, Google unveiled a service it calls universal search that intersperses videos, photos, news and other content into traditional search results.</p>
+        <p>But while Google, Yahoo and Microsoft have introduced changes gradually and have largely stuck with the traditional presentations, Ask.com, which is owned by IAC/InterActiveCorp, is taking a different, if riskier, approach.</p>
+        <p>''It's a pretty radical change,'' said John Battelle, the chief executive of Federated Media, a blog ad network, and author of ''The Search,'' a book about Google. ''Most of the big players have a lot to lose, so they don't want to shock the system. Ask has less to lose.''</p>
+        <p>Ask.com's novel approach begins as a user types in a query: the service suggests ways to refine it. Type ''Bill Cl'' and it will suggest ''Bill Clinton Memoir,'' ''Bill Clinton Scandal,'' ''Bill Clinton Biography'' and other alternatives.</p>
+        <p>But it is the results page that truly distinguishes Ask.com from others. In addition to the traditional search results, which are displayed in a central panel on about half the screen, the left quarter of the page is dedicated to suggestions on how to expand or narrow the search or for related searches.</p>
+        <p>The right quarter is reserved for different types of content depending on the query. A search for Bill Clinton, for example, will include photos, news photos, news articles, videos and even songs about him. A search for Buenos Aires will deliver photos along with the weather forecast and current time for that city, as well as a Wikipedia entry.</p>
+        <p>Mr. Lanzone hopes that the new service, which it has been testing on a site called AskX for several months, will lift the company's share of all searches, which has been hovering at about 5 percent for much of the last year, according to comScore Inc., a Web measuring service. But, Mr. Lanzone said, to succeed, Ask.com does not necessarily have to take customers from Google or other search engines.</p>
+        <p>''The way we will grow is by increasing the frequency of use of the 30 million monthly users we already have in the U.S.,'' Mr. Lanzone said, adding that on average, those users visit Ask.com three times a month.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

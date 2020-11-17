@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Private Equity Deal Expected For Lexicon Pharmaceuticals</title>
+    <meta content="18biotech" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/18biotech.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855392"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E1DD123FF93BA25755C0A9619C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Private Equity Deal Expected For Lexicon Pharmaceuticals</hl1>
+        <hl2 class="online_headline">Private Equity Deal Expected for Lexicon Pharmaceuticals</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL J. de la MERCED</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lexicon Pharmaceuticals, a developer of treatments for diseases like irritable bowel syndrome, is expected to announce today that it has signed deals with two private equity firms that will invest nearly $300 million into the 12-year-old publicly held company.</p>
+        <p>In the first deal, the Invus Group, based in New York, will spend $205 million this year to raise its stake in the company to 40 percent. Invus will acquire warrants to buy 16.4 million shares in Lexicon for $3.09 a share, and will buy about 20.4 million shares for $4.50, or a 46 percent premium over Friday's closing price.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Lexicon Pharmaceuticals is expected to announce on Monday that it has signed deals with two private equity firms.</p>
+      </block>
+      <block class="full_text">
+        <p>Lexicon Pharmaceuticals, a developer of treatments for diseases like irritable bowel syndrome, is expected to announce today that it has signed deals with two private equity firms that will invest nearly $300 million into the 12-year-old publicly held company.</p>
+        <p>In the first deal, the Invus Group, based in New York, will spend $205 million this year to raise its stake in the company to 40 percent. Invus will acquire warrants to buy 16.4 million shares in Lexicon for $3.09 a share, and will buy about 20.4 million shares for $4.50, or a 46 percent premium over Friday's closing price.</p>
+        <p>As of March 31, Invus held about 4.5 million shares in Lexicon.</p>
+        <p>Invus will also have the right to buy up to an additional 9 percent of Lexicon stock, giving it a total of 49 percent, and can also require the company to hold two additional share sales. Lexicon will also add three seats to its eight-member board, giving Invus the new seats.</p>
+        <p>In the second deal, worth $60 million, Symphony Capital Partners, a New York-based firm that specializes in biopharmaceutical products, will invest $45 million into a new company that will hold the licenses for Lexicon's first three drug candidates, including treatments for cognitive disorders and irritable bowel syndrome. Symphony will also give Lexicon $15 million for general purposes.</p>
+        <p>Lexicon will have the right to acquire the new company at a price that will range from $72 million in its second year to $90 million in the fourth and final year of the agreement.</p>
+        <p>Based in The Woodlands, Tex., Lexicon uses gene knockout technology in its research and has collaborated with larger industry players like Bristol-Myers Squibb and Genentech. As of Friday, its market value was $241.2 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

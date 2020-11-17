@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>America Comes Up Short</title>
+    <meta content="15krugman" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/opinion/15krugman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854620"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Height (Stature)</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Europe</location>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Height (Stature)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Height (Stature)</classifier>
+        <classifier class="online_producer" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">United States</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EEDD153FF936A25755C0A9619C8B63" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>America Comes Up Short</hl1>
+        <hl2 class="online_headline">America Comes Up Short</hl2>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <dateline>LONDON</dateline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column discusses recent data showing that Americans, who used to be tallest in world, are now shorter than Western and Northern Europeans; says while there are numerous theories about reason, it suggests that America does not take good care of its children (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Traveling through Europe recently, I've been able to confirm through personal experience what statistical surveys tell us: the perceived stature of Americans is not what it was. Europeans used to look up to us; now, many of them look down on us instead.</p>
+        <p>No, I'm not talking metaphorically about our loss of moral authority in the wake of Guantánamo and Abu Ghraib. I'm literally talking about feet and inches.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The stature of Americans — in feet and inches — is not what it was.</p>
+      </block>
+      <block class="full_text">
+        <p>Traveling through Europe recently, I've been able to confirm through personal experience what statistical surveys tell us: the perceived stature of Americans is not what it was. Europeans used to look up to us; now, many of them look down on us instead.</p>
+        <p>No, I'm not talking metaphorically about our loss of moral authority in the wake of Guantánamo and Abu Ghraib. I'm literally talking about feet and inches.</p>
+        <p>To the casual observer, Europeans -- who often seemed short, even to me (I'm 5-foot-7), when I first began traveling a lot in the 1970s -- now often seem tall by American standards. And that casual observation matches what careful researchers have found.</p>
+        <p>The data show that Americans, who in the words of a recent paper by the economic historian John Komlos and Benjamin Lauderdale in Social Science Quarterly, were ''tallest in the world between colonial times and the middle of the 20th century,'' have now ''become shorter (and fatter) than Western and Northern Europeans. In fact, the U.S. population is currently at the bottom end of the height distribution in advanced industrial countries.''</p>
+        <p>This is not a trivial matter. As the paper says, ''height is indicative of how well the human organism thrives in its socioeconomic environment.'' There's a whole discipline of ''anthropometric history'' that uses evidence on heights to assess changes in social conditions.</p>
+        <p>For example, nothing demonstrates the harsh class distinctions of Britain in the age of Dickens better than the 9-inch height gap between 15-year-old students at Sandhurst, the elite military academy, and their counterparts at the working-class Marine School. The dismal working and living conditions of urban Americans during the Gilded Age were reflected in a 1-1/2 inch decline in the average height of men born in 1890, compared with those born in 1830. Americans born after 1920 were the first industrial generation to regain preindustrial stature.</p>
+        <p>So what is America's modern height lag telling us?</p>
+        <p>There is normally a strong association between per capita income and a country's average height. By that standard, Americans should be taller than Europeans: U.S. per capita G.D.P. is higher than that of any other major economy. But since the middle of the 20th century, something has caused Americans to grow richer without growing significantly taller.</p>
+        <p>It's not the population's changing ethnic mix due to immigration: the stagnation of American heights is clear even if you restrict the comparison to non-Hispanic, native-born whites.</p>
+        <p>And although the Komlos-Lauderdale paper suggests that growing income and social inequality in America might be one culprit, the remarkable thing is that, as the authors themselves point out, even high-status Americans are falling short: ''rich Americans are shorter than rich Western Europeans and poor white Americans are shorter than poor Western Europeans.''</p>
+        <p>We seem to be left with two main possible explanations of the height gap.</p>
+        <p>One is that America really has turned into ''Fast Food Nation.''</p>
+        <p>''U.S. children,'' write Mr. Komlos and Mr. Lauderdale, ''consume more meals prepared outside the home, more fast food rich in fat, high in energy density and low in essential micronutrients, than do European children.'' Our reliance on fast food, in turn, may reflect lack of family time because we work too much: U.S. G.D.P. per capita is high partly because employed Americans work many more hours than their European counterparts.</p>
+        <p>A broader explanation would be that contemporary America is a society that, in a variety of ways, doesn't take very good care of its children. Recently, Unicef issued a report comparing a number of measures of child well-being in 21 rich countries, including health and safety, family and peer relationships and such things as whether children eat fruit and are physically active. The report put the Netherlands at the top; sure enough, the Dutch are now the world's tallest people, almost 3 inches taller, on average, than non-Hispanic American whites. The U.S. ended up in 20th place, below Poland, Portugal and Hungary, but ahead of Britain.</p>
+        <p>Whatever the full explanation for America's stature deficit, our relative shortness, like our low life expectancy, suggests that something is amiss with our way of life. A critical European might say that America is a land of harried parents and neglected children, of expensive health care that misses those who need it most, a society that for all its wealth somehow manages to be nasty, brutish -- and short.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

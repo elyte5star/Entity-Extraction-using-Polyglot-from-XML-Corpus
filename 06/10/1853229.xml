@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  FRIEDLANDER, ARLENE</title>
+    <meta content="dn061007.1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853229"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">FRIEDLANDER, ARLENE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DA143AF933A25755C0A9619C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  FRIEDLANDER, ARLENE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FRIEDLANDER--Arlene. My glamorous mother and best friend passed away peacefully on June 7th, 2007 after a brief illness. Her passion for living led her places she scarcely could have imagined as a child. A public relations executive, actress, lover of theater and the arts, tennis fan, bridge player and world traveler; my Arlette was a force of nature. I shall miss her dearly. Survivors include nephews David (Sheila) and Stephen Heller, former husband Jim and many cherished friends. Predeceased by her brother and guardian angel Leonard Kantor as well as parents Sidney and Henrietta Kantor and sister Florence Heller. Arlene's illness was linked to radiation therapy she received in the 1970s. Please honor Arlene and others impacted by breast cancer by making a donation to Susan G. Komen for the Cure. Love, Susan</p>
+      </block>
+      <block class="full_text">
+        <p>FRIEDLANDER--Arlene. My glamorous mother and best friend passed away peacefully on June 7th, 2007 after a brief illness. Her passion for living led her places she scarcely could have imagined as a child. A public relations executive, actress, lover of theater and the arts, tennis fan, bridge player and world traveler; my Arlette was a force of nature. I shall miss her dearly. Survivors include nephews David (Sheila) and Stephen Heller, former husband Jim and many cherished friends. Predeceased by her brother and guardian angel Leonard Kantor as well as parents Sidney and Henrietta Kantor and sister Florence Heller. Arlene's illness was linked to radiation therapy she received in the 1970s. Please honor Arlene and others impacted by breast cancer by making a donation to Susan G. Komen for the Cure. Love, Susan</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

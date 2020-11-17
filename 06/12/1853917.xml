@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>You'd Ask For Them By Name, If It Were More Memorable</title>
+    <meta content="12acjw" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/arts/music/12acjw.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853917"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Miller Theater at Columbia University</org>
+        <org class="online_producer">Juilliard School</org>
+        <person class="online_producer">Adams, John</person>
+        <person class="online_producer">Dutilleux, Henri</person>
+        <person class="online_producer">Kagel, Mauricio</person>
+        <person class="online_producer">Pears, Peter</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DB173FF931A25755C0A9619C8B63" item-length="453" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>You'd Ask For Them By Name, If It Were More Memorable</hl1>
+        <hl2 class="online_headline">You’d Ask for Them by Name, if It Were More Memorable</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The performers who played in Zankel Hall on Saturday night were among the brightest, most promising postgraduate musicians the city has to offer, including several seen regularly in buzz-worthy independent groups.</p>
+        <p>The program included bona fide classics of the contemporary repertory by Webern, Gyorgy Ligeti and John Adams, as well as a pair of seldom encountered novelties. Tickets were a bargain at just $15. So why did Ensemble ACJW play to a house that seemed only half full?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The performers who played in Zankel Hall on Saturday were among the brightest, most promising postgraduate musicians the city has to offer.</p>
+      </block>
+      <block class="full_text">
+        <p>The performers who played in Zankel Hall on Saturday night were among the brightest, most promising postgraduate musicians the city has to offer, including several seen regularly in buzz-worthy independent groups.</p>
+        <p>The program included bona fide classics of the contemporary repertory by Webern, Gyorgy Ligeti and John Adams, as well as a pair of seldom encountered novelties. Tickets were a bargain at just $15. So why did Ensemble ACJW play to a house that seemed only half full?</p>
+        <p>Perhaps there was compelling competition. Maybe the 7 o'clock starting time was too early for the crowd that regularly embraces music like this at Miller Theater. The better question might be, why was this concert -- among the most adventurous presented here or anywhere else this season -- mounted with the dutiful air of a school project? One thing is sure: The group's clunky, officious name does it no favors.</p>
+        <p>Possibly this is viewed as being beside the point. Ensemble ACJW is the performing arm of the Academy, a laudable collaboration between Carnegie Hall, the Juilliard School, the Weill Music Institute and the New York City Department of Education. The goal is not just to provide the 16 participants in its inaugural class with professional coaching and performance opportunities, but also to send them out to city schools as musical ambassadors.</p>
+        <p>That these exciting players could be the new face of classical music for New York schoolchildren is a welcome development, and all the more reason to provide both players and newly minted concertgoers with a sense of how alluring and invigorating the concert experience can be.</p>
+        <p>These performers have the musical goods. Webern's Concerto had a breathlike quality that humanized its crystalline contours. The electricity in an intense account of Ligeti's Chamber Concerto dipped only when the cellist Claire Bryant left the stage to replace a broken string between movements.</p>
+        <p>Mr. Adams's Chamber Symphony, a boisterous blend of neo-Baroque Stravinsky and Raymond Scott's Looney Tunes, got a red-blooded treatment that didn't skimp on swing. Brad Lubman, the conductor, gave strong, clear leadership.</p>
+        <p>Henri Dutilleux's ''Citations'' paid homage to the tenor Peter Pears and the organist Jehan Alain with an ear-tickling mix of sonorities: oboe, harpsichord, double bass and percussion. Mauricio Kagel's ''Nordwest,'' from ''Die Stücke der Windrose'' (''Compass Pieces''), was as much theater as concert work: to its gentle, largely consonant strains, performers played kazoos, slapped rhythms on their instruments and shimmied to a curious conclusion. The musicians played all of these works with consummate skill and compelling verve.</p>
+        <p>The Academy continues next season, its roster expanded to more than 30 participants. Carnegie Hall has plenty of time to coin a name that more accurately projects this group's appeal. ''The Weill Bunch,'' anyone?</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

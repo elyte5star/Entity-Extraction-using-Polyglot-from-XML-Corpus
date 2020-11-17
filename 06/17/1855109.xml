@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Julia Green, Andrew Shane</title>
+    <meta content="17jgreen" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17jgreen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855109"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Green, Julia Claire</person>
+        <person class="indexing_service">Shane, Andrew Lawrence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EFDB153FF934A25755C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Julia Green, Andrew Shane</hl1>
+        <hl2 class="online_headline">Julia Green, Andrew Shane</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Julia Claire Green and Andrew Lawrence Shane, lawyers, were married last evening by Cantor Bruce Ruben at the New-York Historical Society in New York.</p>
+        <p>The bride, 30, and the bridegroom, 31, met at Harvard, from which they received law degrees, she magna cum laude and he cum laude. They both graduated from Yale, she magna cum laude and he cum laude.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Julia Claire Green and Andrew Lawrence Shane, lawyers, were married last evening by Cantor Bruce Ruben at the New-York Historical Society in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Julia Claire Green and Andrew Lawrence Shane, lawyers, were married last evening by Cantor Bruce Ruben at the New-York Historical Society in New York.</p>
+        <p>The bride, 30, and the bridegroom, 31, met at Harvard, from which they received law degrees, she magna cum laude and he cum laude. They both graduated from Yale, she magna cum laude and he cum laude.</p>
+        <p>Ms. Green is keeping her name. She is a law clerk for Judge Jed S. Rakoff of Federal District Court in New York.</p>
+        <p>The bride is the daughter of Joan and Franklin Green of New York. Her father is a partner in the tax department of Fried, Frank, Harris, Shriver &amp; Jacobson, the New York law firm. Her mother, who was until 2002 the president at BT Brokerage in New York, is a chairwoman adviser to the board of the American Red Cross in Greater New York.</p>
+        <p>Mr. Shane works at Bloomberg L.P. in New York, where he provides analysis and research on patent law for the company's legal database.</p>
+        <p>The bridegroom is a son of Roberta and Jeffrey Shane of Rockville, Md. His parents work in Rockville; his mother owns a company that fills temporary management positions at retail companies, and his father, a lawyer and obstetrician-gynecologist, writes risk-management course material for continuing medical education programs.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

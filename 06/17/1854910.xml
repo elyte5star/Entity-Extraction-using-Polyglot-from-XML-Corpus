@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>J.F.K.</title>
+    <meta content="Letters.t-1-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854910"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DC163FF934A25755C0A9619C8B63" item-length="476" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>J.F.K.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bryan Burrough's laudatory review of Vincent Bugliosi's book on the Kennedy assassination (May 20) is superficial and gratuitously insulting. ''Conspiracy theorists'' -- blithe generalization -- should according to Burroughs be ''ridiculed, even shunned ... marginalized the way we've marginalized smokers.'' Let's see now. The following people to one degree or another suspected that President Kennedy was killed as the result of a conspiracy, and said so either publicly or privately: Presidents Lyndon Johnson and Richard Nixon; Attorney General Robert Kennedy; John Kennedy's widow, Jackie; his special adviser dealing with Cuba at the United Nations, William Attwood; F.B.I. director J. Edgar Hoover (!); Senators Richard Russell (a Warren Commission member), and Richard Schweiker and Gary Hart (both of the Senate Intelligence Committee); seven of the eight congressmen on the House Assassinations Committee and its chief counsel, G. Robert Blakey; the Kennedy associates Joe Dolan, Fred Dutton, Richard Goodwin, Pete Hamill, Frank Mankiewicz, Larry O'Brien, Kenneth O'Donnell and Walter Sheridan; the Secret Service agent Roy Kellerman, who rode with the president in the limousine; the presidential physician, Dr. George Burkley; Mayor Richard Daley of Chicago; Frank Sinatra; and the ''60 Minutes'' producer Don Hewitt. All of the above, à la Burrough, were idiots.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bryan Burrough's laudatory review of Vincent Bugliosi's book on the Kennedy assassination (May 20) is superficial and gratuitously insulting. ''Conspiracy theorists'' -- blithe generalization -- should according to Burroughs be ''ridiculed, even shunned ... marginalized the way we've marginalized smokers.'' Let's see now. The following people to one degree or another suspected that President Kennedy was killed as the result of a conspiracy, and said so either publicly or privately: Presidents Lyndon Johnson and Richard Nixon; Attorney General Robert Kennedy; John Kennedy's widow, Jackie; his special adviser dealing with Cuba at the United Nations, William Attwood; F.B.I. director J. Edgar Hoover (!); Senators Richard Russell (a Warren Commission member), and Richard Schweiker and Gary Hart (both of the Senate Intelligence Committee); seven of the eight congressmen on the House Assassinations Committee and its chief counsel, G. Robert Blakey; the Kennedy associates Joe Dolan, Fred Dutton, Richard Goodwin, Pete Hamill, Frank Mankiewicz, Larry O'Brien, Kenneth O'Donnell and Walter Sheridan; the Secret Service agent Roy Kellerman, who rode with the president in the limousine; the presidential physician, Dr. George Burkley; Mayor Richard Daley of Chicago; Frank Sinatra; and the ''60 Minutes'' producer Don Hewitt. All of the above, à la Burrough, were idiots.</p>
+        <p>Not so, of course. Most of them were close to the events and people concerned, and some had privileged access to evidence and intelligence that threw doubt on the ''lone assassin'' version. That doubt remains today. Bugliosi himself this year joined us, Don DeLillo, Gerald Posner, Robert Blakey and two dozen other writers on the assassination in signing an open letter that appeared in the March 15 issue of The New York Review of Books. The letter focused on a specific unresolved lead, the discovery that a highly regarded C.I.A. officer named George Joannides was in 1963 running an anti-Castro exile group that had a series of encounters with Oswald shortly before the assassination.</p>
+        <p>This is obviously pertinent, yet the C.I.A. hid the fact from four J.F.K. investigations. Since 1998, when the agency did reluctantly disclose the merest outline of what Joannides was up to, it has energetically stonewalled a Freedom of Information suit to obtain the details of its officer's activities. Here we are in 2007, 15 years after Congress unanimously approved the J.F.K. Assassination Records Act mandating the ''immediate'' release of all assassination-related records, and the C.I.A. is claiming in federal court that it has the right not to do so.</p>
+        <p>And now your reviewer, Burrough, seems to lump together all those who question the official story as marginal fools. Burrough's close-minded stance should be unacceptable to every historian and journalist worthy of the name -- especially at a time when a federal agency is striving vigorously to suppress very relevant information.</p>
+        <p>Jefferson Morley  Washington</p>
+        <p>Norman Mailer  Provincetown, Mass.</p>
+        <p>Anthony Summers  Waterford, Ireland</p>
+        <p>David Talbot  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

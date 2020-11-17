@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calorie Intake May Affect Bone Health of Young Women</title>
+    <meta content="12nutr" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/health/nutrition/12nutr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853912"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: NUTRITION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Eating Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Anorexia Nervosa</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Bones</classifier>
+        <classifier class="online_producer" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="descriptor">Anorexia Nervosa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anorexia Nervosa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eating Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DC173FF931A25755C0A9619C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calorie Intake May Affect Bone Health of Young Women</hl1>
+        <hl2 class="online_headline">Nutrition: Calorie Intake May Affect Bone Health of Young Women</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When a young woman stops menstruating, doctors often take it as a red flag that she may not be eating enough, which, among other problems, can inhibit bone formation.</p>
+        <p>But a new study has found that some young women who have regular periods may still be eating so little that they endanger the health of their bones.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study has found that some young women may be eating so little that they endanger the health of their bones.</p>
+      </block>
+      <block class="full_text">
+        <p>When a young woman stops menstruating, doctors often take it as a red flag that she may not be eating enough, which, among other problems, can inhibit bone formation.</p>
+        <p>But a new study has found that some young women who have regular periods may still be eating so little that they endanger the health of their bones.</p>
+        <p>There are a number of reasons a teenager may not be consuming enough nutrients. Anorexia is a common one, but young women who work out intensively for a sport like gymnastics without increasing their energy intake are also at risk.</p>
+        <p>The study, by Anne Loucks and Aiden Shearer of Ohio University, looked at the role of nutrient intake and bone formation in women ages 18 to 32. It was presented last week at a meeting of the Endocrine Society.</p>
+        <p>For five days, the researchers restricted the women's caloric intake and had them exercise for more than an hour and a half each day. The women were separated into two groups, one younger and one older.</p>
+        <p>When the researchers drew volunteers' blood at the end of the five days, they found decreased levels of two markers for bone formation.</p>
+        <p>While earlier research found that calorie restriction did not disrupt the reproductive system in the older group of young women, the new study suggests that taking in too few calories still impairs their bone formation.</p>
+        <p>The implications may be greatest for women who exercise a lot and do not consume enough food.</p>
+        <p>''Regular menstrual cycles do not reliably indicate that they are eating enough for what they're expending,'' Dr. Loucks said.</p>
+        <p>VITAL SIGNS: NUTRITION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TIES THAT BIND, AND DONATE</title>
+    <meta content="17suits-5" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855197"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4D9153FF934A25755C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TIES THAT BIND, AND DONATE</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE L. LEVERE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week, Mayor Michael R. Bloomberg of New York praised the Hertz Corporation for its decision to add 100 Toyota Prius hybrid vehicles to its Manhattan fleet of rental cars, and to donate $250,000 for environmental initiatives to the Mayor's Fund to Advance New York City. Mr. Bloomberg and Mark P. Frissora, the chief executive of Hertz, spoke at a press conference at the American Museum of Natural History to announce their new alliance.</p>
+      </block>
+      <block class="full_text">
+        <p>Last week, Mayor Michael R. Bloomberg of New York praised the Hertz Corporation for its decision to add 100 Toyota Prius hybrid vehicles to its Manhattan fleet of rental cars, and to donate $250,000 for environmental initiatives to the Mayor's Fund to Advance New York City. Mr. Bloomberg and Mark P. Frissora, the chief executive of Hertz, spoke at a press conference at the American Museum of Natural History to announce their new alliance.</p>
+        <p>But the Bloomberg and Frissora families already have ties on a more personal level. Mr. Frissora's son Christopher married the mayor's older daughter, Emma, two years ago. Christopher and Emma, who met while attending Princeton, both recently graduated from Harvard Business School.</p>
+        <p>JANE L. LEVERE</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

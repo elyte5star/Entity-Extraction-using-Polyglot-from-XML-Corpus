@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; A Bullish 'Lil' Bush'</title>
+    <meta content="16arts-2" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854846"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE6D6153FF935A25755C0A9619C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; A Bullish 'Lil' Bush'</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Peter Edidin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Lil' Bush,'' Comedy Central's new animated political satire, had a solid debut on Wednesday, placing among the five most-watched series premieres in the channel's history and the best since ''Drawn Together'' in 2004. Nielsen Media Research reported that 2.1 million total viewers tuned in for the show at 10:30 p.m., just over half of them in the demographic of adults 18 to 49 (1.2 million). Also on cable at 10 p.m. on Wednesday, the third-season premiere of Bravo's ''Top Chef'' attracted 2 million viewers, an 8 percent increase over its second-season debut. And the fourth-season premiere of FX's ''Rescue Me,'' with Denis Leary, drew 2.8 million viewers, a decline of 18 percent from the show's third-season start. According to FX, those numbers are likely to rise considerably when DVR playback data is available in three weeks. On network television Thursday, Nielsen's estimates show that Fox easily led overall with ''Are You Smarter Than a 5th Grader?'' at 8 (9.9 million) and ''So You Think You Can Dance'' at 9 (10.6 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>''Lil' Bush,'' Comedy Central's new animated political satire, had a solid debut on Wednesday, placing among the five most-watched series premieres in the channel's history and the best since ''Drawn Together'' in 2004. Nielsen Media Research reported that 2.1 million total viewers tuned in for the show at 10:30 p.m., just over half of them in the demographic of adults 18 to 49 (1.2 million). Also on cable at 10 p.m. on Wednesday, the third-season premiere of Bravo's ''Top Chef'' attracted 2 million viewers, an 8 percent increase over its second-season debut. And the fourth-season premiere of FX's ''Rescue Me,'' with Denis Leary, drew 2.8 million viewers, a decline of 18 percent from the show's third-season start. According to FX, those numbers are likely to rise considerably when DVR playback data is available in three weeks. On network television Thursday, Nielsen's estimates show that Fox easily led overall with ''Are You Smarter Than a 5th Grader?'' at 8 (9.9 million) and ''So You Think You Can Dance'' at 9 (10.6 million).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Payback Time</title>
+    <meta content="10wwln--freakonomics.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/magazine/10wwln-freakonomics-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853464"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WAY WE LIVE NOW: 6-10-07: FREAKONOMICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <location class="indexing_service">Chicago (Ill)</location>
+        <person class="indexing_service">Ben-David, Itzhak</person>
+        <person class="indexing_service">Dubner, Stephen J</person>
+        <person class="indexing_service">Levitt, Steven D (Prof)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Subprime Lending</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD81130F933A25755C0A9619C8B63" item-length="1259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Payback Time</hl1>
+        <hl2 class="online_headline">Payback Time</hl2>
+      </hedline>
+      <byline class="print_byline">By Stephen J. Dubner and Steven D. Levitt</byline>
+      <byline class="normalized_byline">Levitt, Steven D (Prof); Dubner, Stephen J</byline>
+      <abstract>
+        <p>Stephen J Dubner and Steven D Levitt column on cash-back mortgage, in which sale price of house is inflated so that seller can give buyer cash rebate that will allow him or her to make down payment required to avoid settling for subprime mortgage; notes that although transaction is illegal because it is not recorded in mortgage paperwork, Itzhak Ben-David, graduate student, was able to uncover tell-tale signs of home sales in Chicago market in which it must have been used; drawing (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cash-Back Mortgage</p>
+        <p>Imagine for a moment that you are looking to buy a first home for yourself, your spouse and your 1-year-old darling. Now imagine that you are doing this in Italy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A quiet exchange of funds lets a family buy a new house and helps the seller get a good price. So why is it illegal?</p>
+      </block>
+      <block class="full_text">
+        <p>The Cash-Back Mortgage</p>
+        <p>Imagine for a moment that you are looking to buy a first home for yourself, your spouse and your 1-year-old darling. Now imagine that you are doing this in Italy.</p>
+        <p>The housing market in Italy is quite different from ours. It's harder to get mortgage credit, and you can typically borrow only 50 percent of the purchase price. Moreover, the loan might have to be repaid in just 10 years. So before buying your first house, you'll probably have to spend a lot of years saving up your salary for a down payment. As a result, you may well end up living with your parents (or -- gulp -- your in-laws) until you are deep into your 30s.</p>
+        <p>In the United States, meanwhile, mortgage credit flows like milk and honey. By putting down just a fraction of the purchase price, you can move your family right in, with 30 years to pay off the mortgage.</p>
+        <p>But what if you can't scare up the cash for even a small down payment? Without it, you fall firmly into the category of what are now infamously known as subprime borrowers. There are plenty of options for subprime customers, but most of those options, as noted in the small type on the contracts the borrowers sign, aren't very good.</p>
+        <p>As is the case with any worthwhile goal, some people employ the most time-honored solution for getting what they don't quite deserve: they cheat. In some cases, the cheating involves an illegal sleight-of-hand maneuver known as the cash-back transaction. As one of the trickiest forms of mortgage fraud -- there are many others -- the cash-back transaction is hardly unknown among real estate insiders, but it has largely escaped academic scrutiny. Until now.</p>
+        <p>Itzhak Ben-David, a Ph.D. candidate in finance at the University of Chicago Graduate School of Business, fell into the subject while pursuing a drier one: the degree to which housing prices efficiently incorporate anticipated tax increases. (Disclosure: one of this column's authors, Steven Levitt, sits on Ben-David's dissertation committee.) A 36-year-old Israeli, Ben-David had served for four and a half years in the Israeli Army, studied industrial engineering and accounting and worked at a real estate company in Britain. He thought he knew pretty well how the world operated. But as he immersed himself in Chicago real estate for his dissertation research, he came to wonder how well he and his fellow academics truly understood the market.</p>
+        <p>For instance, as he interviewed mortgage brokers, real estate agents and bank loan officers, he heard regular mention of a mysterious kind of deal in which the seller gave the buyer a cash rebate without noting this transaction in the mortgage paperwork. (It is illegal for buyers and sellers to transfer cash or assets without properly notifying the lender.) Of course, none of the people that he interviewed copped to this practice. But sometimes the signs of a cash-back transaction were, quite literally, out in the open for all to see, on banners hanging from for-sale properties or in printed real estate ads.</p>
+        <p>How does this kind of deal work?</p>
+        <p>Pretend that you want to buy a house that costs $200,000 but don't have $20,000 to make the 10 percent down payment that would get you a decent mortgage. The seller's real estate agent offers a solution: let's make the official purchase price $220,000 instead of $200,000, he says -- but in return, the seller will give you $20,000 in cash. This rebate will be a separate transaction, the agent explains, which doesn't need to be written into the mortgage paperwork. (A seller can legally offer a cash-back incentive, but it would have to be reported to the bank -- which would negate the advantage of having the bank think that the buyer already has the cash.)</p>
+        <p>Voilà! Suddenly you have the $20,000 in cash necessary to get a good mortgage, and the seller still nets his original price of $200,000. The only difference is that the bank records the sale of the house at an inflated $220,000. And, instead of borrowing 90 percent of the value of the house, you have in fact borrowed 100 percent. ''In short,'' Ben-David writes, ''a buyer can purchase the property with no down payment.''</p>
+        <p>It was all well and good for Ben-David to have learned, anecdotally, how cash-back transactions work -- but how could he isolate such behavior in the data? Since the transactions were illegal, they wouldn't be recorded. So using the data from nearly 300,000 Chicago-area home sales, he began to play detective, seeking out telltale signs of the scam.</p>
+        <p>First he built a dictionary of 150 keywords in real estate ads -- ''creative financing,'' for instance -- that might signal a seller's willingness to play loose. He then looked for instances in which a house had languished on the market and yet wound up selling at or even above the final asking price. In such cases, he found that buyers typically paid a very small down payment; the smaller the down payment, in fact, the higher the price they paid for the house. What could this mean? Either the most highly leveraged buyers were terrible bargainers -- or, as Ben-David concluded, such anomalies indicated the artificial inflation that marked a cash-back deal.</p>
+        <p>Having isolated the suspicious transactions in the data, Ben-David could now examine the noteworthy traits they shared. He found that a small group of real estate agents were repeatedly involved, in particular when the seller was himself an agent or when there was no second agent in the deal. Ben-David also found that the suspect transactions were more likely to occur when the lending bank, rather than keeping the mortgage, bundled it up with thousands of others and sold them off as mortgage-backed securities. This suggests that the issuing banks treat suspect mortgages with roughly the same care as you might treat a rental car, knowing that you aren't responsible for its long-term outcome once it is out of your possession.</p>
+        <p>At first glance, these cash-back transactions, while illegal, might seem a victimless crime. After all, the seller gets his house sold and the buyer gets to move in with his family. The real estate agent, the mortgage broker, the attorney and the appraiser are all paid their commissions or fees. Even the bank that made the loan comes out ahead, since it earned its fees on the transaction before passing along the mortgage to investors.</p>
+        <p>But Ben-David argues that there are at least two potential losers. The first is the honest buyer who won't take a cash-back offer and therefore can't buy a house -- all while the illegal cash-back transactions are artificially driving up home prices in his neighborhood.</p>
+        <p>The second loser is the investor who bought the mortgage-backed securities. If a house purchased with a cash-back transaction goes into foreclosure, it is soon discovered that the home is worth less than the value of the loan. This, plainly, is not good for the shareholders of such assets. While people who hate rich people may get a thrill from the idea of wealthy shareholders being swindled by a bunch of small-time mortgage hustlers, keep in mind that mortgage-backed securities are the sort of conservative investment widely held by pensioners and other regular folks.</p>
+        <p>There's a third potential loser as well: the subprime buyer who does accept the cash-back payment but still ends up defaulting on the loan. Although his criminal act will probably never be prosecuted, he stands to face an even harsher sentence: moving back in with the in-laws.</p>
+        <p>THE WAY WE LIVE NOW: 6-10-07: FREAKONOMICS Stephen J. Dubner and Steven D. Levitt are the authors of ''Freakonomics.'' More information on the research behind this column is online at www.freakonomics.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Stephen J. Dubner and Steven D. Levitt are the authors of ''Freakonomics.'' More information on the research behind this column is online at www.freakonomics.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

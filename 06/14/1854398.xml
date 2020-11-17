@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Updating Maps on the Spot and Sharing the Fixes</title>
+    <meta content="14gps" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14gps.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854398"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Navigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Maps</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Positioning System</classifier>
+        <org class="indexing_service">TomTom (Co)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E4D9143FF937A25755C0A9619C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Updating Maps on the Spot and Sharing the Fixes</hl1>
+        <hl2 class="online_headline">Updating Maps on the Spot and Sharing the Fixes</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D BIERSDORFER</byline>
+      <abstract>
+        <p>TomTom's new Map Share software combines cartography with community to allow users to update maps on go--and later share results with others; software is free and included with new TomTom GO 720 GPS receiver, which will be available by end of July; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Out-of-date maps can throw a wrench into your driving plans, but TomTom's new Map Share software combines cartography with community to allow users to update maps on the go -- and later share the results with others.</p>
+        <p>For example, a driver who comes across a closed road or detour can enter changes to the route on the TomTom navigation device's screen right there. The changes can later be uploaded to the Internet with the TomTom Home software, which lets the device transfer data when connected to a Mac or PC. Other TomTom users can choose to download all map updates to their own Global Positioning System units, or just those verified by TomTom.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>TomTom’s new Map Share software combines cartography with community to allow users to update maps on the go.</p>
+      </block>
+      <block class="full_text">
+        <p>Out-of-date maps can throw a wrench into your driving plans, but TomTom's new Map Share software combines cartography with community to allow users to update maps on the go -- and later share the results with others.</p>
+        <p>For example, a driver who comes across a closed road or detour can enter changes to the route on the TomTom navigation device's screen right there. The changes can later be uploaded to the Internet with the TomTom Home software, which lets the device transfer data when connected to a Mac or PC. Other TomTom users can choose to download all map updates to their own Global Positioning System units, or just those verified by TomTom.</p>
+        <p>The TomTom Map Share technology is free and included with the new TomTom GO 720 G.P.S. receiver, shown here, which will be available in stores and at www.tomtom.com by the end of next month. (The Map Share software will eventually be released to users of older TomTom G.P.S. products.) The GO 720 has a 4.3-inch color screen, a built-in FM transmitter to play music stored on the device or from MP3 players through the car's radio, and the ability to record your own audio driving instructions.</p>
+        <p>J. D BIERSDORFER</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

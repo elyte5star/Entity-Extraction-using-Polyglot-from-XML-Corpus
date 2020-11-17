@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: New Coordinator For Trade Center Health Issues</title>
+    <meta content="12mbrfs-1" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854048"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EFD9173FF931A25755C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: New Coordinator For Trade Center Health Issues</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTHONY DePALMA; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nearly six years after the attack on the World Trade Center, Mayor Michael R. Bloomberg has appointed a public relations specialist to coordinate New York City's response to the mounting health issues of people who were exposed to dust and smoke from the collapsed towers. The new coordinator, Jeffrey Hon, will advise the mayor on 9/11 health issues and oversee the way municipal pension programs respond to requests from employees who were exposed to the toxic dust. Mr. Hon, 53, was a spokesman for the American Red Cross September 11 Recovery Program, which provides financial assistance for mental and physical health care for those most directly affected by the attack. Yesterday, Mr. Bloomberg also named a 15-member panel to review findings on the effects of exposure at ground zero and the adequacy of medical services available to those exposed, The Associated Press reported. The panel includes representatives of Mount Sinai Medical Center and the city Fire Department.</p>
+        <p>ANTHONY DePALMA</p>
+      </block>
+      <block class="full_text">
+        <p>Nearly six years after the attack on the World Trade Center, Mayor Michael R. Bloomberg has appointed a public relations specialist to coordinate New York City's response to the mounting health issues of people who were exposed to dust and smoke from the collapsed towers. The new coordinator, Jeffrey Hon, will advise the mayor on 9/11 health issues and oversee the way municipal pension programs respond to requests from employees who were exposed to the toxic dust. Mr. Hon, 53, was a spokesman for the American Red Cross September 11 Recovery Program, which provides financial assistance for mental and physical health care for those most directly affected by the attack. Yesterday, Mr. Bloomberg also named a 15-member panel to review findings on the effects of exposure at ground zero and the adequacy of medical services available to those exposed, The Associated Press reported. The panel includes representatives of Mount Sinai Medical Center and the city Fire Department.</p>
+        <p>ANTHONY DePALMA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

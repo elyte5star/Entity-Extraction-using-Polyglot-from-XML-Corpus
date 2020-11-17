@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE TONYS: CRITICS' PICKS</title>
+    <meta content="03wplay-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851748"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Tony Awards (Theater Awards)</classifier>
+        <person class="indexing_service">Isherwood, Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/Tony Awards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tony Awards (Theater Awards)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tony Awards (Theater Awards)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E0DE1530F930A35755C0A9619C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE TONYS: CRITICS' PICKS</hl1>
+      </hedline>
+      <byline class="print_byline">By CHARLES ISHERWOOD</byline>
+      <byline class="normalized_byline">Isherwood, Charles</byline>
+      <abstract>
+        <p>Theater critic Charles Isherwood lists which plays or actors will win, should win and should have been nominated for Tony Awards; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BEST PLAY  Will win: ''The Coast of Utopia''  Should win: ''Radio Golf''  Should have been nominated: ''Dying City'' *</p>
+        <p>BEST MUSICAL  Will win: ''Spring Awakening''  Should win: ''Spring Awakening''  Should have been nominated: ''In the Heights'' *</p>
+        <p>BEST PLAY REVIVAL  Will win: ''Journey's End''  Should win: ''Translations''  Should have been nominated: ''The Voysey Inheritance'' *</p>
+        <p>BEST MUSICAL REVIVAL  Will win: ''Company''  Should win: ''Company''  Should have been nominated: ''Stairway to Paradise''</p>
+        <p>BEST ACTOR IN A PLAY:  Will win: Frank Langella, ''Frost/Nixon''  Should win: Frank Langella, ''Frost/Nixon''  Should have been nominated: Niall Buggy or Chandler Williams, ''Translations''</p>
+        <p>BEST ACTRESS IN A PLAY  Will win: Eve Best, ''A Moon for the Misbegotten''  Should win: Eve Best, ''A Moon for the Misbegotten''  Should have been nominated: Susan Lynch, ''Translations''</p>
+        <p>BEST ACTOR IN A MUSICAL  Will win: Raúl Esparza, ''Company''  Should win: Raúl Esparza, ''Company''  Should have been nominated: Lin-Manuel Miranda, ''In the Heights''</p>
+        <p>BEST ACTRESS IN A MUSICAL  Will win: Christine Ebersole, ''Grey Gardens''  Should win: Christine Ebersole, ''Grey Gardens''  Should have been nominated: Donna Murphy, ''Follies'' *</p>
+        <p>BEST DIRECTOR OF A PLAY  Will win: Jack O'Brien, ''The Coast of Utopia''  Should win: Jack O'Brien, ''The Coast of Utopia''  Should have been nominated: Garry Hynes, ''Translations''</p>
+        <p>BEST DIRECTOR OF A MUSICAL  Will win: Michael Mayer, ''Spring Awakening''  Should win: Michael Mayer, ''Spring Awakening''  Should have been nominated: Thomas Kail, ''In the Heights''</p>
+        <p>*For the ''Should have neen nominated'' category, the critics were allowed to expand the potential nominees to Off Broadway productions that were actually ineligible for the Broadway-only Tony Awards.</p>
+      </block>
+      <block class="full_text">
+        <p>BEST PLAY  Will win: ''The Coast of Utopia''  Should win: ''Radio Golf''  Should have been nominated: ''Dying City'' *</p>
+        <p>BEST MUSICAL  Will win: ''Spring Awakening''  Should win: ''Spring Awakening''  Should have been nominated: ''In the Heights'' *</p>
+        <p>BEST PLAY REVIVAL  Will win: ''Journey's End''  Should win: ''Translations''  Should have been nominated: ''The Voysey Inheritance'' *</p>
+        <p>BEST MUSICAL REVIVAL  Will win: ''Company''  Should win: ''Company''  Should have been nominated: ''Stairway to Paradise''</p>
+        <p>BEST ACTOR IN A PLAY:  Will win: Frank Langella, ''Frost/Nixon''  Should win: Frank Langella, ''Frost/Nixon''  Should have been nominated: Niall Buggy or Chandler Williams, ''Translations''</p>
+        <p>BEST ACTRESS IN A PLAY  Will win: Eve Best, ''A Moon for the Misbegotten''  Should win: Eve Best, ''A Moon for the Misbegotten''  Should have been nominated: Susan Lynch, ''Translations''</p>
+        <p>BEST ACTOR IN A MUSICAL  Will win: Raúl Esparza, ''Company''  Should win: Raúl Esparza, ''Company''  Should have been nominated: Lin-Manuel Miranda, ''In the Heights''</p>
+        <p>BEST ACTRESS IN A MUSICAL  Will win: Christine Ebersole, ''Grey Gardens''  Should win: Christine Ebersole, ''Grey Gardens''  Should have been nominated: Donna Murphy, ''Follies'' *</p>
+        <p>BEST DIRECTOR OF A PLAY  Will win: Jack O'Brien, ''The Coast of Utopia''  Should win: Jack O'Brien, ''The Coast of Utopia''  Should have been nominated: Garry Hynes, ''Translations''</p>
+        <p>BEST DIRECTOR OF A MUSICAL  Will win: Michael Mayer, ''Spring Awakening''  Should win: Michael Mayer, ''Spring Awakening''  Should have been nominated: Thomas Kail, ''In the Heights''</p>
+        <p>*For the ''Should have neen nominated'' category, the critics were allowed to expand the potential nominees to Off Broadway productions that were actually ineligible for the Broadway-only Tony Awards.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

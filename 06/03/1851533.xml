@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GAYDOS, EVE</title>
+    <meta content="dn060307.2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851533"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GAYDOS, EVE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DE143AF930A35755C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GAYDOS, EVE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GAYDOS--Eve. The Staff and Graduates of Gestalt Associates for Psychotherapy announce a memorial for our dear friend and colleague, to be held on June 9th, at 10:30am-1pm, at Pilgrim Hill in Central Park, 5th Ave between 72nd/73rd St. We will celebrate Eve's love of color, music, movement, and beauty and honor the magic she brought to her work and life. Eve left us on April 16, 2007.</p>
+      </block>
+      <block class="full_text">
+        <p>GAYDOS--Eve. The Staff and Graduates of Gestalt Associates for Psychotherapy announce a memorial for our dear friend and colleague, to be held on June 9th, at 10:30am-1pm, at Pilgrim Hill in Central Park, 5th Ave between 72nd/73rd St. We will celebrate Eve's love of color, music, movement, and beauty and honor the magic she brought to her work and life. Eve left us on April 16, 2007.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Middle East: Gaza: One Dead In Factional Firefight</title>
+    <meta content="08briefs-7" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853025"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Gaza Strip</location>
+        <location class="indexing_service">Rafah (Israel)</location>
+        <org class="indexing_service">Fatah</org>
+        <org class="indexing_service">Hamas</org>
+        <person class="indexing_service">Kershner, Isabel</person>
+        <person class="indexing_service">Abbas, Mahmoud (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Gaza Strip</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4D91F30F93BA35755C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Middle East: Gaza: One Dead In Factional Firefight</hl1>
+      </hedline>
+      <byline class="print_byline">By ISABEL KERSHNER</byline>
+      <byline class="normalized_byline">Kershner, Isabel</byline>
+      <abstract>
+        <p>Palestinian man of Fatah is killed and at least nine other people are wounded in factional fighting in Gaza Strip town of Rafah; rival factions Hamas and Fatah blame each other for starting shooting; Palestinian Pres Mahmoud Abbas of Fatah warns that Palestinians are 'on verge of civil war'(S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Palestinian man was killed and at least nine other people were wounded in factional fighting in the southern Gaza Strip town of Rafah. Each of the rival factions, Hamas and Fatah, blamed the other for starting the shooting. The dead man belonged to Fatah. A report this week by the Palestinian Independent Commission for Citizens' Rights said 616 Palestinians had been killed in internal fighting since the beginning of 2006. In the first half of May, fierce factional clashes left about 50 dead in Gaza. The Palestinian president, Mahmoud Abbas of Fatah, warned this week that the Palestinians were ''on the verge of civil war.''</p>
+        <p>ISABEL KERSHNER</p>
+      </block>
+      <block class="full_text">
+        <p>A Palestinian man was killed and at least nine other people were wounded in factional fighting in the southern Gaza Strip town of Rafah. Each of the rival factions, Hamas and Fatah, blamed the other for starting the shooting. The dead man belonged to Fatah. A report this week by the Palestinian Independent Commission for Citizens' Rights said 616 Palestinians had been killed in internal fighting since the beginning of 2006. In the first half of May, fierce factional clashes left about 50 dead in Gaza. The Palestinian president, Mahmoud Abbas of Fatah, warned this week that the Palestinians were ''on the verge of civil war.''</p>
+        <p>ISABEL KERSHNER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

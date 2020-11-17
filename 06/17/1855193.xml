@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Who's Vacuuming Minnie Pearl's House?</title>
+    <meta content="17suits-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855193"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Vacuum Cleaners</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Mansions</classifier>
+        <location class="indexing_service">Nashville (Tenn)</location>
+        <org class="indexing_service">Oreck Corp</org>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <person class="indexing_service">Oreck, Thomas A</person>
+        <person class="indexing_service">Pearl, Minnie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Tennessee</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee/Nashville</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Tennessee</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mansions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E4D9153FF934A25755C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Who's Vacuuming Minnie Pearl's House?</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>Tom Oreck, chief executive of vacuum cleaner company, has bought mansion in Nashville that was once owned by late Grand Ole Opry star Minnie Pearl, rekindling speculation that company might move its headquarters from New Orleans to Tennessee; Oreck says official headquarters of company is still in New Orleans although he and his family will move to Nashville; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tom Oreck, the chief executive of the vacuum cleaner maker founded by his father, David, has a whole lot of new floor space to keep clean. The younger Mr. Oreck paid $4.6 million this month for a 7,800-square-foot mansion in Nashville that was once owned by the Grand Ole Opry star Minnie Pearl and her husband, Henry Cannon. The home sits on 4.7 acres near the Tennessee governor's mansion.</p>
+        <p>Mr. Oreck's purchase rekindled speculation that the company might move its headquarters from New Orleans to Tennessee, where it relocated some of its operations after Hurricane Katrina.</p>
+      </block>
+      <block class="full_text">
+        <p>Tom Oreck, the chief executive of the vacuum cleaner maker founded by his father, David, has a whole lot of new floor space to keep clean. The younger Mr. Oreck paid $4.6 million this month for a 7,800-square-foot mansion in Nashville that was once owned by the Grand Ole Opry star Minnie Pearl and her husband, Henry Cannon. The home sits on 4.7 acres near the Tennessee governor's mansion.</p>
+        <p>Mr. Oreck's purchase rekindled speculation that the company might move its headquarters from New Orleans to Tennessee, where it relocated some of its operations after Hurricane Katrina.</p>
+        <p>Mr. Oreck said in an interview that although he and his family would move to Nashville, the ''official headquarters of the company is still in New Orleans,'' where his father and his uncle, Marshall, have their offices.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

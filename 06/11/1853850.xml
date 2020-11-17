@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Legislative Session Wanes, So Does Leaders' Momentum</title>
+    <meta content="11empire-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853850"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDD173FF932A25755C0A9619C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Legislative Session Wanes, So Does Leaders' Momentum</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+      <dateline>ALBANY</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer would have preferred more progress by now, with two weeks left in the legislative session.</p>
+        <p>''In an ideal world, I'd like to have a repeat of January and February,'' the governor, right, said in an interview. Then, his staff negotiated agreements in isolation on intractable issues, including overhauling the state workers' compensation system and establishing procedures for the civil confinement of sex offenders after their prison terms end.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer would have preferred more progress by now, with two weeks left in the legislative session.</p>
+        <p>''In an ideal world, I'd like to have a repeat of January and February,'' the governor, right, said in an interview. Then, his staff negotiated agreements in isolation on intractable issues, including overhauling the state workers' compensation system and establishing procedures for the civil confinement of sex offenders after their prison terms end.</p>
+        <p>But now the end of the session appears to be playing out as it usually does in Albany: Either a sprawling deal involving a range of unrelated issues is struck by the governor and the legislative leaders, or it is not.</p>
+        <p>The process has been more visible this year. The governor has been holding weekly public meetings with legislative leaders, allowing a clearer view of where the fault lines lie on a host of issues. Still, one has the sense that the real negotiating goes on between the public meetings.</p>
+        <p>''As you get to the end of the session, there's a gravitational pull to get everything done at once,'' the governor said, ''but the leaders' meetings have totally changed the debate and framed the issues, so it's much harder for people to walk away from them.''</p>
+        <p>Issues on the table include proposals to start collecting DNA from anyone convicted of a misdemeanor, to offer employees up to 12 weeks of paid leave to care for a sick child or spouse and to speed approval procedures for new power plants.</p>
+        <p>The elephant in the room? Lawmakers want their first pay raise in eight years in return for any major deal.</p>
+        <p>Much will come down to the prickly dynamic between the governor and the Senate majority leader, Joseph L. Bruno, the state's top Republican.</p>
+        <p>The week begins with some bread-breaking. Mr. Bruno invited the governor to an annual Senate dinner at his horse farm upstate tonight, and Mr. Spitzer plans to attend. Let the horse trading begin.</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

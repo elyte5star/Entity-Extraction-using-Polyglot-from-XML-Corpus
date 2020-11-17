@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BIOLOGISTS MAKE SKIN CELLS WORK LIKE STEM CELLS</title>
+    <meta content="07cell" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Science; Front Page; Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/science/07cell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852799"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Stem Cells</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <org class="indexing_service">University of California at Los Angeles</org>
+        <org class="indexing_service">Whitehead Institute for Biomedical Research</org>
+        <org class="indexing_service">Kyoto University</org>
+        <org class="indexing_service">Massachusetts General Hospital</org>
+        <person class="indexing_service">Plath, Kathrin (Dr)</person>
+        <person class="indexing_service">Jaenisch, Rudolf (Dr)</person>
+        <person class="indexing_service">Yamanaka, Shinya (Dr)</person>
+        <person class="indexing_service">Hochedlinger, Konrad (Dr)</person>
+        <person class="indexing_service">Wade, Nicholas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stem Cells</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Stem Cells</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stem Cells</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E3D61E30F934A35755C0A9619C8B63" item-length="1518" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BIOLOGISTS MAKE SKIN CELLS WORK LIKE STEM CELLS</hl1>
+        <hl2 class="online_headline">Biologists Make Skin Cells Work Like Stem Cells</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+      <abstract>
+        <p>Researchers announce step toward goal of regenerative medicine, converting patient's cells into specialized tissues that might replace those lost to disease; advance is easy-to-use technique that reprograms mouse's skin cell back to embryonic stage so it can be induced to develop into other types of tissue; adapting technique to humans could enable patient's skin cell to generate heart, liver or kidney calls that could be transplantable; technique developed by Shinya Yamanaka of Kyoto University inserts into skin cell just four genes, which can accomplish same reprogramming task as egg does; scientists are riveted by finding because it could sidestep controversy over embryonic stem cell research; teams led by Rudolf Jaenisch of Whitehead Institute and Kathrin Plath of UCLA and Konrad Hochedlinger of Mass General repeat findings; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a surprising advance that could sidestep the ethical debates surrounding stem cell biology, researchers have come much closer to a major goal of regenerative medicine, the conversion of a patient's cells into specialized tissues that might replace those lost to disease.</p>
+        <p>The advance is an easy-to-use technique for reprogramming a skin cell of a mouse back to the embryonic state. Embryonic cells can be induced in the laboratory to develop into many of the body's major tissues.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The technique would avoid most of the ethical criticism directed at the use of embryonic stem cells.</p>
+      </block>
+      <block class="full_text">
+        <p>In a surprising advance that could sidestep the ethical debates surrounding stem cell biology, researchers have come much closer to a major goal of regenerative medicine, the conversion of a patient's cells into specialized tissues that might replace those lost to disease.</p>
+        <p>The advance is an easy-to-use technique for reprogramming a skin cell of a mouse back to the embryonic state. Embryonic cells can be induced in the laboratory to develop into many of the body's major tissues.</p>
+        <p>If the technique can be adapted to human cells, researchers could use a patient's skin cells to generate new heart, liver or kidney cells that might be transplantable and would not be rejected by the patient's immune system. But scientists say they cannot predict when they can overcome the considerable problems in adapting the method to human cells.</p>
+        <p>Previously, the only way to convert adult cells to embryonic form has been by nuclear transfer, the insertion of an adult cell's nucleus into an egg whose own nucleus has been removed. The egg somehow reprograms the nucleus back to an embryonic state. That procedure is known as therapeutic cloning when applied to people, but no one has yet succeeded in doing it.</p>
+        <p>The new technique, developed by Shinya Yamanaka of Kyoto University, depends on inserting just four genes into a skin cell. These accomplish the same reprogramming task as the egg does, or at least one that seems very similar.</p>
+        <p>The technique, if adaptable to human cells, is much easier to apply than nuclear transfer, would not involve the expensive and controversial use of human eggs, and should avoid all or almost all of the ethical criticism directed at the use of embryonic stem cells.</p>
+        <p>''From the point of view of moving biomedicine and regenerative medicine faster, this is about as big a deal as you could imagine,'' said Irving Weissman, a leading stem cell biologist at Stanford University, who was not involved in the new research.</p>
+        <p>David Scadden, a stem cell biologist at the Harvard Medical School, said the finding that cells could be reprogrammed with simple biochemical techniques ''is truly extraordinary and frankly something most assumed would take a decade to work out.''</p>
+        <p>The technique seems likely to be welcomed by many who have opposed human embryonic stem cell research. It ''raises no serious moral problem, because it creates embryoniclike stem cells without creating, harming or destroying human lives at any stage,'' said Richard Doerflinger, the United States Conference of Catholic Bishops' spokesman on stem cell issues. In themselves, embryonic stem cells ''have no moral status,'' and the bishops' objections to embryonic stem cell research rest solely on the fact that human embryos must be harmed or destroyed to obtain them, Mr. Doerflinger said.</p>
+        <p>Ronald Green, an ethicist at Dartmouth College, said it would be ''very hard for people to say that what is created here is a nascent form of human life that should be protected.'' The new technique, if adaptable to human cells, ''will be one way this debate could end,'' Mr. Green said.</p>
+        <p>Biologists learned how to generate human embryonic stem cells in 1998 from the few-day-old embryos discarded by fertility clinics, a procedure the embryos did not survive. This source proved controversial, and biologists supported by federal financing were unable to explore the new opportunity until August 2001 when President Bush, in a political compromise, decreed that research on human embryonic stem cells could begin, but only with cell lines already in existence by that date.</p>
+        <p>The restrictions have caused considerable frustration among biologists and other supporters of research on embryonic stem cells. Indeed, the House is expected to vote today to increase federal funds for such research. If approved, the bill, similar to one approved by the Senate, would go to the president. The White House has already said that the president will veto it.</p>
+        <p>The new technique, when adaptable to human cells, should sidestep all these problems. James Battey, vice chairman of the National Institutes of Health stem cell task force, said he saw ''no impediment at all'' to federal support of researchers using the new technique on human cells.</p>
+        <p>Ever since the creation of Dolly the sheep, the first cloned mammal, scientists have sought to lay hands on the mysterious chemicals with which an egg will reprogram a mature cell nucleus injected into it and set the cell on the same path of embryonic development as when egg and sperm combine.</p>
+        <p>Years of patient research have identified many of the genes that are active in the embryonic cell and maintain its pluripotency, or ability to morph into many different tissues. Last year, Dr. Yamanaka and his colleague Kazutoshi Takahashi, both at Kyoto University, published a remarkable report relating how they had guessed at 24 genes responsible for maintaining pluripotency in mouse embryonic stem cells.</p>
+        <p>When they inserted all 24 genes into mouse skin cells, some of the cells showed signs of pluripotency. The Kyoto team then subtracted genes one by one until they had a set of four genes that were essential. The genes are inserted into viruses that infect the cell and become active as the virus replicates. The skin cell's own copies of these genes are repressed since they would interfere with its function. ''We were very surprised'' that just four genes are sufficient to reprogram the skin cells, Dr. Yamanaka said.</p>
+        <p>Dr. Yamanaka's report riveted the attention of biologists elsewhere. Two teams set out to repeat and extend his findings, one led by Rudolf Jaenisch of the Whitehead Institute and the other by Kathrin Plath of the University of California, Los Angeles, and Konrad Hochedlinger of Massachusetts General Hospital. Dr. Yamanaka, too, set about refining his work.</p>
+        <p>In articles published today in Nature and a new journal, Cell-Stem Cell, the three teams show that injection of the four genes identified by Dr. Yamanaka can make mouse cells revert to cells indistinguishable from embryonic stem cells. Dr. Yamanaka's report of last year showed that only some properties of embryonic stem cells were attained.</p>
+        <p>This clear confirmation of Dr. Yamanaka's recipe is exciting to researchers because it throws open to study the key process of multicellular organisms, that of committing cells to a variety of different roles, even though all carry the same genetic information.</p>
+        <p>Recent studies have shown that the chromatin, the complex protein material that clads the DNA in chromosomes, is not passive packaging material but highly dynamic. It contains systems of switches that close down large suites of genes but allow others to be active, depending on the role each cell is assigned to perform.</p>
+        <p>Dr. Yamanaka's four genes evidently reset the switch settings appropriate for a skin cell to ones that specify an embryonic stem cell. The technique is easy to use and ''should revolutionize the field since every small lab can work on reprogramming,'' said Alexander Meissner, a co-author of Dr. Jaenisch's report.</p>
+        <p>An immediate issue is whether the technique can be reinvented for human cells. One problem is that the mice have to be interbred, which cannot be done with people. Another is that the cells must be infected with the gene-carrying virus, which is not ideal for cells to be used in therapy. A third issue is that two of the genes in the recipe can cause cancer. Indeed 20 percent of Dr. Yamanaka's mice died of the disease. Nonetheless, several biologists expressed confidence that all these difficulties would be sidestepped somehow.</p>
+        <p>''The technical problems seem approachable -- I don't see anyone running into a brick wall,'' said Owen Witte, a stem cell biologist at U.C.L.A. Dr. Jaenisch, in a Webcast about the research, predicted that the problems of adapting the technique to human cells would be solvable but he did not know when.</p>
+        <p>If a human version of Dr. Yamanaka's recipe is developed, one important research use, Dr. Weissman said, will be to reprogram diseased cells from patients so as to study the molecular basis of how their disease develops.</p>
+        <p>Beyond that is the hope of generating cells for therapy. Researchers have learned how to make embryonic cells in the laboratory develop into neurons, heart muscle cells and other tissues. In principle, these might be injected into a patient to replace or supplement the cells of the diseased tissue, without fear of immune rejection.</p>
+        <p>No one really knows if the new cells would succumb to the same disease process, or if they would be well behaved, given that they developed in a laboratory dish without recapitulating the exact succession of environments they would have experienced in the embryo.</p>
+        <p>Still, repairing the body with its own cells should in principle be a superior to the surgeon's knife and the oncologists' poisons.</p>
+        <p>Cloning Bill Defeated in House</p>
+        <p>WASHINGTON, June 6 (AP) -- House Republicans united Wednesday to reject a bill supported by Democrats that would make it illegal to use cloning technology to initiate a pregnancy and create a cloned human being. The parties accused each other of using the legislation to score political points before the House votes Thursday on a stem cell bill that President Bush says he will veto.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

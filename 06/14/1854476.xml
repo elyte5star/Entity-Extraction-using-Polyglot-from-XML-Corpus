@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Staten Island: Sentence In Scalding Case</title>
+    <meta content="14mbrfs-5" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14mbrfs-burn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854476"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED8143FF937A25755C0A9619C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Staten Island: Sentence In Scalding Case</hl1>
+        <hl2 class="online_headline">Staten Island: Sentence in Scalding Case</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Staten Island man was sentenced yesterday to 20 years in prison for scalding a 3-year-old boy in a bathtub in 2005, prosecutors said. The man, Michael Duhs, 34, of Seaview Avenue, was convicted of assault and child endangerment in State Supreme Court in February, said Daniel M. Donovan Jr., the Staten Island district attorney. Mr. Donovan said Mr. Duhs was charged with scalding his live-in companion's son on Sept. 16, 2005, and not seeking medical attention for the child until the mother returned home six hours later. The boy suffered third-degree burns over 10 percent of his body, Mr. Donovan said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Staten Island man was sentenced to 20 years in prison for scalding a 3-year-old boy in a bathtub in 2005, prosecutors said.</p>
+      </block>
+      <block class="full_text">
+        <p>A Staten Island man was sentenced yesterday to 20 years in prison for scalding a 3-year-old boy in a bathtub in 2005, prosecutors said. The man, Michael Duhs, 34, of Seaview Avenue, was convicted of assault and child endangerment in State Supreme Court in February, said Daniel M. Donovan Jr., the Staten Island district attorney. Mr. Donovan said Mr. Duhs was charged with scalding his live-in companion's son on Sept. 16, 2005, and not seeking medical attention for the child until the mother returned home six hours later. The boy suffered third-degree burns over 10 percent of his body, Mr. Donovan said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

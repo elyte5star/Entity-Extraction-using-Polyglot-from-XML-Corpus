@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Fresh Pick of Park Slope Treats: From a Baker</title>
+    <meta content="13bake" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854115"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EFD8173FF930A25755C0A9619C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Fresh Pick of Park Slope Treats: From a Baker</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When she was the pastry chef at the Union Square Cafe, Emily Isaac said, she always hoped to have her own bake shop, a dream Ms. Isaac, right, has now realized with Trois Pommes Patisserie in Park Slope, Brooklyn. A banquette in the window and a whimsical chandelier dangling from the soaring ceiling enliven the brick-walled shop, the better to showcase some riffs on popular snacks like whoopie pies and Oreos.</p>
+      </block>
+      <block class="full_text">
+        <p>When she was the pastry chef at the Union Square Cafe, Emily Isaac said, she always hoped to have her own bake shop, a dream Ms. Isaac, right, has now realized with Trois Pommes Patisserie in Park Slope, Brooklyn. A banquette in the window and a whimsical chandelier dangling from the soaring ceiling enliven the brick-walled shop, the better to showcase some riffs on popular snacks like whoopie pies and Oreos.</p>
+        <p>Chunky peanut butter cookies ($2.50) are sandwiched with peanut butter filling; Valrhona brownies ($3) are dense and fudgy. Ice creams, including a wickedly intense caramel, are scooped into freshly made cones ($3 to $5). Right now her strawberry-rhubarb tartlets ($5 each) are best sellers. But her almond shortbreads ($1.50 for two) are all you need for an elegant dessert with some berries and a glass of Champagne. Trois Pommes is at 260 Fifth Avenue (Carroll Street), (718) 230-3119.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

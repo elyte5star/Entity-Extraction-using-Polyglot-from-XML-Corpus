@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Music of Change</title>
+    <meta content="10boss" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10boss.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853683"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="JOBS: THE BOSS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Boss</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Careers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2D61F30F933A25755C0A9619C8B63" item-length="797" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Music of Change</hl1>
+        <hl2 class="online_headline">The Music of Change</hl2>
+      </hedline>
+      <byline class="print_byline">By MITCH BAINWOL; As told to Patricia R. Olsen</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MY father was a civilian who worked for the United States government in intelligence. My family moved between Germany, where I was born, and Panama, Thailand and the United States.</p>
+        <p>Growing up abroad, I became acutely sensitive to our national identity. We lived in Panama in the mid-1960s, after an uprising against Americans, and we were in Thailand during a coup and when Americans were asked to leave at the end of the Vietnam War.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>“When you move all your life,” said Mitch Bainwol, “the most memorable moments are your last day in one place and your first day in another.”</p>
+      </block>
+      <block class="full_text">
+        <p>MY father was a civilian who worked for the United States government in intelligence. My family moved between Germany, where I was born, and Panama, Thailand and the United States.</p>
+        <p>Growing up abroad, I became acutely sensitive to our national identity. We lived in Panama in the mid-1960s, after an uprising against Americans, and we were in Thailand during a coup and when Americans were asked to leave at the end of the Vietnam War.</p>
+        <p>The first time we were in Germany, in the early 1960s, there were still positive feelings about the United States helping to liberate and reconstruct Europe after World War II. The second time, in the late 1970s, we were the ugly Americans.</p>
+        <p>I left my family in Germany and returned to the United States to attend Georgetown University. When you move all your life, the most memorable moments are your last day in one place and your first day in another. You say goodbye to friends and start at a new place with a totally blank slate. The experience was useful when I started in politics. You're trying to frame a candidate, and you literally start the same way.</p>
+        <p>My freshman year in college I discovered I wasn't going to get totally immersed in academics. I'm not sure I have attention deficit disorder, but I'm easily distracted. A fellow student who was leaving school offered me a lead on an internship on Capitol Hill. I had to interview for it, but since I was willing to put in a lot of time and came recommended, approval was pretty automatic. It was one of those pivotal moments that just happen and affect your entire career.</p>
+        <p>I worked for former Congressman Robin Beard of Tennessee and directed all the time and energy I should have devoted to school to the political process. I found politics magical, especially after experiencing uprisings abroad. At that time there was little security in our capital. Walking around Washington was majestic and inspiring.</p>
+        <p>After four years, I decided I needed some business experience. Rice University gave me a generous ride to attend an M.B.A. program in business management and public policy. I returned to Washington with analytical skills I hadn't had. After working for the Office of Management and Budget under President Reagan, I served in several political strategy roles, and in 2003 I joined the trade association of the music business.</p>
+        <p>Good politicians and good rock stars have some traits in common. They're charismatic and tend to be extremely bright. The secret to their success is their ability to motivate. I used to call some politicians rock stars because of their talent and the good they can do. Now I meet real rock stars.</p>
+        <p>My three kids love to hear about the artists I work with. They thought it was cool when I told them I had met Chris Daughtry, Bow Wow and Three Doors Down.</p>
+        <p>When my colleagues and I talk about music piracy with people, it's always a provocative encounter. Americans are passionate about these issues.</p>
+        <p>There's a basic collision of philosophies about whether music is a property that should be protected, or whether once it's in the public realm it should be free. One side thinks investors and creators should sacrifice control. The other side of the coin is that these people have choices and the right to be compensated.</p>
+        <p>A while ago, the 13-year-old son of a neighbor asked me why my organization is clamping down on students downloading music. I asked what he wanted to be when he grew up; he answered either a baseball player or rock star. I said, ''If you're a rock star, do you want to be able to sell your music?'' He said, ''Sure.'' Then the light bulb went on over his head. He said, ''I get it.''</p>
+        <p>Once you put 13- to-18-year-olds in the creator's shoes, they usually understand. Not every rock star is born wealthy. It's about the next generation looking to break out.</p>
+        <p>One of the fun parts of this job is presenting gold and platinum records to artists. Recently Anna Nalick, who wrote and sings ''Breathe,'' stopped by our office to do a few cuts of her album. We surprised her with a gold record. She told us to wait a second, ran to get her cellphone, and called her mother and cried. That's the power of this milestone for new artists who thrill a nation. Music touches everyone. I still choke up when I talk about her reaction.</p>
+        <p>MITCH BAINWOL  Chairman and C.E.O., Recording Industry Association of America</p>
+        <p>BIRTH DATE  March 2, 1959</p>
+        <p>FIRST ROCK CONCERT ATTENDED  The band Chicago, at age 17</p>
+        <p>NUMBER OF SONGS ON IPOD  About 2,500</p>
+        <p>JOBS: THE BOSS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

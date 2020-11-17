@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Niche Cellphone Company in California Files for Bankruptcy Protection</title>
+    <meta content="04phone" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/technology/04phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852119"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E3DF1130F937A35755C0A9619C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Niche Cellphone Company in California Files for Bankruptcy Protection</hl1>
+        <hl2 class="online_headline">Niche Cellphone Company in California Files for Bankruptcy Protection</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <dateline>SAN FRANCISCO, June 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Amp'd Mobile, a niche cellphone provider aimed at the young and technologically sophisticated, has filed for bankruptcy protection.</p>
+        <p>The company said Sunday that it filed for Chapter 11 last week with the intention of revamping the business and finding new financing. It said service would not be interrupted during the process.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Amp’d Mobile, a niche cellphone provider aimed at the young and technologically sophisticated, filed for Chapter 11 with the intention of revamping the business.</p>
+      </block>
+      <block class="full_text">
+        <p>Amp'd Mobile, a niche cellphone provider aimed at the young and technologically sophisticated, has filed for bankruptcy protection.</p>
+        <p>The company said Sunday that it filed for Chapter 11 last week with the intention of revamping the business and finding new financing. It said service would not be interrupted during the process.</p>
+        <p>In a statement, Amp'd Mobile, based in Aliso Viejo, Calif., said the bankruptcy filing reflected its inability to expand its infrastructure quickly enough to meet demand.</p>
+        <p>''We are taking this step as a necessary and responsible action to sustain and strengthen our momentum in the marketplace,'' it said.</p>
+        <p>The company is among a relatively new group of small cellphone providers seeking to challenge giants like Verizon Wireless and Cingular by appealing to specific audiences.</p>
+        <p>These new providers, called mobile virtual network operators, provide cellular service by leasing space on the networks of larger competitors, but do their own marketing and billing.</p>
+        <p>Some of these upstart carriers have struggled to gain traction and attract a large enough customer base.</p>
+        <p>Most Americans already have a cellphone plan, and the new companies are vying with the deep-pocketed big providers to attract customers.</p>
+        <p>Last year, Mobile ESPN, one of the new generation of carriers, shut down its operations after failing to attract enough customers. The service had hoped to find an audience among sports fans by delivering sports-oriented content over the phone.</p>
+        <p>Amp'd Mobile is aiming at a market of young professionals, emphasizing music, video and entertainment, and high-speed mobile access.</p>
+        <p>The company said in its statement that its investors continued to support its ''vision, strategic direction and business plan.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

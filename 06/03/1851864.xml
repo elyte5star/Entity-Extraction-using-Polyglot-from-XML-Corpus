@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judith Kelman, Peter Scardino</title>
+    <meta content="03kelman" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851864"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Kelman, Judith Ann</person>
+        <person class="indexing_service">Scardino, Dr. Peter Thomas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E3DE1230F930A35755C0A9619C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judith Kelman, Peter Scardino</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Judith Ann Kelman and Dr. Peter Thomas Scardino were married yesterday at the GlenArbor Golf Club in Bedford Hills, N.Y. The Rev. William McD. Tully, an Episcopal priest, officiated, with Rabbi Uri D. Herscher taking part.</p>
+        <p>The bride, 61, will continue to use her name professionally. She is the author of many books, including ''The First Stone'' (Berkley Books, 2007), and ''Summer of Storms'' (Putnam, 2001), for which she received the Mary Higgins Clark award for the best suspense novel of the year from the Mystery Writers of America. She graduated from Cornell University, received a master's degree in educational psychology from New York University and another master's, in communication disorders, from Southern Connecticut State University.</p>
+      </block>
+      <block class="full_text">
+        <p>Judith Ann Kelman and Dr. Peter Thomas Scardino were married yesterday at the GlenArbor Golf Club in Bedford Hills, N.Y. The Rev. William McD. Tully, an Episcopal priest, officiated, with Rabbi Uri D. Herscher taking part.</p>
+        <p>The bride, 61, will continue to use her name professionally. She is the author of many books, including ''The First Stone'' (Berkley Books, 2007), and ''Summer of Storms'' (Putnam, 2001), for which she received the Mary Higgins Clark award for the best suspense novel of the year from the Mystery Writers of America. She graduated from Cornell University, received a master's degree in educational psychology from New York University and another master's, in communication disorders, from Southern Connecticut State University.</p>
+        <p>She is the daughter of the late Flora Underberg Edelstein and the late George J. Edelstein, who lived in Rockville Centre, N.Y.</p>
+        <p>Dr. Scardino, also 61, is a urologist and prostate cancer specialist and the chairman of the surgery department at Memorial Sloan-Kettering Cancer Center in New York. He and Ms. Kelman wrote, ''Dr. Peter Scardino's Prostate Book'' (Avery, 2005), and he is the principal investigator on a grant from the National Cancer Institute to conduct research on prostate cancer. He graduated from Yale and received his medical degree from Duke.</p>
+        <p>He is a son of Katherine M. Scardino of Savannah, Ga., and the late Dr. Peter L. Scardino.</p>
+        <p>The bridegroom's previous marriage ended in divorce, as did the bride's three previous marriages.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

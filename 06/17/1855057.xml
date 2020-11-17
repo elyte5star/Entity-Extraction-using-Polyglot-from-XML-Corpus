@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Four More Days</title>
+    <meta content="NYalbany.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855057"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5D6143FF934A25755C0A9619C8B63" item-length="524" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Four More Days</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Albany is now at the final four -- the final four days, that is, before this year's legislative session is scheduled to end. A lot can be done, undone or done badly in that time. Here is our list of what should be possible:</p>
+        <p>No. 1 is still campaign finance reform. The bill now being considered is less than the good citizens of this state deserve, but it is far better than what we have now. Unfortunately, Senate Leader Joseph Bruno and his Republican majority are stalling. The Senate Republicans apparently don't want to give up the easy money, especially from limited liability corporations that are now the favored loophole for well-heeled contributors.</p>
+      </block>
+      <block class="full_text">
+        <p>Albany is now at the final four -- the final four days, that is, before this year's legislative session is scheduled to end. A lot can be done, undone or done badly in that time. Here is our list of what should be possible:</p>
+        <p>No. 1 is still campaign finance reform. The bill now being considered is less than the good citizens of this state deserve, but it is far better than what we have now. Unfortunately, Senate Leader Joseph Bruno and his Republican majority are stalling. The Senate Republicans apparently don't want to give up the easy money, especially from limited liability corporations that are now the favored loophole for well-heeled contributors.</p>
+        <p>Congestion pricing. The same Senate that is bucking campaign reform is wisely affirming Mayor Michael Bloomberg's congestion-pricing proposal. It is Assembly Speaker Sheldon Silver who is hedging on this one. Mr. Silver, who robbed the city of the commuter tax to help a candidate who lost anyway, should give the go-ahead. It could earn the city $500 million in federal transportation funds. His foot-dragging might also force the Legislature into another special session next month to beat an August deadline for getting the federal money.</p>
+        <p>Come on, guys. If Mr. Bruno's Republicans would agree to reform campaign financing and Mr. Silver's Democrats would agree to congestion pricing, we could have a decent finale.</p>
+        <p>Healthier food in schools -- which means saying no to the lobbyists for fast unhealthy foods, soft drinks, sports drinks and high-fat dairy products during school hours.</p>
+        <p>Cameras in courtrooms -- when the judges allow it. The Senate has approved them. The governor is on board. Mr. Silver and his crowd are the problem. Cameras would allow a more public trial, enhancing a right protected by the Constitution.</p>
+        <p>Expanded DNA testing. A bill that would expand tests and provide for the release of DNA data holds promise for people wrongly accused and imprisoned. It could also provide better management of the state's DNA database. The real test, of course, is whether the data can be used fairly -- whether the accused can get timely access to exculpatory data and whether those not convicted or whose convictions are overturned will actually have their biological data destroyed.</p>
+        <p>Family leave. A modest bill allowing family leave in emergencies should help those who are forced to choose between a week's pay and a sick child. The proposal winding through the Legislature would provide $170 a week for 12 weeks, exempt small businesses and allow companies to pass along the cost to employees at a rate of 45 cents a week.</p>
+        <p>The real Bigger Better Bottle Bill -- not the phonies pushed by industry -- deserves support from legislators who care about the environment. The bill would expand the kinds of bottles that could be redeemed and would thus further reduce litter. It would also reroute to environmental programs much of the $90 million or so that now goes to bottlers and distributors.</p>
+        <p>Pro-environment lawmakers should also back legislation that would speed the cleanup of brownfields across the state. And Mr. Spitzer's bill to permit the construction of new and less-polluting power plants should be allowed to move forward.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

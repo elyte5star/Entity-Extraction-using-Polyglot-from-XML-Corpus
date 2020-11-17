@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHY WE TRAVEL: ECUADOR</title>
+    <meta content="03why" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1851649"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">Andes (Mountains)</location>
+        <location class="indexing_service">Ecuador</location>
+        <person class="indexing_service">Zbinden, Eliane</person>
+        <person class="indexing_service">Romanko, J R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Ecuador</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFDF1730F930A35755C0A9619C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHY WE TRAVEL: ECUADOR</hl1>
+      </hedline>
+      <byline class="print_byline">As told to J. R. Romanko</byline>
+      <byline class="normalized_byline">Romanko, J R</byline>
+      <dateline>RIDING A TRAIN IN THE ANDES, APRIL 8, 2007</dateline>
+      <abstract>
+        <p>Swiss tourist Eliane Zbinden comments on traveling on roof of train through Andes mountains in Ecuador; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eliane Zbinden, 29, a teacher from Fribourg, Switzerland. ''In Alausí, this small locomotive awaited us. For a few minutes, all these cultivated people forgot their manners -- there was pushing and shoving and swearing. Naturally, everyone wanted a place on the roof. The lucky ones had a place to sit and the unlucky ones sat squeezed into the middle. Surrounded by all these tourists, I was thrown back and forth. On one hand, I enjoyed the trip and the view; on the other hand, I felt rather unwell and squeezed in. When one moves through a landscape devoid of people, in such a situation, thousands of things float through the head: What still lies ahead for me? Have I made the right decision to be here? Should I be here? Oh, well. For one and a half hours, one has quite a bit of time to think.''</p>
+        <p>As told to J. R. Romanko</p>
+      </block>
+      <block class="full_text">
+        <p>Eliane Zbinden, 29, a teacher from Fribourg, Switzerland. ''In Alausí, this small locomotive awaited us. For a few minutes, all these cultivated people forgot their manners -- there was pushing and shoving and swearing. Naturally, everyone wanted a place on the roof. The lucky ones had a place to sit and the unlucky ones sat squeezed into the middle. Surrounded by all these tourists, I was thrown back and forth. On one hand, I enjoyed the trip and the view; on the other hand, I felt rather unwell and squeezed in. When one moves through a landscape devoid of people, in such a situation, thousands of things float through the head: What still lies ahead for me? Have I made the right decision to be here? Should I be here? Oh, well. For one and a half hours, one has quite a bit of time to think.''</p>
+        <p>As told to J. R. Romanko</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

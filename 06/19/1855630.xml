@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rainfall Floods Texas Towns, Killing 4 People</title>
+    <meta content="19texas" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/us/19texas.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855630"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Texas</location>
+        <location class="indexing_service">Haltom City (Tex)</location>
+        <location class="indexing_service">Gainesville (Tex)</location>
+        <org class="indexing_service">National Weather Service</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="descriptor">Floods</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">Texas</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DE133FF93AA25755C0A9619C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rainfall Floods Texas Towns, Killing 4 People</hl1>
+        <hl2 class="online_headline">Rainfall Floods Texas Towns, Killing 4 People</hl2>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+      <dateline>GAINESVILLE, Tex., June 18</dateline>
+      <abstract>
+        <p>Torrential rainfall floods several towns in North Texas, killing four people and stranding people and their pets on roofs of their homes awaiting rescue; among dead are 4-year-old child swept away by rushing water in Haltom City and 5-year-old child and her grandmother swept to their deaths after family's mobile home is carried off its foundation in Gainesville; National Weather Service reports rain falling at rate of inch every 15 minutes; photos (M) pohtos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Torrential overnight rainfall flooded several towns  in North Texas on Monday, killing four people and stranding people and their pets on the roofs of their homes awaiting rescue.</p>
+        <p>Creeks swollen by as much as eight inches of rain inundated parts of Gainesville and Sherman, near the Oklahoma state line.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Torrential rainfall flooded several towns in North Texas, killing four and stranding people on their roofs as they awaited rescue.</p>
+      </block>
+      <block class="full_text">
+        <p>Torrential overnight rainfall flooded several towns  in North Texas on Monday, killing four people and stranding people and their pets on the roofs of their homes awaiting rescue.</p>
+        <p>Creeks swollen by as much as eight inches of rain inundated parts of Gainesville and Sherman, near the Oklahoma state line.</p>
+        <p>A 4-year-old girl, Alexandria Collins, died after she was swept away by rushing water in Haltom City, a Fort Worth suburb. Her body was found more than two hours later.</p>
+        <p>A woman died in Sherman, about 60 miles northwest of Dallas, after her car stalled in rising water and was swept away, said Sgt. Bruce Dawsey of the Sherman police.</p>
+        <p>In Gainesville, a 5-year-old girl and her grandmother were swept to their deaths after the family's mobile home was carried off its foundation and lodged against a bridge above a swollen creek, said Cpl. Mike Linnell of the Texas Department of Public Safety.</p>
+        <p>Aerial video showed dozens of people seeking refuge from the high water on a railroad crossing. Families awaited rescue on their roofs, some having hacked their way to the outside from their attics. Some were joined by their dogs.</p>
+        <p>About 100 mobile homes in Haltom City were inundated, and many were washed off their foundations, emergency officials said.</p>
+        <p>''When I looked out the window, water was up to the bottom of the window and the current was so fast houses were washing away, said Rachel Hawkes, a Haltom City resident. ''You could hear people screaming, but we couldn't get out to help.''</p>
+        <p>The National Weather Service said rain fell at a rate of an inch every 15 minutes in some places.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

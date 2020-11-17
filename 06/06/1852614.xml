@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW PLACES</title>
+    <meta content="06briefs-2" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining, Dining Out/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Dining and Wine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852614"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DINING BRIEFS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1DC1E30F935A35755C0A9619C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW PLACES</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIAN BURROS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THAI MARKET  960 Amsterdam Avenue (107th Street), (212) 280-4575.</p>
+        <p>Anyone who has eaten at the simple restaurants opening onto the streets of Bangkok will feel transported upon walking into Thai Market. Backlighted blowups of food scenes are so evocative of that city that they make you smile. The food does, too.</p>
+      </block>
+      <block class="full_text">
+        <p>THAI MARKET  960 Amsterdam Avenue (107th Street), (212) 280-4575.</p>
+        <p>Anyone who has eaten at the simple restaurants opening onto the streets of Bangkok will feel transported upon walking into Thai Market. Backlighted blowups of food scenes are so evocative of that city that they make you smile. The food does, too.</p>
+        <p>The room is a clever mix of contemporary and old-fashioned: the photos cover old brick walls; huge red upside-down umbrellas disguise the original tin ceiling.</p>
+        <p>The place has a floor-to-ceiling glass front and a modern version of marble-top ice cream tables. Temple bells share a wall with a sign that says, ''We do not serve incomplete parties.''</p>
+        <p>The food at Thai Market, which opened in April and does not yet have a liquor license, was also a blend of traditional and new, as well as tasty.</p>
+        <p>The young manager told me the Thai recipes are made ''with things Americans like,'' which I discovered soon enough.</p>
+        <p>That's how you get avocado in massaman curry and tomato in a green papaya salad, though a friend told me the tomato in the salad was not uncommon in Thailand.</p>
+        <p>But despite my aversion to the Upper West Side penchant for mixing -- and mixing badly -- Thai, Vietnamese, Chinese, Korean and who knows what other food in one restaurant, those few American additions to Thai cuisine were not offensive. Probably because the food still tasted good, and basically Thai.</p>
+        <p>I could have wished for a little more depth in some of the dishes, like the tom yum goong soup with shrimp and lemon grass, but the lightly battered fried calamari with a sweet, slightly hot plum sauce were the kind you don't want to share. Add the fast, pleasant service, and this restaurant is a keeper.</p>
+        <p>Besides, it has two of my favorite desserts: ginger ice cream and green pearl tapioca in a coconut milk pudding.</p>
+        <p>MARIAN BURROS</p>
+        <p>DINING BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

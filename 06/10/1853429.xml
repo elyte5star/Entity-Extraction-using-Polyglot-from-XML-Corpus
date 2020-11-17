@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="CXN.t" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Corrections; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853429"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EEDF1030F933A25755C0A9619C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cooking roundup last Sunday, written by Amanda Hesser, included a review of Patricia Wells's ''Vegetable Harvest.'' In 1999, Wells contributed a jacket blurb for Hesser's book ''The Cook and the Gardener.'' The Book Review has a policy against assigning a review in those circumstances, but by the time Hesser told editors about the blurb, the issue had already gone to press. Had the editors known of the conflict, Wells's book would not have been included.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cooking roundup last Sunday, written by Amanda Hesser, included a review of Patricia Wells's ''Vegetable Harvest.'' In 1999, Wells contributed a jacket blurb for Hesser's book ''The Cook and the Gardener.'' The Book Review has a policy against assigning a review in those circumstances, but by the time Hesser told editors about the blurb, the issue had already gone to press. Had the editors known of the conflict, Wells's book would not have been included.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yana Pikman, Vladimir Vinarsky</title>
+    <meta content="10PIKMAN" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10PIKMAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853631"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Pikman, Dr. Yana</person>
+        <person class="indexing_service">Vinarsky, Dr. Vladimir</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03EED71F30F933A25755C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yana Pikman, Vladimir Vinarsky</hl1>
+        <hl2 class="online_headline">Yana Pikman, Vladimir Vinarsky</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Yana Pikman and Dr. Vladimir Vinarsky are to be married this evening at Astoria Catering, a restaurant in Bensonhurst, Brooklyn. Rabbi Zev Goldfischer is to officiate.</p>
+        <p>The couple met at Harvard, from which each received a medical degree.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Yana Pikman and Dr. Vladimir Vinarsky are to be married this evening at Astoria Catering, a restaurant in Bensonhurst, Brooklyn. Rabbi Zev Goldfischer is to officiate.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Yana Pikman and Dr. Vladimir Vinarsky are to be married this evening at Astoria Catering, a restaurant in Bensonhurst, Brooklyn. Rabbi Zev Goldfischer is to officiate.</p>
+        <p>The couple met at Harvard, from which each received a medical degree.</p>
+        <p>The bride, 26, is keeping her name. She is to begin a residency in pediatrics this month at both the Children's Hospital in Boston and the Boston Medical Center. She graduated summa cum laude from Barnard. She is the daughter of Inna and Leonid Pikman of Fort Lee, N.J. Her father is an electrician with Local 3, an electrician's union in Manhattan. Her mother works in Little Falls, N.J., as a senior business analyst for Affiliated Computer Services, a Dallas-based company that provides clients with outsourcing solutions.</p>
+        <p>The bridegroom, 30, is an internal medicine resident at NewYork-Presbyterian/Columbia hospital in Manhattan. He graduated with high honors from the University of California, Berkeley. He is a son of Nataly and Boris Vinarsky of Foster City, Calif. His father is a computer systems engineer for Rambus, the computer chip designer in Los Altos, Calif.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

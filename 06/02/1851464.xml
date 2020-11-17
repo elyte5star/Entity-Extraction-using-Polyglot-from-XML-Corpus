@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cyberblockade in Estonia</title>
+    <meta content="02sat3" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/opinion/02sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851464"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <location class="indexing_service">Estonia</location>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Putin, Vladimir V (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Estonia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Estonia</location>
+        <person class="online_producer">Putin, Vladimir V</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0D61330F931A35755C0A9619C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cyberblockade in Estonia</hl1>
+        <hl2 class="online_headline">A Cyberblockade in Estonia</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial holds that Estonia weathered what some describe as first real war in cyberspace when its government and much of its commerce nearly shut down because of orchestrated Internet assault; notes that Estonian authorities charged that data flood came on orders from Russia, but Pres Vladimir Putin's government has denied any involvement; contends that what happened in Estonia should put computer-dependent world on notice that there can be many offensive forms of information warfare, and figuring out how to stop it is essential to all out security</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The small but technologically adept nation of Estonia has raised an alarm that should be heard around the wired world. Last month it weathered what some describe as the first real war in cyberspace when its government and much of its commerce nearly shut down for days because of an orchestrated Internet assault.</p>
+        <p>The assault on Estonia's virtual society began in April after authorities moved a real bronze statue of a Soviet soldier from a central park in Tallinn to a military graveyard farther from the center of the city. For many Estonians, the statue was another reminder of Soviet invaders who took over their homes at Stalin's orders. But Russians and Estonians of Russian descent immediately took to the streets to protest. The statue's move was, for them, a sign of disrespect for Soviets who battled the Nazis in World War II.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The assault on Estonia’s virtual society should put the computer-dependent world on full notice that figuring out how to stop information warfare is essential to all of our security.</p>
+      </block>
+      <block class="full_text">
+        <p>The small but technologically adept nation of Estonia has raised an alarm that should be heard around the wired world. Last month it weathered what some describe as the first real war in cyberspace when its government and much of its commerce nearly shut down for days because of an orchestrated Internet assault.</p>
+        <p>The assault on Estonia's virtual society began in April after authorities moved a real bronze statue of a Soviet soldier from a central park in Tallinn to a military graveyard farther from the center of the city. For many Estonians, the statue was another reminder of Soviet invaders who took over their homes at Stalin's orders. But Russians and Estonians of Russian descent immediately took to the streets to protest. The statue's move was, for them, a sign of disrespect for Soviets who battled the Nazis in World War II.</p>
+        <p>The rioting and looting in Tallinn turned out to be nothing compared to what began happening to Estonia's computers. Waves of unwanted data quickly clogged the Web sites of the government, businesses and several newspapers, shutting down one branch of their computer network after another. One minister described it as a kind of electronic blockade, like having the nation's ports all shut to the sea. Estonian authorities charged that the data flood came on orders from the Kremlin. President Vladimir Putin's government has denied any involvement.</p>
+        <p>In recent years, governments, businesses and individuals have focused on ways to keep hackers or destructive viruses from stealing or destroying sensitive information. But Estonia should put the computer-dependent world on full notice that there can be many offensive forms of information warfare and figuring out how to stop it -- and ultimately who is behind it -- is essential to all of our security.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

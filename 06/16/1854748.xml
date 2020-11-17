@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ritual Fence Set for Jews In Manhattan Is Extended</title>
+    <meta content="16eruv" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/nyregion/16eruv.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854748"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Jews</classifier>
+        <classifier class="online_producer" type="descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E2D9153FF935A25755C0A9619C8B63" item-length="471" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ritual Fence Set for Jews In Manhattan Is Extended</hl1>
+        <hl2 class="online_headline">Ritual Fence Set for Jews in Manhattan Is Extended</hl2>
+      </hedline>
+      <byline class="print_byline">By ETHAN WILENSKY-LANFORD; Sewell Chan contributed reporting.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jews living in a large area of Manhattan who regularly observe the Sabbath will have a much easier time of it today. An eruv, a line that delineates the concept of domestic space for Orthodox Jews and dictates where they may carry items on the day of rest, has been extended from Midtown to Houston Street.</p>
+        <p>Technically, an observant Jew is not allowed to do any work on the Sabbath. In the Orthodox tradition, the definition of ''work'' includes carrying almost anything. An eruv symbolically extends the boundaries of a home and gives adherents a free pass to carry things in that area.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An eruv, a line that delineates the concept of domestic space for Orthodox Jews, has been extended from Midtown to Houston Street.</p>
+      </block>
+      <block class="full_text">
+        <p>Jews living in a large area of Manhattan who regularly observe the Sabbath will have a much easier time of it today. An eruv, a line that delineates the concept of domestic space for Orthodox Jews and dictates where they may carry items on the day of rest, has been extended from Midtown to Houston Street.</p>
+        <p>Technically, an observant Jew is not allowed to do any work on the Sabbath. In the Orthodox tradition, the definition of ''work'' includes carrying almost anything. An eruv symbolically extends the boundaries of a home and gives adherents a free pass to carry things in that area.</p>
+        <p>''It is something that will serve the Jewish community in a very positive way,'' said Rabbi Gideon Shloush, of Adereth El, an Orthodox synagogue in Murray Hill. ''People who are concerned about these laws will be able to observe the Sabbath in a much more meaningful way.''</p>
+        <p>Most large American cities have eruvin, delineated by things like wires, walls and shorelines. In New York, Brooklyn has many. Manhattan got its first eruv on the Upper West Side in 1994, and it was later extended east to the East River and south to the 50s.</p>
+        <p>Bad weather can break a thread or construction can alter a building's wall, so a rabbi needs to check the boundary every week.</p>
+        <p>''The eruv is presumed down, unless it is checked,'' said Rabbi Yehuda Sarna, of the Edgar M. Bronfman Center for Jewish Student Life at New York University, who began the campaign about two years ago to extend the eruv farther south.</p>
+        <p>The change may be most significant for young congregants starting a family. Many are unwilling to push a stroller or carry a diaper bag outside their home on the Sabbath, except within an eruv. Until now, if young couples there wanted to observe Jewish law, the mother had little choice but to stay home with the children.</p>
+        <p>Jonathan S. Nachmani, a trustee at Magen David of Union Square synagogue, which helped organize the project, said the expansion could help keep the religious community vibrant. ''Synagogue is going to be more of a social center for young married couples,'' he said.</p>
+        <p>Rabbi Sarna, an Orthodox Jew, said that Reform congregations helped with the project. He said he feels the boundary has a symbolic beauty, creating shared space.</p>
+        <p>When he was growing up in Montreal, his rabbi let people know if the eruv was operational with a traffic light outside the synagogue. Today, Rabbi Sarna is integrating the eruv with Google Maps, and organizing an e-mail list to spread the word.</p>
+        <p>''What I see as a common religious struggle in the United States,'' he said, ''is how, on one hand, to be loyal to one's traditions but also to be fully engaged in modern life.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

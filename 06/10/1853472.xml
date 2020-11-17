@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clueless</title>
+    <meta content="10letters.t-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853472"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EED81130F933A25755C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clueless</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bryan Caplan's new book, ''The Myth of the Rational Voter: Why Democracies Choose Bad Policies,'' has vaulted to the top of my summer reading list (Gary J. Bass, May 27).</p>
+      </block>
+      <block class="full_text">
+        <p>Bryan Caplan's new book, ''The Myth of the Rational Voter: Why Democracies Choose Bad Policies,'' has vaulted to the top of my summer reading list (Gary J. Bass, May 27).</p>
+        <p>We live in a country where more people can quote chapter and verse from ''American Idol'' than can name the nine Supreme Court Justices.</p>
+        <p>It has always struck me as odd that democracy is thought to be a good thing, and yet, in the three cornerstones of American society -- the military, the business world and the family -- there is a more hierarchical structure.</p>
+        <p>Jim Longo</p>
+        <p>Astoria, N.Y.</p>
+        <p>Bryan Caplan suggests ''giving extra votes to individuals or groups with greater economic literacy.''</p>
+        <p>Yes, democracy is dangerous, and our Founding Fathers knew it. In the early years of our republic, voting was generally restricted to males owning property of some certain minimum value. Today's manipulation of the uninformed and illogical voting public by puerile ''sound bites'' and bumper stickers has gotten us into lots of trouble.</p>
+        <p>Frank Davenport</p>
+        <p>Bellevue, Wash.</p>
+        <p>Perhaps voters tune out when they live with an electoral college that allows three states to decide the next president and a two-party system that represents a paucity of opinions.</p>
+        <p>Jordan Davidson</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

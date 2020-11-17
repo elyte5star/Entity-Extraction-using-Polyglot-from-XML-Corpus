@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE: NEW CDS</title>
+    <meta content="04choi-4" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852180"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7DD1130F937A35755C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE: NEW CDS</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jerry Bergonzi  ''Tenorist''  (Savant Records)</p>
+        <p>A strange development in jazz over the last 30 years has been that many of its players with the most actual, documented influence on other players aren't that well known to the larger world. They are usually teachers in New York or Boston and authors of books on harmonic theory. An axiom of the American respect for show business is that one's reputation as a great teacher can hinder one's reputation as a great player.</p>
+      </block>
+      <block class="full_text">
+        <p>Jerry Bergonzi  ''Tenorist''  (Savant Records)</p>
+        <p>A strange development in jazz over the last 30 years has been that many of its players with the most actual, documented influence on other players aren't that well known to the larger world. They are usually teachers in New York or Boston and authors of books on harmonic theory. An axiom of the American respect for show business is that one's reputation as a great teacher can hinder one's reputation as a great player.</p>
+        <p>The tenor saxophonist Jerry Bergonzi, who has written seven volumes of an influential series called ''Inside Improvisation'' and -- but? -- is a masterly improviser himself, could serve as the prime example. Since the early '80s he has made a lot of decent records for tiny labels that might have been great with some extra attention or with top-of-the-heap rhythm sections. But as the years go by, as he grows more profound and as his circle of collaborators remains close, a Jerry Bergonzi record is becoming a more desirable thing.</p>
+        <p>''Tenorist'' is a casually great jazz record. Made with the guitarist John Abercrombie, the bassist Dave Santoro and the drummer Adam Nussbaum -- all longtime collaborators -- it refers constantly to older models but doesn't beat you up with them; there's no harrumph or anxiety anywhere. Even in the record's original pieces Mr. Bergonzi has taken in the language of John Coltrane, Dexter Gordon, Sonny Rollins, Joe Henderson and Warne Marsh. But here, with an interactive band, he sounds unprogrammed, in that happy, liberated zone where formal technique and strategy are indispensable yet rendered irrelevant by a sense of fun.</p>
+        <p>It's all coherent, but he phrases as he likes, nonuniformly and all over the horn, making his speed crest and wane, dropping into a line before one might think he's supposed to, ending mid-thought. Harmonically too he plays strategies that postdate the styles of his heroes: things you might hear among lots of younger players in jazz clubs this week, but probably not played so beautifully.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taliban Fire Rockets During Speech by Karzai</title>
+    <meta content="11afghan" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853801"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <location class="indexing_service">Ghazni Province (Afghanistan)</location>
+        <location class="indexing_service">Kandahar Province (Afghanistan)</location>
+        <location class="indexing_service">Zabul Province (Afghanistan)</location>
+        <org class="indexing_service">Taliban (Afghan Group)</org>
+        <org class="indexing_service">North Atlantic Treaty Organization</org>
+        <person class="indexing_service">Wafa, Abdul Waheed</person>
+        <person class="indexing_service">Karzai, Hamid (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EEDE173FF932A25755C0A9619C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taliban Fire Rockets During Speech by Karzai</hl1>
+      </hedline>
+      <byline class="print_byline">By ABDUL WAHEED WAFA</byline>
+      <byline class="normalized_byline">Wafa, Abdul Waheed</byline>
+      <dateline>KABUL, Afghanistan, June 10</dateline>
+      <abstract>
+        <p>Taliban insurgents fire rockets on town in Ghazni Province as Afghan Pres Hamid Karzai is giving address to elders and residents; no injuries are reported; Karzai promises residents that government would improve security and build more roads and clinics; Karzai travels to Ghazni day after deputy police chief of nearby Kandahar Province is assassinated; Defense Ministry reports that Afghan and NATO forces killed 27 Taliban fighters in distict of Zabul Province (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Militants fired rockets on a district town on Sunday as President Hamid Karzai was giving an address to elders and residents during a visit to Ghazni Province, south of Kabul, officials said.</p>
+        <p>Three rockets were fired by Taliban insurgents, but they landed some distance away without harming anyone or interrupting the proceedings, said the provincial governor, Mirajuddin Pathan. Mr. Karzai was speaking to residents of the Andar district, which has suffered from frequent violence by insurgents. He promised that the government would improve security and build more roads and clinics.</p>
+      </block>
+      <block class="full_text">
+        <p>Militants fired rockets on a district town on Sunday as President Hamid Karzai was giving an address to elders and residents during a visit to Ghazni Province, south of Kabul, officials said.</p>
+        <p>Three rockets were fired by Taliban insurgents, but they landed some distance away without harming anyone or interrupting the proceedings, said the provincial governor, Mirajuddin Pathan. Mr. Karzai was speaking to residents of the Andar district, which has suffered from frequent violence by insurgents. He promised that the government would improve security and build more roads and clinics.</p>
+        <p>''The rockets did not disrupt the speech and hit far away from our gathering,'' Mr. Patan said.</p>
+        <p>The president made his trip to Ghazni a day after the deputy police chief of the neighboring Kandahar Province was assassinated in the town of Kandahar.</p>
+        <p>Gen. Mohammad Daud Saleh, the deputy police chief, was shot dead by men on a motorbike as he left a barber's shop, Agence France-Presse reported.</p>
+        <p>The Defense Ministry said Sunday that Afghan and NATO forces had killed 27 Taliban fighters in the Shinkay district of Zabul Province, in southeastern Afghanistan, in an aerial bombardment after they received intelligence that Taliban insurgents were gathering there.</p>
+        <p>''The bodies are still on the battlefield'' said Gen. Zahir Azimi, a ministry spokesman. He said that in the past 10 days, in four offensives by the Afghan National Army and NATO forces in Kandahar, Zabul, Helmand, Ghazni and Logar Provinces, 157 Taliban fighters had been killed and 23 captured.</p>
+        <p>''Six Afghan National Army members were also killed and 16 were wounded,'' General Azimi said.</p>
+        <p>The government also announced that two former members of the Taliban had defected to the government.</p>
+        <p>Lutfullah Mashal, a spokesman for the National Security Council, said that one of them was Mullah Muhammad Ishaq Nezami, the former general director of television in the Taliban government and a spokesman for the fugitive Taliban leader Mullah Muhammad Omar during the past five years from Peshawar, Pakistan. The other is Mullah Reza, the director of Kabul Radio under the Taliban government.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

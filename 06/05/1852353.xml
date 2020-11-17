@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>That Warm Sound of Old In a Cold, Compressed World</title>
+    <meta content="05warmth" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/circuits/05warmth.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070612T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852353"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Creative Labs</org>
+        <org class="online_producer">Dolby Laboratories Incorporated</org>
+        <org class="online_producer">SRS Laboratories Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E2D91130F936A35755C0A9619C8B63" item-length="997" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>That Warm Sound of Old In a Cold, Compressed World</hl1>
+        <hl2 class="online_headline">That Warm Sound of Old in a Cold, Compressed World</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABOUT 20 years ago, Roger Adler, a guitarist and keyboard player in the Chicago area, gladly gave up his antiquated record player, his collection of 2,000 albums and the ritualistic care that the vinyl records required. For years, he enjoyed the convenience of CDs and then MP3s.</p>
+        <p>But last fall, after listening to an iPod through a Fatman iTube, a hybrid amplifier made by TL Audio that uses old-fashioned analog tubes, he realized he had given up something else with the records -- the warmth and richness once common to stereophonic sound.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Software and hardware are available that try to sweeten digital sound by putting back what compression has taken out.</p>
+      </block>
+      <block class="full_text">
+        <p>ABOUT 20 years ago, Roger Adler, a guitarist and keyboard player in the Chicago area, gladly gave up his antiquated record player, his collection of 2,000 albums and the ritualistic care that the vinyl records required. For years, he enjoyed the convenience of CDs and then MP3s.</p>
+        <p>But last fall, after listening to an iPod through a Fatman iTube, a hybrid amplifier made by TL Audio that uses old-fashioned analog tubes, he realized he had given up something else with the records -- the warmth and richness once common to stereophonic sound.</p>
+        <p>''My kids come running in the room and say: 'Oh, my God! That sounds great! What is that?' '' he said. ''The more you turn it up, the punchier and fatter it sounds.''</p>
+        <p>For Mr. Adler and kin, the ability to compress music so that thousands of songs fit on a pocket-size player is no longer enough. What they want even more are digital files that provide sumptuous sound. Fortunately, a pile of software and hardware is available that tries to sweeten digital sound by putting back what compression has taken out.</p>
+        <p>One easy way to get that effect is to add tube equipment to a system, as Mr. Adler did. There are even CD players with tubes, offered by companies like Jolida, AH! Njoe Tjoeb, Lector and Acute.</p>
+        <p>Choosing tubes over digital and solid-state equipment is a divisive issue among audiophiles. While tubes sound warm to some, others argue that they are less accurate.</p>
+        <p>''One thing you have to ask is what are people really going for, accurate reproduction or pleasing reproduction,'' said Anu Kirk, director of product management for Rhapsody, the online music service.</p>
+        <p>Music can also be warmed with software. One such program is the DFX Sound Enhancer from FX Sound, which the company says has been downloaded more than 19 million times. DFX Sound Enhancer, available free at fxsound.com, ''synthesizes back missing harmonics,'' said Paul Titchener, the founder of FX Sound.</p>
+        <p>Part of the synthesis adds a kind of distortion associated with analog tube amplifiers, which gives it the warm, enveloping sound.</p>
+        <p>SRS Labs, which says its sound-enhancement technology is found in more than one billion devices, offers software for PCs and Macs. Because sound cannot be replaced with complete accuracy once it has been removed, enhancement software uses principles of psychoacoustics -- the perception of sound.</p>
+        <p>''Our technology tricks your brain into hearing something that isn't there,'' said Doug Morton, a programmer at SRS Labs. It does it by creating a sound effect that causes the brain to fill in the gap in the actual sound.</p>
+        <p>Creative Labs has developed software it calls Xtreme Fidelity (X-Fi), which it says restores CDs to better-than-digital quality. X-Fi, which is built in to some of Creative Labs' sound cards and external processors, is designed to improve both sound quality and the stereo effect.</p>
+        <p>Marc Lee, an audio brand manager for Creative Labs, said that the software essentially undid the compression process.</p>
+        <p>''It's not a 1-to-1 reversal, but it is a mathematical computation that determines where some of the audio bits should have been,'' Mr. Lee said. ''It's not perfect -- once the data is lost, it is lost.''</p>
+        <p>Dolby Laboratories also has software that enriches sound, called Audistry, as well as one called Dolby Headphone, which simulates the surround-sound effect of a five-speaker system in regular headphones. Beyond these products, people who listen to music on portable devices can often improve their sound simply by compressing the music less. Analog music, like the tone from a violin string, is a single, smooth wave; digital music is made of samples taken from points on that wave and later reconstructed. The process is never perfect.</p>
+        <p>''Most digital compression algorithms do throw away some high end,'' said Schuyler Quackenbush, chairman of the MPEG Audio Subgroup, which defines the standards for sound compression.</p>
+        <p>A typical MP3 is recorded at 128 bits per second, which captures about a tenth of the data on a CD, which itself is just part of the data from a record, tape or live performance. Most programs that convert CDs to MP3 files offer the option of using a higher data rate. ''The higher the data rate, the better it sounds,'' said Jack Buser, whose title at Dolby is worldwide technology evangelist.</p>
+        <p>Although 128 bits per second is standard, experts say that a setting of 160 should be enough for portable devices; 190 is better; and 256 may be too much. Mr. Buser recommends comparing recordings of a favorite song ripped at increasing data rates. ''When you can't hear the difference anymore, it's overkill,'' he said.</p>
+        <p>The code used to rip music will also affect the quality. Many programs give a choice among codes, like MP3 or AAC.</p>
+        <p>Dr. Quackenbush recommended the newer Advanced Audio Coding format, although dozens of compression programs are found on sites like freecodecs.com (free-codecs.com/Audio--Codecs.htm). Dr. Quackenbush warned against ''transcoding,'' or converting a compressed file from one format to another (for example, from Windows Media to MP3), which further degrades sound quality.</p>
+        <p>With a good recording, the quality may be improved by tweaking the playback. Many MP3 players contain built-in equalizers, allowing control of specific ranges of sound.</p>
+        <p>Anticipating a growing market of audiophiles, new services have been opening. MusicGiants.com will offer 1,200 Super HD downloads taken from Super Audio CDs and audio DVDs, which have a higher sampling rate than standard CDs. Downloads are $20 per album. MusicGiants.com also offers 500,000 uncompressed CD downloads, for $1.29 a song.</p>
+        <p>A Warner Brothers/Reprise Web site, becausesoundmatters.com, offers the label's titles on DVD-A and vinyl. The company estimates that about a million audiophiles want uncompromised fidelity, said Tom Biery, executive vice president for promotion at the company. Releases, which will include new artists as well as old, will cost $14 to $35, he said.</p>
+        <p>Meanwhile, engineers at the MPEG Audio Subgroup are working on improving ways to compress music. But as Dr. Quackenbush advises audiophiles, ''Don't throw away your records yet.''</p>
+        <p>MUSIC</p>
+        <p>Correction:  June 12, 2007, Tuesday  An article in the special Circuits section on June 5 about ways to restore rich sound to digital music misstated the data rates at which compressed MP3 music files are recorded. The standard rate is 128 kilobits per second, not 128 bits per second. Higher, and better-sounding, rates are 160 and 190 kilobits per second.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 12, 2007, Tuesday</p>
+        <p>An article in the special Circuits section on June 5 about ways to restore rich sound to digital music misstated the data rates at which compressed MP3 music files are recorded. The standard rate is 128 kilobits per second, not 128 bits per second. Higher, and better-sounding, rates are 160 and 190 kilobits per second.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

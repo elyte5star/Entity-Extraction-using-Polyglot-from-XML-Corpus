@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unions, Civil And Religious</title>
+    <meta content="l11civil" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853783"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5DE173FF932A25755C0A9619C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unions, Civil And Religious</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''The Inadequacy of Civil Unions'' (editorial, June 7) you claim that ''in establishing civil unions two years ago, Connecticut lawmakers created a separate and inherently inferior institution that continues to deny gay couples the equality they seek and deserve.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''The Inadequacy of Civil Unions'' (editorial, June 7) you claim that ''in establishing civil unions two years ago, Connecticut lawmakers created a separate and inherently inferior institution that continues to deny gay couples the equality they seek and deserve.''</p>
+        <p>The solution: get the state out of the marrying business.</p>
+        <p>What the government should be conferring upon its citizens (regardless of gender choice), is civil union with all of the legal rights that this conveys. The spiritual blessings of marriage, when desired, should be conveyed by the clergy, using whatever criteria their religious persuasion considers appropriate.</p>
+        <p>Then there wouldn't be a second class of citizens, and churches wouldn't be obligated to violate what it regards as sacred law, to convey deserved legal rights.</p>
+        <p>Ross S. Basch  New York, June 7, 2007</p>
+        <p>To the Editor:</p>
+        <p>I long for the day that the citizens of this country finally agree that all forms of discrimination is wrong -- morally and legally.</p>
+        <p>The bogus arguments against gay marriage are not even worth repeating. I certainly don't believe that my marriage would somehow be degraded if gays married.</p>
+        <p>I have one question for those who are against gay marriages: What benefits accrue to our society from a policy that makes others unhappy?</p>
+        <p>The real answer is none.</p>
+        <p>Salvatore J. Bommarito  New York, June 7, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

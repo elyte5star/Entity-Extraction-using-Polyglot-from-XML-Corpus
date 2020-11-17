@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FROM PITCHER TO PITCHMAN?</title>
+    <meta content="17suits-4" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855196"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">Detroit Tigers</org>
+        <person class="indexing_service">Verlander, Justin</person>
+        <person class="indexing_service">Maynard, Micheline</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Detroit Tigers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4D9153FF934A25755C0A9619C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FROM PITCHER TO PITCHMAN?</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELINE MAYNARD</byline>
+      <byline class="normalized_byline">Maynard, Micheline</byline>
+      <abstract>
+        <p>Sports commentators in Detroit have complained about Detroit Tigers pitcher Justin Verlander's lack of national attention, which tends to lead to big commercial deals; Verlander as named American League's rookie of year last year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What did Justin Verlander do the morning after he pitched the first no-hitter in Comerica Park in Detroit on Tuesday night? He went to Nordstrom and picked up a couple of suits, he told reporters.</p>
+        <p>That's the closest thing to an endorsement that Mr. Verlander appears to have made. Even though he was the rookie of the year in the American League last year, he has essentially operated under the baseball radar. Sports commentators in Detroit have complained about his lack of national attention, which tends to lead to big commercial deals.</p>
+      </block>
+      <block class="full_text">
+        <p>What did Justin Verlander do the morning after he pitched the first no-hitter in Comerica Park in Detroit on Tuesday night? He went to Nordstrom and picked up a couple of suits, he told reporters.</p>
+        <p>That's the closest thing to an endorsement that Mr. Verlander appears to have made. Even though he was the rookie of the year in the American League last year, he has essentially operated under the baseball radar. Sports commentators in Detroit have complained about his lack of national attention, which tends to lead to big commercial deals.</p>
+        <p>That may well change now that he has pitched that no-hit game against the Milwaukee Brewers.</p>
+        <p>MICHELINE MAYNARD</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

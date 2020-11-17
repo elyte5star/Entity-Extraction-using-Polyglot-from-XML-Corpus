@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Engaged and Warm: The Jack Kevorkian I Know</title>
+    <meta content="l10kevorkian" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853299"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DD163FF933A25755C0A9619C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Engaged and Warm: The Jack Kevorkian I Know</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your June 5 editorial about Jack Kevorkian calls him ''deluded and unrepentant.'' I disagree.</p>
+        <p>The Jack Kevorkian I know is a warm, engaged, thoughtful and compassionate individual who speaks Japanese, plays the flute, reads voraciously and is of academic bent. His lawyer, Mayer Morganroth, tried unsuccessfully to persuade Gov. Jennifer M. Granholm of Michigan to commute his long sentence because he was in such bad physical shape.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your June 5 editorial about Jack Kevorkian calls him ''deluded and unrepentant.'' I disagree.</p>
+        <p>The Jack Kevorkian I know is a warm, engaged, thoughtful and compassionate individual who speaks Japanese, plays the flute, reads voraciously and is of academic bent. His lawyer, Mayer Morganroth, tried unsuccessfully to persuade Gov. Jennifer M. Granholm of Michigan to commute his long sentence because he was in such bad physical shape.</p>
+        <p>He was down to a weight of 113 pounds at one point, had to endure waist and leg shackles whenever he was moved around, which resulted in an injury, and was prevented from speaking to the press about his incarceration.</p>
+        <p>He is a free man now, but must report regularly to his parole officer. He has promised not to assist in any further suicides. He is 79 years old and is being treated for problems with his liver.</p>
+        <p>In a letter to Chief Justice William H. Rehnquist back in September 2000, Mr. Kevorkian wrote, ''Today, more than half of all American physicians and an overwhelming majority of the public favor the decriminalization of euthanasia, and a significant number of physicians admit to performing it furtively.''</p>
+        <p>Mr. Kevorkian, as a condition of his current parole, can no longer evangelize, as he used to, on the subject of euthanasia, but he is permitted to speak out for its legalization. He has told me he intends to do just that.</p>
+        <p>Mike Wallace  New York, June 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Way We Live Now: Idea Lab; Home Alone</title>
+    <meta content="17wwln--idealab.t" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Education; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/magazine/17wwln-idealab-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854928"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Idea Lab"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Minorities (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Harvard University</org>
+        <person class="indexing_service">Good, Erica</person>
+        <person class="indexing_service">Putnam, Robert (Prof)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Race</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Equal Educational Opportunities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Equal Educational Opportunities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DC173FF934A25755C0A9619C8B63" item-length="1172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Way We Live Now: Idea Lab; Home Alone</hl1>
+        <hl2 class="online_headline">Home Alone</hl2>
+      </hedline>
+      <byline class="print_byline">By Erica Goode</byline>
+      <byline class="normalized_byline">Good, Erica</byline>
+      <abstract>
+        <p>Erica Good article on research conducted by Robert Putnam and colleagues at Harvard University that indicates that people who live in racially and ethnically diverse settings are less trustful of other people, even people like themselves, and more likely to be socially withdrawn; Putnam says that if recent American history is any guide, this tendency will diminish with time as people gradually lose sight of what separates them from others; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For decades, students of American society have offered dueling theories about how encountering racial and ethnic diversity affects the way we live. One says that simple contact -- being tossed into a stew of different cultures, values, languages and styles of dress -- is likely to nourish tolerance and trust. Familiarity, in this view, trumps insularity. Others argue that just throwing people together is rarely enough to breed solidarity: when diversity increases, they assert, people tend to stick to their own groups and distrust those who are different from them.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Does ethnic and racial diversity foster social isolation?</p>
+      </block>
+      <block class="full_text">
+        <p>For decades, students of American society have offered dueling theories about how encountering racial and ethnic diversity affects the way we live. One says that simple contact -- being tossed into a stew of different cultures, values, languages and styles of dress -- is likely to nourish tolerance and trust. Familiarity, in this view, trumps insularity. Others argue that just throwing people together is rarely enough to breed solidarity: when diversity increases, they assert, people tend to stick to their own groups and distrust those who are different from them.</p>
+        <p>But what if diversity had an even more complex and pervasive effect? What if, at least in the short term, living in a highly diverse city or town led residents to distrust pretty much everybody, even people who looked like them? What if it made people withdraw into themselves, form fewer close friendships, feel unhappy and powerless and stay home watching television in the evening instead of attending a neighborhood barbecue or joining a community project?</p>
+        <p>This is the unsettling picture that emerges from a huge nationwide telephone survey by the famed Harvard political scientist Robert Putnam and his colleagues. ''Diversity seems to trigger not in-group/out-group division, but anomie or social isolation,'' Putnam writes in the June issue of the journal Scandinavian Political Studies. ''In colloquial language, people living in ethnically diverse settings appear to 'hunker down' -- that is, to pull in like a turtle.''</p>
+        <p>In highly diverse cities and towns like Los Angeles, Houston and Yakima, Wash., the survey found, the residents were about half as likely to trust people of other races as in homogenous places like Fremont, Mich., or rural South Dakota, where, Putnam noted, ''diversity means inviting a few Norwegians to the annual Swedish picnic.''</p>
+        <p>More significant, they were also half as likely to trust people of their own race. They claimed fewer close friends. They were more apt to agree that ''television is my most important form of entertainment.'' They had less confidence in local government and less confidence in their own ability to exert political influence. They were more likely to join protest marches but less likely to register to vote. They rated their happiness as generally lower. And this diversity effect continued to show up even when a community's population density, average income, crime levels, rates of home ownership and a host of other factors were taken into account.</p>
+        <p>It was not a result that Putnam, the author of the much-discussed 2000 book ''Bowling Alone,'' was looking for when he sat down six years ago to examine the mass of data he had collected. He was hoping to build on his earlier work, which described a precipitous decline in the nation's ''social capital,'' the formal and informal networks -- bowling leagues, parent-teacher associations, fraternal organizations, pick-up basketball games, youth service groups -- that tie people together, shore up civic engagement and forge bonds of trust and reciprocity. Now he wanted to find out more about how social capital varied regionally and over time.</p>
+        <p>But the diversity finding was so surprising that Putnam said his first thought was that maybe something was wrong with the data. He and his research team spent five years testing other explanations. Maybe people in more diverse areas had less political clout and thus fewer amenities, like playgrounds and pothole-free streets, putting them in a misanthropic mood; or maybe diversity caused ''hunkering down'' only in people who were older or richer or white or female. But the effect did not go away. When colleagues who heard about the results protested, ''I bet you haven't thought about X'' -- a frequent occurrence, Putnam said -- the researchers went back and looked at X.</p>
+        <p>The idea that it is diversity (the researchers used the census's standard racial categories to define diversity) that drives social capital down has its critics. Among them is Steven Durlauf, an economist at the University of Wisconsin and a critic of Putnam's past work, who said he thinks some other characteristic, as yet unidentified, explains the lowered trust and social withdrawal of people living in diverse areas. But without clear evidence to the contrary, Putnam says, he has to believe the conclusion is solid.</p>
+        <p>Few would question that it is provocative. The public discourse on diversity runs at a high temperature. Told by one side, the narrative of how different ethnic and racial groups come together in schools, workplaces, churches and shopping centers can sound as if it was lifted from ''Sesame Street.'' Told by the other, it often carries the shrill tones of a recent caller to a radio talk show on immigration reform: ''The school my kid goes to is 45 percent Mexican,'' he said, ''and I don't see this as being a good thing for this country. Do we want to turn into a Latin American country?''</p>
+        <p>Putnam's argument is more nuanced. Diversity has clear benefits, he says, among them economic growth and enhanced creativity -- more top-flight scientists, more entrepreneurs, more artists. But difference is also disconcerting, he maintains, ''and people like me, who are in favor of diversity, don't do ourselves any favors by denying that it takes time to become comfortable,'' Putnam says.</p>
+        <p>Why that discomfort seems to translate into social isolation and a weakening of civic bonds remains anyone's guess. Studies by Wendy Berry Mendes, a social psychologist at Harvard, and her colleagues find that when research subjects play a cooperative game with someone of another race, they can show physiological signs of distress -- reduced cardiac efficiency and arterial constriction, for example. On a daily basis, this alarmed reaction might make people pull inward. Putnam himself speculates that, with kaleidoscopic changes going on around them, people in diverse communities might experience a kind of system overload, shutting down ''in the presence of confusing or multiple messages from the environment.''</p>
+        <p>Still, in Putnam's view, the findings are neither cause for despair nor a brief against diversity. If this country's history is any guide, what people perceive as unfamiliar and disturbing -- what they see as ''other'' -- can and does change over time. Seemingly intractable group divisions can give way to a larger, overarching identity. When he was in high school in the 1950s, Putnam notes, he knew the religion of almost every one of the 150 students in his class. At the time, religious intermarriage was uncommon, and knowing whether a potential mate was a Methodist, a Catholic or a Jew was crucial information. Half a century later, for most Americans, the importance of religion as a mating test has dwindled to near irrelevance, ''hardly more important than left- or right-handedness to romance.''</p>
+        <p>The rising marriage rates across racial and ethnic lines in a younger generation, raised in a more diverse world, suggest the current markers of difference can also fade in salience. In some places, they already have: soldiers have more interracial friendships than civilians, Putnam's research finds, and evangelical churches in the South show high rates of racial integration. ''If you're asking me if, in the long run, I'm optimistic,'' Putnam says, ''the answer is yes.''</p>
+        <p>Idea Lab Erica Goode is a science editor at The New York Times.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Erica Goode is a science editor at The New York Times.</tagline>
+    </body.end>
+  </body>
+</nitf>

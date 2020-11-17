@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="09china--refer" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853144"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DE163FF93AA35755C0A9619C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Leader in Executions, China Reports a Decline  China, which puts more inmates to death than the rest of the world combined, reinstated the power of the nation's highest court to review all capital punishment cases. A result is reported to be greater care by lower courts.</p>
+        <p>PAGE A3</p>
+        <p>Putin Offers Alternatives  President Vladimir V. Putin offered new suggestions for a missile defense system, and proposed that Russia and the West study emerging missile threats together.</p>
+        <p>PAGE A6</p>
+        <p>Clubs Beckon Aging Caddies  With the arrival of warm weather, veteran caddies from Harlem are busy bearing clubs and advice at various golf courses.</p>
+        <p>PAGE B1</p>
+        <p>Familiar Finalists in Paris  Roger Federer will face Rafael Nadal in the French Open final as he tries to win his fourth consecutive Grand Slam title.</p>
+        <p>SPORTSSATURDAY</p>
+        <p>THIS WEEKEND</p>
+        <p>The Money Issue  The country's growing income gap, with articles on John Edwards's war on poverty and why income inequality might help growth.</p>
+        <p>MAGAZINE</p>
+      </block>
+      <block class="full_text">
+        <p>A Leader in Executions, China Reports a Decline  China, which puts more inmates to death than the rest of the world combined, reinstated the power of the nation's highest court to review all capital punishment cases. A result is reported to be greater care by lower courts.</p>
+        <p>PAGE A3</p>
+        <p>Putin Offers Alternatives  President Vladimir V. Putin offered new suggestions for a missile defense system, and proposed that Russia and the West study emerging missile threats together.</p>
+        <p>PAGE A6</p>
+        <p>Clubs Beckon Aging Caddies  With the arrival of warm weather, veteran caddies from Harlem are busy bearing clubs and advice at various golf courses.</p>
+        <p>PAGE B1</p>
+        <p>Familiar Finalists in Paris  Roger Federer will face Rafael Nadal in the French Open final as he tries to win his fourth consecutive Grand Slam title.</p>
+        <p>SPORTSSATURDAY</p>
+        <p>THIS WEEKEND</p>
+        <p>The Money Issue  The country's growing income gap, with articles on John Edwards's war on poverty and why income inequality might help growth.</p>
+        <p>MAGAZINE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

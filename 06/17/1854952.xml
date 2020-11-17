@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hillary's War</title>
+    <meta content="17letters.t-6" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854952"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6D8173FF934A25755C0A9619C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hillary's War</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The article only confirmed my conviction that Hillary Clinton's positions vacillate according to the polls of public opinion, making it impossible to discern how she truly feels about issues important to me, a liberal Democrat. Her approach, while arguably identical to that of the other candidates, is no more palatable to me than its polar opposite -- George Bush's ''stay the course'' refusal to listen to the electorate.</p>
+      </block>
+      <block class="full_text">
+        <p>The article only confirmed my conviction that Hillary Clinton's positions vacillate according to the polls of public opinion, making it impossible to discern how she truly feels about issues important to me, a liberal Democrat. Her approach, while arguably identical to that of the other candidates, is no more palatable to me than its polar opposite -- George Bush's ''stay the course'' refusal to listen to the electorate.</p>
+        <p>Daniel Bauman</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Michelle Norkus, Scott Kreitz</title>
+    <meta content="17NORKUS" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17NORKUS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855141"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Norkus, Michelle (Michelle Kreitz)</person>
+        <person class="indexing_service">Kreitz, Scott F.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E6DA153FF934A25755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Michelle Norkus, Scott Kreitz</hl1>
+        <hl2 class="online_headline">Michelle Norkus, Scott Kreitz</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michelle Norkus and Scott F. Kreitz were married yesterday at St. Catharine Church in Spring Lake, N.J. Msgr. Thomas A. Luebking, a Roman Catholic priest, performed the ceremony.</p>
+        <p>Mrs. Kreitz, 34, is a senior marketing manager at Hearst Magazines in New York. She graduated from Georgetown. She is a daughter of Joan Geiger Norkus and Donald P. Norkus of Fair Haven, N.J.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Michelle Norkus and Scott F. Kreitz were married yesterday at St. Catharine Church in Spring Lake, N.J. Msgr. Thomas A. Luebking, a Roman Catholic priest, performed the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Michelle Norkus and Scott F. Kreitz were married yesterday at St. Catharine Church in Spring Lake, N.J. Msgr. Thomas A. Luebking, a Roman Catholic priest, performed the ceremony.</p>
+        <p>Mrs. Kreitz, 34, is a senior marketing manager at Hearst Magazines in New York. She graduated from Georgetown. She is a daughter of Joan Geiger Norkus and Donald P. Norkus of Fair Haven, N.J.</p>
+        <p>Her father is a business coach who runs a consulting company in Fair Haven. Her mother owns Boxwood, an interior design firm in Fair Haven.</p>
+        <p>Mr. Kreitz, 33, is a senior associate in the sales and trading division at Lehman Brothers in New York. He graduated from Brown, where he also received a master's degree in geological sciences.</p>
+        <p>He is the son of Kathleen Claire Kreitz of Brielle, N.J., and the late Frederick J. Kreitz. His mother is an administrative assistant at Howell Township Elementary School in Howell, N.J.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

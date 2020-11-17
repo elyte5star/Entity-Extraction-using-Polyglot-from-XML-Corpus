@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Regardless of the Reason, Women Have the Stage</title>
+    <meta content="18luke" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/arts/music/18luke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855373"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">St Luke's Chamber Ensemble</org>
+        <person class="online_producer">Wolfe, Julia</person>
+        <person class="online_producer">la Barbara, Joan</person>
+        <person class="online_producer">Z, Pamela</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DD123FF93BA25755C0A9619C8B63" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Regardless of the Reason, Women Have the Stage</hl1>
+        <hl2 class="online_headline">Regardless of the Reason, Women Have the Stage</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Concerts exclusively by female composers create a political quandary for their instigators. Women in music history have been notable for their absence, and recent demands for attention have given the nature-nurture debate a new field of battle. Why have there been so few women in music's past, and why are there so many in its present?</p>
+        <p>The St. Luke's Chamber Ensemble finished a three-concert series on consecutive Saturdays at the Chelsea Art Museum over the weekend. Bearing the titles ''Unsung,'' ''Unbound'' and ''Unleashed,'' the events remembered early fighters for recognition like Amy Beach and Ruth Crawford, celebrated successful old pros like Joan Tower and Libby Larsen, and, as they did on Saturday, offered music more on the outer edges of experiment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The St. Luke’s Chamber Ensemble offered music more on the outer edges of experiment.</p>
+      </block>
+      <block class="full_text">
+        <p>Concerts exclusively by female composers create a political quandary for their instigators. Women in music history have been notable for their absence, and recent demands for attention have given the nature-nurture debate a new field of battle. Why have there been so few women in music's past, and why are there so many in its present?</p>
+        <p>The St. Luke's Chamber Ensemble finished a three-concert series on consecutive Saturdays at the Chelsea Art Museum over the weekend. Bearing the titles ''Unsung,'' ''Unbound'' and ''Unleashed,'' the events remembered early fighters for recognition like Amy Beach and Ruth Crawford, celebrated successful old pros like Joan Tower and Libby Larsen, and, as they did on Saturday, offered music more on the outer edges of experiment.</p>
+        <p>But there was an undercurrent of conflicting arguments to this concert. One argument said that sex is unimportant: Music is good or it isn't. The other -- supported by the presence of five pieces by women, a group of musicians with only one man in it, and an audience made predominantly of women -- strongly implied that sex is an identifiable theme. Is sexlessness the basis of equality for female composers, or is femininity an empowering element for great music? Like all important arguments, this one will never end.</p>
+        <p>Maybe segregated programs like Saturday's are just good politics. The fraternities of music have always run the show, and maybe the sororities, fewer in number, are banding together to consolidate their powers. Much of this program worked to reconcile traditional language and instruments with electronic sound. Erin Watson's ''Lullaby for Cy Twombly'' played a string trio against a recorded music box, fierce static noise and snippets from daily life including children's babble and half-heard conversation.</p>
+        <p>Eve Beglarian's ''Cave'' for small ensemble and tape featured quiet recitation, slow-moving chords, droning electronic pedal points and a use of repetition common to a lot of the other music on this program. Julia Wolfe's ''Early That Summer'' for string quartet offered repetition in its attack mode: fierce and rapid figures exploiting the emotional pull of the repeated note.</p>
+        <p>''L'albero dalle foglie azure'' by Joan La Barbara was a duo between Melanie Feld's virtuoso oboe and layers of electronic sound. The duo was also a theme for Pamela Z's ''Four Movements with Delays'': Myron Lutzke's cello in conversation with computer responses created by the composer. The eight St. Luke's players managed all this music with skill and enthusiasm. Ms. Tower introduced the pieces and the composers, all five of whom were present.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

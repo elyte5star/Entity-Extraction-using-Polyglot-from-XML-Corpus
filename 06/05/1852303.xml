@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Million Little Pieces</title>
+    <meta content="05brooks" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/opinion/05brooks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852303"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Brooks, David</person>
+        <person class="indexing_service">Biden, Joseph R Jr (Sen)</person>
+        <person class="indexing_service">Gelb, Leslie H</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/David Brooks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DA1130F936A35755C0A9619C8B63" item-length="755" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Million Little Pieces</hl1>
+        <hl2 class="online_headline">A Million Little Pieces</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID BROOKS</byline>
+      <byline class="normalized_byline">Brooks, David</byline>
+      <abstract>
+        <p>David Brooks Op-Ed column says continuing United States mistake is unwillingness to see Iraqi reality sociologically, from ground up; says Bush administration rejected federal solution for Iraq that was proposed by Sen Joseph Biden, Leslie Gelb and others, who suggested devolution of power to regions, as envisioned by Iraqi constitution; says year later, Iraqi society continues to fracture and national reconciliation looks farther away than ever; says most likely outcome is gradual withdrawal of American troops to bases, leaving Iraqi people increasingly on their own to find security where they can; says irony is that they will get partition, but through back door, and in bloodiest way possible (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Over a year ago, Joe Biden, Les Gelb and others proposed a federal solution for Iraq. The basic argument was that Iraq is a ruptured society and there is no way to reconstitute it from the center.</p>
+        <p>There is no social trust between Sunnis and Shiites, the federalists observed. There is a winner-take-all mentality, which is not conducive to compromise. There is no tradition of impartial rule or impersonal justice, making it hard to establish big national institutions that won't favor one tribe or sect.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Iraqi society has continued to fracture and is so incoherent that it can’t even have a proper civil war any more.</p>
+      </block>
+      <block class="full_text">
+        <p>Over a year ago, Joe Biden, Les Gelb and others proposed a federal solution for Iraq. The basic argument was that Iraq is a ruptured society and there is no way to reconstitute it from the center.</p>
+        <p>There is no social trust between Sunnis and Shiites, the federalists observed. There is a winner-take-all mentality, which is not conducive to compromise. There is no tradition of impartial rule or impersonal justice, making it hard to establish big national institutions that won't favor one tribe or sect.</p>
+        <p>Biden, Gelb and the federalists suggested a devolution of power to the regions, as envisioned by the Iraqi constitution.</p>
+        <p>Everybody out of power sympathized with their diagnosis, but everybody in power rejected it. Some of their objections were reasonable but not insurmountable. The Sunni and Shiite populations are too intermingled for a federal solution, senior administration officials would say when I would press them. There is no governing capacity in Iraq's regions, so it's crazy to talk about devolving power there, others pointed out.</p>
+        <p>Republicans, Democrats and others went ahead as if a solution could come from the center. The Republicans supported the surge, dependent on the performance of a nonsectarian national military. Democrats imagined that if they came up with the right array of benchmarks, timetables and incentives, they could induce Iraqi leaders to cut deals and make peace. A collection of smart, bipartisan people wrote the Baker-Hamilton report, based on the supposition that regional governments could work with the Iraqi center to create stability from the top down.</p>
+        <p>Now it's a year later, and where are we? National reconciliation looks farther away than ever. There's no petroleum law. There's no de-Baathification law. There are no regional elections. There's been no drop in violence.</p>
+        <p>Iraqi society has continued to fracture and is so incoherent that it can't even have a proper civil war any more. As Gareth Stansfield wrote in a Chatham House report last month, what's happening in Iraq is not one civil war or one insurgency. Instead, Iraq is home to many little civil wars and many little insurgencies that are fighting for local power. Even groups like the Mahdi Army are splitting.</p>
+        <p>After three and a half years of covering the conflict, Edward Wong, a Baghdad correspondent for The New York Times, wrote that the hunger for a final crushing victory overshadows any spirit of sectarian compromise. ''Looking back on all I have seen of this war,'' Wong wrote in last Sunday's paper, ''it now seems that the Iraqis have been driving all along for the decisive victory, the act of sahel, the day the bodies will be dragged through the streets.''</p>
+        <p>Meanwhile, American political capital has been exhausted. White House officials are looking for some modest, sustainable policy to implement after the surge. Gen. David Petraeus, on the other hand, is apparently looking to up the counterinsurgency. But Republican patience is gone. The Democrats are veering leftward and may not accept any residual U.S. force in Iraq.</p>
+        <p>The most likely outcome is that we'll see a gradual withdrawal to the bases. Some smaller number of U.S. troops will hang around to fight Al Qaeda and to make sure nobody topples the figurehead national government. But the Iraqi people will increasingly be on their own, to find security where they can.</p>
+        <p>And the irony is that what they will get is partition. It's just that it will be done de facto, through the back door, and in the bloodiest way possible.</p>
+        <p>For while the center remains paralyzed, local armed bands are grasping for power and creating their own facts on the ground. Wong and Damien Cave described on May 22 in The Times how this is happening. In the Baghdad neighborhood of Kadhimiya, Shiite militias are gradually consolidating control. They are expelling the Sunnis. They have created a system of street justice, complete with underground Islamic courts. They've battled rival militias. They fund their activities through extortion and bribery. But amid the mafia behavior and ethnic cleansing, they've created relative calm. Two thousand Shiite families have moved in.</p>
+        <p>This is now a success story: an ethnically cleansed safe place. Instead of a sort of managed soft partition that at least has a shot of transferring power to the best local people, we're now getting machine-gun partition that transfers power to the most violent people. For Iraqis, the thug who rules your local gas station rules your life.</p>
+        <p>The continuing U.S. mistake is an unwillingness to see Iraqi reality sociologically, from the ground up.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

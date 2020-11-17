@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Accidents Less Likely to Happen</title>
+    <meta content="03home" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/realestate/03home.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851833"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="YOUR HOME"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Your Home</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DA1530F930A35755C0A9619C8B63" item-length="671" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Accidents Less Likely to Happen</hl1>
+        <hl2 class="online_headline">Making Accidents Less Likely to Happen</hl2>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALMOST every home or apartment has at least a few accidents waiting to happen, and if they do occur, they can cause thousands of dollars in damage.</p>
+        <p>Tom Kraeutler, the host of ''The Money Pit,'' a syndicated radio program on home improvement, identifies one potential trouble spot as the hoses that connect the washing machine to the water supply.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Almost every home or apartment has a few accidents waiting to happen, and if they do occur, they can cause thousands of dollars in damage.</p>
+      </block>
+      <block class="full_text">
+        <p>ALMOST every home or apartment has at least a few accidents waiting to happen, and if they do occur, they can cause thousands of dollars in damage.</p>
+        <p>Tom Kraeutler, the host of ''The Money Pit,'' a syndicated radio program on home improvement, identifies one potential trouble spot as the hoses that connect the washing machine to the water supply.</p>
+        <p>''If you have rubber water-supply hoses, you should replace them with braided metal hoses sold at home-improvement centers,'' Mr. Kraeutler said, adding that owners should also shut off the water between washdays.</p>
+        <p>For those who want even more protection, there are electronic valves that can be installed between the water supply and the washer that will sense a leak and automatically shut off the water. These typically cost less than $200 but should be installed by a professional.</p>
+        <p>Mr. Kraeutler said that if a flood does occur and water is leaking through the floor and then out of a ceiling of a room below, ''the first thing you should do -- and this is counterintuitive -- is to put a hole in the ceiling and let the water out. It's going to be easier to patch a small hole than to replace a whole section of ceiling.''</p>
+        <p>Tim Carter, the owner of a home-improvement Web site called AsktheBuilder.com, said that a problem area frequently overlooked by homeowners is the flashing around the chimney where it meets the roof. ''Chimneys are usually out of sight and out of mind,'' he said. ''But if the flashing around the chimney is letting water in, or there are cracks in the top of the chimney itself, what could be fixed for a couple of hundred dollars could end up costing thousands.''</p>
+        <p>Mr. Carter said that repairing chimney cracks and faulty flashing is probably not a do-it-yourself project, so it is best to hire a licensed and insured professional.</p>
+        <p>Another thing that homeowners often take for granted is household drains. ''Drains often get partially clogged by roots, grease and other stuff,'' Mr. Carter said, adding that while they might work fine under normal use, they could fail when large numbers of people are using the plumbing. ''Plumbing nightmares usually bite you at the worst time,'' he said, ''like during a graduation party or a cookout.''</p>
+        <p>One way to check for partial clogs, Mr. Carter said, is to fill up all bathtubs and sinks in the house, station someone at each sink and toilet, and on a signal, have all of them pull the plugs and flush at the same time.</p>
+        <p>''If you can do that three times or so, and you don't have any water backing up in the floor drain or tubs in the basement or lower levels, your system is clear,'' Mr. Carter said. ''If there is some backup, it might be worth having a professional come over and clean out the lines.''</p>
+        <p>Mr. Carter said that with the arrival of hurricane season and the chance of heavy rain in the next few months, homeowners should make sure that their gutters and downspouts are clean and that the ground around the house is properly graded. ''Over the years the ground settles and the slope from the house may not be what it should be,'' Mr. Carter said. The ground should slope down at least six inches in the first 10 feet away from the foundation, he said.</p>
+        <p>Homeowners who have taken the appropriate steps to prevent water infiltration but who still experience flooding in a heavy rain may need a sump pump.</p>
+        <p>Norm Cotrona, the president of the Alta Power Corporation, a tool and equipment company in Trumbull, Conn., said that while an ordinary sump pump may be enough to clear water out of a basement if power is available, homeowners who want the best protection might consider a pump with a battery backup system. Such systems can run on battery power for 28 to 112 hours, depending on the time the pump is running, he said. Basic battery-backup pumps start at about $600.</p>
+        <p>YOUR HOME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

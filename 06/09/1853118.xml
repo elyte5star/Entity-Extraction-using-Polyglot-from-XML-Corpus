@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Web Sites for Kids</title>
+    <meta content="l09dolls" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853118"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <person class="indexing_service">Hirsch, Joseph A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EEDF163FF93AA35755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Web Sites for Kids</hl1>
+      </hedline>
+      <abstract>
+        <p>Psychologist Joseph A Hirsch letter holds that interactive Web sites for children will enrich entrepreneurs, not young people they serve (June 6 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''For Not-Ready-for-MySpace Girls, Dress-Up and Diversions on the Web'' (Business Day, June 6) attests to the further depersonalization of human interactions that I see as a psychologist.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''For Not-Ready-for-MySpace Girls, Dress-Up and Diversions on the Web'' (Business Day, June 6) attests to the further depersonalization of human interactions that I see as a psychologist.</p>
+        <p>Virtual reality is not the same as healthy fantasy. Rather, it is socially isolating. On the other hand, play with one's peers is an important activity in the social and emotional development of all mammalian species, not the least of which are humans.</p>
+        <p>A large part of my clinical practice is devoted to the treatment of young people who complain of loneliness and social anxiety. Too intimidated to talk in person, some of these very same individuals are quite conversant in electronic communication (text messaging, e-mail) and overindulge in the use of the Internet.</p>
+        <p>Beginning this process in underdeveloped children will enrich the Web site entrepreneurs, not the children they serve.</p>
+        <p>Joseph A. Hirsch  New York, June 6, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

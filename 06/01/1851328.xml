@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Day Watch</title>
+    <meta content="01roun-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851328"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">Bekmambetov, Timur</person>
+        <person class="indexing_service">Khabensky, Konstantin</person>
+        <person class="indexing_service">Martynov, Dima</person>
+        <person class="indexing_service">Poroshina, Maria</person>
+        <object.title class="indexing_service">Day Watch (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7D71530F932A35755C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Day Watch</hl1>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews film Day Watch, directed by Timur Bekmambetov; Konstantin Khabensky, Dima Martynov and Maria Poroshina star; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in New York, Los Angeles and San Francisco.  Directed by Timur Bekmambetov  In Russian, with English subtitles  140 minutes</p>
+        <p>The second installment of Timur Bekmambetov's bustling supernatural trilogy cares not if you're familiar with the first. Save for a brief recap of its overcooked mythology, this movie picks up without explanation a number of years after ''Night Watch'' concluded, rejoining the champions of Light and Dark and their forever fragile truce.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in New York, Los Angeles and San Francisco.  Directed by Timur Bekmambetov  In Russian, with English subtitles  140 minutes</p>
+        <p>The second installment of Timur Bekmambetov's bustling supernatural trilogy cares not if you're familiar with the first. Save for a brief recap of its overcooked mythology, this movie picks up without explanation a number of years after ''Night Watch'' concluded, rejoining the champions of Light and Dark and their forever fragile truce.</p>
+        <p>There are Anton (Konstantin Khabensky), the flawed Light Other, struggling with the sin of attempted infanticide; his creepy son, Egor (Dima Martynov), dallying with the Dark in payback by sucking blood -- with a straw, no less -- from unsuspecting retirees; and Kostya (Aleksey Chadov), the hot young vampire who likes to do laundry between chugs of animal blood.</p>
+        <p>Most crucial is Svetlana (Maria Poroshina), the trainee Night Watcher, who we know is extra special because she can enter the Second Level of Gloom. That's nothing; by the time the credits rolled, I was well into the Fourth Level myself.</p>
+        <p>Unfolding in a decrepit, present-day Moscow, ''Day Watch'' dazzles and confuses with equal determination. Less coherent than its predecessor, if equally creative, the movie depicts hidden dimensions teeming with beings who transform into clouds of mosquitoes, swap bodies at will and rewrite destiny with something called the Chalk of Fate. Perhaps the Fickle Finger was otherwise engaged.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>''Day Watch'' is rated R (Under 17 requires accompanying parent or adult guardian). It has body swapping, blood sucking and throat piercing.</p>
+        <p>FILM IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

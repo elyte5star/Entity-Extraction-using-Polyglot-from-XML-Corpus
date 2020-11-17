@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Out From the Ethical Deep Freeze</title>
+    <meta content="7thu2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/opinion/7thu2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852739"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Congress (US)</org>
+        <org class="indexing_service">House of Representatives (US)</org>
+        <person class="indexing_service">Jefferson, William J (Rep)</person>
+        <person class="indexing_service">Pelosi, Nancy (Speaker)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Pelosi, Nancy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EED81E30F934A35755C0A9619C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Out From the Ethical Deep Freeze</hl1>
+        <hl2 class="online_headline">Out From the Ethical Deep Freeze</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial maintains that indictment of Rep William Jefferson on bribery charges should be wake-up call for Congressional members who are reluctant to accept aggressive ethics reform; urges Speaker Nancy Pelosi to propose independent office to oversee ethics enforcement</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just as House Democrats' fervid promises of ethics reform are running out of steam comes the bribery indictment of one of their own, William Jefferson, the Louisiana representative accused of stashing $90,000 in marked bills in his home freezer. Surely the image of Mr. Jefferson allegedly using the Congressional dining room to transact quid-pro-quo corruption schemes is the strongest possible wake-up call for foot-dragging members to face up to the need for aggressive ethics enforcement. The existing ethics committee produced cobwebs, not early-warning alerts, as recent scandals were launching several lawmakers, staffers and lobbyists on prison careers.</p>
+        <p>The timing could not be better for Speaker Nancy Pelosi to offer Congress and its doubting constituents the strongest possible proposal for the creation of an independent office to oversee ethics enforcement. A bipartisan task force has been studying this campaign promise, and the speaker is reportedly ready to sign off on some sort of an oversight panel of respected outsiders. Details are thus far scarce. But if Congress wants to repair its tattered reputation, it is crucial to resist cosmetic change. For any independent panel to be convincing it must be given the power to investigate corruption allegations and make recommendations to the ethics committee for forceful action.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The timing is ripe for Nancy Pelosi to offer Congress the strongest possible proposal for the creation of an independent office to oversee ethics enforcement.</p>
+      </block>
+      <block class="full_text">
+        <p>Just as House Democrats' fervid promises of ethics reform are running out of steam comes the bribery indictment of one of their own, William Jefferson, the Louisiana representative accused of stashing $90,000 in marked bills in his home freezer. Surely the image of Mr. Jefferson allegedly using the Congressional dining room to transact quid-pro-quo corruption schemes is the strongest possible wake-up call for foot-dragging members to face up to the need for aggressive ethics enforcement. The existing ethics committee produced cobwebs, not early-warning alerts, as recent scandals were launching several lawmakers, staffers and lobbyists on prison careers.</p>
+        <p>The timing could not be better for Speaker Nancy Pelosi to offer Congress and its doubting constituents the strongest possible proposal for the creation of an independent office to oversee ethics enforcement. A bipartisan task force has been studying this campaign promise, and the speaker is reportedly ready to sign off on some sort of an oversight panel of respected outsiders. Details are thus far scarce. But if Congress wants to repair its tattered reputation, it is crucial to resist cosmetic change. For any independent panel to be convincing it must be given the power to investigate corruption allegations and make recommendations to the ethics committee for forceful action.</p>
+        <p>Such a panel could render a double service by credibly shooting down frivolous charges and by bracing the House in its duty to police wayward members. The alternative is for Congress to continue to sit there in encrusted apathy, relying on criminal prosecutors and the news media to surprise it with fresh embarrassments about its members abusing the people's business.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

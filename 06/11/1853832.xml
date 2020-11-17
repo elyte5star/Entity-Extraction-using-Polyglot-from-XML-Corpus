@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="11mostpopular" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853832"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1DD173FF932A25755C0A9619C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The songs that John Lennon wrote helped inspire a generation of activists. ''Give Peace a Chance,'' the antiwar anthem, was recorded during the 1969 Amsterdam Bed-In with Yoko Ono. The couple also used their celebrity to fight for peace with the ''War is Over! (If You Want It)'' poster campaign.</p>
+        <p>Lennon's activist heirs -- among them U2, Yousou N'Dour, Green Day, Lenny Kravitz and Avril Lavigne -- will release ''Instant Karma: The Amnesty International Campaign to Save Darfur,'' a collection of his songs, tomorrow.</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>The songs that John Lennon wrote helped inspire a generation of activists. ''Give Peace a Chance,'' the antiwar anthem, was recorded during the 1969 Amsterdam Bed-In with Yoko Ono. The couple also used their celebrity to fight for peace with the ''War is Over! (If You Want It)'' poster campaign.</p>
+        <p>Lennon's activist heirs -- among them U2, Yousou N'Dour, Green Day, Lenny Kravitz and Avril Lavigne -- will release ''Instant Karma: The Amnesty International Campaign to Save Darfur,'' a collection of his songs, tomorrow.</p>
+        <p>SHELLY FREIERMAN  MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

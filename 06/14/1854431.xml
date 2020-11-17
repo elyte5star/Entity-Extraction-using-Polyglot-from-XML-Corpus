@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefy; T-Pain Tops New CDs</title>
+    <meta content="14arts-5" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854431"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E5D8143FF937A25755C0A9619C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefy; T-Pain Tops New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO; Compiled by Lawrence Van Gelder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>T-Pain, the Florida soul singer whose obsessions include strippersand electronically processed, roboticvocals, has the best-selling album inthe country with ''Epiphany'' (Jive).Propelled by the hit song ''Buy U a Drank (Shawty Snappin'),'' the album is No. 1 on the Billboard chart, selling 171,000 copies last week, NielsenSoundScan reported. In a week of big new releases, Rihanna opened atNo. 2 with ''Good Girl Gone Bad'' (DefJam), which sold 162,000; Paul Mc-Cartney, with a new, Starbucks-affiliated record label -- and, naturally, heavy promotion at Starbucks stores -- reached No. 3 with ''Memory Almost Full'' (Hear Music). The country stars Big &amp; Rich bowed at No. 6 with ''Between Raising Hell and Amazing Grace'' (Warner Brothers); Marilyn Manson reached No. 8 with Eat Me, Drink Me'' (Interscope); and the reggaetón star Daddy Yankee opened at No. 9 with ''El Cartel: The Big Boss'' (Interscope). Last week's No. 1, R. Kelly's ''Double Up'' Jive), fell to No. 4.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>T-Pain, the Florida soul singer whose obsessions include strippersand electronically processed, roboticvocals, has the best-selling album inthe country with ''Epiphany'' (Jive).Propelled by the hit song ''Buy U a Drank (Shawty Snappin'),'' the album is No. 1 on the Billboard chart, selling 171,000 copies last week, NielsenSoundScan reported. In a week of big new releases, Rihanna opened atNo. 2 with ''Good Girl Gone Bad'' (DefJam), which sold 162,000; Paul Mc-Cartney, with a new, Starbucks-affiliated record label -- and, naturally, heavy promotion at Starbucks stores -- reached No. 3 with ''Memory Almost Full'' (Hear Music). The country stars Big &amp; Rich bowed at No. 6 with ''Between Raising Hell and Amazing Grace'' (Warner Brothers); Marilyn Manson reached No. 8 with Eat Me, Drink Me'' (Interscope); and the reggaetón star Daddy Yankee opened at No. 9 with ''El Cartel: The Big Boss'' (Interscope). Last week's No. 1, R. Kelly's ''Double Up'' Jive), fell to No. 4.</p>
+        <p>BEN SISARIO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

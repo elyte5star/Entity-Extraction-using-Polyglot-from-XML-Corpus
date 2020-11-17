@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Antibiotic Use in First Year May Increase Asthma Risk</title>
+    <meta content="19asth" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/health/19asth.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855523"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Antibiotics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Asthma</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pediatrics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)/Antibiotics</classifier>
+        <classifier class="online_producer" type="descriptor">Antibiotics</classifier>
+        <classifier class="online_producer" type="descriptor">Asthma</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asthma</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antibiotics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DF133FF93AA25755C0A9619C8B63" item-length="663" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Antibiotic Use in First Year May Increase Asthma Risk</hl1>
+        <hl2 class="online_headline">Antibiotic Use in First Year May Increase Asthma Risk</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The use of antibiotics in the first year of life is associated with an increased risk for asthma at age 7, a new study has found, and the reason may be that antibiotics destroy not only disease-causing microbes, but also those that are helpful to the developing immune system.</p>
+        <p>Antibiotic use had a greater impact on children who would otherwise be considered at lower risk -- children who lived in rural areas and those whose mothers did not have asthma -- than on those who were already at increased risk because of an urban environment or genetic predisposition.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new study suggests the reason for the association may be that antibiotics destroy not only disease-causing microbes, but also those that are helpful to the developing immune system.</p>
+      </block>
+      <block class="full_text">
+        <p>The use of antibiotics in the first year of life is associated with an increased risk for asthma at age 7, a new study has found, and the reason may be that antibiotics destroy not only disease-causing microbes, but also those that are helpful to the developing immune system.</p>
+        <p>Antibiotic use had a greater impact on children who would otherwise be considered at lower risk -- children who lived in rural areas and those whose mothers did not have asthma -- than on those who were already at increased risk because of an urban environment or genetic predisposition.</p>
+        <p>Studies of antibiotic use and asthma have been complicated. Because antibiotics are used to treat respiratory illnesses, which are often precursors of asthma,  it has been difficult to determine the effect of antibiotics alone. But this study, of 13,116 Canadian children, found that the risk of asthma increased even in children treated with antibiotics for nonrespiratory illnesses in the first year of life. The study appears in the June issue of Chest.</p>
+        <p>Anita L. Kozyrskyj, the lead author and an associate professor of pharmacy at the University of Manitoba, said the findings supported what scientists call the  microflora hypothesis -- that</p>
+        <p>''you need good bacteria in your digestive tract for normal development of the immune system so that you don't end up with asthma,''  as she put it.</p>
+        <p>The researchers tracked medications by examining prescription records, and determined asthma status by treatment for asthma or any asthma drug use in the year following the seventh birthday. Six percent of the children developed asthma by age 7.</p>
+        <p>After statistically adjusting for respiratory and nonrespiratory illnesses, sex, maternal history of asthma, urban or rural location and other factors, researchers found that one or two courses of antibiotics in the first year of life increased the risk of asthma by about 20 percent.</p>
+        <p>The more frequent the antibiotic use, the higher the risk. Three to four courses of medicine conferred a 30 percent added risk, and more than four courses of antibiotics increased the risk by almost 50 percent.</p>
+        <p>The findings were stronger for the use of broad-spectrum antibiotics like the cephalosporins and amoxicillin than they were for narrow-spectrum drugs like penicillin and erythromycin. ''Lactobacilli, for example, are more affected by the broad-spectrum drugs,'' Dr. Kozyrskyj said, referring to the beneficial bacteria contained in yogurt.</p>
+        <p>In a secondary finding using a small part of the sample population, researchers found that among children who had multiple courses of antibiotics in infancy, those who lived with no dog in the house had twice the risk of asthma compared with those who lived with one. The reasons are not clear, but it may be that having less contact with the germs that dogs carry results in lower microbial loads, making a child more sensitive to antibiotics. Dr. Kozyrskyj said in an interview that she found no decreased risk with the presence of cats or other pets.</p>
+        <p>Jeroen Douwes, a professor of epidemiology at Massey University in New Zealand who has published widely on asthma in children but was not involved in this work, cited the study's strong methodology. ''They had very good data on antibiotic use during the first year of life, and that's actually quite rare,'' he said. ''They measured exposure before the disease occurred, while in most studies you have to rely on people's recollections.''</p>
+        <p>The authors acknowledged that their findings do not conclusively confirm that antibiotic use is a cause of asthma, and that further work would be required to sort out the associations between the composition of normal intestinal bacteria, antibiotic use, childhood allergies and the development of the illness.</p>
+        <p>Dr. Kozyrskyj said this did not mean that antibiotics should be avoided. ''During the first year of life, if there's a severe infection, antibiotics are appropriate,'' she said. ''But broad-spectrum antibiotics probably increase the risk for asthma. It's good clinical practice to start with the narrow-spectrum drugs first and then try the broad spectrum.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

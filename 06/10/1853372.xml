@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Surprise, and a Treasure</title>
+    <meta content="10relett-4" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853372"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFD9163FF933A25755C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Surprise, and a Treasure</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Joyce Cohen's article about a young couple's joyous discovery of an Upper East Side rental (The Hunt: ''A Surprise on the East Side,'' April 29) doesn't mention that the place they moved into is an admired New York City complex, listed on both the New York State and National Registers of Historic Places.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Joyce Cohen's article about a young couple's joyous discovery of an Upper East Side rental (The Hunt: ''A Surprise on the East Side,'' April 29) doesn't mention that the place they moved into is an admired New York City complex, listed on both the New York State and National Registers of Historic Places.</p>
+        <p>Congratulations on renting at City and Surburban Homes, York Avenue Estate! You will discover a pretty good neighborhood association, too.</p>
+        <p>Betty Cooper Wallerstein  Manhattan</p>
+        <p>The writer is president of the East 79th Street Neighborhood Association.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

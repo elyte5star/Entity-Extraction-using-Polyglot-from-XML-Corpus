@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Way to Tap Home Equity</title>
+    <meta content="03mort" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851836"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E5DA1530F930A35755C0A9619C8B63" item-length="618" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Way to Tap Home Equity</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOMEOWNERS who want to tap into their house's equity typically face three choices: sell and move to a less expensive place, take out a home-equity loan, or refinance the mortgage and pull cash out. For older owners, reverse mortgages are another option.</p>
+        <p>Now yet another alternative has emerged that allows owners to extract cash from their homes without having to take out a traditional loan.</p>
+      </block>
+      <block class="full_text">
+        <p>HOMEOWNERS who want to tap into their house's equity typically face three choices: sell and move to a less expensive place, take out a home-equity loan, or refinance the mortgage and pull cash out. For older owners, reverse mortgages are another option.</p>
+        <p>Now yet another alternative has emerged that allows owners to extract cash from their homes without having to take out a traditional loan.</p>
+        <p>The latest alternative is called a Rex Agreement, marketed by Rex &amp; Company in San Francisco, and it gives the homeowner an up-front cash payment of 12 to 17 percent of the house's existing value. In exchange, Rex gets half of the increase in value of the house when it is eventually sold.</p>
+        <p>Only owners of single-family detached houses can qualify and only those with average, or higher, credit scores are accepted. People with houses valued in the top or bottom 10 percent of their local markets are not eligible.</p>
+        <p>This is how it works: say the house is worth $600,000 and the owner signs a Rex Agreement for a $100,000 payout. If the house is sold 10 years later for $720,000, Rex gets $160,000: $100,000 in repayment and half of the $120,000, the house's increase in value. If the value is flat after 10 years, Rex gets only $100,000.</p>
+        <p>If the house's value decreases by $120,000, Rex and the homeowner share the loss equally, $60,000 each. That is, Rex subtracts $60,000 from its $100,000 payment and gets back $40,000.</p>
+        <p>Rex's chief executive, Thomas Sponholtz, said homeowners who received money from Rex and invested that cash in an aggressive financial instrument would come out ahead in a stagnant housing market.</p>
+        <p>''If the housing market is flat, and you earn 10 percent a year with the money you get from Rex, you've done well,'' Mr. Sponholtz said. ''If the market goes up, you'll have gained something, and in the meantime, used the money to meet whatever life needs you've had.''</p>
+        <p>''The need we want to address is for baby boomers who have a lot of equity in their homes, and for whom more debt doesn't make sense,'' Mr. Sponholtz added. ''We're proposing to sell a piece of that, get some liquidity, diversify your investment portfolio and meet your life needs.''</p>
+        <p>Kevin Depew, the executive editor at Minyanville Publishing and Multimedia, a New York-based investment education Web site, said that a Rex Agreement may make sense for some homeowners, but not all of them.</p>
+        <p>''It's a unique and interesting idea, and there's nothing inherently wrong with these,'' Mr. Depew said. ''But people need to understand the worst-case scenario before flocking to them.''</p>
+        <p>For instance, Mr. Depew said, owners who put their Rex money into high-risk investments, and whose homes lose value, could be hit particularly hard. Mr. Depew recommends that owners who are thinking about Rex Agreements talk to their financial advisers before signing.</p>
+        <p>Alan Cohn, the president of the Sage Financial Group, a financial advisory firm in West Conshohocken, Pa., noted one attractive feature is that the proceeds of a Rex Agreement are tax-free.</p>
+        <p>''And there's a lot of equity people have in their homes that they really can't access today,'' he said. ''This could be used as a very effective financial planning tool. But it has to be done within the context of a comprehensive financial plan.''</p>
+        <p>Homeowners who arrange for their Rex Agreements directly from the company pay no fees, but financial advisers, mortgage brokers and real estate agents licensed by Rex to sell the product can charge fees of up to $2,000.</p>
+        <p>Rex Agreements are available to residents of nine states, including New York and New Jersey, and Mr. Sponholtz said that Connecticut would soon join the list.</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

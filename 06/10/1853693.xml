@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooklyn's Lessons</title>
+    <meta content="CIBrooklyn" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/nyregionopinions/CIBrooklyn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853693"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The City"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <classifier class="indexing_service" type="descriptor">Judges</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Norman, Clarence</person>
+        <person class="indexing_service">Garson, Gerald P</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+        <person class="online_producer">Norman, Clarence Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1D61F30F933A25755C0A9619C8B63" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooklyn's Lessons</hl1>
+        <hl2 class="online_headline">Brooklyn’s Lessons</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on sentences handed down against former Assemblyman Clarence Norman and former New York State Supreme Court Justice Gerald Garson for extortion, soliciting illegal contributions, bibery and official misconduct; holds most workable and fair way to choose judges is merit selection system</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a Brooklyn courtroom last week, two men who were once among the borough's seediest power brokers learned how long they will now have to spend in prison. Former Assemblyman Clarence Norman, once the Democratic Party kingpin for the county, can expect two to five years behind bars, maybe more. Mr. Norman was convicted of extortion, soliciting illegal contributions and stealing from his re-election committee.</p>
+        <p>His fellow malefactor -- former State Supreme Court Justice Gerald Garson -- can expect to face three to ten years behind bars for accepting bribes and for official misconduct.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Former Assemblyman Clarence Norman, at one time one of Brooklyn’s seediest power brokers, can expect two to five years behind bars.</p>
+      </block>
+      <block class="full_text">
+        <p>In a Brooklyn courtroom last week, two men who were once among the borough's seediest power brokers learned how long they will now have to spend in prison. Former Assemblyman Clarence Norman, once the Democratic Party kingpin for the county, can expect two to five years behind bars, maybe more. Mr. Norman was convicted of extortion, soliciting illegal contributions and stealing from his re-election committee.</p>
+        <p>His fellow malefactor -- former State Supreme Court Justice Gerald Garson -- can expect to face three to ten years behind bars for accepting bribes and for official misconduct.</p>
+        <p>This difficult news for Mr. Norman and Mr. Garson should be a relief for Broolyn's citizens. Jail time, one hopes, will chasten anyone who thinks tainted politics and skewed judicial decisions can remain hidden from the authorities. As Charles Hynes, the district attorney in these cases, crowed afterwards, ''Those who seek to make corrupt deals are constantly looking over their shoulder.''</p>
+        <p>Still, there is an underlying issue in these cases that is far from being resolved. That is the scandalous way New York allows political parties -- in Brooklyn's case the Democrats -- to choose cronies as judges. In many ways, the genesis of these two cases was when Mr. Hynes and his office began investigating whether Brooklyn judgeships were being sold to the highest bidder. The district attorney has yet to prove that Mr. Norman orchestrated such injudicious behavior or that Mr. Garson profited from it, but this investigation helped highlight the slimy way Supreme Court judges have been chosen in the state for almost 80 years. Under that system, party leaders like Mr. Norman could pick their favorites; helpless voters would rubber-stamp them.</p>
+        <p>Last September, a federal court ordered the legislature to change the rules for these sham judiciary elections. But any reform is now on hold until the U.S. Supreme Court decides how to proceed. Until then, candidates in some counties will be screened by independent expert panels. That could help a bit. But while the panels will vet candidates the party leaders will still make the final choices.</p>
+        <p>Eventually the court or the legislature will conclude that it simply isn't right to pack the courts with cronies, even vetted ones. These should not be patronage jobs, nor should judges be chosen in open primaries if they have to depend on private funds. That money talks in the lawmaking field is bad enough. That wealthy special interests exercise influence over the courts is simply unacceptable.</p>
+        <p>The most workable and fair way to choose judges to date has been a merit selection system, not the one that caused so much trouble for so long in Brooklyn.</p>
+        <p>The City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

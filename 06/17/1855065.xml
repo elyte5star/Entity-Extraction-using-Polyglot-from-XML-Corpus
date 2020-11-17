@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gypsy Moth Damage on the Rise</title>
+    <meta content="17weeknjNJ" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855065"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Gypsy Moths</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Hughes, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Butterflies and Moths</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0D6143FF934A25755C0A9619C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gypsy Moth Damage on the Rise</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER V. HUGHES</byline>
+      <byline class="normalized_byline">Hughes, Jennifer</byline>
+      <abstract>
+        <p>New Jersey Department of Agriculture predicts that 200,000 to 300,000 acres of trees will be defoliated by gypsy moth caterpillars this year, compared with 125,000 acres last year; state recently conducted aerial pesticide-spraying program covering about 60,000 acres in 11 counties; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A record number of trees are expected to fall victim to gypsy moth caterpillars this year, according to the New Jersey Department of Agriculture, which predicts that 200,000 to 300,000 acres of trees will be defoliated by the pesky creatures.</p>
+        <p>''We're definitely in a population spike,'' said Jeff Beach, a spokesman for the Agriculture Department. Defoliated trees can survive, he said, but if they are stripped several years in a row they will most likely die.</p>
+      </block>
+      <block class="full_text">
+        <p>A record number of trees are expected to fall victim to gypsy moth caterpillars this year, according to the New Jersey Department of Agriculture, which predicts that 200,000 to 300,000 acres of trees will be defoliated by the pesky creatures.</p>
+        <p>''We're definitely in a population spike,'' said Jeff Beach, a spokesman for the Agriculture Department. Defoliated trees can survive, he said, but if they are stripped several years in a row they will most likely die.</p>
+        <p>Last year about 125,000 acres of trees were defoliated, up from 44,000 acres in 2005. A dry spring has contributed to the problem this year, Mr. Beach said. During wet weather, a caterpillar-killing fungus thrives.</p>
+        <p>In an attempt to cut down on the number of caterpillars, the state conducted an aerial pesticide-spraying program about two weeks ago, covering about 60,000 acres in 11 counties. About half of the $1.5 million cost was picked up by the federal government, but Mr. Beach said that so far no federal money is included for the program in next year's budget.</p>
+        <p>Once the caterpillars emerge as moths, they no longer pose a threat, Mr. Beach said. After that, the state's next step is to try to determine, by air, where the moths lay eggs so officials can know where to spray for caterpillars next year.</p>
+        <p>In addition to the state's program, Monmouth County uses its own helicopter to cover more than 3,200 acres with pesticide, said Gary Lovallo, superintendent of the county's Shade Tree Commission. Losing trees is more than an aesthetic and environmental problem, he said.</p>
+        <p>''You have serious economic consequences,'' he said. ''Someone has to pay to remove those dead and dangerous trees.''</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

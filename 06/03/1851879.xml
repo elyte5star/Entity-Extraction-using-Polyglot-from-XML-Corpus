@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arianne Adams, Thomas Criqui</title>
+    <meta content="03adams" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03adams.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851879"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Adams, Arianne (Arianne Criqui)</person>
+        <person class="indexing_service">Criqui, Thomas O'Brien</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DA1230F930A35755C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arianne Adams, Thomas Criqui</hl1>
+        <hl2 class="online_headline">Arianne Adams, Thomas Criqui</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Arianne Adams, the daughter of Mr. and Mrs. John S. Adams of Emmaus, Pa., was married on Friday to Thomas O'Brien Criqui, a son of Mr. and Mrs. Donald L. Criqui of Essex Fells, N.J. The Rev. John F. Morley officiated at St. Catharine Roman Catholic Church in Spring Lake, N.J.</p>
+        <p>The bride and bridegroom work at Merrill Lynch in New York, where she is a vice president who sells stock derivatives to institutional investors and he is a managing director who helps develop, market and set pricing for new corporate bond issues.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Arianne Adams, the daughter of Mr. and Mrs. John S. Adams of Emmaus, Pa., was married on Friday to Thomas O’Brien Criqui, a son of Mr. and Mrs. Donald L. Criqui of Essex Fells, N.J. The Rev. John F. Morley officiated at St. Catharine Roman Catholic Church in Spring Lake, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Arianne Adams, the daughter of Mr. and Mrs. John S. Adams of Emmaus, Pa., was married on Friday to Thomas O'Brien Criqui, a son of Mr. and Mrs. Donald L. Criqui of Essex Fells, N.J. The Rev. John F. Morley officiated at St. Catharine Roman Catholic Church in Spring Lake, N.J.</p>
+        <p>The bride and bridegroom work at Merrill Lynch in New York, where she is a vice president who sells stock derivatives to institutional investors and he is a managing director who helps develop, market and set pricing for new corporate bond issues.</p>
+        <p>Mrs. Criqui, 29, graduated from Penn State. Her father is a steel and plastics manufacturers representative in Emmaus, and is also a partner in Westmoreland Plastics, a company in Latrobe, Pa. Her mother, Diane E. Adams, retired last month as a substitute teacher in the East Penn School District in Emmaus.</p>
+        <p>Mr. Criqui, 40, graduated from Princeton and received an M.B.A. from Harvard. He is also an announcer for Princeton football and basketball games on the Patriot Communications cable television system.</p>
+        <p>His father is an announcer for National Football League games on CBS, and also announces Notre Dame football games on the Westwood One radio network.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

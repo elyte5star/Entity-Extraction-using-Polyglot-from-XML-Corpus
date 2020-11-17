@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="16endpaper" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854760"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weight</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Fen-Phen (Drug Combination)</classifier>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <person class="indexing_service">Mills, Melbourne Jr</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0D9153FF935A25755C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>June 15 sports article about two lawyers indicted in Kentucky on federal charges of conspiring to defraud clients in $200 million lawsuit settlement with maker of diet drug fen-phen omitted name of third lawyer who was indicted; he is Melbourne Mills Jr; National Briefing report omitted lawyers' horse-owning backgrounds</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A sports article yesterday about two lawyers indicted in Kentucky on federal charges of conspiring to defraud clients in a $200 million lawsuit settlement with the maker of the diet drug fen-phen omitted the name of a third lawyer who was indicted. Melbourne Mills Jr. was also charged -- but unlike the other two, Shirley A. Cunningham Jr. and William J. Gallion, he was not a part-owner of the Preakness champion Curlin. (Unaware of the sports article, the editors of the National Briefing column ran another one that omitted the lawyers' horse-owning backgrounds.)</p>
+      </block>
+      <block class="full_text">
+        <p>A sports article yesterday about two lawyers indicted in Kentucky on federal charges of conspiring to defraud clients in a $200 million lawsuit settlement with the maker of the diet drug fen-phen omitted the name of a third lawyer who was indicted. Melbourne Mills Jr. was also charged -- but unlike the other two, Shirley A. Cunningham Jr. and William J. Gallion, he was not a part-owner of the Preakness champion Curlin. (Unaware of the sports article, the editors of the National Briefing column ran another one that omitted the lawyers' horse-owning backgrounds.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

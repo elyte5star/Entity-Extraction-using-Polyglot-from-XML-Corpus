@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gregory Camp for Assembly</title>
+    <meta content="CIendorsenyc" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/nyregionopinions/CIendorsenyc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851919"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The City"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Legislature</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Endorsements</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Camp, Gregory</person>
+        <person class="indexing_service">Grannis, Alexander (Assemblyman)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Endorsements</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York State</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFD81330F930A35755C0A9619C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gregory Camp for Assembly</hl1>
+        <hl2 class="online_headline">Gregory Camp for Assembly</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial endorses Republican Gregory Camp to succeed New York State Assemblyman Alexander Grannis</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On Tuesday, New York City will hold another almost-invisible election. Most people in the 65th Assembly District (much of the Upper East Side plus Roosevelt Island) probably have no idea that they can vote that day to elect a successor to Assemblyman Alexander Grannis.</p>
+        <p>Mr. Grannis, now a state commissioner, was a rare reformer, but there was not a hint of reformist sentiment among the handful of Democrats bigwigs who picked the Democratic candidate to replace him.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Given Democratic dominance in the Assembly, a thoughtful Republican like Mr. Camp can only improve the discourse and perhaps even the output in Albany.</p>
+      </block>
+      <block class="full_text">
+        <p>On Tuesday, New York City will hold another almost-invisible election. Most people in the 65th Assembly District (much of the Upper East Side plus Roosevelt Island) probably have no idea that they can vote that day to elect a successor to Assemblyman Alexander Grannis.</p>
+        <p>Mr. Grannis, now a state commissioner, was a rare reformer, but there was not a hint of reformist sentiment among the handful of Democrats bigwigs who picked the Democratic candidate to replace him.</p>
+        <p>Their choice, Micah Kellner, is an appealing person, very earnest and knowledgeable about the politics of the area. But New Yorkers deserve someone chosen by voters, not a few powerful politicians. And Gregory Camp, the Republican candidate in the race, offers an excellent alternative. Mr. Camp, who has experience in the law and in finance, is an unusual Republican. He is against the death penalty, he is pro-choice, and he supports gay marriage.</p>
+        <p>He is not locked into any establishment, even though he does have the support of like-minded progressive Republicans like Mayor Michael Bloomberg and former State Senator Roy Goodman.</p>
+        <p>Given Democratic dominance in the Assembly, a thoughtful Republican can only improve the discourse and perhaps even the output in Albany. We endorse Mr. Camp in Tuesday's special election.</p>
+        <p>The City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

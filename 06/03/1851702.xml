@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THEATER: THE TONYS | A Season's Indelible Moments; The Musicians of the Orchestra Pit -- 'LoveMusik'</title>
+    <meta content="03snap3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/theater/theaterspecial/03snap3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851702"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Lovemusik"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Isherwood, Charles</person>
+        <object.title class="indexing_service">Lovemusik (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Tunick, Jonathan</person>
+        <person class="online_producer">Weill, Kurt</person>
+        <person class="online_producer">Lenya, Lotte</person>
+        <person class="online_producer">Cerveris, Michael</person>
+        <person class="online_producer">Murphy, Donna</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3DB1430F930A35755C0A9619C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THEATER: THE TONYS | A Season's Indelible Moments; The Musicians of the Orchestra Pit -- 'LoveMusik'</hl1>
+        <hl2 class="online_headline">The Musicians of the Orchestra Pit</hl2>
+      </hedline>
+      <byline class="print_byline">By CHARLES ISHERWOOD</byline>
+      <byline class="normalized_byline">Isherwood, Charles</byline>
+      <abstract>
+        <p>Article describes indelible moment from 2006-7 theater season, performance of musicians in orchestra in show LoveMusik; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As anyone who regularly attends musicals can attest, the sound of music on Broadway these days is often about as appealing as the throb of a jackhammer or the blare of a bus horn. Those distracting little microphones crawling like insects out of the hairlines of the performers are a bit of an eyesore, but what really sets the nerves on edge is the tidal wave of mushy, amplified sound that now seems to be the standard for Broadway musicals.</p>
+        <p>So the sheer loveliness of the playing in the pit of the Biltmore Theater, where ''LoveMusik'' is now in residence, was a caress that came with the force of a revelation. For many years the orchestrations of Jonathan Tunick have been integral to the artistry of musicals new and old. His collaborations with Stephen Sondheim are particularly notable, but the delicacy he has brought to the songs of this bio-musical about Kurt Weill and Lotte Lenya, with Michael Cerveris and Donna Murphy, surely ranks among his greatest achievements. (Mr. Tunick won Tony nominations for both ''LoveMusik'' and ''110 in the Shade'' this season.) Thankfully his work has been handled with expert care by the show's musical supervisor, Kristen Blodgette, and the 10 skilled players in the Biltmore pit, including the conductor, Nicholas Archer, who also plays piano. More thankfully still, it was</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The sheer loveliness of the playing in the pit at “LoveMusik” was a caress that came with the force of a revelation.</p>
+      </block>
+      <block class="full_text">
+        <p>As anyone who regularly attends musicals can attest, the sound of music on Broadway these days is often about as appealing as the throb of a jackhammer or the blare of a bus horn. Those distracting little microphones crawling like insects out of the hairlines of the performers are a bit of an eyesore, but what really sets the nerves on edge is the tidal wave of mushy, amplified sound that now seems to be the standard for Broadway musicals.</p>
+        <p>So the sheer loveliness of the playing in the pit of the Biltmore Theater, where ''LoveMusik'' is now in residence, was a caress that came with the force of a revelation. For many years the orchestrations of Jonathan Tunick have been integral to the artistry of musicals new and old. His collaborations with Stephen Sondheim are particularly notable, but the delicacy he has brought to the songs of this bio-musical about Kurt Weill and Lotte Lenya, with Michael Cerveris and Donna Murphy, surely ranks among his greatest achievements. (Mr. Tunick won Tony nominations for both ''LoveMusik'' and ''110 in the Shade'' this season.) Thankfully his work has been handled with expert care by the show's musical supervisor, Kristen Blodgette, and the 10 skilled players in the Biltmore pit, including the conductor, Nicholas Archer, who also plays piano. More thankfully still, it was</p>
+        <p>amplified with a gentle hand by the sound designer Duncan Robert Edwards.</p>
+        <p>My ears, and those of every Weill admirer in the audience, are immensely grateful to all. Now if only something could be done about those lyric-obscuring German accents.</p>
+        <p>CHARLES ISHERWOOD</p>
+        <p>Lovemusik</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

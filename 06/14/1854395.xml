@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For the Living Room, a High-Definition Media PC That Evokes Legendary Technology From Another Planet</title>
+    <meta content="14alien" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14alien.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854395"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Alienware Corp</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Alienware</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5D9143FF937A25755C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For the Living Room, a High-Definition Media PC That Evokes Legendary Technology From Another Planet</hl1>
+        <hl2 class="online_headline">A High-Definition Media PC That Evokes Legendary Technology</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Alienware's media computer supports video playback at up to 1,080p resolution and connect to HDMI-capable television or standard computer monitors; in its least expensive configuration, which costs $1,999, PC has 250-gigabyte hard drive, but other configurations can take that up to two terabytes; PC supports Windows Vista's Media Center software for recording and playing back live television as well as downloaded music and movies; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>According to urban legend, aliens crash-landed in the desert outside Roswell, N.M., and their remains are hidden in the Air Force's Hangar 18. Inside Alienware's Hangar 18, however, you will find only high-end PC components and high-definition video playback systems.</p>
+        <p>This media computer -- available at www.alienware.com -- is stylish enough to sit comfortably next to a wide-screen TV in the living room. It supports video playback at up to 1080p resolution and can connect to HDMI-capable televisions or standard computer monitors. In its least expensive configuration, which costs $1,999, the PC has a 250-gigabyte hard drive, but other configurations can take that up to two terabytes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Inside Alienware’s Hangar 18 you will find only high-end PC components and high-definition video playback systems.</p>
+      </block>
+      <block class="full_text">
+        <p>According to urban legend, aliens crash-landed in the desert outside Roswell, N.M., and their remains are hidden in the Air Force's Hangar 18. Inside Alienware's Hangar 18, however, you will find only high-end PC components and high-definition video playback systems.</p>
+        <p>This media computer -- available at www.alienware.com -- is stylish enough to sit comfortably next to a wide-screen TV in the living room. It supports video playback at up to 1080p resolution and can connect to HDMI-capable televisions or standard computer monitors. In its least expensive configuration, which costs $1,999, the PC has a 250-gigabyte hard drive, but other configurations can take that up to two terabytes.</p>
+        <p>The PC supports Windows Vista's Media Center software for recording and playing back live television as well as downloaded music and movies. The standard version comes with two video tuners, one for digital HD content and one for analog broadcast. The Hangar 18 can handle up to four tuners and record up to four channels at once.</p>
+        <p>The Hangar 18 doesn't include an alien carcass, but it supports 802.11g and Bluetooth wireless and has a remote control that mimics the functions of a mouse when moved in three dimensions.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

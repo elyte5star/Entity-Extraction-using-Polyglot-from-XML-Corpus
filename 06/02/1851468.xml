@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The National Guard, Where It's Needed</title>
+    <meta content="l02guard" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851468"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Katrina (Storm)</classifier>
+        <classifier class="indexing_service" type="descriptor">Tornadoes</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">New Orleans (La)</location>
+        <location class="indexing_service">Kansas</location>
+        <org class="indexing_service">National Guard (US)</org>
+        <person class="indexing_service">Chittur, Adhitya S</person>
+        <person class="indexing_service">Horschman, Elaine</person>
+        <person class="indexing_service">Korb, Lawrence J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Kansas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricane Katrina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tornadoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D61330F931A35755C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The National Guard, Where It's Needed</hl1>
+      </hedline>
+      <abstract>
+        <p>Adhitya S Chittur and Elaine Horschman letters respond to Lawrence J Korb May 27 Op-Ed noting that 80 percent of National Guard has served overseas and that this is largely responsible for pitiful federal responses to disasters in New Orleans and Kansas</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Lawrence J. Korb (''Over Here,'' Op-Ed, May 27) notes that some 80 percent of our National Guard has served overseas and that this is largely responsible for the pitiful federal responses to the disasters in New Orleans and Kansas. But the solution is most certainly not to create another pseudo-branch of the military. It is to use our current branches appropriately, a logic that has seemed to fly over the head of the current administration.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Lawrence J. Korb (''Over Here,'' Op-Ed, May 27) notes that some 80 percent of our National Guard has served overseas and that this is largely responsible for the pitiful federal responses to the disasters in New Orleans and Kansas. But the solution is most certainly not to create another pseudo-branch of the military. It is to use our current branches appropriately, a logic that has seemed to fly over the head of the current administration.</p>
+        <p>Eighty percent of the National Guard is not supposed to be overseas in the first place. It is not called the International Guard for a reason.</p>
+        <p>Adhitya S. Chittur  Marina del Rey, Calif.  May 27, 2007</p>
+        <p>To the Editor:</p>
+        <p>I am a senior, a 68-year-old woman. I am in good health and would like to serve my country.</p>
+        <p>I have thought about Lawrence J. Korb's ''Home Guard'' for a long time now, and I applaud him for writing about the idea. There are millions of us who would like to serve and could serve if there were a place for us.</p>
+        <p>I would like to add the ''Senior Reserves'' to Mr. Korb's idea for defending the homeland. I have never agreed with President Bush's program to deploy the ''National Guard'' to a foreign war. I say bring the National Guard home to guard the nation.</p>
+        <p>Elaine Horschman  Corte Madera, Calif., May 27, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.R.S. Seeks More Charity Transparency</title>
+    <meta content="15charity" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/washington/15charity.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854608"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <org class="online_producer">Internal Revenue Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DD153FF936A25755C0A9619C8B63" item-length="516" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.R.S. Seeks More Charity Transparency</hl1>
+        <hl2 class="online_headline">I.R.S. Seeks More Charity Transparency</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE STROM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Internal Revenue Service yesterday proposed a vast overhaul of the main tax form for charities, an effort to make it easier for the I.R.S. and the public to tell how much nonprofit groups are paying their executives and how much of their money goes toward fund-raising.</p>
+        <p>The proposed changes, to Form 990, also include separate schedules to help determine how much nonprofit hospitals actually spend on charity care and to provide more information about gifts of goods and services to charities.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An overhaul will make it easier to tell how much nonprofit groups are paying their executives and how much of their money goes toward fund-raising.</p>
+      </block>
+      <block class="full_text">
+        <p>The Internal Revenue Service yesterday proposed a vast overhaul of the main tax form for charities, an effort to make it easier for the I.R.S. and the public to tell how much nonprofit groups are paying their executives and how much of their money goes toward fund-raising.</p>
+        <p>The proposed changes, to Form 990, also include separate schedules to help determine how much nonprofit hospitals actually spend on charity care and to provide more information about gifts of goods and services to charities.</p>
+        <p>Lois G. Lerner, director of the tax-exempt division of the I.R.S., said that although the revenue service had tinkered with the form from time to time to accommodate changes in laws and regulations, the last major revamping of it was more than 25 years ago.</p>
+        <p>''In my view,'' Ms. Lerner said, ''this is probably the biggest thing the tax-exempt division has done in the last quarter-century.''</p>
+        <p>''We now have large organizations that look like for-profit organizations, and many types of organizations doing business that weren't around 25 years ago,'' she said. ''While the sector has changed, the form has pretty much stayed the same.''</p>
+        <p>Max Baucus, the Montana Democrat who heads the Senate Finance Committee, said: ''This new form will help the public and the I.R.S. assess whether tax-exempt organizations are staying true to the reasons they were granted exempt status in the first place. We must be assured that the public's donations are used appropriately.''</p>
+        <p>Nonprofit groups and their legal advisers have been eagerly awaiting the new form, which is described on the I.R.S. site at irs.gov/charities/article/0,,id=171216,00.html. They greeted its debut with guarded optimism.</p>
+        <p>''Increased transparency is critical to maintaining the public trust on which nonprofit organizations depend to do their work,'' Diana Aviv, president of Independent Sector, a coalition of nonprofits, said in a statement.</p>
+        <p>Ms. Aviv said her organization would be examining the new form with an eye toward making recommendations that will strengthen it. Nonprofits and others, including the general public, can comment on it through Sept. 14. Ms. Lerner said the goal was to have a final form ready in time for charities to use it to report for 2008.</p>
+        <p>Trent Stamp, president of Charity Navigator, an online service that uses information reported on the form to evaluate charities for donors, said he thought the draft was a good first step. But he said Ms. Lerner's emphasis on ensuring that the revised form did not impose additional burdens on charities disturbed him. Ms. Lerner said, for instance, that while the number of schedules associated with the form would increase to 15 from 2, most charities would need to fill out only three of them. Asked whether charities would be required to supply more information on the form, she replied that they would be providing ''better information.''</p>
+        <p>''From the get-go,'' Mr. Stamp said, ''this has been a political exercise designed to appease all constituencies. She said the form would enhance transparency and reduce the burden on the filing organizations, but those things are mutually exclusive. Greater transparency will mean more work for charities, no doubt about it.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

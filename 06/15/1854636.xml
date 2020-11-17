@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Film in Review; Beyond Hatred</title>
+    <meta content="15roun-4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854636"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Seitz, Matt Zoller</person>
+        <person class="indexing_service">Meyrou, Olivier</person>
+        <object.title class="indexing_service">Beyond Hatred (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DC153FF936A25755C0A9619C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Film in Review; Beyond Hatred</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT ZOLLER SEITZ</byline>
+      <byline class="normalized_byline">Seitz, Matt Zoller</byline>
+      <abstract>
+        <p>Matt Zoller Seitz reviews Olivier Meyrou documentary film Beyond Hatred (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan  Directed by Olivier Meyrou  In French, with English subtitles  Not rated; 85 minutes</p>
+        <p>''Beyond Hatred,'' a documentary about a murder victim's family struggling to heal, is an example of a film whose style doesn't merely suit its story but amplifies its meanings.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan  Directed by Olivier Meyrou  In French, with English subtitles  Not rated; 85 minutes</p>
+        <p>''Beyond Hatred,'' a documentary about a murder victim's family struggling to heal, is an example of a film whose style doesn't merely suit its story but amplifies its meanings.</p>
+        <p>The film recounts the death of François Chenu, a gay man in his 20s who was killed in Rheims, France, by skinheads who were hoping to attack an Arab but settled for an available target. When Mr. Chenu defiantly declared his sexual orientation, the skinheads beat him unconscious, assumed he was dead, then dumped him in a river, where he drowned.</p>
+        <p>''Beyond Hatred'' follows Mr. Chenu's parents, siblings and lawyers as they seek justice through the courts, try to understand his killers and carry on with life.</p>
+        <p>The filmmaker, Olivier Meyrou, works in the style of direct cinema, a school of nonfiction filmmaking perfected by the likes of Robert Drew (''Primary'') and the Maysles brothers (''Salesman''). He shoots on 16-millimeter film, eschews narration, allows his subjects to ramble rather than reducing their statements to bite-size chunks and often lets environmental sound intrude upon them. (There is sparing music, though: a mournful classical score that seems excessive only because the film is so understated.)</p>
+        <p>Throughout, Mr. Meyrou makes us aware of the larger world enfolding the Chenus' sadness -- a world that has moved on, though the family never will.</p>
+        <p>MATT ZOLLER SEITZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

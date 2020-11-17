@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Didier Massard</title>
+    <meta content="15gall-4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854665"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFDC153FF936A25755C0A9619C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Didier Massard</hl1>
+      </hedline>
+      <byline class="print_byline">By MARTHA SCHWENDENER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Territories  Julie Saul  535 West 22nd Street, Chelsea  Through June 23</p>
+        <p>When it comes to nature, people are prone to simile. Clouds look like cotton candy; water looks like glass. In Didier Massard's work, nature really is fake.</p>
+      </block>
+      <block class="full_text">
+        <p>Territories  Julie Saul  535 West 22nd Street, Chelsea  Through June 23</p>
+        <p>When it comes to nature, people are prone to simile. Clouds look like cotton candy; water looks like glass. In Didier Massard's work, nature really is fake.</p>
+        <p>Mr. Massard fabricates models in his Paris studio and photographs them, without subsequent digital manipulation. Past show titles (''Artificial Paradise,'' ''Imaginary Journeys'') made the fakery explicit, but here Mr. Massard moves somewhat away from that and considers ''Territories'' (geographical rather than politically defined ones).</p>
+        <p>A mountain towers over a craggy field of blue-white ice in ''Glacier''; trees with pruned branches are set amid a gray wetland in ''The Marsh''; a rock arch frames a total eclipse of the sun in ''The Grotto''; and ''November'' is a gorgeous, double-exposed image of trees caught in an early-season snowstorm.</p>
+        <p>Beautiful and classically -- in the 19th-century sense -- romantic, Mr. Massard's photographs can also feel at times overly mannered and precious. He is a virtuoso image maker, but prone to the kind of naïf, wide-eyed wonder that's become endemic in recent contemporary art. This is particularly true in two underwater images. One features a jellyfish hovering in water cut with rays of light; the other, ''Underwater Garden,'' is planted with seaweed, bobbing sea horses and plastic-looking starfish.</p>
+        <p>Mr. Massard avoids this in ''Rhinoceros,'' a dark, misty photograph that recalls natural history tableaus and images by Dürer or Jean-Baptiste Oudry. ''Territory'' here takes on a darker connotation, of animals defending their turf or intruders altering pristine, primordial landscapes. Here Mr. Massard makes you care about nature, even when it is fake.</p>
+        <p>MARTHA SCHWENDENER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

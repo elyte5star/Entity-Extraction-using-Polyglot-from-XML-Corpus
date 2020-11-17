@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="18open--refer" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855422"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE1DC123FF93BA25755C0A9619C8B63" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Argentine Wins U.S. Open  Ángel Cabrera of Argentina won the United States Open with a final round of 69 in Oakmont, Pa. Tiger Woods, a two-time Open champion, was left to admire Cabrera's trophy when he fell short of forcing a playoff by one shot after missing a birdie putt on the final hole. Jim Furyk, who was trying to win his second United States Open title, tied Woods for second.</p>
+        <p>PAGE D1</p>
+        <p>Yankees Roll Past Mets  Alex Rodriguez hit a two-run homer in the first inning, and the Yankees never looked back in an 8-2 victory over the Mets, their 11th victory in 12 games. The Yankees' starter, Chien-Ming Wang, gave up two runs over eight and two-thirds innings as the teams split their six-game season series.</p>
+        <p>SPORTSMONDAY</p>
+        <p>Reservations on Demand  Restaurants have gone unabashedly high-tech, with more than 7,000 worldwide now taking reservations over the Web.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Parking Fees in Traffic Plan?  The fine print of the mayor's congestion pricing plan suggests that some people may have to pay to park near their own homes.</p>
+        <p>PAGE B1</p>
+        <p>French Conservatives Win  The conservative party of President Nicolas Sarkozy won a solid victory in parliamentary elections, but failed to trounce the Socialist opposition as had been predicted. The Socialists gained 36 seats and Mr. Sarkozy's party lost 45.</p>
+        <p>PAGE A6</p>
+        <p>New Palestinian Government  President Mahmoud Abbas swore in an emergency Palestinian government at his headquarters, as the split between Fatah and Hamas officials deepened. Meanwhile, rockets fired from Lebanon landed in Israel, but caused no casualties.</p>
+        <p>PAGE A3</p>
+        <p>Gianfranco Ferré Dies at 62  The Italian fashion designer, noted for his signature ready-to-wear collection and for opening French haute couture to foreign-born designers, died in Milan.</p>
+        <p>PAGE A17</p>
+        <p>Mostly Tie-Dyed Festival  Although the reunited Police, featuring Sting, right, were one of several headliners from way off the jam-band circuit, the Bonnaroo music festival in Tennessee was, as usual, a basically hippie affair with long hair, peasant dresses and flowers everywhere. A review by Jon Pareles.</p>
+        <p>THE ARTS, PAGE E1</p>
+      </block>
+      <block class="full_text">
+        <p>Argentine Wins U.S. Open  Ángel Cabrera of Argentina won the United States Open with a final round of 69 in Oakmont, Pa. Tiger Woods, a two-time Open champion, was left to admire Cabrera's trophy when he fell short of forcing a playoff by one shot after missing a birdie putt on the final hole. Jim Furyk, who was trying to win his second United States Open title, tied Woods for second.</p>
+        <p>PAGE D1</p>
+        <p>Yankees Roll Past Mets  Alex Rodriguez hit a two-run homer in the first inning, and the Yankees never looked back in an 8-2 victory over the Mets, their 11th victory in 12 games. The Yankees' starter, Chien-Ming Wang, gave up two runs over eight and two-thirds innings as the teams split their six-game season series.</p>
+        <p>SPORTSMONDAY</p>
+        <p>Reservations on Demand  Restaurants have gone unabashedly high-tech, with more than 7,000 worldwide now taking reservations over the Web.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Parking Fees in Traffic Plan?  The fine print of the mayor's congestion pricing plan suggests that some people may have to pay to park near their own homes.</p>
+        <p>PAGE B1</p>
+        <p>French Conservatives Win  The conservative party of President Nicolas Sarkozy won a solid victory in parliamentary elections, but failed to trounce the Socialist opposition as had been predicted. The Socialists gained 36 seats and Mr. Sarkozy's party lost 45.</p>
+        <p>PAGE A6</p>
+        <p>New Palestinian Government  President Mahmoud Abbas swore in an emergency Palestinian government at his headquarters, as the split between Fatah and Hamas officials deepened. Meanwhile, rockets fired from Lebanon landed in Israel, but caused no casualties.</p>
+        <p>PAGE A3</p>
+        <p>Gianfranco Ferré Dies at 62  The Italian fashion designer, noted for his signature ready-to-wear collection and for opening French haute couture to foreign-born designers, died in Milan.</p>
+        <p>PAGE A17</p>
+        <p>Mostly Tie-Dyed Festival  Although the reunited Police, featuring Sting, right, were one of several headliners from way off the jam-band circuit, the Bonnaroo music festival in Tennessee was, as usual, a basically hippie affair with long hair, peasant dresses and flowers everywhere. A review by Jon Pareles.</p>
+        <p>THE ARTS, PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

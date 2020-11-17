@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Broadcasters' Service</title>
+    <meta content="l13airwaves" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854193"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E7DF143FF930A25755C0A9619C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Broadcasters' Service</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Price of Free Airwaves,'' by Michael J. Copps, a Federal Communications commissioner (Op-Ed, June 2), criticizing broadcasters' public service and election coverage, did a disservice to local radio and television stations.</p>
+        <p>Broadcasters go to enormous lengths to fulfill our role as a lifeline during times of crisis. When a child is kidnapped, local stations make the difference between life and death by broadcasting Amber alerts, an initiative launched voluntarily by broadcasters that has resulted in the recovery of more than 250 children nationwide.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Price of Free Airwaves,'' by Michael J. Copps, a Federal Communications commissioner (Op-Ed, June 2), criticizing broadcasters' public service and election coverage, did a disservice to local radio and television stations.</p>
+        <p>Broadcasters go to enormous lengths to fulfill our role as a lifeline during times of crisis. When a child is kidnapped, local stations make the difference between life and death by broadcasting Amber alerts, an initiative launched voluntarily by broadcasters that has resulted in the recovery of more than 250 children nationwide.</p>
+        <p>During catastrophic events, broadcasters are first informers, disseminating critical, often lifesaving information. After disaster strikes, local stations and our network partners spearhead recovery efforts, mobilizing communities through public service announcements and fund-raising drives.</p>
+        <p>Broadcasters also keep voters informed during the campaign season, devoting thousands of hours to news, public affairs, candidate forums and debates. Research by reputable pollsters has found repeatedly that voters believe that TV and radio stations do a good job covering elections.</p>
+        <p>Broadcasters take our role as stewards of the airwaves seriously. We will proudly match our public service commitment against that of any business in America.</p>
+        <p>David K. Rehr  President and Chief Executive  National Assn. of Broadcasters  Washington, June 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

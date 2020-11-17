@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE PENNSYLVANIA KID</title>
+    <meta content="13links-1" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854270"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DE143FF930A25755C0A9619C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE PENNSYLVANIA KID</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Phil Mickelson may be the teddy bear of this United States Open, the player fans cannot help but embrace, but his gallery the first two days figures to be torn between two golfers.</p>
+        <p>One of Mickelson's playing partners, Jim Furyk, grew up outside Lancaster, which is roughly 200 miles from Pittsburgh but near enough for him to be hailed like the boy next door. The Australian Adam Scott will round out the threesome.</p>
+      </block>
+      <block class="full_text">
+        <p>Phil Mickelson may be the teddy bear of this United States Open, the player fans cannot help but embrace, but his gallery the first two days figures to be torn between two golfers.</p>
+        <p>One of Mickelson's playing partners, Jim Furyk, grew up outside Lancaster, which is roughly 200 miles from Pittsburgh but near enough for him to be hailed like the boy next door. The Australian Adam Scott will round out the threesome.</p>
+        <p>''It's the Pennsylvania Kid!'' yelled one fan as Furyk, the 2003 Open champion, negotiated a long receiving line on his way from the putting green to the clubhouse after practicing Tuesday. Nearly every other person holding a hat or photo for him to sign made some mention of his Pennsylvania roots.</p>
+        <p>Asked how many tournament passes he managed to procure for family members and friends, Furyk laughed and said, ''A lot.''</p>
+        <p>The last time the Open was at Oakmont, in 1994, Furyk was a 24-year-old Tour rookie playing in his first major. He finished in a tie for 28th, and emerged from the experience with two indelible memories: the satisfaction of playing his first major in front of an extended family of Pennsylvanians and the severity of Oakmont's greens.</p>
+        <p>Thirteen years later, Furyk returns as one of the favorites. In 13 events he has two top-three finishes and is coming off a playoff loss to Rory Sabbatini at the Colonial.</p>
+        <p>Furyk, 37, may be a different golfer than he was in 1994, but the course, from what he has seen, has not changed much.</p>
+        <p>''The greens are pretty much the same as they were,'' said Furyk, who lives outside Jacksonville, Fla. ''They added a little bit of length,'' he added, referring in particular to the par-3 eighth, which has been stretched to 288 yards, ''but so has everyone else in that time.''</p>
+        <p>In the last four Opens, Furyk has ranked no worse than eighth in fairways hit, and he has usually been near the leaders in greens in regulation. He hopes to play true to that form this week, because the bunkers have been made into real hazards.</p>
+        <p>''The bunkers are a huge change from what they were,'' Furyk said. ''They're very, very deep and very severe. I think playability wise, that's the biggest change in the golf course over the years.''</p>
+        <p>KAREN CROUSE</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Irvine Wins the Longest Series Game</title>
+    <meta content="19colleges" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/sports/baseball/19colleges.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855545"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="COLLEGE WORLD SERIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">College World Series</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3DF133FF93AA25755C0A9619C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Irvine Wins the Longest Series Game</hl1>
+        <hl2 class="online_headline">Irvine Holds on in Longest Series Game</hl2>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+      <dateline>OMAHA, June 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bryan Petersen ended the longest game in College World Series history with a run-scoring single in the bottom of the 13th inning, giving California-Irvine a 5-4 victory Monday against Cal State Fullerton in an elimination game.</p>
+        <p>The 5-hour-40-minute game beat the old Series mark by 40 minutes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Bryan Petersen ended the longest game in College World Series history with a run-scoring single in the bottom of the 13th inning, giving California-Irvine a 5-4 victory against Cal State Fullerton.</p>
+      </block>
+      <block class="full_text">
+        <p>Bryan Petersen ended the longest game in College World Series history with a run-scoring single in the bottom of the 13th inning, giving California-Irvine a 5-4 victory Monday against Cal State Fullerton in an elimination game.</p>
+        <p>The 5-hour-40-minute game beat the old Series mark by 40 minutes.</p>
+        <p>Petersen's winning hit came after Fullerton left fielder Josh Fellhauer threw out Taylor Holiday at home plate.</p>
+        <p>California-Irvine (46-16-1), making its first Series appearance, advances to a game Tuesday against the loser of Monday night's game between Arizona State and Oregon State. Fullerton (38-25) went two games and out at the series for the first time in nine appearances since 1990.</p>
+        <p>Despite making six errors, California-Irvine came back three times to tie the score before taking the lead in a tense 13th, in which Fullerton Coach George Horton was ejected for arguing a hit-batsman call. There were eight hit batters in the game.</p>
+        <p>The previous longest game was in 1981, when Oklahoma State needed five hours to defeat Arizona State, 11-10, in 13 innings.</p>
+        <p>Oregon State defeated fifth-ranked Arizona State, 12-6, in the delayed second game.</p>
+        <p>Beavers left fielder Mike Lissman drove in four runs, including a three-run homer in the second inning. Second baseman Joey Wong also drove in three runs.</p>
+        <p>Pitcher Michael Stutes allowed four runs, three hits and five walks in six and a third innings.</p>
+        <p>COLLEGE WORLD SERIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridgid Curry, Amos Presler</title>
+    <meta content="03CURRY" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03CURRY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851871"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Curry, Bridgid Theresa</person>
+        <person class="indexing_service">Presler, Amos Hargrave</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E6DA1230F930A35755C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridgid Curry, Amos Presler</hl1>
+        <hl2 class="online_headline">Bridgid Curry and Amos Presler</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bridgid Theresa Curry, a daughter of Anne B. Curry and Dr. Thomas A. Curry of Pottsville, Pa., was married yesterday to Amos Hargrave Presler, a son of the Rev. Jane Butterfield Presler and the Rev. Dr. Titus L. Presler of New York. The Rev. Michael Stone performed the ceremony at St. Ambrose Roman Catholic Church in Schuylkill Haven, Pa., with the bridegroom's father taking part.</p>
+        <p>The bride, 27, will keep her name. In August, she is to become a presidential management fellow and a regulatory analyst at the Environmental Protection Agency in Washington, where she will examine the effectiveness of environmental regulations. She graduated from Notre Dame and received two master's degrees from Yale, one in public health and the other in environmental management.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday at St. Ambrose Roman Catholic Church in Schuylkill Haven, Pa., with the bridegroom’s father taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Bridgid Theresa Curry, a daughter of Anne B. Curry and Dr. Thomas A. Curry of Pottsville, Pa., was married yesterday to Amos Hargrave Presler, a son of the Rev. Jane Butterfield Presler and the Rev. Dr. Titus L. Presler of New York. The Rev. Michael Stone performed the ceremony at St. Ambrose Roman Catholic Church in Schuylkill Haven, Pa., with the bridegroom's father taking part.</p>
+        <p>The bride, 27, will keep her name. In August, she is to become a presidential management fellow and a regulatory analyst at the Environmental Protection Agency in Washington, where she will examine the effectiveness of environmental regulations. She graduated from Notre Dame and received two master's degrees from Yale, one in public health and the other in environmental management.</p>
+        <p>Her father, a pediatrician, is a medical director in Schuylkill Haven for Blue Cross of Northeastern Pennsylvania. Her mother is the principal of St. Ambrose School, a grammar school, also in Schuylkill Haven.</p>
+        <p>The bridegroom, 25, is a researcher and consultant on public health and corporate accountability for Never Again Consulting, a company in Attleboro, Mass., that provides advice on public health litigation matters. In August, he will begin studying for a law degree at American University. He graduated from Boston University.</p>
+        <p>His mother is the interim rector at Grace Episcopal Church in White Plains. His father is the vice president for academic affairs and the professor of mission and world Christianity at General Theological Seminary in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

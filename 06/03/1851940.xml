@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Borough Is Not a Parking Lot</title>
+    <meta content="l03city-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851940"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Tolls</classifier>
+        <classifier class="indexing_service" type="descriptor">Parking</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Farley, Peter J 3d</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tolls</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DF1030F930A35755C0A9619C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Borough Is Not a Parking Lot</hl1>
+      </hedline>
+      <abstract>
+        <p>Peter J Farley 3d letter on May 27 article about parking, air pollution and congestion pricing in New York City</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Parking, Pollution and the Pricing Zone'' (May 27), three letter writers comment on the congestion-pricing plan for city traffic. One writer assumes that most drivers will not troll for scarce curbside space in neighborhoods outside the pricing zone. The reality is that people already use outer-borough neighborhoods like mine as park-'n'-ride locations.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Parking, Pollution and the Pricing Zone'' (May 27), three letter writers comment on the congestion-pricing plan for city traffic. One writer assumes that most drivers will not troll for scarce curbside space in neighborhoods outside the pricing zone. The reality is that people already use outer-borough neighborhoods like mine as park-'n'-ride locations.</p>
+        <p>There are legitimate ''outsiders'' (students, service workers and so on) who already come to park in borough neighborhoods with few or no parking garages. Are they all supposed to receive ''resident alien'' parking stickers or placards, too? How soon before fraudulent copies are being sold by unscrupulous entrepreneurs?</p>
+        <p>Another writer complains that the parking spaces predicted for the Atlantic Yards project in Brooklyn will be used to avoid congestion pricing for Manhattan. The reality will more likely be that those few spaces will be vastly over-subscribed by market-rate residents of the 6,000 new housing units that will be constructed there.</p>
+        <p>The third writer refers to ''scientific studies'' offering ''strong evidence'' that congestion pricing will ''reduce traffic and health problems.'' But what other major city in the world consists primarily of a barely connected series of islands? I highly doubt the applicability of studies of cities topographically very different than ours.</p>
+        <p>Congestion pricing is an idea whose time should never come to New York.</p>
+        <p>Peter J. Farley III  Clinton Hill, Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Man Sentenced For Killing Bridge Painter</title>
+    <meta content="13mbrfs-6" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854267"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E2DE143FF930A25755C0A9619C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Man Sentenced For Killing Bridge Painter</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A homeless man was sentenced yesterday to 23 years in prison for fatally shooting a bridge painter who asked him to move his belongings from a Grand Central Parkway overpass during a painting job in November 2004, prosecutors said. The man, Steven Boyd, 47, pleaded guilty to manslaughter on May 7, said Richard A. Brown, the Queens district attorney. Mr. Boyd admitted that when the painter, James Gaviglia, 38, of Middle Village, asked him to move his makeshift shelter from an overpass in Corona, he shot him repeatedly with a pistol, then lit a cigar and waited for the police, Mr. Brown said.</p>
+      </block>
+      <block class="full_text">
+        <p>A homeless man was sentenced yesterday to 23 years in prison for fatally shooting a bridge painter who asked him to move his belongings from a Grand Central Parkway overpass during a painting job in November 2004, prosecutors said. The man, Steven Boyd, 47, pleaded guilty to manslaughter on May 7, said Richard A. Brown, the Queens district attorney. Mr. Boyd admitted that when the painter, James Gaviglia, 38, of Middle Village, asked him to move his makeshift shelter from an overpass in Corona, he shot him repeatedly with a pistol, then lit a cigar and waited for the police, Mr. Brown said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

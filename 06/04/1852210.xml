@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bloomberg's Slow-Moving Plan</title>
+    <meta content="04empire-3" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852210"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E3DD1130F937A35755C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bloomberg's Slow-Moving Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Real Estate Board of New York will start running television commercials today in support of Mayor Michael R. Bloomberg's long-range environmental plan, which includes a proposal to charge fees to drive below 86th Street during peak hours.</p>
+        <p>''This is obviously something the industry is concerned about, how the city works in 2010 and 2020 and 2030,'' said Frank Marino, a spokesman for the board.</p>
+      </block>
+      <block class="full_text">
+        <p>The Real Estate Board of New York will start running television commercials today in support of Mayor Michael R. Bloomberg's long-range environmental plan, which includes a proposal to charge fees to drive below 86th Street during peak hours.</p>
+        <p>''This is obviously something the industry is concerned about, how the city works in 2010 and 2020 and 2030,'' said Frank Marino, a spokesman for the board.</p>
+        <p>In Albany, the proposal continues to creep along. Last week, Deputy Mayor Kevin Sheekey was in town to tout the plan, while Mr. Bruno, who has not yet endorsed it, prodded the governor to begin more open consideration of it. Mr. Spitzer called it ''a theoretically wise move'' but said, ''Implementation is a very complicated matter.''</p>
+        <p>Assembly officials said they would hold a hearing on Friday about the proposal.</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

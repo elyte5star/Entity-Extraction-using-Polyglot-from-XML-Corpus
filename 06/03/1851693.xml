@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Heroic, the Hermetic and the Honky-Tonk</title>
+    <meta content="03play" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/arts/music/03play.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851693"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PLAYLIST"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Playlist</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rock Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">James, Rick</person>
+        <person class="online_producer">O'Rourke, Jim</person>
+        <person class="online_producer">Takemitsu, Toru</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DB1430F930A35755C0A9619C8B63" item-length="858" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Heroic, the Hermetic and the Honky-Tonk</hl1>
+        <hl2 class="online_headline">The Heroic, the Hermetic and the Honky-Tonk</hl2>
+      </hedline>
+      <byline class="print_byline">By Ben Ratliff</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff reviews seven new CD's; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Erol Josué</p>
+        <p>A Haitian singer-songwriter and a recent arrival to New York, Erol Josué has an obsession similar to that of some of his best Brazilian and Cuban contemporaries: connecting the ancient and the future, urban and country, the old and new world in one ball of modernity. On ''Régléman''(Mi5), his first album, Mr. Josué engages in what he calls ''electro-vodou,'' which means juxtaposing voodoo-ritual chants with synthesizer tones, overdriven thumb-piano riffs, Afro-funk guitar rhythm, echoey textures. And yet these tracks are all sturdy at the center, folk songs with messages about exile, ecology and the persistence of cultural memory.</p>
+        <p>Rick James</p>
+        <p>He of the sinister funk etc. was also a hippie. The great payoff of ''Deeper Still'' (Stone City), Rick James's posthumous album, is a slow-jam cover of ''Guinnevere,'' the David Crosby song. This is not the first time someone hard-headed has tried it; check out Miles Davis's instrumental version from 1970. But Mr. James alters the hippie solemnity of the song, grounding it in an exaggerated but quite beautiful lothario croon. The lyrics tell us that she has green eyes and golden hair, but Mr. James's delivery fleshes her out, making her seem more like someone you don't bring home to mother.</p>
+        <p>Jim O'Rourke</p>
+        <p>A year and a half ago, apparently tired of making records, Jim O'Rourke left the United States for Japan. He had been a member of Sonic Youth and a producer or mixer on some of the better indie-rock albums of the last 10 years. But already here's something new and substantial: ''Corona: Tokyo Realization'' (Columbia Japan), Mr. O'Rourke's recording of Toru Takemitsu's 1962 composition ''Corona for Pianists.'' Mr. Takemitsu rendered his notation on five circular, colored, transparent-plastic score sheets, indicating not only pitches, but also drones of great duration and inside-the-piano techniques like sliding wood and rubber across the strings. Mr. O'Rourke took the title to mean that other keyboard instruments were welcome too, so he has recorded it with acoustic piano, Fender Rhodes electric piano and the warm hum of a Hammond organ. This version is spacious and careful, tempered by the calming ministrations of organ chords but pocked with moments of sudden furious attack. Mr. O'Rourke finesses each gesture, disciplining the flux of instruments and, partly through overdubbing and production, controlling the shape of each sound.</p>
+        <p>The Rodriguez Brothers</p>
+        <p>The pianist Robert Rodriguez and the trumpet player Michael Rodriguez, young musicians living in New York, have joined the pile of jazz players to keep an eye on. The post-bop on ''Conversations'' (Savant) is a little straightforward, but there's no mistaking the sparks. Robert crunches and fragments harmony when soloing in fast tunes. Michael has an innate understanding of how to play the thicker-sounding fluegelhorn on slow songs (''Lerida,'' ''Conversations'') while keeping them tense.</p>
+        <p>Art Pepper</p>
+        <p>Laurie Pepper, the widow of the great jazz saxophonist Art Pepper, has started putting out some of his excellent unreleased recordings on her label, Widow's Taste (straightlife.info). The first two volumes of ''Unreleased Art'' are concerts from near the end of Mr. Pepper's life: ''The Complete Abashiri Concert,'' from Japan in 1981, and his final show, at the Kennedy Center in 1982. I prefer the first, but both are fascinating reminders of how different the jazz mainstream sounded then. Not just Mr. Pepper, with his sharpish tone and voluminous outpouring. (He had a late-career fascination with John Coltrane, and his playing took on a kind of compulsively self-revealing aspect.) I mean everyone in the quartet: the pianist George Cables, the bassist David Williams and the drummer Carl Burnett. Saxophone notes fly, piano chords are dense, cymbal sounds carpet the rhythm. Jazz was still in the era of the heroic statement.</p>
+        <p>Opsvik &amp; Jennings</p>
+        <p>Here's a report from the era of the tiny statement in jazz, ''Commuter Anthems'' (Rune Grammofon), the second album from the duo of Eivind Opsvik and Aaron Jennings. Mr. Opsvik is an excellent young Norwegian jazz bassist who has been playing in New York since 1998, and Mr. Jennings is a more all-over-the-place kind of musician. They make small, shrewd and catchy songs, using Americana signifiers like banjo and lap-steel guitar alongside the gurgle and crunch of laptop electronics. They're tidy and sweet, calling attention to their design, but they don't want to be understood too easily.</p>
+        <p>Porter Wagoner</p>
+        <p>Among the recent rehydrations of aging and wizened honky-tonk singers, ''Wagonmaster'' (Anti- ) is one of the best. Mr. Wagoner's voice was never that lithe to begin with, so it sounds natural at 79, and his centered charisma remains intact. The production is taut, the urge to trot out the old hits resisted; it's been done up right by Marty Stuart, a Nashville insider who knows his history. As a songwriter Mr. Wagoner has long been fascinated, in an almost clinical way, with how the mind can unravel in grief or because of addiction. This is why he makes most of alternative-country seem unnecessary, and why he can still sing songs about paranoid delusions (''Committed to Parkview,'' ''Be a Little Quieter'') while, on the face of things, being pretty together himself.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Reviews of new releases by Erol Josué, Rick James, Jim O’Rourke, the Rodriguez Brothers, Art Pepper, Opsvik &amp; Jennings and Porter Wagoner.</p>
+      </block>
+      <block class="full_text">
+        <p>Erol Josué</p>
+        <p>A Haitian singer-songwriter and a recent arrival to New York, Erol Josué has an obsession similar to that of some of his best Brazilian and Cuban contemporaries: connecting the ancient and the future, urban and country, the old and new world in one ball of modernity. On ''Régléman''(Mi5), his first album, Mr. Josué engages in what he calls ''electro-vodou,'' which means juxtaposing voodoo-ritual chants with synthesizer tones, overdriven thumb-piano riffs, Afro-funk guitar rhythm, echoey textures. And yet these tracks are all sturdy at the center, folk songs with messages about exile, ecology and the persistence of cultural memory.</p>
+        <p>Rick James</p>
+        <p>He of the sinister funk etc. was also a hippie. The great payoff of ''Deeper Still'' (Stone City), Rick James's posthumous album, is a slow-jam cover of ''Guinnevere,'' the David Crosby song. This is not the first time someone hard-headed has tried it; check out Miles Davis's instrumental version from 1970. But Mr. James alters the hippie solemnity of the song, grounding it in an exaggerated but quite beautiful lothario croon. The lyrics tell us that she has green eyes and golden hair, but Mr. James's delivery fleshes her out, making her seem more like someone you don't bring home to mother.</p>
+        <p>Jim O'Rourke</p>
+        <p>A year and a half ago, apparently tired of making records, Jim O'Rourke left the United States for Japan. He had been a member of Sonic Youth and a producer or mixer on some of the better indie-rock albums of the last 10 years. But already here's something new and substantial: ''Corona: Tokyo Realization'' (Columbia Japan), Mr. O'Rourke's recording of Toru Takemitsu's 1962 composition ''Corona for Pianists.'' Mr. Takemitsu rendered his notation on five circular, colored, transparent-plastic score sheets, indicating not only pitches, but also drones of great duration and inside-the-piano techniques like sliding wood and rubber across the strings. Mr. O'Rourke took the title to mean that other keyboard instruments were welcome too, so he has recorded it with acoustic piano, Fender Rhodes electric piano and the warm hum of a Hammond organ. This version is spacious and careful, tempered by the calming ministrations of organ chords but pocked with moments of sudden furious attack. Mr. O'Rourke finesses each gesture, disciplining the flux of instruments and, partly through overdubbing and production, controlling the shape of each sound.</p>
+        <p>The Rodriguez Brothers</p>
+        <p>The pianist Robert Rodriguez and the trumpet player Michael Rodriguez, young musicians living in New York, have joined the pile of jazz players to keep an eye on. The post-bop on ''Conversations'' (Savant) is a little straightforward, but there's no mistaking the sparks. Robert crunches and fragments harmony when soloing in fast tunes. Michael has an innate understanding of how to play the thicker-sounding fluegelhorn on slow songs (''Lerida,'' ''Conversations'') while keeping them tense.</p>
+        <p>Art Pepper</p>
+        <p>Laurie Pepper, the widow of the great jazz saxophonist Art Pepper, has started putting out some of his excellent unreleased recordings on her label, Widow's Taste (straightlife.info). The first two volumes of ''Unreleased Art'' are concerts from near the end of Mr. Pepper's life: ''The Complete Abashiri Concert,'' from Japan in 1981, and his final show, at the Kennedy Center in 1982. I prefer the first, but both are fascinating reminders of how different the jazz mainstream sounded then. Not just Mr. Pepper, with his sharpish tone and voluminous outpouring. (He had a late-career fascination with John Coltrane, and his playing took on a kind of compulsively self-revealing aspect.) I mean everyone in the quartet: the pianist George Cables, the bassist David Williams and the drummer Carl Burnett. Saxophone notes fly, piano chords are dense, cymbal sounds carpet the rhythm. Jazz was still in the era of the heroic statement.</p>
+        <p>Opsvik &amp; Jennings</p>
+        <p>Here's a report from the era of the tiny statement in jazz, ''Commuter Anthems'' (Rune Grammofon), the second album from the duo of Eivind Opsvik and Aaron Jennings. Mr. Opsvik is an excellent young Norwegian jazz bassist who has been playing in New York since 1998, and Mr. Jennings is a more all-over-the-place kind of musician. They make small, shrewd and catchy songs, using Americana signifiers like banjo and lap-steel guitar alongside the gurgle and crunch of laptop electronics. They're tidy and sweet, calling attention to their design, but they don't want to be understood too easily.</p>
+        <p>Porter Wagoner</p>
+        <p>Among the recent rehydrations of aging and wizened honky-tonk singers, ''Wagonmaster'' (Anti- ) is one of the best. Mr. Wagoner's voice was never that lithe to begin with, so it sounds natural at 79, and his centered charisma remains intact. The production is taut, the urge to trot out the old hits resisted; it's been done up right by Marty Stuart, a Nashville insider who knows his history. As a songwriter Mr. Wagoner has long been fascinated, in an almost clinical way, with how the mind can unravel in grief or because of addiction. This is why he makes most of alternative-country seem unnecessary, and why he can still sing songs about paranoid delusions (''Committed to Parkview,'' ''Be a Little Quieter'') while, on the face of things, being pretty together himself.  PLAYLIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

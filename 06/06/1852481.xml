@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Charles Evans, 81, a Founder Of Evan-Picone Fashion Line</title>
+    <meta content="06evans" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/business/06evans.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852481"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Fashion Design</classifier>
+        <classifier class="indexing_service" type="names">Charles Evans</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <person class="online_producer">Evans, Charles</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1DF1E30F935A35755C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Charles Evans, 81, a Founder Of Evan-Picone Fashion Line</hl1>
+        <hl2 class="online_headline">Charles Evans, 81, a Founder of Fashion Line, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA H. DEUTSCH</byline>
+      <byline class="normalized_byline">Deutsch, Claudia H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Charles Evans, a founder of the fashion house Evan-Picone and who was also executive producer of the film ''Tootsie,'' died Saturday in Manhattan. He was 81.</p>
+        <p>The cause was complications of pneumonia, his sister, Alice Shure, said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Charles Evans was a founder of the fashion house Evan-Picone and was also executive producer of the film “Tootsie.”</p>
+      </block>
+      <block class="full_text">
+        <p>Charles Evans, a founder of the fashion house Evan-Picone and who was also executive producer of the film ''Tootsie,'' died Saturday in Manhattan. He was 81.</p>
+        <p>The cause was complications of pneumonia, his sister, Alice Shure, said.</p>
+        <p>Mr. Evans, a native New Yorker, served in the United States Army until 1946, when he became a salesman in an aunt's clothing store. He held the idea that fly fronts would work as well on women's skirts as they did on men's trousers. So he asked his father's tailor, Joseph Picone, to create a sample from his designs. In 1949, the two formed Evan-Picone -- the name seemed more pronounceable without the ''s'' on Evans -- which became a highly successful manufacturer of women's sportswear.</p>
+        <p>Revlon bought the company in 1962, and Mr. Evans and his brother-in-law, Michael Shure, formed the Evans Partnership, a commercial real estate firm.</p>
+        <p>His brother, Robert, took a different creative route: he was a producer of ''Chinatown,'' ''Urban Cowboy'' and other successful movies and ran the Paramount studio.</p>
+        <p>In 1981, Charles Evans tried the movie business as well, buying the screenplay for ''Tootsie.'' The film, which starred Dustin Hoffman, was widely acclaimed, and its success spurred him to produce other films.</p>
+        <p>In the late 1990s, after his third marriage ended in divorce, Mr. Evans met Bonnie L. Pfeifer, a former model who is now a prominent philanthropist. They were married in January 2005.</p>
+        <p>In addition to Ms. Pfeifer and his brother and sister, Mr. Evans is survived by his son, Charles Jr., a granddaughter and three nephews.</p>
+        <p>Mr. Evans turned personal sadness into philanthropic causes. When his father developed Alzheimer's disease in the late 1960s, Mr. Evans made large donations to Alzheimer's research and eventually became national director of the Alzheimer's Association.</p>
+        <p>In 1975, his former wife, Frances, and their two daughters, Elizabeth and Melissa, died in a fire caused by errant ashes from their fireplace. Mr. Evans created the Crusade for Fire Detection, aimed at educating the public on the need for fire detectors and lobbying for laws to make them mandatory. Ms. Shure recalled that he also sent out hundreds of fire detectors as gifts.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

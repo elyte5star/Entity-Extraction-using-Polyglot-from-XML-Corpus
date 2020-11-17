@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mental Health in Prisons</title>
+    <meta content="11mon4" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/opinion/11mon4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853780"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5DE173FF932A25755C0A9619C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mental Health in Prisons</hl1>
+        <hl2 class="online_headline">Mental Health in Prisons</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says New York State Legislature set important national example when it passed bill that would dramatically improve treatment for mentally ill prison inmates; calls on Gov Eliot Spitzer to stop trying to change it and sign it into law</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York State Legislature set an important national example when it passed a bill that would dramatically improve treatment for mentally ill prison inmates. Gov. Eliot Spitzer seems to regard the bill as unnecessary and tried to head it off by making changes of his own earlier this spring. But Mr. Spitzer's tinkering is no substitute for the thoroughgoing reforms in this bill, which would end once and for all the horrific maltreatment and neglect that mentally ill inmates suffer in New York.</p>
+        <p>The impetus for these changes came from a study by the Correctional Association of New York, which monitors prison conditions. It found that mentally ill inmates who failed to understand basic commands were undermining prison security by getting in fights and serving longer, harder sentences for rule breaking. They were disproportionately held in disciplinary lockdown and often in solitary confinement. The inmates suffered worsening symptoms in isolation, and 4 out of 10 reported self-mutilation or attempted suicide.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Eliot Spitzer should sign the New York State Legislature’s prison mental health bill into law.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York State Legislature set an important national example when it passed a bill that would dramatically improve treatment for mentally ill prison inmates. Gov. Eliot Spitzer seems to regard the bill as unnecessary and tried to head it off by making changes of his own earlier this spring. But Mr. Spitzer's tinkering is no substitute for the thoroughgoing reforms in this bill, which would end once and for all the horrific maltreatment and neglect that mentally ill inmates suffer in New York.</p>
+        <p>The impetus for these changes came from a study by the Correctional Association of New York, which monitors prison conditions. It found that mentally ill inmates who failed to understand basic commands were undermining prison security by getting in fights and serving longer, harder sentences for rule breaking. They were disproportionately held in disciplinary lockdown and often in solitary confinement. The inmates suffered worsening symptoms in isolation, and 4 out of 10 reported self-mutilation or attempted suicide.</p>
+        <p>In April, Governor Spitzer proposed settling a lawsuit brought on behalf of these inmates by dialing back confinement slightly and by improving somewhat the care and monitoring of those with severe illness. The Legislature understands, however, that mentally ill people belong in treatment, not in solitary confinement.</p>
+        <p>The prison mental health bill would in fact outlaw solitary confinement for those with serious mental illnesses. It would also require the prison system to expand mental health treatment programs, provide the corrections staff with better training and give mental health professionals more say in deciding treatment options.</p>
+        <p>Some critics argue that this would be too costly. But legislators counter that the program would pay for itself by reducing prison violence, shortening inmate stays -- and making it more likely that mentally ill inmates would remain out of prison once released. The Legislature's is the stronger argument. Governor Spitzer should sign this bill into law.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

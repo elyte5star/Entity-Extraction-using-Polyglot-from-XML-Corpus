@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.E. and Pearson Are Said To Study Bid for Dow Jones</title>
+    <meta content="18dow" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/media/18dow.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855437"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Wall Street Journal</org>
+        <org class="online_producer">News Corporation Limited</org>
+        <org class="online_producer">General Electric Co</org>
+        <org class="online_producer">Financial Times</org>
+        <org class="online_producer">National Broadcasting Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDC123FF93BA25755C0A9619C8B63" item-length="601" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.E. and Pearson Are Said To Study Bid for Dow Jones</hl1>
+        <hl2 class="online_headline">G.E. and Pearson Are Said to Study Bid for Dow Jones</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD P�REZ-PE�A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The General Electric Company, the parent of NBC, and Pearson, the publisher of The Financial Times, are exploring a joint bid for Dow Jones &amp; Company to rival an offer made by the News Corporation, people familiar with the talks said yesterday.</p>
+        <p>If such a bid were made and accepted, it would create a financial news powerhouse combining The Wall Street Journal, CNBC, The Financial Times and Dow Jones Newswires.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The General Electric Company and Pearson are exploring a joint bid for Dow Jones &amp; Company, people familiar with the talks said.</p>
+      </block>
+      <block class="full_text">
+        <p>The General Electric Company, the parent of NBC, and Pearson, the publisher of The Financial Times, are exploring a joint bid for Dow Jones &amp; Company to rival an offer made by the News Corporation, people familiar with the talks said yesterday.</p>
+        <p>If such a bid were made and accepted, it would create a financial news powerhouse combining The Wall Street Journal, CNBC, The Financial Times and Dow Jones Newswires.</p>
+        <p>Pearson took the lead weeks ago by shopping for partners to make an offer for Dow Jones, and Jeffrey R. Immelt, G.E.'s chairman and chief executive, has taken a serious interest in the possibility, these people said.</p>
+        <p>But some executives with the companies involved cautioned that the talks were preliminary and that no real exploration of the financials of such a deal had taken place. They also said that matching the $60-a-share offer by the News Corporation was, as one said, ''a very high threshold.''</p>
+        <p>Even so, people with knowledge of the talks said that Jeff Zucker, chief executive of NBC Universal -- the G.E. unit that includes CNBC -- and Mark Hoffman, president of CNBC, who were scheduled to attend a conference in London today, instead stayed behind at least partly because of the talks with Pearson.</p>
+        <p>Newsroom employees at Dow Jones have hoped for a rival bidder, predicting that Rupert Murdoch, who controls the News Corporation, would not invest in the serious journalism that The Journal and the company's other properties have been known for.</p>
+        <p>But a person with knowledge of the Pearson-G.E. talks noted that a deal with those companies might not be to the journalists' liking, either, because it offers more opportunities to cut jobs by eliminating overlapping functions. The Financial Times, The Journal, the newswires and CNBC often have reporters and editors doing much the same work -- in some cases, in bureaus in Asia and Europe that are expensive to run.</p>
+        <p>In addition to the strategic advantages of joining forces with Dow Jones and The Journal -- two of the most respected names in business journalism -- a deal would have defensive value for Pearson and G.E. The News Corporation plans to start a business news channel on cable to compete with CNBC, and analysts predict that Mr. Murdoch would try to use The Journal to crush The Financial Times, its much smaller rival.</p>
+        <p>The Bancroft family, owners of a controlling stake in Dow Jones for more than a century, are looking seriously at Mr. Murdoch's offer, but many family members have voiced a distaste for the tabloid-style journalism his company is best known for. They have been trying to draft a deal that would restrict the News Corporation's control over the news and editorial arms of The Journal and the newswires. Family advisers have even suggested that they might accept a lower offer from a buyer they consider more reputable.</p>
+        <p>One version of a deal that is being explored by Pearson and G.E. would group the financial news operations -- including Barron's and The Economist, which is partly owned by Pearson -- into a new corporate entity, owned primarily by those two companies, with the Bancrofts holding a minority stake, perhaps as much as 20 percent. Some of the Bancrofts say that family elders who control most of the stock in Dow Jones would prefer a stock swap to an all-cash deal, to avoid a big tax liability.</p>
+        <p>But as with other elements of the talks, officials cautioned that that arrangement is one of many possible outcomes.</p>
+        <p>Last month, G.E. approached Microsoft about making a bid for Dow Jones, but the software giant said it was not interested.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

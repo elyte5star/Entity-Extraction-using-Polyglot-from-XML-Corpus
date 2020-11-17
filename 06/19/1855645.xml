@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Endangered After-School Programs</title>
+    <meta content="19tue3" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/opinion/19tue3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855645"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="EDITORIAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Education Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E2DE133FF93AA25755C0A9619C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Endangered After-School Programs</hl1>
+        <hl2 class="online_headline">Endangered After-School Programs</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial urges New York Gov Eliot Spitzer and New York City Mayor Michael Bloomberg to help save endangered state and city after-school programs, which some link to higher test scores and attendance; scores Bush administration and Congress for failing to provide sufficient funds for after-school programs for poor children; says New York needs to streamline after-school financing for long term</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was just a few years ago that New York got serious about expanding high quality after-school programs that complement classroom learning with academic, arts, sports and other meaningful activities. Participation has risen steadily, and the programs have gotten high marks. Many school officials see a link between these after-school activities and improvements in test scores and attendance, reduced dropout rates and college enrollment.</p>
+        <p>This progress, however, is now threatened. More than 200 after-school programs serving kindergarteners through high-school students will have to drastically reduce operations or close unless $30 million can be raised before September. In New York City, the fate of 118 after-school programs, serving almost 20,000 children, is up in the air.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Eliot Spitzer should use the summer to forge a solution on financing for after-school programs.</p>
+      </block>
+      <block class="full_text">
+        <p>It was just a few years ago that New York got serious about expanding high quality after-school programs that complement classroom learning with academic, arts, sports and other meaningful activities. Participation has risen steadily, and the programs have gotten high marks. Many school officials see a link between these after-school activities and improvements in test scores and attendance, reduced dropout rates and college enrollment.</p>
+        <p>This progress, however, is now threatened. More than 200 after-school programs serving kindergarteners through high-school students will have to drastically reduce operations or close unless $30 million can be raised before September. In New York City, the fate of 118 after-school programs, serving almost 20,000 children, is up in the air.</p>
+        <p>The programs run on federal, state and city money and private donations. But the Bush administration and Congress failed to provide all the money authorized under the No Child Left Behind Act for after-school activities aimed at poor children. The state Education Department seems to have made commitments based on overly optimistic projections of federal money, and in February, it told after-school providers that grants they had received for four and a half years would not be renewed.</p>
+        <p>The State Legislature has allocated $7.5 million to help fill the money gap and allow the programs to remain open while officials look for money elsewhere. It may be unrealistic to think the crisis can be addressed in the couple of days before lawmakers go home. But Gov. Spitzer, who has been uncharacteristically reticent on this issue, should use the summer to forge a solution with Mayor Bloomberg and officials from other affected localities.</p>
+        <p>In the long term, the state's complex financing structure for after-school programs, plainly needs streamlining.</p>
+        <p>EDITORIAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

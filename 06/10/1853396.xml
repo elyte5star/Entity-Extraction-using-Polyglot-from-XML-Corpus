@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.B.I. Crime Report For Bridgeport Is Mixed</title>
+    <meta content="10weekctCN-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853396"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <location class="indexing_service">Bridgeport (Conn)</location>
+        <location class="indexing_service">Hartford (Conn)</location>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Holtz, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/Hartford</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E6D8163FF933A25755C0A9619C8B63" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.B.I. Crime Report For Bridgeport Is Mixed</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF HOLTZ</byline>
+      <byline class="normalized_byline">Holtz, Jeff</byline>
+      <abstract>
+        <p>Preliminary FBI crime report for 2006 shows violent crimes rose in Bridgeport, Conn, by one, to 1,509, but murder rate rose nearly 50 percent, to 28; violent crimes in Hartford increased 9 percent, to 1,590; numbers for other cities noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There were mixed results for the state's largest cities in the F.B.I.'s preliminary crime report for 2006, released last Monday.</p>
+        <p>In Bridgeport, there were 1,509 violent crimes reported last year, one more than in 2005. But the murder rate rose nearly 50 percent, with 28 slayings, nine more than in 2005. There were also four more rapes (69, from 65) and 11 more robberies (659, from 648). Categories that fell included assaults (down 23, to 753), burglaries (down 21, to 1,362) and auto thefts (down 58, to 1,225).</p>
+      </block>
+      <block class="full_text">
+        <p>There were mixed results for the state's largest cities in the F.B.I.'s preliminary crime report for 2006, released last Monday.</p>
+        <p>In Bridgeport, there were 1,509 violent crimes reported last year, one more than in 2005. But the murder rate rose nearly 50 percent, with 28 slayings, nine more than in 2005. There were also four more rapes (69, from 65) and 11 more robberies (659, from 648). Categories that fell included assaults (down 23, to 753), burglaries (down 21, to 1,362) and auto thefts (down 58, to 1,225).</p>
+        <p>In Hartford, violent crimes increased 9 percent (to 1,590, from 1,442 in 2005), mostly on an increase in robberies (up 66, to 758) and assaults (up 82, to 761); there was one less murder (24) and one more rape (47). Burglaries dropped 17 percent (1,158, from 1,398) and auto thefts fell 8 percent (1,709, from 1,860).</p>
+        <p>In Waterbury, violent crimes fell nearly 6 percent (408, from 434 in 2005), despite one more murder (7) and seven more rapes (39). There were two more robberies (216) and three more auto thefts (620). Assaults, however, dropped nearly 20 percent (146, from 182) and burglaries were down close to 13 percent (1,045, from 1,198).</p>
+        <p>The report included cities with populations of 100,000 or more. New Haven did not provide information for the report.</p>
+        <p>Nationally, according to the report, murders were up 0.3 percent and robberies increased 6 percent. Rapes dropped 2 percent and assaults were down 0.7 percent.</p>
+        <p>According to the F.B.I., more comprehensive statistics will be available in September.</p>
+        <p>Hartford's police chief, Daryl K. Roberts, credited neighborhood policing, the department's truancy program and its focus on quality-of-life issues for the decreases in some crime categories. He said, however, more help was needed from the community to eliminate some of the more serious ones.</p>
+        <p>''The crimes against persons are going to go down when the community works more closely with one another, and decides life is more valuable,'' he said. ''We don't want people to become snitches; we want them to become crime solvers. When people hold back information from us, they're only hurting other people in their neighborhood.''</p>
+        <p>JEFF HOLTZ</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

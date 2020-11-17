@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE: NEW CDS</title>
+    <meta content="04choi-5" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852181"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E7DD1130F937A35755C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE: NEW CDS</hl1>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tiger Army  Music From Regions Beyond  (Hellcat/Epitaph)</p>
+        <p>Bebop. Death metal. Trance. Emo. Most genre names sound a little silly, or a lot silly, at least at first. Still it's not hard to sympathize with Nick 13, leader (and the only constant member) of the Los Angeles-based trio Tiger Army. When asked about his chosen genre, he has no choice but to utter those four risible syllables: psychobilly.</p>
+      </block>
+      <block class="full_text">
+        <p>Tiger Army  Music From Regions Beyond  (Hellcat/Epitaph)</p>
+        <p>Bebop. Death metal. Trance. Emo. Most genre names sound a little silly, or a lot silly, at least at first. Still it's not hard to sympathize with Nick 13, leader (and the only constant member) of the Los Angeles-based trio Tiger Army. When asked about his chosen genre, he has no choice but to utter those four risible syllables: psychobilly.</p>
+        <p>Psychobilly was popularized more than 25 years ago by the Meteors, a British band that played rockabilly as if it were punk rock: loud, fast and silly. Nick 13 clearly cherishes this cultish tradition, but that doesn't mean he sticks to it. He has perfected a fusion that seems peculiarly Californian: You can hear cheerful pop-punk as well as a dash of lonesome country; nods to both Morrissey (who's a fan) and the Misfits.</p>
+        <p>After three underground-favorite albums the group hired Jerry Finn to produce ''Music From Regions Beyond,'' a pulpy delight that could be -- should be, even -- the band's breakthrough.</p>
+        <p>At first all you hear is punk: fuzzy chords from Nick 13's multi-tracked guitar and galloping drums from James Meza. But listen closely, and you'll hear the telltale sound of strings thwacking a fret board: that's Jeff Roffredo, who plays stand-up bass, nudging these songs back toward the 1950s.</p>
+        <p>''Forever Fades Away,'' the album's first single, is a midtempo punk love song with a verse and chorus that wouldn't sound out of place on modern rock radio. But the lively rockabilly rhythm in the bridge delivers a secret message -- We haven't forgotten you! -- to longtime fans.</p>
+        <p>In keeping with Tiger Army tradition, this album hides a twangy ballad (''Where the Moss Slowly Grows'') near the end; hearing Nick 13 strain to hit the high notes is part of the fun. There's also a Spanish-language love song (''Hechizo de Amor'') and, even better, an unexpected new-wave homage, ''As the Cold Rain Falls.'' (Who knew a psychobilly band could do such a good imitation of early New Order?)</p>
+        <p>Tiger Army is scheduled to play the main stage throughout this summer's Warped Tour; condolences, in advance, to whichever bands have to go on afterward.</p>
+        <p>KELEFA SANNEH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Long Life Span of a Housing Downturn</title>
+    <meta content="02charts" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/business/02charts.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851440"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OFF THE CHARTS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E7D61330F931A35755C0A9619C8B63" item-length="562" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Long Life Span of a Housing Downturn</hl1>
+        <hl2 class="online_headline">The Long Life Span of a Housing Downturn</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT happens when the American housing industry enters a downturn? It can last a long time.</p>
+        <p>The Federal Reserve Board this week indicated that it did not expect a quick reversal of the industry's woes. ''Most participants agreed,'' said minutes of the Fed's Open Market Committee meeting in early May, that ''the correction of the housing sector was likely to continue to weigh heavily on economic activity through most of this year -- somewhat longer than previously expected.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There are few economic trends harder to measure than home prices, given that every home is unique.</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT happens when the American housing industry enters a downturn? It can last a long time.</p>
+        <p>The Federal Reserve Board this week indicated that it did not expect a quick reversal of the industry's woes. ''Most participants agreed,'' said minutes of the Fed's Open Market Committee meeting in early May, that ''the correction of the housing sector was likely to continue to weigh heavily on economic activity through most of this year -- somewhat longer than previously expected.''</p>
+        <p>There are few economic trends harder to measure than home prices, given that every home is unique, and a house in one area can cost far more than an identical one in another location. All such measures show the market has weakened, but some do not yet show a broad national decline.</p>
+        <p>One measure that does is the Standard &amp; Poor's/Case-Shiller home price index, which measures house prices by comparing the price of a house with what it sold for before. Its composite of 10 major geographic areas shows that in March prices were, on average, down 1.9 percent from a year earlier, and 3 percent from the peak reached last June.</p>
+        <p>As the accompanying chart shows, that index also hit a peak in October 1989, and went into a decline that lasted a long time. It was not until January 1998 -- 99 months later -- that the index climbed above the 1989 peak.</p>
+        <p>That index may be more volatile than national indexes because of its heavy concentration on the two coasts. It includes three broad regions in California -- Los Angeles, San Diego and San Francisco -- as well as Boston, New York, Miami and Washington in the East. The other areas included are Las Vegas, Denver and Chicago. The areas are very broad, with the New York region stretching from New Haven to Trenton.</p>
+        <p>The charts show the pattern of home prices and national home sales, both for new single-family homes and for existing homes, after the two peaks. Prices are falling more rapidly this time, just as they rose more rapidly coming into the 2006 peak than they had a generation earlier, in 1989.</p>
+        <p>The trends in home sale numbers are similar, however. In the first couple of months after the peak, sales did not slip as much in 1989, but by the ninth month they were off about as much as they are now, with new-home sales particularly hard hit.</p>
+        <p>One thing that was very different at the 1989 peak from the one in 2006 was the trend in the number of homes being offered for sale. When prices peaked in 1989, the number of homes for sale was already declining, and it continued to fall for some months, perhaps reflecting decisions by homeowners to hold on and wait for prices to come back.</p>
+        <p>In 2006, however, the number of homes for sale rose as the peak neared, and the latest report shows that more than 4.1 million homes were for sale at the end of April, the largest number ever. That included almost 3.6 million existing homes, also a record high.</p>
+        <p>If enough of those owners are really determined to sell -- in some cases because they cannot afford to make rising mortgage payments -- that could lead to sales figures being higher than in previous times of housing weakness, and to prices falling further as the selling pressure depresses the market.</p>
+        <p>OFF THE CHARTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

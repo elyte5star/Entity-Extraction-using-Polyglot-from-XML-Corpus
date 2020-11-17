@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Headline</title>
+    <meta content="19sportsbriefs" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855626"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E4DE133FF93AA25755C0A9619C8B63" item-length="620" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Headline</hl1>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>golf</p>
+        <p>MICKELSON WITHDRAWS WITH INJURYPhil Mickelson withdrew from this week's Travelers Championship in Cromwell, Conn., because of his injured left wrist, a spokesman for his management company said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>golf</p>
+        <p>MICKELSON WITHDRAWS WITH INJURYPhil Mickelson withdrew from this week's Travelers Championship in Cromwell, Conn., because of his injured left wrist, a spokesman for his management company said yesterday.</p>
+        <p>Mickelson injured his wrist while chipping from the rough at Oakmont Country Club during Memorial Day weekend. He has been told not to play golf for at least two weeks, according to the spokesman, T. R. Reinman, who said he was not sure when Mickelson would play next. (AP)</p>
+        <p>soccer</p>
+        <p>FIFA REAFFIRMS SITE OF 2010 WORLD CUP Joseph S. Blatter, the president of soccer's world governing body, FIFA, reiterated yesterday that South Africa would be ready to stage the 2010 World Cup.</p>
+        <p>Blatter met in Johannesburg with the local organizing committee -- led by Danny Jordaan -- and the Confederation of African Football president, Issa Hayatou, who has been appointed by FIFA to monitor preparations, before declaring that Africa would be ready to play host to its first World Cup.</p>
+        <p>''Nothing, nothing can now be against this World Cup here in South Africa, nothing but God,'' Blatter said. ''But we are asking the blessing of the Lord, we are asking the blessing of the whole football family that finally Africa can stage a World Cup.''(AP)</p>
+        <p>hockey</p>
+        <p>SENATORS FIRE MUCKLER Less than two weeks after losing in the Stanley Cup finals, the Ottawa Senators fired General Manager John Muckler and promoted Coach Bryan Murray to replace him yesterday.</p>
+        <p>Murray's coaching contract was set to expire June 30. He said the team would begin searching for a new coach in the next few weeks. (AP)</p>
+        <p>cycling</p>
+        <p>CANCELLARA KEEPS TOUR LEAD Alessandro Proni won the third stage of the Tour de Suisse yesterday after a 131-mile breakaway, his first career stage victory, but Fabian Cancellara kept the leader's yellow jersey.</p>
+        <p>Proni, 24, finished the third and longest stage of this year's tour seven seconds ahead of the peloton. Xavier Florencio of Spain was second, and Kim Kirchen of Luxembourg was third. (AP)</p>
+        <p>pro basketball</p>
+        <p>GRIZZLIES HIRE WALLACE AS G.M. The Memphis Grizzlies hired Chris Wallace yesterday to replace Jerry West as their general manager and vice president for basketball operations.</p>
+        <p>Wallace, the former general manager of the Boston Celtics, will join the Grizzlies' new coach, Marc Iavaroni, in Memphis. West, who also had the title of president of basketball operations, announced in April that he would not return when his contract expired June 30. (AP)</p>
+        <p>WARRIORS GUARD REACHES PLEA DEAL Stephen Jackson of the Golden State Warriors will admit to criminal recklessness in firing a gun outside a strip club, which could lead to a suspension of a one-year jail sentence, a spokesman for the prosecutor's office said yesterday. If the plea agreement is accepted by a judge, Jackson will pay a $5,000 fine and perform 100 hours of community service.</p>
+        <p>Jackson was traded from the Indiana Pacers to Golden State in January, two months after the shooting. (AP)</p>
+        <p>tennis</p>
+        <p>VITAMIN MAKER DENIES BLAME A lawyer representing a New Jersey company accused of selling tainted vitamin supplements to a professional tennis player said his client was not to blame for the player's suspension after a positive steroid test.</p>
+        <p>The player, Guillermo Coria -- once ranked No. 3 worldwide -- is suing Universal Nutrition, saying that he took a tainted multivitamin sold by the company and that it led to his 2001 suspension from professional tennis for seven months.</p>
+        <p>A lawyer for New Brunswick-based Universal Nutrition, speaking after an eight-member jury was selected yesterday, said the vitamins made by the company were not contaminated.</p>
+        <p>Coria, a native of Argentina, is asking for more than $10 million for lost prize money and endorsements and also hopes to clear his name. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

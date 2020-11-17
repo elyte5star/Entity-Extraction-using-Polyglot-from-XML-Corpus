@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE WEEK AHEAD: June 3 - 9; FILM</title>
+    <meta content="03weekfilm" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851688"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5DB1430F930A35755C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE WEEK AHEAD: June 3 - 9; FILM</hl1>
+      </hedline>
+      <byline class="print_byline">By Mike Hale</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By my count only two Italian films received commercial openings in New York in the first five months of this year, and one of them -- Alberto Lattuada's ''Mafioso'' -- was 45 years old. (The other, Emanuele Crialese's ''Golden Door,'' snuck in under the wire, on May 25.) Which is further evidence, as if any were needed, that festivals like the Film Society of Lincoln Center's OPEN ROADS: NEW ITALIAN CINEMA are more valuable than ever. The 13-movie series opens Wednesday with a big name, Mario Monicelli, who was already in his 40s when he made ''Big Deal on Madonna Street'' in 1958; he's 92 now, and his latest film, ''Desert Roses'' (''Le Rose del Deserto''), is yet another social satire, this time involving an Italian medical unit in Africa in World War II that's not entirely clear on how the war is going. Other films include ''The Unknown Woman'' (''La Sconosciuta''), a thriller about a Ukrainian immigrant to Italy directed by Giuseppe Tornatore (''Cinema Paradiso''); Angelo Longoni's biopic ''Caravaggio,'' photographed by the great Vittorio Storaro and starring Alessio Boni, who played the younger brother in ''The Best of Youth''; and ''Primo Levi's Journey'' (''La Strada di Levi''), a documentary that retraces the tortuous route Levi had to take to return home from Auschwitz in 1945.</p>
+        <p>An older -- and lighter -- European sensibility can be sampled on Tuesday at the French Institute/Alliance Française, where the nine-week series THE SURREAL DELICACY OF RENÉ CLAIR begins with a screening of Clair's Dada comedy ''Entr'acte'' (1924), made with the painter Francis Picabia and the composer Eric Satie; Satie's score will be performed live by Bruce Levingston. Future Tuesdays will feature Clair classics like ''À Nous la liberté'' and ''Le Million,'' along with more rarely seen items like the silent short ''Paris Qui Dort'' and several of his English-language films.</p>
+      </block>
+      <block class="full_text">
+        <p>By my count only two Italian films received commercial openings in New York in the first five months of this year, and one of them -- Alberto Lattuada's ''Mafioso'' -- was 45 years old. (The other, Emanuele Crialese's ''Golden Door,'' snuck in under the wire, on May 25.) Which is further evidence, as if any were needed, that festivals like the Film Society of Lincoln Center's OPEN ROADS: NEW ITALIAN CINEMA are more valuable than ever. The 13-movie series opens Wednesday with a big name, Mario Monicelli, who was already in his 40s when he made ''Big Deal on Madonna Street'' in 1958; he's 92 now, and his latest film, ''Desert Roses'' (''Le Rose del Deserto''), is yet another social satire, this time involving an Italian medical unit in Africa in World War II that's not entirely clear on how the war is going. Other films include ''The Unknown Woman'' (''La Sconosciuta''), a thriller about a Ukrainian immigrant to Italy directed by Giuseppe Tornatore (''Cinema Paradiso''); Angelo Longoni's biopic ''Caravaggio,'' photographed by the great Vittorio Storaro and starring Alessio Boni, who played the younger brother in ''The Best of Youth''; and ''Primo Levi's Journey'' (''La Strada di Levi''), a documentary that retraces the tortuous route Levi had to take to return home from Auschwitz in 1945.</p>
+        <p>An older -- and lighter -- European sensibility can be sampled on Tuesday at the French Institute/Alliance Française, where the nine-week series THE SURREAL DELICACY OF RENÉ CLAIR begins with a screening of Clair's Dada comedy ''Entr'acte'' (1924), made with the painter Francis Picabia and the composer Eric Satie; Satie's score will be performed live by Bruce Levingston. Future Tuesdays will feature Clair classics like ''À Nous la liberté'' and ''Le Million,'' along with more rarely seen items like the silent short ''Paris Qui Dort'' and several of his English-language films.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>John McGovern, 85, Allergist, Investor and Philanthropist</title>
+    <meta content="11mcgovern" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853765"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="names">Dr. John P. McGovern</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EEDF173FF932A25755C0A9619C8B63" item-length="375" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>John McGovern, 85, Allergist, Investor and Philanthropist</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY PEARCE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. John P. McGovern, a Houston allergist and real-estate investor whose philanthropy helped endow medical facilities at Duke University, the Texas Medical Center and other institutions, died on May 31 in Galveston, Tex. He was 85.</p>
+        <p>The cause was pneumonia, his family said.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. John P. McGovern, a Houston allergist and real-estate investor whose philanthropy helped endow medical facilities at Duke University, the Texas Medical Center and other institutions, died on May 31 in Galveston, Tex. He was 85.</p>
+        <p>The cause was pneumonia, his family said.</p>
+        <p>Dr. McGovern, who trained as a pediatrician, opened an allergy practice in Houston in 1956. His investments in securities and land in downtown Houston and the success of his practice enabled him to establish the John P. McGovern Foundation, which supports universities, museums and medical libraries in Texas and around the country.</p>
+        <p>In 1998, Dr. McGovern gave $6.5 million to help found a pediatric center at Duke, his alma mater. The facility is known as the McGovern-Davison Children's Health Center. His donations in Houston over several decades helped erect buildings, a commons and gardens at the Texas Medical Center, several of which also bear his name.</p>
+        <p>While pursuing academic medicine in the 1950s and '60s, Dr. McGovern studied headaches in children, allergic eczema and the influence of emotional factors in allergies. At his practice, the McGovern Allergy and Asthma Clinic, he treated nasal allergies, skin rashes and asthma in children and adults through the control of a patient's diet and environment and the use of medication and immunotherapy, said Dr. Theodore J. Haywood, a senior physician at the clinic.</p>
+        <p>As a clinician, Dr. McGovern adhered to the philosophy advanced by Sir William Osler, a Canadian physician who emphasized the importance of contact with patients, and he published papers on aspects of bioethics, patient suffering, alcoholism and medical history.</p>
+        <p>The son of a general surgeon, John Phillip McGovern was born in Washington. He received his medical degree from Duke in 1945.</p>
+        <p>Dr. McGovern taught at Yale and George Washington University before being named an associate professor of pediatrics at Tulane in 1954.</p>
+        <p>After opening his private practice, he taught at the University of Texas, Houston, and at Baylor, where he was chief of the allergy section in the pediatrics department from 1956 to 1978.</p>
+        <p>Dr. McGovern retired from practice in 1986. The clinic is now in Bellaire, near Houston.</p>
+        <p>Dr. McGovern is survived by his wife of 46 years, the former Kathrine Galbreath. The couple lived in Houston and Galveston.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

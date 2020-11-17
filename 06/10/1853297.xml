@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Address the Shame Of Guantánamo</title>
+    <meta content="l10gitmo" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853297"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E2DD163FF933A25755C0A9619C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Address the Shame Of Guantánamo</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Gitmo: A National Disgrace'' (editorial, June 6):</p>
+        <p>The American Civil Liberties Union agrees that the chaos at Guantánamo Bay is a disgrace.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Gitmo: A National Disgrace'' (editorial, June 6):</p>
+        <p>The American Civil Liberties Union agrees that the chaos at Guantánamo Bay is a disgrace.</p>
+        <p>For more than five years, the guilty have not been prosecuted, while the innocent waste away in prison.</p>
+        <p>Nothing could be further from American values of due process and fairness. The fiasco stems from the hubris of politicians who replaced the rule of law set up by the nation's founders with their own scheme.</p>
+        <p>Senator Tom Harkin of Iowa introduced a bill before the Memorial Day recess that would use the power of the purse to cut off all financial support for the Guantánamo prison.</p>
+        <p>It would prohibit the use of funds to detain anyone except those sent to Fort Leavenworth, Kan., to await trial or serve a sentence.</p>
+        <p>All other prisoners at Guantánamo would be sent back to their home countries or other countries in accordance with federal law, including the prohibitions against torture and abuse.</p>
+        <p>The Harkin bill is the only bill introduced to date that would solve the Guantánamo problem and restore the rule of law.</p>
+        <p>Caroline Fredrickson  Christopher Anders  Washington, June 7, 2007</p>
+        <p>The writers are, respectively, director and senior legislative counsel of the A.C.L.U. Washington Legislative Office.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

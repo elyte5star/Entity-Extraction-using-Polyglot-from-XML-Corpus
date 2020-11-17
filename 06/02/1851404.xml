@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Noh, Bollywood and 3-D, With a Dash of Broadway</title>
+    <meta content="02koos" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/arts/dance/02koos.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851404"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <org class="online_producer">Japan Society</org>
+        <person class="online_producer">Koosil-ja</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E7D71330F931A35755C0A9619C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Noh, Bollywood and 3-D, With a Dash of Broadway</hl1>
+        <hl2 class="online_headline">Noh, Bollywood and 3-D, With a Dash of Broadway</hl2>
+      </hedline>
+      <byline class="print_byline">By GIA KOURLAS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Koosil-ja, a Korean choreographer who grew up in Osaka, Japan, dropped her surname, Hwang, several years ago, and in the manner of Bjork or Madonna, it's fairly evident that she wants to be a star. As a dancer, her approach is never trivial: as taut as a coiled spring, she is full of tension in her spare, controlled movements, yet never unduly tense. Chalk it up to her presence, which is always something to love in her technologically innovative performances. Unfortunately, it's nearly always impossible to love the whole production.</p>
+        <p>In ''mech[a]OUTPUT,'' performed at the Japan Society on Thursday night, Koosil-ja revamps an earlier production by outfitting the Japan Society with a wooden runway -- it cuts into the seating in the shape of a V -- and adding several television monitors, which show her source material, including a Noh play and Bollywood films. Influenced by her time with the Wooster Group, Koosil-ja continues her method of ''live processing'': watching and mimicking movement at once.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It’s fairly evident that Koosil-ja, a Korean choreographer in the manner of Bjork or Madonna, wants to be a star.</p>
+      </block>
+      <block class="full_text">
+        <p>Koosil-ja, a Korean choreographer who grew up in Osaka, Japan, dropped her surname, Hwang, several years ago, and in the manner of Bjork or Madonna, it's fairly evident that she wants to be a star. As a dancer, her approach is never trivial: as taut as a coiled spring, she is full of tension in her spare, controlled movements, yet never unduly tense. Chalk it up to her presence, which is always something to love in her technologically innovative performances. Unfortunately, it's nearly always impossible to love the whole production.</p>
+        <p>In ''mech[a]OUTPUT,'' performed at the Japan Society on Thursday night, Koosil-ja revamps an earlier production by outfitting the Japan Society with a wooden runway -- it cuts into the seating in the shape of a V -- and adding several television monitors, which show her source material, including a Noh play and Bollywood films. Influenced by her time with the Wooster Group, Koosil-ja continues her method of ''live processing'': watching and mimicking movement at once.</p>
+        <p>The work is inspired by the Noh play ''Dojoji'' and features Koosil-ja as the rancorous spirit of a woman who inhabits a bell. A computer-animated landscape (its 3-D design is credited to Claudia Hart and John Klima) depicts an inviting backdrop of cherry blossoms and rolling hills, but bumpy scene changes wreak havoc on the production's momentum.</p>
+        <p>Geoff Matters, who contributes an appealing rock and electronic score, joins Koosil-ja in singing parts of the story's narrative. But while ''Dojoji'' ends on a tragic female-revenge note, ''mech[a] OUTPUT'' concludes with a hokey duet.</p>
+        <p>''You can live again,'' Mr. Matters sings, as Koosil-ja replies, ''I can live again.'' Without a sign of irony, an evening of experimental theater is supplanted by a happy musical, silly lyrics intact.</p>
+        <p>''mech[a]OUTPUT'' will be performed tonight at the Japan Society, 333 East 47th Street, Manhattan; (212) 715-1258 or japansociety.org.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

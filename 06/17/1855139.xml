@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sophia Lynn, David Frederick</title>
+    <meta content="17LYNN" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17LYNN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855139"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Lynn, Sophia</person>
+        <person class="indexing_service">Frederick, David Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DA153FF934A25755C0A9619C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sophia Lynn, David Frederick</hl1>
+        <hl2 class="online_headline">Sophia Lynn, David Frederick</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sophia Lynn and David Charles Frederick are to be married today. Judge James E. Boasberg of the Washington Superior Court is to officiate at the Armed Forces Retirement Home in Washington.</p>
+        <p>The bride, 46, will keep her name. She is the project manager for the President Lincoln and Soldiers' Home National Monument, a National Trust historic site in Washington that is expected to open in 2008; it is also the location of the wedding. She graduated from the University of Texas, Austin, and received a master's degree in international relations and economics from Johns Hopkins.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sophia Lynn and David Charles Frederick are to be married today. Judge James E. Boasberg of the Washington Superior Court is to officiate at the Armed Forces Retirement Home in Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Sophia Lynn and David Charles Frederick are to be married today. Judge James E. Boasberg of the Washington Superior Court is to officiate at the Armed Forces Retirement Home in Washington.</p>
+        <p>The bride, 46, will keep her name. She is the project manager for the President Lincoln and Soldiers' Home National Monument, a National Trust historic site in Washington that is expected to open in 2008; it is also the location of the wedding. She graduated from the University of Texas, Austin, and received a master's degree in international relations and economics from Johns Hopkins.</p>
+        <p>From 1991 to 1996, she was in the Foreign Service, and served as a consular officer in Havana and Washington and was an administrative officer in Madrid. She is also a trustee of the Opera Lafayette, a Baroque ensemble in Washington that performs 17th- and 18th-century operas. She is a daughter of Valerie R. Lynn of Washington and the late Kenneth S. Lynn.</p>
+        <p>The bride's mother is a psychotherapist in Washington. Her father was the Arthur O. Lovejoy professor of American history at Johns Hopkins in Baltimore, and was also a biographer of Ernest Hemingway and Charlie Chaplin.</p>
+        <p>The bridegroom, also 46, is a partner in Kellogg, Huber, Hansen, Todd, Evans &amp; Figel, a Washington law firm, and is the author of ''Supreme Court and Appellate Advocacy'' (West, 2003). He graduated summa cum laude from the University of Pittsburgh, received a doctoral degree in comparative politics from Oxford, where he was a Rhodes Scholar, and received his law degree with honors from the University of Texas, Austin. In 1991 and 1992, he was a law clerk to Supreme Court Associate Justice Byron R. White.</p>
+        <p>The bridegroom is a son of Marian Barbour Frederick of Springfield, Va., and Dr. J. Howard Frederick of San Antonio. The bridegroom's mother retired as the coordinator of the medical staff at Southwest Texas Methodist Hospital in San Antonio. His father retired as a family practitioner and geriatric specialist.</p>
+        <p>The bridegroom's previous marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

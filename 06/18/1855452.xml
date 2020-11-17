@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pricing and Partisan Politics</title>
+    <meta content="18empire-1" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855452"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DB123FF93BA25755C0A9619C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pricing and Partisan Politics</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS CONFESSORE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Could congestion pricing become the next big campaign issue in the state?</p>
+        <p>New York City's outer boroughs and suburbs, hotbeds of anti-pricing sentiment, are also home to many Senate Republicans who are considered vulnerable to a Democratic challenge. But congestion pricing is a key priority for Mr. Bloomberg, a Republican who has donated hundreds of thousands of dollars to Republican senators.</p>
+      </block>
+      <block class="full_text">
+        <p>Could congestion pricing become the next big campaign issue in the state?</p>
+        <p>New York City's outer boroughs and suburbs, hotbeds of anti-pricing sentiment, are also home to many Senate Republicans who are considered vulnerable to a Democratic challenge. But congestion pricing is a key priority for Mr. Bloomberg, a Republican who has donated hundreds of thousands of dollars to Republican senators.</p>
+        <p>The mayor's plan has received a warmer reception from the Senate majority leader, Joseph L. Bruno, than from Mr. Silver, though Mr. Bruno has stopped short of endorsing it. If Mr. Bruno were to push the Republican caucus to approve congestion pricing, the move could leave some of its vulnerable members on the outs with many constituents.</p>
+        <p>Which is why Mr. Bruno may -- for once -- need help from Senate Democrats.</p>
+        <p>''I think their majority leader's doing what he can to get Senate minority members to take the bullet for his caucus,'' said Scott Levenson, a political consultant who has advised New York City Councilmen Joseph P. Addabbo Jr. and James F. Gennaro, who are potential Democratic challengers next year to Senate Republicans in Queens.</p>
+        <p>''If he can figure out a way to leverage votes from the minority in order to give his guys a pass, he'll do that,'' Mr. Levenson said. ''And if he can keep the Democrats holding the bag on an issue that is unpopular in the districts that they need to win, it'll be a win for him.''</p>
+        <p>NICHOLAS CONFESSORE</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

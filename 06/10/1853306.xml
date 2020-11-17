@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Op-Chart; The State of Iraq: An Update</title>
+    <meta content="10ohanlon" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/10ohanlon.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853306"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributors"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0DD163FF933A25755C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Op-Chart; The State of Iraq: An Update</hl1>
+        <hl2 class="online_headline">The State of Iraq: An Update</hl2>
+      </hedline>
+      <byline class="print_byline">By JASON CAMPBELL, MICHAEL O'HANLON AND AMY UNIKEWICZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHILE the American and Iraqi troops for the so-called surge are nearly all in place, it's far too early to judge the effect. Still, given America's waning patience with the war and the bad circumstances that prevailed in Iraq when the surge began, optimism is hard to come by. Our latest chart of leading indicators, based on American and Iraqi government data and news reports, doesn't brighten the picture much.</p>
+        <p>First, the good news. Overall levels of violence are down somewhat in Baghdad. Extrajudicial killings -- largely reprisal assassinations carried out against Sunnis by Shiite militias -- are about 50 percent below levels from the winter. In violent Anbar Province, security cooperation among sheiks, their followers, the Iraqi government and Coalition forces against Al Qaeda remains impressive.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Our latest chart of leading indicators doesn’t offer a bright picture on the American and Iraqi troop surge in Iraq.</p>
+      </block>
+      <block class="full_text">
+        <p>WHILE the American and Iraqi troops for the so-called surge are nearly all in place, it's far too early to judge the effect. Still, given America's waning patience with the war and the bad circumstances that prevailed in Iraq when the surge began, optimism is hard to come by. Our latest chart of leading indicators, based on American and Iraqi government data and news reports, doesn't brighten the picture much.</p>
+        <p>First, the good news. Overall levels of violence are down somewhat in Baghdad. Extrajudicial killings -- largely reprisal assassinations carried out against Sunnis by Shiite militias -- are about 50 percent below levels from the winter. In violent Anbar Province, security cooperation among sheiks, their followers, the Iraqi government and Coalition forces against Al Qaeda remains impressive.</p>
+        <p>A number of extremist militia members and Qaeda operatives have been killed and captured in the Baghdad area, with American and Iraqi forces conducting 6 to 12 raids per day. These attacks help explain the rising American death tolls of April and May, which are obviously not good news, but may offer hope of a somewhat calmer future.</p>
+        <p>Alas, bad news still dominates. Overall levels of violence remain very high by the standards of other countries suffering from civil conflicts, and also in comparison with the Iraq of 2003 through 2005. Bombings by Sunni insurgents and Qaeda terrorists remain prevalent enough that the current restraint being exercised by most Shiite militias will be difficult to sustain. Cities like Kirkuk and Mosul remain tinderboxes. The economy remains stagnant and utility performance abysmal.</p>
+        <p>And, perhaps worst of all, the Iraqi political system has failed to deliver any real progress on the core issues dividing Sunni from Shiite from Kurd, without which there will be no lasting peace.</p>
+        <p>Op-Ed Contributors Jason Campbell is a senior research assistant at the Brookings Institution in Washington. Michael O'Hanlon is a senior fellow at Brookings and the co-author of ''Hard Power.'' Amy Unikewicz is a graphic designer in South Norwalk, Conn.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jason Campbell is a senior research assistant at the Brookings Institution in Washington. Michael O'Hanlon is a senior fellow at Brookings and the co-author of ''Hard Power.'' Amy Unikewicz is a graphic designer in South Norwalk, Conn.</tagline>
+    </body.end>
+  </body>
+</nitf>

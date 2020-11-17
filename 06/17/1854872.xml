@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GRAHAM, RUTH BELL</title>
+    <meta content="dn061707.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854872"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GRAHAM, RUTH BELL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E5D6143AF934A25755C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GRAHAM, RUTH BELL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GRAHAM--Ruth Bell. Ruth was a great pioneer of faith and a full partner with her husband, Rev. Billy Graham, in spreading the Word and God around the world. Her many writings told a vivid story of living a life of commitment and service to the Lord. We mourn her loss as we also celebrate her exemplary life. American Bible Society</p>
+      </block>
+      <block class="full_text">
+        <p>GRAHAM--Ruth Bell. Ruth was a great pioneer of faith and a full partner with her husband, Rev. Billy Graham, in spreading the Word and God around the world. Her many writings told a vivid story of living a life of commitment and service to the Lord. We mourn her loss as we also celebrate her exemplary life. American Bible Society</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bombs and Gunmen in Iraq Kill at Least 22 and Wound 55</title>
+    <meta content="08iraq" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/world/middleeast/08iraq.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852913"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Al Qaeda in Mesopotamia</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EFDC1F30F93BA35755C0A9619C8B63" item-length="487" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bombs and Gunmen in Iraq Kill at Least 22 and Wound 55</hl1>
+        <hl2 class="online_headline">Bombs and Gunmen in Iraq Kill at Least 22 and Wound 55</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMIEN CAVE; Ahmed Sadam and Khalid al-Ansary contributed reporting from Baghdad, and Iraqi employees of The New York Times from Kirkuk, Basra and Mosul.</byline>
+      <dateline>BAGHDAD, June 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A suicide bomber detonated his explosives and a bus bomb exploded minutes apart near a police station in northern Iraq on Thursday, killing at least nine people and wounding 22, the authorities said.</p>
+        <p>Capt. Mohammed al-Zebari, a spokesman for the Iraqi Army division responsible for the area, said that three British civilian contractors were among the dead and that two other British civilians were among the wounded.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A suicide bomber detonated his explosives and a bus bomb exploded minutes apart near a police station in northern Iraq.</p>
+      </block>
+      <block class="full_text">
+        <p>A suicide bomber detonated his explosives and a bus bomb exploded minutes apart near a police station in northern Iraq on Thursday, killing at least nine people and wounding 22, the authorities said.</p>
+        <p>Capt. Mohammed al-Zebari, a spokesman for the Iraqi Army division responsible for the area, said that three British civilian contractors were among the dead and that two other British civilians were among the wounded.</p>
+        <p>A British Embassy official said he could not confirm that account, but if verified, the casualties would add to a particularly bad period for the British.</p>
+        <p>In Basra early Thursday morning, a British soldier was killed and three were wounded when their unit was attacked with machine-gun fire and rocket-propelled grenades during a raid in which an arms cache was found and five people were detained, the British military said. On May 29, gunmen abducted a British business consultant and his four bodyguards from a Finance Ministry complex. They are all still missing.</p>
+        <p>The double bombing on Thursday occurred in Rabia, a town about 75 miles northwest of Mosul, near the Syrian border. The blasts destroyed at least one building and damaged many more. Blood and concrete were scattered across the streets.</p>
+        <p>Captain Zebari said the second bomb consisted of 500 pounds of explosives packed into a minibus. It detonated minutes after a suicide bomber tried to get into the police station and blew himself up when officers discovered his intent.</p>
+        <p>''This is a new tactic for us,'' Captain Zebari said, ''to start with one explosion and then have the second bigger than the first.''</p>
+        <p>Violence also struck Mosul, Baghdad, Kirkuk, Basra and several other areas of Iraq. In Mosul, the police said that gunmen killed Sahar al-Haydari, 40, a correspondent for an Iraqi news agency, Aswat al-Iraq. She was at least the 17th Iraqi journalist killed in Iraq this year, according to a tally by Reuters.</p>
+        <p>Meanwhile in Baghdad, two car bombs exploded in Sadr City, an Interior Ministry official said. Five people were killed and at least 15 were wounded in the blasts near a restaurant and at a public market.</p>
+        <p>Just west of the capital, two car bombs struck an Iraqi Army checkpoint in Abu Ghraib, killing five people, including three soldiers, the police said. The attack wounded at least 12 people.</p>
+        <p>The authorities also found 32 unidentified bodies throughout the city.</p>
+        <p>North of the capital, in Kirkuk, a roadside-bomb attack on a police patrol killed at least one and wounded three others, security officials said.</p>
+        <p>The American military also said it detained 11 people with ties to senior leaders of the insurgent group Al Qaeda in Mesopotamia in raids southeast of Falluja in Anbar Province. The military said that two of the detainees were believed to be responsible for recruiting terrorists.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

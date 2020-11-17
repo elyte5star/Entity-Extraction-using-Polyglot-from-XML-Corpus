@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bob Barker Gives CBS a Good Goodbye</title>
+    <meta content="19arts-003" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/arts/television/19arts-003.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855513"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ARTS, BRIEFLY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Panama/Panama Canal and Canal Zone</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="descriptor">Canals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Canals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waterways and Other Bodies of Water</classifier>
+        <location class="online_producer">Panama Canal and Canal Zone</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6DF133FF93AA25755C0A9619C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bob Barker Gives CBS a Good Goodbye</hl1>
+        <hl2 class="online_headline">Bob Barker Gives CBS a Good Goodbye</hl2>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After five decades on network television, Bob Barker appeared on CBS's ''Price is Right'' Friday for the last time, ending 35 years as host of America's longest-running game show. Nielsen estimated 8.7 million viewers tuned in at 8 p.m. to watch the prime-time encore of the farewell show, which CBS televised earlier Friday in its usual daytime slot. Following the sendoff, CBS broadcast the ''34th Annual Daytime Emmy Awards,'' during which Mr. Barker was honored with his 19th trophy. The awards show drew 8.3 million viewers from 9 to 11, putting the network in first place for the night. CBS was also No. 1 on Sunday, getting a boost from back-to-back repeats of ''Cold Case'' at 8 (7.2 million) and at 9 (9 million) followed by ''Without a Trace'' at 10 (8.6 million). But NBC finished on top for the night among adults 18 to 49, benefiting from a 45-minute overrun of its U.S. Open golf coverage in the 7 p.m. hour. From 9 to 11 a repeat of NBC's ''Last Comic Standing'' led the time period in the demographic, while attracting only 4.9 million viewers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After five decades on network television, Bob Barker appeared on CBS’s “Price is Right” Friday for the last time, ending 35 years as host of America’s longest-running game show.</p>
+      </block>
+      <block class="full_text">
+        <p>After five decades on network television, Bob Barker appeared on CBS's ''Price is Right'' Friday for the last time, ending 35 years as host of America's longest-running game show. Nielsen estimated 8.7 million viewers tuned in at 8 p.m. to watch the prime-time encore of the farewell show, which CBS televised earlier Friday in its usual daytime slot. Following the sendoff, CBS broadcast the ''34th Annual Daytime Emmy Awards,'' during which Mr. Barker was honored with his 19th trophy. The awards show drew 8.3 million viewers from 9 to 11, putting the network in first place for the night. CBS was also No. 1 on Sunday, getting a boost from back-to-back repeats of ''Cold Case'' at 8 (7.2 million) and at 9 (9 million) followed by ''Without a Trace'' at 10 (8.6 million). But NBC finished on top for the night among adults 18 to 49, benefiting from a 45-minute overrun of its U.S. Open golf coverage in the 7 p.m. hour. From 9 to 11 a repeat of NBC's ''Last Comic Standing'' led the time period in the demographic, while attracting only 4.9 million viewers.  ARTS, BRIEFLY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

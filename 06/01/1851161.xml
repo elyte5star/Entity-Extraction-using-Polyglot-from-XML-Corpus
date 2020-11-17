@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BECK, JAMES H.</title>
+    <meta content="dn060107.1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851161"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BECK, JAMES H.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E4DF143AF932A35755C0A9619C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BECK, JAMES H.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BECK--James H. The Board of Directors, officers, and members of ArtWatch International, Inc., are greatly saddened by the passing of our founder and president, Professor James H. Beck, whose dedication to artists and their work, and whose perseverance in preserving the world's great works of art will long be remembered. Our sincerest condolences to his wife, Darma, and the entire Beck family. Board of Directors, Artwatch, International</p>
+      </block>
+      <block class="full_text">
+        <p>BECK--James H. The Board of Directors, officers, and members of ArtWatch International, Inc., are greatly saddened by the passing of our founder and president, Professor James H. Beck, whose dedication to artists and their work, and whose perseverance in preserving the world's great works of art will long be remembered. Our sincerest condolences to his wife, Darma, and the entire Beck family. Board of Directors, Artwatch, International</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

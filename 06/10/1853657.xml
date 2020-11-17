@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deborah Gordon, Zachary Klehr</title>
+    <meta content="10GORDON" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10GORDON.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853657"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Gordon, Deborah Jill (Deborah Jill Klehr)</person>
+        <person class="indexing_service">Klehr, Zachary Kline</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5D61F30F933A25755C0A9619C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deborah Gordon, Zachary Klehr</hl1>
+        <hl2 class="online_headline">Deborah Gordon, Zachary Klehr</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Deborah Jill Gordon, the daughter of Betsy Sheerr of Philadelphia and Dr. Gary Gordon of Haverford, Pa., was married last evening to Zachary Kline Klehr, a son of Susan Klehr and Leonard Klehr of Philadelphia. Rabbi Alan Fuchs officiated at the Hotel du Pont in Wilmington, Del., with Rabbi William Kuhn taking part in the ceremony.</p>
+        <p>Mrs. Gordon Klehr, 29, is a staff lawyer at the Education Law Center of Pennsylvania, a nonprofit legal advocacy organization in Philadelphia that works to ensure access to quality public education. She graduated cum laude from Princeton and received her law degree from Harvard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Deborah Jill Gordon, the daughter of Betsy Sheerr of Philadelphia and Dr. Gary Gordon of Haverford, Pa., was married last evening to Zachary Kline Klehr, a son of Susan Klehr and Leonard Klehr of Philadelphia. Rabbi Alan Fuchs officiated at the Hotel du Pont in Wilmington, Del., with Rabbi William Kuhn taking part in the ceremony.</p>
+      </block>
+      <block class="full_text">
+        <p>Deborah Jill Gordon, the daughter of Betsy Sheerr of Philadelphia and Dr. Gary Gordon of Haverford, Pa., was married last evening to Zachary Kline Klehr, a son of Susan Klehr and Leonard Klehr of Philadelphia. Rabbi Alan Fuchs officiated at the Hotel du Pont in Wilmington, Del., with Rabbi William Kuhn taking part in the ceremony.</p>
+        <p>Mrs. Gordon Klehr, 29, is a staff lawyer at the Education Law Center of Pennsylvania, a nonprofit legal advocacy organization in Philadelphia that works to ensure access to quality public education. She graduated cum laude from Princeton and received her law degree from Harvard.</p>
+        <p>Her father is the chief of rheumatology at Lankenau Hospital in Wynnewood, Pa. Her mother is the founder of Sheerr Communications, a public-speaking consultancy firm in Philadelphia, and she is a trustee of the American Jewish Joint Distribution Committee. The bride is the stepdaughter of Nancy Bregstein Gordon and Richard Sheerr.</p>
+        <p>Mr. Klehr, 28, graduated cum laude from the University of Pennsylvania, where he received an M.B.A. last month. In July, he is to start as an associate at Chrysalis Capital, an investment firm in Philadelphia.</p>
+        <p>His mother is the president of Congregation Rodeph Shalom in Philadelphia and is a trustee of Franklin &amp; Marshall College. His father is a partner in Lubert-Adler Real Estate Funds, an investment firm in Philadelphia, and a founding partner in Klehr, Harrison, Harvey, Branzburg &amp; Ellers, a law firm also in Philadelphia.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

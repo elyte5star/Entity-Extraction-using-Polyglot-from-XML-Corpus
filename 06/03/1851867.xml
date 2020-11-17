@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tiffany Zientz, Alexander Heckler</title>
+    <meta content="03zientz" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851867"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Zientz, Tiffany Lee</person>
+        <person class="indexing_service">Heckler, Alexander Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3DE1230F930A35755C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tiffany Zientz, Alexander Heckler</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tiffany Lee Zientz and Alexander Patrick Heckler were married last evening by Rabbi Terry A. Bookman at the Four Seasons Hotel in Miami.</p>
+        <p>The bride, 31, will continue to use her name professionally. She is in charge of fund-raising at the Women's Fund of Miami-Dade County, a nonprofit organization that distributes grants to programs that help girls and women. She graduated from the University of Pennsylvania and received an M.B.A. from the University of Miami.</p>
+      </block>
+      <block class="full_text">
+        <p>Tiffany Lee Zientz and Alexander Patrick Heckler were married last evening by Rabbi Terry A. Bookman at the Four Seasons Hotel in Miami.</p>
+        <p>The bride, 31, will continue to use her name professionally. She is in charge of fund-raising at the Women's Fund of Miami-Dade County, a nonprofit organization that distributes grants to programs that help girls and women. She graduated from the University of Pennsylvania and received an M.B.A. from the University of Miami.</p>
+        <p>She is the daughter of Suzanne and Mark Zientz of Miami.</p>
+        <p>The bridegroom, also 31, is of counsel to Shutts &amp; Bowen, a Miami law firm, representing companies that do business with the government. He is also a national finance committee member for Hillary Rodham Clinton's presidential campaign. He graduated from Brandeis and received a law degree from the University of Miami.</p>
+        <p>He is a son of Leslie Sands of Weston, Fla., and Michael Heckler of Delray Beach, Fla., and is a stepson of Ellen Heckler and Franklin Sands.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

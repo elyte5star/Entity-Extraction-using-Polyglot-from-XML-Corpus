@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carbon Monoxide Detectors Not Standard in Hotel Rooms</title>
+    <meta content="12risk" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/health/12risk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853913"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: AT RISK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="descriptor">Carbon Monoxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Carbon Monoxide</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E0DC173FF931A25755C0A9619C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carbon Monoxide Detectors Not Standard in Hotel Rooms</hl1>
+        <hl2 class="online_headline">At Risk: Carbon Monoxide Detectors Not Standard in Hotel Rooms</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carbon monoxide detectors are not hard to find. They are available in many stores, and a growing number of people are using them in their homes.</p>
+        <p>But if you go looking for one in a hotel room, a new study says, chances are it will not be there.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you go looking for a carbon monoxide detector in a hotel room, a new study says, chances are it will not be there.</p>
+      </block>
+      <block class="full_text">
+        <p>Carbon monoxide detectors are not hard to find. They are available in many stores, and a growing number of people are using them in their homes.</p>
+        <p>But if you go looking for one in a hotel room, a new study says, chances are it will not be there.</p>
+        <p>Writing in The American Journal of Preventive Medicine, researchers said that from 1989 to 2004, they found 68 incidents that affected more than 700 guests, 41 employees and 20 rescue workers. Twenty-seven of the people died.</p>
+        <p>Even after these episodes, the researchers found, most of the hotels where they took place still did not install the detectors. Federal law requires that hotels install smoke detectors, but it does not require carbon monoxide detectors.</p>
+        <p>The lead author of the study, Dr. Lindell K. Weaver of the University of Utah School of Medicine, said that ''although one's individual risk is extremely low,'' hotel guests should not have to put up with it.</p>
+        <p>A few states and municipalities have passed laws intended to protect guests from carbon monoxide, the study said. But until hotels begin using detectors consistently, the researchers advised, travelers should consider carrying portable ones.</p>
+        <p>VITAL SIGNS: AT RISK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

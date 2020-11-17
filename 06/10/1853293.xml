@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mr. Murdoch and The Journal</title>
+    <meta content="10sun2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/10sun2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853293"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Wall Street Journal</org>
+        <person class="online_producer">Murdoch, Rupert</person>
+        <person class="online_producer">Bancroft Family</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DD163FF933A25755C0A9619C8B63" item-length="441" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mr. Murdoch and The Journal</hl1>
+        <hl2 class="online_headline">Mr. Murdoch and The Journal</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Editorial pages generally do not compliment the competition, but today we write in praise of The Wall Street Journal. The Journal, the crown jewel of Dow Jones &amp; Company, produces a balanced and trustworthy news report that is required reading for corporate and political leaders around the world. The question is whether that news operation will survive if Rupert Murdoch persuades the Bancroft family to sell Dow Jones, and thus The Journal.</p>
+        <p>Mr. Murdoch has dangled a hefty $5 billion before the family that has controlled The Journal for more than 100 years. Frankly, we hope the Bancrofts will find a way to continue producing their fine newspaper, or, failing that, find a buyer who is a safer bet to protect the newspaper for its readers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Will The Wall Street Journal survive if Rupert Murdoch persuades the Bancroft family to sell Dow Jones?</p>
+      </block>
+      <block class="full_text">
+        <p>Editorial pages generally do not compliment the competition, but today we write in praise of The Wall Street Journal. The Journal, the crown jewel of Dow Jones &amp; Company, produces a balanced and trustworthy news report that is required reading for corporate and political leaders around the world. The question is whether that news operation will survive if Rupert Murdoch persuades the Bancroft family to sell Dow Jones, and thus The Journal.</p>
+        <p>Mr. Murdoch has dangled a hefty $5 billion before the family that has controlled The Journal for more than 100 years. Frankly, we hope the Bancrofts will find a way to continue producing their fine newspaper, or, failing that, find a buyer who is a safer bet to protect the newspaper for its readers.</p>
+        <p>For the record, most of us who still work for a family-controlled newspaper like The Times lament another news organization's loss of protection from political currents and the unfettered demands of quarterly earnings. When the full corporate culture takes hold, history shows that costly and expert news operations do not flourish. When the coverage of Iraq or Afghanistan or local and national politics is drastically cut, one newspaper starts to look much like the next -- a shrinking space for news filled with news agency reports and handouts.</p>
+        <p>A particularly excellent example of what is at stake appeared on the front page of last Tuesday's Journal, a powerful assessment of Mr. Murdoch's shaky stewardship of the news outlets in his empire. The Journal reported on Mr. Murdoch's successes, of course. It also documented times when Mr. Murdoch has failed to keep his promises of journalistic independence in his media properties.</p>
+        <p>The Journal cited instances in which he reneged on his vow to leave news operations alone, such as at The Times of London, or when his conglomerate canceled a book and stopped carrying the BBC news by satellite to curry favor in China. As it concluded, Mr. Murdoch has tightly controlled news operations that ''have made coverage decisions that advanced the interests of his sprawling media conglomerate.''</p>
+        <p>Would Mr. Murdoch tolerate such frank and expert reporting? If not, the Bancrofts would not simply be cashing in the family business; they would be endangering one of the best newspapers in the world. Mr. Murdoch has promised not to diminish The Journal. At the same time he acknowledges that as a veteran newsman, he likes to meddle in his news properties, which include The New York Post and Fox News Network. We hope he remembers that The Journal's respect for its readers and the readers' trust in The Journal are entwined. Lose one and you lose the other.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

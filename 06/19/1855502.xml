@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treating Psychic Wounds</title>
+    <meta content="19lett-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855502"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4D8123FF93AA25755C0A9619C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treating Psychic Wounds</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re '' 'Been There?' Sometimes That Isn't The Point'' (June 12): As a World War II prisoner of war, I find Sally Satel's conclusions about Vietnam veterans asking ''Been There?'' facile.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re '' 'Been There?' Sometimes That Isn't The Point'' (June 12): As a World War II prisoner of war, I find Sally Satel's conclusions about Vietnam veterans asking ''Been There?'' facile.</p>
+        <p>A psychiatric resident doesn't have the gravitas of an experienced therapist. Many combat veterans lead lives of controlled rage. They rage at their condition; they rage at being misunderstood; and sometimes they even rage at God for allowing them to fall into this snake pit. To gain their confidence you must first earn their trust.</p>
+        <p>Physical wounds heal; psychic wounds are forever. These are the wounds that plague our days, haunt our nights. I agree that a clinician's most valuable asset is experience, and I'm grateful my counselor is not a first-year resident.</p>
+        <p>Norman Bussel</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

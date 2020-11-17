@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Have Germs, Will Travel</title>
+    <meta content="02kawamura" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/opinion/02kawamura.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851458"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tuberculosis</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Epidemics</classifier>
+        <person class="indexing_service">Kawamura, L Masae</person>
+        <person class="indexing_service">Speaker, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Tuberculosis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Epidemics</classifier>
+        <classifier class="online_producer" type="descriptor">Tuberculosis</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tuberculosis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Epidemics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">World Health Organization</org>
+        <person class="online_producer">Speaker, Andrew</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3D61330F931A35755C0A9619C8B63" item-length="953" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Have Germs, Will Travel</hl1>
+        <hl2 class="online_headline">Have Germs, Will Travel</hl2>
+      </hedline>
+      <byline class="print_byline">By L. Masae Kawamura</byline>
+      <byline class="normalized_byline">Kawamura, L Masae</byline>
+      <dateline>SAN FRANCISCO</dateline>
+      <abstract>
+        <p>Op-Ed article by L Masae Kawamura, director of tuberculosis control section of San Francisco Public Health Dept, contends that case of Andrew Speaker, young honeymooner who eluded government efforts to keep him off commercial flights, has brought to light neglected but growing problem of super drug-resistent tuberculosis, and ease with which this deadly airborne disease can travel around world; says it is essential that we redouble our efforts to halt epidemic of drug resistance and global spread of all forms of TB; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF it turns out that none of his fellow passengers were actually infected with the dangerous form of tuberculosis he carries, then Andrew Speaker, the young honeymooner who recently eluded government efforts to keep him off commercial flights, may actually have done a favor to public health. His case has brought to light the neglected but growing problem of super drug-resistant tuberculosis, and the ease with which this deadly airborne disease can travel around the world.</p>
+        <p>Federal health officials have recently warned state and city TB treatment programs to expect budget cuts of as much as 25 percent over the next five years. But Mr. Speaker is not the first world traveler to carry the most drug-resistant TB, and he will surely not be the last. Instead of cutting back on TB research and treatment, we should be intensifying our efforts to fight the disease.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The case of Andrew Speaker has brought to light the neglected but growing problem of super drug-resistant tuberculosis, and the ease with which this deadly airborne disease can travel around the world.</p>
+      </block>
+      <block class="full_text">
+        <p>IF it turns out that none of his fellow passengers were actually infected with the dangerous form of tuberculosis he carries, then Andrew Speaker, the young honeymooner who recently eluded government efforts to keep him off commercial flights, may actually have done a favor to public health. His case has brought to light the neglected but growing problem of super drug-resistant tuberculosis, and the ease with which this deadly airborne disease can travel around the world.</p>
+        <p>Federal health officials have recently warned state and city TB treatment programs to expect budget cuts of as much as 25 percent over the next five years. But Mr. Speaker is not the first world traveler to carry the most drug-resistant TB, and he will surely not be the last. Instead of cutting back on TB research and treatment, we should be intensifying our efforts to fight the disease.</p>
+        <p>We urgently need tests capable of diagnosing drug resistance overnight, so that we can know which patients present the most danger to the public. We need new drugs to outwit the disease. And we need to support a worldwide effort to prevent TB bacteria from developing further drug-resistance.</p>
+        <p>Tuberculosis is an illness that was once thought to be under control. A century ago, it was responsible for one in five deaths in the United States. But then antibiotics came along, and a national effort to develop new drugs and diagnostic tools and to institute TB-control public health programs drove down the rates of tuberculosis in the United States to the point where people assumed it was eradicated.</p>
+        <p>Twenty years ago, complacency about TB control combined with the H.I.V. epidemic and a growing immigrant population to bring about a resurgence. As a result, in the early 1990s, TB programs in the United States were rebuilt to provide better patient care and case investigation and to improve adherence to treatment.</p>
+        <p>These programs have become models for TB treatment around the world. But unfortunately, in many countries, public health standards still fall short. Patients infected with tuberculosis are given inadequate courses of antibiotics, or they fail to adhere to the course of treatment they are given. In such cases, the most drug-resistant strains of the bacteria are allowed to multiply.</p>
+        <p>It's easy to see how drug resistance in any one country grows into a global problem. One-third of the world's population carries the TB bacillus in their bodies, and in the stream of people traveling around the world the bacteria are constantly on the move.</p>
+        <p>The World Health Organization estimates that each person with TB infects 10 to 15 other people, usually by coughing the germs into the air. And once the bacteria reach a new host, they can either progress to disease, keeping the cycle going, or be carried around for years or decades, only to cause illness later on in a chosen few. A robust immune system is needed to contain the infection, but even in healthy people, 5 percent to 10 percent of those exposed go on to develop TB.</p>
+        <p>The most extremely resistant form of the illness -- the kind that Mr. Speaker has, known as XDR-TB, which is impervious to even our most powerful antibiotics -- is now found all over the world. It is thought to be rare, though the exact numbers are unknown. But we know that the numbers are rising, because strains of TB that are resistant to multiple drugs -- the precursors to XDR-TB -- are proliferating. In 2004, almost half a million of the more than 8 million cases of tuberculosis worldwide were resistant to the most potent TB drugs. And drug resistance feeds further drug resistance.</p>
+        <p>Adding to the problem is the long time, often a period of months, that it takes to detect drug resistance. Doctors are forced to treat in the dark, not knowing whether their drugs are actually working.</p>
+        <p>What is needed are tests capable of diagnosing drug resistance within 24 hours -- tests that do not require letting the bacteria grow in culture for days but rather identify gene mutations that confer drug resistance.</p>
+        <p>Such genetic tests to detect resistance to first-line TB drugs already exist, though they are in limited use, mainly in New York and California. We need to put in the effort to develop them for the second-line antibiotics, and make the investment to ensure that the quick tests are put into widespread use.</p>
+        <p>Perhaps if Mr. Speaker's doctors had known before he left for Paris that his tuberculosis was the drug-resistant kind, they might have taken even stronger action to keep him from flying to Europe in the first place. State and federal laws give public health officials the authority they need to keep contagious patients away from the public, but in exercising that authority, it helps to know the danger that a patient poses.</p>
+        <p>In addition, we need more drugs to treat TB. No new drug class has been approved for TB since the antibiotic rifampin, 35 years ago. Without effective drugs to treat the new superbugs, patients often suffer longer periods of contagion, and that makes their treatment extremely costly (from about $90,000 to more than $700,000 per patient).</p>
+        <p>Last fall, the World Health Organization proclaimed XDR-TB to be a public health emergency and called on governments to provide $95 million in 2007 to deal with the problem. Three bills now before Congress would increase domestic and international spending for TB treatment and research.</p>
+        <p>As global travel continues to increase and the rate of drug-resistant TB rises, the number of cases of drug-resistant tuberculosis inevitably will grow. It is essential that we redouble our efforts to halt the epidemic of drug resistance and the global spread of all forms of TB.</p>
+        <p>Op-Ed Contributor L. Masae Kawamura is the director of the tuberculosis control section of the San Francisco Department of Public Health.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">L. Masae Kawamura is the director of the tuberculosis control section of the San Francisco Department of Public Health.</tagline>
+    </body.end>
+  </body>
+</nitf>

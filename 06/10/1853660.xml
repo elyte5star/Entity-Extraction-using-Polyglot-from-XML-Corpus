@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Monica Constain, Bryant Tovar</title>
+    <meta content="10constain" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Constain, Monica Patricia</person>
+        <person class="indexing_service">Tovar, Bryant Fabian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E5D61F30F933A25755C0A9619C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Monica Constain, Bryant Tovar</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Monica Patricia Constain and Bryant Fabian Tovar were married yesterday. The Rev. Andrzej Zglejszewski officiated at St. Rose of Lima Roman Catholic Church in Massapequa, N.Y.</p>
+        <p>Ms. Constain-Tovar, 33, is a staff lawyer for Catholic Charities of the Diocese of Rockville Centre; she works in the immigration services department in Amityville, N.Y. She graduated from St. John's University in Jamaica, Queens, and has a master's degree in criminal justice from the C. W. Post campus of Long Island University. Her law degree is from the Thomas M. Cooley Law School in Lansing, Mich. She is the daughter of Yolanda and Hector M. Constain of Westbury, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Monica Patricia Constain and Bryant Fabian Tovar were married yesterday. The Rev. Andrzej Zglejszewski officiated at St. Rose of Lima Roman Catholic Church in Massapequa, N.Y.</p>
+        <p>Ms. Constain-Tovar, 33, is a staff lawyer for Catholic Charities of the Diocese of Rockville Centre; she works in the immigration services department in Amityville, N.Y. She graduated from St. John's University in Jamaica, Queens, and has a master's degree in criminal justice from the C. W. Post campus of Long Island University. Her law degree is from the Thomas M. Cooley Law School in Lansing, Mich. She is the daughter of Yolanda and Hector M. Constain of Westbury, N.Y.</p>
+        <p>Mr. Tovar, 29, is an associate at Kressel, Rothlein, Walsh &amp; Roth, a law firm in Massapequa. He graduated from the State College of New York at Geneseo and received his law degree from Touro College. He is a son of Mildred and Fabio Tovar of Massapequa.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

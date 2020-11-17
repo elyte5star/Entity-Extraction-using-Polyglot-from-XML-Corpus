@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reynolds Finds New Home At MLB.com as Analyst</title>
+    <meta content="13reynolds" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/sports/baseball/13reynolds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854207"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">ESPN</org>
+        <person class="online_producer">Reynolds, Harold</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E2DF143FF930A25755C0A9619C8B63" item-length="435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reynolds Finds New Home At MLB.com as Analyst</hl1>
+        <hl2 class="online_headline">Reynolds Finds New Home at MLB.com as Analyst</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Harold Reynolds went to work yesterday as an analyst for MLB.com, almost 11 months after being fired by ESPN in a disputed sexual-harassment case. He is suing ESPN for wrongful termination and damages.</p>
+        <p>Reynolds, 46, will work intermittently for MLB.com until the All-Star Game, after which he will have a 15-minute afternoon program Mondays through Fridays.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Harold Reynolds went to work Tuesday as an analyst for mlb.com, almost 11 months after being fired by ESPN in a disputed sexual-harassment case.</p>
+      </block>
+      <block class="full_text">
+        <p>Harold Reynolds went to work yesterday as an analyst for MLB.com, almost 11 months after being fired by ESPN in a disputed sexual-harassment case. He is suing ESPN for wrongful termination and damages.</p>
+        <p>Reynolds, 46, will work intermittently for MLB.com until the All-Star Game, after which he will have a 15-minute afternoon program Mondays through Fridays.</p>
+        <p>''I think this is just the beginning,'' he said by telephone after his one-hour debut, in which he took questions from fans.</p>
+        <p>Reynolds said he had had early talks about joining the MLB Channel when it starts operations in 2009, but that is not part of his contract.</p>
+        <p>The months since his dismissal by ESPN have been difficult, he said, ''but I've got a tremendous wife who's shown great strength through this.''</p>
+        <p>ESPN fired him four months into a six-year contract that was to pay him at least $4.9 million; it later said in a state court filing that five young women had lodged ''concerns'' about Reynolds's sexual misconduct.</p>
+        <p>Last month, a judge in Hartford ordered ESPN to give Reynolds his personnel file; the contents, he said, ''made my case stronger.''</p>
+        <p>''It had what they claimed was in there,'' he said, referring to ESPN officials, ''but for the first time I saw what they were going on, and I felt like their stories were misrepresented. It's kind of sad.''</p>
+        <p>Reynolds said ESPN executives never asked him about the accusations before he was dismissed after 11 years at the network. He was an analyst on ''Baseball Tonight.''</p>
+        <p>He added, ''This isn't about flowers, gifts, cards, lewd jokes, not any of that stuff, because that's not my behavior,'' but a misunderstanding over buying a meal for a woman who was an intern.</p>
+        <p>Reynolds began to talk to baseball officials this year. In a meeting with Bob DuPuy, baseball's chief operating officer, he said, ''I was totally open and transparent and assured him that I didn't feel like I had done anything wrong and that I won't embarrass you.''</p>
+        <p>Reynolds then met with Bob Bowman, the president of MLB Advanced Media, which owns MLB.com.</p>
+        <p>''Harold has a great reputation as a baseball analyst, and we felt comfortable with that,'' Bowman said. ''We asked about his situation, he addressed our questions and we were satisfied.''</p>
+        <p>Reynolds, a former Seattle Mariners second baseman, said he had been spending much of his time with his 13-month-old daughter, his first child.</p>
+        <p>He said he also had been discussing baseball with a group of older men over coffee at a deli near his home in West Hartford, Conn.</p>
+        <p>''They've kept me sharp,'' he said.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

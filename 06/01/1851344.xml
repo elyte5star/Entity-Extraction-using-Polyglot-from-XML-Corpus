@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mickelson Withdraws With Injury To His Wrist</title>
+    <meta content="01mickelson" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/sports/golf/01mickelson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851344"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <org class="online_producer">PGA Tour Inc</org>
+        <person class="online_producer">Mickelson, Phil</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4D71530F932A35755C0A9619C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mickelson Withdraws With Injury To His Wrist</hl1>
+        <hl2 class="online_headline">Mickelson Drops Out of Memorial With Injured Wrist</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON HACK</byline>
+      <dateline>DUBLIN, Ohio, May 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Phil Mickelson withdrew from the first round of the Memorial Tournament at Muirfield Village Golf Club on Thursday with an injured left wrist, two weeks before the start of the United States Open.</p>
+        <p>Mickelson, the No. 2 ranked golfer in the world, said he aggravated the wrist while practicing Monday at Oakmont Country Club, near Pittsburgh, the site of the Open.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two weeks before the start of the U.S. Open, the world’s No. 2 golfer aggravated his left wrist while practicing ahead of the Memorial Touranment in Ohio.</p>
+      </block>
+      <block class="full_text">
+        <p>Phil Mickelson withdrew from the first round of the Memorial Tournament at Muirfield Village Golf Club on Thursday with an injured left wrist, two weeks before the start of the United States Open.</p>
+        <p>Mickelson, the No. 2 ranked golfer in the world, said he aggravated the wrist while practicing Monday at Oakmont Country Club, near Pittsburgh, the site of the Open.</p>
+        <p>He played 11 holes at the Memorial before informing PGA Tour officials that he could no longer continue. He was two over par at the time.</p>
+        <p>Sean O'Hair, Rod Pampling and Nick O'Hern were tied for the lead at seven-under-par 65.</p>
+        <p>Mickelson said he still expected to compete at Oakmont, where he would attempt to win his first United States Open title. He has four runner-up finishes in the championship, including last year at Winged Foot Golf Club, where he made a double bogey on the final hole. He said he had not decided whether he would play at next week's St. Jude Championship in Memphis.</p>
+        <p>''I don't think it's anything serious, but it just got worse,'' said Mickelson, who planned to visit a specialist after he returned to his home in Rancho Santa Fe, Calif. ''I couldn't grab the club and I couldn't swing. I hit a wedge on 2 and it got really aggravated. It started hurting a couple of days ago. I was hitting a lot of chip shots out of the rough at Oakmont, and I think that kind of aggravated it.''</p>
+        <p>His wife, Amy, added, ''It's been hurting him all day.''</p>
+        <p>Mickelson, who will turn 37 on June 16, said pain shot up his arm after he hit a wedge on the second hole Thursday. He took four pain pills but said the wrist got worse after he hit a 5-iron on the fourth hole.</p>
+        <p>He finally sought treatment from a reflexologist, Jim Weathers, who often travels with the Tour. Weathers massaged Mickelson's wrist between golf shots. But it was not enough to keep him in the tournament.</p>
+        <p>''I think the U.S. Open is more what we're gearing up for,'' said Mickelson, who won the Players Championship on May 13. ''As much as I'd love to play here, I couldn't swing. This is a new experience. I guess I'm getting older.''</p>
+        <p>It was the second time Mickelson had withdrawn from a tournament and the first since 2004, when he pulled out before the third round of the Las Vegas Invitational because of food poisoning.</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

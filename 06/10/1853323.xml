@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Les Schwab, Who Turned a Rundown Shop Into a Tire Chain, Dies at 89</title>
+    <meta content="10schwab" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/10schwab.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853323"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Business and Finance</classifier>
+        <classifier class="indexing_service" type="names">Les Schwab</classifier>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <org class="online_producer">Les Schwab Tire Centers</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E3DC163FF933A25755C0A9619C8B63" item-length="407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Les Schwab, Who Turned a Rundown Shop Into a Tire Chain, Dies at 89</hl1>
+        <hl2 class="online_headline">Les Schwab, Who Turned a Rundown Shop Into a Tire Chain, Dies at 89</hl2>
+      </hedline>
+      <byline class="print_byline">By ANGEL JENNINGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Les Schwab, a Western tire tycoon who turned a small shop he bought in 1952 into one of the most respected brands in the industry, died on May 18 in Prineville, Ore. He was 89.</p>
+        <p>Mr. Schwab's death came after several months of declining health, according to a company statement.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>From the rundown shop Mr. Schwab bought with borrowed money, he built a chain of 410 stores throughout the West.</p>
+      </block>
+      <block class="full_text">
+        <p>Les Schwab, a Western tire tycoon who turned a small shop he bought in 1952 into one of the most respected brands in the industry, died on May 18 in Prineville, Ore. He was 89.</p>
+        <p>Mr. Schwab's death came after several months of declining health, according to a company statement.</p>
+        <p>From the rundown shop Mr. Schwab bought with borrowed money, he built Les Schwab Tire Centers, a chain of 410 stores throughout the West, which had $1.6 billion in sales last year.</p>
+        <p>Mr. Schwab became one of the most recognizable figures in the West, appearing with his trademark cowboy hat and folksy demeanor in nearly all of the company's television commercials until a decade ago. He was particularly known for an annual promotion in which he gave away beef and for his intense commitment to customer service.</p>
+        <p>He also created a profit-sharing program that returns half of each store's profits to the employees who work there through annual bonuses and a trust that can make retirees wealthy.</p>
+        <p>Leslie Schwab was born on Oct. 3, 1917, in Bend, Ore., and attended grade school in a boxcar in a logging camp. Both of his parents died when he was 15. He supported himself and his siblings by delivering The Oregon Journal throughout Bend, eventually taking over all nine routes. Soon after graduating from high school, he married his high school sweetheart, Dorothy Harlan.</p>
+        <p>After serving in the Army Air Corps during World War II, Mr. Schwab returned to the newspaper business as the circulation manager of The Bulletin in Bend. In 1952, he bought OK Rubber Welders, a struggling shop with no running water and no toilet, for $11,000. Within one year the company's sales grew to $150,000 from $32,000. Today, Les Schwab Tire Centers employs 7,700 people in Oregon, Washington, Idaho, Montana, California, Nevada, Alaska and Utah.</p>
+        <p>In addition to his wife, Mr. Schwab is survived by four grandchildren and several great-grandchildren. A son, Harlan, was killed in a car accident in 1971. A daughter, Margie Denton, who had been chairwoman of the company, died in 2005.</p>
+        <p>Even after he gave up running the company, Mr. Schwab continued to go to work every day, emphasizing customer service and loyalty to his employees. Patrons who arrive at the company's shops, which have signature red-and-yellow signs, are often met by workers who run to greet them. All employees, including executives and store managers, start out changing tires.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Demand</title>
+    <meta content="18mostpopular" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855445"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MOST WANTED"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E6DB123FF93BA25755C0A9619C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Demand</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''The Green Book: The Everyday Guide to Saving the Planet One Simple Step at a Time,'' by Elizabeth Rogers and Thomas M. Kostigen, will be published tomorrow. It offers hundreds of tips on conservation and short testimonials from such celebrities as Ellen DeGeneres, Robert Redford, Will Ferrell, Jennifer Aniston and Faith Hill.</p>
+        <p>Some of the cost/benefit analyses offered for the tips have a high ''wow'' factor: for example, if over one year each flier's suitcase were packed 10 pounds lighter, a 747 could be fueled for 10 years.</p>
+        <p>SHELLY FREIERMAN</p>
+      </block>
+      <block class="full_text">
+        <p>''The Green Book: The Everyday Guide to Saving the Planet One Simple Step at a Time,'' by Elizabeth Rogers and Thomas M. Kostigen, will be published tomorrow. It offers hundreds of tips on conservation and short testimonials from such celebrities as Ellen DeGeneres, Robert Redford, Will Ferrell, Jennifer Aniston and Faith Hill.</p>
+        <p>Some of the cost/benefit analyses offered for the tips have a high ''wow'' factor: for example, if over one year each flier's suitcase were packed 10 pounds lighter, a 747 could be fueled for 10 years.</p>
+        <p>SHELLY FREIERMAN  MOST WANTED</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

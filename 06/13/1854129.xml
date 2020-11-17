@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The President and His Friends, Younger and More Animated</title>
+    <meta content="13hale" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854129"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E7D7173FF930A25755C0A9619C8B63" item-length="416" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The President and His Friends, Younger and More Animated</hl1>
+      </hedline>
+      <byline class="print_byline">By MIKE HALE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Too lil', too late. The animated satire ''Lil' Bush'' makes its television debut tonight on Comedy Central, and if you think the moment has passed for a show about pint-size, foul-mouthed versions of George W. Bush, Dick Cheney, Donald H. Rumsfeld and Condoleezza Rice getting into all kinds of mischief, you're not alone. (For one thing, hasn't Lil' Rummy been sent home already?)</p>
+        <p>This mocking celebration of executive hubris feels awfully pre-2006-election, and there's a good explanation for that: ''Lil' Bush'' first went on the air last September as a series of five-minute cellphone cartoons, intended to draw young subscribers to a new wireless company, Amp'd Mobile. Apparently it hasn't attracted enough of them; Amp'd Mobile filed for bankruptcy protection this month. But it drew enough attention that Comedy Central has expanded the idea into a half-hour series with two 10-minute cartoons in each episode.</p>
+      </block>
+      <block class="full_text">
+        <p>Too lil', too late. The animated satire ''Lil' Bush'' makes its television debut tonight on Comedy Central, and if you think the moment has passed for a show about pint-size, foul-mouthed versions of George W. Bush, Dick Cheney, Donald H. Rumsfeld and Condoleezza Rice getting into all kinds of mischief, you're not alone. (For one thing, hasn't Lil' Rummy been sent home already?)</p>
+        <p>This mocking celebration of executive hubris feels awfully pre-2006-election, and there's a good explanation for that: ''Lil' Bush'' first went on the air last September as a series of five-minute cellphone cartoons, intended to draw young subscribers to a new wireless company, Amp'd Mobile. Apparently it hasn't attracted enough of them; Amp'd Mobile filed for bankruptcy protection this month. But it drew enough attention that Comedy Central has expanded the idea into a half-hour series with two 10-minute cartoons in each episode.</p>
+        <p>Tonight's installment of this pioneering cellphone-to-television transfer appears to prove that some things are, in fact, too small even for TV. What looked crude and amusing on a phone -- or on YouTube, where the first mobisode has drawn a middling 462,000 views since it was posted nine months ago -- simply looks crude on the medium-size screen, despite the improved animation.</p>
+        <p>The central conceit of ''Lil' Bush'' -- its conception of the president as a supremely self-confident grade schooler who can get away with anything because, well, he's just a little kid -- is a good one. But almost nothing else about this new version is funny, and it doesn't help that the creators have responded to the challenge of expanding the show by making it more edgy, or, to use the traditional term, tasteless.</p>
+        <p>On cellphones we got Lil' Bush and his cronies throwing dark-skinned cafeteria workers into Abu Ghraib-like piles to force them to serve hot dogs for school lunch; on Comedy Central we get Lil' Cheney disappearing during sex with Barbara Bush and eventually being discovered camped out near her kidneys. Jon Stewart ought to be proud to have that as his new lead-in.</p>
+        <p>Lil' Bush  Comedy Central, tonight at 10:30, Eastern and Pacific times; 9:30, Central time.</p>
+        <p>Donick Cary, creator and executive producer; Jay Karas, Seth Cummings and Peter Adderton, executive producers; David Koga and Zoe Friedman, executives in charge of production at Comedy Central.</p>
+        <p>WITH: Voices of Donick Cary (Lil' Cheney), Iggy Pop (Lil' Rummy), Chris Parson (Lil' Bush), Mara Cary (Barbara), Dave Mitchell (George Sr. and Jeb) and Ann Villella (Lil' Condi).</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

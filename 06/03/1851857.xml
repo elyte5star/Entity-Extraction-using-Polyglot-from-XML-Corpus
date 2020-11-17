@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Olivia Cowley, Julian Wassenaar</title>
+    <meta content="03cowley" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03cowley.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851857"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Cowley, Olivia Lorillard (Olivia Lorillard Wassenaar)</person>
+        <person class="indexing_service">Wassenaar, Julian Smith</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDF1230F930A35755C0A9619C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Olivia Cowley, Julian Wassenaar</hl1>
+        <hl2 class="online_headline">Olivia Cowley, Julian Wassenaar</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Olivia Lorillard Cowley, a daughter of Edith L. Cowley and Robert W. Cowley of Newport, R.I., was married there last evening to Julian Smith Wassenaar, a son of Christine A. Smith of Santa Barbara, Calif., and Paul R. Wassenaar of La Jolla, Calif. The Rev. Mark J. Pruitt, an Episcopal priest, performed the ceremony at Trinity Church.</p>
+        <p>The bride, 27, and the bridegroom, 28, last month received M.B.A. degrees from the University of Pennsylvania, from which the bridegroom also received a master's degree in international relations. They are to begin work as investment banking associates in New York this summer. In July she will join the natural resources group at Goldman Sachs, and in August he will work in mergers and acquisitions at Evercore Partners.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Olivia Lorillard Cowley, a daughter of Edith L. Cowley and Robert W. Cowley of Newport, R.I., was married there last evening to Julian Smith Wassenaar, a son of Christine A. Smith of Santa Barbara, Calif., and Paul R. Wassenaar of La Jolla, Calif. The Rev. Mark J. Pruitt, an Episcopal priest, performed the ceremony at Trinity Church.</p>
+      </block>
+      <block class="full_text">
+        <p>Olivia Lorillard Cowley, a daughter of Edith L. Cowley and Robert W. Cowley of Newport, R.I., was married there last evening to Julian Smith Wassenaar, a son of Christine A. Smith of Santa Barbara, Calif., and Paul R. Wassenaar of La Jolla, Calif. The Rev. Mark J. Pruitt, an Episcopal priest, performed the ceremony at Trinity Church.</p>
+        <p>The bride, 27, and the bridegroom, 28, last month received M.B.A. degrees from the University of Pennsylvania, from which the bridegroom also received a master's degree in international relations. They are to begin work as investment banking associates in New York this summer. In July she will join the natural resources group at Goldman Sachs, and in August he will work in mergers and acquisitions at Evercore Partners.</p>
+        <p>Mrs. Wassenaar graduated magna cum laude from Harvard. Her father has edited and compiled 10 anthologies of military history. Her mother, under the name Didi Lorillard, is the author of two New York art guides. She now offers etiquette advice through the Web site newportmanners.com.</p>
+        <p>The bride's paternal grandfather was the late Malcolm Cowley, the literary critic. Her maternal grandparents, Elaine Lorillard of Newport and the late Louis L. Lorillard, were the founders of the Newport Jazz Festival. She is also a descendant of Pierre Lorillard, who founded the P. Lorillard Tobacco Company in 1760.</p>
+        <p>Mr. Wassenaar graduated from Stanford. His father retired as a partner in the law firm of Pillsbury Winthrop Shaw Pittman in San Diego, and is now a lawyer with his own practice in La Jolla.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kamsky Quits, Returns, Quits. Is He Really Back This Time?</title>
+    <meta content="10chess" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/crosswords/10chess.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853334"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Chess"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="descriptor">Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+        <person class="online_producer">Kamsky, Gata</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EEDC163FF933A25755C0A9619C8B63" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kamsky Quits, Returns, Quits. Is He Really Back This Time?</hl1>
+        <hl2 class="online_headline">Kamsky Quits, Returns, Quits. Is He Really Back This Time?</hl2>
+      </hedline>
+      <byline class="print_byline">By Dylan Loeb McClain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1996, Gata Kamsky played Anatoly Karpov for the championship of the World Chess Federation. Kamsky, 21 at the time and ranked No. 3 in the world, lost. Then he quit.</p>
+        <p>The reason given was that he was going to go to medical school and he was done with chess.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gata Kamsky has never really said much about his reasons for coming and going. But this return is going rather well.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1996, Gata Kamsky played Anatoly Karpov for the championship of the World Chess Federation. Kamsky, 21 at the time and ranked No. 3 in the world, lost. Then he quit.</p>
+        <p>The reason given was that he was going to go to medical school and he was done with chess.</p>
+        <p>Three years later, Kamsky emerged to play in the world championship knockout tournament in Las Vegas. He lost in the first round and disappeared again.</p>
+        <p>In 2004, as suddenly as he had stopped, he started playing again.</p>
+        <p>Why did Kamsky quit? Why did he come back?</p>
+        <p>Kamsky has never really said much about his reasons or his life during this period, other than that he went to law school and that he married. But his return is going rather well this time around.</p>
+        <p>Several weeks ago, he tied for second in the elite M-Tel Masters.</p>
+        <p>Now he is playing in the candidates matches in Elista, Kalmykia, a Russian republic on the Caspian Sea, vying to be among four qualifiers for the world championship tournament in Mexico City in September and October. The 16 candidates were pared to 8 last weekend in the first set of matches. Kamsky breezed past Etienne Bacrot of France, 3 1/2 to  1/2.</p>
+        <p>It is highly unusual for a top player to go through a layoff in his prime, return and still be an elite player. After Samuel Reshevsky burst on the world as a child prodigy in 1920, he stopped playing for more than a decade, but he was just 10 when he quit: he then finished school and college.</p>
+        <p>Mikhail Botvinnik, a former world champion, rarely played publicly between championships (every three years), instead devoting himself to studying the game and to his other career as an electrical engineer.</p>
+        <p>In Game 3 of their match, Kamsky outplayed Bacrot from a level position, almost making it look easy.</p>
+        <p>With 8 h3, Kamsky steered clear of a Marshall Attack, which arises after 8 c3 d5 9 ed Nd5 10 Ne5 Ne5 11 Re5 c6. He may have wanted to avoid the variation because it has been so extensively analyzed that a player must know it 20 or 25 moves deep. And one misstep can spell disaster.</p>
+        <p>Bacrot might have tried 14  b4 to keep the queenside closed. He seemed to be drifting, then erred with 17  f6, losing a pawn.</p>
+        <p>Bacrot's 20  Nc3 instead of 20  Bc6 was also a mistake, allowing simplification into an endgame with Kamsky ahead. Bacrot may have thought the opposite-colored bishops enhanced his drawing prospects.</p>
+        <p>Bacrot could have played 28  f5 to try to drum up counterplay against Kamsky's king.</p>
+        <p>His 32  Kg7 was the final mistake, allowing Kamsky to break through with 33 d6, although Black's position was already bad.</p>
+        <p>The endgame after 36  Bc7 37 Rc7 was hopeless, so Bacrot gave up.</p>
+        <p>Chess</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

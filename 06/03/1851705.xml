@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THEATER: THE TONYS | A Season's Indelible Moments; Stephanie J. Block's Cold -- 'The Pirate Queen'</title>
+    <meta content="03snap7" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/theater/theaterspecial/03snap7.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851705"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="'The Pirate Queen'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Robertson, Campbell</person>
+        <person class="indexing_service">Block, Stephanie J</person>
+        <object.title class="indexing_service">Pirate Queen, the (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Block, Stephanie J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E3DB1430F930A35755C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THEATER: THE TONYS | A Season's Indelible Moments; Stephanie J. Block's Cold -- 'The Pirate Queen'</hl1>
+        <hl2 class="online_headline">Stephanie J. Block’s Cold</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+      <byline class="normalized_byline">Robertson, Campbell</byline>
+      <abstract>
+        <p>Article describes indelible moment from 2006-7 theater season, Stephanie J Block's cold on opening night of play The Pirate Queen; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stephanie J. Block was sick, bad. She had such a nasty bug that she missed a few previews of ''The Pirate Queen,'' a show that sits squarely on her shoulders (she plays the title character) and that she even had to leave in the middle of a critics' night performance.</p>
+        <p>But you can't miss opening night. So there she was on the stage of the Hilton Theater, flushed and occasionally sniffling but mostly belting out her songs like nothing was wrong. Anyone in the crowd who didn't know she was sick would probably not have noticed, at first. But those who knew -- a decent portion of the audience, presumably, including myself -- watched as Ms. Block fought valiantly against both the English Army and her rebellious sinuses.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Block fought valiantly against both the English Army and her rebellious sinuses on opening night.</p>
+      </block>
+      <block class="full_text">
+        <p>Stephanie J. Block was sick, bad. She had such a nasty bug that she missed a few previews of ''The Pirate Queen,'' a show that sits squarely on her shoulders (she plays the title character) and that she even had to leave in the middle of a critics' night performance.</p>
+        <p>But you can't miss opening night. So there she was on the stage of the Hilton Theater, flushed and occasionally sniffling but mostly belting out her songs like nothing was wrong. Anyone in the crowd who didn't know she was sick would probably not have noticed, at first. But those who knew -- a decent portion of the audience, presumably, including myself -- watched as Ms. Block fought valiantly against both the English Army and her rebellious sinuses.</p>
+        <p>During the second half of the second act Ms. Block, as usual, was required to be onstage and singing almost continually for what seemed at least half an hour. The misery she was enduring was becoming more apparent (a good thing too, since her character was in prison).</p>
+        <p>But knowing the show, I suddenly recalled a scene that was fast approaching, a scene based on historical fact, at the pirate queen's most triumphant moment, when Queen Elizabeth I gives her a handkerchief to blow her nose.</p>
+        <p>Now there were two story lines unfolding at once, a drama reinforced by real-life anticipation, the kind that can only come from watching real actors confront obstacles right in front of you. When the handkerchief was produced, a murmur passed through the audience.</p>
+        <p>Ms. Block blew her nose.</p>
+        <p>A few in the crowd laughed in support. She smiled.</p>
+        <p>And then she went on to finish the show with renewed vigor, almost collapsing in relief at the curtain call.</p>
+        <p>CAMPBELL ROBERTSON</p>
+        <p>'The Pirate Queen'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Schumer Calls For Energy Efficiency</title>
+    <meta content="05mbrfs-4" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852412"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3D81130F936A35755C0A9619C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Schumer Calls For Energy Efficiency</hl1>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Looking to create national energy-saving standards and to reduce greenhouse gas emissions, Senator Charles E. Schumer said yesterday that he was introducing a measure that would require cities and states to increase energy efficiency in new buildings by 30 percent in the next five years and by 50 percent before 2022. Under the measure, to be introduced next week as an amendment to the Senate energy bill, cities and states would face penalties unless they adopted a standard nationwide code or their own codes requiring energy-efficient systems and designs. Cities that met the standards would be exempt from the penalties even if their states failed to do so, Mr. Schumer said. The amendment, he said, is meant to bring the country in line with the standards in California and New York City, which recently overhauled its building code to require so-called green-building practices.</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+      <block class="full_text">
+        <p>Looking to create national energy-saving standards and to reduce greenhouse gas emissions, Senator Charles E. Schumer said yesterday that he was introducing a measure that would require cities and states to increase energy efficiency in new buildings by 30 percent in the next five years and by 50 percent before 2022. Under the measure, to be introduced next week as an amendment to the Senate energy bill, cities and states would face penalties unless they adopted a standard nationwide code or their own codes requiring energy-efficient systems and designs. Cities that met the standards would be exempt from the penalties even if their states failed to do so, Mr. Schumer said. The amendment, he said, is meant to bring the country in line with the standards in California and New York City, which recently overhauled its building code to require so-called green-building practices.</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inches Too Tall For Tunnel, Rig Plies It Anyway</title>
+    <meta content="01truck" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/nyregion/01truck.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851272"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="descriptor">Bridges and Tunnels</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+        <org class="online_producer">Port Authority of New York and New Jersey</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3D91530F932A35755C0A9619C8B63" item-length="503" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inches Too Tall For Tunnel, Rig Plies It Anyway</hl1>
+        <hl2 class="online_headline">Inches Too Tall for Tunnel, Rig Plies It Anyway</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was just six inches.</p>
+        <p>That was what made the difference at 4:40 a.m. yesterday as Gilberto Cantu, a truck driver from Texas, approached the New Jersey entrance of the Lincoln Tunnel in his big rig, loaded with bathtubs, toilets and plumbing fixtures. The truck was 13 feet 6 inches high. The tunnel has a height limit of 13 feet. Six inches can make a big difference.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A truck driver from Texas did not heed warnings that his rig was too tall for the Lincoln Tunnel and drove the entire length of the tube, damaging his vehicle and the ceiling of the tunnel.</p>
+      </block>
+      <block class="full_text">
+        <p>It was just six inches.</p>
+        <p>That was what made the difference at 4:40 a.m. yesterday as Gilberto Cantu, a truck driver from Texas, approached the New Jersey entrance of the Lincoln Tunnel in his big rig, loaded with bathtubs, toilets and plumbing fixtures. The truck was 13 feet 6 inches high. The tunnel has a height limit of 13 feet. Six inches can make a big difference.</p>
+        <p>Mr. Cantu drove the entire 1.5 miles of the tunnel from Weehawken, N.J., to Manhattan, tearing his way under the Hudson River in the tunnel's center tube and peeling back the roof of his tractor-trailer as if it were a tin can. No one was injured, but an undetermined number of decorative tunnel ceiling tiles were ripped off.</p>
+        <p>It was unclear why Mr. Cantu did not heed warnings from flashing signs and a loudspeaker in New Jersey, said Steve Coleman, a spokesman for the Port Authority of New York and New Jersey, which operates the tunnel. ''There were enough bells and whistles going off that this should not have happened,'' Mr. Coleman said. ''He told the officers he didn't know where he was going.''</p>
+        <p>Mr. Coleman said that accidents of this kind were almost always averted. When a too-tall vehicle enters the toll plaza, an electronic sensor is tripped, several stoplights are activated and police officers at the plaza use a loudspeaker to order the driver to stop.</p>
+        <p>Mr. Coleman said trucks were turned back for exceeding the height limit about once a week. And on the rare occasions when trucks have entered and scraped the tunnel's ceiling, their drivers have invariably stopped, he said, and the police have employed a height-reducing technique of letting air out of the trucks' tires so they could be backed out.</p>
+        <p>Roy Guzman, the safety director of U.S.A. Logistics Carriers of McAllen, Tex., Mr. Cantu's employer, said in a telephone interview that ''it was just a bad call'' by Mr. Cantu. ''He misjudged the height of the tunnel, and once he was inside it he didn't realize the damage he was doing.''</p>
+        <p>Mr. Cantu, of Edinburg, Tex., declined to comment. He was issued nine misdemeanor moving violations, including reckless driving, failure to obey a traffic signal and failure to obey an officer's command.</p>
+        <p>The Lincoln Tunnel's center tube -- one of three -- was closed until 6:15 a.m., delaying by 15 minutes the beginning of express bus service for the morning rush. But Mr. Coleman said there was little disruption of traffic because of the early hour.</p>
+        <p>Mr. Guzman said Mr. Cantu had driven for U.S.A. Logistics for four years and had a spotless safety record. ''We were very, very surprised this happened to him,'' Mr. Guzman said. But he said there would be consequences.</p>
+        <p>''This is going to cost us, and it's going to cost him,'' he said. Whether that means Mr. Cantu will lose his job ''has been discussed, but we have to wait and see until we have a talk with him,'' Mr. Guzman added.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

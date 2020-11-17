@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Defense, The Timing Is Everything</title>
+    <meta content="18card" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/crosswords/bridge/18card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855358"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6DD123FF93BA25755C0A9619C8B63" item-length="576" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Defense, The Timing Is Everything</hl1>
+        <hl2 class="online_headline">In Defense, the Timing Is Everything</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The most common defensive error is not counting. The diagramed deal features another common defensive card-play error. It arose during the HBL International Pairs, the opening event at the Peek Freans 14th Asia and Middle East Bridge Championships in Karachi, Pakistan, in May.</p>
+        <p>If North and South were using natural methods, North would open one club, and five clubs by North is unbeatable. But at the table where I was kibitzing, North and South were using Precision Club, when a one-club opening would have shown at least 16 high-card points. Also, a one-no-trump opening required 15-17 points. So North had to begin with one diamond, which might have been as short as a singleton in his methods. East overcalled two diamonds, a Michaels Cue-Bid promising at least 5-5 in the majors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The most common defensive error is not counting.</p>
+      </block>
+      <block class="full_text">
+        <p>The most common defensive error is not counting. The diagramed deal features another common defensive card-play error. It arose during the HBL International Pairs, the opening event at the Peek Freans 14th Asia and Middle East Bridge Championships in Karachi, Pakistan, in May.</p>
+        <p>If North and South were using natural methods, North would open one club, and five clubs by North is unbeatable. But at the table where I was kibitzing, North and South were using Precision Club, when a one-club opening would have shown at least 16 high-card points. Also, a one-no-trump opening required 15-17 points. So North had to begin with one diamond, which might have been as short as a singleton in his methods. East overcalled two diamonds, a Michaels Cue-Bid promising at least 5-5 in the majors.</p>
+        <p>This gave South an interesting problem, both theoretical and tactical. What would you do?</p>
+        <p>You might walk the dog, as the strange expression for underbidding goes, to try to mislead the opponents about your playing strength. You pass or bid a quiet three diamonds (as was chosen by the player at the table, Sireen Barakat from Jordan).</p>
+        <p>Or you could reveal a good diamond raise. To do this you might bid two spades. When an opponent conventionally describes a two-suiter, a common agreement is to play a cue-bid as strength-showing with length in one of the other two suits. Here a two-heart cue-bid would promise a good hand with five-plus clubs, and a two-spade cue-bid would announce at least a game-invitational limit raise in diamonds.</p>
+        <p>Or you might jump to three spades, a splinter bid showing at least game-going values in diamonds with at most a singleton spade. (Some would even jump to four spades to indicate the void.)</p>
+        <p>Or you might make a fit-showing jump, a bid that is becoming more common in expert circles and is one of my favorites. In a competitive auction, a jump in an unbid suit announces length in that suit and support for partner's suit. You jump to the level of the value of your hand. Here you would leap to four or five clubs to show length in both minors.</p>
+        <p>Back in Karachi, Marwan Ghanem (North) was probably itching to double four spades (but it is down only one). It was hard, though, for South not to go on with five clubs. Sometimes, after initially walking the dog, you are eventually run ragged (forced to overbid).</p>
+        <p>This contract could have been defeated if West had led a heart, but he selected the spade ace. Declarer ruffed, played a trump to dummy's ace and cashed the spade king, throwing a heart. Now South should have called for a diamond. (Ruffing a spade also works, but that is lucky.) Instead she cashed the club queen first. This should have proved expensive, but she was given a late reprieve. After a diamond to the king and ace, declarer cashed her diamond queen, ruffed a diamond on the board, trumped a spade in her hand and ruffed another diamond to give this end position:</p>
+        <p>South called for the spade jack and discarded her last heart. West ruffed, a bad mistake. South immediately claimed the last three tricks.</p>
+        <p>Plus 420 was a cold top. But if West had calmly pitched a heart instead, declarer would have scored only her remaining trump, going down one.</p>
+        <p>A common defensive card-play error is winning a trick at the wrong moment, usually prematurely.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

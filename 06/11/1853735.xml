@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Publishing Quandary: Do Excerpts Help Sales?</title>
+    <meta content="11excerpt" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/media/11excerpt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853735"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="descriptor">Royal Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Royal Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <org class="online_producer">Vanity Fair</org>
+        <person class="online_producer">Brown, Tina</person>
+        <person class="online_producer">Diana, Princess of Wales</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E2DF173FF932A25755C0A9619C8B63" item-length="1000" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Publishing Quandary: Do Excerpts Help Sales?</hl1>
+        <hl2 class="online_headline">A Publishing Quandary: Do Excerpts Help Sales?</hl2>
+      </hedline>
+      <byline class="print_byline">By JOANNE KAUFMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the July issue of Vanity Fair hits newsstands tomorrow, those hungry for news and gossip about the British royal family may find sustenance in the magazine's excerpt from ''The Diana Chronicles,'' Tina Brown's evocation of the life and times of the Princess of Wales.</p>
+        <p>But will the 8,200-word excerpt prove the literary equivalent of an amuse-bouche, something to tide eager readers over until they can get their hands on the book, which comes out the same day? Or will those who plow through the article feel as if they have had their fill?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Although excerpts from high-profile books routinely appear in national magazines, some publishers have been having second thoughts about the strategy.</p>
+      </block>
+      <block class="full_text">
+        <p>When the July issue of Vanity Fair hits newsstands tomorrow, those hungry for news and gossip about the British royal family may find sustenance in the magazine's excerpt from ''The Diana Chronicles,'' Tina Brown's evocation of the life and times of the Princess of Wales.</p>
+        <p>But will the 8,200-word excerpt prove the literary equivalent of an amuse-bouche, something to tide eager readers over until they can get their hands on the book, which comes out the same day? Or will those who plow through the article feel as if they have had their fill?</p>
+        <p>''The goal of any excerpt is to engage readers, to suggest that here is a book that will interest them,'' said Paul Bogaards, executive director of publicity for the Knopf Publishing Group. ''But the key is not to sate them with the material. You want the hunger and thirst to still be there.''</p>
+        <p>Although excerpts from high-profile books routinely appear in national magazines, some publishers have been having second thoughts about the strategy. Frequently, an excerpt can offer a lift to a book's sales, but there is always the risk that it might offer too much, thus stealing thunder (and revenue) from the book.</p>
+        <p>Alison Rich, the director of publicity at Doubleday, publisher of ''The Diana Chronicles,'' said she had no such concerns. ''Tina's writing is extraordinary,'' Ms. Rich said. ''The book is an incredibly rich textured portrait of Diana and all the royals, and it's our belief that readers will be anxious for more.''</p>
+        <p>Even so, among publishers, ''I see more and more of them interested in the TV interview for their author rather than the book excerpt because TV has a greater reach than magazines,'' said Sara Nelson, the editor in chief of Publishers Weekly.</p>
+        <p>Magazine editors who five years ago would have reflexively bid for first serial rights to certain high-profile books are now exploring their options, choosing instead to run a feature about the book or an interview with the author. Some magazines -- Time and Harper's in particular -- have turned to asking authors to write an article or essay that touches on issues raised in their book.</p>
+        <p>''I think the whole model needs to be rethought,'' said Richard Stengel, the managing editor of Time. ''I'm less interested in buying headlines than a great reader experience.''</p>
+        <p>Because the excerpt is just one weapon in the publicity arsenal, publishers are hard-put to assess its role in the campaign. Still, they can point to recent successes like ''It Ain't All About the Cookin' '' by the restaurateur and Food Network host Paula Deen, which was serialized in Ladies' Home Journal and hit the New York Times best-seller list immediately after publication.</p>
+        <p>On the other hand, Time magazine's excerpt of ''I Am a Soldier, Too: The Jessica Lynch Story,'' by Rick Bragg, put a dent in book sales, according to Mr. Bogaards of Knopf. ''The excerpt gave away too much -- I think people felt they'd had their fill,'' he said. ''We sold 175,000 in hardcover but had expected to do twice that.''</p>
+        <p>The trick, publishers say, is to know just what they have got between those hardcovers. When leading administration figures or particular celebrities sign a contract to tell their stories, there is bound to be a conversation about selling first serial rights, the term used for an excerpt that appears in advance of a book's publication.</p>
+        <p>But if such books ''have just one revelation, one major thing that everyone has been waiting to hear, and they read it in an excerpt they're going to think, 'That's enough. I don't need to buy the book,' '' said Kristine Dahl, a literary agent at International Creative Management.</p>
+        <p>For publishers, the problems include fewer magazines that run excerpts, and smaller sums available to pay for them. ''There used to be The Saturday Evening Post, Look and Life, and it was big money,'' said Lynn Nesbit, a literary agent.</p>
+        <p>In those palmy days, it was not unheard-of for $100,000 to change hands in excerpt deals, according to Stuart Applebaum, a spokesman for Random House.</p>
+        <p>But the interests of book publishers and magazine editors do not tend to dovetail. ''What often happens with excerpts is that magazines pick the best stuff or they weave together an excerpt that uses pieces from all over the book so readers get the whole pruned story,'' said Ms. Nelson of Publishers Weekly. ''It's great for the magazine but probably not great for sales of the book.''</p>
+        <p>To protect themselves while extracting maximum benefit, publishers may limit the size and scope of the excerpt and forbid cherry-picking. The publisher may also demand that the excerpt be kept off the magazine's Web site to limit leaks, and require that the excerpt be heralded in a cover line.</p>
+        <p>Because big money is no longer on the table, it is not terribly painful for the publisher to walk away if the parties can't come to terms, publishing executives said. ''For $1,500, why risk exposure of all the juicy bits if it's going to hurt sales?'' said Ellen Archer, the publisher of Hyperion.</p>
+        <p>Some publishers are looking instead to place excerpts on the Internet. ''Amazon.com has expressed interest in first serializations,'' Mr. Bogaards of Knopf said. ''There isn't a silver bullet that delivers 10 million readers. This is just one way to bring awareness to your book and create interest from other media outlets.''</p>
+        <p>According to Mr. Bogaards, the well-chosen slice of a book in the appropriate magazine provides the framework for the initial publicity campaign. A cover in Time or Newsweek suggests weight and importance, perhaps a national dialogue; Vanity Fair, a certain fizz; Ladies' Home Journal or Good Housekeeping, issues of importance to women.</p>
+        <p>The New Yorker? Well, it's not as sought-after for excerpts as one might imagine. ''Everyone thinks it's lovely to have an excerpt there,'' said Ms. Dahl of International Creative Management, but since there's no special designation in the magazine, ''it's hard for readers to know it's from an upcoming book.''</p>
+        <p>MEDIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

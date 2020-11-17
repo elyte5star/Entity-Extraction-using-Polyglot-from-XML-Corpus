@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marc Quinn -- Sphinx</title>
+    <meta content="01gall-6" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851360"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E1D71530F932A35755C0A9619C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marc Quinn -- Sphinx</hl1>
+      </hedline>
+      <byline class="print_byline">By BRIDGET L. GOODBODY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mary Boone Gallery  745 Fifth Avenue, at 57th Street  Through June 30</p>
+        <p>''Sphinx,'' a series by the noted British sculptor Marc Quinn, cleverly negotiates two contemporary sentiments about the human spirit, vacillating between ''you live and then you die'' and ''God is within.''</p>
+      </block>
+      <block class="full_text">
+        <p>Mary Boone Gallery  745 Fifth Avenue, at 57th Street  Through June 30</p>
+        <p>''Sphinx,'' a series by the noted British sculptor Marc Quinn, cleverly negotiates two contemporary sentiments about the human spirit, vacillating between ''you live and then you die'' and ''God is within.''</p>
+        <p>Mr. Quinn, best known for portrait busts made from frozen blood and classical-style sculptures of people born without limbs, here portrays Kate Moss twisted into an assortment of yoga postures. Each is given the title of a Greek or Roman goddess, further suggesting that this is not Kate the supermodel but Kate as society's version of a mythological monster.</p>
+        <p>Even though there's not a spot of cellulite on her perfectly proportioned body, Ms. Moss doesn't look so good in these bronze sculptures, all but one painted white. The postures Mr. Quinn has chosen make her resemble a Cirque du Soleil contortionist. She has a bad case of helmet hair. And her facial expression, haunted by catlike eyes and the same in each sculpture, is creepily deadpan.</p>
+        <p>''Sphinx (Road to Enlightenment),'' gold rather than white, is a bling-enhanced reference to the emaciated, Gandhara-style representation of the Buddha, right down to the heavily stylized robes, protruding ribs, concave belly and visible spinal cord. The Buddha, after almost starving himself to death, realized that the middle path, not ascetic extremes, was the route to enlightenment.</p>
+        <p>Mr. Quinn seems to be suggesting the absurdity of assuming external forms to find true happiness, whether seeking self-perfection through yoga or through devotion to celebrity.</p>
+        <p>BRIDGET L. GOODBODY</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

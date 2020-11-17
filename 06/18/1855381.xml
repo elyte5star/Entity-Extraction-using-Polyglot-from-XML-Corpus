@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOOKING AHEAD</title>
+    <meta content="18ahead" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855381"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DD123FF93BA25755C0A9619C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOOKING AHEAD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ECONOMIC REPORTS -- On a slow week for economic data, there will be an update on the housing market with a report on housing starts for May (Tuesday). There will also be leading economic indicators for May (Thursday).</p>
+        <p>COMPANY EARNINGS -- Wall Street earnings reports will continue with Morgan Stanley (Wednesday). Also, the consumer electronics companies Best Buy (Tuesday) and Circuit City (Wednesday) will report. Other reports will come from Darden Restaurants (Tuesday), FedEx (Wednesday), and H&amp;R Block and Jabil Circuit (Thursday).</p>
+        <p>ET CETERA -- The Paris Air Show starts Monday and runs through Sunday. Closing arguments are scheduled to begin Monday in the trial of Conrad Black, above. Most of the large newspaper companies will be at the Newspaper Association of America's Midyear Media Review on Tuesday and Wednesday in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>ECONOMIC REPORTS -- On a slow week for economic data, there will be an update on the housing market with a report on housing starts for May (Tuesday). There will also be leading economic indicators for May (Thursday).</p>
+        <p>COMPANY EARNINGS -- Wall Street earnings reports will continue with Morgan Stanley (Wednesday). Also, the consumer electronics companies Best Buy (Tuesday) and Circuit City (Wednesday) will report. Other reports will come from Darden Restaurants (Tuesday), FedEx (Wednesday), and H&amp;R Block and Jabil Circuit (Thursday).</p>
+        <p>ET CETERA -- The Paris Air Show starts Monday and runs through Sunday. Closing arguments are scheduled to begin Monday in the trial of Conrad Black, above. Most of the large newspaper companies will be at the Newspaper Association of America's Midyear Media Review on Tuesday and Wednesday in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Netherlands: Milosevic Aide Faces Trial</title>
+    <meta content="19briefs-hague" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855553"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WORLD BRIEFING | EUROPE"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Brief</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DF133FF93AA25755C0A9619C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Netherlands: Milosevic Aide Faces Trial</hl1>
+      </hedline>
+      <byline class="print_byline">By MARLISE SIMONS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vlastimir Djordjevic, an aide to the former Yugoslav leader Slobodan Milosevic, will appear in court in The Hague today to face charges of murder and persecution. Mr. Djordjevic, who was unexpectedly handed over to the war crimes tribunal on Sunday, had been living in Russia. He was arrested in Montenegro, where the police said he had arrived under a false identity. Mr. Djordjevic led Serbia's security police during the 1999 Kosovo war. Prosecutors say he had a major role in deporting Kosovo Albanians. His arrest leaves four others on the run.</p>
+      </block>
+      <block class="full_text">
+        <p>Vlastimir Djordjevic, an aide to the former Yugoslav leader Slobodan Milosevic, will appear in court in The Hague today to face charges of murder and persecution. Mr. Djordjevic, who was unexpectedly handed over to the war crimes tribunal on Sunday, had been living in Russia. He was arrested in Montenegro, where the police said he had arrived under a false identity. Mr. Djordjevic led Serbia's security police during the 1999 Kosovo war. Prosecutors say he had a major role in deporting Kosovo Albanians. His arrest leaves four others on the run.</p>
+        <p>WORLD BRIEFING | EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

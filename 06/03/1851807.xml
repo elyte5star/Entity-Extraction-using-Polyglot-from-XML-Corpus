@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Person, One Office</title>
+    <meta content="NJdual" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/nyregionopinions/NJdual.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="New Jersey"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">Democratic Party</org>
+        <person class="online_producer">Corzine, Jon S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EEDC1530F930A35755C0A9619C8B63" item-length="415" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Person, One Office</hl1>
+        <hl2 class="online_headline">One Person, One Office</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports decision by New Jersey Legislature to end practice of allowing individuals to hold more than one elective office at a time; questions why prohibition will not take effect until after this year's election, in which all 120 seats in Legislature are at stake</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The good news is that the New Jersey Legislature finally seems about to end the practice of holding more than one elective office at a time. The bad news is that legislators will do it with the hypocrisy that New Jerseyans have come to expect of them.</p>
+        <p>Senate Democrats, who have been distinctly cool to the idea of eliminating dual office holding, agreed last month to a ban -- but with a disturbing qualification. The prohibition would not take effect until February, after this year's election, in which all 120 seats in the Legislature are at stake. Any legislators holding two offices at that time would be allowed to keep both jobs until they were voted out of one of them.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why is it defensible for someone elected before next February to hold two elective offices, and it is not for those newly elected after that?</p>
+      </block>
+      <block class="full_text">
+        <p>The good news is that the New Jersey Legislature finally seems about to end the practice of holding more than one elective office at a time. The bad news is that legislators will do it with the hypocrisy that New Jerseyans have come to expect of them.</p>
+        <p>Senate Democrats, who have been distinctly cool to the idea of eliminating dual office holding, agreed last month to a ban -- but with a disturbing qualification. The prohibition would not take effect until February, after this year's election, in which all 120 seats in the Legislature are at stake. Any legislators holding two offices at that time would be allowed to keep both jobs until they were voted out of one of them.</p>
+        <p>Why is it defensible for someone elected before next February to hold two elective offices, and it is not for those newly elected after that? Only a legislator would even try to answer that question.</p>
+        <p>The Senate's agreement to the qualified ban comes after a long tug-of-war between Gov. Jon Corzine, who views dual office holding as part of New Jersey's ethically challenged mosaic, and many legislators, 19 of whom also hold elective office at the county or municipal level. Three of these legislators are not seeking re-election, but the others are.</p>
+        <p>The arguments against the practice seem obvious to almost anyone not benefiting from it. For a start, one has to wonder about a person who holds -- and collects the salaries for -- two or more public offices instead of giving someone else a chance. And then there's the adage that no one can serve two masters, at least not when their interests are in conflict, which is not unusual. Take, for example, a mayor who is also a senator. What is this official to do if a state aid proposal is generous to the mayor's town at the expense of many other communities in the district? Most state constitutions ban the practice outright; New Jersey has more dual office holders than any other state.</p>
+        <p>Sadly, the qualified ban is probably the best New Jersey voters can hope for, and in time it will eliminate the practice completely. For now, however, it will allow State Senator Nicholas Sacco, a Hudson County Democrat and poster boy for dual (in his case triple) office holding, to continue business as usual as long as he is re-elected. Mr. Sacco was just sworn into a new term as mayor of North Bergen, where he is also assistant school superintendent.</p>
+        <p>New Jersey</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

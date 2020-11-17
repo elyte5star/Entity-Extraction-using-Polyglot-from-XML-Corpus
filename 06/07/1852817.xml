@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Louisiana: Public Housing Opens</title>
+    <meta content="07brfs-3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/us/07brfs-housing.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070614T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852817"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Katrina (Storm)</classifier>
+        <location class="indexing_service">New Orleans (La)</location>
+        <org class="indexing_service">Housing and Urban Development Department</org>
+        <person class="indexing_service">Eaton, Leslie</person>
+        <person class="indexing_service">Jackson, Alphonso (Sec)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricane Katrina</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricane Katrina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <org class="online_producer">Housing and Urban Development Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E0D61E30F934A35755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Louisiana: Public Housing Opens</hl1>
+        <hl2 class="online_headline">Louisiana: Public Housing Opens</hl2>
+      </hedline>
+      <byline class="print_byline">By LESLIE EATON</byline>
+      <byline class="normalized_byline">Eaton, Leslie</byline>
+      <abstract>
+        <p>Dept of Housing and Urban Development Sec Alphonso R Jackson says that four public housing duplexes are opening in devastated Lower Ninth Ward of New Orleans; says more than 100 units will be rebuilt in area before end of year; protestors say federal government refuses to reopen projects that suffered little damage in storm (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four public housing duplexes are opening in the devastated Lower Ninth Ward of New Orleans, the secretary of the federal Department of Housing and Urban Development announced at a news conference. The secretary, Alphonso R. Jackson, said that more than 100 housing units would be rebuilt in the neighborhood before the end of the year at the New Desire development, on the site of a city housing project that before Hurricane Katrina was being turned into a mixed-income development. Protesters at the news conference said they were representing thousands of former public-housing residents who have been unable to return to the city because, they said, the federal government refuses to reopen even projects that suffered little damage in the storm.</p>
+        <p>LESLIE EATON</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Four public housing duplexes are opening in the devastated Upper Ninth Ward of New Orleans.</p>
+      </block>
+      <block class="full_text">
+        <p>Four public housing duplexes are opening in the devastated Lower Ninth Ward of New Orleans, the secretary of the federal Department of Housing and Urban Development announced at a news conference. The secretary, Alphonso R. Jackson, said that more than 100 housing units would be rebuilt in the neighborhood before the end of the year at the New Desire development, on the site of a city housing project that before Hurricane Katrina was being turned into a mixed-income development. Protesters at the news conference said they were representing thousands of former public-housing residents who have been unable to return to the city because, they said, the federal government refuses to reopen even projects that suffered little damage in the storm.</p>
+        <p>LESLIE EATON</p>
+        <p>Correction:  June 14, 2007, Thursday  A report in the National Briefing column on June 7 about the opening of four public housing duplexes in New Orleans misidentified their location. It is the Upper Ninth Ward, not the Lower Ninth Ward.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 14, 2007, Thursday</p>
+        <p>A report in the National Briefing column on June 7 about the opening of four public housing duplexes in New Orleans misidentified their location. It is the Upper Ninth Ward, not the Lower Ninth Ward.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

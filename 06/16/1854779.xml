@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Scarlet Letter</title>
+    <meta content="16sat1" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/opinion/16sat1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854779"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Amnesties and Pardons</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Hutchison, Kay Bailey (Sen)</person>
+        <person class="indexing_service">Ensign, John (Sen)</person>
+        <person class="indexing_service">Coleman, Norm (Sen)</person>
+        <person class="indexing_service">Bond, Christopher (Sen)</person>
+        <person class="indexing_service">Graham, Lindsey (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amnesties and Pardons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Graham, Lindsey</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE4D8153FF935A25755C0A9619C8B63" item-length="528" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Scarlet Letter</hl1>
+        <hl2 class="online_headline">The Scarlet Letter</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial contends that harsh Senate immigration bill has gotten harsher, reflection of rigidity of those who have vowed to kill any reform they consider amnesty; maintains that amendments proposed by Kay Bailey Hutchison, John Ensign, Norm Coleman, Christopher Bond and Lindsey Graham seem manifestly awful; holds that only workable immigration reform will combine enforcement at border and in workplace with path to legal status for immigrants already in US, and lawful and orderly flow of future workers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By this time next week, the left-for-dead Senate immigration bill should be up off the slab, lurching toward a final vote. It almost died when Republicans tried to weigh it down with too many harsh amendments. But now it's coming back, thanks to some late attention from President Bush, a rush to repackage it as a super-heavy-duty enforcement measure -- with $4.4 billion to be thrown at the border right away, as a good-faith gesture to the anti-amnesty crowd -- and a deal to limit the amendments from both parties to only a couple dozen.</p>
+        <p>Congress's struggle with immigration reform has been a horror movie, with one false ending after another, and there is still no telling what the monster will look like when the lights finally come up. People who have been watching through their fingers are right to be worried; the bill was harsh and has gotten harsher, a reflection of the rigidity of those who have vowed to kill any reform they consider amnesty.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Senator Lindsey Graham feels the need to act tough on immigration reform, lest he be saddled with the scarlet letter A, for amnesty.</p>
+      </block>
+      <block class="full_text">
+        <p>By this time next week, the left-for-dead Senate immigration bill should be up off the slab, lurching toward a final vote. It almost died when Republicans tried to weigh it down with too many harsh amendments. But now it's coming back, thanks to some late attention from President Bush, a rush to repackage it as a super-heavy-duty enforcement measure -- with $4.4 billion to be thrown at the border right away, as a good-faith gesture to the anti-amnesty crowd -- and a deal to limit the amendments from both parties to only a couple dozen.</p>
+        <p>Congress's struggle with immigration reform has been a horror movie, with one false ending after another, and there is still no telling what the monster will look like when the lights finally come up. People who have been watching through their fingers are right to be worried; the bill was harsh and has gotten harsher, a reflection of the rigidity of those who have vowed to kill any reform they consider amnesty.</p>
+        <p>Keep a close eye this week on the amendments that make the short list for the coming debate. This will be the main opportunity for senators who were not involved in the ''grand bargain'' to shape -- or eviscerate -- the bill to their liking. Details were fluid into last night, but at least five of the possible amendments seem manifestly awful.</p>
+        <p>Kay Bailey Hutchison has an amendment to send applicants for legalization on a ''touchback'' trip abroad before getting their Z visas, a new hurdle sure to discourage participation in the program. John Ensign would prevent those who paid into Social Security as illegal immigrants from ever getting that money back, and cut off their young children from death benefits. Norm Coleman would require that all state and local laws that forbid government employees to ask people's immigration status be stricken before other provisions of the bill take effect. Christopher Bond would simply forbid holders of Z visas from ever getting green cards.</p>
+        <p>And Lindsey Graham, who has spoken movingly about the need for reasonable, decent treatment of immigrants, especially immigrant families, has been trying to take the debate back to the dark days of Representative Jim Sensenbrenner's anti-immigrant bill, with an amendment that would turn people who overstay their visas into criminals subject to minimum 60-day prison sentences.</p>
+        <p>It seems likely that Mr. Graham, who is one of the ''grand bargainers'' and is up for re-election next year, has been burned by the uproar on the hard right and feels the need to act tough, lest he be saddled -- as Representative Steve King of Iowa has urged -- with the scarlet letter A, for amnesty.</p>
+        <p>That is a shame, because Mr. Graham knows as well as anyone that the only workable immigration reform will be one that values being smart over being reflexively tough. It will be one that combines enforcement at the border and in the workplace with a path to legal status, even citizenship, for the immigrants already here, and a lawful and orderly flow of future workers. That's the dream, anyway. Congress had a bill like that once, a while back, but the dream is in great danger of slipping away.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

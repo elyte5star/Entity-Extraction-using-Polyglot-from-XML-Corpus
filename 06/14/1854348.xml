@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>House Panel Passes Bill to Cut Subsidies to Student Lenders</title>
+    <meta content="14loans" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/washington/14loans.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854348"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Student Loans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E5DA143FF937A25755C0A9619C8B63" item-length="418" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>House Panel Passes Bill to Cut Subsidies to Student Lenders</hl1>
+        <hl2 class="online_headline">House Panel Passes Bill to Cut Subsidies to Student Lenders</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANA JEAN SCHEMO</byline>
+      <byline class="normalized_byline">Schemo, Diana Jean</byline>
+      <dateline>WASHINGTON, June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The House education committee voted Wednesday to cut subsidies to student lenders and to halve the interest rates on a key student loan program over the next five years.</p>
+        <p>The bill, approved in a 30-to-16 vote that included many Republicans on the yes side, underscored the vastly changed landscape facing the student loan industry, which is facing major challenges this year, including investigations of its marketing and underwriting practices. The Senate education committee is taking up its own bill next week, expected to include even deeper cuts in subsidies to lenders than the $19 billion in the House bill, and President Bush also proposed cuts in payments to lenders.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The bill, approved in a 30-to-16 vote that included many Republicans on the yes side, underscored the vastly changed landscape facing the student loan industry.</p>
+      </block>
+      <block class="full_text">
+        <p>The House education committee voted Wednesday to cut subsidies to student lenders and to halve the interest rates on a key student loan program over the next five years.</p>
+        <p>The bill, approved in a 30-to-16 vote that included many Republicans on the yes side, underscored the vastly changed landscape facing the student loan industry, which is facing major challenges this year, including investigations of its marketing and underwriting practices. The Senate education committee is taking up its own bill next week, expected to include even deeper cuts in subsidies to lenders than the $19 billion in the House bill, and President Bush also proposed cuts in payments to lenders.</p>
+        <p>''For far too long, college costs have grown faster than families' ability to pay them,'' said Representative George Miller, Democrat of California and chairman of the House Education and Labor Committee. ''With this bill, we are saying that help is on the way.''</p>
+        <p>The bill met with sharp criticism from the lending industry. In a statement, the Consumer Bankers Association, which represents lenders, called it an ''anti-student bill in pro-student clothing,'' predicting that it would result in fewer services to students as lenders seek to cut overhead costs.</p>
+        <p>The bill raises the maximum Pell grants for low- and moderate-income students over the next five years, to $5,200 from the current $4,700. It eases repayment for students relying on federal loans to pay for college, by lowering the maximum a graduate must make in loan payments to 15 percent of income, rather than the current 20 percent.</p>
+        <p>It also offers $4,000 a year in tuition assistance for students planning to become public school teachers and forgives up to $5,000 in student loans for graduates who enter public service, including law enforcement officers, firefighters, nurses and public defenders.</p>
+        <p>Many of the bill's elements, like the cuts in lender subsidies, had either been proposed by Congressional Republicans in the past or included in Mr. Bush's budgets.</p>
+        <p>The lower interest rate, which would apply to need-based student loans, had also been approved by the full House shortly after the new Congress was sworn in last January. But Wednesday's bill extends the period during which the interest rate will drop to 3.4 percent, from its current 6.8 percent, to a year, instead of six months.</p>
+        <p>The bill pays for the estimated $18 billion in expanded benefits to students through some $19 billion in cuts to lender payments. Another $750 million of the savings will go toward reducing the federal deficit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

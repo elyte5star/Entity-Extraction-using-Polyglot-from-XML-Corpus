@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kaitlin Rahl, Nicholas Brandt</title>
+    <meta content="17Rahl" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/fashion/weddings/17Rahl.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855103"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Rahl, Katherine Farrell (Katherine Farrell Brandt)</person>
+        <person class="indexing_service">Brandt, Nicholas Doran</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E0DB153FF934A25755C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kaitlin Rahl, Nicholas Brandt</hl1>
+        <hl2 class="online_headline">Kaitlin Rahl, Nicholas Brandt</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Katherine Farrell Rahl and Nicholas Doran Brandt were married last evening at the Madison Beach Club in Madison, Conn. The Rev. Nancy E.R. Leckerling, a minister of the United Church of Christ, officiated.</p>
+        <p>The couple, both 27, met at Williams College, from which they graduated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Katherine Farrell Rahl and Nicholas Doran Brandt were married last evening at the Madison Beach Club in Madison, Conn. The Rev. Nancy E.R. Leckerling, a minister of the United Church of Christ, officiated.</p>
+      </block>
+      <block class="full_text">
+        <p>Katherine Farrell Rahl and Nicholas Doran Brandt were married last evening at the Madison Beach Club in Madison, Conn. The Rev. Nancy E.R. Leckerling, a minister of the United Church of Christ, officiated.</p>
+        <p>The couple, both 27, met at Williams College, from which they graduated.</p>
+        <p>Mrs. Brandt, who is known as Kaitlin, teaches 10th-grade English at Belmont High School in Belmont, Mass. She received a master's degree in English education from Harvard.</p>
+        <p>She is the daughter of Mary C. Farrell of Stuart, Fla., and J. Andrew Rahl of New York, and the stepdaughter of Leslie Rahl and Daniel J. Sullivan. Her father is a partner in Anderson Kill &amp; Olick, a New York law firm. Her mother, who is retired, worked in New York as the chief investment strategist for United States clients in the wealth management division of UBS, the Swiss Bank. She was also a panelist on ''Wall Street Week With Louis Rukeyser,'' on public television. The bride's stepfather retired as a partner in Salans, a law firm in New York. Her stepmother is the president of Capital Market Risk Advisors in New York.</p>
+        <p>Mr. Brandt graduated last month from Boston College Law School.</p>
+        <p>He is a son of Susan Mascette Brandt and William Brandt of Plymouth, Mass. His mother retired as a partner in Harter Secrest &amp; Emery, a law firm in Rochester. His father retired as a partner in the Rochester office of Nixon Peabody, the law firm.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

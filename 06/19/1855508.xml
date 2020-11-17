@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Yankee Needs an Ambulance, to Help His Home Country</title>
+    <meta content="19ambulance" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/nyregion/19ambulance.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855508"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Dominican Republic</classifier>
+        <classifier class="online_producer" type="descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Dominican Republic</location>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Cano, Robinson</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7DF133FF93AA25755C0A9619C8B63" item-length="487" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Yankee Needs an Ambulance, to Help His Home Country</hl1>
+        <hl2 class="online_headline">A Yankee Needs an Ambulance, to Help His Home Country</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID GONZALEZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Robinson Canó, second baseman for the New York Yankees,  went comparison shopping for a new vehicle recently, he wound up at a Bronx hospital.</p>
+        <p>He wasn't injured. He was sizing up ambulances so he could donate one to the hospital in his hometown in the Dominican Republic, San Pedro de Macoris. He is doing this not at the urging of a tax adviser or media consultant, but because of a nagging memory.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Robinson Canó, second baseman for the New York Yankees, recently donated an ambulance to a hospital in the Dominican Republic.</p>
+      </block>
+      <block class="full_text">
+        <p>When Robinson Canó, second baseman for the New York Yankees,  went comparison shopping for a new vehicle recently, he wound up at a Bronx hospital.</p>
+        <p>He wasn't injured. He was sizing up ambulances so he could donate one to the hospital in his hometown in the Dominican Republic, San Pedro de Macoris. He is doing this not at the urging of a tax adviser or media consultant, but because of a nagging memory.</p>
+        <p>A friend who once played softball with him, Luis Romero, was thrown from a motorcycle last year when it bounced at the bottom of a hill.</p>
+        <p>''He hit his head,'' Mr. Canó said softly. ''The hospital had no ambulance, so they had to put him in a jeep and take him to Santo Domingo, an hour away. He died when he got there. Maybe if they had an ambulance with first aid he could have been saved.''</p>
+        <p>Mr. Canó, an unassuming 24-year-old in his third season, sought out Julio Pabon, who has done media training for the Yankees' Spanish-speaking rookies.</p>
+        <p>''I thought he was going to ask me something personal like he wanted a girl's number,'' Mr. Pabon said. ''But an ambulance?''</p>
+        <p>Mr. Pabon was surprised, since Mr. Canó hardly made major league money, just under $500,000. And San Pedro de Macoris -- renowned for its shortstops -- has no shortage of stars with salaries to match.</p>
+        <p>''What got me was Robinson gets a little more than minimum wage -- for baseball, anyway,'' Mr. Pabon said. ''Guys in their first or second year playing are not thinking too much about their community, bro. They're thinking about how to stay alive in the majors and get that big, multimillion contract.''</p>
+        <p>Mr. Pabon arranged for Mr. Canó to see different ambulance models at Bronx-Lebanon Hospital Center, where representatives of TransCare, an ambulance company, waited to discuss how they could help.</p>
+        <p>Any thought of calmly inspecting the ambulances vanished once Mr. Canó arrived.</p>
+        <p>An overprotective bubble of hospital security people clung to him as he looked at the vehicles while passers-by held phones aloft to snap pictures.</p>
+        <p>One woman who tried to get an autograph argued with one security officer.</p>
+        <p>''Do not touch me!'' she shouted.</p>
+        <p>When Mr. Canó went to look at a Fire Department ambulance, one security guard gruffly shouted, ''No pictures! No pictures!'' even though the vehicle was parked on a public street.</p>
+        <p>Mr. Canó soon left for a local restaurant to meet with the TransCare representatives, who wanted to learn more about conditions in his hometown.</p>
+        <p>He was impressed with the ambulances, but puzzled by the local reaction.</p>
+        <p>As they drove off, he mentioned to Mr. Pabon how the woman who had tried to get his autograph did get his attention.</p>
+        <p>''She said 'Tell your bodyguard to treat women better!' '' he recalled. ''But I do not have a bodyguard.''</p>
+        <p>He does not make that kind of money -- yet.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   TURRET, HON. JACK</title>
+    <meta content="dn061807" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855350"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">TURRET, HON. JACK</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED6143AF93BA25755C0A9619C8B63" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   TURRET, HON. JACK</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TURRET--Hon. Jack, passed peacefully on June 16, 2007. Adored widower of Rita, beloved father of Ira and David and daughters-in-law Josette and Nancy, cherished grandfather of Jonathan, Daniel and Jason, devoted brother of Bernard, Hy and Gertrude. Services Monday, June 18, 2007, 11:45am, Riverside Memorial Chapel, 76th and Amsterdam Ave.</p>
+      </block>
+      <block class="full_text">
+        <p>TURRET--Hon. Jack, passed peacefully on June 16, 2007. Adored widower of Rita, beloved father of Ira and David and daughters-in-law Josette and Nancy, cherished grandfather of Jonathan, Daniel and Jason, devoted brother of Bernard, Hy and Gertrude. Services Monday, June 18, 2007, 11:45am, Riverside Memorial Chapel, 76th and Amsterdam Ave.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="02trns" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851460"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2D61330F931A35755C0A9619C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  INDIANA PACERS--Named Jim Morris special adviser to CEO Donnie Walsh.  ORLANDO MAGIC--Named Billy Donovan head coach.</p>
+        <p>Continental Basketball Association  ALBANY PATROONS--Named Dave Bestle vice president and general manager.</p>
+        <p>W.N.B.A.</p>
+        <p>WASHINGTON MYSTICS--Announced the resignation of Richie Adubato, coach. Named Tree Rollins interim coach.</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.  NEW ENGLAND PATRIOTS--Re-signed CB Antwain Spann.  WASHINGTON REDSKINS--Signed WR Jason McAddley. Released RB Terry Caulley.</p>
+        <p>Arena League  GRAND RAPIDS RAMPAGE--Signed WR-DB Astin Martin and LB Michael McFadden to the practice squad.  LAS VEGAS GLADIATORS--Signed OL Terrell McGill.  NASHVILLE KATS--Signed WR Agim Shabaj from the practice squad of Grand Rapids.  NEW ORLEANS VOODOO--Signed DB Talib Wise.  UTAH BLAZE--Signed WR-LB Huey Whittaker to the practice squad.</p>
+        <p>N.H.L.</p>
+        <p>CALGARY FLAMES--Re-signed F Matthew Lombardi to a multiyear contract and F Marcus Nilson to a two-year contract.  CAROLINA HURRICANES--Re-signed D Glen Wesley to a one-year contract.  COLORADO AVALANCHE--Signed F Jaroslav Hlinka to a one-year contract.  COLUMBUS BLUE JACKETS--Signed D Mikko Maenpaa to a one-year contract.  NASHVILLE PREDATORS--Signed F Patric Hornqvist, F Antti Pihlstrom, F Oliver Setzinger, D Janne Niskala, D Richard Stehlik and D Alexander Sulzer.  PHILADELPHIA FLYERS--Signed F Josh Beaulieu and G Jeremy Duchesne.  ST. LOUIS BLUES--Signed F Patrik Berglund, F Martin Kariya, F Nikolai Lemtyugov, D Jonus Junland and G Juuso Riksman.  TORONTO MAPLE LEAFS--Signed D Phi lOreskovic to a three-year contract.  WASHINGTON CAPITALS--Signed G Michal Neuvirth to a three-year contract.</p>
+      </block>
+      <block class="full_text">
+        <p>BASKETBALL</p>
+        <p>N.B.A.  INDIANA PACERS--Named Jim Morris special adviser to CEO Donnie Walsh.  ORLANDO MAGIC--Named Billy Donovan head coach.</p>
+        <p>Continental Basketball Association  ALBANY PATROONS--Named Dave Bestle vice president and general manager.</p>
+        <p>W.N.B.A.</p>
+        <p>WASHINGTON MYSTICS--Announced the resignation of Richie Adubato, coach. Named Tree Rollins interim coach.</p>
+        <p>FOOTBALL</p>
+        <p>N.F.L.  NEW ENGLAND PATRIOTS--Re-signed CB Antwain Spann.  WASHINGTON REDSKINS--Signed WR Jason McAddley. Released RB Terry Caulley.</p>
+        <p>Arena League  GRAND RAPIDS RAMPAGE--Signed WR-DB Astin Martin and LB Michael McFadden to the practice squad.  LAS VEGAS GLADIATORS--Signed OL Terrell McGill.  NASHVILLE KATS--Signed WR Agim Shabaj from the practice squad of Grand Rapids.  NEW ORLEANS VOODOO--Signed DB Talib Wise.  UTAH BLAZE--Signed WR-LB Huey Whittaker to the practice squad.</p>
+        <p>N.H.L.</p>
+        <p>CALGARY FLAMES--Re-signed F Matthew Lombardi to a multiyear contract and F Marcus Nilson to a two-year contract.  CAROLINA HURRICANES--Re-signed D Glen Wesley to a one-year contract.  COLORADO AVALANCHE--Signed F Jaroslav Hlinka to a one-year contract.  COLUMBUS BLUE JACKETS--Signed D Mikko Maenpaa to a one-year contract.  NASHVILLE PREDATORS--Signed F Patric Hornqvist, F Antti Pihlstrom, F Oliver Setzinger, D Janne Niskala, D Richard Stehlik and D Alexander Sulzer.  PHILADELPHIA FLYERS--Signed F Josh Beaulieu and G Jeremy Duchesne.  ST. LOUIS BLUES--Signed F Patrik Berglund, F Martin Kariya, F Nikolai Lemtyugov, D Jonus Junland and G Juuso Riksman.  TORONTO MAPLE LEAFS--Signed D Phi lOreskovic to a three-year contract.  WASHINGTON CAPITALS--Signed G Michal Neuvirth to a three-year contract.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

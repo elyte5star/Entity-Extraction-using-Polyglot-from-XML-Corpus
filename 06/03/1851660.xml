@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Assassination Conversation</title>
+    <meta content="Letters.t-1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851660"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0DB1730F930A35755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Assassination Conversation</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As the author of ''A Farewell to Justice,'' which challenges the conclusions of the Warren Commission, I was taken aback by Bryan Burrough's suggestion in his review of ''Reclaiming History,'' by Vincent Bugliosi (May 20), that those who do not accept Bugliosi's defense of the Warren report should be ''marginalized'' and made to ''stand in the rain with the other outcasts.'' Ideas, after all, are best argued on their merit, and the First Amendment of the Constitution appears to encourage debate even on issues of received wisdom. Burrough apparently has no stomach for the subject, as he attempts to malign inquiry into the assassination of President Kennedy as ''one of the left's more wrongheaded crusades.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As the author of ''A Farewell to Justice,'' which challenges the conclusions of the Warren Commission, I was taken aback by Bryan Burrough's suggestion in his review of ''Reclaiming History,'' by Vincent Bugliosi (May 20), that those who do not accept Bugliosi's defense of the Warren report should be ''marginalized'' and made to ''stand in the rain with the other outcasts.'' Ideas, after all, are best argued on their merit, and the First Amendment of the Constitution appears to encourage debate even on issues of received wisdom. Burrough apparently has no stomach for the subject, as he attempts to malign inquiry into the assassination of President Kennedy as ''one of the left's more wrongheaded crusades.''</p>
+        <p>I would have hoped that The Times might have discovered a reviewer less burdened by ideology.</p>
+        <p>Joan Mellen  Pennington, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: Tennessee: University Cannot Sell Artwork, Judge Says</title>
+    <meta content="14brfs-4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/us/14brfs-nashville.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854468"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <org class="indexing_service">Fisk University</org>
+        <person class="indexing_service">O'Keeffe, Georgia (1887-1986)</person>
+        <person class="indexing_service">Hartley, Marsden (1877-1943)</person>
+        <person class="indexing_service">Emery, Theo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD8143FF937A25755C0A9619C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: Tennessee: University Cannot Sell Artwork, Judge Says</hl1>
+        <hl2 class="online_headline">Tennessee: University Cannot Sell Artwork, Judge Says</hl2>
+      </hedline>
+      <byline class="print_byline">By THEO EMERY</byline>
+      <byline class="normalized_byline">Emery, Theo</byline>
+      <abstract>
+        <p>Nashville judge rules that Fisk University cannot sell artwork from its Stieglitz Collection by Georgia O'Keeffe and Marsden Hartley; university planned to sell two paintings to bolster its endowment and pay for campus improvements (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Nashville judge has ruled that Fisk University cannot sell artwork from its Stieglitz Collection, including Georgia O'Keeffe's signature painting ''Radiator Building-Night, New York.'' Tuesday's chancery court ruling came in a legal dispute over the university's right to sell the O'Keeffe and a painting by Marsden Hartley; both were donated by Ms. O'Keeffe in 1949. The university announced plans to sell the two paintings in late 2005 to bolster its endowment and pay for campus improvements.</p>
+        <p>THEO EMERY</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Nashville judge has ruled that Fisk University cannot sell artwork from its Stieglitz Collection, including Georgia O’Keeffe’s signature painting “Radiator Building-Night, New York.”</p>
+      </block>
+      <block class="full_text">
+        <p>A Nashville judge has ruled that Fisk University cannot sell artwork from its Stieglitz Collection, including Georgia O'Keeffe's signature painting ''Radiator Building-Night, New York.'' Tuesday's chancery court ruling came in a legal dispute over the university's right to sell the O'Keeffe and a painting by Marsden Hartley; both were donated by Ms. O'Keeffe in 1949. The university announced plans to sell the two paintings in late 2005 to bolster its endowment and pay for campus improvements.</p>
+        <p>THEO EMERY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

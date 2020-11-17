@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Indonesia Reports the Arrest of a 2nd Top Terrorism Suspect</title>
+    <meta content="16indonesia" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/world/asia/16indonesia.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854757"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Indonesia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Indonesia</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <location class="online_producer">Indonesia</location>
+        <org class="online_producer">Jemaah Islamiyah</org>
+        <org class="online_producer">Al Qaeda</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E1D9153FF935A25755C0A9619C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Indonesia Reports the Arrest of a 2nd Top Terrorism Suspect</hl1>
+        <hl2 class="online_headline">Indonesia Reports the Arrest of a 2nd Top Terrorism Suspect</hl2>
+      </hedline>
+      <byline class="print_byline">By PETER GELLING</byline>
+      <dateline>JAKARTA, Indonesia, June 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The leader of the Southeast Asia terrorist network Jemaah Islamiyah was seized last weekend during raids by Indonesia's antiterrorism force, the police said at a news conference on Friday.</p>
+        <p>The leader, Zarkasih, who uses only one name, was caught in central Java shortly after a raid on June 9 that turned up Abu Dujana, a deputy who leads the military arm of Jemaah Islamiyah.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The leader of the Southeast Asia terrorist network Jemaah Islamiyah was seized last weekend during raids by Indonesia’s antiterrorism force, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>The leader of the Southeast Asia terrorist network Jemaah Islamiyah was seized last weekend during raids by Indonesia's antiterrorism force, the police said at a news conference on Friday.</p>
+        <p>The leader, Zarkasih, who uses only one name, was caught in central Java shortly after a raid on June 9 that turned up Abu Dujana, a deputy who leads the military arm of Jemaah Islamiyah.</p>
+        <p>The two arrests deal a major blow to the organization. The arrest of Abu Dujana seriously weakens its military wing and will make Indonesia more secure from terrorists' attacks, analysts and law enforcement officials said. And, they added, the capture of Mr. Zarkasih will hinder the already fractured network's ability to rebuild.</p>
+        <p>''He is the emir of Jemaah Islamiyah,'' Col. Petrus Golose of the national police force, a member of the antiterrorism team, said of Mr. Zarkasih in an interview. ''He controls everyone; everyone important reports to him.''</p>
+        <p>Mr. Zarkasih and Abu Dujana were arrested in central Java by the elite Detachment 88, some members of which have received training in the United States and Australia. The two men are still being interrogated near Yogyakarta.</p>
+        <p>Several other suspects were arrested in the raids, but their identities have not been released.</p>
+        <p>The authorities are still searching for the Malaysian-born Noordin M. Top, a Jemaah Islamiyah militant who some analysts say may have started a splinter group and who is believed to be responsible for several bombings in Indonesia.</p>
+        <p>Jemaah Islamiyah is responsible for most of the major attacks in Indonesia, including the 2002 Bali nightclub bombing, which killed more than 200 people.</p>
+        <p>During the news conference, the police played a videotape of the two men describing their roles in Jemaah Islamiyah. Mr. Zarkasih, 45, said he had been acting head of the organization since 2004, replacing Abu Bakar Bashir and Abu Rusdan.</p>
+        <p>The police said Abu Dujana was wanted specifically for his role in planning the 2003 bombing of the Marriott hotel in Jakarta and the 2004 bombing of the Australian Embassy there.</p>
+        <p>But both men, the police said, have been active members since the network's beginning.</p>
+        <p>Raids by Detachment 88 in March uncovered detailed plans of Jemaah Islamiyah's new command structure, which led the police to the central Java location where they found Abu Dujana and Mr. Zarkasih.</p>
+        <p>Jemaah Islamiyah, some of whose senior members, including Abu Dujana and Mr. Zarkasih, have connections with Al Qaeda and fought in the Afghan war against the Soviet occupation, has been weakened over the last few years by the success of Detachment 88.</p>
+        <p>But the network is resilient and has previously managed to rebuild quickly after the arrest of its leaders. The organization's ideological roots run deep throughout Indonesia, especially on Java.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

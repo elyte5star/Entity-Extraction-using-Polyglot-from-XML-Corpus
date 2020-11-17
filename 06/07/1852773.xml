@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Early Advice On Successor For Prosecutor</title>
+    <meta content="07attorneys" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852773"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED71E30F934A35755C0A9619C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Early Advice On Successor For Prosecutor</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC LIPTON and SCOTT SHANE</byline>
+      <byline class="normalized_byline">Shane, Scott; Lipton, Eric</byline>
+      <dateline>WASHINGTON, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Five days after senior Justice Department officials gave the White House the first official list of possible United States attorneys to be dismissed, an executive of a conservative legal group offered the Bush administration a recommendation for one replacement candidate, documents released Wednesday show.</p>
+        <p>Leonard A. Leo, the executive vice president of the Federalist Society, e-mailed the recommendation on March 7, 2005, to the Justice Department official in charge of the office that supervised the attorneys.</p>
+      </block>
+      <block class="full_text">
+        <p>Five days after senior Justice Department officials gave the White House the first official list of possible United States attorneys to be dismissed, an executive of a conservative legal group offered the Bush administration a recommendation for one replacement candidate, documents released Wednesday show.</p>
+        <p>Leonard A. Leo, the executive vice president of the Federalist Society, e-mailed the recommendation on March 7, 2005, to the Justice Department official in charge of the office that supervised the attorneys.</p>
+        <p>''You guys need a good candidate?'' Mr. Leo wrote, referring to the United States attorney's office in San Diego, then led by Carol Lam, who was not told she was being dismissed until December 2006.</p>
+        <p>Mr. Leo said he would ''strongly recommend'' that Mary L. Walker, the general counsel to the Air Force, be named as Ms. Lam's successor.</p>
+        <p>The exchange suggests, contrary to testimony provided by Justice Department officials, that they started early to look for conservative Republicans to replace the prosecutors they would eventually dismiss.</p>
+        <p>Mr. Leo said in an interview Wednesday evening that he did not remember writing the message. At the time, he said, he was not aware that the Justice Department was preparing to oust nine United States attorneys. But he said it was likely that he was asked for a recommendation for a candidate in San Diego -- and that he provided one.</p>
+        <p>''The only way I could have possibly made that recommendation is if somebody said to me, 'Gee, do you know anyone who would be good?' '' he said.</p>
+        <p>Also on Wednesday, James Comey, the former deputy attorney general, revealed that Vice President Dick Cheney had blocked a proposed promotion for a subordinate of Mr. Comey's, Patrick F. Philbin.</p>
+        <p>In written answers to questions from the Senate Judiciary Committee, Mr. Comey suggested that Mr. Cheney opposed Mr. Philbin's appointment as principal deputy solicitor general because of a clash in 2004 over the National Security Agency's domestic eavesdropping program. Mr. Philbin, like Mr. Comey and others, believed the program needed changes to be lawful, but Mr. Cheney disagreed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

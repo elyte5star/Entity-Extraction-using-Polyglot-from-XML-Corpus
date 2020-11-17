@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miles To Go Before They Sleep</title>
+    <meta content="CT-special--session" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/nyregionopinions/CT-special-session.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855036"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Connecticut</location>
+        <person class="online_producer">Rell, M Jodi</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D7143FF934A25755C0A9619C8B63" item-length="502" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miles To Go Before They Sleep</hl1>
+        <hl2 class="online_headline">Miles to Go Before They Sleep</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial lists legislation that Connecticut General Assembly needs to pass</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In politics, reaching consensus is more difficult in good times than in bad. Both Republicans and Democrats had big ideas about how to spend a large surplus that now approaches $1 billion. But endless debate and discussion over six months never helped them find common ground. Now the General Assembly needs a special session to complete the most basic task of government: passing a budget.</p>
+        <p>The fiscal year ends June 30, and most observers believe that the Democrats who control the House and Senate will reach an agreement with Gov. M. Jodi Rell and the minority Republicans by that deadline. Yet nothing is certain, and the issues are difficult.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A budget will pass when both sides remember why they are in office and stop posturing over their favorite proposals, none of which stand much of a chance.</p>
+      </block>
+      <block class="full_text">
+        <p>In politics, reaching consensus is more difficult in good times than in bad. Both Republicans and Democrats had big ideas about how to spend a large surplus that now approaches $1 billion. But endless debate and discussion over six months never helped them find common ground. Now the General Assembly needs a special session to complete the most basic task of government: passing a budget.</p>
+        <p>The fiscal year ends June 30, and most observers believe that the Democrats who control the House and Senate will reach an agreement with Gov. M. Jodi Rell and the minority Republicans by that deadline. Yet nothing is certain, and the issues are difficult.</p>
+        <p>The Republicans, for instance, at one point suggested that they would vote for the earned income tax credit for the working poor, favored by Democrats, if the Democrats agreed to phase out the state's inheritance tax. That seems absurd on its face; the inheritance tax brings in $180 million a year, while the earned income tax credit would cost $55 million in its first year.</p>
+        <p>The truth is that it should take only about three hours to complete a budget deal; the problem is that nobody ever really knows when those three hours will occur. One thing seems clear: A budget will pass when both sides remember why they are in office and stop posturing over their favorite proposals, none of which stand much of a chance.</p>
+        <p>Meanwhile, several measures that actually deserve to pass have been held up by the budget stalemate. Legislators should:</p>
+        <p>Repeal the pensions of government officials convicted of corruption. This simple and necessary measure never made it to a full vote of the House and Senate.</p>
+        <p>Rein in the judicial branch. The Judiciary Committee never approved a proposed state constitutional amendment that would make Connecticut courts subject to Freedom of Information laws. But members unanimously approved a bill that would allow legislators final say over court procedures that have allowed judges to seal thousands of court cases to keep them from public view and otherwise thwart the public interest.</p>
+        <p>Unfortunately, in final negotiations with the judicial branch, the committee co-chairmen, Representative Michael Lawlor and Senator Andrew McDonald, both Democrats, harangued by lawmakers and judges alike, agreed to compromises that watered down the bill. The changes went too far. The proposal approved by the Judiciary Committee was the better version, and if that has a prayer of being resurrected, it is worth passing. Otherwise, a constitutional amendment is still the best alternative.</p>
+        <p>Change the law that treats juveniles as adults. Connecticut is one of only a few states that treats 16- and 17-year-olds who commit serious crimes as adults, an expensive and shortsighted policy that gives great power to judges and prosecutors and emphasizes incarceration over rehabilitation. A bill that would gradually raise the age for juveniles passed the Senate but failed to pass the House. Yet there is broad consensus on the need to treat juveniles as the minors they are. The General Assembly should pass the bill.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

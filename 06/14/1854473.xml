@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: More On Congestion Plan</title>
+    <meta content="14mbrfs-2" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14mbrfs-congest.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854473"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EED8143FF937A25755C0A9619C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: More On Congestion Plan</hl1>
+        <hl2 class="online_headline">Manhattan: More on Congestion Plan</hl2>
+      </hedline>
+      <byline class="print_byline">By DIANE CARDWELL; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Trucks that meet tougher emissions standards would pay just $7 rather than the $21 fee charged to other trucks to enter the busiest parts of Manhattan under a new provision of Mayor Michael R. Bloomberg's congestion pricing plan, the mayor said yesterday. He made the announcement at Gracie Mansion, surrounded by labor leaders who endorsed his overall environmental program, PlaNYC. Officials said that cleaner, more efficient trucks, as well as those retrofitted to reduce emissions by 85 percent, would qualify for the discounts. Mr. Bloomberg said that there were no plans to reduce the $8 automobile fee for lower-emission cars like hybrids because the program was intended both to reduce traffic and to raise revenue.</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Trucks that meet tougher emissions standards would pay just $7 rather than the $21 fee charged to other trucks to enter the busiest parts of Manhattan under proposed congestion pricing.</p>
+      </block>
+      <block class="full_text">
+        <p>Trucks that meet tougher emissions standards would pay just $7 rather than the $21 fee charged to other trucks to enter the busiest parts of Manhattan under a new provision of Mayor Michael R. Bloomberg's congestion pricing plan, the mayor said yesterday. He made the announcement at Gracie Mansion, surrounded by labor leaders who endorsed his overall environmental program, PlaNYC. Officials said that cleaner, more efficient trucks, as well as those retrofitted to reduce emissions by 85 percent, would qualify for the discounts. Mr. Bloomberg said that there were no plans to reduce the $8 automobile fee for lower-emission cars like hybrids because the program was intended both to reduce traffic and to raise revenue.</p>
+        <p>DIANE CARDWELL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

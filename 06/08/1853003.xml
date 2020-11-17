@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Conceptual Photography</title>
+    <meta content="08gall-5" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853003"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFDA1F30F93BA35755C0A9619C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Conceptual Photography</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>1964-1989  Zwirner &amp; Wirth  32 East 69th Street  Through June 23</p>
+        <p>The material in this intriguing little show of one or two works each by nearly 30 artists spans generations and nationalities, from 1970s Arte Povera Italians to post-Pop Germans to 1980s post-Conceptual Americans. It includes some classics by usual suspects, among them Joan Jonas, Dan Graham, Dennis Oppenheim, Vito Acconci and Charles Ray. But there are also just enough oddities to make it feel very personal.</p>
+      </block>
+      <block class="full_text">
+        <p>1964-1989  Zwirner &amp; Wirth  32 East 69th Street  Through June 23</p>
+        <p>The material in this intriguing little show of one or two works each by nearly 30 artists spans generations and nationalities, from 1970s Arte Povera Italians to post-Pop Germans to 1980s post-Conceptual Americans. It includes some classics by usual suspects, among them Joan Jonas, Dan Graham, Dennis Oppenheim, Vito Acconci and Charles Ray. But there are also just enough oddities to make it feel very personal.</p>
+        <p>These include John Baldessari's 1968 ''Born to Paint,'' a Rauschenberg-like arrangement of grainy photographs of the artist, with notations that include his height and weight; Barry Le Va's 1969 ''Drop,'' which documents a process piece that involved dropping sheets of gray felt into the Mississippi River from a bridge in Minneapolis; and Hans Breder's 1972 ''Body Sculpture,'' a photograph that involves fewer naked bodies than you think.</p>
+        <p>Allen Ruppersberg's ''100 Miles per Hour,'' a bit of Story Art from 1972, establishes him as a prophet of set-up photography, which is further explored in subsequent, not always familiar works by Marcel Broodthaers, Fischli &amp; Weiss and Laurie Simmons.</p>
+        <p>Giuseppe Penone's ''To Reverse One's Eyes'' of 1970 is a self-portrait that replaces the artist's irises with the scene in front of him, creating a crazed look. And Ana Mendieta creates an X-ray effect by projecting an image of a skeleton on her naked body.</p>
+        <p>The way subjects and techniques ricochet among the works in the show feels like something that has evolved over time. You will be right in suspecting that these works belong to a single private collector, who is selling them the old-fashioned way, through a gallery, rather than at auction.</p>
+        <p>ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

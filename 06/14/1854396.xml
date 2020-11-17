@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="14askk" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/technology/14askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854396"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Software</classifier>
+        <classifier class="online_producer" type="descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4D9143FF937A25755C0A9619C8B63" item-length="687" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Fixing Silent Movies in Windows</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fixing Silent Movies In Windows</p>
+        <p>Q. I cannot play a DVD on my computer's Windows XP operating system. I see the picture, but there is no sound. I have fiddled with the Sounds control panel and checked to make sure I had not accidentally muted it, but it was fine.</p>
+        <p>A. Several things could be keeping your movies silent, but you may want to start off by making sure that you have the latest drivers for your system's DVD player.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I cannot play a DVD on my computer’s Windows XP operating system. I see the picture, but there is no sound. What is keeping my movies silent?</p>
+      </block>
+      <block class="full_text">
+        <p>Fixing Silent Movies In Windows</p>
+        <p>Q. I cannot play a DVD on my computer's Windows XP operating system. I see the picture, but there is no sound. I have fiddled with the Sounds control panel and checked to make sure I had not accidentally muted it, but it was fine.</p>
+        <p>A. Several things could be keeping your movies silent, but you may want to start off by making sure that you have the latest drivers for your system's DVD player.</p>
+        <p>If you don't find anything on the Windows Update site (www.windowsupdate.com), try the drive manufacturer's Web site; many companies keep their updates in the Support area.</p>
+        <p>If you don't know the drive's maker, check your manual or look in the Windows Device Manager (found in the System folder in the Control Panel folder); the Device Manager has driver information and also an ''Update Driver'' button.</p>
+        <p>If your DVD drivers are current and you're trying to watch your movie with the built-in Windows Media Player software, you may need to update the program with a bit of software called a codec. A codec, short for compressor/decompressor or coder/decoder, works with a multimedia program to play the audio or video data in a certain format. Microsoft has links to several DVD decoder plug-ins for Windows Media Player on Windows XP and Vista systems at http://tinyurl.com/j9e29. Downloading and installing one of these codecs may solve your playback problem. The page also has a link to the Windows XP Video Decoder Checkup Utility as well.</p>
+        <p>Some codec programs cost money (around $15), but there are several sites offering free codec downloads that can be found with a quick Web search.</p>
+        <p>Windows XP users can find a DVD Troubleshooter program in the Support area that may also help solve playback problems. Information on how to use it is at http://support.microsoft.com/kb/308012.</p>
+        <p>Cracking Open File Attachments</p>
+        <p>Q. Is there any way to open an e-mail attachment of a file when I don't have the program that file was created in or don't know what program created it?</p>
+        <p>A. Please, before you do anything else, make sure your antivirus and antispyware programs are up to date before opening unfamiliar files.</p>
+        <p>Some file formats, like MP3 or JPEG, can be opened by a number of different audio player or picture viewer programs, and your operating system probably has built-in software to handle files in common formats.</p>
+        <p>If you receive a file in an unfamiliar format, figuring out what kind of file it is may help you find a program to open it. Look at the three-letter file extension after the period at the end of the file's name. If you don't recognize it, sites like filext.com or Whatis.com's ''Every File Extension in the World'' page (http://tinyurl.com/5jj) list hundreds of extensions.</p>
+        <p>If you don't have Windows set to display file extensions, open a folder like My Documents, select Folder Options from the Tools menu, uncheck the box next to ''Hide extensions for known file types'' and click on the ''Apply to All Folders'' button. On a Mac OS X system, go to the Finder, select Preferences from the Finder menu, click on the Advanced icon and check the box next to ''Show all file extensions.''</p>
+        <p>Files in proprietary formats usually pose bigger problems. Word-processing programs have traditionally used their own document formats, which can be tough to open without third-party software.</p>
+        <p>It is also possible to find conversion software to help crack open the files, especially if Macintosh-Windows issues are involved. MacLinkPlus is a program that Mac users have been using to convert and open Windows file formats for years, and Conversions Plus can open many types of Mac files on a PC; both are available at www.dataviz.com.</p>
+        <p>TIP OF THE WEEK -- Keyboard shortcuts can save time and a lot of mousework for common computing chores, but sometimes it is hard to find them. Microsoft rounds up dozens of shortcuts in one place for Windows XP (http://tinyurl.com/yx47lv) and Vista (http://tinyurl.com/2jwz2f), while Mac OS X users can find similar options at http://tinyurl.com/3ap34.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

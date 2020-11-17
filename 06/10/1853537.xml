@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Forgettable Legislative Session</title>
+    <meta content="CT-legislature" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/opinion/nyregionopinions/CT-legislature.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853537"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Property Taxes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Connecticut</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2DF1F30F933A25755C0A9619C8B63" item-length="541" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Forgettable Legislative Session</hl1>
+        <hl2 class="online_headline">A Forgettable Legislative Session</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls recently concluded legislative session in Connecticut forgettable both for bills that were passed and those that failed</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After starting with high hopes, a veto-proof Democratic majority and a big budget surplus six months ago, the legislative session staggered to a close Wednesday without a budget agreement and few of its big goals accomplished.</p>
+        <p>Democrats' aims of raising taxes and making the income tax more progressive to finance universal health care never came close to the finish line. The Democrats, for their part, dismissed much of Gov. M. Jodi Rell's agenda: education and health care proposals, property tax cuts and proposed caps on property tax increases. Ms. Rell kept the Democrats off balance with different ideas for a while, but she could never gain traction on her initiatives.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This session will be remembered as much for what the General Assembly did not pass as for what it did.</p>
+      </block>
+      <block class="full_text">
+        <p>After starting with high hopes, a veto-proof Democratic majority and a big budget surplus six months ago, the legislative session staggered to a close Wednesday without a budget agreement and few of its big goals accomplished.</p>
+        <p>Democrats' aims of raising taxes and making the income tax more progressive to finance universal health care never came close to the finish line. The Democrats, for their part, dismissed much of Gov. M. Jodi Rell's agenda: education and health care proposals, property tax cuts and proposed caps on property tax increases. Ms. Rell kept the Democrats off balance with different ideas for a while, but she could never gain traction on her initiatives.</p>
+        <p>The result was deadlock; this session will be remembered as much for what the General Assembly did not pass as for what it did. The bill that would have put a deposit on water bottles died for the third year in a row. A no-brainer bill to revoke the pensions of corrupt public officials died in the Senate, the fourth year such a measure did not come up for a vote in the General Assembly. Such a failure is incomprehensible, and makes lawmakers' speeches denouncing corruption ring hollow.</p>
+        <p>Even bills that passed did so with a Keystone Kops quality about the proceedings, or worse, added up to what one observer called ''the sum of all lobbyists.'' The energy bill was a prime example. Citizens who have clamored for lower electric bills should understand precisely what happened, because everyone agreed that if the legislature did nothing else it should find some way to lower rates that are second only to Hawaii's.</p>
+        <p>There were two energy bills. The House's version was thoroughly vetted in committee and on the floor. Yet it was the Senate version that ultimately passed. It was championed by Senator John Fonfara, the Democratic co-chairman of the Energy and Technology Committee, and sprung on the legislature, with the blessing of the leadership, just hours before the vote. Even if lawmakers wanted to read the bill, 165 pages in all, they did not have time.</p>
+        <p>The bill was not all bad; its energy efficiency provisions, for instance, enjoyed broad support. But unlike the original House version of the bill, this proposal increased the power of the market to set Connecticut's electric rates -- ignoring evidence that states that have managed to reduce their rates have also required some state intervention to control generating costs. This bill did not do that.</p>
+        <p>The bill also contained expensive boondoggles. One will require ratepayers to spend hundreds of millions of dollars on expensive and unnecessary meters (they spent $250 million for exactly the same purpose in 2005). And it mandated obscure ''energy efficiency partnerships'' costing $60 million a year to help sell the public on energy saving technologies, but because it requires little accountability or clear procedures for competitive proposals, it invites waste and corruption.</p>
+        <p>This enormously complicated bill did not promise much in the way of lower rates and may in fact increase them. Ms. Rell signed it anyway. Politics is always messy. But Connecticut, which has seen more than its share of corruption, has a special responsibility to set high standards in conducting the people's business. That did not happen often enough this session.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

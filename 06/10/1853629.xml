@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alexandra Dwyer, Philip Edwards</title>
+    <meta content="10DWYER" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10DWYER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853629"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Dwyer, Alexandra Jean (Alexandra Jean Edwards)</person>
+        <person class="indexing_service">Edwards, Philip Mortimer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EED71F30F933A25755C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alexandra Dwyer, Philip Edwards</hl1>
+        <hl2 class="online_headline">Alexandra Dwyer, Philip Edwards</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alexandra Jean Dwyer, the daughter of Judy R. Dwyer and Denis J. Dwyer of Southampton, N.Y., was married yesterday to Philip Mortimer Edwards, the son of the late Veronica G. Edwards and the late James M. Edwards, who lived in New York. Msgr. Edmond J. Trench, a Roman Catholic priest, officiated at Sacred Hearts of Jesus and Mary Church in Southampton.</p>
+        <p>Mrs. Edwards, 29, is a vice president and a recruiter for the Whitney Group, a consulting and executive-recruitment concern in New York. She graduated from Bucknell. Her father retired as the executive vice president of National Investor Data Services in New York, which developed computer software for financial services firms. Her mother retired as a corporate director in human resources for Avon Products in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alexandra Jean Dwyer, the daughter of Judy R. Dwyer and Denis J. Dwyer of Southampton, N.Y., was married yesterday to Philip Mortimer Edwards, the son of the late Veronica G. Edwards and the late James M. Edwards, who lived in New York. Msgr. Edmond J. Trench, a Roman Catholic priest, officiated at Sacred Hearts of Jesus and Mary Church in Southampton.</p>
+      </block>
+      <block class="full_text">
+        <p>Alexandra Jean Dwyer, the daughter of Judy R. Dwyer and Denis J. Dwyer of Southampton, N.Y., was married yesterday to Philip Mortimer Edwards, the son of the late Veronica G. Edwards and the late James M. Edwards, who lived in New York. Msgr. Edmond J. Trench, a Roman Catholic priest, officiated at Sacred Hearts of Jesus and Mary Church in Southampton.</p>
+        <p>Mrs. Edwards, 29, is a vice president and a recruiter for the Whitney Group, a consulting and executive-recruitment concern in New York. She graduated from Bucknell. Her father retired as the executive vice president of National Investor Data Services in New York, which developed computer software for financial services firms. Her mother retired as a corporate director in human resources for Avon Products in New York.</p>
+        <p>Mr. Edwards, 32, works in New York as a senior associate at the global investment group of AIG, the insurance company. He graduated from Trinity College in Hartford and received a master's degree in finance from City University, London. His mother was an interior space planner and designer at Skidmore, Owens &amp; Merrill, the architectural firm in New York. His father was a partner in the New York law firm of Cravath, Swaine &amp; Moore.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

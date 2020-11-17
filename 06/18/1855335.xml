@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   COHEN, CLAUDIA</title>
+    <meta content="dn061807" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855335"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">COHEN, CLAUDIA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807EFD6143AF93BA25755C0A9619C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   COHEN, CLAUDIA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COHEN--Claudia. To the Cohen's, Samantha and Ronald we will miss her unmatched passion and loyalty. Lucy and Richard Halperin</p>
+        <p>$(6$)COHEN--Claudia. To our beloved and beautiful Claudia. A member of the Rita Hayworth Gala Steering Committee for more than 12 years, her dedication, intelligence, drive, devotion, generosity, wisdom and style will be sorely and profoundly missed. Presented with the National Alzheimer's Association Rita Hayworth Award in 2000, Claudia made the fight against Alzheimer's ''her cause,'' to the benefit of so many. Princess Yasmin Aga Khan, Founder, Rita Hayworth Galas and Honorary Vice Chair, Alzheimer's Association Board of Directors; Rita Hayworth Gala Steering Committee Members Muffie Potter Aston, Donna Dixon Aykroyd, Cornelia Sharpe Bregman, Margo Catsimatidis, Nancy Corzine, Hilary Dick, Somers Farkas, Phyllis George, Deborah Grubman, Anne Hearst, Michele Herbert, Susan Hess, Laura Hunt, Nurit Kahane Haase, Louise Kornfeld, Judith Ripka, Andrea Stark, Felicia Taylor; and the Alzheimer's Association National Board of Directors</p>
+        <p>$(6$)COHEN--Claudia. The Board of Directors of the Food Allergy Initiative mourns the loss of our dear friend Claudia and extends our deepest sympathy to Samantha and family.</p>
+        <p>$(6$)COHEN--Claudia. Dearest Harriet, Bob and Jimmy. Claudia was so special, our thoughts are with you. Phyllis and Marty Berman</p>
+      </block>
+      <block class="full_text">
+        <p>COHEN--Claudia. To the Cohen's, Samantha and Ronald we will miss her unmatched passion and loyalty. Lucy and Richard Halperin</p>
+        <p>$(6$)COHEN--Claudia. To our beloved and beautiful Claudia. A member of the Rita Hayworth Gala Steering Committee for more than 12 years, her dedication, intelligence, drive, devotion, generosity, wisdom and style will be sorely and profoundly missed. Presented with the National Alzheimer's Association Rita Hayworth Award in 2000, Claudia made the fight against Alzheimer's ''her cause,'' to the benefit of so many. Princess Yasmin Aga Khan, Founder, Rita Hayworth Galas and Honorary Vice Chair, Alzheimer's Association Board of Directors; Rita Hayworth Gala Steering Committee Members Muffie Potter Aston, Donna Dixon Aykroyd, Cornelia Sharpe Bregman, Margo Catsimatidis, Nancy Corzine, Hilary Dick, Somers Farkas, Phyllis George, Deborah Grubman, Anne Hearst, Michele Herbert, Susan Hess, Laura Hunt, Nurit Kahane Haase, Louise Kornfeld, Judith Ripka, Andrea Stark, Felicia Taylor; and the Alzheimer's Association National Board of Directors</p>
+        <p>$(6$)COHEN--Claudia. The Board of Directors of the Food Allergy Initiative mourns the loss of our dear friend Claudia and extends our deepest sympathy to Samantha and family.</p>
+        <p>$(6$)COHEN--Claudia. Dearest Harriet, Bob and Jimmy. Claudia was so special, our thoughts are with you. Phyllis and Marty Berman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

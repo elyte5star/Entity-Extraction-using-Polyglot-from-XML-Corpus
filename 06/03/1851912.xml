@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For One Gender, It's Even Lonelier At the Top</title>
+    <meta content="03count" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/business/yourmoney/03count.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851912"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: THE COUNT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/The Count</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1D81330F930A35755C0A9619C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For One Gender, It's Even Lonelier At the Top</hl1>
+        <hl2 class="online_headline">For One Gender, It’s Even Lonelier at the Top</hl2>
+      </hedline>
+      <byline class="print_byline">By PHYLLIS KORKKI</byline>
+      <byline class="normalized_byline">Korkki, Phyllis</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you're a woman and you aspire to be a C.E.O., you're better off working in nonprofits or health care. And you may want to avoid the semiconductor and the aerospace industries.</p>
+        <p>You might come to that conclusion after reading a new report from ZoomInfo, a business data search engine. After crawling across the Web with its information feelers, ZoomInfo plucked out data on the gender composition of executives across 13 industries.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If you’re a woman and you aspire to be a C.E.O., you’re better off working in nonprofits or health care.</p>
+      </block>
+      <block class="full_text">
+        <p>If you're a woman and you aspire to be a C.E.O., you're better off working in nonprofits or health care. And you may want to avoid the semiconductor and the aerospace industries.</p>
+        <p>You might come to that conclusion after reading a new report from ZoomInfo, a business data search engine. After crawling across the Web with its information feelers, ZoomInfo plucked out data on the gender composition of executives across 13 industries.</p>
+        <p>The results are hardly surprising: at the top of corporate America, men predominate. Even in the nonprofit sector, women make up just 29.6 percent of chiefs. But that looks like progress when set against semiconductor companies (3.1 percent) and aerospace (4.5 percent).</p>
+        <p>Coincidentally, Lorene F. Schaefer, an executive in General Electric's legal department, sued the company last week, saying it is biased against women in pay and promotions. G.E. vigorously denies her accusations. But Ms. Schaefer maintains that she ''bumped up against an absolute glass ceiling'' in the executive ranks.</p>
+        <p>PHYLLIS KORKKI</p>
+        <p>OPENERS: THE COUNT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wendy's Explores A Possible Sale</title>
+    <meta content="19wendys" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/business/19wendys.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855650"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Fast Food Industry</classifier>
+        <org class="indexing_service">Wendy's International Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Ohio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fast Food Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Ohio</location>
+        <location class="online_producer">Wall Street (NYC)</location>
+        <org class="online_producer">Wendy's International Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E1DE133FF93AA25755C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wendy's Explores A Possible Sale</hl1>
+        <hl2 class="online_headline">Wendy’s Explores a Possible Sale</hl2>
+      </hedline>
+      <byline class="print_byline">By THE ASSOCIATED PRESS</byline>
+      <dateline>COLUMBUS, Ohio, June 18</dateline>
+      <abstract>
+        <p>Wendy's International is exploring possible sale of company as it warns that profits for year will fall short of Wall Street expectations (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wendy's International said Monday that it was exploring a possible sale of the company as it warned that profits for the year would fall short of Wall Street expectations.</p>
+        <p>''While a sale remains only one of the alternatives under consideration, we believe it merits more thorough examination,'' James V. Pickett, Wendy's chairman and head of a special committee doing the study, said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hamburger chain Wendy’s International said on Monday it would explore the possible sale of the company instead of other restructuring options.</p>
+      </block>
+      <block class="full_text">
+        <p>Wendy's International said Monday that it was exploring a possible sale of the company as it warned that profits for the year would fall short of Wall Street expectations.</p>
+        <p>''While a sale remains only one of the alternatives under consideration, we believe it merits more thorough examination,'' James V. Pickett, Wendy's chairman and head of a special committee doing the study, said.</p>
+        <p>The company, under pressure from shareholders, formed a committee in April to determine how to increase its stock price.</p>
+        <p>A sale would cap a whirlwind year for the company, which has spun off its Tim Hortons coffee-and-doughnut chain, shed its money-losing Baja Fresh Mexican Grill and laid off employees at its corporate office.</p>
+        <p>The company said there was no assurance that a deal would be completed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

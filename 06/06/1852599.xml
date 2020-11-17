@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Africa: South Africa: Health Minister Snubs AIDS Meeting</title>
+    <meta content="06fbriefs-4" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852599"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <location class="indexing_service">South Africa</location>
+        <person class="indexing_service">Wines, Michael</person>
+        <person class="indexing_service">Tshabalala-Msimang, Manto (Min)</person>
+        <person class="indexing_service">Mlambo-Ngcuka, Phumzile (Min)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/South Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E4DC1E30F935A35755C0A9619C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Africa: South Africa: Health Minister Snubs AIDS Meeting</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL WINES</byline>
+      <byline class="normalized_byline">Wines, Michael</byline>
+      <abstract>
+        <p>Vice Pres Phumzile Mlambo-Ngcuca of South Africa says Health Min Manto Tshabalala-Msimang, long known for questioning scientific tenets of AIDS epidemic, has turned down invitation to address nation's third annual conference on disease because she was not given conspicuous spot on conference agenda; Dr Tshabalala-Msimang's speech was to mark her return to public life after long illness (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The health minister, long known for questioning the scientific tenets of the AIDS epidemic, has turned down an invitation to address the nation's third annual conference on the disease because she was not given a conspicuous spot on the conference agenda, Vice President Phumzile Mlambo-Ngcuka said. The minister, Manto Tshabalala-Msimang, was excluded from opening ceremonies at the conference, in Durban, but had been scheduled to speak today at a gathering of AIDS experts and activists. Ms. Mlambo-Ngcuka, who did speak at the opening session, criticized the event's organizers for relegating Dr. Tshabalala-Msimang to a lesser spot on the program. The health minister's speech was to mark her return to public life after a long illness culminating early this year in a liver transplant.</p>
+        <p>MICHAEL WINES</p>
+      </block>
+      <block class="full_text">
+        <p>The health minister, long known for questioning the scientific tenets of the AIDS epidemic, has turned down an invitation to address the nation's third annual conference on the disease because she was not given a conspicuous spot on the conference agenda, Vice President Phumzile Mlambo-Ngcuka said. The minister, Manto Tshabalala-Msimang, was excluded from opening ceremonies at the conference, in Durban, but had been scheduled to speak today at a gathering of AIDS experts and activists. Ms. Mlambo-Ngcuka, who did speak at the opening session, criticized the event's organizers for relegating Dr. Tshabalala-Msimang to a lesser spot on the program. The health minister's speech was to mark her return to public life after a long illness culminating early this year in a liver transplant.</p>
+        <p>MICHAEL WINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

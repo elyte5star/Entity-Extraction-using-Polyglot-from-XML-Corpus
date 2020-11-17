@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LONG-DISTANCE LEADER</title>
+    <meta content="03suits-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851932"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D71330F930A35755C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LONG-DISTANCE LEADER</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It looks as though it may take a while for Starwood Hotels and Resorts to find a chief executive who lives within 700 miles of its headquarters in White Plains.</p>
+        <p>In April, Starwood dismissed Steven J. Heyer, who was criticized about his management style and his insistence on maintaining his home in the Atlanta area. At least temporarily, Mr. Heyer's successor will live just as far away -- and in a different time zone, too.</p>
+      </block>
+      <block class="full_text">
+        <p>It looks as though it may take a while for Starwood Hotels and Resorts to find a chief executive who lives within 700 miles of its headquarters in White Plains.</p>
+        <p>In April, Starwood dismissed Steven J. Heyer, who was criticized about his management style and his insistence on maintaining his home in the Atlanta area. At least temporarily, Mr. Heyer's successor will live just as far away -- and in a different time zone, too.</p>
+        <p>Last week, Starwood disclosed that it had signed a one-year contract with one of its directors, Bruce W. Duncan, to serve as interim chief executive. The company agreed to provide Mr. Duncan with an office in Chicago, a jet for commuting and temporary housing in the New York area, which may include rooms in its hotels.</p>
+        <p>His salary will be the same as Mr. Heyer's, $1 million, and he will receive stock and options worth $2 million and be eligible for a bonus of $2 million.</p>
+        <p>PATRICK McGEEHAN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Money Pours In, Hedge Funds Come to Look More Like the Markets</title>
+    <meta content="08insider" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/business/08insider.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070609T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1852903"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STREET SCENE: INSIDER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Standard &amp; Poor's 500-Stock Index</classifier>
+        <classifier class="indexing_service" type="descriptor">Morgan Stanley Capital International Eafe Index</classifier>
+        <classifier class="indexing_service" type="descriptor">Goldman Sachs Commodity Index</classifier>
+        <org class="indexing_service">Bridgewater Associates</org>
+        <person class="indexing_service">Dalio, Ray</person>
+        <person class="indexing_service">Anderson, Jenny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Bridgewater Associates</org>
+        <org class="online_producer">Standard &amp; Poor's Corp</org>
+        <org class="online_producer">Morgan, J P, Chase &amp; Co</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2DC1F30F93BA35755C0A9619C8B63" item-length="883" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Money Pours In, Hedge Funds Come to Look More Like the Markets</hl1>
+        <hl2 class="online_headline">As Money Pours in, Hedge Funds Come to Look More Like the Markets</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNY ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jenny</byline>
+      <abstract>
+        <p>Ray Dalio of Bridgewater Associates, in private research letter, examined correlation of hedge fund returns to returns of certain market indexes; in general, hedge funds returns should not replicate stock market returns; according to Dalio's analysis, over last 24 months, hedge funds were 60 percent correlated to Standard &amp; Poor's 500-stock index, 67 percent correlated to Morgan Stanley Capital International EAFE index of foreign shares, and 87 percent correlated to emerging market equities; they were 41 percent correlated to Goldman Sachs Commodity Index, 52 percent correlated to high-yield, or junk bonds, and 42 percent correlated to mortgage-backed securities; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''We are somewhere between the third and fifth inning in the growth of assets invested in alternative strategies,'' said Todd Builione, a managing partner at Highbridge Capital Management, a $15.7 billion hedge fund that is majority owned by JPMorgan Chase.</p>
+        <p>Indeed. According to Douglas C. Wurth, global head of alternative investments at JPMorgan Private Bank, $1 billion a month is flowing into hedge funds on JPMorgan's platform, where wealth managers are now recommending that very rich individuals ($25 million or more) and institutions put 35 percent of their portfolios in alternatives, and 20 percent of that into hedge funds.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ray Dalio, the founder of Bridgewater Associates, has some tough questions on why hedge fund returns look so much like returns in the stock market.</p>
+      </block>
+      <block class="full_text">
+        <p>''We are somewhere between the third and fifth inning in the growth of assets invested in alternative strategies,'' said Todd Builione, a managing partner at Highbridge Capital Management, a $15.7 billion hedge fund that is majority owned by JPMorgan Chase.</p>
+        <p>Indeed. According to Douglas C. Wurth, global head of alternative investments at JPMorgan Private Bank, $1 billion a month is flowing into hedge funds on JPMorgan's platform, where wealth managers are now recommending that very rich individuals ($25 million or more) and institutions put 35 percent of their portfolios in alternatives, and 20 percent of that into hedge funds.</p>
+        <p>Mr. Wurth and Mr. Builione were both speaking on a panel with other senior executives from the private bank at a briefing in New York. It was clear that alternatives continue to be the rage for a number of reasons, including the low correlations that hedge funds have historically had with major equity and bond markets. In other words, when those markets tank, hedge funds, in general, do not.</p>
+        <p>Then there's Ray Dalio.</p>
+        <p>Mr. Dalio, the founder of Bridgewater Associates, a hedge fund with about $30 billion under assets, has some different thoughts on his industry, including some tough questions on why hedge fund returns look so much like stock market returns when they are not supposed to be correlated.</p>
+        <p>In a private research letter sent out this month, he and a colleague examined the correlation of hedge fund returns to the returns of certain market indexes.</p>
+        <p>In general, hedge funds returns should not replicate stock market returns. If they did, investors would be smarter to buy index funds and not pay the steep fees of hedge funds. Because hedge funds can hedge their bets, borrow to increase their bets, tread where others fear to tread and seek out nontraditional assets, they should generate excess returns (alpha), not just reflect market returns (beta).</p>
+        <p>According to Mr. Dalio's analysis, over the last 24 months, hedge funds were 60 percent correlated to the Standard &amp; Poor's 500-stock index, 67 percent correlated to the Morgan Stanley Capital International EAFE (for Europe, Australia and the Far East) index of foreign shares, and 87 percent correlated to emerging market equities (unhedged). They were 41 percent correlated to the Goldman Sachs Commodity Index, 52 percent correlated to high-yield, or junk, bonds, and 42 percent correlated to mortgage-backed securities.</p>
+        <p>The letter also parsed the correlations by strategy, which is a more precise way to think about hedge funds, since different types of funds take different kinds of risks. Short-biased hedge funds have a negative 70 percent correlation to the S.&amp; P. index, while equity long-short, the description applied to what most people think of as a hedge fund strategy (betting that some stocks might go up and others might fall, usually with leverage) had a huge correlation of 84 percent.</p>
+        <p>Then Mr. Dalio looked at data back to 1994, which showed that historical correlations were in the range of 49 to 54 percent; high, but not as high. So as equity markets have done well, hedge funds have done well -- not necessarily because of their genius but because they have the wind of the stock markets at their back and because a lot of them use leverage to magnify their bets.</p>
+        <p>(Mr. Dalio did not return calls for comment.)</p>
+        <p>In a period when volatility is low and credit spreads are tight, it should be difficult for hedge funds to make a lot of money. But many funds appear to be taking the easy way out.</p>
+        <p>Still, no one cares about correlations, or anything else really, until the markets head down. But a lot of investors like Bridgewater as a part of a diversified group of hedge funds because Mr. Dalio has a contrarian view, and if and when the markets tank, he should -- and he had better -- trounce his more correlated peers.</p>
+        <p>And Mr. Dalio clearly has more than his powers of prognostication on the line: Bridgewater returned a meager 3.4 percent last year.</p>
+        <p>Many people in asset management think the whole correlation thing is overblown: of course hedge funds will take advantage of strong markets to make money. The key is that when the markets turn, these managers can do something about it. The question is whether they are smart enough to know to do it.</p>
+        <p>Maybe they are. But investors would be smart to try to understand how exposed they might be to the markets when they think they are well protected against them. (Private equity firms, another popular place to dump money these days, are buying highly leveraged large-cap companies.)</p>
+        <p>Of course, understanding returns may be hard. Mr. Wurth of JPMorgan expressed concern about aspects of hedge fund investing, notably the lack of transparency, which makes it harder to try to monitor trading by fund managers and the lack of influence a single client might have on a big fund. Which is why JPMorgan suggests clients limit themselves to only 35 percent in alternative investments, even though many want their portfolios to look more like those of foundations and endowments, which can have as much as 60 percent of their assets in alternatives.</p>
+        <p>''You do things that foundations don't do,'' Mr. Wurth joked. ''You die and you pay taxes. So don't get ahead of yourself.''</p>
+        <p>STREET SCENE: INSIDER</p>
+        <p>Correction:  June 9, 2007, Saturday  The Insider column yesterday on the Street Scene page of Business Day, about investment strategies involving hedge funds, misstated the amount of money managed by one such fund, Highbridge Capital Management, which is majority owned by JPMorgan Chase. It is about $34 billion, not $15.7 billion.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 9, 2007, Saturday</p>
+        <p>The Insider column yesterday on the Street Scene page of Business Day, about investment strategies involving hedge funds, misstated the amount of money managed by one such fund, Highbridge Capital Management, which is majority owned by JPMorgan Chase. It is about $34 billion, not $15.7 billion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

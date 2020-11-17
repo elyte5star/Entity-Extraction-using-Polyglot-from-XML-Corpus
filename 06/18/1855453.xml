@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Turf Battle</title>
+    <meta content="18empire-2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855453"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E5DB123FF93BA25755C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Turf Battle</hl1>
+      </hedline>
+      <byline class="print_byline">By DANNY HAKIM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer once memorably declared at a public meeting with top lawmakers that they were convening in ''my room'' with ''my rules.'' Last Monday, Mr. Bruno invited the governor to the lavish annual picnic for Senate Republicans that Mr. Bruno holds at his upstate farm. ''This is my tent,'' the majority leader was said to have quipped, ''my farm.''</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer once memorably declared at a public meeting with top lawmakers that they were convening in ''my room'' with ''my rules.'' Last Monday, Mr. Bruno invited the governor to the lavish annual picnic for Senate Republicans that Mr. Bruno holds at his upstate farm. ''This is my tent,'' the majority leader was said to have quipped, ''my farm.''</p>
+        <p>The legislative session ends on Thursday, and the outcome of several issues will depend on how well the state's top Democrat and its No. 1 Republican are getting along. By the end of last week, Mr. Spitzer and Mr. Bruno were skirmishing again at a public negotiating session, where Mr. Bruno called the governor's campaign finance proposals ''nuts'' and ''nonsense.''</p>
+        <p>DANNY HAKIM</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

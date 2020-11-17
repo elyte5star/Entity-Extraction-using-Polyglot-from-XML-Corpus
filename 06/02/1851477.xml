@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="02darfur--refer" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851477"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFD61330F931A35755C0A9619C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Darfur Advocacy Group Undergoes a Shake-Up  Even as advocacy groups attained the seeming triumph of President Bush's new sanctions against Sudan, the organization that helped bring the conflict in Darfur to the world's attention is in upheaval after criticism from relief groups. It is firing its director, reorganizing its board and rethinking its strategies.</p>
+        <p>PAGE A5</p>
+        <p>18 Dead in Lebanon Fighting  After days of relative quiet, Lebanon's army moved closer to a Palestinian refugee camp in the northern part of the country, where a group of militants inspired by Al Qaeda has been hiding. The army seized new ground in a daylong battle that left 18 dead and dozens wounded.</p>
+        <p>PAGE A7</p>
+        <p>Softer U.S. Tone on China  Defense Secretary Robert M. Gates struck a conciliatory tone toward Beijing two years after Donald H. Rumsfeld bluntly criticized China's military buildup.</p>
+        <p>PAGE A6</p>
+        <p>Longtime Bush Aide Departs  Dan Bartlett, the White House counselor and one of President Bush's longest-serving aides, said he would leave the administration this summer. His departure is the latest from Mr. Bush's shrinking inner circle.</p>
+        <p>PAGE A10</p>
+        <p>Meeting Set on Dow Jones  The Bancroft family, which controls Dow Jones &amp; Company, will meet with News Corporation on Monday on a possible sale -- a door that family members say was always left ajar.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>THIS WEEKEND</p>
+        <p>Five Top Actors, Only One Tony  With, from left, Liev Schreiber, Boyd Gaines, Frank Langella, Christopher Plummer and Brian F. O'Byrne in the running, the competition for best actor in a play is among the strongest in 30 years. By Ben Brantley.</p>
+        <p>ARTS &amp; LEISURE</p>
+        <p>Golf's Mr. Unpredictable  Play, The New York Times sports magazine, looks at Phil Mickelson, who always leaves fans wondering: Is the knucklehead going to emerge?</p>
+        <p>Summer Reading  A special issue offers roundups of mysteries, comics and books on travel and cooking.</p>
+        <p>BOOK REVIEW</p>
+      </block>
+      <block class="full_text">
+        <p>Darfur Advocacy Group Undergoes a Shake-Up  Even as advocacy groups attained the seeming triumph of President Bush's new sanctions against Sudan, the organization that helped bring the conflict in Darfur to the world's attention is in upheaval after criticism from relief groups. It is firing its director, reorganizing its board and rethinking its strategies.</p>
+        <p>PAGE A5</p>
+        <p>18 Dead in Lebanon Fighting  After days of relative quiet, Lebanon's army moved closer to a Palestinian refugee camp in the northern part of the country, where a group of militants inspired by Al Qaeda has been hiding. The army seized new ground in a daylong battle that left 18 dead and dozens wounded.</p>
+        <p>PAGE A7</p>
+        <p>Softer U.S. Tone on China  Defense Secretary Robert M. Gates struck a conciliatory tone toward Beijing two years after Donald H. Rumsfeld bluntly criticized China's military buildup.</p>
+        <p>PAGE A6</p>
+        <p>Longtime Bush Aide Departs  Dan Bartlett, the White House counselor and one of President Bush's longest-serving aides, said he would leave the administration this summer. His departure is the latest from Mr. Bush's shrinking inner circle.</p>
+        <p>PAGE A10</p>
+        <p>Meeting Set on Dow Jones  The Bancroft family, which controls Dow Jones &amp; Company, will meet with News Corporation on Monday on a possible sale -- a door that family members say was always left ajar.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>THIS WEEKEND</p>
+        <p>Five Top Actors, Only One Tony  With, from left, Liev Schreiber, Boyd Gaines, Frank Langella, Christopher Plummer and Brian F. O'Byrne in the running, the competition for best actor in a play is among the strongest in 30 years. By Ben Brantley.</p>
+        <p>ARTS &amp; LEISURE</p>
+        <p>Golf's Mr. Unpredictable  Play, The New York Times sports magazine, looks at Phil Mickelson, who always leaves fans wondering: Is the knucklehead going to emerge?</p>
+        <p>Summer Reading  A special issue offers roundups of mysteries, comics and books on travel and cooking.</p>
+        <p>BOOK REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To the Rumble of Trucks, Add the Roar of Buses</title>
+    <meta content="17bus" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/thecity/17bus.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855159"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEIGHBORHOOD REPORT: GLENDALE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Glendale (NYC)</location>
+        <person class="indexing_service">Vandam, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <location class="online_producer">Queens (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DA153FF934A25755C0A9619C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To the Rumble of Trucks, Add the Roar of Buses</hl1>
+        <hl2 class="online_headline">To the Rumble of Trucks, Add the Roar of Buses</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF VANDAM</byline>
+      <byline class="normalized_byline">Vandam, Jeff</byline>
+      <abstract>
+        <p>Residents sign petition against decision to route buses along Cooper Avenue in Glendale, Queens; residents say bus stop at Shops at Atlas Park, outdoor mall, will worsen existing congestion and pollution; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dieter Kist, a contractor with a graying beard, has lived on truck-laden Cooper Avenue in Glendale, Queens, for three years. In that time, his parked car has been hit three times by other vehicles, and at night he is lulled to sleep by the rumble of 18-wheelers hauling cargo.</p>
+        <p>''My bedroom is right on Cooper, so you get used to it,'' Mr. Kist said on Tuesday afternoon, ambling down his street as a Derle Farms milk truck roared past.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some of those living along Queens’ well-traveled Cooper Avenue are objecting to a plan to add buses to the mix.</p>
+      </block>
+      <block class="full_text">
+        <p>Dieter Kist, a contractor with a graying beard, has lived on truck-laden Cooper Avenue in Glendale, Queens, for three years. In that time, his parked car has been hit three times by other vehicles, and at night he is lulled to sleep by the rumble of 18-wheelers hauling cargo.</p>
+        <p>''My bedroom is right on Cooper, so you get used to it,'' Mr. Kist said on Tuesday afternoon, ambling down his street as a Derle Farms milk truck roared past.</p>
+        <p>In the opinion of many residents of Cooper Avenue, that din is about to get worse. In two weeks, the Q54 bus will begin traveling down that road and stopping at the Shops at Atlas Park, an outdoor mall that opened last year and includes Borders, California Pizza Kitchen and other outlets of national chains. A sleek glass bus shelter with a large sign telling customers the Q54 will stop at the mall has already been erected.</p>
+        <p>''That's how most of us found out about it,'' said Michael O'Kane, a photographer for The Queens Chronicle, who lives on Cooper Avenue and noticed the mall's bus shelter during a stroll last month. ''They just sprung it on us.'' The issue was reported in The Chronicle last week.</p>
+        <p>Mr. O'Kane started a petition against the route change, collecting 44 signatures from Cooper Avenue residents who say the bus will worsen existing congestion and pollution. He submitted the petition to Community Board 5, which, according to the board's district manager, Gary Giordano, supports the route change. Mr. O'Kane, who has also written several letters to the Metropolitan Transportation Authority, pointed out that another bus, the Q29, already stops near the mall.</p>
+        <p>According to a spokesman for the Shops at Atlas Park, which lobbied for the change for five years, the effect of the bus traffic will be negligible. ''I don't know how many Q54s there are per day,'' said Damon Hemmerdinger, the mall's development director, ''but adding that volume to an existing truck route, I doubt, will have any measurable impact.''</p>
+        <p>As it turns out, Mr. Kist, the contractor, is unfazed by the change. In his view, given the parade of trucks that already passes by his window, a bus here and there will hardly stand out. ''I don't think it's too bad,'' he said. ''What, they come every 20 minutes?''</p>
+        <p>NEIGHBORHOOD REPORT: GLENDALE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surging Jobs Seen as Sign Of Rebound</title>
+    <meta content="02econ" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/business/02econ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851487"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5DF1030F931A35755C0A9619C8B63" item-length="1021" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surging Jobs Seen as Sign Of Rebound</hl1>
+        <hl2 class="online_headline">Several Signs the Economy Is Reviving</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS; David Leonhardt contributed reporting.</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The American economy appears to have shaken out of its slumber.</p>
+        <p>In May, employers added nearly twice as many jobs as they did in April, and the manufacturing sector grew at its fastest rate in more than a year. Consumer confidence also turned upward.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The longevity of this rebound depends on whether incomes and spending will grow enough to reduce the drag from the housing market.</p>
+      </block>
+      <block class="full_text">
+        <p>The American economy appears to have shaken out of its slumber.</p>
+        <p>In May, employers added nearly twice as many jobs as they did in April, and the manufacturing sector grew at its fastest rate in more than a year. Consumer confidence also turned upward.</p>
+        <p>Together, the new data helped ease fears that the worst slump in more than four years would drag on. But the longevity of this rebound depends, in large part, on whether household incomes and spending by businesses and consumers will grow enough to reduce the drag from the struggling housing market.</p>
+        <p>''The speed at which we recover is still very much in doubt,'' said Peter E. Kretzmer, senior economist with Bank of America. ''But I think it's fair to say that recovery is the operative word.''</p>
+        <p>The Labor Department said yesterday in its monthly survey of national employment that 157,000 jobs were created last month, compared with 80,000 in April.</p>
+        <p>At the same time, the unemployment rate held steady at 4.5 percent.</p>
+        <p>The report found not only that businesses had hired more employees in May, but that they paid workers more as well. Hourly wages for workers rose 3.8 percent over the last 12 months.</p>
+        <p>Still, with oil prices surging, wage gains have trailed inflation in recent months, causing workers to take an effective pay cut.</p>
+        <p>Hourly wages for the rank and file -- who make up about four-fifths of the work force -- rose 6 cents in May, to $17.30. But this increase has been swallowed by inflation, according to economists' projections of inflation rates for May.</p>
+        <p>After peaking in February at an inflation-adjusted $17.44, the real average hourly wage has begun falling again, as it did from 2003 to 2005. In fact, the current economic expansion, which began in late 2001, has had some of the weakest wage growth of any modern expansion. In December 2001, the average real hourly wage for workers was $17.24.</p>
+        <p>Stagnant wage growth has not stopped consumers from spending, and that spending is helping to keep the labor market going strong, economists said.</p>
+        <p>''I'm hard pressed to see where labor demand is coming from right now, but the obvious place to look is consumer spending,'' said Jared Bernstein, an economist with the Economic Policy Institute. ''Granted, it's down from former Elysian heights, but it's percolating along.''</p>
+        <p>The auto industry reported yesterday that sales in May grew as General Motors, Toyota and Nissan all posted healthy gains. And new statistics from the Commerce Department showed that personal spending rose 0.5 percent in April, compared with a 0.4 percent rise in March.</p>
+        <p>Personal income, however, dipped 0.1 percent after rising 0.8 percent in March.</p>
+        <p>Consumer confidence also rebounded in May, from an eight-month low, according to the University of Michigan's closely watched index.</p>
+        <p>But if consumer spending weakens under the weight of rising gasoline prices and falling property values, the health of the job market and the economy as a whole could be in jeopardy.</p>
+        <p>''The labor market is not sort of chugging along independently,'' said Nigel Gault, chief United States economist for Global Insight. ''If housing turns down more steeply and spending starts to weaken, then the labor market will start to weaken.''</p>
+        <p>Job creation so far this year has been on a seesawing path, with a month of healthy growth followed by one of mediocre growth. Without a clear trend either up or down in the job market, the Federal Reserve will be less inclined to move the benchmark interest rate from 5.25 percent, where it has been for the last year.</p>
+        <p>''We're not fading,'' said Robert J. Barbera, chief economist at ITG. ''But there's nothing booming about these numbers. And there's nothing here that suggests the Fed will do anything but dust off old speeches.''</p>
+        <p>A measure of inflation that the Fed monitors closely grew at a slower rate in April, new numbers showed yesterday. Core consumer prices, which exclude food and energy costs, rose 2 percent since last April. While that is within the Fed's preferred inflation range of 1 to 2 percent, central bankers are not likely to shift policy on the basis of one month of data.</p>
+        <p>Last month, there were some signs that businesses were trimming their payrolls to reckon with falling sales. Retailers, which reported one of the their worst monthly performances in recent memory in May, eliminated 4,900 jobs last month. Department stores accounted for almost all of that.</p>
+        <p>Residential builders and contractors continued to shed workers -- some 1,300 in all -- which offset hiring by nonresidential contractors.</p>
+        <p>But the Labor Department's survey of households suggested that the construction workers were actually worse off. The unemployment rate for the industry climbed to 6.9 percent, compared with 6.6 percent a year earlier. That was the highest rate of unemployment for any industry sector the government measured last month.</p>
+        <p>Manufacturers reduced their payrolls by another 19,000 last month. All the downsizing in American factories -- 79,000 so far this year, seasonally adjusted -- seems to have had some benefit after a long industrywide slump.</p>
+        <p>The Institute for Supply Management said that manufacturing activity rose in May to the highest level since April last year.</p>
+        <p>Employment gains in sectors like health care, finance and hospitality were more than enough to make up for job losses elsewhere. Hiring was especially brisk in bars and restaurants, which added 34,500 new workers. Professional and technical services businesses, which include a wide range of professions from architects to accountants to computer engineers, hired 27,000. The health care sector grew by 35,800. Finance and insurance businesses added 6,300; local and state governments gained 22,000.</p>
+        <p>The amount of time Americans spent registered as unemployed fell in May to a median of 8.3 weeks, from 8.7 weeks in April.</p>
+        <p>The number of people unemployed long term -- 27 weeks or more, fell to 1.12 million, from 1.19 million.</p>
+        <p>An alternate unemployment rate published by the Labor Department -- one that includes workers who would like to work but have stopped looking for a job, as well as those working part time because they cannot find full-time work -- was unchanged at 8.2 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INQUIRY INTO DEAL</title>
+    <meta content="02five-4" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851502"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FIVE DAYS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2DF1030F931A35755C0A9619C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INQUIRY INTO DEAL</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE government said economic growth was slower in the first quarter than it had initially estimated. Chinese markets swooned, but American investors reached new heights. The World Bank has big money-raising needs for its new leader.</p>
+        <p>The Federal Trade Commission has begun an antitrust investigation of Google's planned $3.1 billion purchase of the online advertising company DoubleClick.</p>
+      </block>
+      <block class="full_text">
+        <p>THE government said economic growth was slower in the first quarter than it had initially estimated. Chinese markets swooned, but American investors reached new heights. The World Bank has big money-raising needs for its new leader.</p>
+        <p>The Federal Trade Commission has begun an antitrust investigation of Google's planned $3.1 billion purchase of the online advertising company DoubleClick.</p>
+        <p>Rivals of Google contend that the merger would give Google immense power in Internet advertising in both search ads and display ads online. Privacy groups worry that Google will add its search histories to DoubleClick's data on users' Web-viewing habits, posing a new threat to privacy online.</p>
+        <p>Google replied that the online advertising market is young and dynamic, and it expressed confidence that the deal would be approved. The company said it was sensitive to privacy concerns.</p>
+        <p>No matter the outcome in the United States, Google's ambitious plans may face a stiffer challenge in Europe, where regulators take a harder line on privacy matters than in the United States and a tougher stance on antitrust issues (as Microsoft has learned)</p>
+        <p>STEVE LOHR</p>
+        <p>MOST POPULAR -- Following are the most-popular business news articles on nytimes.com from May 26 through June 1:  1. Bumped Fliers and No Plan B  2. In Fierce Competition, Google Finds Novel Ways to Feed Hiring Machine  3. Truth, Fiction and Lou Dobbs  4. Apple's Lesson for Sony's Stores: Just Connect  5. Lawmakers Push for Big Subsidies for Coal Process  Links are at nytimes.com/business.</p>
+        <p>FIVE DAYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

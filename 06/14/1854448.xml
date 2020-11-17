@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prisoner Killed Kentucky Police Chief, Officials Say</title>
+    <meta content="14chief" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/us/14chief.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854448"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Kentucky</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Kentucky</classifier>
+        <classifier class="online_producer" type="descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Kentucky</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3D8143FF937A25755C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prisoner Killed Kentucky Police Chief, Officials Say</hl1>
+        <hl2 class="online_headline">Prisoner Killed Kentucky Police Chief, Officials Say</hl2>
+      </hedline>
+      <byline class="print_byline">By STACY L. NEITZEL</byline>
+      <byline class="normalized_byline">Neitzel, Stacy L</byline>
+      <dateline>CAVE CITY, Ky., June 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The longtime police chief of a rural town in eastern Kentucky was shot dead Wednesday by a handcuffed prisoner he was driving to the county jail, officials said.</p>
+        <p>Chief Randy Lacy 55, of Clay City, which is about 160 miles east of here and about 40 miles east of Lexington, was pronounced dead at the scene after he was shot from the back seat of his cruiser, said a Kentucky State Police spokesman, Lt. Phil Crumpton.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The longtime police chief of a rural town in eastern Kentucky was shot dead Wednesday by a handcuffed prisoner he was driving to the county jail, officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>The longtime police chief of a rural town in eastern Kentucky was shot dead Wednesday by a handcuffed prisoner he was driving to the county jail, officials said.</p>
+        <p>Chief Randy Lacy 55, of Clay City, which is about 160 miles east of here and about 40 miles east of Lexington, was pronounced dead at the scene after he was shot from the back seat of his cruiser, said a Kentucky State Police spokesman, Lt. Phil Crumpton.</p>
+        <p>The suspect in the shooting was identified as Jamie Barnett, 37, of Clay City. The chief, who was the town's only officer, had just arrested Mr. Barnett on a charge of driving under the influence of alcohol, Lieutenant Crumpton said, and was driving to the Powell County Detention Center. He was taken into custody a short distance from the police cruiser and later charged with murder.</p>
+        <p>''The suspect was handcuffed during his transport when he somehow got ahold of a weapon and shot Chief Lacy,'' Lieutenant Crumpton said.</p>
+        <p>He would not say whether Mr. Lacy was shot with his own gun, but confirmed that Chief Lacy typically carried a backup weapon.</p>
+        <p>Law-enforcement officials said that Mr. Barnett had had run-ins with the law since he was an adolescent and that he had been arrested many times on drug-related charges.</p>
+        <p>Clay City residents expressed disbelief at the death of the chief.</p>
+        <p>''Everybody is just kind of in shock right now,'' said Judge-Executive Darren Farmer of Powell County.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

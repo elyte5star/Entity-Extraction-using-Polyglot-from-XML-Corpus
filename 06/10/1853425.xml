@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Web</title>
+    <meta content="Upfront.t-1" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853425"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EFDF1030F933A25755C0A9619C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Podcast: Scheduled to appear this week are Tina Brown (above), the author of ''The Diana Chronicles''; Marilyn Stasio on crime fiction; Rachel Donadio on technology and the novel; and Dwight Garner, senior editor, with best-seller news. Sam Tanenhaus, the editor of the Book Review, is the host.</p>
+        <p>From the Archive: The obituary of Diana, Princess of Wales, the subject of ''The Diana Chronicles.''</p>
+        <p>First Chapters: Excerpts from ''The Perfect Man,'' by Naeem Murr; ''Long Time Leaving,'' by Roy Blount Jr.; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Links: Read reviews of the books listed in the Editors' Choice and Paperback Row features.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+      <block class="full_text">
+        <p>Podcast: Scheduled to appear this week are Tina Brown (above), the author of ''The Diana Chronicles''; Marilyn Stasio on crime fiction; Rachel Donadio on technology and the novel; and Dwight Garner, senior editor, with best-seller news. Sam Tanenhaus, the editor of the Book Review, is the host.</p>
+        <p>From the Archive: The obituary of Diana, Princess of Wales, the subject of ''The Diana Chronicles.''</p>
+        <p>First Chapters: Excerpts from ''The Perfect Man,'' by Naeem Murr; ''Long Time Leaving,'' by Roy Blount Jr.; and other books.</p>
+        <p>Search: A free archive of book reviews since 1981.</p>
+        <p>Links: Read reviews of the books listed in the Editors' Choice and Paperback Row features.</p>
+        <p>www.nytimes.com/books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

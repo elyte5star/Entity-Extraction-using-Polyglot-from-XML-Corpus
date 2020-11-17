@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Suicide Anarchists</title>
+    <meta content="l16guide" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854787"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Morgan, Scott</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E3D8153FF935A25755C0A9619C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Suicide Anarchists</hl1>
+      </hedline>
+      <abstract>
+        <p>Scott Morgan letter holds that collateral martyrdom suicide bomber is willing to inflict on unsuspecting reflects state of mind less religious than anarchistic (June 10 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Guidebook for Taking a Life'' (Week in Review, June 10):</p>
+        <p>The collateral martyrdom a suicide bomber is willing or anxious to inflict on the unsuspecting reflects a state of mind less religious than anarchistic.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Guidebook for Taking a Life'' (Week in Review, June 10):</p>
+        <p>The collateral martyrdom a suicide bomber is willing or anxious to inflict on the unsuspecting reflects a state of mind less religious than anarchistic.</p>
+        <p>There are no rules, by its nature, in anarchism; the achievement is in creating maximum chaos, panic, helplessness, despair -- which is what the suicide bomber seeks.</p>
+        <p>Any idea about the reconstruction of society into a religious utopia is self-deception. The bomber, if successful, never has to experience the day after; it is reserved for the maimed, the suffering and the grievers.</p>
+        <p>Scott Morgan  West Shokan, N.Y., June 11, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

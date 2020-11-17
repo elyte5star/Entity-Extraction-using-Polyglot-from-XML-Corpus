@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE/NEW CDs</title>
+    <meta content="18CHOI-2" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855439"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EEDC123FF93BA25755C0A9619C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE/NEW CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The White Stripes  ''Icky Thump''  (Third Man/Warner Brothers)</p>
+        <p>''Rag and bone!'' shouts Jack White on the crucial track of the White Stripes' new record, ''Icky Thump,'' and he's calling for whatever you've outgrown, including the pop culture you've lost faith in.</p>
+      </block>
+      <block class="full_text">
+        <p>The White Stripes  ''Icky Thump''  (Third Man/Warner Brothers)</p>
+        <p>''Rag and bone!'' shouts Jack White on the crucial track of the White Stripes' new record, ''Icky Thump,'' and he's calling for whatever you've outgrown, including the pop culture you've lost faith in.</p>
+        <p>It's the call of the junkman from his horse-drawn cart, a vestige of British culture in the pre-electronic days. So is the phrase ''Icky Thump,'' a slight alteration on an archaic expression of surprise, something a Lancashire retiree might say when confronted with the White Stripes' new costumes, with polka dots, feathers, button-crusted hats and ties and suits.</p>
+        <p>The White Stripes aren't preservationists; they're magical utilitarians. Authenticity, in and of itself, seems to bore them. They're on a far more selfish mission, smelting down favorite bits of English-language culture for their own ends. Here these include Led Zeppelin, perfumed '50s pop, Celtic folk song and the blues, which Mr. White plays with an electronic pitch shifter. (The White Stripes' junk cart would have spinner rims.)</p>
+        <p>''One thing's for sure,'' Mr. White sings during the jump-and-dive dynamics of ''300 M.P.H. Torrential Outpour Blues.'' ''In that graveyard, I'm gonna have the shiniest pair of shoes.''</p>
+        <p>The band's sound and method are 10 years old now, and this record is structurally familiar -- with an approximation of a radio hit (its big-riff title track), a few blues longueurs and folk miniatures -- but slightly more grandiose. Its rock is louder, its campiness richer. (''Little Cream Soda'' is the closest they've gotten to metal; the album's only song not written by Mr. White, ''Conquest,'' copped off a Patti Page record, is chest-beating kitsch.) The setup's the same, the colors richer.</p>
+        <p>But back to the track ''Rag and Bone.'' Mr. White hollers it over a wicked blues shuffle, the sound flooded with Meg White's cymbal crashes; the verses call for ''something shiny,'' Christmas trees, broken trumpets, toilet seats. Toward the end he imagines his route. ''West side, southwest side, middle east, rich house, dog house, outhouse, old-folks house, house for unwed mothers.'' Manic now, his rap shoots into a higher key, as if imitating the upward zoom made by his guitar's pitch pedal. ''Halfway homes, catacombs, twilight zones, looking for Technics turntables to gramophones!''</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

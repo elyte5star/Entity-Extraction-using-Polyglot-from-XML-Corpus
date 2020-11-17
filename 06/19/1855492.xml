@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Really?</title>
+    <meta content="19real" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/health/19real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855492"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="descriptor">Skin</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2DA123FF93AA25755C0A9619C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Really?</hl1>
+        <hl2 class="online_headline">The Claim: Hydrogen Peroxide Is a Good Treatment for Small Wounds</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Claim</p>
+        <p>Hydrogen peroxide is a good treatment for small wounds.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It is a staple in medicine cabinets everywhere, but does hydrogen peroxide really make a difference?</p>
+      </block>
+      <block class="full_text">
+        <p>The Claim</p>
+        <p>Hydrogen peroxide is a good treatment for small wounds.</p>
+        <p>THE FACTS</p>
+        <p>It is a staple in medicine cabinets everywhere, a first-line treatment for the small cuts and scrapes that a hazardous world can inflict upon our skin. But does hydrogen peroxide really make a difference? According to most studies of its effectiveness, not really. Parents and school nurses might insist otherwise, but researchers have found that hydrogen peroxide has little ability to reduce bacteria in wounds and can actually inflame healthy skin cells that surround a cut or a scrape, increasing the amount of time wounds take to heal.</p>
+        <p>In a study published in The Journal of Family Practice in 1987, scientists compared the effects of various topical treatments by taking a group of volunteers, administering several small blister wounds on each of their forearms, and then infecting their wounds with bacteria. After applying a different treatment to each wound, they measured bacterial amounts and rates of healing. They found that hydrogen peroxide did not inhibit bacterial growth and that wounds treated with the antibiotic bacitracin healed far more quickly.</p>
+        <p>Another study, in The American Journal of Surgery, looked at more than 200 people who had appendectomies and found that hydrogen peroxide did not reduce the risk of infection at the site of their incisions. But according to the American Medical Association, hydrogen peroxide does have at least one benefit: it can help dislodge dirt, debris and dead tissue in some wounds.</p>
+        <p>THE BOTTOM LINE</p>
+        <p>Studies show hydrogen peroxide is not a very effective treatment for small wounds.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>scitimes@nytimes.com</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

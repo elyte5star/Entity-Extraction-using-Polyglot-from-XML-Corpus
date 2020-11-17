@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soy Nuts Seem to Help Women's Blood Pressure</title>
+    <meta content="05prev" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852260"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: PREVENTION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood Pressure</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E4DB1130F936A35755C0A9619C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soy Nuts Seem to Help Women's Blood Pressure</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Substituting a half-cup of soy nuts -- baked soybeans -- for other types of protein in a healthy diet may help lower a postmenopausal woman's blood pressure, a small study  has found.</p>
+        <p>For four weeks, 60 women, average age 53, followed a low-cholesterol diet that provided 30 percent energy from fat, 15 percent from protein and 55 percent from carbohydrates. Then the researchers divided them into two groups for an eight-week test.</p>
+      </block>
+      <block class="full_text">
+        <p>Substituting a half-cup of soy nuts -- baked soybeans -- for other types of protein in a healthy diet may help lower a postmenopausal woman's blood pressure, a small study  has found.</p>
+        <p>For four weeks, 60 women, average age 53, followed a low-cholesterol diet that provided 30 percent energy from fat, 15 percent from protein and 55 percent from carbohydrates. Then the researchers divided them into two groups for an eight-week test.</p>
+        <p>The first group followed the same diet without soy. The second ate a half-cup a day of soy nuts while reducing protein intake from other sources. When hypertensive women were on the soy diet, they averaged a 9.9 percent decrease in systolic blood pressure (the top number in the reading) and a 6.8 percent decrease in diastolic pressure. Those with normal blood pressure also benefited from the soy diet, reducing systolic and diastolic readings by 5.2 percent and 2.9 percent respectively.</p>
+        <p>The authors, writing in the May 28 issue of The Archives of Internal Medicine, suggest that the isoflavone content of the soy diet may account for the effect. Hypertensive women on the soy diet also reduced their levels of LDL, the so-called bad cholesterol, but women with normal blood pressure did not.</p>
+        <p>Dr. Francine K. Welty, the lead author and an associate professor at Harvard, emphasized that the study used unsalted soy nuts eaten in three or four portions during the day, keeping the blood levels of soy protein steady. ''Eating 25 grams of salt-free soy nuts can lower your blood pressure,'' she said, ''provided you do it while eating a heart-healthy diet.''</p>
+        <p>VITAL SIGNS: PREVENTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

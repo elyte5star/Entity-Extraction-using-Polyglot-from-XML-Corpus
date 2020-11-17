@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In One City, Home Sellers Find It Pays to Cut Out Middleman</title>
+    <meta content="08home" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Front Page; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/business/08home.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853022"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Brokers and Brokerage Firms</classifier>
+        <location class="indexing_service">Madison (Wis)</location>
+        <org class="indexing_service">National Association of Realtors</org>
+        <person class="indexing_service">Bailey, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin/Madison</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Madison (Wis)</location>
+        <org class="online_producer">Northwestern University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E5D91F30F93BA35755C0A9619C8B63" item-length="1801" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In One City, Home Sellers Find It Pays to Cut Out Middleman</hl1>
+        <hl2 class="online_headline">One City’s Home Sellers Do Better on Their Own</hl2>
+      </hedline>
+      <byline class="print_byline">By JEFF BAILEY</byline>
+      <byline class="normalized_byline">Bailey, Jeff</byline>
+      <abstract>
+        <p>Study based on home-sales data from 1998 to 2004 in Madison, Wis, finds people who sold their own homes came out ahead financially of those who used real estate agent; Madison is home to one of biggest for-sale-by-owner Web sits in country; economists who authored study caution that results from Madison may not apply to country as whole; some aspects of their study tilt in agents' favor; homes on multiple listing service sold somewhat faster than houses in for-sale-by-owner site; study is highly unusual in comprehensively measuring impact on sale price of home of hiring, or not hiring, real estate agent; National Assn of Realtors claims houses sold via its members' local multiple listing services get 16 percent premium over homes sold by their owners; economists' study is likely to be seen as ammunition for critics and lower-cost competitors who question need for 5 or 6 percent commissions--which deliver $60 billion a year to agents and their employers; photo; graphs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It sounds like the setup for a dull economist's joke. Who gets the better deal: the cautious economist who sells his house through a real estate agent, or his risk-taking colleague who finds a buyer on his own?</p>
+        <p>But the question -- debated by two Northwestern University economists who chose different methods to sell their homes -- and the research it helped prompt are serious. And the answer will be of interest to anyone who has paused to consider whether paying a real estate agent's commission, typically 5 to 6 percent of the sale price, is worth it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Home sellers in Madison, Wis., did not get higher prices for their homes using real estate agents, a study concluded.</p>
+      </block>
+      <block class="full_text">
+        <p>It sounds like the setup for a dull economist's joke. Who gets the better deal: the cautious economist who sells his house through a real estate agent, or his risk-taking colleague who finds a buyer on his own?</p>
+        <p>But the question -- debated by two Northwestern University economists who chose different methods to sell their homes -- and the research it helped prompt are serious. And the answer will be of interest to anyone who has paused to consider whether paying a real estate agent's commission, typically 5 to 6 percent of the sale price, is worth it.</p>
+        <p>The conclusion, in a study to be released today based on home-sales data from 1998 to 2004 in Madison, Wis., is that people in that city who sold their homes through real estate agents typically did not get a higher sale price than people who sold their homes themselves. When the agent's commission is factored in, the for-sale-by-owner people came out ahead financially.</p>
+        <p>The study is to be made public on Northwestern's Web site.</p>
+        <p>Madison is home to one of the biggest for-sale-by-owner Web sites in the country. The economists pitted that site against the local multiple listing service operated by real estate agents.</p>
+        <p>There are asterisks. The authors cautioned that they did not know whether the results from Madison applied to the country as a whole; certainly, selling a house without a real estate agent would be harder in a city without a heavily trafficked for-sale-by-owner Web site. The authors are also analyzing Madison data from 2005 and 2006, when the housing market cooled after a long run-up, to see how their findings might have changed.</p>
+        <p>Some aspects tilted in agents' favor. The researchers found that homes on the multiple listing service sold somewhat faster than houses on the for-sale-by-owner site. The study also did not place a value on other services provided by agents in selling a home.</p>
+        <p>The authors have presented their paper at forums at many leading universities, but it has not yet been submitted to a journal for peer review.</p>
+        <p>For all its caveats, though, the study is highly unusual in comprehensively measuring the impact on the sale price of a home of hiring, or not hiring, a real estate agent.</p>
+        <p>The findings fly in the face of studies by the National Association of Realtors. The group has said that houses sold via its members' local multiple listing services get a 16 percent premium over homes sold by their owners.</p>
+        <p>The economists' study is likely to be seen as ammunition for critics and lower-cost competitors who question the need for 5 or 6 percent commissions -- which deliver about $60 billion a year to agents and their employers.</p>
+        <p>Homes sold on FSBOMadison.com, the for-sale-by-owner Web site, fetched an average price of $175,068 during the years examined. Those sold on the multiple listing service brought an average price of $173,205, roughly equal when taking into account the study's margin of error.</p>
+        <p>The FSBO (pronounced FIZZ-bo) sales results were adjusted for timing, for house and lot size and characteristics, and for neighborhoods to make them comparable with sales by agents. They were also adjusted for what the researchers came to believe is an extra bit of shrewdness that FSBO sellers possess.</p>
+        <p>''Greater patience, greater bargaining leverage,'' said Francois Ortalo-Magne, an associate professor of real estate and urban land economics at the University of Wisconsin in Madison and one of the three authors of the study.</p>
+        <p>His co-authors both joined Northwestern as professors of economics about three years ago and sold homes elsewhere before moving to the Evanston, Ill., campus.</p>
+        <p>Aviv Nevo came from the University of California, Berkeley, and used a real estate agent to sell his house, pocketing a profit from five years of ownership, he said, that may have exceeded his salary for that period as an assistant professor.</p>
+        <p>Igal Hendel, three years ahead of Mr. Nevo as a graduate student at Harvard and a collaborator on previous research, moved from the University of Wisconsin and sold his home by advertising it on FSBOMadison.com.</p>
+        <p>''It started by us arguing about who did the right thing,'' Mr. Nevo said. ''Igal said, 'I saved a commission.' I said, yeah, but who knows how much you lost on the price?''</p>
+        <p>The National Association of Realtors has been defending its fees. In a 2005 survey of home buyers, it reported that FSBO houses sold for a median price of $198,200 and those sold through an agent went for a median price of $230,000, or 16 percent more.</p>
+        <p>Two-fifths of those FSBO sellers were selling to a friend, relative or neighbor, and that might have led to lower prices, but agent-assisted sellers still enjoyed a huge premium, the association said.</p>
+        <p>(Nationally, about 13 percent of home sales were for-sale-by-owner in 2005, the group said. For the seven-year Madison study, the market share of homes sold on the FSBO Web site was 14 percent.)</p>
+        <p>And in a March 2003 issue of Realtor Magazine Online, the association, in advising its members how to persuade a seller to switch from a FSBO ad to listing with an agent, said to tell them that a 2002 survey found ''on average, people who sell their homes through a real estate professional receive a price 27 percent higher than people who sell their home themselves.''</p>
+        <p>''So even with my commission, you'll probably come out ahead.''</p>
+        <p>Walter Molony, a spokesman for the trade group, said in an interview, ''It's certainly a hell of a lot more than the 5 to 6 percent you're going to pay in a commission.''</p>
+        <p>Those studies had their own asterisks. The 2005 survey was based on buyers' written responses, rather than actual records of transactions, and included data only from people who chose to reply -- 7,813 responses out of 145,000 questionnaires mailed out.</p>
+        <p>The association also did not disclose data on house size, lot size and some other factors that could affect price differences between the sales techniques. The association does not consider that a weakness of the study, though.</p>
+        <p>''When you're looking at this large of a survey, the aggregate numbers smooth those things out,'' Mr. Molony said. ''We feel it's representative.''</p>
+        <p>Mr. Molony and colleagues at the national association have not seen the Madison research. He said, however, that local markets vary so widely that ''it wouldn't be surprising to see a market where there is no difference between an agent-assisted and FSBO price.''</p>
+        <p>The economists studying the Madison market received listing data from both the FSBO site and the Realtors Association of South Central Wisconsin, which operates the local multiple listing service. Those were checked against records at the assessor's office for actual sale prices. The study looked at 15,616 listings from 1998 to 2004.</p>
+        <p>Not every Realtor agrees with the national association's strategy of claiming a higher sales price. After all, it may sound great -- to a seller -- that a real estate agent could help get a higher price. But agents typically also represent buyers in such transactions and, obviously, buyers do not want to pay 16 percent more.</p>
+        <p>''We're trying to tell the public that they pay 16 percent more if they use us?'' said an exasperated David K. Stark, owner of the Stark Company, one of Madison's largest real estate firms, when asked about the national association's claims. If that were true, he said, ''all buyers should shop FSBO.''</p>
+        <p>Mr. Stark is not worried that every seller will stampede to FSBOMadison.com. ''Most people list with a Realtor because they don't want to hassle with it,'' he said. ''It's complex. There's a lot of drama.''</p>
+        <p>Plenty of people agree. Katie Mohr, who manages a stock trading desk for a bank and is moving to Milwaukee, hired one of Madison's busiest agents to sell her five-bedroom house on the city's West Side. The agent, Sherry Lessing, handled everything, and within five weeks the Mohrs got the price they wanted, $560,000.</p>
+        <p>''I couldn't take the personal interaction of people walking in my house and making nasty comments,'' Mrs. Mohr said. ''I don't want to hear that people didn't like my wallpaper. Six percent was well worth paying for.''</p>
+        <p>Mrs. Lessing said that price parity between FSBO sales and agent sales is not surprising because buyers can now comparison-shop on the Internet. ''Even the inexperienced buyer can walk into a home and tell if it's overpriced -- based on competition,'' she said.</p>
+        <p>Some buyers think a 6 percent commission -- $33,600 in Mrs. Mohr's case -- is too much. Dr. Harry Sharata, a Madison dermatologist, listed his four-bedroom West Side house on FSBOMadison.com. ''We try to avoid the Realtors as much as possible, thinking we can have more room to negotiate if that fee isn't built into the price,'' he said.</p>
+        <p>Dr. Sharata listed the house two weeks ago at $649,000 and received an offer on Wednesday. He would not disclose the amount of the offer. Like many FSBO sellers, Dr. Sharata said he would gladly pay an agent representing the buyer a 3 percent fee, or $19,470 at his asking price, but felt little need for an agent's help in selling.</p>
+        <p>''For the most part, these transactions are straightforward,'' he said.</p>
+        <p>The study found, however, that homes listed with agents sold more quickly -- with a 25 percent probability of selling within 60 days versus a 16 percent probability for FSBO-advertised homes.</p>
+        <p>On average, it took FSBO homes 125 days to sell and agent-sold homes 105 days. A faster sale, of course, can save money on mortgage payments, taxes and insurance, the economists noted.</p>
+        <p>FSBOMadison.com, the subject of a January 2006 article in The New York Times, charges $150 for an ad on the site and a yard sign. Taking advantage of antiestablishment sentiment in Madison, which has a highly educated and liberal population, it quickly grabbed a market share of roughly 20 percent. That made it among the most successful challengers in the country to real estate agent domination of home sales.</p>
+        <p>That scale, along with the cooperation of the site's owners and of the local Realtor group, made the economists' study possible. ''We don't have national data,'' Mr. Nevo, one of the authors, said. ''FSBOMadison is unique.''</p>
+        <p>The results, from another perspective, show that with agents failing to bring a higher price, their commission pays only for the actual work they do. ''That was surprising,'' Mr. Nevo said.</p>
+        <p>He suspects that sellers will begin to examine more closely the cost of all the small tasks handled by agents. To justify a $12,000 fee on a $200,000 house, he said, ''you'd have to have a very high hourly rate'' for an agent's work.</p>
+        <p>Mr. Nevo, who employed an agent to sell his Berkeley house, said that, so far, his FSBO-using colleague Mr. Hendel is winning their argument. ''I probably owe him lunch,'' Mr. Nevo said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

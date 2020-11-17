@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adult-Only Froot Loops</title>
+    <meta content="16sat4" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/opinion/16sat4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854782"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weight</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <org class="indexing_service">Kellogg Co</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Obesity</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Obesity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Kellogg Company</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E3D8153FF935A25755C0A9619C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adult-Only Froot Loops</hl1>
+        <hl2 class="online_headline">Adult-Only Froot Loops</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes that Kellogg Co is latest corporation to respond to growing efforts by educators, parents' groups, pediatricians and experts on obesity to cut down on advertising junk foods to children; holds that Kellogg's plan to limit advertising is only one small move in right direction; contends that there is still lot more that big companies could do to make products that lead to healthy profits and even healthier customers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Childhood obesity too often starts at home -- in front of the television set. Children are defenseless against the wiles of Madison Avenue, and studies show most cannot understand the difference between an advertisement and the rest of their television fare. Even worse, these snappy ads directed at the young help create bad eating habits for life.</p>
+        <p>Now, the Kellogg Company has added its heft to those trying to address the growing national concern about young waistlines. The $11 billion company has established nutrition standards and promised that by the end of next year, many of its less-healthy items will either be healthier -- ''reformulated'' to cut down on fat, salt and, particularly, sugar -- or will not be advertised on children's television shows.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>There is still a lot more that big and powerful companies could do to make products that lead to healthy profits and even healthier customers.</p>
+      </block>
+      <block class="full_text">
+        <p>Childhood obesity too often starts at home -- in front of the television set. Children are defenseless against the wiles of Madison Avenue, and studies show most cannot understand the difference between an advertisement and the rest of their television fare. Even worse, these snappy ads directed at the young help create bad eating habits for life.</p>
+        <p>Now, the Kellogg Company has added its heft to those trying to address the growing national concern about young waistlines. The $11 billion company has established nutrition standards and promised that by the end of next year, many of its less-healthy items will either be healthier -- ''reformulated'' to cut down on fat, salt and, particularly, sugar -- or will not be advertised on children's television shows.</p>
+        <p>The company's new standards allow advertising for products with up to 12 grams of sugar per serving. That means if Pop-Tarts, Apple Jacks, Cocoa Krispies and Froot Loops keep their current contents they'll be off the cartoon circuit. Frosted Flakes, with 11 grams, will still be pitched to the young.</p>
+        <p>Kellogg is now the latest corporation to respond to growing efforts by educators, parents' groups, pediatricians and experts on obesity to cut down on advertising junk foods to children. A threatened lawsuit from the Center for Science in the Public Interest, the Campaign for a Commercial-Free Childhood and two Massachusetts parents also helped nudge the company in the right direction.</p>
+        <p>Kellogg's plan to limit advertising -- like Walt Disney's promise to stop using Mickey and his pals to sell sugary treats or Kraft's limiting Oreo ads aimed at children -- is only one small move in the right direction. The sugar content for Kellogg's new list is high, and there is concern that more effort will now be made to sell these fattening treats to moms. There is still a lot more that these big, powerful companies could do to make products that lead to healthy profits and even healthier customers.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Straphangers' Warning: Fares May Have to Rise</title>
+    <meta content="06fare" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/06/nyregion/06fare.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852498"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <org class="online_producer">Straphangers Campaign</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EEDF1E30F935A35755C0A9619C8B63" item-length="586" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Straphangers' Warning: Fares May Have to Rise</hl1>
+        <hl2 class="online_headline">Straphangers’ Warning: Fares May Have to Rise</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Transportation Authority will have to raise revenues significantly to stave off looming deficits in the next several years, increasing pressure on the authority to increase transit fares and bridge and tunnel tolls, according to a study by the city's Independent Budget Office.</p>
+        <p>Unless it can substantially cut costs, the authority will need to increase total revenues by about 20 percent over the next three and a half years, the report said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Metropolitan Transportation Authority will have to raise revenues significantly to stave off looming deficits in the next several years, increasing pressure on the authority to increase transit fares and bridge and tunnel tolls, according to a study by the city’s Independent Budget Office.</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Transportation Authority will have to raise revenues significantly to stave off looming deficits in the next several years, increasing pressure on the authority to increase transit fares and bridge and tunnel tolls, according to a study by the city's Independent Budget Office.</p>
+        <p>Unless it can substantially cut costs, the authority will need to increase total revenues by about 20 percent over the next three and a half years, the report said.</p>
+        <p>If revenues from the authority's sources rise by 20 percent across the board, that would mean that by 2010 the basic subway and bus fare would increase to $2.40 from $2, and a 30-day MetroCard to $92 from $76. Commuter rail fares and bridge and tunnel tolls would see similar increases.</p>
+        <p>The report was produced by the budget office at the request of the Straphangers Campaign, a transit rider advocacy group, which released it yesterday.</p>
+        <p>Asked about the report, Elliot G. Sander, the executive director and chief executive of the authority, would not say whether he believed a fare increase was imminent. He said that in July the authority would release its proposed budget for next year and that a fare increase ''remains a possibility.''</p>
+        <p>Speaking yesterday morning at a forum in Midtown sponsored by Crain's New York Business, Mr. Sander said, ''The last thing, literally, that we want to do is increase fares and tolls.''</p>
+        <p>But he added, ''The one thing that we will not do is let the system go to hell, as it did in the late '70s and early '80s, and so we must ensure that the system remains viable in terms of its infrastructure.''</p>
+        <p>Though dire warnings of budget deficits at the authority are not unusual, the fact that the report was released by the Straphangers Campaign gave it a different cast. In the past, the riders group has accused the authority of using gloomy financial projections to scare the public into accepting a fare increase. That was no longer the case yesterday.</p>
+        <p>''We definitely see ourselves at this moment as Paul Revere,'' said Gene Russianoff, staff lawyer for the group. ''It's like a warning, an alarm for the governor and the state legislative leaders that there's this huge financial problem.''</p>
+        <p>Mr. Russianoff said he hoped that any increase in fares would be accompanied by an increase in other forms of revenue to the authority, which include taxes and direct subsidies from the state, the city and other local governments in the area served by the authority's trains and buses.</p>
+        <p>Roughly 40 percent of the authority's $9.4 billion revenues come from fares, including those for subway, bus and commuter rail.</p>
+        <p>The budget office report was based on the authority's projections of growing budget deficits beginning next year. The authority has said that largely because of increased interest payments on its debt, it is facing a budget shortfall of $799 million next year, $1.5 billion in 2009 and $1.8 billion in 2010.</p>
+        <p>The report pointed out that the authority had been projecting financial calamity for years, only to have run substantial surpluses instead, thanks largely to an unexpected surge in taxes from real estate transactions. But the report concluded that next year might be different because growing debt payments would begin to outpace the windfall from real estate taxes.</p>
+        <p>The authority has not raised fares and tolls since 2005. At that time, it left the base subway and bus fare at $2 but increased the price of unlimited ride MetroCards and raised tolls and commuter fares.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   STEINBERG, ETHEL STOLLER</title>
+    <meta content="dn060307.2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851573"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">STEINBERG, ETHEL STOLLER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDE143AF930A35755C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   STEINBERG, ETHEL STOLLER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STEINBERG--Ethel Stoller, 84, resident of Delray Beach, FL, widow of Ted Steinberg; beloved sister of Adeline and Edward Glassman; beloved mother of Leslie Platto, Charles Platto, Marc Stoller and Lenore Rey, Bruce and Kelly Stoller; Lyle and Wendy, Spencer and Paula, Glen, Mary, Vicki and Donna Steinberg; beloved grandmother of Jamie and Lorin, Carey and Ali, Jody, Terry; Jason and Liz, Corey, Andrew, Rachelle, Jared and Erick; beloved great-grandmother of Jake and Skylar as well as nieces, nephews and friends across the country; died on May 30, 2007. Ethel will be loved and remembered always for her warmth, her humor and her love for her family as well as for her talent as a painter, decorator and sculptor. She was an avid golfer and reader and she played a good hand of bridge but she expressed herself best in her art where she found peace and solace when the going got rough. Memorial contributions may be made to Fisher Center for Alzheimer's Research Foundation, www.alzinfo.org; to National Museum of Women in the Arts, www.nmwa.org; or to Corey Frederick Stoller Memorial Scholarship, 123 Chappell Drive, Milford, NH 03055</p>
+      </block>
+      <block class="full_text">
+        <p>STEINBERG--Ethel Stoller, 84, resident of Delray Beach, FL, widow of Ted Steinberg; beloved sister of Adeline and Edward Glassman; beloved mother of Leslie Platto, Charles Platto, Marc Stoller and Lenore Rey, Bruce and Kelly Stoller; Lyle and Wendy, Spencer and Paula, Glen, Mary, Vicki and Donna Steinberg; beloved grandmother of Jamie and Lorin, Carey and Ali, Jody, Terry; Jason and Liz, Corey, Andrew, Rachelle, Jared and Erick; beloved great-grandmother of Jake and Skylar as well as nieces, nephews and friends across the country; died on May 30, 2007. Ethel will be loved and remembered always for her warmth, her humor and her love for her family as well as for her talent as a painter, decorator and sculptor. She was an avid golfer and reader and she played a good hand of bridge but she expressed herself best in her art where she found peace and solace when the going got rough. Memorial contributions may be made to Fisher Center for Alzheimer's Research Foundation, www.alzinfo.org; to National Museum of Women in the Arts, www.nmwa.org; or to Corey Frederick Stoller Memorial Scholarship, 123 Chappell Drive, Milford, NH 03055</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

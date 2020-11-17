@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Publishers Creating Their Own In-House Ad Agencies</title>
+    <meta content="04adcol" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/04/business/media/04adcol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852121"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Conde Nast Publications Inc</org>
+        <org class="indexing_service">Meredith Corp</org>
+        <org class="indexing_service">Hearst Corp</org>
+        <person class="indexing_service">Story, Louise</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <org class="online_producer">Conde Nast Publications Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E3DF1130F937A35755C0A9619C8B63" item-length="1020" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Publishers Creating Their Own In-House Ad Agencies</hl1>
+        <hl2 class="online_headline">Publishers Creating Their Own In-House Ad Agencies</hl2>
+      </hedline>
+      <byline class="print_byline">By LOUISE STORY</byline>
+      <byline class="normalized_byline">Story, Louise</byline>
+      <abstract>
+        <p>Publishing companies like Conde Nast, Meredith and Hearst set up internal agencies to design advertising campaigns for their magazine pages; trend poses challenge to established outside agencies that create content; allows for unique partnerships that would otherwise be impossible through traditional marketing; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Like executives at advertising agencies, Richard D. Beckman and his team talk to managers at consumer brand companies about the customers they want to reach. Four to six weeks later, they present a marketing and advertising plan.</p>
+        <p>But Mr. Beckman does not run an advertising agency. He is the president of the Condé Nast Media Group, a division of the magazine company that publishes titles like Vogue, Wired and The New Yorker. Over the last five years, Mr. Beckman has developed an agencylike business within Condé Nast's ad sales unit, generating new revenue by planning events for advertisers and creating advertisements that help sell more magazine pages.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The president of the Condé Nast Media Group has developed an agencylike business within the ad sales unit.</p>
+      </block>
+      <block class="full_text">
+        <p>Like executives at advertising agencies, Richard D. Beckman and his team talk to managers at consumer brand companies about the customers they want to reach. Four to six weeks later, they present a marketing and advertising plan.</p>
+        <p>But Mr. Beckman does not run an advertising agency. He is the president of the Condé Nast Media Group, a division of the magazine company that publishes titles like Vogue, Wired and The New Yorker. Over the last five years, Mr. Beckman has developed an agencylike business within Condé Nast's ad sales unit, generating new revenue by planning events for advertisers and creating advertisements that help sell more magazine pages.</p>
+        <p>Traditionally, magazine companies have made money by selling ad space in their magazines or, more recently, on their Web sites. Now some of them have set up what amount to internal miniagencies that work with clients to design campaigns for their own pages. Sometimes this work spills out into other forums, like radio and television ads.</p>
+        <p>Condé Nast Publications, the Meredith Corporation, Reader's Digest, Hearst and even Surface magazine, a small independent title dedicated to fashion and design, are now handling some creative work for their advertisers. The trend poses a challenge to traditional agencies and has created some unusual partnerships (think of Vogue designing ads for Wal-Mart Stores).</p>
+        <p>The Condé Nast Media Group has been developing sweepstakes, television specials, radio spots, in-store events and, of course, magazine ads for brands like Dillard's, Kohl's, Grey Goose and Lexus. The unit, which relies on a panel of more than 100,000 consumers to evaluate advertising, generates about $200 million of revenue from these marketing programs.</p>
+        <p>Mr. Beckman's group has drawn the most attention for ''Fashion Rocks,'' a television special about music and the fashion industry that goes beyond a typical agency project. The event, now in its fourth year, ties in several large advertisers like Chevrolet, Citigroup, L'Oréal and Cingular, and was featured last year in a custom magazine sent to Condé Nast subscribers.</p>
+        <p>This year, Condé Nast is planning another large event to sell to advertisers, ''Movies Rock.'' That show, produced by Mr. Beckman and some Hollywood heavyweights, will feature music that has been influential in movies. It will have its debut in December, and Condé Nast hopes to turn it into an annual event, another focal point for selling ads.</p>
+        <p>The idea behind both programs is to create a so-called television event, custom magazine and other content that showcases each advertiser. During Fashion Rocks last year, for example, Elton John performed a private show the night before that was streamed only onto Cingular Wireless cellphones.</p>
+        <p>Andrew McLean, president and chief client officer of Mediaedge:cia, the ad-buying agency that represented Cingular Wireless when it worked with ''Fashion Rocks,'' said that his client's work with Condé Nast had moved from ''just buying bits of paper in a magazine to a much more multifaceted relationship.'' Mediaedge:cia is part of the WPP Group.</p>
+        <p>Mr. Beckman's unit also has the ability to approach celebrities who would do not often work directly with advertisers. For example, Condé Nast arranged for Robert F. Kennedy Jr. to appear in an ad for Lexus that also showcased the Waterkeeper Alliance, a water protection group that Mr. Kennedy heads.</p>
+        <p>''They have the cachet and the credibility for top-tier celebrities to want to partner with them,'' said Robin Steinberg, senior vice president and director of print investment and activation for MediaVest, an agency that buys media in the Publicis Groupe.</p>
+        <p>For Dillard's, Condé Nast has created everything from the store chain's current slogan -- ''The Style of Your Life'' -- to fashion shows for local department stores. Condé Nast set up the first national campaign for Dillard's last year, with components like radio and television ads, online videos and magazine ads.</p>
+        <p>Condé Nast's internal agency evolved from within, but Meredith, which publishes such titles as Family Circle, More and Ladies' Home Journal, took a different approach. Last summer the company established Meredith 360, an advertising consulting group that is a separate business unit from the publishing group. Meredith has purchased three advertising agencies in the last year, allowing it to offer a broad spectrum of services.</p>
+        <p>''A lot of our different divisions do what a lot of different agencies do,'' said Nancy Weber, Meredith's chief marketing officer.</p>
+        <p>Hearst also has a division that does creative work for its largest clients, in formats that include print, online, video, mobile and outdoor. Hearst has modeled its marketing division after an ad agency, said Jeff Hamill, senior vice president of Hearst Integrated Media, complete with a sales staff that serves as account directors, creative teams and researchers.</p>
+        <p>Mr. Hamill said that agencies that buy ads are often involved in the process, but agencies that create ads are not, since Hearst can do that work.</p>
+        <p>Meredith 360 charges for its services, while Condé Nast and Hearst charge for costs only when they create custom programs for advertisers, executives at those companies said. (Condé Nast also makes a profit from events like Fashion Rocks.) The rate structure means that Condé Nast can often beat ad agencies on price, Mr. Beckman said.</p>
+        <p>''We don't have to make money from our creative, because we make money from our media,'' he said.</p>
+        <p>Some advertisers think that's the way it should be. Condé Nast is currently working with CIT, the financial services company, on a series of interviews with people like fashion designer Marc Ecko, whose clothing company is called Marc Ecko Enterprises. The interviews are featured online, and Condé Nast will produce live events and magazine sections over the next several months for CIT.</p>
+        <p>Kelley Gipson, director of brand marketing and communications for CIT, said that she does not expect to pay Condé Nast anything more than the cost of the pages her company purchases.</p>
+        <p>''I look at it as part of the value chain for media,'' Ms. Gipson said. ''We don't charge for it when we're working with our customers. We look at the opportunity to provide sort of intellectual capital as the glue in the relationship, so we challenge our media partners to think about it the same way.''</p>
+        <p>ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What She Wants: Retro, Soul And Hip-Hop (Just a Little Bit)</title>
+    <meta content="11joss" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/arts/music/11joss.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853760"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Central Park Summerstage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Central Park Summerstage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Stone, Joss</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDF173FF932A25755C0A9619C8B63" item-length="477" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What She Wants: Retro, Soul And Hip-Hop (Just a Little Bit)</hl1>
+        <hl2 class="online_headline">What She Wants: Retro, Soul and Hip-Hop (Just a Little Bit)</hl2>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joss Stone came to Central Park SummerStage on Friday night with a full soul band, complete with horns and backup singers. She's just 20 years old and English, but she has decided her favorite music was made in the United States years before she was born: soul from about 1964 to 1974.</p>
+        <p>On her albums, Ms. Stone uses hip-hop trappings like drum samples, synthesizers and guest rappers. Friday's concert included a set by the rapper Common, who appears on her new album, ''Introducing Joss Stone'' (Virgin), and he joined her for their song, ''Tell Me What We're Gonna Do Now.'' But most of Ms. Stone's live set was unabashedly retro. After three albums and a lot of touring, her timing is starting to live up to her voice.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Joss Stone came to Central Park SummerStage with a full soul band, complete with horns and backup singers.</p>
+      </block>
+      <block class="full_text">
+        <p>Joss Stone came to Central Park SummerStage on Friday night with a full soul band, complete with horns and backup singers. She's just 20 years old and English, but she has decided her favorite music was made in the United States years before she was born: soul from about 1964 to 1974.</p>
+        <p>On her albums, Ms. Stone uses hip-hop trappings like drum samples, synthesizers and guest rappers. Friday's concert included a set by the rapper Common, who appears on her new album, ''Introducing Joss Stone'' (Virgin), and he joined her for their song, ''Tell Me What We're Gonna Do Now.'' But most of Ms. Stone's live set was unabashedly retro. After three albums and a lot of touring, her timing is starting to live up to her voice.</p>
+        <p>Ms. Stone wrote nearly all the lyrics on ''Introducing,'' with songs about breaking up, starting over and getting what she wants, which may well be music rather than a new man. Her sources are obvious, from the New Orleans backbeat of ''Put Your Hands on Me'' to Al Green's minor-key Memphis groove in ''Music'' to 1960s Aretha Franklin in ''Tell Me 'Bout It.'' Unlike Amy Winehouse, England's current neo-soul darling, Ms. Stone doesn't bring revisionism or shock value to her straightforward songs. While there aren't many surprises, the songs provide enough traction to let her voice invoke desire, pain, anger, ache and resilience, especially onstage.</p>
+        <p>Ms. Stone is a soul fan in the era of R&amp;B and ''American Idol,'' when disjointed vocal flourishes sometimes stand in for musical storytelling. She still had Mariah Carey moments when her voice dissolved into a whispery haze and hand-waving took over for singing. But for most of her set she connected with the songs: melting some notes and sharpening others, singing tartly or sweetly, sinuously dodging the beat or riding it with quick bursts of syllables. Instead of mimicking isolated phrases, as she did a few years ago, she is turning songs into narrative arcs.</p>
+        <p>Set aside, for the moment, the unfairness of a music business that senses more commercial potential in young Britons than in seasoned American soul singers -- Bettye LaVette, Irma Thomas -- who already have everything Ms. Stone is soaking up. Ms. Stone is learning the right things, and fast.</p>
+        <p>Common strives to be a benevolent rapper. He preached between songs about an all-embracing (but monotheistic) God and performed his respectful love letter, ''The Light.'' In a new song, ''The People,'' he presented himself as an advocate for ''unsung heroes'' and grumbled about being an also-ran at the Grammy Awards. His backup group relied on pop-jazz keyboard vamps, hinting at Gil Scott-Heron. But rather than come across as a goody-goody, Common also had songs about hot, tempting and treacherous women, and he brought a female fan onstage for some very close dancing. For Common, virtue doesn't mean abstinence.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

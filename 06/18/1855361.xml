@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Attempt to Match Readers and Relevant News</title>
+    <meta content="18thoof" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/18thoof.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855361"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Digg.com</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DD123FF93BA25755C0A9619C8B63" item-length="753" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Attempt to Match Readers and Relevant News</hl1>
+        <hl2 class="online_headline">Another Attempt to Match Readers and Relevant News</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <dateline>SAN FRANCISCO, June 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ian Clarke was a 23-year-old computer scientist living in Scotland in 2000 when he started a global controversy by deploying an online system called Freenet. The system was intended to make it possible to share information anonymously, and to make it virtually impossible to be removed from the Internet once it was placed there.</p>
+        <p>Since then he has moved to the United States, gone back to Europe and returned to the United States, all in the process starting three venture capital-backed companies. But he has not given up on his original goal: to engender democracy by making it simple to share accurate information.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new Web site, Thoof, is an attempt to improve on sites like Digg and Reddit, where users filter and rank links to articles and blog entries.</p>
+      </block>
+      <block class="full_text">
+        <p>Ian Clarke was a 23-year-old computer scientist living in Scotland in 2000 when he started a global controversy by deploying an online system called Freenet. The system was intended to make it possible to share information anonymously, and to make it virtually impossible to be removed from the Internet once it was placed there.</p>
+        <p>Since then he has moved to the United States, gone back to Europe and returned to the United States, all in the process starting three venture capital-backed companies. But he has not given up on his original goal: to engender democracy by making it simple to share accurate information.</p>
+        <p>Mr. Clarke's latest project, a Web site called Thoof, is an attempt to improve on sites like Digg and Reddit, where communities of users filter and rank links to news articles and blog entries. Thoof began operating on Friday in invitation-only mode and is set to open to the public next week.</p>
+        <p>Mr. Clarke is obsessed with the fact that even when accurate information exists on the Internet, it often does not have the political impact that it should.</p>
+        <p>''I'm concerned that most Americans still believe that Saddam Hussein had weapons of mass destruction,'' he said. ''All of the information is there, but people are still ill-informed.''</p>
+        <p>He believes Thoof will provide a way to make sure accurate information can spread, and that he can profit in the process.</p>
+        <p>Underlying Thoof -- a name he discovered by writing a program to search for Internet addresses that had not been taken (he said he also liked that it rhymed with truth) -- is a computer scientist's interest in what Mr. Clarke refers to as ''passive search,'' similar to what people do when they browse through a newspaper.</p>
+        <p>''It will give you something to read the way you might read your newspaper in the morning,'' he said.</p>
+        <p>Mr. Clarke expects that a small percentage of the site's users will contribute links to articles, while most readers will come to the site because it will match articles with their interests.</p>
+        <p>Active members of the Thoof community will be able to alter the contributions of other users, changing headlines and even substituting a link to a better article on the same subject. The community will then vote on the changes.</p>
+        <p>Sites that allow this kind of interaction with the news are becoming part of the media landscape, said Allen Weiner, an online media analyst at Gartner, a research firm.</p>
+        <p>''There's definitely a marriage between what the user-generated content sites are trying to do and traditional content companies like newspapers,'' Mr. Weiner said. ''It's the human table of contents, and it's dynamic.''</p>
+        <p>The challenge, he said, was that in turning editorial functions over to the consumer of news, these sites were both taking advantage of the wisdom of crowds and running the risk that people will try to game the system.</p>
+        <p>At the heart of Thoof, which was designed by 10 computer scientists, mathematicians and programmers based in Austin, Tex., is an algorithm that Mr. Clarke says can be far more efficient and accurate than existing collaborative filters.</p>
+        <p>Collaborative filtering involves making predictions about a user's interests by collecting information about the tastes and behavior of many users. One of the limitations of this approach is that it requires large amounts of data -- collected over a period of time -- to be effective.</p>
+        <p>In contrast, Thoof has created an algorithm that it says will begin giving users relevant news articles as soon as they begin using the service.</p>
+        <p>Mr. Clarke said he believes there is a business opportunity for a Web service that falls between conventional centrally edited news sites and news filters like Digg and Reddit.</p>
+        <p>Based on data from comScore, which measures Web traffic, Mr. Clarke estimates that about 1.3 billion pages are viewed daily on news and information sites, generating advertising of roughly $51 million a day. But sites based on user submissions account for only about half of 1 percent of all news viewing on the Web, he said.</p>
+        <p>Thoof is negotiating with an advertising syndicator to put ads on the site based on demographic and behavioral data that the Thoof system will provide about its users.</p>
+        <p>Thoof will face challenges in trying to build a critical mass of users at a time when the success of Digg has inspired imitators. But the potential for a more effective news-filtering site was enough to attract the interest of Ron Conway, a Silicon Valley investor, and of Austin Ventures, a venture capital company.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

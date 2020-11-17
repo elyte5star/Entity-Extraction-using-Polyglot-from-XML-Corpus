@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Rare Case of Confident Consumers Disapproving of a President</title>
+    <meta content="09charts" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/business/09charts.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853137"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OFF THE CHARTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Confidence (Economic Indicator)</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <org class="indexing_service">Gallup Poll</org>
+        <person class="indexing_service">Norris, Floyd</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Johnson, Lyndon Baines (1908-73)</person>
+        <person class="indexing_service">Nixon, Richard Milhous (1913-94)</person>
+        <person class="indexing_service">Ford, Gerald Rudolph Jr (1913-2006)</person>
+        <person class="indexing_service">Carter, Jimmy</person>
+        <person class="indexing_service">Reagan, Ronald Wilson (1911-2004)</person>
+        <person class="indexing_service">Bush, George (Former Pres)</person>
+        <person class="indexing_service">Clinton, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Norris, Floyd</person>
+        <person class="online_producer">Carter, Jimmy</person>
+        <person class="online_producer">Johnson, Lyndon Baines</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DE163FF93AA35755C0A9619C8B63" item-length="574" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Rare Case of Confident Consumers Disapproving of a President</hl1>
+        <hl2 class="online_headline">A Rare Case of Confident Consumers Disapproving of a President</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+      <abstract>
+        <p>Floyd Norris Off the Charts column says Pres Bush has now endured string of low presidential approval ratings in polls longer than any president since Jimmy Carter, but consumer confidence has not plummeted during period; adds consumer confidence is higher than it was during any recent period of presidential unpopularity; chart shows how attitudes toward current conditions have fared during periods when president's performance, as measured by Gallup polls, was approved by 40 percent or less of electorate; charts also show when figure hovered around 40 percent and then fell back to that level, but exclude periods when president's rating rose substantially, even if it then fell back to low levels; graphs (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT'S not the economy, stupid. It's the war.</p>
+        <p>President Bush has now endured a string of low presidential approval ratings in polls longer than any president since Jimmy Carter. But consumer confidence has not plummeted during that period, and in fact is higher than it was during any recent period of presidential unpopularity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush has endured low approval ratings longer than any president since Jimmy Carter, but consumer confidence has not plummeted.</p>
+      </block>
+      <block class="full_text">
+        <p>IT'S not the economy, stupid. It's the war.</p>
+        <p>President Bush has now endured a string of low presidential approval ratings in polls longer than any president since Jimmy Carter. But consumer confidence has not plummeted during that period, and in fact is higher than it was during any recent period of presidential unpopularity.</p>
+        <p>Lyndon B. Johnson is the only comparable president to have garnered very low approval ratings even as the economy did well and consumer confidence was strong. His poll ratings fell sharply as support for the Vietnam War faded. Mr. Bush's ratings have followed a similar course as Americans gradually concluded that the Iraq war was going badly.</p>
+        <p>The Conference Board began polling Americans on consumer confidence in 1967, at first every other month and since 1977 every month. It reports attitudes about the current economy and expectations for the following six months, as well as an overall confidence rating that combines the two.</p>
+        <p>The chart shows how the attitudes toward current conditions have fared during periods when the president's performance, as measured by Gallup polls, was approved by 40 percent or less of the electorate. The charts also show when the figure hovered around 40 percent and then fell back to that level, but exclude periods when a president's rating rose substantially, even if it then fell back to low levels. In months when more than one Gallup poll was taken, the chart show averages of all of them.</p>
+        <p>To put the ratings in perspective, the chart also shows the average approval rating of each president in Gallup polls. As it happens, President Bush has one of the better averages, reflecting his high popularity in the aftermath of the Sept. 11, 2001, attacks. The first poll after the attacks gave him a 90 percent approval rating, the highest for any president since Gallup began polling when Franklin D. Roosevelt was in the White House.</p>
+        <p>The current consumer confidence figures show the public is much less enthusiastic about the future than about the present. Those figures are broadly consistent with other periods of presidential unpopularity, and are not shown in the graphic. It may be hard for people to be optimistic about the future when they think the president is doing a poor job, whatever the reason for the unpopularity.</p>
+        <p>Every president from Mr. Johnson to the current one endured at least one period of low popularity. And while there sometimes were noneconomic reasons, ranging from Watergate under Richard M. Nixon to the Iranian hostage crisis under Mr. Carter, there were also economic woes when those presidents hit their nadirs of popularity.</p>
+        <p>Mr. Johnson, however, is one of only three presidents since the Civil War to have served without any period of recession during his administration. (The others are Bill Clinton and James A. Garfield, who served for just six months before he was assassinated in 1881.)</p>
+        <p>President Bush endured a recession in 2001, but it began so soon in his term that few blamed him for it, and consumer confidence early this year was at its highest level since the Sept. 11 attacks. But that has not helped his popularity, which has been at consistently low levels longer than any president since Mr. Carter. The latest Gallup poll, taken this month and not shown in the chart because there is no June consumer confidence data available, found that 32 percent approved of his performance, while 62 percent disapproved.</p>
+        <p>OFF THE CHARTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

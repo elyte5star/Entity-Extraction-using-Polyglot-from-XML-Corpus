@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Best Hotel in Town May Now Be at the Airport</title>
+    <meta content="17transhotels" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/travel/17transhotels.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854945"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <org class="indexing_service">Grand Hyatt DFW Hotel (Dallas/Fort Worth)</org>
+        <org class="indexing_service">Westin Detroit Metropolitan Airport Hotel</org>
+        <person class="indexing_service">Greenfield, Beth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Industry News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Denver</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Colorado</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <location class="online_producer">Denver (Colo)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E7DB173FF934A25755C0A9619C8B63" item-length="285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Best Hotel in Town May Now Be at the Airport</hl1>
+        <hl2 class="online_headline">The Best Hotel in Town May Now Be at the Airport</hl2>
+      </hedline>
+      <byline class="print_byline">By BETH GREENFIELD</byline>
+      <byline class="normalized_byline">Greenfield, Beth</byline>
+      <abstract>
+        <p>Hyatt and Westin hotel chains have opened luxury hotels at airports in Dallas and Detroit, respectively, and other airport hotels are undergoing major facelifts; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you've passed through one of several major United States airports recently, you might have noticed something that has actually made you want to miss your connection: a luxury hotel linked right to the terminal, no shuttle ride needed.</p>
+        <p>There is the sleekly styled Westin Detroit Metropolitan Airport in the new McNamara Terminal, and the Grand Hyatt DFW, above, in the international terminal of Dallas/Fort Worth International Airport. Other hotels, like the Hyatt Regency Orlando International Airport and the Miami International Airport Hotel, either have had or are undergoing major face-lifts. And Denver International Airport has requested proposals, which were due on June 1, to build a hotel with 500 rooms and 38,000 square feet of meeting space.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A number of major U.S. airports have added something that might make you want to miss your flight: a luxury hotel linked right to the terminal.</p>
+      </block>
+      <block class="full_text">
+        <p>If you've passed through one of several major United States airports recently, you might have noticed something that has actually made you want to miss your connection: a luxury hotel linked right to the terminal, no shuttle ride needed.</p>
+        <p>There is the sleekly styled Westin Detroit Metropolitan Airport in the new McNamara Terminal, and the Grand Hyatt DFW, above, in the international terminal of Dallas/Fort Worth International Airport. Other hotels, like the Hyatt Regency Orlando International Airport and the Miami International Airport Hotel, either have had or are undergoing major face-lifts. And Denver International Airport has requested proposals, which were due on June 1, to build a hotel with 500 rooms and 38,000 square feet of meeting space.</p>
+        <p>''One of the reasons why we are having a larger mix of luxury construction at airports than in the past is land cost, which tends to be quite expensive,'' said Bjorn Hanson, who heads the hospitality and leisure practice at PricewaterhouseCoopers. ''And so a higher room rate type of development -- with a $450 average rate as opposed to $129 -- helps make the land lease more affordable.''</p>
+        <p>Deep-pocketed leisure travelers, of course, benefit from getting more sleep and less stress before early flights, not to mention cool views of the runway right from their rooms.</p>
+        <p>Both Hyatt and Westin offer packages that include up to eight nights of parking while you're traveling. Both also offer a program called Beyond the Screening Checkpoint, in conjunction with the Transportation Security Administration, which allows overnight guests to enter the airport to shop, eat and stroll after going through a security check.</p>
+        <p>Double rooms at each hotel are $200 to $300 a night, depending on the date.</p>
+        <p>BETH GREENFIELD</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

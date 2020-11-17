@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recent Immigrants And Latino Religion</title>
+    <meta content="l17city-1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855201"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <person class="indexing_service">Badillo, David A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EED8153FF934A25755C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recent Immigrants And Latino Religion</hl1>
+      </hedline>
+      <abstract>
+        <p>Bronx Institute of Lehman College research director David Badillo letter responds to June 10 article about new immigrants and Latino religion</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am writing with considerable concern and disappointment with regard to your June 10 article ''The Hallelujah People.'' When your reporter interviewed me over the phone, I discussed Latino religion and the circumstances of new immigrants generally. With regard to the group Growing in Grace, about which I clearly admitted very little familiarity, I concluded that its significance within the larger picture of Latino religiosity was minimal, at best.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am writing with considerable concern and disappointment with regard to your June 10 article ''The Hallelujah People.'' When your reporter interviewed me over the phone, I discussed Latino religion and the circumstances of new immigrants generally. With regard to the group Growing in Grace, about which I clearly admitted very little familiarity, I concluded that its significance within the larger picture of Latino religiosity was minimal, at best.</p>
+        <p>Had you reported this -- and put my quotes on recent immigrants and their needs and contributions in context -- there would have been much less substance to the story. As is, it appeared that this group represented some kind of an emerging mainstream religious trend among Latinos.</p>
+        <p>It seems to me essential that such an examination at least acknowledge the very strong ongoing Latino support for Catholicism -- with all of its shortcomings -- as well as the tremendous impact of countless well-established Protestant denominations.</p>
+        <p>David A. Badillo  Bedford Park, the Bronx</p>
+        <p>The writer is research director at the Bronx Institute of Lehman College and author of ''Latinos and the New Immigrant Church.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

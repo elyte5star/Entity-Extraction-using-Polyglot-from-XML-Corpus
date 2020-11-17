@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where Off Off Took Off</title>
+    <meta content="08mccrl" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/theater/08pecu.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852890"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E0DE1F30F93BA35755C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where Off Off Took Off</hl1>
+        <hl2 class="online_headline">Where Off Off Took Off</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVEN McELROY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last fall the theater company Peculiar Works Project took audiences back in time by way of a tour that meandered through Greenwich Village, stopping at Off Off Broadway's earliest locales. Along the way actors performed excerpts from seminal works of downtown theater. But the company was only telling half the story.</p>
+        <p>Now ''OFF Stage: The East Village Fragments,'' which begins previews on Thursday, will tell the rest of the tale. Eighty actors will enact scenes from plays that originated at La MaMa, Theater Genesis, the Tempo Theater and other performance spaces. The group hopes also to bring more permanent attention to the downtown theatrical legacy and is working to persuade the city to install plaques at the sites, said Catherine Porter, one of its three co-artistic directors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In “OFF Stage: The East Village Fragments,” 80 actors will enact scenes from plays that originated at La MaMa, Theater Genesis, the Tempo Theater and other performance spaces.</p>
+      </block>
+      <block class="full_text">
+        <p>Last fall the theater company Peculiar Works Project took audiences back in time by way of a tour that meandered through Greenwich Village, stopping at Off Off Broadway's earliest locales. Along the way actors performed excerpts from seminal works of downtown theater. But the company was only telling half the story.</p>
+        <p>Now ''OFF Stage: The East Village Fragments,'' which begins previews on Thursday, will tell the rest of the tale. Eighty actors will enact scenes from plays that originated at La MaMa, Theater Genesis, the Tempo Theater and other performance spaces. The group hopes also to bring more permanent attention to the downtown theatrical legacy and is working to persuade the city to install plaques at the sites, said Catherine Porter, one of its three co-artistic directors.</p>
+        <p>''OFF Stage'' runs Thursdays through Saturdays until June 30, with four tours nightly, at 7, 7:30, 8 and 8:30. Performances will be offered at the same times on opening night, Sunday, June 17. Tickets ($18, or $15 for students and 65+) are available through theatermania.com or by calling (212)352-3101. Preview tickets are $15; $10 for students and seniors. Here are some highlights of the tour.</p>
+        <p>STEVEN McELROY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

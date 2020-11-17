@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Doctor Charged With Insurance Fraud</title>
+    <meta content="13mbrfs-5" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854266"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E2DE143FF930A25755C0A9619C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Doctor Charged With Insurance Fraud</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A doctor who works at a clinic in Jamaica has been charged with insurance fraud, accused of billing insurance companies for tests that were never performed on victims of motor vehicle accidents, prosecutors said yesterday. The doctor, Alexander Israeli, 53, of Middle Village, was arraigned in Criminal Court on Monday night on charges of grand larceny and insurance fraud, said Richard A. Brown, the Queens district attorney. Mr. Brown said that Dr. Israeli billed insurance companies last year for $21,000 worth of neurological tests that were not performed. He faces loss of his medical license and up to seven years in prison if convicted, prosecutors said.</p>
+      </block>
+      <block class="full_text">
+        <p>A doctor who works at a clinic in Jamaica has been charged with insurance fraud, accused of billing insurance companies for tests that were never performed on victims of motor vehicle accidents, prosecutors said yesterday. The doctor, Alexander Israeli, 53, of Middle Village, was arraigned in Criminal Court on Monday night on charges of grand larceny and insurance fraud, said Richard A. Brown, the Queens district attorney. Mr. Brown said that Dr. Israeli billed insurance companies last year for $21,000 worth of neurological tests that were not performed. He faces loss of his medical license and up to seven years in prison if convicted, prosecutors said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Privacy Is an Issue For Critics Of Cameras</title>
+    <meta content="09cameras" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/nyregion/09cameras.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853089"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">Department of Transportation</org>
+        <org class="online_producer">Transportation Alternatives</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DF163FF93AA35755C0A9619C8B63" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Privacy Is an Issue For Critics Of Cameras</hl1>
+        <hl2 class="online_headline">Privacy Is an Issue for Critics of Cameras</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICK McGEEHAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the mayor's congestion-pricing plan gaining political support, some critics said yesterday that the network of several hundred cameras that would be installed on the streets of Manhattan could be too intrusive.</p>
+        <p>The cameras, which would record the license plate numbers of all vehicles that pass them, would be installed in 340 locations below 86th Street, said John Gallagher, a spokesman for the mayor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For some critics of the mayor’s congestion pricing plan, the cameras that would be installed on the streets of Manhattan constitute an invasion of privacy.</p>
+      </block>
+      <block class="full_text">
+        <p>With the mayor's congestion-pricing plan gaining political support, some critics said yesterday that the network of several hundred cameras that would be installed on the streets of Manhattan could be too intrusive.</p>
+        <p>The cameras, which would record the license plate numbers of all vehicles that pass them, would be installed in 340 locations below 86th Street, said John Gallagher, a spokesman for the mayor.</p>
+        <p>They would be the eyes of the billing system, which would charge drivers of cars $8 a day for entering the zone and $4 a day for driving within it, according to the mayor's plan. Drivers of commercial trucks would pay $21 to enter the zone and $5.50 to drive within it.</p>
+        <p>Richard L. Brodsky, a Democratic assemblyman from Westchester, estimated that the plan would require about 1,000 cameras and expressed concern that such widespread monitoring would violate people's privacy.</p>
+        <p>During a hearing in Midtown yesterday, Mayor Michael R. Bloomberg dismissed such worries, saying people who harbored them were not ''being terribly realistic.'' He pointed out that there were cameras pointed at the streets and sidewalks from buildings and bridges all over the city.</p>
+        <p>Noah Budnick, deputy director for advocacy at Transportation Alternatives, a group that supports the mayor's plan, said he believed the civil-liberties complaint ''is just a red herring.''</p>
+        <p>''If they have a problem with this, then they should have a problem with the thousands of cameras that are photographing them on the streets of New York every day,'' Mr. Budnick said.</p>
+        <p>The city's Department of Transportation has more than 30 cameras monitoring the flow of traffic in the zone. It also has about 100 cameras poised to capture the license plates of cars that run red lights at intersections throughout the city, said Ted Timbers, a spokesman for the department.</p>
+        <p>Mr. Timbers said the department would not disclose the locations of those red-light cameras or say how many are within the congestion-pricing zone. But the two networks of cameras would be separate, so there likely would be intersections under the watch of both types of cameras.</p>
+        <p>The plan to charge for moving within the zone has raised questions about whether Manhattanites would have to pay $4 every time they suffer through the ritual of moving their cars to comply with alternate-side parking rules.</p>
+        <p>Mayor Bloomberg and Daniel Doctoroff, the deputy mayor for economic development, have repeatedly reassured audiences that city officials will figure out a way to exempt such movements, probably by allowing free passage within a few blocks.</p>
+        <p>''I don't think that's an unsolvable issue; it's just going to take some really smart software,'' Mr. Budnick said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

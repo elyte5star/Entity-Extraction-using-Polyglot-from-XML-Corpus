@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Parthenon Looks Solid From My Cellphone</title>
+    <meta content="05moblog" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/technology/circuits/05moblog.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852356"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PHONES AND PHOTOS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blogs and Blogging (Internet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">AT&amp;T Corp</org>
+        <org class="online_producer">T-Mobile</org>
+        <org class="online_producer">Photobucket</org>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E2D91130F936A35755C0A9619C8B63" item-length="1003" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Parthenon Looks Solid From My Cellphone</hl1>
+        <hl2 class="online_headline">The Parthenon Looks Solid From My Cellphone</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHY wait until you get back from vacation to share the photos from your trip? With a decent cellphone camera and the power of the Web, you can upload photos while still on the road to let friends and family live vicariously through you.</p>
+        <p>Mobile blogging -- or ''moblogging'' -- usually refers to using a cellphone camera to take photos and send them over the wireless phone network to a Web page. With the text-messaging abilities of most mobile phones, you can also tap in titles and captions to let your audience know what it's looking at, although it may be more fun to make them guess.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Who needs postcards? With a mobile blog, cellphone auteurs can take everyone along.</p>
+      </block>
+      <block class="full_text">
+        <p>WHY wait until you get back from vacation to share the photos from your trip? With a decent cellphone camera and the power of the Web, you can upload photos while still on the road to let friends and family live vicariously through you.</p>
+        <p>Mobile blogging -- or ''moblogging'' -- usually refers to using a cellphone camera to take photos and send them over the wireless phone network to a Web page. With the text-messaging abilities of most mobile phones, you can also tap in titles and captions to let your audience know what it's looking at, although it may be more fun to make them guess.</p>
+        <p>Once you set up a blog or photo-sharing page, you can give the Web address to friends and family. Most sites also let you control who sees your pictures. Since many sites offer R.S.S. (Really Simple Syndication) feeds, friends who subscribe to your page through their Web browsers are alerted when you post pictures. (For those unfamiliar with R.S.S. feeds, a general guide can be found at tinyurl.com/2gcwr3.)</p>
+        <p>Mobile blogging has a few drawbacks, particularly if your phone camera produces grainy, low-resolution images. Some people choose to use a regular digital camera and upload photos from a laptop or borrowed computer when they can, or they take along a higher-quality camera to use in addition to the cellphone. But with many phone cameras offering 2-, 3- or 5-megapixel resolutions, image quality can be less of an issue.</p>
+        <p>Posting pictures to a moblog is usually easier on domestic trips. Some phones designed for use in the United States will not work overseas, where the cellular networks are typically based on the G.S.M. standard.</p>
+        <p>AT&amp;T and T-Mobile are two carriers, however, that use a version of the G.S.M. system in the United States, and their handsets can often work on international G.S.M. phone networks with the right roaming plan. Renting a mobile camera phone with a data plan when you are overseas may also work for moblogging in a foreign land. A list of phone rentals can be found at Web sites like dmoz.org/Business/Telecommunications/Services/Wireless/Phone--Rental, but all may not have cameras.</p>
+        <p>Once you decide to give moblogging a try, there are a few other things to do before you take your trip. First, make sure your phone has the right plan for sending pictures. Some carriers charge additional fees for sending pictures and text messages over the network. Many wireless carriers even offer their own album pages to display your phone photos.</p>
+        <p>Once you are squared away with your phone plan, you need to decide where you want to send your images, so your pals can find them on the Web. Blog sites like Blogger or Vox are popular, as are photo-sharing sites like Flickr and Photobucket. There are many others, but some may not work with all wireless carriers.</p>
+        <p>These sites make it easy to create a blog or an online photo album, and they are free for basic accounts, although you may see some ads on your page. With Vox, once you land on its home page (vox.com), you just need to click the big Join Now button to get started. (A sample moblog featuring camera-phone shots of New York City is at moblogger.vox.com.)</p>
+        <p>If you join, Vox walks you through the steps, starting with selecting a name for your blog and picking a graphic design from one of the templates. A link to mobile settings is available in the account preferences, where you can get an e-mail address to use for sending photos from your phone to your blog.</p>
+        <p>These addresses can often be computer-generated and somewhat unwieldy, like, 19664740522y4u9f3@moblog.vox.com. But once you enter it into your phone and save it as a contact, you can select it from your address book when you are ready to send a picture. Even if you have a blog or photo collection set up, it is often possible to moblog to it as well -- be sure to check your user preferences for mobile settings.</p>
+        <p>The Blogger site (blogger.com) has its own information at tinyurl.com/2dsktx. You can start a mobile blog by sending a message from your phone to go@blogger.com. The Blogger site sends a code back to your phone, which you can use to set up your personal blog.</p>
+        <p>A regular blog service will give you more room for text posts than the spaces allotted by some photo-album sites. If you have computer access while you're on the road, you can add narratives, links, maps and other elements that are hard to do on a mobile-phone keypad.</p>
+        <p>Most photo-sharing sites make it easy to upload and organize your pictures, as well as to tag them with keywords so other people can find them online.</p>
+        <p>Flickr (flickr.com), part of the Yahoo empire, has become a popular spot for both professional and amateur photographers. A basic account is free and lets you upload 100 megabytes' worth of photos a month. (Pro accounts cost $25 a year and add perks like unlimited photo uploads.) Once you have a Flickr account, go to flickr.com/account/uploadbyemail to find the e-mail address you will use to send cellphone photos to your Flickr page.</p>
+        <p>Photobucket (photobucket.com) also has free basic accounts, and setting up an album is fairly straightforward. Once you have your account arranged, click the account options link on your new Photobucket home page to get the e-mail address you need for posting photos from your phone.</p>
+        <p>An added benefit of sending your favorite shots to the Web is that you can get copies of your photos. For example, PicDeck software from Ontela (ontela.com) can be configured automatically to send a copy of each camphone shot to a folder on your PC, as well as to a blog or a photo-sharing site. Ontela is working with several wireless carriers, and PicDeck is expected to arrive on phones in the fall.</p>
+        <p>Until then, moblogging is a quick, simple way to share your personal postcards; it's cheaper, too, given the price of stamps these days.</p>
+        <p>PHONES AND PHOTOS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

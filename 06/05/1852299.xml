@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Women Fail to Make Cut In Qualifier for the Men's Tour</title>
+    <meta content="05bowling" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/sports/05bowling.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852299"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BOWLING"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Bowling</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bowling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <person class="online_producer">Kulick, Kelly</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E6DA1130F936A35755C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Women Fail to Make Cut In Qualifier for the Men's Tour</hl1>
+        <hl2 class="online_headline">Two Women Fall Short in Qualifier for Men’s Bowling Tour</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BRANCH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kelly Kulick, who became the first woman to qualify for the Professional Bowlers Association Tour last year, could not repeat the accomplishment this year.</p>
+        <p>Kulick, a 30-year-old from Union, N.J., needed to finish in the top seven of the five-day Tour trials that ended Sunday in Merrillville, Ind. She finished 30th.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kelly Kulick and Liz Johnson, the only women in the qualifying field for the Professional Bowlers Association Tour, were eliminated in the trials that ended Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>Kelly Kulick, who became the first woman to qualify for the Professional Bowlers Association Tour last year, could not repeat the accomplishment this year.</p>
+        <p>Kulick, a 30-year-old from Union, N.J., needed to finish in the top seven of the five-day Tour trials that ended Sunday in Merrillville, Ind. She finished 30th.</p>
+        <p>Liz Johnson, the only other woman in the qualifying field of 100, finished 12th.</p>
+        <p>''You feel like it's right there,'' Johnson said yesterday in a telephone interview. ''I could touch it, and I couldn't hold on to it.''</p>
+        <p>The seven qualifiers, who will round out the 59-member 2007-8 Tour, were Todd Book, Ronnie Russell, Steve Harman, Brian LeClair, Troy Wollenbecker, Chad Kloss and Steve Weber.</p>
+        <p>A year ago, Kulick finished sixth at the trials and became the first woman to qualify for the P.B.A. Tour. The accomplishment brought her attention from the news media, which faded slowly as she fell to 54th on the Tour's points list. During a phone interview yesterday, Kulick said she planned to take time off from serious competition after a taxing year.</p>
+        <p>''I'm just going to press the pause button for a while,'' she said. ''And when I'm ready, I'll press play again.''</p>
+        <p>Johnson, from Cheektowaga, N.Y., outside of Buffalo, was a stalwart of the Professional Women's Bowling Association, which folded in 2003. The P.B.A. opened its doors to women the next year, when Johnson was the first woman to qualify for one of its tournaments. In 2005, she became the first woman to reach the final of a Tour event, finishing as the runner-up in a 64-person field.</p>
+        <p>Events on the P.B.A. Tour, which starts in the fall and stretches to the spring, leave a few spots open for bowlers to try to qualify. Last season, Johnson used the weekly qualifying rounds to bowl her way into 17 events, and finished 61st in the points standings. After falling short of gaining automatic entry to all events, she said she planned to gain entry into most tournaments the same way this season, too.</p>
+        <p>Kulick said she would probably do the same. ''I have to see how I feel mentally and physically,'' she said.</p>
+        <p>BOWLING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

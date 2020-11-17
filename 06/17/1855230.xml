@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Puppy Love</title>
+    <meta content="l17dog" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855230"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0D7153FF934A25755C0A9619C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Puppy Love</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''My Dog Days,'' by Arthur Phillips (Op-Ed, June 10), gave me those warm, fuzzy feelings and made my eyes tear.</p>
+        <p>People who adopt from animal shelters will tell you that it's not only a rewarding experience, but also that shelters are filled with a smorgasbord of the most amazing, delightful, intelligent dogs you'll ever find on the planet.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''My Dog Days,'' by Arthur Phillips (Op-Ed, June 10), gave me those warm, fuzzy feelings and made my eyes tear.</p>
+        <p>People who adopt from animal shelters will tell you that it's not only a rewarding experience, but also that shelters are filled with a smorgasbord of the most amazing, delightful, intelligent dogs you'll ever find on the planet.</p>
+        <p>There are puppies with puppy breath and slobbery kisses; young dogs with enthusiasm, devotion and intelligence; older dogs with patience, loyalty and wisdom. You can find purebreds, mixed breeds and designer dogs. But one thing they all have in common is the strongest desire imaginable to love you, protect you and bond with you.</p>
+        <p>When that happens, you'll understand the bond between human and companion animal of which Mr. Phillips wrote.</p>
+        <p>Sherrill Durbin  Tulsa, Okla., June 12, 2007</p>
+        <p>To the Editor:</p>
+        <p>It's strange, I have started to do the same thing as Arthur Phillips -- counting my years by my beloved whippet, Gracie. Cherishing her puppy days but also cherishing every moment we have together, and all the smiles and laughs because of her.</p>
+        <p>Life is so much better with a dog friend at your side.</p>
+        <p>Karen Benzel  Carmel-by-the-Sea, Calif.  June 11, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

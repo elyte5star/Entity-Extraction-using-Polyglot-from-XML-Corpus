@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Protect Shady Gun Dealers?</title>
+    <meta content="17sun1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/17sun1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855225"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">National Rifle Association</org>
+        <org class="online_producer">Virginia Polytechnic Institute and State University</org>
+        <person class="online_producer">Tiahrt, Todd</person>
+        <person class="online_producer">Kennedy, Patrick J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE1D7153FF934A25755C0A9619C8B63" item-length="530" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Protect Shady Gun Dealers?</hl1>
+        <hl2 class="online_headline">Why Protect Shady Gun Dealers?</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It should not require the shedding of innocent blood to shame Congress into showing the spine to take on the gun lobby, but that seems like a good description of the sorry state of affairs on Capitol Hill.</p>
+        <p>Lawmakers appear to be on their way to fixing one glaring flaw in the law-enforcement system as a direct response to the massacre at Virginia Tech. But another change that is vital to public safety is facing heated resistance from opponents of gun control who seem to have trouble drawing a line between the right to bear arms and using them in crimes and selling them to criminals.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It should not require the shedding of innocent blood to shame Congress into showing the spine to take on the gun lobby, but that seems like a good description of the sorry state of affairs on Capitol Hill.</p>
+      </block>
+      <block class="full_text">
+        <p>It should not require the shedding of innocent blood to shame Congress into showing the spine to take on the gun lobby, but that seems like a good description of the sorry state of affairs on Capitol Hill.</p>
+        <p>Lawmakers appear to be on their way to fixing one glaring flaw in the law-enforcement system as a direct response to the massacre at Virginia Tech. But another change that is vital to public safety is facing heated resistance from opponents of gun control who seem to have trouble drawing a line between the right to bear arms and using them in crimes and selling them to criminals.</p>
+        <p>Last week, the House approved a measure to fix flaws in the system of background checks for gun buyers -- flaws that allowed the Virginia Tech shooter to purchase firearms despite a history of mental health problems that should have disqualified him. It appears the Senate will soon follow suit.</p>
+        <p>The bill would provide money to states to update the national database that gun dealers use to screen prospective buyers, adding more criminal records and mental health information. This advance for public safety was the product of weeks of negotiations between senior Congressional Democrats and the National Rifle Association.</p>
+        <p>But it does not seem that this newfound interest in sharing information extends to giving the police and local governments access to urgently needed information about guns used in crimes. That problem faces a tense showdown in coming days in the House Appropriations Committee when it takes up a spending bill that includes the Justice Department.</p>
+        <p>At issue is a pernicious gift to the gun lobby known as the Tiahrt amendment, after Representative Todd Tiahrt, the Kansas Republican who attached it to the spending measure in 2003. It limits the ability of federal officials to release data showing the path from manufacture to retail purchase of a gun that was recovered in a crime. Representative Patrick Kennedy, Democrat of Rhode Island, and Representative Mark Kirk, Republican of Illinois, are expected to seek its repeal.</p>
+        <p>Supporters of the Tiahrt amendment contend, unpersuasively, that broader release of the dealer information would jeopardize investigations. The amendment's real intent was to impede cities from pursuing lawsuits against gun manufacturers for irresponsible marketing practices. The main result, notes Mayor Michael Bloomberg of New York, has been to make it harder to fight gun violence across jurisdictional lines. The Tiahrt amendment hinders the ability of the police and localities to see how guns move through their communities, and to act against the relatively small handful of gun dealers responsible for selling a majority of the guns used in crime.</p>
+        <p>Mr. Bloomberg has become an object of vilification by gun-rights zealots for running sting operations against out-of-state dealers whose guns have been linked to crimes in New York, filing successful lawsuits, and rallying mayors and law-enforcement leaders against the Tiahrt amendment. These efforts pose no threat to law-abiding gun owners, dealers and manufacturers.</p>
+        <p>House Speaker Nancy Pelosi has said she will oppose the Tiahrt amendment. Lawmakers in favor of preserving the absurd restrictions have a duty to explain why they are more interested in protecting rogue gun dealers than in protecting the public.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

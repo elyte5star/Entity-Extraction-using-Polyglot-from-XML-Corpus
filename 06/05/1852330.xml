@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sudden Growth</title>
+    <meta content="05tue4" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/opinion/05tue4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852330"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Rural Life"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Spruce Trees</classifier>
+        <person class="indexing_service">Klinkenborg, Verlyn</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EEDA1130F936A35755C0A9619C8B63" item-length="391" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sudden Growth</hl1>
+        <hl2 class="online_headline">Sudden Growth</hl2>
+      </hedline>
+      <byline class="print_byline">By VERLYN KLINKENBORG</byline>
+      <byline class="normalized_byline">Klinkenborg, Verlyn</byline>
+      <abstract>
+        <p>Verlyn Klinkenborg The Rural Life column voices wonder at amazing growth of two white spruces he planted seven years ago (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seven years ago, I planted a pair of white spruces -- Picea glauca. They came by mail in slender tubes from a nursery in Oregon, mere wisps of vegetation. I wasn't sure where I wanted to put them, so I stuck them in an improvised nursery bed, beside the sweet corn and the pole beans. A year later I moved them just inside the fence along the gravel road that runs past our place. It has been to their liking. Those trees are now well over 10 feet tall -- lone emissaries from the great forest of white spruces that reaches across Canada.</p>
+        <p>There is always an assumption of selflessness in planting a tree. You're supposed to think, while digging the hole, how far into the future the tree will grow and what shallow, unconvincing weeds we humans are in comparison.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I’ve been a close witness of the vegetative life of white spruces, and in my mind I cannot keep up with it.</p>
+      </block>
+      <block class="full_text">
+        <p>Seven years ago, I planted a pair of white spruces -- Picea glauca. They came by mail in slender tubes from a nursery in Oregon, mere wisps of vegetation. I wasn't sure where I wanted to put them, so I stuck them in an improvised nursery bed, beside the sweet corn and the pole beans. A year later I moved them just inside the fence along the gravel road that runs past our place. It has been to their liking. Those trees are now well over 10 feet tall -- lone emissaries from the great forest of white spruces that reaches across Canada.</p>
+        <p>There is always an assumption of selflessness in planting a tree. You're supposed to think, while digging the hole, how far into the future the tree will grow and what shallow, unconvincing weeds we humans are in comparison.</p>
+        <p>It's true that I'd like to see these spruces in another 80 years. But I can take in the whole tree now. I can watch the growing tip -- so wan in early June -- gradually turn into trunk. I can still remember that I planted these spruces myself. When they are fully mature, they will seem to have planted themselves.</p>
+        <p>The rest of the garden grows much faster. The peas and beans shoot up and so will the tomatoes and corn. But every year the vegetables get to be just so tall, just so ripe, and then down they come with the harvest, the frost. I know their limits as well as they do. I am not going to be staggered by a patch of corn that turns out to be 30 feet tall. The garden will tell me soon enough where the summer went.</p>
+        <p>But I'm staggered by these spruces nearly every day.</p>
+        <p>They are growing in full view of my office window so it should not be possible for them to sneak up on me. And yet every year they do. I began asking, ''How did they get so tall?,'' when they were only waist-high. I'm still asking now that they're beginning to dwarf me. I'd like to say that slow has turned sudden in these spruces, because we imagine a stoicism in the way trees grow. But I've been a close witness of their vegetative life, and in my mind I cannot keep up with it.</p>
+        <p>VERLYN KLINKENBORG</p>
+        <p>The Rural Life</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

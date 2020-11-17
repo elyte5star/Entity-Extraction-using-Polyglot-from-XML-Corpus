@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="08stem--refer" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852967"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5DA1F30F93BA35755C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>House Backs Stem Cell Work  The House gave final Congressional approval to legislation aimed at easing restrictions on federal financing of embryonic stem cell research, but Democratic leaders conceded they lacked the votes to override a threatened veto.</p>
+        <p>PAGE A24</p>
+        <p>Varying Academic Standards  The Department of Education issued a report that, for the first time, measured the wide extent of differences in academic standards among the states.</p>
+        <p>PAGE A21</p>
+        <p>Inquiry Linked to a Senator  In a corruption inquiry, questions have arisen about the ties of Senator Ted Stevens, Republican of Alaska, to a former oil executive and about renovations to his home.</p>
+        <p>PAGE A26</p>
+        <p>Spurs Jump Ahead in Finals  San Antonio held LeBron James to 14 points and beat the Cleveland Cavaliers, 85-76, in Game 1 of the N.B.A. finals.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>House Backs Stem Cell Work  The House gave final Congressional approval to legislation aimed at easing restrictions on federal financing of embryonic stem cell research, but Democratic leaders conceded they lacked the votes to override a threatened veto.</p>
+        <p>PAGE A24</p>
+        <p>Varying Academic Standards  The Department of Education issued a report that, for the first time, measured the wide extent of differences in academic standards among the states.</p>
+        <p>PAGE A21</p>
+        <p>Inquiry Linked to a Senator  In a corruption inquiry, questions have arisen about the ties of Senator Ted Stevens, Republican of Alaska, to a former oil executive and about renovations to his home.</p>
+        <p>PAGE A26</p>
+        <p>Spurs Jump Ahead in Finals  San Antonio held LeBron James to 14 points and beat the Cleveland Cavaliers, 85-76, in Game 1 of the N.B.A. finals.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

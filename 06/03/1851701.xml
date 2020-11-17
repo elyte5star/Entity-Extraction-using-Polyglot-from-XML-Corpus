@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THEATER: THE TONYS | A Season's Indelible Moments; A Haunting Curtain Call -- 'Journey's End'</title>
+    <meta content="03snap2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/theater/theaterspecial/03snap2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851701"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="'Journey's End'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Green, Jesse</person>
+        <object.title class="indexing_service">Journey's End (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <person class="online_producer">Sherriff, R C</person>
+        <person class="online_producer">Grindley, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E3DB1430F930A35755C0A9619C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THEATER: THE TONYS | A Season's Indelible Moments; A Haunting Curtain Call -- 'Journey's End'</hl1>
+        <hl2 class="online_headline">A Haunting Curtain Call</hl2>
+      </hedline>
+      <byline class="print_byline">By JESSE GREEN</byline>
+      <byline class="normalized_byline">Green, Jesse</byline>
+      <abstract>
+        <p>Article describes indelible moment from 2006-7 theater season, haunting curtain call from play Journey's End; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As written, the final image of R. C. Sherriff's World War I play ''Journey's End'' is the collapse of the dugout in which its characters have spent the previous hours of stage time, now blasted into the ground by German fire. But that's not the end of the play as seen this season at the Belasco Theater on Broadway. ''The effect was unaffordable,'' the director David Grindley said, ''and a little obvious.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One of the most chilling curtain calls ever appended to a commercial drama occurs in “Journey’s End.”</p>
+      </block>
+      <block class="full_text">
+        <p>As written, the final image of R. C. Sherriff's World War I play ''Journey's End'' is the collapse of the dugout in which its characters have spent the previous hours of stage time, now blasted into the ground by German fire. But that's not the end of the play as seen this season at the Belasco Theater on Broadway. ''The effect was unaffordable,'' the director David Grindley said, ''and a little obvious.''</p>
+        <p>What he and his designers came up with instead is one of the most chilling curtain calls ever appended to a commercial drama. First, a black curtain wipes away the stage picture as the hellish sounds of battle roll forward over the audience. After what seems like an eternity but is really only 30 seconds, the cannonade is replaced by a ''breath of bird song,'' as Mr. Grindley described it. When the curtain then flies out, the cast of 11 is standing in uniform in front of a painted backdrop replicating part of the Menin Gate memorial at Ypres, Belgium: rows and rows of names of dead soldiers. (Of the nearly 60,000 names at Ypres, only 6,000 fit on the backdrop.) As a recorded bugler plays ''The Last Post'' (the British counterpart to ''Taps''), the audience members are silent, their curtain-call reflex short-circuited. What, after all, would they be clapping for? War? That the war in question ended so long ago? (But that leads uncomfortably to more contemporary thoughts.) This silent quandary continues through two blackouts until the men at last remove their helmets, signaling that they are once again just actors, ready to accept applause. Which does come, in torrents -- as much in appreciation for their work as in relief over the end of a terrible moment of moral confusion.</p>
+        <p>JESSE GREEN</p>
+        <p>'Journey's End'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Maya Alperowicz, Justin Florence</title>
+    <meta content="10Alperowicz" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/fashion/weddings/10Alperowicz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853617"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Alperowicz, Maya Peri</person>
+        <person class="indexing_service">Florence, Justin Grant</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD71F30F933A25755C0A9619C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Maya Alperowicz, Justin Florence</hl1>
+        <hl2 class="online_headline">Maya Alperowicz, Justin Florence</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maya Peri Alperowicz and Justin Grant Florence, both law clerks for federal judges, are to be married today. Rabbi Carl Astor is to officiate at Blithewold Mansion, Gardens &amp; Arboretum in Bristol, R.I.</p>
+        <p>The bride, 27, works for Judge Colleen Kollar-Kotelly of the United States District Court for the District of Columbia, and the bridegroom, 28, clerks in Baltimore for Judge Diana Gribbon Motz of the United States Court of Appeals for the Fourth Circuit. The bride and bridegroom met at Harvard, where she received a law degree cum laude and he a master's in history.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Maya Peri Alperowicz and Justin Grant Florence, both law clerks for federal judges, are to be married today. Rabbi Carl Astor is to officiate at Blithewold Mansion, Gardens &amp; Arboretum in Bristol, R.I.</p>
+      </block>
+      <block class="full_text">
+        <p>Maya Peri Alperowicz and Justin Grant Florence, both law clerks for federal judges, are to be married today. Rabbi Carl Astor is to officiate at Blithewold Mansion, Gardens &amp; Arboretum in Bristol, R.I.</p>
+        <p>The bride, 27, works for Judge Colleen Kollar-Kotelly of the United States District Court for the District of Columbia, and the bridegroom, 28, clerks in Baltimore for Judge Diana Gribbon Motz of the United States Court of Appeals for the Fourth Circuit. The bride and bridegroom met at Harvard, where she received a law degree cum laude and he a master's in history.</p>
+        <p>The bride graduated summa cum laude from the University of Pennsylvania. She is the daughter of Cynthia Broner of Cambridge, Mass., and Eli Alperowicz of Boston. Her father is a painter whose work has been shown in galleries, including the Fort Point Open Studios in Boston; he is also a chef at Tables of Content Catering in Boston. Her mother works at WGBH, the Boston public television and radio affiliate, where she is a senior manager who directs communications, publications and speechwriting.</p>
+        <p>The bridegroom graduated cum laude from Yale, where he also received a law degree. He is the son of Heather Florence and Ronald Florence of Providence, R.I. His mother is an intellectual property lawyer there. His father, who retired as the executive director of the New York Council for the Humanities, is the author of nine books, including ''Blood Libel'' (University of Wisconsin, 2004).</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

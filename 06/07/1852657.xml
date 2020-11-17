@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Barbara Barry's Hollywood Glamour, Now at ABC Home</title>
+    <meta content="07barry" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852657"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: INTERIORS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EEDA1E30F934A35755C0A9619C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Barbara Barry's Hollywood Glamour, Now at ABC Home</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE GREEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Barbara Barry may have invented the chilly glamour that has dominated much of high interior design for nearly a decade. For Hollywood royalty, she has made homes that look a bit like hotels; for hotels and restaurants, she has made spaces that look a bit like Hollywood homes. She is a branded personality, too, extending her name to teacups and flatware, sheets, towels and furniture. Today, her first American ''gallery,'' as she described it recently, opens at ABC Home in Manhattan. There are 2,500 square feet worth of furniture (Barbara Barry Realized by Henredon) and objects, in a strict black, brown and white palette, with prices ranging from about $155 for a four-piece Wedgwood bone china set called Curtain Call, top left, to $4,780 for the curvy Conversation sofa in white linen, top right.</p>
+      </block>
+      <block class="full_text">
+        <p>Barbara Barry may have invented the chilly glamour that has dominated much of high interior design for nearly a decade. For Hollywood royalty, she has made homes that look a bit like hotels; for hotels and restaurants, she has made spaces that look a bit like Hollywood homes. She is a branded personality, too, extending her name to teacups and flatware, sheets, towels and furniture. Today, her first American ''gallery,'' as she described it recently, opens at ABC Home in Manhattan. There are 2,500 square feet worth of furniture (Barbara Barry Realized by Henredon) and objects, in a strict black, brown and white palette, with prices ranging from about $155 for a four-piece Wedgwood bone china set called Curtain Call, top left, to $4,780 for the curvy Conversation sofa in white linen, top right.</p>
+        <p>Talking with Ms. Barry about her work can be a giddy experience. ''Every piece of furniture owns you until it frees you,'' she said, circling back down to earth to explain why she encased the legs of her Dream bedroom set in ''silver socks.'' ''I was thinking about the vacuum cleaner, and not having it ding the legs.'' ABC Home, 888 Broadway, (212) 473-3000.</p>
+        <p>PENELOPE GREEN</p>
+        <p>CURRENTS: INTERIORS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Economic Life After College</title>
+    <meta content="11mon3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/opinion/11mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853779"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Income</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DE173FF932A25755C0A9619C8B63" item-length="388" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Economic Life After College</hl1>
+        <hl2 class="online_headline">Economic Life After College</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Commencement is a time for idealism.</p>
+        <p>But economic reality is lurking everywhere, and new college graduates are vulnerable to ambush. They have been told repeatedly that a college degree is an open sesame to the global economy. But that's not necessarily so, according to new research by two economists at the Massachusetts Institute of Technology, Frank Levy and Peter Temin.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A college degree does not ensure a bigger share of the economic pie for many graduates.</p>
+      </block>
+      <block class="full_text">
+        <p>Commencement is a time for idealism.</p>
+        <p>But economic reality is lurking everywhere, and new college graduates are vulnerable to ambush. They have been told repeatedly that a college degree is an open sesame to the global economy. But that's not necessarily so, according to new research by two economists at the Massachusetts Institute of Technology, Frank Levy and Peter Temin.</p>
+        <p>It is true that people with college degrees make more money than people without degrees. The gap has narrowed somewhat in recent years, which is disturbing. But the earning power of college graduates still far outpaces that of less-educated workers.</p>
+        <p>The bad news, though, is that a college degree does not ensure a bigger share of the economic pie for many graduates. In recent decades, Mr. Levy and Mr. Temin show, only college-educated women have seen their compensation grow in line with economywide gains in productivity. The earnings of male college graduates have failed to keep pace with productivity gains.</p>
+        <p>Instead, an outsized share of productivity growth, which expands the nation's total income, is going to Americans at the top of the income scale. In 2005, the latest year with available data, the top 1 percent of Americans -- whose average annual income was $1.1 million -- took in 21.8 percent of the nation's income, their largest share since 1929.</p>
+        <p>Administration officials, and other politicians and economists, often assert that income inequality reflects an education gap. But Mr. Levy and Mr. Temin show that in the case of men, the average bachelor's degree is not sufficient to catch the rising tide of the global economy.</p>
+        <p>They argue that the real reason inequality is worsening is the lack of strong policies and institutions that broadly distribute economic gains. In the past, for example, a more progressive income tax and unions fostered equality. Affirmative action has also helped and probably accounts, in part, for the pay growth of college-educated women. But such institutions have been eroding and new ones have not yet emerged. At the same time, corporate norms that restrained excessive executive pay have also eroded, making the income gap even greater.</p>
+        <p>Mr. Levy and Mr. Temin conclude that only a reorientation of government policy can restore general prosperity. That's a challenge to the nation's leaders and today's graduates. America needs them to build the new institutions for a global economy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | Connecticut: Hartford: Senator Quits Leadership Job</title>
+    <meta content="14mbrfs-7" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/nyregion/14mbrfs-threat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854478"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <person class="online_producer">DeLuca, Louis C</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E7D7143FF937A25755C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | Connecticut: Hartford: Senator Quits Leadership Job</hl1>
+        <hl2 class="online_headline">Hartford: Senator Quits Leadership Job</hl2>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Louis C. DeLuca, left, the State Senate minority leader, resigned yesterday from his leadership post, according to a statement from the Senate Republicans. Mr. DeLuca, Republican of Woodbury, pleaded guilty this month to a misdemeanor charge of asking a businessman now facing racketeering charges to have someone threaten a man Senator DeLuca believed was abusing a family member. The businessman, James Galante, a trash hauler, had not been charged at the time; he has since pleaded not guilty. In a statement, Senate Republicans said Senator John McKinney, of Fairfield, would assume the leadership role until the caucus elected a new leader. Senator DeLuca, 73, said he looked ''forward to continuing to be a productive member of our caucus.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Louis C. DeLuca, left, the State Senate minority leader, resigned from his leadership post, according to a statement from the Senate Republicans.</p>
+      </block>
+      <block class="full_text">
+        <p>Louis C. DeLuca, left, the State Senate minority leader, resigned yesterday from his leadership post, according to a statement from the Senate Republicans. Mr. DeLuca, Republican of Woodbury, pleaded guilty this month to a misdemeanor charge of asking a businessman now facing racketeering charges to have someone threaten a man Senator DeLuca believed was abusing a family member. The businessman, James Galante, a trash hauler, had not been charged at the time; he has since pleaded not guilty. In a statement, Senate Republicans said Senator John McKinney, of Fairfield, would assume the leadership role until the caucus elected a new leader. Senator DeLuca, 73, said he looked ''forward to continuing to be a productive member of our caucus.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

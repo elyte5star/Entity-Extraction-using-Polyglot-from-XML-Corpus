@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OUT-BOX</title>
+    <meta content="03outbox" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851970"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E7DD1030F930A35755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OUT-BOX</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The five most e-mailed articles from nytimes.com/sports for May 26 to June 1.</p>
+        <p>1. Concussions Tied to Depression in Ex-N.F.L. Players Findings from a general health survey of 2,552 retired players by the University of North Carolina's Center for the Study of Retired Athletes.  (Published May 31)</p>
+        <p>2. Danish Cyclist Admits Doping in Tour Victory A confession by Bjarne Riis, who won the Tour de France in 1996.  (May 26)</p>
+        <p>3. With a New Sock, the Red Sox Add Some Distance Five-toed hosiery from Japan catches on.  (May 24)</p>
+        <p>4. To Love and to Cherish for All Eternity, or Not A fan divorces herself from her beloved but disappointing Yankees.  (May 27)</p>
+        <p>5. Take Me Out to the Baggage Check For a price, fans may stash their oversized bags before entering Yankee Stadium.  (May 25)</p>
+      </block>
+      <block class="full_text">
+        <p>The five most e-mailed articles from nytimes.com/sports for May 26 to June 1.</p>
+        <p>1. Concussions Tied to Depression in Ex-N.F.L. Players Findings from a general health survey of 2,552 retired players by the University of North Carolina's Center for the Study of Retired Athletes.  (Published May 31)</p>
+        <p>2. Danish Cyclist Admits Doping in Tour Victory A confession by Bjarne Riis, who won the Tour de France in 1996.  (May 26)</p>
+        <p>3. With a New Sock, the Red Sox Add Some Distance Five-toed hosiery from Japan catches on.  (May 24)</p>
+        <p>4. To Love and to Cherish for All Eternity, or Not A fan divorces herself from her beloved but disappointing Yankees.  (May 27)</p>
+        <p>5. Take Me Out to the Baggage Check For a price, fans may stash their oversized bags before entering Yankee Stadium.  (May 25)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

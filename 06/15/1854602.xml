@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cherokees and Blacks</title>
+    <meta content="l15cherokee" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854602"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1DD153FF936A25755C0A9619C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cherokees and Blacks</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Shame of the Cherokee Nation'' (editorial, June 8) said the Cherokee Nation ''voted to expel black members'' in amending its constitution. The amendment had nothing to do with skin color. Instead, the nation exercised its sovereignty to determine that only those with Indian ancestry can be Cherokee citizens.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Shame of the Cherokee Nation'' (editorial, June 8) said the Cherokee Nation ''voted to expel black members'' in amending its constitution. The amendment had nothing to do with skin color. Instead, the nation exercised its sovereignty to determine that only those with Indian ancestry can be Cherokee citizens.</p>
+        <p>In fact, there are thousands of Cherokees of African heritage (including 1,500 who are also descendants of former slaves) who are nation citizens because they have ancestors listed on our people's base roll. All will remain citizens and are unaffected by the amendment.</p>
+        <p>Despite the amendment's passage, the nation supported staying its implementation in court. All those disenrolled have been reinstated with economic and health benefits and voting rights pending the tribal court's final resolution.</p>
+        <p>Chad Smith  Principal Chief, Cherokee Nation  Washington, June 13, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

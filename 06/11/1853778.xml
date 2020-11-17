@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Test of the Senate</title>
+    <meta content="11mon2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/opinion/11mon2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853778"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Attorneys</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Gonzales, Alberto R (Atty Gen)</person>
+        <person class="indexing_service">Specter, Arlen (Sen)</person>
+        <person class="indexing_service">Coleman, Norm (Sen)</person>
+        <person class="indexing_service">Collins, Susan (Sen)</person>
+        <person class="indexing_service">Snowe, Olympia J (Sen)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Justice Department</org>
+        <person class="online_producer">Gonzales, Alberto R</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DE173FF932A25755C0A9619C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Test of the Senate</hl1>
+        <hl2 class="online_headline">A Test of the Senate</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial notes Senate has scheduled no-confidence vote on Atty Gen Alberto Gonzales; says list of his misdeeds is long and serious; says vote is test for Republican senators who call themselves independent--Arlen Specter, Norm Coleman, Susan Collins and Olympia Snowe--and will have to choose between Pres Bush and public interest</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Senate has scheduled a no-confidence vote today on Attorney General Alberto Gonzales. No one who has followed the news needs to be told why it is necessary. Mr. Gonzales is the Michael Brown of the Justice Department, smilingly presiding over incompetence, chaos and malfeasance, while President Bush insists that he is doing a heck of a job. Today's vote should get the support not only of Democrats, but of every Republican senator concerned about the American justice system.</p>
+        <p>The list of Mr. Gonzales's misdeeds is long and serious. The Justice Department has enormous power to put people in jail, destroy reputations and affect the outcomes of elections. It must enforce the law impartially, but Mr. Gonzales has allowed political partisanship to drive his department.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Today’s no-confidence vote on Attorney General Alberto Gonzales should get the support of every senator concerned about the American justice system.</p>
+      </block>
+      <block class="full_text">
+        <p>The Senate has scheduled a no-confidence vote today on Attorney General Alberto Gonzales. No one who has followed the news needs to be told why it is necessary. Mr. Gonzales is the Michael Brown of the Justice Department, smilingly presiding over incompetence, chaos and malfeasance, while President Bush insists that he is doing a heck of a job. Today's vote should get the support not only of Democrats, but of every Republican senator concerned about the American justice system.</p>
+        <p>The list of Mr. Gonzales's misdeeds is long and serious. The Justice Department has enormous power to put people in jail, destroy reputations and affect the outcomes of elections. It must enforce the law impartially, but Mr. Gonzales has allowed political partisanship to drive his department.</p>
+        <p>He appointed underqualified, ethically challenged ideologues, and let them run amok. Monica Goodling, a former top Gonzales aide, admitted that she crossed the line -- and most likely federal law -- by hiring lawyers for nonpolitical jobs based on their politics. The purge of nine United States attorneys last year was also clearly politically motivated. Talented, respected prosecutors were fired because they didn't do the Republican Party's bidding.</p>
+        <p>Mr. Gonzales's response has been shockingly deficient. He claimed that he was not in the loop on the firings. That would have been extreme dereliction of duty, since the fired attorneys were nearly 10 percent of his top state-level prosecutors. But it now seems clear that he was not telling the truth when he said it, which does not make him look any better.</p>
+        <p>The Justice Department is in shambles. Top officials have left under a cloud and have not been replaced. Morale is said to be terrible. And the department's credibility is shot. The public has every reason to suspect that if a United States attorney brings an indictment with political overtones -- or fails to indict -- the reason is politics, not the law.</p>
+        <p>Senator Charles Schumer, the New York Democrat who pushed for today's resolution, rightly says that if senators voted their conscience, it would be unanimous. The vote is a test, in particular, for Republican senators who call themselves independent -- like Arlen Specter, Norm Coleman, Susan Collins and Olympia Snowe -- and who will have to choose between the president and the public interest.</p>
+        <p>James Comey, a respected former deputy attorney general, testified that if prosecutors have been hired based on politics under Mr. Gonzales, ''I don't know that there's any window you can go to to get the department's reputation back.'' A strong majority of the Senate voting no confidence in Mr. Gonzales is an important place to start.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

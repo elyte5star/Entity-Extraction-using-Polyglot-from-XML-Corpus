@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When a High-Definition Picture Is Too Good to Believe, See How It Handles This Test Disc</title>
+    <meta content="07disc" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/technology/07disc.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852721"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television Sets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E3D81E30F934A35755C0A9619C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When a High-Definition Picture Is Too Good to Believe, See How It Handles This Test Disc</hl1>
+        <hl2 class="online_headline">When a High-Definition Picture Is Too Good to Believe, See How It Handles This Test Disc</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the specially produced videos that play in electronics stores, those HDTVs and DVD players produce pictures so astounding you can scarcely believe your eyes.</p>
+        <p>But you have to wonder if the effect will be the same with a regular movie in your den. One way to check the quality of a system is to bring an HQV Benchmark disc to the store with you.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One way to check the quality of a high-definition television before you buy it is to bring an HQV Benchmark disc to the store with you.</p>
+      </block>
+      <block class="full_text">
+        <p>With the specially produced videos that play in electronics stores, those HDTVs and DVD players produce pictures so astounding you can scarcely believe your eyes.</p>
+        <p>But you have to wonder if the effect will be the same with a regular movie in your den. One way to check the quality of a system is to bring an HQV Benchmark disc to the store with you.</p>
+        <p>These test discs were originally developed by the video processor maker Silicon Optix to demonstrate its wares, but the company decided to make them available to the public. Now available in Blu-Ray and HD DVD formats, the discs have a series of five simple tests that will help a shopper see how well an HDTV or disc player can reduce visual noise, reproduce curved lines without ''jaggies'' and recreate images with full resolution and picture clarity, among other things.</p>
+        <p>The discs, recorded in full 1080i resolution, the highest currently available, are $20 and are available from www.hqv.com.</p>
+        <p>You may have trouble trusting a TV salesman, but at least with these discs you can go back to believing your eyes.</p>
+        <p>ROY FURCHGOTT</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

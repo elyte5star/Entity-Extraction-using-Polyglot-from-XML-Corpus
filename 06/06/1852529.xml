@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Depot Meeting</title>
+    <meta content="l06depot" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852529"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EEDE1E30F935A35755C0A9619C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Depot Meeting</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Although Joe Nocera accuses me of having a ''tin ear,'' presumably for differing with his views on executive compensation (''Speaking Up in Fresh Air at Home Depot,'' Talking Business column, May 26), he did not mention several crucial points I made in our dialogue about Home Depot.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Although Joe Nocera accuses me of having a ''tin ear,'' presumably for differing with his views on executive compensation (''Speaking Up in Fresh Air at Home Depot,'' Talking Business column, May 26), he did not mention several crucial points I made in our dialogue about Home Depot.</p>
+        <p>The first was that in his tenure as chief executive, Bob Nardelli returned more money to shareholders -- in the form of dividends and buybacks -- than the entire book value of the company when he took over. If that's not a rock-solid return, nothing is.</p>
+        <p>Also, Mr. Nocera did not point out that most of the compensation he objects to was, and remains, strictly performance-based, not simply ''salary,'' as the article indicated. Most independent analysts agree that Mr. Nardelli built many other strong fundamentals.</p>
+        <p>Of course, as a co-founder of a company that was built from scratch and a significant shareholder, I want to see that value maximized. But the ulterior motives and ideological agenda of activists and journalists were never mentioned by Mr. Nocera. Are those critics truly interested in improving the company, or as Mr. Nocera has morally instructed us before, do they simply regard compensation as ''a huge source of class tension''?</p>
+        <p>Kenneth G. Langone  New York, May 31, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

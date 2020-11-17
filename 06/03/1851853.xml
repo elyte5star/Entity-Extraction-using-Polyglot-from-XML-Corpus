@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Simone Marean, Daniel Kasen</title>
+    <meta content="03marean" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03marean.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851853"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Marean, Simone Mindwell</person>
+        <person class="indexing_service">Kasen, Daniel Nathan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFDF1230F930A35755C0A9619C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Simone Marean, Daniel Kasen</hl1>
+        <hl2 class="online_headline">Simone Marean, Daniel Kasen</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Simone Mindwell Marean and Daniel Nathan Kasen were married yesterday by the Rev. Arrington Chambliss, an Episcopal priest, at Our Lady of the Evergreens, a chapel in Harborside, Me.</p>
+        <p>Ms. Marean, 30, is keeping her name. She is a founder of the Girls Leadership Institute, an organization that teaches interpersonal skills to girls through workshops and a summer camp in South Hadley, Mass. She graduated magna cum laude from Bryn Mawr and has a master's degree in educational theater from New York University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Simone Mindwell Marean and Daniel Nathan Kasen were married yesterday by the Rev. Arrington Chambliss, an Episcopal priest, at Our Lady of the Evergreens, a chapel in Harborside, Me.</p>
+      </block>
+      <block class="full_text">
+        <p>Simone Mindwell Marean and Daniel Nathan Kasen were married yesterday by the Rev. Arrington Chambliss, an Episcopal priest, at Our Lady of the Evergreens, a chapel in Harborside, Me.</p>
+        <p>Ms. Marean, 30, is keeping her name. She is a founder of the Girls Leadership Institute, an organization that teaches interpersonal skills to girls through workshops and a summer camp in South Hadley, Mass. She graduated magna cum laude from Bryn Mawr and has a master's degree in educational theater from New York University.</p>
+        <p>She is the daughter of Capt. Martha Mitchell of Stonington, Conn., and D. Frank Marean of Salem, Mass. Her father, who is retired, worked in Marblehead, Mass., as a sales representative for Toro, a lawn care company in Bloomington, Minn. Her mother, a clinical instructor of obstetrics and gynecology at Yale-New Haven Hospital, is a nurse practitioner in the Navy, stationed at the National Naval Medical Center in Bethesda, Md. The bride is the stepdaughter of Brenda Marean and of John F. B. Mitchell.</p>
+        <p>Mr. Kasen, 32, is a postdoctoral fellow in astrophysics at Johns Hopkins and the Space Telescope Science Institute, both in Baltimore. He researches theoretical models of supernovas and exploding stars to map out the size of the universe. He graduated from Stanford and received a master's and a doctorate in physics from the University of California, Berkeley..</p>
+        <p>He is a son of Rona Kasen and Allan Kasen of Paradise Valley, Ariz. His mother, who is retired, was a speech language pathologist for the Paradise Valley Unified School District and a portrait photographer. His father is the general counsel for Vestar Development, a real estate development and management company in Phoenix.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

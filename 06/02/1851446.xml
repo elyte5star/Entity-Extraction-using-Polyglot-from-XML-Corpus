@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>KNICKS AND NETS TOGETHER</title>
+    <meta content="02nba-2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851446"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="N.B.A. ROUNDUP"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6D61330F931A35755C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>KNICKS AND NETS TOGETHER</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD BECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an unusual twist, draft prospects for the Nets and the Knicks will work out for both teams simultaneously Tuesday.</p>
+        <p>Call it a marriage of convenience. The N.B.A. this year pushed back and condensed the time frame for working out players. The changes have forced teams to become creative, in some cases holding joint workouts.</p>
+      </block>
+      <block class="full_text">
+        <p>In an unusual twist, draft prospects for the Nets and the Knicks will work out for both teams simultaneously Tuesday.</p>
+        <p>Call it a marriage of convenience. The N.B.A. this year pushed back and condensed the time frame for working out players. The changes have forced teams to become creative, in some cases holding joint workouts.</p>
+        <p>Scouts and executives for the Nets and the Knicks will gather at the Knicks' suburban training center in Greenburgh, N.Y., and evaluate four college seniors: Vanderbilt swingman Derrick Byars, DePaul guard Sammy Mejia, Syracuse forward Demetris Nichols and Villanova forward Curtis Sumpter.</p>
+        <p>They will continue working out players nearly every day until the draft June 28, with the site alternating between the Knicks' gym and the Nets' training center in East Rutherford, N.J.</p>
+        <p>In the past, teams were permitted to work out college seniors once the regular season was over, and to work out early-entry candidates once the list was distributed to teams. This year, the league put a moratorium on workouts until after it held its annual predraft camp. The goal was to induce more players to participate in the camp, which ended yesterday in Orlando.</p>
+        <p>HOWARD BECK</p>
+        <p>N.B.A. ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

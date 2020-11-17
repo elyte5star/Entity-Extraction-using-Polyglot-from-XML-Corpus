@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   KAPLAN, JETTA</title>
+    <meta content="dn061707.1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854878"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">KAPLAN, JETTA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5D6143AF934A25755C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   KAPLAN, JETTA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KAPLAN--Jetta, died June 11, 2007 at the age of 94. She is survived by her brother, George and his wife Frances, as well as a loving family that includes two nieces, two nephews, eight grand-nieces and nephews and nine great grand-nieces and nephews. She travelled extensively and tasted life joyously with her husband of 38 years, David, now deceased. We will miss her love, intelligence and tremendous spirit. Having taught us all how to take long deep breaths of air and of life, she will always be remembered for as long as we live.</p>
+      </block>
+      <block class="full_text">
+        <p>KAPLAN--Jetta, died June 11, 2007 at the age of 94. She is survived by her brother, George and his wife Frances, as well as a loving family that includes two nieces, two nephews, eight grand-nieces and nephews and nine great grand-nieces and nephews. She travelled extensively and tasted life joyously with her husband of 38 years, David, now deceased. We will miss her love, intelligence and tremendous spirit. Having taught us all how to take long deep breaths of air and of life, she will always be remembered for as long as we live.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

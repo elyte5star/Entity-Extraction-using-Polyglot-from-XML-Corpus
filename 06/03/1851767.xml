@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Killed in the Line of Work</title>
+    <meta content="03CTbass" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/opinion/nyregionopinions/03CTbass.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851767"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Industrial and Occupational Hazards</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Bass, Carole</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Labor Role In Politics</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor Role In Politics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <location class="online_producer">Connecticut</location>
+        <org class="online_producer">Labor Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DD1530F930A35755C0A9619C8B63" item-length="652" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Killed in the Line of Work</hl1>
+        <hl2 class="online_headline">Killed in the Line of Work</hl2>
+      </hedline>
+      <byline class="print_byline">By Carole Bass</byline>
+      <byline class="normalized_byline">Bass, Carole</byline>
+      <dateline>New Haven</dateline>
+      <abstract>
+        <p>Op-Ed article by Carole Bass offers reasons why Connecticut should enact laws to promote research in less toxic alternatives to industrial materials and encourage employers to use them; holds statistics show workers have about 33 percent chance of getting sick on job over their lifetime and most who do become ill will probably never know their jobs are cause (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERY year, dozens of bills die quiet deaths at the Statehouse. A few carry an unusual poignancy, because they foreshadow the quiet human deaths that could have been prevented had the proposals become law.</p>
+        <p>Two such bills -- one promoting research in less toxic alternatives to industrial materials and the other encouraging employers to use them -- could have saved the lives of several hundred workers in this state.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why Connecticut should take workplace safety more seriously.</p>
+      </block>
+      <block class="full_text">
+        <p>EVERY year, dozens of bills die quiet deaths at the Statehouse. A few carry an unusual poignancy, because they foreshadow the quiet human deaths that could have been prevented had the proposals become law.</p>
+        <p>Two such bills -- one promoting research in less toxic alternatives to industrial materials and the other encouraging employers to use them -- could have saved the lives of several hundred workers in this state.</p>
+        <p>Workplace accidents kill close to 6,000 Americans every year. Health experts estimate that 10 times that many die from work-related illness. Here in Connecticut, we occasionally hear about the sudden, traumatic on-the-job deaths like that of the New Haven police officer who was run over directing traffic last year or the Greenwich country club groundskeeper who died in January when a trench collapsed on him. But the workers who die slowly and prematurely, after years of gradual poisoning, never make the news.</p>
+        <p>Nor did either of the workplace bills, both of which were pronounced dead in committee this spring. The cause of death was lack of interest, worsened by industry opposition.</p>
+        <p>We don't know how many Connecticut workers are getting sick on the job. Examining the most recent available statistics, Tim Morse, a professor at the University of Connecticut, found that the state Labor Department reported more than 4,500 cases of occupational disease in 2004 -- a figure the Department acknowledges is undercounted. Several academic studies have found that federal Occupational Safety and Health Administration records capture only about one in three workplace illnesses and injuries.</p>
+        <p>If you take Mr. Morse's finding of an occupational disease rate of about 30 per 10,000 Connecticut workers and multiply by three to account for underreporting, you get a rate of 0.9 percent per year. That sounds minuscule until you realize that, during a 45-year work life, that rate adds up to about a 33 percent chance of getting sick on the job.</p>
+        <p>Most of those who do become ill will probably never know that their jobs are the cause. Disguised as run-of-the-mill ailments or chalked up to the mysteries of cancer, these sometimes deadly illnesses are usually not diagnosed as work-related; they are not recorded in any official statistics; the victims' families receive no compensation. Most important, no one fixes the fatal work conditions.</p>
+        <p>The bills that died this year would not have ended the problem, but they would have taken a modest first step on a trail being blazed by the European Union. Last week, a new law went into effect that requires companies doing business with the union to show that the chemicals they use or make are safe or that their usefulness outweighs the health risks.</p>
+        <p>Connecticut companies, like everyone else, must comply or face getting shut out of the world's biggest economy. The workplace safety bills would have helped protect local workers' health as well as their employers' access to the European market.</p>
+        <p>If you're thinking that federal rules give Connecticut workers all the protection they need, think again. Most of the OSHA guidelines about exposure to toxic chemicals and metals are based on outdated science. For example, OSHA permits workers to be exposed to up to 1,000 times the concentration of hazardous substances that the Environmental Protection Agency allows in air or water.</p>
+        <p>What's more, the A.F.L.-C.I.O. recently calculated that it would take OSHA inspectors 94 years to visit each Connecticut workplace just once. The same report noted that in 2006, OSHA's average penalty for ''serious'' violations -- those considered likely to cause death or serious injury -- in Connecticut was $767. Such a paltry fine will do nothing to deter employers from endangering their workers' lives.</p>
+        <p>Connecticut should learn from Massachusetts, where companies have been required since 1989 to develop plans to reduce their use of toxic materials. Then we should take the next step and put those plans into effect. Our workers, our economy and our environment will all be healthier.</p>
+        <p>Op-Ed Contributor Carole Bass, a journalist, is writing a book about workplace safety.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Carole Bass, a journalist, is writing a book about workplace safety.</tagline>
+    </body.end>
+  </body>
+</nitf>

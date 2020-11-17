@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Upbraided by Blair, the British Press Bites Back</title>
+    <meta content="18blair" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/media/18blair.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855386"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Kingdom</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Great Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <location class="online_producer">Great Britain</location>
+        <person class="online_producer">Blair, Tony</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E2DD123FF93BA25755C0A9619C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Upbraided by Blair, the British Press Bites Back</hl1>
+        <hl2 class="online_headline">Upbraided by Blair, the British Press Bites Back</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIA WERDIGIER</byline>
+      <dateline>LONDON, June 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The likening of the British media to a ''feral beast'' last week by Tony Blair, Britain's departing prime minister, evoked some angry reactions from the accused. But it may have failed to provoke the larger debate he may have hoped for.</p>
+        <p>Most British commentators said that Mr. Blair's attack, which came during one of his last speeches before leaving office later this month, was nothing short of hypocrisy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Most British commentators called an attack by departing prime minister Tony Blair in which he likened the British media to a “feral beast” hypocritical.</p>
+      </block>
+      <block class="full_text">
+        <p>The likening of the British media to a ''feral beast'' last week by Tony Blair, Britain's departing prime minister, evoked some angry reactions from the accused. But it may have failed to provoke the larger debate he may have hoped for.</p>
+        <p>Most British commentators said that Mr. Blair's attack, which came during one of his last speeches before leaving office later this month, was nothing short of hypocrisy.</p>
+        <p>For a man whose ''administration will always be synonymous with spin, to question the system he has so often exploited seems a bit rich,'' wrote The Economist. The Daily Telegraph listed 10 examples of media spin by Mr. Blair's Labor Party, and The Independent, which was singled out by Mr. Blair as mixing ''opinion and fact,'' had Simon Kelner, its editor, ask on the front page, ''Would you be saying this, Mr. Blair, if we supported your war in Iraq?''</p>
+        <p>Most British tabloids did not deem Mr. Blair's accusation of the media as hunting ''in a pack'' in ''fear of missing out'' front-page news. But some of their editors voiced their discontent. Trevor Kavanagh, assistant editor of The Sun, called the speech at the London headquarters of the Reuters news agency ''ill-advised'' and ''very sad.''</p>
+        <p>But once over the initial shock of being accused of ''tearing people and reputations to bits'' in a bestial way, British journalists started to thrive on their newfound identity.</p>
+        <p>Ann Treneman, who writes for The Times of London, replaced her photograph with that of a beast baring its teeth, and wrote that she was suddenly growing claws. ''Why bother with fiddly notebooks, when you can roam round, foaming at the mouth, mauling wildebeests and reputations?'' she wrote.</p>
+        <p>Others teamed up on the Facebook networking site as Feral Beasts of the Media, a group set up by Paul Mason, a BBC correspondent. With 370 members, the group describes itself as those ''in search of that 24-hour breaking views story, tearing people and reputations to bits (including our own).''</p>
+        <p>JULIA WERDIGIER</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

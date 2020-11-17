@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Itineraries; MEMO PAD</title>
+    <meta content="05memo" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/05memo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852280"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/South Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea/Seoul</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates/Dubai</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Atlanta</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Luggage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lost and Found Property</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <org class="online_producer">Virgin Atlantic Airways</org>
+        <org class="online_producer">Avis</org>
+        <org class="online_producer">Air France-KLM</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DB1130F936A35755C0A9619C8B63" item-length="676" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Itineraries; MEMO PAD</hl1>
+        <hl2 class="online_headline">Memo Pad</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AIRLINE REPORT CARD: OUCH! The airline industry may be back in the black, but passengers are still seeing red, according to a Consumer Reports survey that will be published in its July issue. Over all, the industry's average score for satisfaction is lower than the scores for hotels and rental car companies and ''better only than such perennials of frustration as wireless carriers, cable TV operators and computer tech support,'' the magazine reports. Here is how the top 18 major domestic airlines stacked up in customer satisfaction. JetBlue was rated best. Consumer Reports said the carrier's numerous flight delays in mid-February ''seem to have had little effect'' on the survey. In descending order, the others are Midwest, Southwest, Frontier, Hawaiian, Aloha, Alaska, Spirit, Continental, AirTran, Delta, American, ATA, Northwest, American Eagle, United, and America West and US Air, which merged in 2005 and recently combined all operations. In the Consumer Reports survey on hotels, Ritz-Carlton, a Marriott luxury brand, was chosen as top in overall satisfaction, while Homewood Suites from Hilton and SpringHill Suites from Marriott were cited as ''excellent values.'' Ritz-Carlton was also ranked at the top of the Market Metrix hospitality index survey taken in the first quarter of 2007.</p>
+        <p>ROAD FOOD SPENDING While about a third of business travelers say they are required to keep per diem food spending below $50, another third say they have no company-imposed spending limits for meals, according to a poll by Orbitz for Business, the travel management and booking site.</p>
+        <p>VIRGIN ALL-BUSINESS CLASS Virgin Atlantic Airways says it is planning a new all-business-class service between the United States and London starting next year. Since late 2005, several start-up discount all-business-class airlines have been flying trans-Atlantic routes, including Eos, MaxJet, Silverjet -- all flying to London -- and l'Avion, which goes to Paris. Virgin's current business-class service, called Upper Class, is highly regarded, and walk-up fares between New York and London can cost as much as $10,000. Virgin said the new service would not compete directly with its existing premium-class service but would offer a ''better quality'' product than existing all-business-class airlines at ''the same or lower prices.'' Besides London, the new service will eventually include flights to Paris, Frankfurt, Milan, Zurich and Amsterdam from New York and other United States cities that Virgin did not identify. Virgin said it was talking to aircraft manufacturers about buying aircraft suitable for the new service, and a Virgin spokeswoman said yesterday that the airline expected to pay about $700 million for 15 new aircraft. British Airways, Virgin's main rival on premium trans-Atlantic routes, has said it is considering adding all-premium-class routes, but has not decided yet.</p>
+        <p>YOU RENT, THEY DRIVE Avis customers can now rent a car equipped with a driver. The rental car company said yesterday that it had a new partnership with WeDriveU, a company that provides chauffeurs, to allow Avis customers to hire a chauffer along with the car. The rate for the driver is $30 an hour with a three-hour minimum, plus the regular rental car price. The service is available in Boston, Chicago, Dallas, Detroit, Los Angeles, Miami, New York, Phoenix, San Francisco and Washington for members of the Avis Preferred or other Avis loyalty programs. Avis said the driver can both pick up and return the car.</p>
+        <p>MORE MISHANDLED BAGS The top 20 domestic airlines lost or otherwise mishandled 6.32 checked bags per 1,000 passengers in April, compared with 5.24 in April 2006, according to the monthly Air Travel Consumer Report issued yesterday by the Transportation Department. The April 2007 figure was an improvement over the March 2007 figure of 7.71 per 1,000 bags.</p>
+        <p>ET CETERA Air France says it will start flying new A380 superjumbo jets in the spring of 2009, and has begun testing gates and other operations with an A380 at Charles de Gaulle Airport near Paris Continuing its aggressive international expansion, Delta Air Lines has added nonstop flights between Atlanta and Dubai, and Atlanta and Seoul, South Korea.</p>
+        <p>JOE SHARKEY</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>AIRLINE REPORT CARD: OUCH! The airline industry may be back in the black, but passengers are still seeing red, according to a Consumer Reports survey that will be published in its July issue. Over all, the industry’s average score for satisfaction is lower than the scores for hotels and rental car companies and “better only than such perennials of frustration as wireless carriers, cable TV operators and computer tech support,” the magazine reports. Here is how the top 18 major domestic airlines stacked up in customer satisfaction. JetBlue was rated best. Consumer Reports said the carrier’s numerous flight delays in mid-February “seem to have had little effect” on the survey. In descending order, the others are Midwest, Southwest, Frontier, Hawaiian, Aloha, Alaska, Spirit, Continental, AirTran, Delta, American, ATA, Northwest, American Eagle, United, and America West and US Air, which merged in 2005 and recently combined all operations. In the Consumer Reports survey on hotels, Ritz-Carlton, a Marriott luxury brand, was chosen as top in overall satisfaction, while Homewood Suites from Hilton and SpringHill Suites from Marriott were cited as “excellent values.” Ritz-Carlton was also ranked at the top of the Market Metrix hospitality index survey taken in the first quarter of 2007.</p>
+      </block>
+      <block class="full_text">
+        <p>AIRLINE REPORT CARD: OUCH! The airline industry may be back in the black, but passengers are still seeing red, according to a Consumer Reports survey that will be published in its July issue. Over all, the industry's average score for satisfaction is lower than the scores for hotels and rental car companies and ''better only than such perennials of frustration as wireless carriers, cable TV operators and computer tech support,'' the magazine reports. Here is how the top 18 major domestic airlines stacked up in customer satisfaction. JetBlue was rated best. Consumer Reports said the carrier's numerous flight delays in mid-February ''seem to have had little effect'' on the survey. In descending order, the others are Midwest, Southwest, Frontier, Hawaiian, Aloha, Alaska, Spirit, Continental, AirTran, Delta, American, ATA, Northwest, American Eagle, United, and America West and US Air, which merged in 2005 and recently combined all operations. In the Consumer Reports survey on hotels, Ritz-Carlton, a Marriott luxury brand, was chosen as top in overall satisfaction, while Homewood Suites from Hilton and SpringHill Suites from Marriott were cited as ''excellent values.'' Ritz-Carlton was also ranked at the top of the Market Metrix hospitality index survey taken in the first quarter of 2007.</p>
+        <p>ROAD FOOD SPENDING While about a third of business travelers say they are required to keep per diem food spending below $50, another third say they have no company-imposed spending limits for meals, according to a poll by Orbitz for Business, the travel management and booking site.</p>
+        <p>VIRGIN ALL-BUSINESS CLASS Virgin Atlantic Airways says it is planning a new all-business-class service between the United States and London starting next year. Since late 2005, several start-up discount all-business-class airlines have been flying trans-Atlantic routes, including Eos, MaxJet, Silverjet -- all flying to London -- and l'Avion, which goes to Paris. Virgin's current business-class service, called Upper Class, is highly regarded, and walk-up fares between New York and London can cost as much as $10,000. Virgin said the new service would not compete directly with its existing premium-class service but would offer a ''better quality'' product than existing all-business-class airlines at ''the same or lower prices.'' Besides London, the new service will eventually include flights to Paris, Frankfurt, Milan, Zurich and Amsterdam from New York and other United States cities that Virgin did not identify. Virgin said it was talking to aircraft manufacturers about buying aircraft suitable for the new service, and a Virgin spokeswoman said yesterday that the airline expected to pay about $700 million for 15 new aircraft. British Airways, Virgin's main rival on premium trans-Atlantic routes, has said it is considering adding all-premium-class routes, but has not decided yet.</p>
+        <p>YOU RENT, THEY DRIVE Avis customers can now rent a car equipped with a driver. The rental car company said yesterday that it had a new partnership with WeDriveU, a company that provides chauffeurs, to allow Avis customers to hire a chauffer along with the car. The rate for the driver is $30 an hour with a three-hour minimum, plus the regular rental car price. The service is available in Boston, Chicago, Dallas, Detroit, Los Angeles, Miami, New York, Phoenix, San Francisco and Washington for members of the Avis Preferred or other Avis loyalty programs. Avis said the driver can both pick up and return the car.</p>
+        <p>MORE MISHANDLED BAGS The top 20 domestic airlines lost or otherwise mishandled 6.32 checked bags per 1,000 passengers in April, compared with 5.24 in April 2006, according to the monthly Air Travel Consumer Report issued yesterday by the Transportation Department. The April 2007 figure was an improvement over the March 2007 figure of 7.71 per 1,000 bags.</p>
+        <p>ET CETERA Air France says it will start flying new A380 superjumbo jets in the spring of 2009, and has begun testing gates and other operations with an A380 at Charles de Gaulle Airport near Paris Continuing its aggressive international expansion, Delta Air Lines has added nonstop flights between Atlanta and Dubai, and Atlanta and Seoul, South Korea.</p>
+        <p>JOE SHARKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

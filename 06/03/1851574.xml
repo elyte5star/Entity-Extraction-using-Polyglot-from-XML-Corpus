@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lab Rackets</title>
+    <meta content="603GEAR--Tennis.captions" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Play" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1851574"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="EQUIPMENT"/>
+      <identified-content/>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFDA1F31F930A35755C0A9619C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lab Rackets</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL HOCHMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HEAD METALLIX 6  The space-age Head combines a strong, lightweight, crystalline metal alloy with a stabilizer that uses earthquake-resistance technology: it shakes in the opposite direction of the vibrations, diminishing the tremors that can cause tennis elbow. $250. head.com.</p>
+        <p>VOLKL DNX 1 POWER ARM  Nanotechnology refers to building with materials measured at a billionth of a meter, and Volkl uses it in the Power Arm. Reinforced with graphite nanotubes (lighter than carbon and 25 times as strong), the racket resists flexing. $269. volkl.com.</p>
+        <p>WILSON [K] SIX.ONE TOUR  Roger Federer's new racket also features nanotechnology; Wilson bonded microscopic silicon-dioxide molecules with carbon-black nanofibers in the frame, thereby increasing the player's control. $220. wilson.com.</p>
+        <p>PRINCE O3 SPEEDPORT BLUE  Prince's oversize rackets introduced oversize sweet spots -- but also unwieldy size. The 03 has rectangular ''Speedports'' that allow the strings to flex more freely, providing a massive sweet spot with no added head size. $269. princetennis.com.</p>
+        <p>PAUL HOCHMAN</p>
+      </block>
+      <block class="full_text">
+        <p>HEAD METALLIX 6  The space-age Head combines a strong, lightweight, crystalline metal alloy with a stabilizer that uses earthquake-resistance technology: it shakes in the opposite direction of the vibrations, diminishing the tremors that can cause tennis elbow. $250. head.com.</p>
+        <p>VOLKL DNX 1 POWER ARM  Nanotechnology refers to building with materials measured at a billionth of a meter, and Volkl uses it in the Power Arm. Reinforced with graphite nanotubes (lighter than carbon and 25 times as strong), the racket resists flexing. $269. volkl.com.</p>
+        <p>WILSON [K] SIX.ONE TOUR  Roger Federer's new racket also features nanotechnology; Wilson bonded microscopic silicon-dioxide molecules with carbon-black nanofibers in the frame, thereby increasing the player's control. $220. wilson.com.</p>
+        <p>PRINCE O3 SPEEDPORT BLUE  Prince's oversize rackets introduced oversize sweet spots -- but also unwieldy size. The 03 has rectangular ''Speedports'' that allow the strings to flex more freely, providing a massive sweet spot with no added head size. $269. princetennis.com.</p>
+        <p>PAUL HOCHMAN  EQUIPMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

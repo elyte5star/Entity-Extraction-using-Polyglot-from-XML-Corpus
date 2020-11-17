@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Haven Approves Program To Issue Illegal Immigrants IDs</title>
+    <meta content="05haven" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/nyregion/05haven.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852319"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/New Haven</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="descriptor">Illegal Immigrants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <location class="online_producer">New Haven (Conn)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E0DA1130F936A35755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Haven Approves Program To Issue Illegal Immigrants IDs</hl1>
+        <hl2 class="online_headline">New Haven Approves Program to Issue Illegal Immigrants IDs</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER MEDINA</byline>
+      <dateline>NEW HAVEN, June 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Board of Aldermen on Monday night made municipal identification cards available to illegal immigrants, in what city officials said was the first such program in the nation. The measure was approved by a vote of 25 to 1.</p>
+        <p>City officials and immigrant rights advocates said they hoped the cards would give immigrants better access to city services and help the police confirm their identities should they become targets of crime. Last year, a number of illegal immigrants told community service agencies they had been robbed of cash, but said they were worried about telling the authorities for fear of being deported.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Officials and advocates hope the cards will give immigrants better access to services and help the police when immigrants become targets of crime.</p>
+      </block>
+      <block class="full_text">
+        <p>The Board of Aldermen on Monday night made municipal identification cards available to illegal immigrants, in what city officials said was the first such program in the nation. The measure was approved by a vote of 25 to 1.</p>
+        <p>City officials and immigrant rights advocates said they hoped the cards would give immigrants better access to city services and help the police confirm their identities should they become targets of crime. Last year, a number of illegal immigrants told community service agencies they had been robbed of cash, but said they were worried about telling the authorities for fear of being deported.</p>
+        <p>The cards, which will include an official photograph and city imprint, will be available to all residents, regardless of immigration status, and the city is placing special emphasis on issuing them to children, college students and people 65 and older, as well as immigrants without green cards. Immigrant rights advocates and city officials began developing plans for the card last year, and New Haven planned to begin issuing them in July.</p>
+        <p>In an effort to attract residents to the program, the city is placing a magnetic strip on the back of the cards, which, when swiped, would deduct money from a prepaid account to pay for parking at meters, as well as goods at about 50 restaurants and stores in New Haven.</p>
+        <p>''The last thing we want is to create what will be an easy giveaway about who amongst us has status and who doesn't,'' said Kica Matos, the community affairs director for the city, who spearheaded the effort. ''So we had to make sure that we have a card that has wide appeal.''</p>
+        <p>While the cards have provoked outrage from anti-immigrant groups around the state, few in New Haven have voiced concern. The program has received national attention, and Ms. Matos said lawmakers from New York City and Dutchess County, N.Y., have contacted her about setting up similar programs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

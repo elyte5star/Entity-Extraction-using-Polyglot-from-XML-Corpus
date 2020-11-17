@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tara Mark, Kenneth Rosenblum</title>
+    <meta content="03MARK" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03MARK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851861"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Mark, Tara Jocelyn (Tara Jocelyn Rosenblum)</person>
+        <person class="indexing_service">Rosenblum, Kenneth Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DE1230F930A35755C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tara Mark, Kenneth Rosenblum</hl1>
+        <hl2 class="online_headline">Tara Mark, Kenneth Rosenblum</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tara Jocelyn Mark and Kenneth Adam Rosenblum were married last night at the Pierre. Rabbi Peter J. Rubinstein officiated, with Cantor Richard Botton taking part.</p>
+        <p>Until last month, the bride, 33, was a literary agent in the New York office of RLR Associates, a company that represents writers, athletes, broadcasters and professional sports leagues, as consultants and managers. She graduated from the University of Pennsylvania. She is the daughter of Susan and Morris Mark of New York. Her father is the president of Mark Asset Management Corporation, a hedge fund in New York. Her mother is on the executive board of the American Friends of the Israel Museum.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tara Jocelyn Mark and Kenneth Adam Rosenblum were married last night at the Pierre. Rabbi Peter J. Rubinstein officiated, with Cantor Richard Botton taking part.</p>
+      </block>
+      <block class="full_text">
+        <p>Tara Jocelyn Mark and Kenneth Adam Rosenblum were married last night at the Pierre. Rabbi Peter J. Rubinstein officiated, with Cantor Richard Botton taking part.</p>
+        <p>Until last month, the bride, 33, was a literary agent in the New York office of RLR Associates, a company that represents writers, athletes, broadcasters and professional sports leagues, as consultants and managers. She graduated from the University of Pennsylvania. She is the daughter of Susan and Morris Mark of New York. Her father is the president of Mark Asset Management Corporation, a hedge fund in New York. Her mother is on the executive board of the American Friends of the Israel Museum.</p>
+        <p>The bridegroom, 43, is a partner specializing in corporate securities law in the New York law offices of Sonnenschein Nath &amp; Rosenthal. He graduated from Lehigh University and received a law degree from Fordham. He is a son of Rhoda and Dr. Charles Rosenblum of New York. His mother is a clinical social worker at the New Interdisciplinary School in Yaphank, N.Y. His father retired as an obstetrician and gynecologist in Bay Shore, N.Y.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

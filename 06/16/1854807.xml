@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gilead's Drug Is Approved To Treat a Rare Disease</title>
+    <meta content="16gilead" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/16/business/16gilead.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pulmonary Hypertension</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Letairis (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Thelin (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Gilead Sciences Inc</org>
+        <org class="indexing_service">Encysive Pharmaceuticals</org>
+        <org class="indexing_service">Myogen</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Gilead Sciences Incorporated</org>
+        <org class="online_producer">Encysive Pharmaceuticals Incorporated</org>
+        <org class="online_producer">Food and Drug Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EED8153FF935A25755C0A9619C8B63" item-length="579" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gilead's Drug Is Approved To Treat a Rare Disease</hl1>
+        <hl2 class="online_headline">Gilead’s Drug Is Approved to Treat a Rare Disease</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <abstract>
+        <p>Gilead Sciences wins approval for drug Letairis to treat pulmonary arterial hypertension, stealing march on another company, Encysive Pharmaceuticals, which learns that similar drug, Thelin, will not be approved yet; Gilead obtained Letairis by acquiring Myogen, small Colorado biotech company, last year for $2.5 billion; says drug, once-a-day pill, will cost $3,940 per month (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gilead Sciences won approval yesterday for a new drug to treat a life-threatening lung disease, stealing a march on another company, Encysive Pharmaceuticals, which learned yesterday that its similar drug would not be approved yet.</p>
+        <p>The Gilead drug, Letairis, is a treatment for pulmonary arterial hypertension, which affects about 100,000 Americans, according to the Food and Drug Administration. It can cause severe shortness of breath and heart failure and, if untreated, leads to death in about three years, Gilead said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gilead Sciences won approval for a new drug to treat a life-threatening lung disease, stealing a march on Encysive Pharmaceuticals.</p>
+      </block>
+      <block class="full_text">
+        <p>Gilead Sciences won approval yesterday for a new drug to treat a life-threatening lung disease, stealing a march on another company, Encysive Pharmaceuticals, which learned yesterday that its similar drug would not be approved yet.</p>
+        <p>The Gilead drug, Letairis, is a treatment for pulmonary arterial hypertension, which affects about 100,000 Americans, according to the Food and Drug Administration. It can cause severe shortness of breath and heart failure and, if untreated, leads to death in about three years, Gilead said.</p>
+        <p>The approval of Letairis is a big step in an effort by Gilead, one of the largest biotechnology companies, to diversify beyond its successful drugs for H.I.V. and AIDS into drugs for heart and lung diseases. Its AIDS drugs accounted for about 70 percent of its $3 billion in revenues last year.</p>
+        <p>Gilead obtained Letairis, also known as ambrisentan, by acquiring Myogen, a small Colorado biotech company, last year for $2.5 billion.</p>
+        <p>Although pulmonary arterial hypertension is a fairly rare disease, there are already several treatments available for it, including Pfizer's Revatio, which contains the same ingredient as its impotence pill, Viagra.</p>
+        <p>Gilead's Letairis is likely to compete most directly against Tracleer, a drug sold by the Swiss-based Actelion. Both drugs are so-called endothelin receptor antagonists, which work by relaxing blood vessels. The drug Thelin, developed by the Houston-based Encysive, works the same way.</p>
+        <p>Late yesterday, Encysive said that the F.D.A. had declined to approve the drug, recommending instead another clinical trial to prove the drug's efficacy.</p>
+        <p>This is the third time the F.D.A. has declined to give the go-ahead to Thelin, which is approved in Europe and Canada. Because of the multiple delays, Encysive lost a big lead over Gilead in the race for approval.</p>
+        <p>Gilead said its clinical trials showed that Letairis caused fewer cases of liver damage than Actelion's drug. Nevertheless, the F.D.A., warning about liver damage and birth defects, is requiring Gilead to control carefully the distribution of the drug. Patients who use it are supposed to have blood tests for liver damage every month.</p>
+        <p>Gilead said Letairis, a once-a-day pill, will cost $3,940 a month, about the same as Tracleer, which is also known as bosentan. The company said it was establishing programs to help uninsured or underinsured patients obtain the drug.</p>
+        <p>Pulmonary arterial hypertension is marked by extremely high blood pressure in the arteries that supply blood to the lungs. That makes it hard for people to breathe or exert themselves. It also puts a strain on the heart that eventually leads to heart failure and death.</p>
+        <p>The available drugs, including Letairis, can improve the ability of people to perform daily chores but do not restore normal health. In clinical trials Letairis improved the distance people could walk in six minutes by an average of 20 to 60 meters, or roughly 5 percent to 20 percent. The drug also slowed the disease.</p>
+        <p>Geoffrey Meacham, an analyst with JPMorgan, estimated that worldwide sales could reach $1 billion by 2010. He wrote yesterday that the label for the drug captured its ''first-class profile.''</p>
+        <p>GlaxoSmithKline sells the drug outside the United States.</p>
+        <p>Actelion's Tracleer had sales in 2006 of about $722 million, up more than 40 percent from 2005.</p>
+        <p>The approval of Letairis was announced after the close of trading. Gilead's shares rose 19 cents, to $80.83, in regular trading and then more than $1.50 after hours. Encysive shares fell 50 cents, to $4.10, in regular trading and another 25 cents after hours.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

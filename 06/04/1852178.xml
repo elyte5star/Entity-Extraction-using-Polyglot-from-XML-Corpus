@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE: NEW CDS</title>
+    <meta content="04choi-2" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852178"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7DD1130F937A35755C0A9619C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE: NEW CDS</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marilyn Manson  ''Eat Me, Drink Me''  (Interscope)</p>
+        <p>Once Marilyn Manson was the Antichrist superstar, the scourge of the moralistic, a proud magnet for controversy. Now, years later, he's a lovesick ghoul. ''I kill myself in small amounts/in each relationship it's not/about love/Just another funeral,'' he sings in ''They Said That Hell's Not Hot.'' It's one of the many songs on ''Eat Me, Drink Me'' that start out as rock dirges and build melodramatically from there. The songs were written, produced and performed with Tim Skold, the only other musician on the album. Despite some spooky background noises, the music leans toward a glam-gone-grim style, reverting to a sound that predates Marilyn Manson's past industrial-rock stomps.</p>
+      </block>
+      <block class="full_text">
+        <p>Marilyn Manson  ''Eat Me, Drink Me''  (Interscope)</p>
+        <p>Once Marilyn Manson was the Antichrist superstar, the scourge of the moralistic, a proud magnet for controversy. Now, years later, he's a lovesick ghoul. ''I kill myself in small amounts/in each relationship it's not/about love/Just another funeral,'' he sings in ''They Said That Hell's Not Hot.'' It's one of the many songs on ''Eat Me, Drink Me'' that start out as rock dirges and build melodramatically from there. The songs were written, produced and performed with Tim Skold, the only other musician on the album. Despite some spooky background noises, the music leans toward a glam-gone-grim style, reverting to a sound that predates Marilyn Manson's past industrial-rock stomps.</p>
+        <p>Just because he's singing about love doesn't mean Marilyn Manson has turned into a nice guy. The closer he wants to get, the creepier he becomes. As a goth in good standing, he can't envision love without thinking about death. When a girl blows him a kiss in ''Just a Car Crash Away,'' he ''can already feel her worms eating my spine.'' He takes a particular delight in mutilation, for himself and others: ''She'll never cover up what we did in a dress,'' he gloats in ''Heart-Shaped Glasses (When the Heart Guides That Hand),'' the album's snappiest song.</p>
+        <p>He must miss his days as a scourge. ''The legends get older/But I stay the same/as long as you have less to say,'' he sneers. But actually, no one is angling for his old job, since it has been utterly diffused. Amid extreme Internet porn, hi-res videogame violence and real-world war, Marilyn Manson has become just another public deviant.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE/NEW CDs; New Jersey Rocker Channels Nashville</title>
+    <meta content="18CHOI-1" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855438"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDC123FF93BA25755C0A9619C8B63" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE/NEW CDs; New Jersey Rocker Channels Nashville</hl1>
+      </hedline>
+      <byline class="print_byline">By NATE CHINEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bon Jovi  ''Lost Highway'' (Island)</p>
+        <p>By now most interested parties have grown accustomed to the idea of a Bon Jovi country album. Last year the band had a No. 1 country hit with ''Who Says You Can't Go Home,'' featuring guest vocals by Jennifer Nettles of the Atlanta group Sugarland. The song's success earned Jon Bon Jovi an invitation to the Country Music Association Awards, where he voiced his appreciation for Nashville's songwriting tradition, looking only slightly out of place.</p>
+      </block>
+      <block class="full_text">
+        <p>Bon Jovi  ''Lost Highway'' (Island)</p>
+        <p>By now most interested parties have grown accustomed to the idea of a Bon Jovi country album. Last year the band had a No. 1 country hit with ''Who Says You Can't Go Home,'' featuring guest vocals by Jennifer Nettles of the Atlanta group Sugarland. The song's success earned Jon Bon Jovi an invitation to the Country Music Association Awards, where he voiced his appreciation for Nashville's songwriting tradition, looking only slightly out of place.</p>
+        <p>''Lost Highway'' takes this strategic partnership a step further, yielding unsurprising but reasonably strong results. Mr. Bon Jovi and his wingman, the guitarist Richie Sambora, sing as yearningly together as ever. And their new songs -- often written with the band's regular producer, John Shanks -- deliver a familiar payoff of big choruses and earnest lyrics. Several ballads, including the first single, ''Make a Memory,'' appeal directly to a love interest; true to form, Mr. Bon Jovi employs the word ''baby'' every time.</p>
+        <p>As a lyricist he ventures gingerly on his new turf, taking pains not to mug or condescend. Maybe the ''plastic dashboard Jesus'' in the title track was a bad idea, but elsewhere there's at least a hint of better judgment. (One chorus features ''a beach blanket and a bottle of wine,'' though ''box of wine'' would have scanned better rhythmically.) The album's only real pun is buried: ''Whole Lot of Leavin' '' refers to late September foliage as well as the call of the road, but you'd have to pay attention to notice.</p>
+        <p>''Lost Highway'' feels most like a country album on the tracks produced by the Nashville insider Dann Huff, which turns out to be for better and for worse. Along with ''Make a Memory,'' Mr. Huff is responsible for sweet-tempered, sure-footed guest appearances by LeAnn Rimes and the singer-songwriter Hillary Lindsey. Unfortunately he also oversees a party anthem with Big &amp; Rich and a dud called ''I Love This Town,'' songs that only the Nashville Convention and Visitors Bureau could love.</p>
+        <p>But Mr. Bon Jovi has interests beyond civic cheerleading. On ''Everybody's Broken'' he delivers a barbed sort of consolation, and on ''One Step Closer'' he describes what sounds like a recovery from addiction. Perhaps it means something that Mr. Sambora recently checked in and out of rehab; there's a place for reckless behavior in country music, just as there's a place for redemption.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

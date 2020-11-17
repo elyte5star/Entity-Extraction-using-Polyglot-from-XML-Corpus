@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Canadian Steel Maker Looks for Buyer</title>
+    <meta content="02steel" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/business/worldbusiness/02steel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851443"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Steel and Iron</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steel and Iron</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Canada</location>
+        <org class="online_producer">Stelco Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E7D61330F931A35755C0A9619C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Canadian Steel Maker Looks for Buyer</hl1>
+        <hl2 class="online_headline">Canadian Steel Maker Looks for Buyer</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <dateline>OTTAWA, June 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stelco, Canada's last domestically owned steel maker, said Friday that it was in early talks that might lead to its sale.</p>
+        <p>While foreign buyers have gradually taken control of Canada's other steel companies, including Dofasco, Stelco remains independent, largely because it is unprofitable and some of its plants are outdated. Stelco emerged from a prolonged period of bankruptcy restructuring in March 2006 burdened with debt and pension obligations.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Stelco, Canada’s last domestically owned steel maker, said it was in early talks that might lead to its sale.</p>
+      </block>
+      <block class="full_text">
+        <p>Stelco, Canada's last domestically owned steel maker, said Friday that it was in early talks that might lead to its sale.</p>
+        <p>While foreign buyers have gradually taken control of Canada's other steel companies, including Dofasco, Stelco remains independent, largely because it is unprofitable and some of its plants are outdated. Stelco emerged from a prolonged period of bankruptcy restructuring in March 2006 burdened with debt and pension obligations.</p>
+        <p>''We believe it is appropriate to begin the next phase of our business plan and explore all potential alternatives for positioning Stelco to be an integral part of a larger, globally competitive company,'' said Rodney B. Mott, Stelco's president and chief executive.</p>
+        <p>The statement added that a special company board was considering a wide range of options including partnerships and mergers, adding that nothing might ultimately emerge from the review.</p>
+        <p>Stelco's most attractive operation is its Lake Erie mill at Nanticoke, Ontario, which completed a renovation and expansion late last year at a cost of 270 million Canadian dollars ($252 million). While Mr. Mott has been working to reduce costs, the company's much older traditional base of operations at its headquarters in Hamilton, Ontario, is unprofitable.</p>
+        <p>Over all, Stelco reported a net loss of 39 million Canadian dollars in the first quarter of this year and a net loss of 145 million Canadian dollars in the preceding quarter.</p>
+        <p>As part of its restructuring, Stelco agreed to make up, over 10 years, a pension shortfall of 675 million Canadian dollars. The company is also carrying about 738 million Canadian dollars in debt.</p>
+        <p>The company has long had a strained relationship with the United Steelworkers union. That situation has only been made worse by recent job reductions in Hamilton.</p>
+        <p>Stelco declined to comment beyond its statement, which did not identify the potential buyers. But the trend toward steel industry consolidation suggests that any new owner will not be Canadian.</p>
+        <p>Severstal of Russia, which owns a former Ford steel mill in Dearborn, Mich., tried to acquire Stelco during its restructuring.</p>
+        <p>Brookfield Asset Management of Toronto is Stelco's largest shareholder, with about 36 percent of its stock. It did not respond to requests for comment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Federal Officials Must Testify</title>
+    <meta content="15mbrfs-3" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854703"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E2DB153FF936A25755C0A9619C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Federal Officials Must Testify</hl1>
+      </hedline>
+      <byline class="print_byline">By NINA BERNSTEIN; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal appeals court ruled yesterday that senior federal officials would have to answer questions under oath in a lawsuit accusing them of personally conspiring to violate the rights of Muslim immigrants held in a federal detention center in Brooklyn after 9/11. The ruling, by a three-judge panel of the United States Court of Appeals for the Second Circuit in Manhattan, upholds most of an earlier decision by a federal judge in Brooklyn. The officials, including former Attorney General John Ashcroft and Robert Mueller, the head of the F.B.I., had asked for dismissal of the lawsuit, by Javaid Iqbal, a Pakistani immigrant, arguing in part that the government was entitled to take actions that might not have been lawful before 9/11. Although acknowledging some forms of government action in emergencies may exceed normal constitutional limits, Judge Jon O. Newman rejected the officials' contention, saying some protections against some of the violations claimed, such as needlessly harsh confinement and ethnic discrimination, do not vary with surrounding circumstances. ''The strength of our system of constitutional rights derives from the steadfast protection of those rights in both normal and unusual times,'' he wrote.</p>
+        <p>NINA BERNSTEIN</p>
+      </block>
+      <block class="full_text">
+        <p>A federal appeals court ruled yesterday that senior federal officials would have to answer questions under oath in a lawsuit accusing them of personally conspiring to violate the rights of Muslim immigrants held in a federal detention center in Brooklyn after 9/11. The ruling, by a three-judge panel of the United States Court of Appeals for the Second Circuit in Manhattan, upholds most of an earlier decision by a federal judge in Brooklyn. The officials, including former Attorney General John Ashcroft and Robert Mueller, the head of the F.B.I., had asked for dismissal of the lawsuit, by Javaid Iqbal, a Pakistani immigrant, arguing in part that the government was entitled to take actions that might not have been lawful before 9/11. Although acknowledging some forms of government action in emergencies may exceed normal constitutional limits, Judge Jon O. Newman rejected the officials' contention, saying some protections against some of the violations claimed, such as needlessly harsh confinement and ethnic discrimination, do not vary with surrounding circumstances. ''The strength of our system of constitutional rights derives from the steadfast protection of those rights in both normal and unusual times,'' he wrote.</p>
+        <p>NINA BERNSTEIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

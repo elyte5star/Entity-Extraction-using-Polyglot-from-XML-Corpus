@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic's Choice: New CDs</title>
+    <meta content="11choi-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853807"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DD173FF932A25755C0A9619C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic's Choice: New CDs</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Queens of the Stone Age  ''Era Vulgaris''  (Interscope)</p>
+        <p>Josh Homme, the songwriter who leads Queens of the Stone Age, is cynical, alienated and just plain disgusted as usual on the band's fifth studio album, ''Era Vulgaris.'' He still sings in a troubled croon above the band's hard-rock riffs. But on this album he decisively shakes off the enervation and jokey detachment that made the Queens' last few albums sound like in-jokes. This time Mr. Homme hones his songs. The music dovetails its blend of Led Zeppelin and Cream with punk and grunge. And amid the churn Mr. Homme sustains long-lined melodies to carry lyrics that are blunt but not predictable: ''High and mighty you say selling out is a shame/Is that the title of your book?''</p>
+      </block>
+      <block class="full_text">
+        <p>Queens of the Stone Age  ''Era Vulgaris''  (Interscope)</p>
+        <p>Josh Homme, the songwriter who leads Queens of the Stone Age, is cynical, alienated and just plain disgusted as usual on the band's fifth studio album, ''Era Vulgaris.'' He still sings in a troubled croon above the band's hard-rock riffs. But on this album he decisively shakes off the enervation and jokey detachment that made the Queens' last few albums sound like in-jokes. This time Mr. Homme hones his songs. The music dovetails its blend of Led Zeppelin and Cream with punk and grunge. And amid the churn Mr. Homme sustains long-lined melodies to carry lyrics that are blunt but not predictable: ''High and mighty you say selling out is a shame/Is that the title of your book?''</p>
+        <p>For ''Era Vulgaris'' Mr. Homme has teamed up again as producer with Chris Goss, who leads his own band, Masters of Reality, and who catalyzed Queens of the Stone Age's breakthrough album in 2000, ''Rated R.'' While that album had some magnificent guitar structures, ''Era Vulgaris'' goes even further, with parts layered on in the studio by Mr. Homme and Troy Van Leeuwen over Joey Castillo's drums. Queens of the Stone Age don't just riff through their new songs; they push and pull, spar and gnash, buzz and scream and hurl chords back and forth across the stereo field to dizzying effect. The buzz-bomb riffs of ''Misfit Love'' and ''Sick, Sick, Sick'' throw off hectic, scrabbling, dissonant chords like shrapnel, while ''3's and 7's'' juggles choppy, syncopated chords and skidding slide guitar. Throughout the album Mr. Homme is sometimes snide, sometimes desolate: ''There is safe place to hide,'' he warns in ''Run, Pig, Run.'' People keep letting him down, but the guitars never do.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

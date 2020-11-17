@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Man Charged With Posing As A Lawyer</title>
+    <meta content="06mbrfs-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852618"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E1DC1E30F935A35755C0A9619C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Man Charged With Posing As A Lawyer</hl1>
+      </hedline>
+      <byline class="print_byline">By ANEMONA HARTOCOLLIS; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Long Island man who worked as a lawyer at a major New York law firm for four years -- even though, prosecutors said, he had never gone to law school -- pleaded not guilty yesterday in State Supreme Court to charges of impersonating a lawyer and stealing at least $284,350 in salary from his firm. The man, Brian Valery, 32, of Massapequa Park, was promoted from paralegal to lawyer at the firm, Anderson Kill &amp; Olick, in 2002, and was earning $155,000 plus bonuses when he was fired in October 2006, prosecutors said. His lawyer, Joseph R. Conway, said Mr. Valery, who is now unemployed, faced related charges in Connecticut and expected to have charges brought against him in Brooklyn.</p>
+        <p>ANEMONA HARTOCOLLIS</p>
+      </block>
+      <block class="full_text">
+        <p>A Long Island man who worked as a lawyer at a major New York law firm for four years -- even though, prosecutors said, he had never gone to law school -- pleaded not guilty yesterday in State Supreme Court to charges of impersonating a lawyer and stealing at least $284,350 in salary from his firm. The man, Brian Valery, 32, of Massapequa Park, was promoted from paralegal to lawyer at the firm, Anderson Kill &amp; Olick, in 2002, and was earning $155,000 plus bonuses when he was fired in October 2006, prosecutors said. His lawyer, Joseph R. Conway, said Mr. Valery, who is now unemployed, faced related charges in Connecticut and expected to have charges brought against him in Brooklyn.</p>
+        <p>ANEMONA HARTOCOLLIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

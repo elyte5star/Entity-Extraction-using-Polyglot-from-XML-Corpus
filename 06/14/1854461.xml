@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Computer Flaw Could Imperil Space Station</title>
+    <meta content="14station" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/science/14station.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854461"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Station</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1D8143FF937A25755C0A9619C8B63" item-length="368" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Computer Flaw Could Imperil Space Station</hl1>
+        <hl2 class="online_headline">Computer Flaw Could Imperil Space Station</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Russian computers that help keep the International Space Station in orbit were out of commission for the second day, a glitch that could imperil the $100 billion orbiting laboratory if it is not corrected.</p>
+        <p>NASA officials expressed confidence, however, that the problem could be resolved. ''I fully expect us to be able to do this,'' said Michael T. Suffredini, the manager of the station program.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Russian computers that help keep the International Space Station in orbit were out of commission for the second day, a glitch that could imperil the $100 billion orbiting laboratory if it is not corrected.</p>
+      </block>
+      <block class="full_text">
+        <p>The Russian computers that help keep the International Space Station in orbit were out of commission for the second day, a glitch that could imperil the $100 billion orbiting laboratory if it is not corrected.</p>
+        <p>NASA officials expressed confidence, however, that the problem could be resolved. ''I fully expect us to be able to do this,'' said Michael T. Suffredini, the manager of the station program.</p>
+        <p>The station depends on Russian and American computer systems to maintain the attitude of the station as it orbits the earth. The United States computer system runs the network of gyroscopes that provide stability, and the Russian system controls thrusters that correct the orientation of the station when the gyroscopes alone cannot do the job and shift position for operations like docking and avoiding debris.</p>
+        <p>The problem first emerged on Tuesday as astronauts were connecting a new 17.2-ton truss to the station. The three navigation computers in the Russian section crashed and could not be rebooted. Thruster control was passed to the shuttle Atlantis, which has enough fuel to provide the attitude adjustment service for several days.</p>
+        <p>''That's not an urgent situation,'' Mr. Suffredini said. ''But clearly we need to get this resolved before the shuttle leaves.''</p>
+        <p>He said Russians and Americans were trying to figure out whether the problem was related to the added mass of the new truss, the additional power from the new panels or some other issue.</p>
+        <p>If the problem is not corrected, the station could be unable to maintain the best position for charging its solar arrays when the gyroscopes become overloaded and at worst could cause it to tumble from orbit.</p>
+        <p>On Wednesday, the astronauts Patrick G. Forrester, a retired Air Force colonel, and Steven R. Swanson, spent more than seven hours outside the station as spacewalking handymen.</p>
+        <p>They worked to free a rotating joint that will allow the station's new solar arrays to track the sun. The astronauts removed all but one of the locks that had been placed on the mechanism to secure it for its trip to the station, leaving the last one until issues with one of the joint's two drive locks -- which apparently were miswired -- could be resolved.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

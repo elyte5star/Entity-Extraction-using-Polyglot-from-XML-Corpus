@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Yahoo, An Ordeal Of Discord</title>
+    <meta content="12yahoo" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/technology/12yahoo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854015"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Company and Organization Profiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Boards of Directors</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Jackson, Eric</person>
+        <person class="indexing_service">Semel, Terry S</person>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Yahoo Inc</org>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D9173FF931A25755C0A9619C8B63" item-length="1346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Yahoo, An Ordeal Of Discord</hl1>
+        <hl2 class="online_headline">For Yahoo, an Ordeal of Dissent</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SAN FRANCISCO, June 11</dateline>
+      <abstract>
+        <p>Yahoo shareholder Eric Jackson, who is not happy with company's performance, has mounted grass-roots campaign calling for changes including removal of chief executive Terry S Semel and several company directors; Jackson's campaign has little chance of success for now, but plenty of other people have questions for Semel; Yahoo's annual meeting will be held June 12 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Terry S. Semel, Yahoo's chief executive, faces shareholders at the company's annual meeting on Tuesday, Eric Jackson will be there to pepper him with questions.</p>
+        <p>Mr. Jackson, who owns just a few Yahoo shares, is not happy with the company's performance, so he has mounted a grass-roots campaign calling for changes including the removal of Mr. Semel and several company directors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Terry S. Semel, Yahoo’s chief executive, is facing mounting questions about internal morale problems.</p>
+      </block>
+      <block class="full_text">
+        <p>When Terry S. Semel, Yahoo's chief executive, faces shareholders at the company's annual meeting on Tuesday, Eric Jackson will be there to pepper him with questions.</p>
+        <p>Mr. Jackson, who owns just a few Yahoo shares, is not happy with the company's performance, so he has mounted a grass-roots campaign calling for changes including the removal of Mr. Semel and several company directors.</p>
+        <p>''The company has tremendous assets,'' said Mr. Jackson, who began his campaign with a video on YouTube. ''But there needs to be new blood and new direction.''</p>
+        <p>Mr. Jackson's campaign has little chance of success for now, but plenty of other people have questions for Mr. Semel these days.</p>
+        <p>Three Wall Street advisory firms have criticized his pay package, which is among the largest in corporate America, saying it is undeserved given the company's lackluster performance. Investors remain concerned about the company's inability to close the gap with Google in search, and about increased competition from sites like MySpace and Facebook. Then there are the members of Yahoo's own management ranks -- some of whom have not waited around for answers.</p>
+        <p>Since Mr. Semel reorganized the company into three units in December, it has experienced a steady stream of executive departures, some planned but some resulting from disagreements about how the company should be run.</p>
+        <p>Now two of those three operating units lack a permanent leader. The head of Yahoo's technology group, Farzad Nazem, left late last month after 11 years with the company. And Yahoo has yet to name an executive to run the audience group, which was created in December and oversees many of the Yahoo's most important Web offerings.</p>
+        <p>In addition, 17 executives at the vice president level or higher are known to have left Yahoo since the December shake-up. Some of them left after their responsibilities changed or their jobs were reduced or eliminated. Others, like Mr. Nazem, chose to move on after years at the company. But the defections include executives who were widely praised, ran important businesses within Yahoo and left for places that seemed to offer better opportunities.</p>
+        <p>Yahoo disputes the notion that it is losing people at an unusual rate, saying that it had named about 80 vice presidents worldwide this year, most of them promoted from inside. But some in Silicon Valley say that plenty of people are still looking to leave.</p>
+        <p>''It's a buyer's market in terms of hiring people out of Yahoo,'' said a prominent Silicon Valley venture capitalist who asked to remain anonymous, in part because three of the companies he has backed are talking to different Yahoo vice presidents about possible jobs.</p>
+        <p>The departed executives include one of Mr. Nazem's top deputies in engineering, the senior vice president in charge of HotJobs, two executives who ran Yahoo's music business, the head of the health and food Web sites, the heads of international and European operations and an important search executive.</p>
+        <p>Jerry Yang, one of Yahoo's founders, said that many of the departures involved people whose positions had been eliminated during the reorganization or who had planned to leave after a long career at Yahoo. He said the company has had no problem replacing those who have left with seasoned executives from inside and outside Yahoo.</p>
+        <p>''We are promoting and hiring new executives at a pretty fast pace,'' said Mr. Yang, who holds the title of chief Yahoo. ''People are joining us because they believe in the upside.''</p>
+        <p>The company recently named Blake Jorgensen, the co-founder of the investment bank Thomas Weisel Partners, to be its chief financial officer. The move freed Susan Decker, who had held that post, to take over Yahoo's other operating unit, its advertiser and publisher group, which is largely responsible for the company's advertising revenue.</p>
+        <p>The New York Times contacted a dozen executives who have left since December. Those who responded agreed to speak only if they could remain anonymous, citing confidentiality clauses in their separation agreements.</p>
+        <p>''In general, there is a pretty big morale problem internally,'' said an executive who left the company earlier this year. ''There are a lot of frustrated people who may not leave tomorrow, but if the right offer came along, they'd jump.''</p>
+        <p>This executive said that, among other complaints, some managers resented that over the last two years many of the company's resources were devoted to a major overhaul of its search advertising system, an endeavor known as Project Panama -- leaving their own projects starved for resources.</p>
+        <p>The dissatisfaction among some senior Yahoo managers was thrust into the spotlight last November when an internal memo written by Brad Garlinghouse, a senior vice president who oversees the company's communications and social networking products, was leaked to The Wall Street Journal. In the memo, dubbed the Peanut Butter Manifesto, Mr. Garlinghouse complained that like peanut butter on toast, the company had spread itself too thin. It also said the company had become too bureaucratic and needed a drastic revamping.</p>
+        <p>Yahoo's management has since said that it had long recognized that the company faced some structural problems and had begun planning a reorganization long before Mr. Garlinghouse's memo came to light.</p>
+        <p>But some of those who have left recently said the reorganization did little to address Yahoo's problems.</p>
+        <p>''The takeaway from a lot of the people was that this new strategy is not a new strategy,'' said another recently departed executive.</p>
+        <p>Mr. Yang disputed that assertion, saying that the reorganization had focused Yahoo on its customers: its users, and the advertisers and publishers that help it generate the bulk of its revenue.</p>
+        <p>Analysts who follow the company say the executive departures are not surprising given the company's continuing challenges and the many job opportunities in the Internet sector.</p>
+        <p>''A little turnover in the management team is probably a good thing,'' said Mark Mahaney, an analyst at Citigroup. ''It is not like execution has been flawless,'' Mr. Mahaney said, noting, for instance, that Panama had been delayed by several months.</p>
+        <p>Others said Yahoo was simply going through changes that are common at large technology companies.</p>
+        <p>''All companies go through transitions,'' said Jim Brock, a former Yahoo executive who left more than two years ago and is now chief executive of Attributor, a technology start-up. ''Some people are charged up about the opportunity, and you have people who cycle in and out.''</p>
+        <p>But in light of Yahoo's continuing difficulties and lagging performance Mr. Semel's handsome compensation has become a focal point of dissatisfaction. Three advisory firms -- Institutional Shareholder Services, Glass Lewis and Proxy Governance -- have recommended that shareholders withhold votes from three directors on Yahoo's compensation committee on Tuesday. Such votes are usually symbolic, but they are a way for shareholders to register discontent.</p>
+        <p>In its report to investors, Institutional Shareholder Services singled out grants of 6.8 million stock options given to Mr. Semel as retention and bonus pay in 2006. It estimated Mr. Semel's total pay during the year at $107.5 million. The figure is larger than the $39.8 million that Yahoo reported, in part because the company amortizes the value of the options over some years and makes different assumptions about their terms.</p>
+        <p>''Given the size of these mega-awards they give to Terry Semel, we don't see a link between pay and performance,'' said Patrick McGurn, executive vice president of Institutional Shareholder Services.</p>
+        <p>For Yahoo shareholders, Mr. Semel's tenure, which began in 2001, has been a mixed bag. Over the last five years, the company's shares returned an average of 23.6 percent each year, far outpacing the Standard &amp; Poor's 500-stock index, according to the I.S.S. report. But in the last three years, its shares have lagged behind the S.&amp; P. 500. And in 2006, the shares fell nearly 35 percent, as the S.&amp; P. rose 13.7 percent.</p>
+        <p>Mr. Semel has realized gains of about $451 million from options and other pay since he joined Yahoo, according to a report by Equilar, an executive compensation firm.</p>
+        <p>In a statement, Yahoo said: ''Mr. Semel's compensation for 2006 was almost entirely equity based and is, therefore, closely aligned with the interests of Yahoo's shareholders.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

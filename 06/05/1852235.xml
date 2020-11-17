@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PANG, FOO SEE</title>
+    <meta content="dn060507" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852235"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">PANG, FOO SEE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03EEDD143AF936A35755C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PANG, FOO SEE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PANG--Foo See. Beloved husband of Hon Ying Foo. Passed away peacefully at the age of 96 in his Brooklyn home on Sunday June 3, 2007. He was born in Hainan Island, China and proudly served 11 years in the US Merchant Marines of which part of his service was during WWII. He was a caring and generous person as well as a loving and devoted husband, father, and grandfather. He will be deeply missed by his wife, Hon Yang Foo, of over 50 years, his children James, John, Peter, Julia, and Suzie and his grandchildren Katrina, Katherine, Christopher, Andrew, Cody, Alexander, Jason, Austin, Evan, Jordan, and Mikayla. Viewing will be held on Wednesday June 6, 2007 from 4pm-7pm at Ralph Aievoli &amp; Son, Inc., 1275 65th Street, Brooklyn, NY 11219. Burial services will take place on Thursday June 7, 2007 at 10am. It is the families wishes that donations be made in his memory to St. Vincent's Comprehensive Cancer Center or to Cabrini Hospice.</p>
+      </block>
+      <block class="full_text">
+        <p>PANG--Foo See. Beloved husband of Hon Ying Foo. Passed away peacefully at the age of 96 in his Brooklyn home on Sunday June 3, 2007. He was born in Hainan Island, China and proudly served 11 years in the US Merchant Marines of which part of his service was during WWII. He was a caring and generous person as well as a loving and devoted husband, father, and grandfather. He will be deeply missed by his wife, Hon Yang Foo, of over 50 years, his children James, John, Peter, Julia, and Suzie and his grandchildren Katrina, Katherine, Christopher, Andrew, Cody, Alexander, Jason, Austin, Evan, Jordan, and Mikayla. Viewing will be held on Wednesday June 6, 2007 from 4pm-7pm at Ralph Aievoli &amp; Son, Inc., 1275 65th Street, Brooklyn, NY 11219. Burial services will take place on Thursday June 7, 2007 at 10am. It is the families wishes that donations be made in his memory to St. Vincent's Comprehensive Cancer Center or to Cabrini Hospice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

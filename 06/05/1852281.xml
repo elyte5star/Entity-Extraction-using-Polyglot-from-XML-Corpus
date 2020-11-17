@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Summer Sequel That No One Wants to See</title>
+    <meta content="05road" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/05road.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852281"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ON THE ROAD"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/On the Road</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Business Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <org class="online_producer">Federal Aviation Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE1DB1130F936A35755C0A9619C8B63" item-length="749" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Summer Sequel That No One Wants to See</hl1>
+        <hl2 class="online_headline">A Summer Sequel That No One Wants to See</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">Sharkey, Joe</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF you have sat for hours recently at an airport or, worse, in a plane stranded for hours on a ramp, this is not exactly going to be a breaking news flash for you.</p>
+        <p>The air travel system is already a mess, and it's only springtime.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The air travel system is already a mess, and it’s only springtime.</p>
+      </block>
+      <block class="full_text">
+        <p>IF you have sat for hours recently at an airport or, worse, in a plane stranded for hours on a ramp, this is not exactly going to be a breaking news flash for you.</p>
+        <p>The air travel system is already a mess, and it's only springtime.</p>
+        <p>Here's the way it looked at noon yesterday, on the airport delay scorecard on the flightstats.com Web site. I should mention that I also looked out the window, and it was drizzling.</p>
+        <p>Federal Aviation Administration ground-delay programs were in effect at more than a dozen airports. A ground delay means air traffic control is parceling out landing slots because demand is overwhelming an airport, especially when a little bad weather comes up (as bad weather tends to do).</p>
+        <p>Delays steadily built yesterday starting around noon. Here are some examples of arrival delays at 4 p.m.: Boston (70 minutes); Newark (81 minutes); Kennedy (86 minutes); La Guardia (95 minutes); and Chicago O'Hare (62 minutes).</p>
+        <p>As it so happens, the Transportation Department yesterday released its latest data on air travel delays from 1995 onward. In the first four months of this year, the percentage of late arrivals (24.5 percent) was the highest in at least 12 years. Of course, delays only worsen in the peak June-to-August air travel season.</p>
+        <p>This summer, a record 209 million passengers (out of the 768 million predicted for 2007) will be on domestic airlines.</p>
+        <p>By July, there is going to be a lot of finger-pointing, and the airlines will catch a good portion of the blame. But you're also going to be hearing a lot more criticism of the F.A.A.'s pace in making long-planned improvements in the severely strained air traffic control system.</p>
+        <p>''On an average day right now, we're seeing about 45,000 flights'' that require air traffic control supervision, said James C. May, president of the Air Transport Association, the major airlines' trade group. ''We have a system that's really straining to keep up, so when you throw in some convective weather, it's like pouring glue in the whole system.''</p>
+        <p>Convective weather includes thunderstorms. I checked the map on the National Weather Center's Storm Prediction Center site at 1 p.m. yesterday, and it said ''No Watches in Effect.''</p>
+        <p>But airport delays continued to mount. I looked out the window, and the drizzle had stopped.</p>
+        <p>While they criticize the F.A.A., Mr. May and others in the commercial airline business also say that the surge in corporate and private jets is straining the system. And they concede that airlines are putting more and smaller planes, like regional jets, into the skies while diverting big airliners to lucrative international routes.</p>
+        <p>''We've simply got more planes in the system that we've ever had,'' Mr. May said.</p>
+        <p>Michael J. Boyd, an airline industry forecaster who often lambastes the major airlines, agreed that the air traffic control system needed major work.</p>
+        <p>''Everybody's going on about, 'Oh, we're going to have a summer with heavy delays,' '' Mr. Boyd said. ''But we've already had a winter with heavy delays.''</p>
+        <p>Besides mounting delays, he said, there is a growing question of safety in a system saddled with outmoded technology and operated by a work force under growing strain.</p>
+        <p>Technical breakdowns are increasingly common, he said. ''The F.A.A.'s definition of safety is, nobody died,'' he said.</p>
+        <p>Whatever, we're facing a crisis and we still need to get from Point A to Point B. Everyone I asked for tips stressed that arriving at the airport early -- two hours before flight time -- was the best advice. Flying early in the day is another tip (bad weather tends to occur in late afternoon and early evening). Booking to build in extra time at connections to allow for delays is another.</p>
+        <p>Getting to the gate when the airline says it's boarding time is increasingly important, said Joe Brancatelli, publisher of the Web site joesentme.com. ''Don't languish in the lounge,'' Mr. Brancatelli said. If you can't get a seat assignment at the time you book, that is a ''yellow flag'' that there may not be a seat when you get there. And never, he said, voluntarily agree to be ''bumped'' in exchange for a voucher for future travel.</p>
+        <p>''The value of what they're giving you if you agree to be bumped'' is not worth it, he said, because airlines treat travel vouchers as the lowest priority of ticket, given that most summer flights are taking off full. ''You're just going to have a nice collection of useless vouchers,'' he said.</p>
+        <p>ON THE ROAD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

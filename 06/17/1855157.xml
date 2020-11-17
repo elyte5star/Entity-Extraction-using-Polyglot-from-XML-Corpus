@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F. Y. I.</title>
+    <meta content="17fyi" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/nyregion/thecity/17fyi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855157"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="F. Y. I."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Boxing</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Central Park (NYC)</location>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Metro-North Commuter Railroad</org>
+        <person class="indexing_service">Gehrig, Lou (1903-41)</person>
+        <person class="indexing_service">Graziano, Rocky</person>
+        <person class="indexing_service">Pollak, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/F.Y.I.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA153FF934A25755C0A9619C8B63" item-length="606" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F. Y. I.</hl1>
+        <hl2 class="online_headline">Unleashed Joy</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL POLLAK</byline>
+      <byline class="normalized_byline">Pollak, Michael</byline>
+      <abstract>
+        <p>FYI column answers questions about dog runs in Central Park and elsewhere around New York City, whether Lou Gehrig ever met Rocky Graziano when Gehrig was working with Parole Board and stop announcements aboard Metro-North trains leaving Grand Central; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unleashed Joy</p>
+        <p>Q. Just after I crossed the footbridge into the Ramble of Central Park the other day, I saw a woman receiving a citation for having her dogs off their leashes by the lake. Don't the city parks have areas outside dog runs where dog owners are allowed to let their pets run free?</p>
+        <p>A. Funny you should ask. On May 10, the Parks Department's ''courtesy hours'' program became an official rule. With proof of a current rabies vaccination and a current license, an owner can allow a dog to run off-leash in designated areas from the time the park opens until 9 a.m. and from 9 p.m. until the park closes. The parks with designated off-leash areas are listed on the Parks Web site: www.nyc.gov/parks/dogs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Do city parks have areas other than dog runs where pets can run free?</p>
+      </block>
+      <block class="full_text">
+        <p>Unleashed Joy</p>
+        <p>Q. Just after I crossed the footbridge into the Ramble of Central Park the other day, I saw a woman receiving a citation for having her dogs off their leashes by the lake. Don't the city parks have areas outside dog runs where dog owners are allowed to let their pets run free?</p>
+        <p>A. Funny you should ask. On May 10, the Parks Department's ''courtesy hours'' program became an official rule. With proof of a current rabies vaccination and a current license, an owner can allow a dog to run off-leash in designated areas from the time the park opens until 9 a.m. and from 9 p.m. until the park closes. The parks with designated off-leash areas are listed on the Parks Web site: www.nyc.gov/parks/dogs.</p>
+        <p>Not all parks have off-leash hours. In some areas, dogs are prohibited at all times. Central Park is one of the many parks with designated off-leash areas. So the woman you observed may simply have had her dog unleashed in the wrong place, or at the wrong time of day.</p>
+        <p>''Dog owners are community members who regularly visit parks and have a vested interest in keeping parks clean and safe,'' the Parks Department said in a statement announcing the official policy. ''A constant presence, especially at night when parks are less crowded, helps keep parks and the surrounding neighborhoods safe.''</p>
+        <p>Rocky and the Iron Man</p>
+        <p>Q. I was told that Lou Gehrig once met Rocky Graziano back when Gehrig was doing work with the Parole Board and Graziano was a punk. Is this just an urban legend?</p>
+        <p>A. It really happened, if you believe Graziano's account in ''Somebody Down Here Likes Me, Too,'' the second volume of his autobiography. As the fighter told it to the writer Ralph Corsel, he was arrested and was called to appear at a parole violation hearing in January 1940. ''Rocky, just tell the guy how much you like baseball,'' his friends advised him.</p>
+        <p>Gehrig, the former Yankee first baseman, who was dying of the disease that would bear his name, had been appointed to the Municipal Parole Commission in October 1939 by Mayor Fiorello La Guardia.</p>
+        <p>Gehrig walked into the hearing room on crutches. ''Every time he makes a step I could see all the pain on the guy's face and it's hurting me worse than him,'' recalled Graziano, who was a teenager. Gehrig asked him to stand up and told him: ''I've been over your record, and it's pretty bad. You've caused a lot of grief.''</p>
+        <p>Gehrig spoke at length, scolding Graziano, and then asked him his favorite sport. Graziano quickly replied that it was baseball. It didn't work. Gehrig told him he had to return to Rikers Island for violating his parole and asked if he anything to say. Graziano responded with an expletive, and guards hustled him away.</p>
+        <p>Gehrig died in June 1941. Graziano later put his hoodlum childhood behind him to become a middleweight champion, and then a longtime comic actor. He died in 1990.</p>
+        <p>First Stop, Harlem</p>
+        <p>Q. Why do Metro-North trains leaving Grand Central Terminal announce that their first stops are places in the Bronx, Westchester or Connecticut when in fact most of them stop first at 125th Street in Harlem?</p>
+        <p>A. Because people traveling north from Grand Central rarely get off at 125th Street. In railroad lingo, 125th Street is known as a receive stop, one for receiving new passengers.</p>
+        <p>In any case, the new M-7 train cars are automated to announce every station, according to Dan Brucker, a spokesman for Metro-North.</p>
+        <p>MICHAEL POLLAK</p>
+        <p>F. Y. I. E-mail: fyi@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: fyi@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

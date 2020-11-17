@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Room of Sound From Golf Ball-Size Speakers (Plus Subwoofer)</title>
+    <meta content="07sony" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/technology/07sony.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852724"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Sony Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E2D81E30F934A35755C0A9619C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Room of Sound From Golf Ball-Size Speakers (Plus Subwoofer)</hl1>
+        <hl2 class="online_headline">A Room of Sound From Golf Ball-Size Speakers (Plus Subwoofer)</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the wee home audio gremlins invade your home at night to change your wireless settings and turn up your TV, they will be quite enamored with the Sony DAV-IS10 audio system and its five tiny speakers. The system also includes a larger subwoofer, a DVD/CD player and a radio receiver.</p>
+        <p>How small are the 50-watt satellite speakers? Sony says they are about as big as a golf ball (about 2 inches high). The receiver/DVD player is roughly 8.5 inches by 18 inches by 4 inches high, about the size of a few hardback books. The device is compatible with Sony's Wi-Fi and Bluetooth audio streaming adapters and its TDM-IP1 iPod dock.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Sony DAV-IS10 audio system includes five tiny speakers, a larger subwoofer, a DVD/CD player and a radio receiver.</p>
+      </block>
+      <block class="full_text">
+        <p>When the wee home audio gremlins invade your home at night to change your wireless settings and turn up your TV, they will be quite enamored with the Sony DAV-IS10 audio system and its five tiny speakers. The system also includes a larger subwoofer, a DVD/CD player and a radio receiver.</p>
+        <p>How small are the 50-watt satellite speakers? Sony says they are about as big as a golf ball (about 2 inches high). The receiver/DVD player is roughly 8.5 inches by 18 inches by 4 inches high, about the size of a few hardback books. The device is compatible with Sony's Wi-Fi and Bluetooth audio streaming adapters and its TDM-IP1 iPod dock.</p>
+        <p>The DVD player can improve standard DVDs for viewing on higher-resolution 1080i screens, and it can connect to high-definition TVs that accept HDMI inputs. It does not read Blu-ray or HD DVD discs.</p>
+        <p>The system, which will be available next month priced at $800, has a remote control that is compatible with Sony Bravia television sets and a tuning microphone to help with positioning the tiny speakers in any room.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NEUWIRTH, RICHARD SAMUEL</title>
+    <meta content="dn060207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851387"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">NEUWIRTH, RICHARD SAMUEL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDF143AF931A35755C0A9619C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NEUWIRTH, RICHARD SAMUEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEUWIRTH--Richard Samuel, on May 29, 2007, at age 75, of Fort Lee, NJ, and Boca Raton, FL. Husband of Eileen, father of Shelby and her husband Doug, grandfather of Dylan Ryan, brother of Enid. Treasurer of Testrite Instruments, Inc., Hackensack, NJ. Member of Montammy and Broken Sound Country Clubs. Services at 11:30am, Sunday June 3rd at Gutterman-Musicant, Hackensack, NJ. Visitation in Fort Lee on Sunday, June 3rd and Monday, June 4th. $(6$)NEUWIRTH--Richard. The Board of Governors and members of Montammy Golf Club express their deepest sorrow at the passing of their beloved member and extend their heartfelt sympathy to Eileen, Enid and Harold Rubin, Shirley and Larry Rubin, and the entire family. Mark J. Shirvan, President</p>
+      </block>
+      <block class="full_text">
+        <p>NEUWIRTH--Richard Samuel, on May 29, 2007, at age 75, of Fort Lee, NJ, and Boca Raton, FL. Husband of Eileen, father of Shelby and her husband Doug, grandfather of Dylan Ryan, brother of Enid. Treasurer of Testrite Instruments, Inc., Hackensack, NJ. Member of Montammy and Broken Sound Country Clubs. Services at 11:30am, Sunday June 3rd at Gutterman-Musicant, Hackensack, NJ. Visitation in Fort Lee on Sunday, June 3rd and Monday, June 4th. $(6$)NEUWIRTH--Richard. The Board of Governors and members of Montammy Golf Club express their deepest sorrow at the passing of their beloved member and extend their heartfelt sympathy to Eileen, Enid and Harold Rubin, Shirley and Larry Rubin, and the entire family. Mark J. Shirvan, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

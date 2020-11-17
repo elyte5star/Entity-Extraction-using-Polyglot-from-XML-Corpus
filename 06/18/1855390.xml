@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Get Ready for More Canoodling: Page Six Expands</title>
+    <meta content="18post" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/18/business/media/18post.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855390"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Celebrities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Celebrities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">New York Post</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE2DD123FF93BA25755C0A9619C8B63" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Get Ready for More Canoodling: Page Six Expands</hl1>
+        <hl2 class="online_headline">Get Ready for More Canoodling: Page Six Expands</hl2>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH JENSEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Post's Page Six gossip column has had its own share of negative media attention in the last year, but that does not seem to have scared off advertisers.</p>
+        <p>On Thursday for the first time, Page Six -- which no longer runs on the sixth page of the paper, nor on just a single page -- occupied three pages. Along with the column's usual fodder (a photo of Britney Spears getting out of a car, an item about the singer Kelly Clarkson firing her manager, details on the divorce of a Hollywood power couple) were advertisements for Coach bags and for a sale at the upscale clothing chain Searle.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The New York Post’s Page Six gossip column has had its own share of negative media attention in the last year, but that does not seem to have scared off advertisers.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Post's Page Six gossip column has had its own share of negative media attention in the last year, but that does not seem to have scared off advertisers.</p>
+        <p>On Thursday for the first time, Page Six -- which no longer runs on the sixth page of the paper, nor on just a single page -- occupied three pages. Along with the column's usual fodder (a photo of Britney Spears getting out of a car, an item about the singer Kelly Clarkson firing her manager, details on the divorce of a Hollywood power couple) were advertisements for Coach bags and for a sale at the upscale clothing chain Searle.</p>
+        <p>The newly enlarged section got extra attention from a Page 1 plug for its blurb on the premiere of Angelina Jolie's new movie.</p>
+        <p>On Friday, the section was back to its usual two pages, but the three-page version is likely to be back as a result of advertiser demand, according to The Post's editor, Col Allan. Through a spokesman, Howard Rubenstein, Mr. Allan said that officials at the paper ''anticipate growth'' in Page Six.</p>
+        <p>For Searle, which ran a coupon offering 20 percent off all merchandise, it was the first time advertising in The Post and, based on how many coupons were redeemed in the company's eight stores, it will not be the last, said Rick Weinstein, the director of sales and marketing.</p>
+        <p>Searle, which regularly advertises in The New York Times, had been seeking a way to reach younger customers and was interested in The Post. ''The only thing that held me back was the environment,'' said Mr. Weinstein, adding, ''I insisted that I not be next to a penile enlargement ad. I wanted to be in a place where it would enhance my image.''</p>
+        <p>Post executives paired the Searle ad, which Mr. Weinstein described as a test, with an ad from Coach and one from the cosmetics department of Bergdorf Goodman, which ran on the page opposite the Searle ad. Searle was pleased, Mr. Weinstein said, adding, ''I will be advertising there again.''</p>
+        <p>ELIZABETH JENSEN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

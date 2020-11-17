@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CRITICS' CHOICE: NEW CDS</title>
+    <meta content="04choi-3" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852179"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DD1130F937A35755C0A9619C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CRITICS' CHOICE: NEW CDS</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daddy Yankee  ''El Cartel: The Big Boss''  (El Cartel/Interscope)</p>
+        <p>The chorus of Daddy Yankee's new single for American radio is ''Make an impacto,'' a bilingual slogan that sums up his goal on ''El Cartel: The Big Boss.'' Reaching the pop mainstream has become the goal of reggaetón, the Puerto Rican rap-and-reggae hybrid. It has spread across the Americas by emulating dancehall and gangsta rap: flaunting street roots while aiming for a mass audience.</p>
+      </block>
+      <block class="full_text">
+        <p>Daddy Yankee  ''El Cartel: The Big Boss''  (El Cartel/Interscope)</p>
+        <p>The chorus of Daddy Yankee's new single for American radio is ''Make an impacto,'' a bilingual slogan that sums up his goal on ''El Cartel: The Big Boss.'' Reaching the pop mainstream has become the goal of reggaetón, the Puerto Rican rap-and-reggae hybrid. It has spread across the Americas by emulating dancehall and gangsta rap: flaunting street roots while aiming for a mass audience.</p>
+        <p>Yet the language barrier is still reggaetón's glass ceiling. Despite Daddy Yankee's major crossover hit in 2004, ''Gasolina,'' and a brief flurry of hip-hop with reggaetón connections, mainstream American pop hasn't embraced songs in Spanish.</p>
+        <p>Daddy Yankee, who was born Ramón Ayala, has prospered anyway. Like a Puerto Rican Jay-Z, he runs a label, El Cartel, and has his own sportswear line; he's also a syndicated radio host. His new album chases crossover again while insistently touching its Latin bases; offering something for everybody, it stretches for 21 tracks and 78 minutes. It has guest stars -- Fergie on the remix of ''Impacto'' (there's also an all-Spanish version), Will.i.am, Akon -- and assorted producers from hip-hop and reggaetón.</p>
+        <p>The boom-chicka-boom reggaetón beat shares space, and sometimes merges, with older Latin rhythms or hip-hop's electro blips and foreboding strings and keyboards. And with so many songs Daddy Yankee can test strategies from bilingual rapping (''Que Pasó?'') to sounding like a guest on someone else's track (in ''Bring It On,'' produced and sung by Akon).</p>
+        <p>Daddy Yankee has grown more earnest. He raps about his street connections, his success, his gratitude to God, his artistic pride and his annoyance with the press. Luckily he's a smart beat shopper, particularly in party tunes like ''Papi Lover'' (with Nicole Scherzinger from the Pussycat Dolls and a track using flute, finger cymbals and thumb piano), the salsa-flavored ''Ella Me Levantó,'' or ''El Cellular,'' about missed connections. While he touts himself as a revolutionary force in reggaetón, he's not too proud to cross over via the most basic pop strategy: catchiness.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

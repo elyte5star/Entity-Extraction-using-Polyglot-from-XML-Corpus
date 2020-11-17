@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Hampshire Adopts Same-Sex Unions</title>
+    <meta content="01union" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/01/us/01union.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851277"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Hampshire</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">New Hampshire</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2D91530F932A35755C0A9619C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Hampshire Adopts Same-Sex Unions</hl1>
+        <hl2 class="online_headline">New Hampshire Adopts Same-Sex Unions</hl2>
+      </hedline>
+      <byline class="print_byline">By PAM BELLUCK</byline>
+      <byline class="normalized_byline">Belluck, Pam</byline>
+      <dateline>BOSTON, May 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Civil unions for same-sex couples in New Hampshire will be legal starting in January under a bill signed into law Thursday by Gov. John Lynch.</p>
+        <p>In a ceremony in the governor's chambers at the New Hampshire Statehouse, Mr. Lynch, a second-term Democrat who has voiced opposition to same-sex marriage, said: ''I do not believe that this bill threatens marriage. I believe that this is a matter of conscience and fairness.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Civil unions for same-sex couples in New Hampshire will be legal starting in January under a bill signed into law Thursday by Gov. John Lynch.</p>
+      </block>
+      <block class="full_text">
+        <p>Civil unions for same-sex couples in New Hampshire will be legal starting in January under a bill signed into law Thursday by Gov. John Lynch.</p>
+        <p>In a ceremony in the governor's chambers at the New Hampshire Statehouse, Mr. Lynch, a second-term Democrat who has voiced opposition to same-sex marriage, said: ''I do not believe that this bill threatens marriage. I believe that this is a matter of conscience and fairness.''</p>
+        <p>New Hampshire becomes the fourth state to allow same-sex civil unions, joining Vermont, Connecticut and New Jersey, and the first to do so without a court order or a pending lawsuit. Only Massachusetts allows same-sex marriage.</p>
+        <p>Bishop V. Gene Robinson, whose status as the openly gay Episcopal leader in New Hampshire has caused debate and division within the international Anglican Communion, attended the ceremony and said in an interview that he would enter into a civil union with his partner next year.</p>
+        <p>Bishop Robinson said he would allow other Episcopal priests in New Hampshire to decide individually whether to perform or approve of civil unions. Of the new law, he said: ''I feel that it's a huge step forward for fairness and equality for all the citizens of New Hampshire and really is an affirmation of the very conservative values that we hold here. This will support gay and lesbian families the way marriage supports heterosexual families.''</p>
+        <p>Paul Nagy, chairman of Conserve NH, a conservative group that had gathered 900 signatures on a petition urging Mr. Lynch not to sign the bill, said that throughout the process of enactment, the measure's opponents had not had enough opportunity to air their views.</p>
+        <p>Mr. Nagy said his group would now work for repeal of the legislation, adopted this spring by the first Democratic-controlled legislature in New Hampshire in more than a century. ''We're not going to sit back,'' he said.</p>
+        <p>"What I have said is that this is needless legislation and it's a steppingstone,'' Mr. Nagy said. ''Make no mistake about that, that the next step for the homosexual lobby is marriage."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

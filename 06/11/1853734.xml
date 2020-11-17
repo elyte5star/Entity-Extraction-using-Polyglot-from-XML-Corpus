@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Editor's Untimely Departure Is Captured in Just a Flicker</title>
+    <meta content="11chronicle" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/business/media/11chronicle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853734"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <org class="online_producer">San Francisco Chronicle</org>
+        <org class="online_producer">Flickr</org>
+        <person class="online_producer">Curley, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E2DF173FF932A25755C0A9619C8B63" item-length="405" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Editor's Untimely Departure Is Captured in Just a Flicker</hl1>
+        <hl2 class="online_headline">An Editor’s Untimely Departure Is Captured in Just a Flicker</hl2>
+      </hedline>
+      <byline class="print_byline">By LIA MILLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Call it a bit of a ''video killed the radio star'' moment, circa 2007: John Curley, who had been a deputy managing editor of The San Francisco Chronicle, announced that he was let go from the newspaper by posting the news on Flickr, the photo-sharing Web site.</p>
+        <p>''I leave with great sadness, but not a trace of bitterness,'' Mr. Curley wrote in his June 5 entry, which included a picture of his desk at The Chronicle before he packed. ''We all know what is happening to the newspaper industry, and it is not pretty.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>John Curley, a former deputy managing editor of The San Francisco Chronicle, announced he was let go by posting the news on Flickr, the photo-sharing Web site.</p>
+      </block>
+      <block class="full_text">
+        <p>Call it a bit of a ''video killed the radio star'' moment, circa 2007: John Curley, who had been a deputy managing editor of The San Francisco Chronicle, announced that he was let go from the newspaper by posting the news on Flickr, the photo-sharing Web site.</p>
+        <p>''I leave with great sadness, but not a trace of bitterness,'' Mr. Curley wrote in his June 5 entry, which included a picture of his desk at The Chronicle before he packed. ''We all know what is happening to the newspaper industry, and it is not pretty.''</p>
+        <p>One of the biggest things happening to the newspaper industry is that people are flocking to Web sites like Flickr, which is owned by Yahoo, for news, gossip and friendship, and turning to newsprint less often. Even Flickr, once primarily a site for swapping images, has become more of an online community: in this case, dozens of people turned out to post comments of solidarity on Mr. Curley's page.</p>
+        <p>''Off you go to something greater, man,'' wrote someone who calls himself Razorbern and uses as his icon a picture of a chimp in a suit and hat.</p>
+        <p>Mr. Curley had been at The Chronicle for 25 years and was the first of 13 managers released over nine days, cutbacks meant to ease the newspaper's dire financial state. The Chronicle, which is owned by the Hearst Corporation, announced in mid-May that it was cutting 80 union and 20 management jobs from the newsroom -- or about a quarter of the staff -- but Mr. Curley said he was surprised to be among the ones let go, since he was known as one of the more Internet-savvy managers.</p>
+        <p>''To be honest, I thought I'd get the chance to help lead the paper where it needed to go to compete successfully in the digital age,'' he wrote on his Flickr page.</p>
+        <p>Within a day, Mr. Curley says, his post was linked to several sites, including one operated by Jim Romenesko on the Poynter Institute's Web site, where journalists flock for industry news. Mr. Curley said he began getting e-mail messages from around the country.</p>
+        <p>Stephen R. Proctor, a deputy managing editor at the paper, said he heard that the Flickr posting had been passed around the newsroom. ''I thought it was heartfelt,'' he said. ''It's hard to feel anything other than remorse about this whole thing; everyone's suffering, I know I am.''</p>
+        <p>LIA MILLER</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

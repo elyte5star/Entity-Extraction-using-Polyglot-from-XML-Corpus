@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pakistan Questions 2 in Daniel Pearl Killing</title>
+    <meta content="06pearl" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852492"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <location class="indexing_service">Pakistan</location>
+        <location class="indexing_service">Sindh Province (Pakistan)</location>
+        <org class="indexing_service">Lashkar-E-Jhangvi (Terrorist Group)</org>
+        <org class="indexing_service">Al Qaeda (Terrorist Group)</org>
+        <person class="indexing_service">Pearl, Daniel (1963-2002)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Pakistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Pakistan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDF1E30F935A35755C0A9619C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pakistan Questions 2 in Daniel Pearl Killing</hl1>
+      </hedline>
+      <dateline>ISLAMABAD, Pakistan, June 5</dateline>
+      <abstract>
+        <p>Pakistani officials say two people arrested in Sindh Province are being investigated for any links to killing of American journalist Daniel Pearl in 2002; claim two are involved with banned Sunni Muslim militant group Lashkar-e-Jhangvi; Khalid Shaikh Mohammed, top Al Qaeda commander captured in 2003, claimed he decapitated Pearl (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pakistani officials said they were investigating two people arrested Monday in Kashmor, a remote town in the southern province of Sindh, for any links to the killing of the American journalist Daniel Pearl in 2002.</p>
+        <p>Noor Ahmed Paichuho, the Kashmor police chief, said in a telephone interview that the men, Attaur Rehman and Faisal Bhatti, were being interrogated in Kashmor.</p>
+      </block>
+      <block class="full_text">
+        <p>Pakistani officials said they were investigating two people arrested Monday in Kashmor, a remote town in the southern province of Sindh, for any links to the killing of the American journalist Daniel Pearl in 2002.</p>
+        <p>Noor Ahmed Paichuho, the Kashmor police chief, said in a telephone interview that the men, Attaur Rehman and Faisal Bhatti, were being interrogated in Kashmor.</p>
+        <p>Javed Iqbal Cheema, a retired brigadier who is the director of the national crisis management office here in the capital, said the men were involved with Lashkar-e-Jhangvi, a banned Sunni Muslim militant group. ''We are investigating if they are the same persons involved in Pearl murder or not,'' Brigadier Cheema said. ''Let's wait and see.''</p>
+        <p>Mr. Pearl, a Wall Street Journal reporter, was kidnapped in Karachi while looking into ties between Al Qaeda and the shoe bomber Richard C. Reid, who was convicted of trying to blow up a trans-Atlantic flight in December 2001.</p>
+        <p>Khalid Shaikh Mohammed, a top commander for Al Qaeda who was captured in Pakistan in 2003, claimed to have decapitated Mr. Pearl.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

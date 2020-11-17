@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Democrats Hope to Expand Rights at Guantánamo</title>
+    <meta content="06gitmo" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852535"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Cuba</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisoners of War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisoners of War</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EEDE1E30F935A35755C0A9619C8B63" item-length="557" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Democrats Hope to Expand Rights at Guantánamo</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF ZELENY; Carl Hulse contributed reporting.</byline>
+      <byline class="normalized_byline">Zeleny, Jeff; Hulse, Carl</byline>
+      <dateline>WASHINGTON, June 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A day after two military judges ruled against the Bush administration's system for trying terrorism detainees, Democrats seized on the rulings on Tuesday as evidence that Congress should restore the right of those held at Guantánamo Bay, Cuba, to challenge their detentions.</p>
+        <p>Senator Harry Reid, the Nevada Democrat who is the majority leader, said he would be willing to bring such legislation to the floor. The Senate Judiciary Committee is preparing to approve such a plan on Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>A day after two military judges ruled against the Bush administration's system for trying terrorism detainees, Democrats seized on the rulings on Tuesday as evidence that Congress should restore the right of those held at Guantánamo Bay, Cuba, to challenge their detentions.</p>
+        <p>Senator Harry Reid, the Nevada Democrat who is the majority leader, said he would be willing to bring such legislation to the floor. The Senate Judiciary Committee is preparing to approve such a plan on Thursday.</p>
+        <p>Senator Patrick J. Leahy, the Vermont Democrat who is chairman of the Judiciary Committee, said the rulings on Monday in two cases added urgency to the push to restore detainees' right to file habeas corpus suits. Congress eliminated that right last year while redesigning the military tribunals after the Supreme Court struck down the first plan.</p>
+        <p>Mr. Leahy criticized the administration for insisting on an approach to the tribunals ''which even conservative courts say no to.''</p>
+        <p>''It just shows what happens when they want to just rush something through arbitrarily without actually listening to the people who actually knew what they are talking about,'' he said Tuesday in an interview. ''After 9/11, a number of Republicans and Democrats talked to the White House and said we can put together legislation that can legitimately handle questions of military tribunals.</p>
+        <p>''The White House was not the least bit interested,'' Mr. Leahy continued. ''They made up their mind of how they were going to do it.''</p>
+        <p>Senator Dianne Feinstein, a California Democrat who is a member of the Judiciary Committee, said, ''The denial of habeas corpus is a mistake.''</p>
+        <p>Republicans who helped shape the measure last year said Congress should be careful not to respond too reflexively to the rulings, in which military judges dismissed charges of war crimes against two detainees. The administration has said it is exploring options for an appeal.</p>
+        <p>''Congress cannot suddenly rewrite laws every time a federal district court judge or someone changes their view of the law,'' said Senator John W. Warner, Republican of Virginia, who was closely involved in writing the military tribunal bill. ''Give it some time.''</p>
+        <p>Senator Lindsey Graham, Republican of South Carolina and a former military prosecutor, said the decisions on Monday showed that the system worked as it should.</p>
+        <p>''Let's let the legal process go forward and not overreact,'' Mr. Graham said. ''I consider it a point of pride that we have a judicial system at Guantánamo Bay that is focused on process. Not who's there, but the process. It is so important to distinguish ourselves from our enemies. In their world you don't get a process. In our world you do.''</p>
+        <p>In the first comment from the White House on the decisions, Dana Perino, the deputy White House spokeswoman, said, ''We certainly disagree with the ruling.''</p>
+        <p>Ms. Perino added that the Defense Department was studying ''the opportunities for appeal and what they would say.''</p>
+        <p>The Judiciary Committee expects to approve a bipartisan bill restoring habeas corpus. That plan could be added to a Pentagon policy measure making its way through the Senate.</p>
+        <p>Ms. Feinstein said there should also be a vote as part of that bill to close the Guantánamo detention center. ''After this year, I don't think Guantánamo makes a great deal of sense, if it ever did at all,'' she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

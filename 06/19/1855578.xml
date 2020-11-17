@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Glossy Insert at Gannett, and Maybe Dow Jones</title>
+    <meta content="19mag" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/19/business/media/19mag.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855578"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Gannett Co</org>
+        <org class="indexing_service">Usa Today</org>
+        <org class="indexing_service">Wall Street Journal</org>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Gannett Co</org>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+        <org class="online_producer">USA TODAY</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDF133FF93AA25755C0A9619C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Glossy Insert at Gannett, and Maybe Dow Jones</hl1>
+        <hl2 class="online_headline">Glossy Insert at Gannett, and Maybe Dow Jones</hl2>
+      </hedline>
+      <byline class="print_byline">By RICHARD P�REZ-PE�A</byline>
+      <abstract>
+        <p>Gannett Co plans to introduce glossy magazine insert for USA Today later this year, and Dow Jones &amp; Co is contemplating similar move for Wall Street Journal, as both companies seek to capture more of high-end consumer advertising market; USA Today's monthly magazine, which has not yet been named, will be devoted to kind of leisure that appeals to physically active people; Journal's magazine is in early stages (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Gannett Company plans to introduce a glossy magazine insert for USA Today later this year, and Dow Jones &amp; Company is contemplating a similar move for The Wall Street Journal, as both companies seek to capture more of the high-end consumer advertising market.</p>
+        <p>USA Today's monthly magazine, which has not yet been named, will be devoted to the kind of leisure that appeals to physically active people, like travel, hiking and boating, a Gannett spokeswoman said. The company plans to include the magazine in USA Today on the second Friday of each month (the newspaper does not publish on weekends) starting in October.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Both Gannett and Dow Jones &amp; Company are trying to capture more of the high-end consumer advertising market.</p>
+      </block>
+      <block class="full_text">
+        <p>The Gannett Company plans to introduce a glossy magazine insert for USA Today later this year, and Dow Jones &amp; Company is contemplating a similar move for The Wall Street Journal, as both companies seek to capture more of the high-end consumer advertising market.</p>
+        <p>USA Today's monthly magazine, which has not yet been named, will be devoted to the kind of leisure that appeals to physically active people, like travel, hiking and boating, a Gannett spokeswoman said. The company plans to include the magazine in USA Today on the second Friday of each month (the newspaper does not publish on weekends) starting in October.</p>
+        <p>Planning for a magazine supplement in The Journal's weekend issue, published on Saturdays, is in the early stages, and officially Dow Jones would not confirm that anything was in the works. Dow Jones executives said the idea was being tested with consumers, but the executives  cautioned that the idea had not been formally presented to upper management, and might never come to fruition.</p>
+        <p>The two newspapers' magazine plans were first reported on AdAge.com.</p>
+        <p>USA Today and The Journal have the largest daily circulation of any newspapers in the country, more than two million each, but neither publishes on Sundays, when many newspapers have their most lucrative ads.</p>
+        <p>Like many publishers, Gannett and Dow Jones would like to capture a larger share of national, high-end retail advertising, the ads that pay best, especially when published on the heavy paper and in the vivid color that magazines offer. Three new magazines  -- Play, Key and T: The New York Times Style Magazine -- started in recent years by The New York Times have fared well, even as advertising in the newspaper has declined.</p>
+        <p>The Journal, which is heavily dependent on business-to-business ads, began its weekend issue in 2005 partly in hopes of capturing more of the national consumer ad market.</p>
+        <p>Dow Jones is weighing a takeover offer by the News Corporation, whose chairman, Rupert Murdoch, said recently that he would consider turning The Journal's weekend issue into a magazine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

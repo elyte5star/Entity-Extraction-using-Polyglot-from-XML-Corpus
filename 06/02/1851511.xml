@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Red Sox Lose Starters Lowell and Drew to Injuries</title>
+    <meta content="02sox" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/sports/baseball/02sox.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851511"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Boston Red Sox</org>
+        <org class="online_producer">New York Yankees</org>
+        <person class="online_producer">Lowell, Mike</person>
+        <person class="online_producer">Wang, Chien-Ming</person>
+        <person class="online_producer">Drew, J D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E5DE1030F931A35755C0A9619C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Red Sox Lose Starters Lowell and Drew to Injuries</hl1>
+        <hl2 class="online_headline">Red Sox Lose Starters Lowell and Drew to Injuries</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE LAPOINTE</byline>
+      <dateline>BOSTON, June 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While losing to the Yankees, 9-5, on Friday night, the Red Sox also lost two starters to injuries, at least temporarily.</p>
+        <p>Third baseman Mike Lowell, hit by a 93-mile-an-hour fastball from Chien-Ming Wang in the third inning, left in the top of the fifth with a bruised left hand. X-rays did not show a break, the Red Sox announced. Right fielder J. D. Drew left in the top of the sixth with a strained right hamstring.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Third baseman Mike Lowell left in the top of the fifth inning with a bruised left hand. Right fielder J. D. Drew left in the top of the sixth with a strained right hamstring.</p>
+      </block>
+      <block class="full_text">
+        <p>While losing to the Yankees, 9-5, on Friday night, the Red Sox also lost two starters to injuries, at least temporarily.</p>
+        <p>Third baseman Mike Lowell, hit by a 93-mile-an-hour fastball from Chien-Ming Wang in the third inning, left in the top of the fifth with a bruised left hand. X-rays did not show a break, the Red Sox announced. Right fielder J. D. Drew left in the top of the sixth with a strained right hamstring.</p>
+        <p>Lowell is batting .328 with 10 home runs and 41 runs batted in. Drew is hitting .222 with 2 home runs and 17 R.B.I., although Manager Terry Francona expressed optimism before the game that Drew's slump would soon end.</p>
+        <p>''He's going to be O.K.,'' Francona said. ''He's too good a hitter. Sometimes you have to be patient and tell him you believe in him -- which we do.''</p>
+        <p>Over all, it was not an impressive performance for the Red Sox, who began the night with a 10-game lead in the American League East over second-place Baltimore. They were 13 1/2 games ahead of the Yankees, who were tied for fourth with Tampa Bay.</p>
+        <p>(The Devil Rays lost Friday to Kansas City.)</p>
+        <p>Tim Wakefield, the starting pitcher, struggled mightily for Boston. He left after three and two-thirds innings after giving up eight runs and five hits. Wakefield (5-6) is a knuckleball pitcher. He walked five batters, hit one, threw one wild pitch and catcher Doug Mirabelli had one passed ball.</p>
+        <p>The Yankees scored one run on the wild pitch and one run on the passed ball. Wakefield threw 81 pitches, only 38 of them strikes.</p>
+        <p>Until Friday night, the most serious injury this season for the Red Sox was to starter Josh Beckett, who sustained a torn flap of skin on his right middle finger in May and spent 15 days on the disabled list. Beckett has since returned and raised his record to 8-0 with a 4-2 victory against Cleveland on Tuesday.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

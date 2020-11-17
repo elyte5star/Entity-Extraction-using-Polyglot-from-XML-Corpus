@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Time, Sensitivity To Prices</title>
+    <meta content="10mark" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/10/business/yourmoney/10mark.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853688"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MARKET WEEK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Market Week</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Finance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <org class="online_producer">Federal Reserve System</org>
+        <person class="online_producer">Bernanke, Ben S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE2D61F30F933A25755C0A9619C8B63" item-length="562" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Time, Sensitivity To Prices</hl1>
+        <hl2 class="online_headline">This Time, Sensitivity to Prices</hl2>
+      </hedline>
+      <byline class="print_byline">By CONRAD DE AENLLE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Federal Reserve chairman uttered the same message -- inflation remains a threat and economic growth resilient -- but it must have sounded different. Many similar warnings have caused barely a ripple on Wall Street, but after the Fed chief, Ben S. Bernanke, reiterated them early last week in remarks to a conference of bankers, bond yields rose and the stock market sank.</p>
+        <p>Although the markets regained some lost ground on Friday, a full calendar of economic reports this week, including two that track widely followed gauges of inflation, could mean treacherous going for traders. That is especially true if, as the recent moves in stocks and bonds suggest, investors have changed their outlooks on inflation and interest rates.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Although the markets regained some lost ground recently, a full calendar of economic reports could mean treacherous going for traders.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Federal Reserve chairman uttered the same message -- inflation remains a threat and economic growth resilient -- but it must have sounded different. Many similar warnings have caused barely a ripple on Wall Street, but after the Fed chief, Ben S. Bernanke, reiterated them early last week in remarks to a conference of bankers, bond yields rose and the stock market sank.</p>
+        <p>Although the markets regained some lost ground on Friday, a full calendar of economic reports this week, including two that track widely followed gauges of inflation, could mean treacherous going for traders. That is especially true if, as the recent moves in stocks and bonds suggest, investors have changed their outlooks on inflation and interest rates.</p>
+        <p>How crucial does Stuart Schweitzer, a global strategist at JPMorgan Private Bank, consider the May reports on producer prices (to be announced Thursday) and on consumer prices (the day after)?</p>
+        <p>''Inflation is the answer to every question here,'' he said. ''If we get a scare on inflation at a time when people are already nervous that growth is reaccelerating, it would have the potential to be quite damaging to investor psychology.''</p>
+        <p>Inflation data has been remarkably stable, showing monthly increases of 0.2 percent, excluding food and energy items, for consumer and producer prices for much of the last year or so. The numbers are hardly budging and neither, apparently, are Mr. Bernanke's thoughts on the subject. But anxiety about future price increases, and the steps that the central bank may have to take to curb them, seems to be mounting.</p>
+        <p>Yields on 10-year Treasury notes have risen by more than half a percentage point in the last three months, passing 5 percent last week. Until then, the stock market seemed immune to the concerns that evidently drove Treasury yields higher, but a yield above 5 percent may change the math that investors use to decide whether stocks or bonds offer better value.</p>
+        <p>A Bloomberg News poll of economists forecasts monthly increases yet again of 0.2 percent for each of the core inflation figures, which Mr. Schweitzer described as ''reasonable estimates.'' He warned, however, that with traders on edge, the response to any deviation from the forecast might be unreasonable.</p>
+        <p>''Good news won't be taken quite as well as it would have been recently, and bad news will be taken harder,'' he predicted. ''If anything, the risk of renewed inflation has gone up, and with that comes a risk of higher interest rates and indigestion by equity investors.''</p>
+        <p>But that condition could turn out to be the cure for a different ailment. The lessening of investor enthusiasm ''is a very healthy thing,'' Mr. Schweitzer said.</p>
+        <p>''Too much good news would create the risk of people taking excessive risks and thereby creating problems down the road,'' he said. ''It's good for people to have a little restraint and worry a bit.''</p>
+        <p>DATA WATCH -- The consumer price report is one of many items on the agenda on Friday. Another is the nation's current-account deficit; the Bloomberg poll forecasts that it expanded to $202.8 billion in the first quarter from $195.8 billion.</p>
+        <p>Figures released later that morning are expected to show weak manufacturing conditions in May. Industrial production is estimated to have risen by 0.2 percent after a 0.7 percent increase the previous month; capacity utilization is expected to remain at 81.6 percent.</p>
+        <p>MARKET WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

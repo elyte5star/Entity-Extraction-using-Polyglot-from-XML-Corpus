@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yahoo Board Survives Move To Vote Out Some Officials</title>
+    <meta content="13yahoo" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/technology/13yahoo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854187"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Boards of Directors</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Yahoo Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EED6173FF930A25755C0A9619C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yahoo Board Survives Move To Vote Out Some Officials</hl1>
+        <hl2 class="online_headline">Dissident Shareholders Send Message to Yahoo</hl2>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SANTA CLARA, Calif., June 12</dateline>
+      <abstract>
+        <p>Yahoo says about one third of its shareholders voted against re-election of one or more company directors; vote against some directors had been recommended by three Wall Street advisory firms who complained about what they described as excessive executive pay; Yahoo shareholders reject approximately 2-to-1 proposal that would have tied executive compensation to competitive performance; also reject proposals to establish committee to oversee Yahoo's human rights practices and to require company to fight censorship and protect freedom of access to Internet in countries with repressive regimes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yahoo said on Tuesday that about a third of its shareholders had voted against the re-election of one or more company directors. The vote against some directors had been recommended by three Wall Street advisory firms who complained about what they described as excessive executive pay.</p>
+        <p>During the annual meeting of stockholders here, Yahoo officials said that all members of the board had been re-elected with 66 percent or more of the votes. The company would not give more details about how many votes each director had received.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>About a third of stockholders voted against the re-election of one or more company directors, heeding the advice of advisory firms.</p>
+      </block>
+      <block class="full_text">
+        <p>Yahoo said on Tuesday that about a third of its shareholders had voted against the re-election of one or more company directors. The vote against some directors had been recommended by three Wall Street advisory firms who complained about what they described as excessive executive pay.</p>
+        <p>During the annual meeting of stockholders here, Yahoo officials said that all members of the board had been re-elected with 66 percent or more of the votes. The company would not give more details about how many votes each director had received.</p>
+        <p>''That's one of the larger no votes of the year,'' said Patrick McGurn, executive vice president of Institutional Shareholder Services, one of the firms that advised shareholders to withhold votes for three directors on the company's compensation committee. ''I think it does send a significant message on compensation.''</p>
+        <p>I.S.S., along with Glass Lewis and Proxy Governance, criticized the compensation committee for awarding bonus and retention pay in the form of 6.8 million stock options to Terry S. Semel, Yahoo's chief executive, in a year when the company's shares dropped nearly 35 percent. I.S.S. valued Mr. Semel's pay in 2006 at $107.5 million, making him one of the nation's best-paid executives.</p>
+        <p>Separately, Yahoo shareholders rejected approximately 2-to-1 a proposal that would have tied executive compensation to competitive performance. They also rejected, by wider margins, proposals to establish a committee to oversee Yahoo's human rights practices and to require the company to fight censorship and protect freedom of access to the Internet in countries with repressive regimes.</p>
+        <p>Human rights groups have criticized Yahoo for helping Chinese authorities identify dissidents who were later imprisoned. Some of those dissidents and their relatives have recently sued Yahoo in federal court.</p>
+        <p>Jerry Yang, Yahoo's co-founder and ''chief Yahoo,'' said at the meeting that the company had been actively lobbying the United States government to assist Internet companies in fighting censorship and protecting human rights in countries like China. Yahoo has also been working with academics, nongovernmental organizations and others to create a set of principles to protect freedom of expression, he said.</p>
+        <p>''Yahoo is committed to protecting human rights globally,'' Mr. Yang said. His presentation drew a round of applause from many of the estimated 100 shareholders.</p>
+        <p>During the meeting, Mr. Semel gave an upbeat presentation about the company's recent accomplishments and its prospects.</p>
+        <p>But Eric Jackson, a shareholder who had mounted an online campaign critical of management, questioned that assessment.</p>
+        <p>''I am surprised that you didn't apologize to the Yahoo shareholders for the last three years of Yahoo performance,'' Mr. Jackson said. ''We heard the mission, we heard the strategy repeated here this morning. I think we are left with questions of how you are going to execute this strategy.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

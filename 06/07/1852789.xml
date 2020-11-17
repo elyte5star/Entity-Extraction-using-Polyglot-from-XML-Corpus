@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Database to Crime Scene: Network Is Potent Police Weapon</title>
+    <meta content="07real" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/nyregion/07real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852789"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4D61E30F934A35755C0A9619C8B63" item-length="1461" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Database to Crime Scene: Network Is Potent Police Weapon</hl1>
+        <hl2 class="online_headline">From Database to Crime Scene: Network Is Potent Police Weapon</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By the time a police van pulled up outside a Morningside Heights apartment on April 14 where a 23-year-old Columbia University graduate student had been tortured for 19 hours, her assailant was long gone. But inside the van, laptop computers were humming with a wireless link to a high-tech nerve center in Police Headquarters, next to the Manhattan approach to the Brooklyn Bridge.</p>
+        <p>The student survived the ordeal, and when an arrest was made five days later, the case was considered another success for the New York Police Department's sophisticated anticrime computer network, which matched a nickname to a suspect. Now two years old, the technical initiative has evolved into one of the department's most potent crime-fighting tools.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Now two years old, a police search engine has evolved into one of the department’s most potent crime-fighting tools.</p>
+      </block>
+      <block class="full_text">
+        <p>By the time a police van pulled up outside a Morningside Heights apartment on April 14 where a 23-year-old Columbia University graduate student had been tortured for 19 hours, her assailant was long gone. But inside the van, laptop computers were humming with a wireless link to a high-tech nerve center in Police Headquarters, next to the Manhattan approach to the Brooklyn Bridge.</p>
+        <p>The student survived the ordeal, and when an arrest was made five days later, the case was considered another success for the New York Police Department's sophisticated anticrime computer network, which matched a nickname to a suspect. Now two years old, the technical initiative has evolved into one of the department's most potent crime-fighting tools.</p>
+        <p>At its core, the network, housed in a windowless eighth-floor room at One Police Plaza, is a search engine, not unlike Google or Yahoo, that can quickly relay information to officers in the field. Teams of detectives inside the room, which the Police Department calls the Real Time Crime Center, peer into computer screens and plot cases on a 15-foot-high video screen that can display maps, diagrams, satellite images and surveillance camera photos. Some of the data they provide is routine police investigative material, like criminal complaints, a suspect's criminal history and past home addresses.</p>
+        <p>But the center also stitches together the kind of information that has traditionally been buried in precinct file cabinets or detectives' notebooks: the names of people who have visited a convict in city jails and New York State prisons, aliases, recordings of all 911 calls made from any address in the city over the last 10 years and lists of tattoos, scars and nicknames of known felons.</p>
+        <p>The nickname database provided a critical piece of evidence in the Columbia student case that helped the police track down a 30-year-old former convict: The police said he was known to some people as Pooh.</p>
+        <p>''We have lots of information, but the question is how to access it in a timely way,'' said Police Commissioner Raymond W. Kelly. The department has not quantified how many cases have been solved, or arrests made, as a direct result of the new technology, Mr. Kelly said. ''A lot of times it is not easy to say a particular case benefited significantly, because detectives are always doing critical work at the same time,'' he said.</p>
+        <p>Law enforcement experts said the crime center was the department's most important technological initiative since the early 1990s, when it created Comstat, a system that uses computers to track crime patterns across the city and deploy officers accordingly. Comstat is regarded as an important factor in the steep reduction in the city's crime rate.</p>
+        <p>''Comstat looks at things that have already happened,'' Mr. Kelly said. The current push, he said, is to ''look at things in the moment.''</p>
+        <p>Still, the Police Department, like many police agencies, has been slower than many businesses to incorporate the latest information technology into its day-to-day work, experts say.</p>
+        <p>''They've been on the trailing edge of technology,'' said Dennis Smith, a law enforcement expert at New York University. He said Comstat was made possible when William J. Bratton, the police commissioner at the time, sent his staff to computer stores to buy the department's first desktop personal computers, replacing an outdated mainframe system.</p>
+        <p>''Very few operations outside the Soviet Union were so centralized,'' Mr. Smith said, referring to the old mainframe. He said the crime center ''is like something dropped from outer space in terms of what it can do.''</p>
+        <p>Police officials said the center's databases include law enforcement records dating back 15 years, which will be extended to 25 years by this fall. And though the center was originally used only to investigate homicides or serious violent crimes, it now assists in any case brought to it by detectives or precinct commanders.</p>
+        <p>''We are freeing up detectives in the field,'' said Deputy Inspector Kenneth G. Mekeel, the crime center's commander. Time-consuming searches through paper files can now be completed in minutes on laptop computers in police precincts linked to the center, he said. The center also has a fleet of 11 computer-equipped vans that can, among other things, show photos of suspects or gather composite sketches from witnesses at crime scenes while memories are still fresh.</p>
+        <p>But the very potential of the crime center's data-gathering effort worries some civil libertarians, who question whether it might lead the police to invade the privacy of innocent citizens.</p>
+        <p>Donna Lieberman, executive director of the New York Civil Liberties Union, cautioned that any time a name is entered into a police database, even when the person is innocent of a crime, he or she can unknowingly become a target.</p>
+        <p>''It's the 'round up the usual suspects' syndrome,'' she said. According to a police report provided to the City Council, she said, the police recorded the names and addresses of people involved in more than 500,000 stops and searches in 2006, even though 90 percent were not charged with any crime.</p>
+        <p>Paul J. Browne, a spokesman for the department, said Ms. Lieberman's comments were ''specious charges'' that had ''no connection to'' the crime center. He said that officers were required under city law to keep records of everyone who is stopped and searched, and that as a result, that information had been fed into the crime center.</p>
+        <p>Mr. Browne said that the center's focus was mainly ''conventional crime,'' not the investigation into terrorism, which is a chief responsibility of the Joint Terrorism Task Force, a unit that includes the city police, the Federal Bureau of Investigation and other agencies. But on occasion, the center may be called in, he said.</p>
+        <p>While the department has not compiled statistics on the performance of the crime center, the police point to several cases in which the center's database played a pivotal role.</p>
+        <p>One was the arrest of a man in the armed robbery of a Sbarro's restaurant in Manhattan; a witness said the robber had ''Sugar'' tattooed on his neck. A search of the department's tattoo database yielded the names of several female prostitutes with ''Sugar'' tattoos, along with a man who wore the tattoo and was ultimately charged with the crime, officials said.</p>
+        <p>Mr. Browne described the case of a scam artist who had posed as a utility repair man to enter and rob the apartments of elderly people, and had in one instance left a scrap of paper with a phone number written on it. Although the phone number could not be traced to an individual account, a search of the department's database of 911 calls found that someone had called the police from the same number, which turned out to belong to a nightclub, and left his home address with the 911 operator. When that caller was contacted, he led detectives to a man who was charged as the scam artist.</p>
+        <p>The case of the assault of the Columbia student in April may prove the most important victory so far for the crime center because of the gravity of the crime, police officials said. The woman was raped, burned with bleach, force-fed an overdose of a pain reliever and her eyelids were slit with a scissors.</p>
+        <p>Before leaving, the police said, her assailant set fire to her futon and left her unconscious. She awoke to the smell of smoke and was able to escape.</p>
+        <p>Lt. Adam I. Lamboy, the commander of the Manhattan Special Victims Squad, who led the investigation, said the first breakthroughs came quickly: The victim was able to describe her assailant, and another building resident recalled seeing a man she did not know enter the building the night before.</p>
+        <p>That resident was taken outside to a crime center van, Lieutenant Lamboy said, where her description and the one given by the victim were used to construct a composite computer image.</p>
+        <p>Detectives followed another lead provided by the student, who said her assailant had at one point left her apartment with her A.T.M. card. Detectives tracked down an A.T.M. at a bodega on West 141st Street, where the card had been used, and a security camera had captured an image of a man who resembled the police composite sketch.</p>
+        <p>After the image was made public, two callers said it was a man who went by the nickname of Pooh. The nickname database linked ''Pooh'' to a man named Robert A. Williams, who had been convicted of attempted murder in 1996 and served eight years in prison.</p>
+        <p>Mr. Williams's prison photograph was shown to officers at precinct roll calls across the city, beginning on the morning of April 19. He was arrested that night after he was spotted by officers walking out of a building in Hollis, Queens, where a burglary had been reported.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

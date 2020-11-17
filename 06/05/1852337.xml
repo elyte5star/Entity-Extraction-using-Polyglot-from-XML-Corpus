@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Minority Could Rule In a Fight for Dow Jones</title>
+    <meta content="05place" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/05/business/media/05place.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852337"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MARKET PLACE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Market Place</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Dow Jones &amp; Co</org>
+        <person class="online_producer">Murdoch, Rupert</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7D91130F936A35755C0A9619C8B63" item-length="907" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Minority Could Rule In a Fight for Dow Jones</hl1>
+        <hl2 class="online_headline">Family Dissidents Could Block Dow Jones Sale</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bancrofts, who control Dow Jones &amp; Company, are talking to Rupert Murdoch, and Wall Street clearly expects that most of the family's members will agree to sell their company to the company Mr. Murdoch controls.</p>
+        <p>But could a family minority block such a sale? Under certain circumstances it is possible, because of the nature of the supervoting stock at Dow Jones, which could allow a minority of the family to veto the sale even if the rest of the family backed a transaction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Due to the nature of the supervoting stock at Dow Jones, a minority of the family could veto the sale even if the rest of the family backed a transaction.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bancrofts, who control Dow Jones &amp; Company, are talking to Rupert Murdoch, and Wall Street clearly expects that most of the family's members will agree to sell their company to the company Mr. Murdoch controls.</p>
+        <p>But could a family minority block such a sale? Under certain circumstances it is possible, because of the nature of the supervoting stock at Dow Jones, which could allow a minority of the family to veto the sale even if the rest of the family backed a transaction.</p>
+        <p>''Unlike some controlling shareholders, the Bancrofts cannot sell control,'' said Jeffrey N. Gordon, a professor at Columbia Law School who has written extensively on dual-class share ownership.</p>
+        <p>''This raises the possibility,'' he added, ''that a minority of the family could block the sale.''</p>
+        <p>Under Dow Jones rules, Class B shares have 10 votes a share, while Class A shares -- those traded on the New York Stock Exchange -- have but one vote a share. When Class B shares are sold, however, they become Class A shares and lose their special voting rights. That increases the relative weight of the remaining Class B shares.</p>
+        <p>There are now just over 20 million Class B shares outstanding -- 82 percent of them controlled by the Bancroft family and an additional 6 percent controlled by members of the Ottaway family, who have been strong opponents of a sale to Mr. Murdoch. There were 63.8 million Class A shares at the end of March, but at least an additional million have been issued since then, as employee stock options were exercised.</p>
+        <p>The $60-a-share offer from Mr. Murdoch's company, the News Corporation, has touched off anguish within the family and within the staff of The Wall Street Journal, which Dow Jones owns, because of concerns about how Mr. Murdoch may seek to influence the paper.</p>
+        <p>The Bancroft family initially said that it rejected Mr. Murdoch's offer, but then agreed last week to meet with him yesterday. The company's shares closed yesterday at $60.16, down $1.04 on the day.</p>
+        <p>The rise in the company's share price over the $60 offer reflects the expectation that the family will persuade Mr. Murdoch to raise his offer and will then accept it. That could happen, but it appears that Mr. Murdoch could not simply make a tender offer. Buying some Class B shares would simply raise the relative voting power of the remaining Class B shares.</p>
+        <p>At least theoretically, investors owning just 9.1 percent of the stock, or less than eight million shares, could control the company if those were the only Class B shares left outstanding after the other shares were sold to Mr. Murdoch.</p>
+        <p>Professor Gordon conceded that it might be possible to structure a transaction as a merger, so that the Bancroft family members who back the deal would maintain their voting rights when the deal was approved, despite disapproval from other family members.</p>
+        <p>But, he added, ''in that case, Murdoch probably wouldn't get shareholder agreements from family members to vote in favor of the merger, out of concern that such agreements could possibly trigger the conversion.'' That, he said, would add a lot of uncertainty while the deal was pending.</p>
+        <p>The possible complications reflect the differing types of dual-class ownership that have been adopted by companies where the founders -- or their successors -- wished to maintain control long after they had sold most of the economic ownership in the company.</p>
+        <p>In some cases -- among them the News Corporation itself -- the voting shares are freely transferable. Both classes of News Corporation shares trade, with the voting shares fetching a small premium to the nonvoting shares. The News Corporation nonvoting shares closed yesterday at $22.57, while the voting shares were at $24.10.</p>
+        <p>When founding families can sell control, they can also get a premium for it. Donald J. Trump took control of Resorts International, the first company to build a casino in Atlantic City, by purchasing voting shares for a high price, with the nonvoting shares eventually selling for far less. Both classes had traded for similar amounts.</p>
+        <p>At Dow Jones, as at some other companies, among them The New York Times Company and The Washington Post Company, the supervoting shares cannot be sold to the public without losing their supervoting status, although they can be inherited. That provision assures public investors that if the company is sold, all shareholders will be treated equally. But it means that a sale can be blocked by the supervoting holders if they wish to keep their stock.</p>
+        <p>In the case of Dow Jones, the members of the Bancroft family are descendants of Clarence W. Barron, who bought control of the company more than a century ago. Dow Jones did not establish the dual-share system until 1986, when a stock split gave every shareholder one supervoting share for every two shares of ordinary stock, which became Class A stock.</p>
+        <p>Most shareholders have long since sold their Class B shares, resulting in a conversion into Class A shares. But the Ottaway family -- which had sold the Ottaway newspapers, a chain of local papers, to Dow Jones -- retained their stake, and thus is the other family with a substantial voting interest in the Class B shares.</p>
+        <p>Much of the Bancroft family stock is held in a series of trusts, but details of the trusts have not been made public, and it is not clear just how any family disagreements on a possible sale will be sorted out.</p>
+        <p>MARKET PLACE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

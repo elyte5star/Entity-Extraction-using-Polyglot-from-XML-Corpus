@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beaches Reopened After Sewage Spill</title>
+    <meta content="10weeknjNJ" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853579"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Beaches</classifier>
+        <classifier class="indexing_service" type="descriptor">Pipelines</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Capuzzo, Jill P</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pipelines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E6DD1F30F933A25755C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beaches Reopened After Sewage Spill</hl1>
+      </hedline>
+      <byline class="print_byline">By JILL P. CAPUZZO</byline>
+      <byline class="normalized_byline">Capuzzo, Jill P</byline>
+      <abstract>
+        <p>Swimming bans at beaches from Deal south to Bradley Beach, NJ, are lifted after spill of thousands of gallons of partly treated sewage from broken pipe at Asbury Park waste treatment plant; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beach season at the Jersey Shore got off to an ominous start when the water from Deal south to Bradley Beach was closed to swimmers Tuesday after thousands of gallons of partly treated sewage escaped from a broken pipe at an Asbury Park waste treatment plant.</p>
+        <p>But with new water samples showing contaminants to be within allowable levels, the swimming bans at the affected beaches were lifted Wednesday afternoon.</p>
+      </block>
+      <block class="full_text">
+        <p>Beach season at the Jersey Shore got off to an ominous start when the water from Deal south to Bradley Beach was closed to swimmers Tuesday after thousands of gallons of partly treated sewage escaped from a broken pipe at an Asbury Park waste treatment plant.</p>
+        <p>But with new water samples showing contaminants to be within allowable levels, the swimming bans at the affected beaches were lifted Wednesday afternoon.</p>
+        <p>''All the samples that came in were within acceptable standards,'' said Elaine Makatura, spokeswoman for the State Department of Environmental Protection. ''Everything looked good, and the beaches were opened.''</p>
+        <p>Nevertheless, the department is awaiting a final report from Monmouth County health officials to determine what happened at the plant early Tuesday and whether any enforcement action is warranted, Ms. Makatura said.</p>
+        <p>The spill came after a 12-inch steel pipe ruptured between 3 and 7 a.m. Tuesday, when workers reported for the morning shift. The treatment plant is unmanned between 5 p.m. and 7 a.m. The spill was contained by 9 a.m., after about 250,000 gallons of partly treated, chlorinated sewage had been discharged into the ocean via the plant's 1,700-foot ocean outfall pipe.</p>
+        <p>Signs barring swimmers from using beaches along the four miles of coastline were not posted in some sites until Tuesday afternoon.</p>
+        <p>United States Representative Frank Pallone Jr., whose district includes the affected beaches, and Senator Frank R. Lautenberg recently introduced the Beach Protection Act, which would tighten the time frame for water testing and public notification.</p>
+        <p>Mr. Pallone also announced plans last week to introduce legislation requiring all sewage treatment facilities to install alarm systems to detect such accidents. According to county and state officials, the Asbury Park plant has alarm systems, but no alarm sounded to alert officials about the broken pipe.</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

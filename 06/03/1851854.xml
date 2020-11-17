@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kathleen Rubenstein, Hays Golden</title>
+    <meta content="03rubenstein" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/fashion/weddings/03rubenstein.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Rubenstein, Kathleen Bassi (Kathleen Bassi Golden)</person>
+        <person class="indexing_service">Golden, Hays Nathaniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDF1230F930A35755C0A9619C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kathleen Rubenstein, Hays Golden</hl1>
+        <hl2 class="online_headline">Kathleen Rubenstein, Hays Golden</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathleen Bassi Rubenstein, a daughter of Laurie J. Bassi and Herbert R. Rubenstein of Golden, Colo., is to be married today to Hays Nathaniel Golden, the son of Trudy Anna Legge Golden and Arthur Golden of Brookline, Mass. The ceremony, at Saltmeadows, the summer home of the bridegroom's parents in South Dartmouth, Mass., will be led by Jason B. Rubenstein, the bride's brother, who has permission to officiate from the Commonwealth of Massachusetts.</p>
+        <p>The bride and bridegroom met at the University of Chicago, from which they graduated. Both expect to return to the university in September; she is to begin studying for a law degree and he is to begin studying for a Ph.D. in economics.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Kathleen Bassi Rubenstein, a daughter of Laurie J. Bassi and Herbert R. Rubenstein of Golden, Colo., is to be married today to Hays Nathaniel Golden, the son of Trudy Anna Legge Golden and Arthur Golden of Brookline, Mass. The ceremony, at Saltmeadows, the summer home of the bridegroom’s parents in South Dartmouth, Mass., will be led by Jason B. Rubenstein, the bride’s brother, who has permission to officiate from the Commonwealth of Massachusetts.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathleen Bassi Rubenstein, a daughter of Laurie J. Bassi and Herbert R. Rubenstein of Golden, Colo., is to be married today to Hays Nathaniel Golden, the son of Trudy Anna Legge Golden and Arthur Golden of Brookline, Mass. The ceremony, at Saltmeadows, the summer home of the bridegroom's parents in South Dartmouth, Mass., will be led by Jason B. Rubenstein, the bride's brother, who has permission to officiate from the Commonwealth of Massachusetts.</p>
+        <p>The bride and bridegroom met at the University of Chicago, from which they graduated. Both expect to return to the university in September; she is to begin studying for a law degree and he is to begin studying for a Ph.D. in economics.</p>
+        <p>The bride, 22, is a paralegal at Loevy &amp; Loevy, a civil rights law firm in Chicago. Her father oversees strategic planning and fund-raising for the Autism Society of Colorado in Denver. Her mother is an economist and a founder and the chief executive of McBassi &amp; Company, a survey research firm in Golden that specializes in management efficiency.</p>
+        <p>The bridegroom, 23, is a research associate at the Becker Center on Chicago Price Theory, an economics research center at the University of Chicago Graduate School of Business.</p>
+        <p>His father is a freelance writer and the author of ''Memoirs of a Geisha'' (Knopf, 1997).</p>
+        <p>The bridegroom's father is a cousin of Arthur Sulzberger Jr., the chairman of The New York Times Company and the publisher of The New York Times, and a brother of Michael Golden, the company's vice chairman and the publisher of The International Herald Tribune.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SAINER, JANET S.</title>
+    <meta content="dn060807" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852854"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">SAINER, JANET S.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DB143AF93BA35755C0A9619C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SAINER, JANET S.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SAINER--Janet S. The NYC Family Caregiver Coalition expresses deepest sympathy to the family of our founding member and mentor, Janet S. Sainer. Each of us has been greatly enriched by her wisdom, her kindness, her largess, her knowledge, her creativity and her generosity of spirit and love. Rev. Gregory L. Johnson and James O'Neal, Co-Chairs</p>
+        <p>$(6$)SAINER--Janet. The Board and staff of the Community Service Society of New York mourn the loss of a friend and innovator. Her pioneering work in engaging older adults in service to their communities led to the creation of the Retired and Senior Volunteer Program, now a national program with over 7,500 volunteers in New York City alone. Her leadership in policy, practice, and service for New York City remains an inspiration. Our deepest sympathy goes to her family. David R. Jones, Pres. &amp; CEO Community Service Society</p>
+      </block>
+      <block class="full_text">
+        <p>SAINER--Janet S. The NYC Family Caregiver Coalition expresses deepest sympathy to the family of our founding member and mentor, Janet S. Sainer. Each of us has been greatly enriched by her wisdom, her kindness, her largess, her knowledge, her creativity and her generosity of spirit and love. Rev. Gregory L. Johnson and James O'Neal, Co-Chairs</p>
+        <p>$(6$)SAINER--Janet. The Board and staff of the Community Service Society of New York mourn the loss of a friend and innovator. Her pioneering work in engaging older adults in service to their communities led to the creation of the Retired and Senior Volunteer Program, now a national program with over 7,500 volunteers in New York City alone. Her leadership in policy, practice, and service for New York City remains an inspiration. Our deepest sympathy goes to her family. David R. Jones, Pres. &amp; CEO Community Service Society</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

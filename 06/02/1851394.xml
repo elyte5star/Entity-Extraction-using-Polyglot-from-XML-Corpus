@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Riding a Deceptive Discard To Victory in the Easterns</title>
+    <meta content="02card" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/02/crosswords/bridge/02card.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851394"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cards and Card Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0D81330F931A35755C0A9619C8B63" item-length="468" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Riding a Deceptive Discard To Victory in the Easterns</hl1>
+        <hl2 class="online_headline">Riding a Deceptive Discard to Victory in the Easterns</hl2>
+      </hedline>
+      <byline class="print_byline">By Phillip Alder</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Reisinger Knockout is the premier team event at the Eastern States Regional, which concluded last weekend in Manhattan. The 10 teams were divided into two groups of five, from which four teams qualified for the semifinals. The final was won by Christal Henner-Welland, Uday Ivatury, Roy Welland and Chris Willenken of New York and Steve Garner of Chicago. They defeated Robert Blanchard, Sam Lev and James Rosenbloom of New York; Grant Baze of San Diego; Gary Cohler of Miami; and Reese Milner of Los Angeles.</p>
+        <p>The diagramed deal was a big swing in favor of the winners.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Reisinger Knockout is the premier team event at the Eastern States Regional, which concluded last weekend in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>The Reisinger Knockout is the premier team event at the Eastern States Regional, which concluded last weekend in Manhattan. The 10 teams were divided into two groups of five, from which four teams qualified for the semifinals. The final was won by Christal Henner-Welland, Uday Ivatury, Roy Welland and Chris Willenken of New York and Steve Garner of Chicago. They defeated Robert Blanchard, Sam Lev and James Rosenbloom of New York; Grant Baze of San Diego; Gary Cohler of Miami; and Reese Milner of Los Angeles.</p>
+        <p>The diagramed deal was a big swing in favor of the winners.</p>
+        <p>At both tables South was in three no-trump after the given auction, South bidding three no-trump more with the intention of trying to bluff his opponents out of four of a major than in the hope of making the contract.</p>
+        <p>In the other room Garner found a great opening lead: the heart queen. The contract went down three.</p>
+        <p>At this table West led his spade six, second-highest from a weak suit. East won with his king, as the declarer, Willenken, dropped his jack.</p>
+        <p>East, knowing that his partner could not have led his fourth-highest spade, probably -- and here, definitely -- should have shifted to the heart jack, but he returned the spade ten. This was also debatable because it implied that he had started with only three spades. If he had led back the spade four, West would have known for sure what was happening in the suit.</p>
+        <p>South, after winning with his spade queen, led the club three to dummy's jack and ran the diamond queen, hiding a second deuce by playing his eight. West won with his diamond king and returned a diamond.</p>
+        <p>Declarer judged that from West's passive defense, he held the heart ace. So now it became a battle between West and South. Would West read the endgame correctly, or would South mislead him?</p>
+        <p>Declarer started to run the diamond suit. East discarded first the heart deuce, discouraging, then the heart three, showing an odd number of cards remaining. But West was unsure, wondering if East's heart deuce was a count signal because he was known to have no useful cards remaining.</p>
+        <p>This position was reached:</p>
+        <p>On the final diamond, East threw a heart, South the club queen, and West the spade eight. Declarer cashed dummy's spade ace, East pitching his last club, and South the heart nine.</p>
+        <p>West had to decide. Did South have the club king and king-doubleton of hearts left, or king-doubleton of clubs and the heart king?</p>
+        <p>Eventually he went wrong, discarding his heart queen. Willenken exited with a heart from the board and scored his club king at Trick 13 to make the contract.</p>
+        <p>Plus 150 and plus 400 gave the champions 11 international match points on the board.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

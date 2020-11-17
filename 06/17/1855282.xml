@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bird's Decline Is Traced To Egg Shortage (in Its Diet)</title>
+    <meta content="17weeknjNJ-2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1855282"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <classifier class="indexing_service" type="descriptor">Red Knot (Bird)</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="indexing_service" type="descriptor">Horseshoe Crabs</classifier>
+        <location class="indexing_service">Delaware</location>
+        <location class="indexing_service">Delaware Bay</location>
+        <person class="indexing_service">Strauss, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Delaware</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E1DE123FF934A25755C0A9619C8B63" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bird's Decline Is Traced To Egg Shortage (in Its Diet)</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT STRAUSS</byline>
+      <byline class="normalized_byline">Strauss, Robert</byline>
+      <abstract>
+        <p>New Jersey Department of Environmental Conservation has determined that over-harvesting of horseshoe crabs in New Jersey, primarily Delaware Bay, may have resulted in decline in population of red knots, birds that migrate north in spring from Tierra Del Fuego to Arctic; expresses concern that Delaware court decision overturning limiting of horseshoe crab catches could further harm birds (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nature has some strange symbioses, and one of them involves a longtime and long-distance migratory bird, horseshoe crabs, eels and New Jersey.</p>
+        <p>For thousands of years, the bird, the red knot, has been migrating north in the spring from Tierra Del Fuego, at the southern tip of South America, to the Arctic, where it nests and breeds, said John S. Watson Jr., deputy commissioner of the State Department of Environmental Protection.</p>
+      </block>
+      <block class="full_text">
+        <p>Nature has some strange symbioses, and one of them involves a longtime and long-distance migratory bird, horseshoe crabs, eels and New Jersey.</p>
+        <p>For thousands of years, the bird, the red knot, has been migrating north in the spring from Tierra Del Fuego, at the southern tip of South America, to the Arctic, where it nests and breeds, said John S. Watson Jr., deputy commissioner of the State Department of Environmental Protection.</p>
+        <p>''Just as they become emaciated from their trip north, they reach New Jersey, primarily the Delaware Bay,'' Mr. Watson said.</p>
+        <p>There, the red knots feed on horseshoe crab eggs for a few days, fatten up, and are able to continue the rest of the way to the Arctic.</p>
+        <p>In recent years, though, bird-watchers have found the red knot population declining drastically. From annual totals of about 95,000 in the late 1980s and early '90s, the population has gone down to about 12,000 this spring. The Department of Environmental Protection determined that over-harvesting of horseshoe crabs might have been the problem, so last year, the department and its Delaware equivalent put a moratorium on the harvest. Most of the fishermen who caught the crabs sold the eggs for bait for whelk -- a conchlike shellfish -- and eel, and Mr. Watson said those fishermen had been diligent at finding other sources of bait.</p>
+        <p>Earlier this month, though, a Delaware court overturned the ruling there, and fishermen are now allowed to take as many as 100,000 male horseshoe crabs a year. While that will probably not affect the fly-through of the red knot this year, Mr. Watson said it would be a problem in years ahead.</p>
+        <p>''It looks bad for the red knot,'' he said of the bird, which, at least for the male, has an undertone of light red on its belly, though its feathers are primarily gray. ''While we're confident that our moratorium won't be overturned on a technicality, the fewer the horseshoe crab eggs available for the birds, the less chance they have for survival.''</p>
+        <p>ROBERT STRAUSS</p>
+        <p>THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

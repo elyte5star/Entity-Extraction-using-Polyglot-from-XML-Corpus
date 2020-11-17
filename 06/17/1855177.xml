@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Inflation Hedge May Be Worth a Second Look</title>
+    <meta content="17tips" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/business/yourmoney/17tips.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855177"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SUNDAY MONEY: INVESTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Government Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">o'hara, neil a</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DA153FF934A25755C0A9619C8B63" item-length="1255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Inflation Hedge May Be Worth a Second Look</hl1>
+        <hl2 class="online_headline">An Inflation Hedge May Be Worth a Second Look</hl2>
+      </hedline>
+      <byline class="print_byline">By NEIL A. O'HARA</byline>
+      <byline class="normalized_byline">o'hara, neil a</byline>
+      <abstract>
+        <p>An Inflation Hedge M</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THEY guarantee that your investment will be protected against inflation, but Treasury inflation-protected securities, known as TIPS, underperformed conventional Treasuries in 2005 and 2006.</p>
+        <p>That may be changing. The real yield offered by TIPS -- the core yield, without factoring in the inflation adjustment -- is near a five-year high. With fears of inflation unsettling the bond and stock markets, TIPS may now be an attractive addition to many investors' portfolios.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Treasury inflation-protected securities, known as TIPS, underperformed conventional Treasuries in 2005 and 2006.</p>
+      </block>
+      <block class="full_text">
+        <p>THEY guarantee that your investment will be protected against inflation, but Treasury inflation-protected securities, known as TIPS, underperformed conventional Treasuries in 2005 and 2006.</p>
+        <p>That may be changing. The real yield offered by TIPS -- the core yield, without factoring in the inflation adjustment -- is near a five-year high. With fears of inflation unsettling the bond and stock markets, TIPS may now be an attractive addition to many investors' portfolios.</p>
+        <p>A few quirks about TIPS need to be understood when comparing these securities with conventional Treasuries.</p>
+        <p>In exchange for inflation protection, TIPS, which were first issued in 1997, pay a lower coupon than other Treasury notes and bonds. They pay twice-a-year coupons, the way conventional Treasuries do, but there is a catch: the principal amount of TIPS varies over time to reflect increases or decreases in the urban Consumer Price Index. As long as inflation is positive, the principal grows -- and so do the coupon payments, which are calculated by applying the fixed coupon rate to whatever the principal is when an interest payment is due. In periods of deflation, the principal cannot fall below par -- its level when the security was issued.</p>
+        <p>TIPS also have a tax characteristic that investors should keep in mind. Although the inflation adjustment on the principal isn't actually paid until the bond matures, the federal government treats the principal accretion as income for tax purposes. Coupons are taxable, too, so investors won't see much cash in their pockets after paying tax on both amounts, although they won't owe any tax when the inflated principal is returned at maturity.</p>
+        <p>These unusual cash-flow characteristics make TIPS better suited to an Individual Retirement Account, 401(k) or other tax-deferred account. Alternatively, investors in taxable accounts can hold TIPS through mutual funds, which typically distribute in cash the principal adjustment at the end of each year as well as any coupon payments.</p>
+        <p>There is another possible problem for the unwary: If the price index falls, previous positive adjustments start to erode. While investors are protected from loss of principal when they buy newly issued TIPS, they can incur losses if they go to the secondary market to buy seasoned TIPS that have significant accreted principal and prolonged deflation takes hold.</p>
+        <p>Under these circumstances, investors still get the real yield they bargained for, but seasoned issues can expose investors to a risk of capital loss. ''The market doesn't assign a premium for newly minted TIPS, but in some respects it should,'' said Dan Shackelford, a vice president at T. Rowe Price who manages its New Income fund and its Inflation Protected Bond fund. Investors can avoid the risk if they participate in the Treasury's periodic auctions of 5-, 10- and 20-year TIPS, or buy in the secondary market soon after the date of issue.</p>
+        <p>TIPS are sold in minimum denominations of $1,000, so for small investors Series I Savings Bonds may be a better bet. Available in denominations as small as $50 but limited to a maximum of $30,000 a person per calendar year, the Series I bonds earn a fixed coupon (currently 1.30 percent) and a twice-a-year inflation adjustment, in May and November. The annualized composite yield on bonds issued today is 3.74 percent.</p>
+        <p>Both the coupon and the inflation adjustment accrue to the principal amount paid at maturity, but although subject to federal income tax, the holder can defer tax payments until maturity.</p>
+        <p>As is the case with TIPS, the inflation adjustment for the I bonds can move both ways but the original principal is guaranteed. The I bonds are not transferable but can be redeemed after the first 12 months, though there is a penalty of three months' accrued interest if they are redeemed in the first five years.</p>
+        <p>How are interest and principal payments calculated for TIPS? Suppose that an investor pays $100,000 at a Treasury auction for TIPS with a 2.5 percent coupon and the price index rises 1.5 percent over the next six months. The first of the year's two interest payments will be $1,268.75, half the 2.5 percent coupon rate applied to the principal, which has grown to $101,500. The TIPS coupon rate never changes, but coupon payments rise in lock step with increases in the principal amount.</p>
+        <p>Conventional Treasuries offer fixed returns, which may be higher or lower than the return on TIPS of the same maturity, depending on the inflation rate. For example, the yield on a 10-year conventional Treasury security is 5.16 percent, while the 10-year TIPS issue yields 2.73 percent. The difference -- 2.43 percentage points -- is the break-even spread. In other words, the return on the two securities will be identical if the annual inflation rate for the next 10 years is 2.43 percent.</p>
+        <p>''If your expectations for inflation over the maturity are greater than that break-even inflation rate you would be better off owning the TIPS, and vice versa,'' said Anne Briglia, senior fixed-income strategist at UBS Wealth Management Research.</p>
+        <p>At 2.43 percent, the current break-even is a far cry from the double-digit inflation rates in the late 1970s and early 1980s. While no one is predicting a return to those days, a combination of economic, geopolitical and demographic influences could push the inflation rate higher. Surging growth in China and India has already propelled commodity prices to record levels, persistent tensions in the Middle East could disrupt oil supplies and the impending retirement of the baby boomers may strain programs like Social Security and Medicare and raise the budget deficit, which could lead to a weaker dollar and higher prices for imported goods.</p>
+        <p>TIPS look much more attractive today than they did at the end of 2004, when real yields hovered near historical lows, ranging from around 1 percent on the five-year version to 2 percent on the 20-year. Yields have since moved up and the real yield curve has flattened, for the most part, with five-year TIPS at 2.68 percent and the 20-year at 2.72 percent.</p>
+        <p>Mr. Shackelford suggests that a 2.5 percent real yield represents fair value; although real yields exceeded 3 percent in the years when TIPS were new and only a few issues were outstanding, he says he believes that those days are gone for good.</p>
+        <p>Of course, no one knows the level of future inflation. But even if investors, especially retirees, believe that the Fed will keep a lid on inflation, they should still have some TIPS in their portfolios, according to John Brynjolfsson, a managing director of Pimco in Newport Beach, Calif., and portfolio manager of the Pimco Real Return fund. Most investors own financial assets that provide little or no protection against inflation -- and conventional bonds actually drop in value when inflation ticks up.</p>
+        <p>''All your objectives as a retiree are real,'' Mr. Brynjolfsson says, ''You want to buy a real car, lease or own a real house and take real airplane flights to visit your grandkids.''</p>
+        <p>HOW much investors should hold in TIPS depends on many factors, including their age, risk tolerance and investment time horizon, according to Jack Malvey, chief global fixed-income strategist at Lehman Brothers.</p>
+        <p>As a general guideline, he suggests that investors in their 20s start with just 2 percent to 5 percent of their fixed-income portfolio in TIPS and move up toward 15 percent to 20 percent by retirement age.</p>
+        <p>It's not a hard-and-fast rule, however. Individual circumstances will often justify a different allocation, but, Mr. Malvey says, ''it has become legitimate financial policy for individual investors to have some portion of their portfolio in inflation-linked securities.''</p>
+        <p>SUNDAY MONEY: INVESTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

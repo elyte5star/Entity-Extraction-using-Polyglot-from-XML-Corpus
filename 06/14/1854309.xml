@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From the Prosaic to the Sublime: Simple or Flawed Objects Reborn</title>
+    <meta content="14china" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854309"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: HOUSEWARES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EFDC143FF937A25755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From the Prosaic to the Sublime: Simple or Flawed Objects Reborn</hl1>
+      </hedline>
+      <byline class="print_byline">By RIMA SUQI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most people discard chipped plates and never notice the way their kitchen drains look, but Joana Meroz, a Netherlands-based designer, treats these unwanted and unnoticed objects as a blank canvas. In her ''Ornamented Life'' collection, sold at the Future Perfect in Williamsburg, Brooklyn, Ms. Meroz embellishes cracked porcelain plates (and cups, bowls and serving pieces) with gold dust and plant-like drawings, left and above, making the undesirable desirable again. In her hands, a stainless-steel drain stopper, bottom left, takes on the look of lace, thanks to precise laser-cutting (although with a diameter of about 2 3/4 inches, it may be a tad small for the average American kitchen sink). The Crackery collection starts at $18 for a cup, and the drain stopper is $72; at the Future Perfect, 115 North Sixth Street (Berry Street), Brooklyn, (718) 599-6278.</p>
+        <p>RIMA SUQI</p>
+      </block>
+      <block class="full_text">
+        <p>Most people discard chipped plates and never notice the way their kitchen drains look, but Joana Meroz, a Netherlands-based designer, treats these unwanted and unnoticed objects as a blank canvas. In her ''Ornamented Life'' collection, sold at the Future Perfect in Williamsburg, Brooklyn, Ms. Meroz embellishes cracked porcelain plates (and cups, bowls and serving pieces) with gold dust and plant-like drawings, left and above, making the undesirable desirable again. In her hands, a stainless-steel drain stopper, bottom left, takes on the look of lace, thanks to precise laser-cutting (although with a diameter of about 2 3/4 inches, it may be a tad small for the average American kitchen sink). The Crackery collection starts at $18 for a cup, and the drain stopper is $72; at the Future Perfect, 115 North Sixth Street (Berry Street), Brooklyn, (718) 599-6278.</p>
+        <p>RIMA SUQI  CURRENTS: HOUSEWARES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

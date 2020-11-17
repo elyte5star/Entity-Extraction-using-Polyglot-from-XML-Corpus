@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Laborers Seek Back Wages In Lawsuits</title>
+    <meta content="12mbrfs-4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1854050"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EFD9173FF931A25755C0A9619C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Laborers Seek Back Wages In Lawsuits</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN FEUER; Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Asian-American Legal Defense and Education Fund filed four lawsuits yesterday on behalf of six Sikh and Bangladeshi laborers who are seeking to win thousands of dollars in what they claim are unpaid wages from five construction contractors. The suits -- one filed in Federal District Court in Manhattan, two in Federal District Court in Brooklyn and one in State Supreme Court in Queens -- accuse the companies of breach of contract and violations of minimum-wage laws at construction sites, including a veterans hospital in Northport and a residential building in the Bronx.</p>
+        <p>ALAN FEUER</p>
+      </block>
+      <block class="full_text">
+        <p>The Asian-American Legal Defense and Education Fund filed four lawsuits yesterday on behalf of six Sikh and Bangladeshi laborers who are seeking to win thousands of dollars in what they claim are unpaid wages from five construction contractors. The suits -- one filed in Federal District Court in Manhattan, two in Federal District Court in Brooklyn and one in State Supreme Court in Queens -- accuse the companies of breach of contract and violations of minimum-wage laws at construction sites, including a veterans hospital in Northport and a residential building in the Bronx.</p>
+        <p>ALAN FEUER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

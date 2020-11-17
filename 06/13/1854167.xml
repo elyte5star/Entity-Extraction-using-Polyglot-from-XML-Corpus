@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Glitch Blamed For Fire Alarm On Orbiter</title>
+    <meta content="13station" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/us/13station.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854167"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Station</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E5D6173FF930A25755C0A9619C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Glitch Blamed For Fire Alarm On Orbiter</hl1>
+        <hl2 class="online_headline">Glitch Blamed for Fire Alarm on Orbiter</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Astronauts and mission managers scrambled yesterday when a fire alarm went off on the Russian part of the International Space Station. Within 20 minutes, however, the problem was determined to be a software glitch.</p>
+        <p>After alarms clanged in the background and a Russian interpreter seemed to grow breathless trying to keep up with the stream of discussion on the alarm and the response, Clayton C. Anderson, an astronaut on the space station, called down to mission control and said, ''We looked around and smelled around,'' and found no evidence of fire.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Astronauts and mission managers scrambled on Tuesday when a fire alarm went off on the Russian part of the International Space Station.</p>
+      </block>
+      <block class="full_text">
+        <p>Astronauts and mission managers scrambled yesterday when a fire alarm went off on the Russian part of the International Space Station. Within 20 minutes, however, the problem was determined to be a software glitch.</p>
+        <p>After alarms clanged in the background and a Russian interpreter seemed to grow breathless trying to keep up with the stream of discussion on the alarm and the response, Clayton C. Anderson, an astronaut on the space station, called down to mission control and said, ''We looked around and smelled around,'' and found no evidence of fire.</p>
+        <p>In a briefing for reporters from Houston, mission managers said the alarm was set off by a problem with Russian computers that work with American ones to control the navigation and functions of the station.</p>
+        <p>When the Russian computers failed, control of the attitude of the station was transferred to small maneuvering jets on the space shuttle Atlantis. But in that mode of control, the station's solar panels rest in a poor position for gathering sunlight, so power levels dipped and mission control had to order some inessential equipment be turned off until attitude control could be turned back over to the station.</p>
+        <p>The false alarm added a touch of excitement to the fifth day of a space shuttle mission. On Tuesday, the station's two newest solar arrays were extended to their full 140-foot length, rippling and golden as the central mast pulled the fan-folded array out of its packing crate.</p>
+        <p>The panels will provide some 20,000 watts of power for the station.</p>
+        <p>John Shannon, the chairman of the mission management team, said his group was still studying how to repair a heat shield on one of the large maneuvering rocket pods of the shuttle that had pulled up.</p>
+        <p>Mr. Shannon also said a pressure sensor on the shuttle's wing leading edge had detected a jolt that analysts were looking into, but he added that since other sensors did not give off a similar signal, ''we don't feel there's an impact, just a little click.''</p>
+        <p>On Wednesday, astronauts will work from inside the station to retract a solar array that sits on top of the station. Once folded, the old array will eventually be moved to the side of the station. But the arrays have proved balky in the past.</p>
+        <p>Michael T. Suffredini, the program manager for the space station, said NASA had developed techniques to encourage the arrays to fold. If the array is stubborn, Mr. Suffredini said, spacewalking astronauts will be ready to coax it to retract.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

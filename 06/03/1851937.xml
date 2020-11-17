@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="03ctycorr-2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1851937"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cemeteries</classifier>
+        <classifier class="indexing_service" type="descriptor">Archives and Records</classifier>
+        <classifier class="indexing_service" type="descriptor">Woodlawn Cemetery (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Columbia University</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archives and Records</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cemeteries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED61330F930A35755C0A9619C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 27 article about transfer of Woodlawn Cemetery's archives to Avery Architectural and Fine Arts Library of Columbia University (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about the transfer of Woodlawn Cemetery's archives to the Avery Architectural and Fine Arts Library of Columbia University misstated the connection between Janet Parks, the library's curator of drawings, and Charles Warren, an architect and preservationist who suggested a transfer of archives. Ms. Parks met Mr. Warren through one of her students; she is not a former Columbia classmate of Mr. Warren's. Also, a picture caption with the article referred imprecisely to the occupation of the three women shown with Susan Olsen, executive director of Friends of Woodlawn, who was on the left. The women are members of the library staff, not researchers.</p>
+        <p>In addition, the article and a picture caption referred imprecisely to Isidor and Ida Straus's ownership of Macy's. The Strauses, who died when the Titanic sank, shared ownership of Macy's with Isidor's brother Nathan; they were not the sole owners.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about the transfer of Woodlawn Cemetery's archives to the Avery Architectural and Fine Arts Library of Columbia University misstated the connection between Janet Parks, the library's curator of drawings, and Charles Warren, an architect and preservationist who suggested a transfer of archives. Ms. Parks met Mr. Warren through one of her students; she is not a former Columbia classmate of Mr. Warren's. Also, a picture caption with the article referred imprecisely to the occupation of the three women shown with Susan Olsen, executive director of Friends of Woodlawn, who was on the left. The women are members of the library staff, not researchers.</p>
+        <p>In addition, the article and a picture caption referred imprecisely to Isidor and Ida Straus's ownership of Macy's. The Strauses, who died when the Titanic sank, shared ownership of Macy's with Isidor's brother Nathan; they were not the sole owners.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

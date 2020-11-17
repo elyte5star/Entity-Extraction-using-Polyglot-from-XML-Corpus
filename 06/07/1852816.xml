@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Mid-Atlantic: Pennsylvania: Stay Is Extended</title>
+    <meta content="07brfs-2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/us/07brfs-deport.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852816"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Deportation</classifier>
+        <location class="indexing_service">Pennsylvania</location>
+        <location class="indexing_service">Egypt</location>
+        <person class="indexing_service">Banerjee, Neela</person>
+        <person class="indexing_service">Khouzam, Sameh</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Egypt</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania</classifier>
+        <classifier class="online_producer" type="descriptor">Deportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <location class="online_producer">Egypt</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0D61E30F934A35755C0A9619C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Mid-Atlantic: Pennsylvania: Stay Is Extended</hl1>
+        <hl2 class="online_headline">Pennsylvania: Stay Is Extended</hl2>
+      </hedline>
+      <byline class="print_byline">By NEELA BANERJEE</byline>
+      <byline class="normalized_byline">Banerjee, Neela</byline>
+      <abstract>
+        <p>Federal judge in Pennsylvania extends stay of deportation for Sameh Khouzam, Egyptian Coptic Christian who faces repatriation for murder charge in Egypt; Khouzam fled to United States nine years ago, claiming that he had been detained and tortured because he refused to convert to Islam (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal judge has extended a stay of deportation for Sameh Khouzam, an Egyptian Coptic Christian who faces repatriation for a murder charge in Egypt. Mr. Khouzam, 38, of Lancaster, Pa., was to be deported June 7, but deportation has been stayed until June 18, court documents show. Mr. Khouzam fled to the United States nine years ago, claiming that he had been detained and tortured because he refused to convert to Islam. He denies the murder accusation. In 2004, a federal appeals court allowed Mr. Khouzam to remain in the United States because it determined that he would quite likely face torture if he returned to Egypt. After being freed from detention in 2006, Mr. Khouzam was detained again May 29, after the Egyptian government provided diplomatic assurances that he would not be tortured.</p>
+        <p>NEELA BANERJEE</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A federal judge has extended a stay of deportation for Sameh Khouzam, an Egyptian Coptic Christian who faces repatriation for a murder charge in Egypt.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal judge has extended a stay of deportation for Sameh Khouzam, an Egyptian Coptic Christian who faces repatriation for a murder charge in Egypt. Mr. Khouzam, 38, of Lancaster, Pa., was to be deported June 7, but deportation has been stayed until June 18, court documents show. Mr. Khouzam fled to the United States nine years ago, claiming that he had been detained and tortured because he refused to convert to Islam. He denies the murder accusation. In 2004, a federal appeals court allowed Mr. Khouzam to remain in the United States because it determined that he would quite likely face torture if he returned to Egypt. After being freed from detention in 2006, Mr. Khouzam was detained again May 29, after the Egyptian government provided diplomatic assurances that he would not be tortured.</p>
+        <p>NEELA BANERJEE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

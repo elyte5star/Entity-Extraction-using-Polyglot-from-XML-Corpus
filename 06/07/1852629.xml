@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   COOK, DAWN MATHER</title>
+    <meta content="dn060707" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852629"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">COOK, DAWN MATHER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E2DC143AF934A35755C0A9619C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   COOK, DAWN MATHER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COOK--Dawn Mather, of Boston, age 71, died at home on May 10, 2007, of a brain tumor after a long illness. Beloved wife of the late Donald Alexander Cook. She was born in New York City to Andrew Youngberg of Sweden and Eugenie Mather. Beloved mother of Constance, Malcolm and Allison. Beloved stepmother of Michael Cook of New York City. Sister of Desiree Mather of Copenhagen, Denmark and the late Jack Mather of Sag Harbor, NY. Also survived by four grandchildren. A Memorial Service will be held on Saturday, June 9 at 12 pm in the Forsyth Chapel of Forest Hills Cemetery, 95 Forest Hills Ave., Jamaica Plain, MA. A reception will follow at the Loring Greenough House in Jamaica Plain.</p>
+      </block>
+      <block class="full_text">
+        <p>COOK--Dawn Mather, of Boston, age 71, died at home on May 10, 2007, of a brain tumor after a long illness. Beloved wife of the late Donald Alexander Cook. She was born in New York City to Andrew Youngberg of Sweden and Eugenie Mather. Beloved mother of Constance, Malcolm and Allison. Beloved stepmother of Michael Cook of New York City. Sister of Desiree Mather of Copenhagen, Denmark and the late Jack Mather of Sag Harbor, NY. Also survived by four grandchildren. A Memorial Service will be held on Saturday, June 9 at 12 pm in the Forsyth Chapel of Forest Hills Cemetery, 95 Forest Hills Ave., Jamaica Plain, MA. A reception will follow at the Loring Greenough House in Jamaica Plain.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

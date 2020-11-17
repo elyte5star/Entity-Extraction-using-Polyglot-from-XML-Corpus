@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Setback for Ill Workers At Nuclear Bomb Plant</title>
+    <meta content="13rockyflats" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/13/washington/13rockyflats.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070627T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1854208"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Colorado</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Defense</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Colorado/Denver</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Colorado</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Reparations</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reparations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plutonium</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Colorado</location>
+        <location class="online_producer">Denver (Colo)</location>
+        <org class="online_producer">United Steelworkers of America</org>
+        <org class="online_producer">Health and Human Services Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DF143FF930A25755C0A9619C8B63" item-length="856" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Setback for Ill Workers At Nuclear Bomb Plant</hl1>
+        <hl2 class="online_headline">Setback for Ill Workers at Nuclear Bomb Plant</hl2>
+      </hedline>
+      <byline class="print_byline">By DAN FROSCH</byline>
+      <byline class="normalized_byline">Frosch, Dan</byline>
+      <dateline>LAKEWOOD, Colo., June 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal advisory panel recommended Tuesday that thousands of former workers at a nuclear weapons plant be denied immediate government compensation for illnesses that they say result from years of radiation exposure there.</p>
+        <p>The recommendation is a significant setback for a large number of people once employed as plutonium workers at the plant, Rocky Flats, 16 miles northwest of Denver. Their union, the United Steelworkers of America, had petitioned the Department of Health and Human Services to allow more than 3,000 of them to bypass a complex federal evaluation and compensation process established by Congress in 2000.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A federal advisory panel has recommended that former workers at a nuclear weapons plant be denied immediate government compensation.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal advisory panel recommended Tuesday that thousands of former workers at a nuclear weapons plant be denied immediate government compensation for illnesses that they say result from years of radiation exposure there.</p>
+        <p>The recommendation is a significant setback for a large number of people once employed as plutonium workers at the plant, Rocky Flats, 16 miles northwest of Denver. Their union, the United Steelworkers of America, had petitioned the Department of Health and Human Services to allow more than 3,000 of them to bypass a complex federal evaluation and compensation process established by Congress in 2000.</p>
+        <p>In that time-consuming process, sick workers from Rocky Flats and other American nuclear facilities may apply for $150,000 in compensation, plus medical benefits, if there is evidence that they suffer from any of 22 kinds of cancer linked to radiation. A worker must first file a claim with the Labor Department, a step that brings a lengthy investigation in which scientists from the National Institute for Occupational Safety and Health, through records, research and interviews, determine eligibility by establishing the radiation dose incurred by the worker. If the scientists are unable to determine the dose, the worker may file for ''special exposure cohort'' status.</p>
+        <p>It was this status that was sought by the former Rocky Flats workers. But after more than two years of hearings and debate, the panel -- the Advisory Board on Radiation and Worker Health, a unit of the Centers for Disease Control and Prevention -- decided on a vote of 6 to 4 Tuesday that the occupational safety scientists could accurately determine dose exposure for almost all of the plant's former workers.</p>
+        <p>The board did recommend that a relatively small subset of the petitioning workers be allowed to receive the expedited benefits. These workers were exposed from 1959 to 1966, and the panel found that the occupational safety agency could not be expected to establish the dose for so early a period.</p>
+        <p>The board's recommendations now go to the Department of Health and Human Services, though it is unclear when the department will rule.</p>
+        <p>''I'm stunned,'' said Laura Schultz, a former plutonium worker who has suffered from cervical and kidney cancer. ''We don't have the money to keep fighting for this.''</p>
+        <p>One panel member, Dr. James Melius, a physician, called the process ''grossly unfair'' and said the board had had little opportunity to review the accounts of the former workers, many of whom argued that the occupational safety agency's records were incomplete and vastly understated their illnesses.</p>
+        <p>But a member who voted with the majority, Mark Griffon, a consultant on radiation and hazardous waste, said he felt that the agency's scientists had proved that they could accurately reconstruct the radiation dose level for most Rocky Flats workers.</p>
+        <p>''At the end of the day,'' Mr. Griffon said, ''I do feel like we have data.''</p>
+        <p>Rocky Flats opened in 1952 and ultimately produced more than 60,000 nuclear weapons parts. It was closed in 1989 after a raid by federal agents investigating accusations of environmental crimes on the part of its operator, Rockwell International, an Energy Department contractor. The plant was designated a Superfund hazardous waste site by the Environmental Protection Agency, and a cleanup took place from 1992 to 2005. It is now a wildlife sanctuary.</p>
+        <p>In the absence of expedited benefits, a total of 2,682 Rocky Flats workers have filed claims over their illnesses, the steelworkers union says, with 807 approved and 617 denied. The rest, 1,258, are still pending.</p>
+        <p>On Monday, more than 100 Rocky Flats workers and supporters attended a hearing of the advisory panel in this Denver suburb. Some of them -- burly men with worn faces and white-haired women with slouched shoulders -- told of suffering, and sometimes death, their plain-spoken narratives in sharp contrast to the data-driven discussions of board members.</p>
+        <p>Judy Padilla, who worked as a sheet metal worker at Rocky Flats for 22 years and has since had a mastectomy, told the board: ''We ask neither for sympathy nor charity. All we ask for is the truth.''</p>
+        <p>Jennifer Thompson, a former Rocky Flats worker who is a spokeswoman for the petitioners, told the panel that it took an average of 742 days to process a successful claim. Sixty-seven workers have died waiting for their benefits to come through, Ms. Thompson said.</p>
+        <p>Charlie Wolf, a former project engineer at the plant who now suffers from brain and bone marrow cancer, said he had waited more than four years before his claim was approved. ''It's hard for me to even read anymore,'' said Mr. Wolf, whose bald head is creased by a nine-inch scar from brain surgery related to his cancer.</p>
+        <p>Gov. Bill Ritter Jr. of Colorado and all the members of the state's Congressional delegation sent letters asking the panel to support the petition. Representative Mark Udall testified on Monday that the compensation program's red tape left workers in a ''Kafkaesque nightmare.''</p>
+        <p>Michelle Dobrovolny, 42, is one of 15 family members who worked at Rocky Flats. Four have died of cancer. Five others are sick, among them Ms. Dobrovolny herself, who has a brain tumor.</p>
+        <p>''We're the forgotten bunch,'' she said.</p>
+        <p>Correction:  June 27, 2007, Wednesday  An article on June 13 about a more hospitable approach to day laborers taken by the village of Mamaroneck, N.Y., referred imprecisely to the number of hiring sites in the country. According to the National Day Labor Organizing Network, there are approximately 65 formal sites, like the one at the Strait Gate Church in Mamaroneck. But there are hundreds more informal gathering places for day laborers, including street corners and parking lots. (The first nationwide study of day laborers, released in 2006, counted more than 500 sites.)</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 27, 2007, Wednesday</p>
+        <p>An article on June 13 about a more hospitable approach to day laborers taken by the village of Mamaroneck, N.Y., referred imprecisely to the number of hiring sites in the country. According to the National Day Labor Organizing Network, there are approximately 65 formal sites, like the one at the Strait Gate Church in Mamaroneck. But there are hundreds more informal gathering places for day laborers, including street corners and parking lots. (The first nationwide study of day laborers, released in 2006, counted more than 500 sites.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

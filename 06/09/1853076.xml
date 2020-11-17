@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patient Gets Transplant Despite Crash</title>
+    <meta content="09medical" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/09/health/09medical.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853076"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lungs</classifier>
+        <classifier class="indexing_service" type="descriptor">Transplants</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Surgery and Surgeons</classifier>
+        <location class="indexing_service">Lake Michigan</location>
+        <org class="indexing_service">University of Michigan Hospital</org>
+        <person class="indexing_service">Bunkley, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Transplants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6DF163FF93AA35755C0A9619C8B63" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patient Gets Transplant Despite Crash</hl1>
+        <hl2 class="online_headline">Patient Gets Transplant Despite Crash</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY</byline>
+      <byline class="normalized_byline">Bunkley, Nick</byline>
+      <dateline>ANN ARBOR, Mich., June 8</dateline>
+      <abstract>
+        <p>Man whose lung-transplant operation was aborted after plane carrying organs from Milwaukee crashed into Lake Michigan, killing six people, is recovering at University of Michigan Hospital after receiving lungs from another donor (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man whose lung-transplant operation was aborted after the plane carrying the organs from Milwaukee crashed into Lake Michigan this week, killing six people, is recovering after receiving lungs from another donor.</p>
+        <p>Doctors at the University of Michigan said Friday that in a seven-hour operation late Wednesday they successfully transplanted a set of lungs from a new donor into the 50-year-old man, whose severe emphysema was causing the right side of his heart to fail. They would not identify the donor or the patient, who remained in critical condition on Friday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A man whose lung-transplant operation was aborted after the plane carrying the organs crashed into Lake Michigan is recovering after receiving lungs from another donor.</p>
+      </block>
+      <block class="full_text">
+        <p>A man whose lung-transplant operation was aborted after the plane carrying the organs from Milwaukee crashed into Lake Michigan this week, killing six people, is recovering after receiving lungs from another donor.</p>
+        <p>Doctors at the University of Michigan said Friday that in a seven-hour operation late Wednesday they successfully transplanted a set of lungs from a new donor into the 50-year-old man, whose severe emphysema was causing the right side of his heart to fail. They would not identify the donor or the patient, who remained in critical condition on Friday.</p>
+        <p>After the first transplant attempt on Monday, when doctors opened the patient's chest before getting news of the plane crash, his condition deteriorated considerably and he needed a ventilator to breathe, said Dr. Andrew Chang, the university's surgical director of lung transplants. While increasing the urgency of the operation, his worsening condition also raised his score that determines priority for receiving organs when a donor becomes available.</p>
+        <p>''Had he not received transplants in a timely fashion, he would have died,'' Dr. Chang said at a news briefing here on Friday.</p>
+        <p>The man had been on the waiting list for a set of lungs since last fall. People who undergo a lung transplant typically have an 80 percent chance of surviving for at least one year and a 40 percent to 60 percent chance of living more than five years, Dr. Chang said.</p>
+        <p>Dr. Jeffrey Punch, director of the university's transplant program, said the surgery had helped restore a feeling of normalcy to his team, which lost two of its 15 surgeons, two organ transport specialists and two pilots in Monday afternoon's crash. The six men had flown to Milwaukee that morning to retrieve a set of lungs from a 48-year-old female stroke victim. They had just begun the 227-mile return flight when the pilot reported losing control of the plane and it slammed into the water.</p>
+        <p>Doctors at the university were alerted late Tuesday that another donor had been found. The lungs were removed from the donor and flown on a chartered plane to an airport east of Ann Arbor, then to the university hospital on a Survival Flight helicopter. It was a process similar to what was supposed to have occurred Monday, except that this time the university did not send its own team to remove the organs because in light of the crash, the donor's hospital had offered to remove and package them. Officials would not say where that hospital is located, although they hinted that it was outside the Midwest. They said the donation followed the normal procedure.</p>
+        <p>Dr. Chang said the patient knew he did not receive the original set of lungs intended for him but was not aware of the crash.</p>
+        <p>In Milwaukee, divers continued to look for remnants of the Cessna 550 Citation II, a twin-engine jet with eight seats, and its occupants' remains. High winds and thunderstorms have hindered the search.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

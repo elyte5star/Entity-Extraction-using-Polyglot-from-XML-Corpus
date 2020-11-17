@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Unintended Consequences Of Hyperhydration</title>
+    <meta content="10letters.t-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853470"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFD81130F933A25755C0A9619C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Unintended Consequences Of Hyperhydration</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Drinking water during physical exertion is one thing, but I would like to see an exposé on the real or perceived necessity of hydration that warrants water bottles in air-conditioned executive conference rooms, college classrooms and the like (Jon Mooallem, May 27). And what ever happened to water coolers and paper cups at work and on campus, canteens when hiking, coolers at Little League games and a pitcher of water in the refrigerator at home? I am 100 percent behind Oregon's new bottle bill, but the goal that meets sustainability standards is a reduction in the number of plastic bottles we buy.</p>
+      </block>
+      <block class="full_text">
+        <p>Drinking water during physical exertion is one thing, but I would like to see an exposé on the real or perceived necessity of hydration that warrants water bottles in air-conditioned executive conference rooms, college classrooms and the like (Jon Mooallem, May 27). And what ever happened to water coolers and paper cups at work and on campus, canteens when hiking, coolers at Little League games and a pitcher of water in the refrigerator at home? I am 100 percent behind Oregon's new bottle bill, but the goal that meets sustainability standards is a reduction in the number of plastic bottles we buy.</p>
+        <p>Julie Young</p>
+        <p>Portland, Ore.</p>
+        <p>At a recent environmental rally that my daughter and I attended, we learned that plastic bottles can take 1,000 years to degrade in a landfill. On top of that, Jon Mooallem states that the Container Recycling Institute estimates that 18 million barrels of crude-oil equivalent are needed to replace all our thrown-away bottles. Aren't those reasons enough to recycle all plastic bottles?</p>
+        <p>Rachel G. Breinin</p>
+        <p>Rye, N.Y.</p>
+        <p>I disagree with the argument that emissions are reduced by forcing consumers to return their bottles themselves. First, not everyone drives to the grocery store regularly, as many rely on public transportation. Dragging our recycling with us is not the answer.</p>
+        <p>Further, the grocer and the recycling center are not always together. In my area, only one recycling center is located near a grocery store.</p>
+        <p>As for the argument that bottle deposits enforce corporate responsibility, I don't follow. Bottle deposits are paid by the consumer and hold manufacturers accountable for nothing. It would be better to acknowledge these ''deposits'' for what they are: a consumer tax on trash.</p>
+        <p>Corey O'Malley</p>
+        <p>Los Angeles</p>
+        <p>San Francisco seems to have solved the problem of discarding beverages consumed away from home: public trash cans have a separated area on top for the placement of recyclables. While originally intended to enable the city's Sanitation Department to keep them apart from nonrecyclable trash, the ''canners'' typically beat them to the punch.</p>
+        <p>Stephen Simoni</p>
+        <p>Brooklyn Heights</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

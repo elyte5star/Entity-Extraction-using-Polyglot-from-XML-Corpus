@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cast of Characters</title>
+    <meta content="05pthompson" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852325"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS: OVERHEARD"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFDA1130F936A35755C0A9619C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cast of Characters</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA TOZZI</byline>
+      <byline class="normalized_byline">Tozzi, Lisa</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The likely entrance of Fred D. Thompson, right -- a.k.a. District Attorney Arthur Branch of Manhattan -- into the 2008 presidential race raises the question: who else from the abundant ''Law &amp; Order'' shows might be a good fit in helping run a superpower?</p>
+        <p>The Caucus sounded out casting agents for advice in filling a presidential cabinet and other top positions, and they had more than 50 characters to choose from.</p>
+      </block>
+      <block class="full_text">
+        <p>The likely entrance of Fred D. Thompson, right -- a.k.a. District Attorney Arthur Branch of Manhattan -- into the 2008 presidential race raises the question: who else from the abundant ''Law &amp; Order'' shows might be a good fit in helping run a superpower?</p>
+        <p>The Caucus sounded out casting agents for advice in filling a presidential cabinet and other top positions, and they had more than 50 characters to choose from.</p>
+        <p>Bernie Telsey, a longtime casting director for Broadway shows like ''Rent,'' ''Hairspray,'' and ''Grey Gardens,'' said Lt. Anita Van Buren (played by S. Epatha Merkerson, below, far left) would be his pick for vice president. ''She's strong, strategic, smart, sensible, trustworthy. A total winner.''</p>
+        <p>Anne W. Harris, a manager in Comedy Central's talent department, said she would cast Detective John Munch (Richard Belzer, center left) as press secretary. ''While not as deft with the one-liners as the late, great Lennie Briscoe, Munch will dazzle the press corps with his witty, cynical asides.''</p>
+        <p>Ms. Harris said that in her White House, ''S.V.U.'' Detectives Elliot Stabler (Christopher Meloni, center right) and Olivia Benson (Mariska Hargitay, far right) would get married and serve as president and first lady.</p>
+        <p>And for vice president? Ms. Harris picks the man himself: Dick Wolf. ''Like Dick Cheney,'' she said, ''he's the mastermind.''</p>
+        <p>(More of our experts' picks and a chance to cast your own ''Law &amp; Order'' government at nytimes.com/thecaucus.)</p>
+        <p>LISA TOZZI</p>
+        <p>THE CAUCUS: OVERHEARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

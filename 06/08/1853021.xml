@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patent Ruling Strikes a Blow At Qualcomm</title>
+    <meta content="08phone" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/08/business/08phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Inventions and Patents</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <org class="indexing_service">United States International Trade Commission</org>
+        <org class="indexing_service">Broadcom Corp</org>
+        <org class="indexing_service">Qualcomm Inc</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Qualcomm Inc</org>
+        <org class="online_producer">Broadcom Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E5D91F30F93BA35755C0A9619C8B63" item-length="652" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patent Ruling Strikes a Blow At Qualcomm</hl1>
+        <hl2 class="online_headline">Patent Ruling Strikes a Blow at Qualcomm</hl2>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <dateline>SAN FRANCISCO, June 7</dateline>
+      <abstract>
+        <p>Patent decision by United States International Trade Commission may prevent millions of mobile phones using Qualcomm semiconductors from being imported into country; ruling claims company infringed on key patent belonging to rival Broadcom; Qualcomm plans to appeal (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Millions of new mobile phones containing certain Qualcomm semiconductors could be barred from import into the United States under a ruling issued Thursday by a federal government agency in a patent dispute.</p>
+        <p>Qualcomm said the ruling by the United States International Trade Commission, if it withstands an appeal, could prevent the importation into the United States of tens of millions of new mobile handsets designed for the Verizon, Sprint and AT&amp;T Wireless networks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The U.S. International Trade Commission ordered a ban on Thursday of some imported cellphones with Qualcomm chips that infringe on a Broadcom patent.</p>
+      </block>
+      <block class="full_text">
+        <p>Millions of new mobile phones containing certain Qualcomm semiconductors could be barred from import into the United States under a ruling issued Thursday by a federal government agency in a patent dispute.</p>
+        <p>Qualcomm said the ruling by the United States International Trade Commission, if it withstands an appeal, could prevent the importation into the United States of tens of millions of new mobile handsets designed for the Verizon, Sprint and AT&amp;T Wireless networks.</p>
+        <p>The agency ruled that Qualcomm, a semiconductor company based in San Diego, had infringed on a key patent belonging to Broadcom, a competing chip company based in Irvine, Calif., that is used in the design of chips made for advanced 3G, or third-generation, smart cellphones. Qualcomm said that it planned to appeal immediately to the federal court to block the ruling. The company also said that it planned to appeal to President Bush, whose trade representative, Susan C. Schwab, has 60 days within which to veto the ruling. The company said it sought ''to avoid irreparable harm to U.S. consumers'' and injury to the economy.</p>
+        <p>Nancy Stark, a spokeswoman for Verizon Wireless, said that company would ask the White House to void the ruling and the federal appeals court to stay it. ''It's bad for the industry and bad for the wireless consumer,'' she said. ''It's going to freeze innovation.''</p>
+        <p>Tim Luke, a telecommunications industry analyst with Lehman Brothers, said that while the I.T.C. ruling is ''big,'' it probably does not mean any disruption in handset supplies. Investors ''will be looking for a settlement between Qualcomm and Broadcom,'' he said, adding that Qualcomm also might be able to find a technological fix so that it does not use the technology covered by the Broadcom patent.</p>
+        <p>Qualcomm's ''fundamental business is really strong and they'll have to think of a way to work around this,'' Mr. Luke said.</p>
+        <p>The I.T.C. ruled that a patent governing power management in cellphone chips that is held by Broadcom was violated. Broadcom asserts that Qualcomm is using the power management technology without paying licensing royalties.</p>
+        <p>''This is tremendously significant,'' said David Rosmann, vice president of intellectual property litigation for Broadcom. ''Qualcomm is either going to need to take a license or they will not be able the provide the next generation of handsets.''</p>
+        <p>The I.T.C. ruling affects only new models of handsets. Under the ruling, Qualcomm would still be permitted to deliver models that already are on the market as of June 7, whether or not they use the patented technology.</p>
+        <p>Qualcomm officials said in a conference call with investors late Thursday that it had been negotiating with Broadcom to establish royalty rates. But Qualcomm officials said the rates currently under discussion were so prohibitive that, if met, would undermine Qualcomm's business model.</p>
+        <p>Paul E. Jacobs, chief executive of Qualcomm, said the I.T.C. overstepped its statutory authority and the decision had the potential to disrupt the supply of handsets in a way that, he said, could hurt wireless carriers, and consumers.</p>
+        <p>The issue ruled on by the I.T.C. is part of a broader dispute between Qualcomm, one of the biggest makers in the world of chips for mobile phones, and Broadcom, which makes chips for many digital devices and is trying to gain more business in the mobile phone market. Last week, Broadcom prevailed in a jury trial in United States District Court in Santa Ana, Calif., in which it claimed Qualcomm had infringed three additional patents. The technology covered in those patents includes methods for transmission of high-speed data over mobile phones.</p>
+        <p>Broadcom has also sued Qualcomm over the patent covered in the I.T.C. ruling, but a federal court delayed ruling on the case until the I.T.C. acted. Four commissioners supported the decision, while two others recommended a more limited penalty be imposed on Qualcomm. Their opinions will be made public after both companies remove any confidential business information from them.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

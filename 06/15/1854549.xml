@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Street Scene; THE CHURN</title>
+    <meta content="15churn" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/15/business/15churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854549"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E4DE153FF936A25755C0A9619C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Street Scene; THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+      <abstract>
+        <p>The Churn column on some recent corporate appointments (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>The Blackstone Group, the private equity firm, has hired Michael Nash as a senior managing director in its property group. Mr. Nash previously spent 10 years at Merrill Lynch &amp; Company, where he led the firm's real estate principal investment group for the Americas. The equity firm also hired Joan Solotar, formerly with Bank of America, to work in investor relations. She will be the senior managing director responsible for public markets.</p>
+        <p>Herbert Perez has been named head of global currencies for the Americas at the Bank of America Corporation. Mr. Perez, 42, succeeded Alain Delelis, who resigned in March.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>The Blackstone Group, the private equity firm, has hired Michael Nash as a senior managing director in its property group. Mr. Nash previously spent 10 years at Merrill Lynch &amp; Company, where he led the firm's real estate principal investment group for the Americas. The equity firm also hired Joan Solotar, formerly with Bank of America, to work in investor relations. She will be the senior managing director responsible for public markets.</p>
+        <p>Herbert Perez has been named head of global currencies for the Americas at the Bank of America Corporation. Mr. Perez, 42, succeeded Alain Delelis, who resigned in March.</p>
+        <p>Darcy H. Stern has been named director of research, global equities, at Rockefeller &amp; Company, a global wealth management firm serving high-net-worth individuals, families, trusts, foundations and endowments.</p>
+        <p>Merrill Lynch &amp; Company has named James Quigley as chairman of the international unit to help globalize the third-largest securities firm. He will be responsible for Merrill Lynch International's relationships with clients around the world, and will continue as a vice chairman and a member of the firm's operating committee.</p>
+        <p>The unit of the Justice Department that monitors bankruptcy cases has appointed Diana G. Adams to the position of United States trustee for New York and two other states, promoting her to a job she performed on a provisional basis since April 2006. Ms. Adams had served as an assistant trustee for the judicial district encompassing New York, Connecticut and Vermont.</p>
+        <p>FBR Capital Markets Corporation, a unit of the Friedman, Billings, Ramsey Group, said that David M. Dixon has joined the firm as a senior vice president and senior analyst in its technology, media and telecommunications research group.</p>
+        <p>Mark Sofyanos has joined KeyBank as national sales manager of KeyBank Mortgage, a division of Key's Community Bank.</p>
+        <p>The equity firm Kohlberg Kravis Roberts &amp; Company, said it had appointed Richard L. Clemmer, a technology industry executive, as a senior adviser.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

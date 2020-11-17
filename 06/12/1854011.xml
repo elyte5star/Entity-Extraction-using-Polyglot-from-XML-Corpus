@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hearst Sues For Access To Names In Inquiry</title>
+    <meta content="12mitchell" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/12/sports/baseball/12mitchell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854011"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Steroids</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <person class="online_producer">Radomski, Kirk</person>
+        <person class="online_producer">Mitchell, George J</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7D9173FF931A25755C0A9619C8B63" item-length="680" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hearst Sues For Access To Names In Inquiry</hl1>
+        <hl2 class="online_headline">Hearst Sues for Access to Names in Inquiry</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL S. SCHMIDT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the United States attorney's office announced that it had reached a plea agreement with Kirk Radomski, a former Mets clubhouse attendant who said he sold performance-enhancing drugs to major league baseball players, the government said it would provide information from its investigation to baseball for its own inquiry into drug use.</p>
+        <p>Now the Hearst Corporation, which owns 12 daily newspapers, including The San Francisco Chronicle, says it is entitled to that same information. The company is arguing that the former Senator George J. Mitchell, who is conducting the investigation, is acting as a private citizen and that the federal government cannot selectively give information to such people.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The government had uncovered the names of 36 current and former players to whom he had supplied drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>When the United States attorney's office announced that it had reached a plea agreement with Kirk Radomski, a former Mets clubhouse attendant who said he sold performance-enhancing drugs to major league baseball players, the government said it would provide information from its investigation to baseball for its own inquiry into drug use.</p>
+        <p>Now the Hearst Corporation, which owns 12 daily newspapers, including The San Francisco Chronicle, says it is entitled to that same information. The company is arguing that the former Senator George J. Mitchell, who is conducting the investigation, is acting as a private citizen and that the federal government cannot selectively give information to such people.</p>
+        <p>If Mitchell was given the names, the public should have access to them, too, Hearst is arguing in a lawsuit it filed in federal court last week.</p>
+        <p>''You don't have two tiers of persons in this country,'' Eve Burton, the vice president and general counsel of the Hearst Corporation, said yesterday. ''The minute they go to Mitchell, they are public. He is a private person, who is being paid hundreds of dollars an hour to do a private investigation.''</p>
+        <p>The government, through its investigation of Radomski, had uncovered the names of 36 current and former players to whom he had supplied drugs. When a search warrant from the case -- which originally included the names -- was unsealed April 27, the day Radomski pleaded guilty, the names of the athletes were blacked out.</p>
+        <p>That day, lawyers at the United States attorney's office said evidence from Radomski would be turned over to the special commission set up to examine the use of performance-enhancing drugs in Major League Baseball on an item-by-item basis. Radomski also agreed to talk to investigators for the commission chaired by Mitchell, who was appointed by Commissioner Bud Selig.</p>
+        <p>That cooperation, and the fact that Mitchell is believed to have access to the blacked-out names, led Hearst to file the lawsuit.</p>
+        <p>''The only thing Mitchell wants that Radomski has is the names of the people,'' Burton said. ''There is nothing else besides the names that Mitchell wants, and we have a right to that information, too.''</p>
+        <p>Mitchell has not publicly stated whether Radomski has turned over the names of the players he says he supplied steroids to, but Burton said that it was clear. ''Mitchell is trying to interview the players,'' she said. ''How else does he know who the players are if Radomski didn't tell him?''</p>
+        <p>The relationship between the federal investigation and Mitchell has opened the door for the names of athletes cited in the search warrant to become public, legal experts say.</p>
+        <p>''Every time you give information outside the government, a First Amendment argument can easily be made for general disclosure, and it is unclear if they calculated that risk before saying they would hand information over to Mitchell,'' said Daniel C. Richman, a former federal prosecutor who is now a professor at Columbia Law School.</p>
+        <p>Dan A. Farber, a professor at Boalt Hall School of Law at the University of California Berkeley, said of the government, ''They made it a harder argument to win because they gave out confidential information and undercut their argument about confidentiality.''</p>
+        <p>Although the investigation is being led by federal prosecutors in the Northern District of California, the case was filed in the Eastern District of New York because the search warrant was executed on Radomski's home on Long Island.</p>
+        <p>The government appears poised to fight the suit, and oral arguments should be heard in the next month.</p>
+        <p>It is unclear if Mitchell plans to publish the names of the 36 players in his final report. When asked if Mitchell had been given permission to make them public, Matt Parrella, an assistant United States attorney who is the lead prosecutor on Radomski's case, declined to comment.</p>
+        <p>Mitchell, through an investigation spokesman, declined to comment on whether he would publish the names.</p>
+        <p>Michael Weiner, the general counsel for the players union, said that the union had not made a decision on what its course of action would be in the suit.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

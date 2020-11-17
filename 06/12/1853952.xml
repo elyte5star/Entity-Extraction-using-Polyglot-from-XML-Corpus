@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MONEY FOCUS</title>
+    <meta content="12pblue" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853952"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE CAUCUS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John Edwards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E0DB173FF931A25755C0A9619C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MONEY FOCUS</hl1>
+      </hedline>
+      <byline class="print_byline">By LESLIE WAYNE</byline>
+      <byline class="normalized_byline">Wayne, Leslie</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the presidential candidates go through the round of fund-raising that ends June 30, the numbers are clicking at ActBlue, an Internet site that has already collected $23 million for Democratic office-seekers.</p>
+        <p>ActBlue seeks to be to the campaign fund-raising world what PayPal is to bill paying: an Internet mechanism for making payments. Rather than attending dinners or flying around the country, candidates get money by posting their information on ActBlue or linking to it through their own campaign Web sites.</p>
+      </block>
+      <block class="full_text">
+        <p>As the presidential candidates go through the round of fund-raising that ends June 30, the numbers are clicking at ActBlue, an Internet site that has already collected $23 million for Democratic office-seekers.</p>
+        <p>ActBlue seeks to be to the campaign fund-raising world what PayPal is to bill paying: an Internet mechanism for making payments. Rather than attending dinners or flying around the country, candidates get money by posting their information on ActBlue or linking to it through their own campaign Web sites.</p>
+        <p>And individuals can become Democratic fund-raisers by creating ActBlue pages to solicit donations for their favorite candidates.</p>
+        <p>''We know how fund-raising is going, minute by minute,'' said Matt DeBergalis, who created the site along with a fellow computer geek, Ben Rahn.</p>
+        <p>So in the presidential race, who is leading the ActBlue pack? By a wide margin, it is John Edwards, who has linked his campaign site to ActBlue, so all online donations to his campaign are routed through the ActBlue site. So far, he has raised $3.16 million on ActBlue.</p>
+        <p>Senators Hillary Rodham Clinton and Barack Obama have not linked their campaign sites to ActBlue, and the numbers show: Mrs. Clinton has raised $441 on the site, and Mr. Obama has raised $23,348.</p>
+        <p>LESLIE WAYNE</p>
+        <p>THE CAUCUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

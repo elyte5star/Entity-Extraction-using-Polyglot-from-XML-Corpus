@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Cellphones Multiply, Phone Books Get Slimmer</title>
+    <meta content="07phone" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/07/nyregion/07phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1852748"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Directories</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Directories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6D71E30F934A35755C0A9619C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Cellphones Multiply, Phone Books Get Slimmer</hl1>
+        <hl2 class="online_headline">As Cellphones Multiply, Phone Books Get Slimmer</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Parents have used them as booster chairs for children. Marksmen have fired at them for target practice. And musclemen have ripped them in half as a show of strength.</p>
+        <p>But the fat phone book, a fixture of the urban American household in the last century, is losing some of its girth as more people give up their land lines for cellphones. When they do, their names disappear from the phone book.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The fat phone book, a fixture of the urban American household in the last century, is losing some of its girth as more people give up their land lines for cellphones.</p>
+      </block>
+      <block class="full_text">
+        <p>Parents have used them as booster chairs for children. Marksmen have fired at them for target practice. And musclemen have ripped them in half as a show of strength.</p>
+        <p>But the fat phone book, a fixture of the urban American household in the last century, is losing some of its girth as more people give up their land lines for cellphones. When they do, their names disappear from the phone book.</p>
+        <p>In Manhattan, the population in recent years has been growing at an annual rate of about 10,000 people, to about 1.6 million residents now. But the 2007 Verizon White Pages was 142 pages smaller than the 2006 edition. At 1,796 pages of listings, it is the smallest residential phone book for Manhattan since Verizon began publishing them in 2001.</p>
+        <p>The story is the same in other cities. Phone books in Washington, D.C., Los Angeles, Denver and Phoenix have also been shrinking, even as the populations have grown. And in fast-growing Las Vegas, white page listings grew by a meager 12 pages this year over last.</p>
+        <p>At the end of last year, 7.2 percent of American households used only a cellphone, up from just 0.7 percent six years earlier, according to TNS Telecom, a research company.</p>
+        <p>Americans have not been eager to list their cell numbers in phone books. Consumers and privacy advocates balked at the idea in 2004, when most of the big wireless carriers said they wanted to compile a nationwide directory.</p>
+        <p>Cellphones may make it easier for people to reach each other, yet Americans are very guarded about whom they want calling them.</p>
+        <p>But what people gain in privacy is lost in a sense of community, reflected in shrinking phone books, said James E. Katz, chairman of the communications department at Rutgers University.</p>
+        <p>''People would meet someone, want to know where they lived, and look up their name in the phone book. And there was a certain ritual aspect to it when people would look forward to the new phone book,'' Mr. Katz said. ''So in a sense, it was a way of social visibility and social involvement. That whole way of doing things, it seems, has largely disappeared.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

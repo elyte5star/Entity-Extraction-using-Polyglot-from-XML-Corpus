@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Purchase Building</title>
+    <meta content="10relett-2" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853370"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFD9163FF933A25755C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Purchase Building</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article on Old Fulton Street (Streetscapes: ''From Ghost Town to Park Gateway,'' May 20) was misleading on the issue of whether to demolish the old Purchase building.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article on Old Fulton Street (Streetscapes: ''From Ghost Town to Park Gateway,'' May 20) was misleading on the issue of whether to demolish the old Purchase building.</p>
+        <p>The building is much later and more modern than the historic 1820s structures that define Old Fulton Street and the Brooklyn Heights area. It is out of character with the many 19th-century buildings in the pictures accompanying the article and with any other structures either in Brooklyn Heights or Dumbo.</p>
+        <p>Chris Wall  Brooklyn Heights</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
