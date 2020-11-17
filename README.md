@@ -1,5 +1,6 @@
 # XML_Parser
- Entity extraction with polyglot
+ Entity extraction with polyglot.
+ 
 I am using Anaconda prompt.
 
 I am Using windows.
