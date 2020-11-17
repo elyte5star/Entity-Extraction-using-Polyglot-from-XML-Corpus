@@ -2,14 +2,20 @@
  Entity extraction with polyglot
 I am using Anaconda prompt.
 I am Using windows.
+
 #==============================#
 #Important Libraries to install#
 #==============================#
+
 pip install nltk
+
 import nltk
+
 nltk.download('punkt')
+
 from nltk import word_tokenize
-import xml.etree.ElementTree as ET ##This is used because the corpus contain documents with xml file format.
+
+import xml.etree.ElementTree as ET   ##This is used because the corpus contain documents with xml file format.
 
 Install Polyglot
 #===============================#
@@ -49,4 +55,5 @@ pip install C:\Users\check\<name of location of the binary file> PyICU-2.6-cp36-
 pip install C:\Users\check\<name of location of the binary file> pycld2-0.41-cp36-cp36m-win_amd64.whl
 
 Next step
+
 pip install morfessor
