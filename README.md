@@ -41,8 +41,16 @@ To skip this issue use the polyglot folder i attached.
 
 For polyglot.text to work it has shared requirements which includes wheel, PyICU, pycld2, six, futures, morfessor, and numpy.
 
+pip install pyicu
+
+pip install pycld2 
+
+
 This link provides a perfect guide on how to install everything correctly:
 https://medium.com/@tlachacml/a-guide-for-using-polyglot-on-windows-8cbd8f97c7b0
+
+
+If you couldnt install pyicu or pycld2 with pip,try to download the binary files.
 
 Solution
 Download the binary files from : https://www.lfd.uci.edu/~gohlke/pythonlibs/
@@ -58,4 +66,4 @@ pip install C:\Users\check\<name of location of the binary file> pycld2-0.41-cp3
 
 Next step
 
-pip install morfessor
+pip install Morfessor
