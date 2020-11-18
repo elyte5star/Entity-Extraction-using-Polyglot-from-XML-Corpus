@@ -41,18 +41,18 @@ To skip this issue use the polyglot folder i attached.
 
 For polyglot.text to work it has shared requirements which includes wheel, PyICU, pycld2, six, futures, morfessor, and numpy.
 
-pip install pyicu
+pip3 install pyicu
 
-pip install pycld2 
+pip3 install pycld2 
 
 
-This link provides a perfect guide on how to install everything correctly:
+This link provides a perfect guide on how to install everything correctly for windows:
 https://medium.com/@tlachacml/a-guide-for-using-polyglot-on-windows-8cbd8f97c7b0
 
 
 If you couldnt install pyicu or pycld2 with pip,try to download the binary files.
 
-Solution
+Solution(windows)
 Download the binary files from : https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 Select the correct PyICU and pycld2 scripts. Make sure the numbers after “cp” are the same as your version of Python, for instance since my version number was 3.7.6, I wanted a Windows binary with “cp37”. Additionally, make sure the ending of the Windows binary is “win32” if you have 32-bit Python program and “amd64” if you have a 64-bit Python program.
@@ -60,10 +60,10 @@ Click on the correct Window binaries for PyICU and pycld2. This will automatical
 
 Now u can use pip like this for example:
 
-pip install C:\Users\check\<name of location of the binary file> PyICU-2.6-cp36-cp36m-win_amd64.whl
+pip3 install C:\Users\check\<name of location of the binary file> PyICU-2.6-cp36-cp36m-win_amd64.whl
 
-pip install C:\Users\check\<name of location of the binary file> pycld2-0.41-cp36-cp36m-win_amd64.whl
+pip3 install C:\Users\check\<name of location of the binary file> pycld2-0.41-cp36-cp36m-win_amd64.whl
 
 Next step
 
-pip install Morfessor
+pip3 install Morfessor
